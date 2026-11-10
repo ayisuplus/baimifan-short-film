@@ -1,0 +1,55 @@
+{
+  "batch": {
+    "batch_number": 40,
+    "batch_id": "GB030-1",
+    "attempt_id": "GB030-1-v003-CY029B2-r002",
+    "title": "放出一枚火种、火种主观逼近空架、触木后骤然燃起、收手后脱力、及时托住",
+    "shot_ids": [
+      "CY029B2"
+    ],
+    "film_start": 440.662729,
+    "part_offset": 4.36,
+    "used_seconds": 2,
+    "duration": 4,
+    "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。4秒单一连续环境特写。首帧只有空木架、空锁扣、冷蓝窗光和湿地。前2秒摄影机平稳直线前进，朝立柱铁箍下方同一块裸露木纹靠近，末尾木纹放大到占据画面，视线不偏离、不翻滚；2–4秒极慢靠近继续。所有画面物体保持静态，所有灯烛熄灭，无发光点，无火焰、暖色光、烟、火球、人物或手。只有相机运动与冷窗微光，不生成任何中心特效。无对白。",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/Metaso-H3-v003/修订参考/GB030-1-CY029B2-cold-pov-firstframe-r002.png",
+        "sha256": "b6878be69f86f0c09118ef2bc91b3578642c72c891082d584d89f1b49a15cca3",
+        "role": "first_frame"
+      }
+    ],
+    "estimated_credits": 40.8,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "上一候选中央新增火体和远处蜡烛复燃；改用纯冷木纹首帧，只移动摄影机，腾燃留下一镜。",
+    "repair_of": {
+      "author_rejected_version": "v002",
+      "batch_id": "GB030-1"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json",
+    "mode": "first_frame"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。4秒单一连续环境特写。首帧只有空木架、空锁扣、冷蓝窗光和湿地。前2秒摄影机平稳直线前进，朝立柱铁箍下方同一块裸露木纹靠近，末尾木纹放大到占据画面，视线不偏离、不翻滚；2–4秒极慢靠近继续。所有画面物体保持静态，所有灯烛熄灭，无发光点，无火焰、暖色光、烟、火球、人物或手。只有相机运动与冷窗微光，不生成任何中心特效。无对白。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115183841278746624"
+        },
+        "role": "first_frame"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 4,
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者要求修复第6、11、20、21、39批剧情与空间错误，沿用已授权Metaso H3积分；40仅必要接头。无充值。"
+}

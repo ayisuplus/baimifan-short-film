@@ -1,0 +1,34 @@
+{
+  "asset_id": "CHAR-GPT",
+  "version": "v002",
+  "date": "2026-10-20",
+  "engine": "built-in image_gen",
+  "actual_request": {
+    "prompt": "Precise cleanup edit of the supplied transparent character cutout. Preserve the exact character identity, pose, silhouette, face, horns, hair, wings, dress, ornaments, shoes, tail, all colors and interior drawing. Fix ONLY the visible stray neon magenta/blue fringe, isolated colored specks and ragged white/black matte residue along the outside edge of the hair, horns, wing tips, tail and dress hem. Restore clean naturally antialiased alpha edges with fully transparent surroundings; keep genuinely translucent fine hair and delicate white edges, do not cut away pale hair, cloth or wings. White/lavender anime dragon girl remains unchanged. Do not turn the background opaque, do not alter anatomy or garment, do not add text or background or marks. Maintain a small transparent margin around the full silhouette.",
+    "referenced_image_paths": [
+      "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-e70b96ee-ac40-4a35-805d-5d1861bd3c7c.png"
+    ],
+    "transparent_background": true
+  },
+  "references": [
+    {
+      "actual_input_path": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-e70b96ee-ac40-4a35-805d-5d1861bd3c7c.png",
+      "project_path": "资产/图像/CHAR-GPT-v001.png",
+      "sha256": "3809f0516184506f51d9fbfb8222814c1d2a9458b606e90dca8e21bbc129e00b"
+    }
+  ],
+  "output": "资产/图像/CHAR-GPT-v002.png",
+  "original_output": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-e40e01f0-d9dc-466f-a4b7-06f25a77ae3d.png",
+  "sha256": "15c23254e7c718cb7b61305db8d585f06fe0a3d5ccf06d0f1fd3140127990896",
+  "image": {
+    "width": 949,
+    "height": 1657,
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "status": "历史候选：透明边缘有杂色，保留不覆盖",
+  "evidence": "已实际查看生成图片；文件可解码、项目副本哈希与生成原件一致。不是动态或作者采用验收。"
+}

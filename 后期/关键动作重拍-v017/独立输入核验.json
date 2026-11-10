@@ -1,0 +1,74 @@
+{
+  "source_sha256": "f0e6bde36b8e2e3f1d55f0aa91411cd9ef129b25bdf23c895c047833056c65f2",
+  "unaffected_batches": 35,
+  "changed_model": [],
+  "affected": [
+    {
+      "batch": "GB010",
+      "refs": 6,
+      "h3_chars": 1833,
+      "seedance_chars": 2134,
+      "selected": "minimax-h3"
+    },
+    {
+      "batch": "GB012",
+      "refs": 7,
+      "h3_chars": 1874,
+      "seedance_chars": 2250,
+      "selected": "minimax-h3"
+    },
+    {
+      "batch": "GB013",
+      "refs": 9,
+      "h3_chars": 1931,
+      "seedance_chars": 2347,
+      "selected": "minimax-h3"
+    },
+    {
+      "batch": "GB024",
+      "refs": 7,
+      "h3_chars": 1980,
+      "seedance_chars": 2357,
+      "selected": "minimax-h3"
+    },
+    {
+      "batch": "GB027",
+      "refs": 8,
+      "h3_chars": 2640,
+      "seedance_chars": 2973,
+      "selected": "seedance25"
+    },
+    {
+      "batch": "GB030-1",
+      "refs": 7,
+      "h3_chars": 2926,
+      "seedance_chars": 3273,
+      "selected": "seedance25"
+    }
+  ],
+  "state_progression": [
+    {
+      "slot": 8,
+      "offset": 0,
+      "label": "起段空间与迈下扶持参考，非固定首帧",
+      "label_en": "Opening wide spatial and support reference, not a fixed first frame"
+    },
+    {
+      "slot": 7,
+      "offset": 2.7,
+      "label": "站稳后寻找小鱼的近景状态",
+      "label_en": "Close state after standing, looking for the child"
+    }
+  ],
+  "board_sha256": "31db1737d5859e0654154eb0d3d4ba2bfb97700e10cd9e4a490345ca31bcf2cc",
+  "lossless_capacity_dedup": {
+    "batch": "GB024",
+    "before_chars": 2019,
+    "after_chars": 1980,
+    "removed_only_duplicate_camera_sentence": "近低机位沿同一上升轨迹轻仰跟，主体前后连续；背景中殿已破顶，后殿不新增破口。",
+    "source_and_action_note_unchanged": true
+  },
+  "all_identity_inputs_retained": true,
+  "japanese_text_timing_unchanged": true,
+  "status": "passed"
+}

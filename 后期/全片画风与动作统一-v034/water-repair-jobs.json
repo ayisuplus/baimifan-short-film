@@ -1,0 +1,34 @@
+[
+  {
+    "name": "075-video-r2",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\075-key-r1_00001_.png",
+    "key_review": "pass",
+    "frames": 84,
+    "seed": 202610303445,
+    "prompt": "Animate this exact hand-drawn Japanese gothic 2D anime image. Keep strong ink outlines, hard-edged two-tone cel shadows, matte skin, broad connected hair locks and painted backgrounds in every frame. No photorealistic fluid, PBR, plastic skin, 3D animation, random cuts, camera orbit, changing identities, extra people or extra limbs. This is an EMPTY exterior establishing view looking upward past cathedral spires. There are ZERO characters anywhere in the shot: no human head, no hair, no hood, no arms, no hands, no person entering the foreground. The same intact gothic spires remain fixed as scale references. Only layered dark clouds accelerate inward around a deep sky vortex. Thin blue streams converge and the center emits a concentrated blue glow near the end. A brief inward acceleration builds tension; end before any water dragon appears. Fixed low camera with no rotation or new architecture. The water is summoned by GPT INSIDE the cathedral, so no outside caster exists."
+  },
+  {
+    "name": "080-video-r2",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\080-key-r1_00001_.png",
+    "key_review": "pass",
+    "frames": 72,
+    "seed": 202610303446,
+    "prompt": "Animate this exact hand-drawn Japanese gothic 2D anime image. Keep strong ink outlines, hard-edged two-tone cel shadows, matte skin, broad connected hair locks and painted backgrounds in every frame. No photorealistic fluid, PBR, plastic skin, 3D animation, random cuts, camera orbit, changing identities, extra people or extra limbs. GPT hovers in place, silver-white hair, two horns, exactly two MEMBRANOUS wings and one tail. Start from hands near chest. She immediately extends her RIGHT arm decisively toward screen LEFT and points her index finger along a clear attack line. One blue WATER dragon behind her turns its head toward that same screen-left line, pulls its neck back only slightly, then drives its head hard off screen LEFT, its continuous neck following. Her hair and gown recoil once after the dragon passes. Keep the dragon head beside GPT until it launches, never sweep the head across the lens or around the viewer. No full circle around GPT, no orbit, no second head or duplicate dragon. Fixed medium-wide camera, restrained single impact jolt as it launches. The dragon remains blue water and GPT remains human. Preserve the single roof hole and intact side/rear vault."
+  },
+  {
+    "name": "077-key-r2",
+    "type": "key",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\077-key-r1_00001_.png",
+    "seed": 202610303447,
+    "prompt": "Redraw this image as traditional hand-drawn Japanese gothic fantasy anime: clean dark ink contours, hard-edged two-tone cel shadows, matte skin and broad painted background shapes. Keep composition and story identities. No glossy 3D, PBR, photoreal reflections, text or captions. Keep the high oblique exterior view of the same cathedral at night. The left long blue roof is the CENTRAL NAVE and remains closed before impact; the rear altar apse on the right must have a continuous intact roof, not a roofless miniature room or exposed interior. At upper-left draw ONE clearly recognizable BLUE WATER DRAGON head descending diagonally toward the midpoint of the central nave roof: long muzzle, two small horns, open mouth, luminous eyes, fin-like cheek silhouettes. The head leads a thick flowing neck with one strong S curve; its body trails out of frame into the clouds. This is a blue water construct drawn with two flat blue values, white foam outlines and crisp graphic highlights, NOT a glass spear, funnel, featureless water column or white dragon. Leave a readable air gap between dragon nose and the ONE intended roof impact point. All nearby towers, side walls and rear roof remain intact. No impact yet, no people."
+  },
+  {
+    "name": "085-key-r3",
+    "type": "key",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\085-key-r2_00001_.png",
+    "seed": 202610303448,
+    "prompt": "Redraw this image as traditional hand-drawn Japanese gothic fantasy anime: clean dark ink contours, hard-edged two-tone cel shadows, matte skin and broad painted background shapes. Keep composition and story identities. No glossy 3D, PBR, photoreal reflections, text or captions. Repair three continuity errors precisely. 1: It is NIGHT. REBUILD all missing rear altar vault and side ceilings with dark intact gothic stone. Leave only ONE compact jagged opening in the CENTRAL NAVE vault, away from the rear altar; show dark navy night clouds through that single opening, never white daytime sky. Remove most wall rubble; columns and walls stand intact. 2: ALL visible lamps, candles and braziers are extinguished. Remove every orange flame on staircase posts and all warm light sources. Cool blue moonlight and simple painted wet-floor strokes only. 3: At lower RIGHT replace the purple-haired white-flower maid with QIANWEN: adult deep blue-violet-haired woman, two long front braids and a braided crown, a small ornate GOLD forehead ornament, dark navy/black GOLD-EMBROIDERED outer robe over pale white inner dress. NO white flower headband, no maid cap, no veil. She holds the small blue-whale-hatted child securely on her LEFT arm, with a closed ornate fan in her RIGHT hand. Keep them sheltered behind the side pillar. Keep the red-haired male priest farther away at foot of the high altar stairs, with no flower or veil. The opaque indigo dome is on the HIGHEST ALTAR. Keep only GPT pale gown hem and legs descending at foreground LEFT, feet not yet touching the wet floor. No duplicate GPT and no dragon in this frame."
+  }
+]

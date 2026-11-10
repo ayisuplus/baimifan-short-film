@@ -1,0 +1,205 @@
+{
+  "batch_id": "GB006",
+  "node_id": "v-KGPTKlO474",
+  "quoted_credits": 182,
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-KGPTKlO474",
+    "node": {
+      "id": "v-KGPTKlO474",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第7批 · 等待与钻洞 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Mixed 1}} =DeepSeek四视图：同一人四角度，身份服饰保持\n{{Mixed 2}} =Claude四视图：同一人四角度，身份服饰保持\n{{Mixed 3}} =构图状态，非强制首帧\n{{Mixed 4}} =构图状态，非强制首帧\n{{Mixed 5}} =构图状态，非强制首帧\n{{Mixed 6}} =构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，13秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–4s {{Mixed 3}} ；画内:DeepSeek、教徒。以钟尾转夜风明确日转夜与地点变化；画外召令先建立教徒离堂理由。藏身处中远景先保洞口与门口关系，轻摇跟最后提灯去向，再回收少量构图给宝宝挪身。小鱼在侧墙洞口等待；听见“一人一根”的取柴召令，见最后提灯转入柴库才动身。 人物:教徒为远处持灯离堂身影；召令来自画外教徒，不指定同一张脸。 声音: 教徒在镜内0–2.87秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 2] 4–7s {{Mixed 4}} ；画内:DeepSeek。从洞外挪身切洞内迎她探入，石沿与前镜为同一洞口，不改变入洞方向。洞内贴地近景固定在凸石与帽鳍交点，微调俯角容纳按帽双手，不跟头钻出洞。鲸鱼帽子的侧鳍被凸出的石沿挂住。DeepSeek 卡在洞口，皱眉屏住呼吸，两只小手把软帽往下压，试着让侧鳍脱开。 声音:石屑与布料摩擦，教堂内只有烛火轻响，没有吟唱。\n[Shot 3] 7–9s {{Mixed 5}} ；画内:DeepSeek。切在持续按帽动作上，侧鳍现在才脱开；不重演探头或再次卡住。低位侧近景随头肩短短后退让出入洞空间，身体拖入即停，不把洞口移位。侧鳍在按压下脱开石沿，软帽仍被低矮洞顶压扁。她将头肩从同一左侧墙洞一点点挤入，双手撑住堂内地面，再把身体拖进来。 声音:石屑、布料摩擦、空堂烛火轻响，没有吟唱。\n[Shot 4] 9–13s {{Mixed 6}} ；画内:DeepSeek、Claude。同一次落地接蹲姿，抬头动作引导空间揭示；以视线切到Claude。左前景宝宝起身时缓慢向上摇开成空堂远景，揭示高阶与刑架，再停住让她沿阴影移动。宝宝在下层抬头看见长阶顶端受缚的Claude，沿左侧阴影靠近中央长阶，镜尾开始登阶。 十字架后墙两侧长椅落地，壁烛与高位中央吊灯点亮。 人物:Claude在远处最高祭坛受缚。 声音:落地闷响、长堂回声与烛火；没有人声。\n0–2.87s 教徒（画外） 画外连续，不让在画者代说:<d>[Japanese] こくじんの薪を、一人一本持ってこい。</d>；仅一次。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png",
+              "label": "CHAR-DEEPSEEK-TURN-v003 · H3留白适配"
+            },
+            {
+              "nodeId": "i-uKDIVWmghN",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/88234e0405150bf25c82642dd7493f40996749c6.png",
+              "label": "CHAR-CLAUDE-TURN-v001 · H3留白适配"
+            },
+            {
+              "nodeId": "i-iJRAp8Tl3L",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/cc503bc9c910e8c2dd57122326acfc3441f69564.png",
+              "label": "CY010A-v011"
+            },
+            {
+              "nodeId": "i-jNZlhsZNIF",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5a4ac216d5f900ab6fa924f21e8c4cdc971e7cba.png",
+              "label": "CY011-v011"
+            },
+            {
+              "nodeId": "i-M6foZ7xqr0",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/920a5165746c39a98d7cf84b9912fe728bbac50b.png",
+              "label": "CY011A-v011"
+            },
+            {
+              "nodeId": "i-Np05Dovf8r",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/acd1b68443ff202c01b00e808a406dacf9a71e5a.png",
+              "label": "CY012-v023-r8"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 13
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png",
+              "label": "CHAR-DEEPSEEK-TURN-v003 · H3留白适配",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-uKDIVWmghN",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/88234e0405150bf25c82642dd7493f40996749c6.png",
+              "label": "CHAR-CLAUDE-TURN-v001 · H3留白适配",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-iJRAp8Tl3L",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/cc503bc9c910e8c2dd57122326acfc3441f69564.png",
+              "label": "CY010A-v011",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-jNZlhsZNIF",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5a4ac216d5f900ab6fa924f21e8c4cdc971e7cba.png",
+              "label": "CY011-v011",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-M6foZ7xqr0",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/920a5165746c39a98d7cf84b9912fe728bbac50b.png",
+              "label": "CY011A-v011",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-Np05Dovf8r",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/acd1b68443ff202c01b00e808a406dacf9a71e5a.png",
+              "label": "CY012-v023-r8",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-JAT4Pva730",
+            "i-uKDIVWmghN",
+            "i-iJRAp8Tl3L",
+            "i-jNZlhsZNIF",
+            "i-M6foZ7xqr0",
+            "i-Np05Dovf8r"
+          ],
+          "mixedListOrder": [
+            "i-JAT4Pva730",
+            "i-uKDIVWmghN",
+            "i-iJRAp8Tl3L",
+            "i-jNZlhsZNIF",
+            "i-M6foZ7xqr0",
+            "i-Np05Dovf8r"
+          ]
+        },
+        "_updatedAtMs": 1793119371000,
+        "_lastAppliedFullyAtMs": 1793119371000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        },
+        "taskInfo": {
+          "taskId": "20261028004303750529236",
+          "loading": true,
+          "status": 1,
+          "progressPercent": 0,
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-KGPTKlO474",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793119418291
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805"
+        }
+      },
+      "position": {
+        "x": 1080,
+        "y": 1536
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-KGPTKlO474",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "line_id": "VO-CY028B-01",
+  "role": "Claude",
+  "line": {
+    "id": "VO-CY028B-01",
+    "role": "Claude",
+    "previous_batch": 38,
+    "previous_record_frame": 9881,
+    "previous_ja": "灰の中に眠る",
+    "previous_zh": "沉睡于灰烬中",
+    "previous_audio_duration_seconds": 1.8499999999999848,
+    "status": "revised_draft",
+    "ja": "灰に眠る、かすかな光よ。",
+    "zh_back_translation": "沉睡于灰烬中的微光啊。",
+    "direction": "疲惫但意志清晰，掌心仅初聚微光；不声嘶力竭，也不提前成完整火种。",
+    "reading_hints": {},
+    "voice_role": "Claude",
+    "performance_direction_v004": "疲惫但意志清晰，掌心仅初聚微光；不声嘶力竭，也不提前成完整火种。",
+    "tts_reading_text": "灰に眠る、かすかな光よ。",
+    "voice_asset": "Claude",
+    "timeline_adopted": false,
+    "performance_acceptance": "逐句表演与准确性待验收；作者已确认声线",
+    "audio_state": "selected_master_contains_text",
+    "master": "声音/正式配音准备-v006/已选原件/Claude.mp3",
+    "coverage_evidence": "匹配实际送读/服务回执文本；尚非逐字听审或精确切分"
+  },
+  "voice_id": "4wi31aA0XL3Yknn9UT4M",
+  "generation_revision": 4,
+  "status": "saved_pending_review",
+  "repair_reason": "Same selected voice edit: preserve r2 correct prefix and original correct hikari-yo suffix; joins at measured low-energy phoneme boundary, no time stretching",
+  "body": {
+    "text": "灰に眠る、かすかな光よ。",
+    "method": "same-voice editorial splice; no new generation"
+  },
+  "author_performance_accepted": false,
+  "file": "声音/缺口补齐-v008/VO-CY028B-01__Claude-r4-edit.wav",
+  "sha256": "aebb674c58416f7347f4172ab264b9173d486021a3a1cd54c8faf4de9a361adb",
+  "edit_sources": [
+    {
+      "file": "E:\\projects\\内容创作\\故事短片\\白米饭\\声音\\缺口补齐-v008\\VO-CY028B-01__Claude-r2.mp3",
+      "sha256": "a5074f76903f00311b3524105c0f07f2b05c6e3c09d6884ad3a5ecb32096ea72",
+      "start_sample": 0,
+      "end_sample_exclusive": 54640
+    },
+    {
+      "file": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\对白补齐-v009\\装配音频\\VO-CY028B-01__Claude.wav",
+      "sha256": "129480d4d14328c091b47582d5a54e0d4fe0ff7b1c26b62e64d6ed180f48b52f",
+      "start_sample": 70384,
+      "end_sample_exclusive": 95697
+    }
+  ],
+  "join_fades_samples": 265,
+  "sample_rate": 44100
+}

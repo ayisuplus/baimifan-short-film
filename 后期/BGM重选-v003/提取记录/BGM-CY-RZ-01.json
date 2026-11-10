@@ -1,0 +1,40 @@
+{
+  "id": "BGM-CY-RZ-01",
+  "bvid": "BV1Gs411W7UB",
+  "part": 1,
+  "title": "沈黙のレクイエム",
+  "display_title": "沉默的镇魂曲",
+  "work": "Re：从零开始的异世界生活",
+  "composer": "末廣健一郎",
+  "source_page_title": "",
+  "navigation_translation": "中文曲名为导航释义；原名保留。",
+  "cid": 11565122,
+  "source": "https://www.bilibili.com/video/BV1Gs411W7UB/?p=1",
+  "uploader": "达叔是逗比",
+  "video_title": "【末廣健一郎】沉默的镇魂曲-Elegy for Rem原版【ost】",
+  "path": "资产/声音/BGM/重选-v003/BGM-CY-RZ-01.m4a",
+  "bytes": 7039930,
+  "sha256": "15ff41df0917bd4415b7750ede29e192e647d93dc7a40d70f5daea5610c18fb9",
+  "duration": 424.127833,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "bit_rate": "132087"
+      }
+    ],
+    "format": {
+      "duration": "424.127833"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "CY029C",
+  "take": 1,
+  "destination": "镜头设计/图像/天瀑空间-v014/CY029C-v014-r1.png",
+  "request": "镜头设计/生成记录/天瀑空间-v014/CY029C-请求-v001.json",
+  "input": {
+    "prompt": "编辑图1。保持Claude脱力倒下与GPT接住的姿态、衣饰和头纱花饰位置，保留背景空刑架的剧情火焰；删掉其他全部烛台及普通灯火。不要改变身体接触关系。 保持细腻哥特异世界动漫电影画风与原画幅，单幅无文字。",
+    "referenced_image_paths": [
+      "E:/projects/内容创作/穿云/镜头设计/图像/头纱连续-v013/CY029C-v013-r2.png"
+    ],
+    "transparent_background": false
+  }
+}

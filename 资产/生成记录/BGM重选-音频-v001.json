@@ -1,0 +1,218 @@
+{
+  "version": "v001",
+  "date": "2026-10-23",
+  "music": [
+    {
+      "id": "BGM-CY-TIME-001",
+      "title": "Time Flows Ever Onward",
+      "composer": "Evan Call",
+      "part": 9,
+      "cid": 35546988660,
+      "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=9",
+      "uploader": "高速公路的残像",
+      "video_title": "《葬送的芙莉莲》原声带",
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-TIME-001.m4a",
+      "bytes": 1811608,
+      "sha256": "72bd9d9171da81a356f365036769c9922ac30ca5ad90e0ce6f5331c0e9d059fc",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "91532"
+          }
+        ],
+        "format": {
+          "duration": "138.088844"
+        }
+      },
+      "duration": 138.088844,
+      "decode_ok": true,
+      "status": "候选 · 待听审",
+      "heard": false,
+      "extraction": "Video DASH AAC audio stream saved directly; no re-encoding, speed, pitch, gain or cuts.",
+      "source_in": null,
+      "source_out": null
+    },
+    {
+      "id": "BGM-CY-FEAR-001",
+      "title": "Fear Brought Me This Far",
+      "composer": "Evan Call",
+      "part": 28,
+      "cid": 35555248455,
+      "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=28",
+      "uploader": "高速公路的残像",
+      "video_title": "《葬送的芙莉莲》原声带",
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-FEAR-001.m4a",
+      "bytes": 1721830,
+      "sha256": "3ea813e300f11b4426cc4a4fdc5d071cee307f4f1bc69f6484e1eefdc0b7dd74",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "104531"
+          }
+        ],
+        "format": {
+          "duration": "139.551701"
+        }
+      },
+      "duration": 139.551701,
+      "decode_ok": true,
+      "status": "候选 · 待听审",
+      "heard": false,
+      "extraction": "Video DASH AAC audio stream saved directly; no re-encoding, speed, pitch, gain or cuts.",
+      "source_in": null,
+      "source_out": null
+    },
+    {
+      "id": "BGM-CY-LIFT-001",
+      "title": "Lift My Head From Shadow",
+      "composer": "Evan Call",
+      "part": 30,
+      "cid": 35555315220,
+      "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=30",
+      "uploader": "高速公路的残像",
+      "video_title": "《葬送的芙莉莲》原声带",
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-LIFT-001.m4a",
+      "bytes": 1919722,
+      "sha256": "3dbbb1b473b5471042166e15c9a13fae356840b56b6275a470fd49c6a5573773",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "96591"
+          }
+        ],
+        "format": {
+          "duration": "155.085850"
+        }
+      },
+      "duration": 155.08585,
+      "decode_ok": true,
+      "status": "候选 · 待听审",
+      "heard": false,
+      "extraction": "Video DASH AAC audio stream saved directly; no re-encoding, speed, pitch, gain or cuts.",
+      "source_in": null,
+      "source_out": null
+    },
+    {
+      "id": "BGM-CY-ZOLTRAAK-001",
+      "title": "Zoltraak",
+      "composer": "Evan Call",
+      "part": 35,
+      "cid": 35569535793,
+      "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=35",
+      "uploader": "高速公路的残像",
+      "video_title": "《葬送的芙莉莲》原声带",
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-ZOLTRAAK-001.m4a",
+      "bytes": 1772073,
+      "sha256": "e7fe240aaa22459d2326c6132700128b37bf3d4df868d34c15ee5a789e67ab04",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "98379"
+          }
+        ],
+        "format": {
+          "duration": "141.455737"
+        }
+      },
+      "duration": 141.455737,
+      "decode_ok": true,
+      "status": "候选 · 待听审",
+      "heard": false,
+      "extraction": "Video DASH AAC audio stream saved directly; no re-encoding, speed, pitch, gain or cuts.",
+      "source_in": null,
+      "source_out": null
+    },
+    {
+      "id": "BGM-CY-SCHEME-001",
+      "title": "Things That Scheme in the Dark",
+      "composer": "Evan Call",
+      "part": 39,
+      "cid": 35569861320,
+      "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=39",
+      "uploader": "高速公路的残像",
+      "video_title": "《葬送的芙莉莲》原声带",
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-SCHEME-001.m4a",
+      "bytes": 1511862,
+      "sha256": "b78afcd0941343dec95b8eb16a00c76937a3729a56aee5f8e1d19ccad11f6b2e",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "110274"
+          }
+        ],
+        "format": {
+          "duration": "118.050023"
+        }
+      },
+      "duration": 118.050023,
+      "decode_ok": true,
+      "status": "候选 · 待听审",
+      "heard": false,
+      "extraction": "Video DASH AAC audio stream saved directly; no re-encoding, speed, pitch, gain or cuts.",
+      "source_in": null,
+      "source_out": null
+    },
+    {
+      "id": "BGM-CY-MAGIC-001",
+      "title": "Ancient Magic",
+      "composer": "Evan Call",
+      "part": 52,
+      "cid": 35577924535,
+      "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=52",
+      "uploader": "高速公路的残像",
+      "video_title": "《葬送的芙莉莲》原声带",
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-MAGIC-001.m4a",
+      "bytes": 1814222,
+      "sha256": "4793907aa786ce07eb32836c3eed6f926215fdb7288f77086c1244426e3c620a",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "93680"
+          }
+        ],
+        "format": {
+          "duration": "138.947982"
+        }
+      },
+      "duration": 138.947982,
+      "decode_ok": true,
+      "status": "候选 · 待听审",
+      "heard": false,
+      "extraction": "Video DASH AAC audio stream saved directly; no re-encoding, speed, pitch, gain or cuts.",
+      "source_in": null,
+      "source_out": null
+    }
+  ],
+  "source_bvid": "BV1U6BfBCE5o",
+  "listening_status": "technical validation only; actual listening pending"
+}

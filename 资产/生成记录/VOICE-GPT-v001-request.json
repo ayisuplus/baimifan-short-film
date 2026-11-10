@@ -1,0 +1,28 @@
+{
+  "24": {
+    "class_type": "VoxCPM_TTS",
+    "inputs": {
+      "model_name": "VoxCPM2",
+      "lora_name": "None",
+      "text": "我不能插手教会的仪式。",
+      "voice_design": "年轻成年女性的声音，中低音，清冷、沉稳、克制，普通话清晰，语速稍慢，心中有犹豫但不外露，平静地拒绝。",
+      "cfg": 2.0,
+      "steps": 10,
+      "normalize_text": false,
+      "seed": 20261021,
+      "force_offload": true,
+      "device": "cuda",
+      "dtype": "bf16"
+    }
+  },
+  "1": {
+    "class_type": "SaveAudio",
+    "inputs": {
+      "audio": [
+        "24",
+        0
+      ],
+      "filename_prefix": "audio/chuanyun/VOICE-GPT-v001"
+    }
+  }
+}

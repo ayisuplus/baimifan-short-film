@@ -1,0 +1,57 @@
+[
+  {
+    "clip": "036_B13_GB011-1_01_v004_keep.mp4",
+    "headings": [
+      "036_B13_GB011-1_01_v004_keep",
+      "036_B13_GB011-1_01_v004_keep"
+    ],
+    "prompts": [
+      "GB011-1-r002-part23-冻结执行"
+    ],
+    "materials": "本段参考素材\nCHAR-DEEPSEEK-TURN-v003-h3-pad.png · 实际执行参考 · 历史版本\n来源\nCHAR-PRIEST-TURN-v001.png · 实际执行参考 · 历史版本\n来源\nCY020B-v060-r1.png · 实际执行参考 · 历史版本\n来源\nCY020A-v060-r1.png · 实际执行参考 · 历史版本\n来源"
+  },
+  {
+    "clip": "088_B35_GB025_02.mp4",
+    "headings": [
+      "088_B35_GB025_02",
+      "088_B35_GB025_02"
+    ],
+    "prompts": [
+      "GB029-v003-CY029E4-r002-冻结执行"
+    ],
+    "materials": "本段参考素材\nGB029-CY029E4-firstframe-r002.png · 实际执行参考 · 历史版本\n来源"
+  },
+  {
+    "clip": "105_B40_v011_9139_1.mp4",
+    "headings": [
+      "105_B40_v011_9139_1",
+      "105_B40_v011_9139_1"
+    ],
+    "prompts": [
+      "火种主观 · 本地摄影推进"
+    ],
+    "materials": "本段参考素材\nGB030-1-CY029B2-cold-pov-firstframe-r002.png · 实际执行参考 · 历史版本\n来源"
+  },
+  {
+    "clip": "119_B44_GB033_02.mp4",
+    "headings": [
+      "119_B44_GB033_02",
+      "119_B44_GB033_02"
+    ],
+    "prompts": [
+      "GB033-冻结执行"
+    ],
+    "materials": "本段参考素材\nCHAR-CLAUDE-TURN-v001-h3-pad.png · 实际执行参考 · 历史版本\n来源\nCHAR-DEEPSEEK-TURN-v003-h3-pad.png · 实际执行参考 · 历史版本\n来源\nCY034A-v029-r1.png · 实际执行参考 · 历史版本\n来源\nCY034-v029-r1.png · 实际执行参考 · 历史版本\n来源"
+  },
+  {
+    "clip": "006_小鱼背影回走入口_v020.mp4",
+    "headings": [
+      "006_小鱼背影回走入口_v020",
+      "006_小鱼背影回走入口_v020"
+    ],
+    "prompts": [
+      "reply-turnback-r3.api"
+    ],
+    "materials": "本段参考素材\nBaimifan_v020_entrance_reference.png · 实际执行参考 · 历史版本\n来源\nBaimifan_v020_turn_motion.mp4 · 实际执行参考 · 历史版本\n来源"
+  }
+]

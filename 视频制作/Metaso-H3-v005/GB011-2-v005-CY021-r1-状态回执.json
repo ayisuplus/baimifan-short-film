@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115300737403260928",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "受缚Claude恳求放过孩子",
+    "status": "succeeded",
+    "created_at": 1793161971,
+    "updated_at": 1793161992,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115300737403260928/content?expires=1793766846&signature=975d30ed9f57cfce8e0e2dba3cd22c2ecc3f22ccc6a52423142dd15362b17c48"
+    },
+    "resolution": "768P",
+    "duration": 5,
+    "usage": {
+      "total_seconds": 5,
+      "input_seconds": 0,
+      "output_seconds": 5,
+      "input_image_count": 2
+    },
+    "ratio": "16:9",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

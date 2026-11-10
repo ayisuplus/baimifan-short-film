@@ -1,0 +1,27 @@
+{
+  "shots": 63,
+  "total_seconds": 238,
+  "new_ids": 14,
+  "new_visuals": 17,
+  "existing_shot_regions_preserved": 46,
+  "reframed_existing_ids": [
+    "CY016B",
+    "CY025",
+    "CY029"
+  ],
+  "audio_files_and_order_preserved": 20,
+  "critical_sequence_checks": 10,
+  "ending_hold_seconds": 9,
+  "ensemble_exit_seconds": 6,
+  "history_html_matches_previous_commit": "b8e48cb",
+  "image_original_copy_pairs_verified": 31,
+  "video_produced": false,
+  "local_html_links_verified": 891,
+  "html_files_checked": [
+    "00_打开项目.html",
+    "镜头设计/带图分镜.html",
+    "镜头设计/带图分镜-v0.3.html",
+    "镜头设计/带图分镜-v0.2.html",
+    "资产/资产图册.html"
+  ]
+}

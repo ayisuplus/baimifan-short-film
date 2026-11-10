@@ -1,0 +1,39 @@
+{
+  "id": "BGM-CY-MT-20",
+  "bvid": "BV1JP4y1m78A",
+  "part": 20,
+  "title": "シルフィの涙",
+  "display_title": "希露菲的眼泪",
+  "work": "无职转生",
+  "composer": "藤澤慶昌",
+  "source_page_title": "19. シルフィの涙",
+  "cid": 40238908136,
+  "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=20",
+  "uploader": "L-2-C",
+  "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+  "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-20.m4a",
+  "bytes": 3344186,
+  "sha256": "f5d0b825ddc4db72dd03791d4bdc7a4c30bf2b2d7f8bd86032b61e7f3d23bd22",
+  "duration": 133.015873,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "177453"
+      }
+    ],
+    "format": {
+      "duration": "133.015873"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

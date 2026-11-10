@@ -1,0 +1,35 @@
+subject_definitions:
+<Subject 1>: ChatGPT, identity and outfit from four-view sheet <Picture 1>.
+<Picture 2>: [Shot 1] composition and state reference; not its first frame.
+<Picture 3>: [Shot 2] composition and state reference; not its first frame.
+<Picture 4>: [Shot 3] composition and state reference; not its first frame.
+<Picture 5>: [Shot 4] composition and state reference; not its first frame.
+<Picture 6>: [Shot 5] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. A charge and terse reply precede the two transformations and their ascent through the existing breach.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Picture 2>: weak_reference - shot layout; animate the specified action.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Let the landing footsteps stop into the accusation, retaining GPT near-left and the leader on the landing ahead. Use <Picture 2> for composition. GPT has reached the space beneath the broken nave vault. From her near-left shoulder, the leader blocks the route on the lower central landing and addresses her without changing their relationship established during the attack. The highest altar remains hidden by the opaque shield; Kimi, Claude and the cross cannot be seen through it. Preserve the broken central rear window and intact side windows. Both hold their confrontation. Stay over GPT's shoulder on the established axis; slide slightly to clarify the blocked route, then stop as the leader speaks. The church's reverberation returns; lower ambient water under the leader's quiet voice. From 0.1 to 4.78 seconds, the High Priest (S1) speaks with matching lip movement: <d>[Japanese] 不干渉条約を破ったな。</d>.
+[Shot 2] At 00:04.900, Reverse to GPT along the confrontation axis. Her single short reply leads through a pause into the transformation airflow. Use <Picture 3> for composition. GPT meets the leader's gaze, raises her eyes and calmly delivers her brief reply. She neither smiles broadly nor turns toward the camera. End with pale water-light beginning to gather around her, leading into the transformation rather than completing it in this close-up. Deliberately hold the facial close-up; the raised eyes and short reply create the shift. Wait half a beat before water-light enters. Leave half a beat after the short reply, then introduce rising airflow. From 5.1 to 6.38 seconds, ChatGPT (S2) speaks with matching lip movement: <d>[Japanese] うるさい。</d>.
+[Shot 3] At 00:06.900, Continue the enveloping light into one transformation; white horns and violet mane emerge from the same body, distinct from the earlier summoned blue dragon. Use <Picture 4> for composition. GPT begins in human form wrapped in white-violet water-light. She lifts as her body becomes a long white-violet water dragon; white horns and a violet mane unfold in the light. The human figure disappears into this same transformation, leaving one dragon form rather than a separate summoned creature. Tilt upward from a low close view as GPT rises; use water-light to carry one continuous transformation without orbiting into separate human and dragon bodies. Spiraling water develops into a low dragon resonance.
+[Shot 4] At 00:08.900, Countercut to the enemy's response, joining wing noise to the water spiral while maintaining the same upward escalation. Use <Picture 5> for composition. The leader begins above the wet floor as dark-gold force gathers behind him. He rises, opening black-and-gold raven wings while retaining a recognizable humanoid face and body. End with the wings fully opened and his feet lifted, ready to ascend through the existing breach. Ease back in a low medium view to accommodate the dark-gold wings, keeping the leader's face readable rather than rising past him. Feather and wing vibration with dark-gold magical resonance.
+[Shot 5] At 00:10.900, Re-establish the shared space after both transformations; they pass through the same opening one after another as reverberation opens out. Use <Picture 6> for composition. The white-violet water dragon and raven-winged leader have already transformed inside the nave. Seen from the wet stone floor, they shoot upward between tall columns, one behind the other, and pass through the roof opening already made by the earlier spell. No new breach is created. End as both reach the exterior sky. Tilt upward from the wet floor along converging columns, retaining the existing breach as both figures rise through it; do not follow outside. Rushing air and wingbeats rise through the hall; the acoustics open as they clear the roof.
+From 13.9 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 5.1s: GPT delivers the curt reply; 6.9s: Begin the white-violet dragon transformation.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

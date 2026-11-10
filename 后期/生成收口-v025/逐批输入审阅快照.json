@@ -1,0 +1,2358 @@
+{
+  "status": "review_snapshot_not_submitted",
+  "date": "2026-10-27",
+  "source": "镜头设计/shot-plan-v0.65.json",
+  "source_sha256": "c50ebf637c25285f32a13c7d9da0347355b172800ab7977157a23f9a3a54b253",
+  "voice_plan_sha256": "03ec8674ff5f38694d0738d35149b7addd23a12308172b482166bd33057e373b",
+  "batches": [
+    {
+      "id": "GB001",
+      "shot_ids": [
+        "CY001",
+        "CY002",
+        "CY003",
+        "CY003A"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 0,
+      "film_end": 14.98,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB001-minimax-h3.txt",
+      "prompt_sha256": "11e123e8e82b981067dc05a9eba5b3dba76de14fa45fbca8ddb0899bf572f957",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/独立镜头-v009/CY001-v009.png",
+          "sha256": "feea8b3a4ce433555d563cce0a0a06570564476ce026299bd9b9a570a8f80bc9",
+          "kind": "composition"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/独立镜头-v009/CY002-v009.png",
+          "sha256": "4aafc4279ccfeee08d88d46c3efd1580ec6a60aa17b3893226212fbcec3fc0f0",
+          "kind": "composition"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/独立镜头-v009/CY003-v009.png",
+          "sha256": "561091394ef37afe751dcef3b645853bb2a4faea9139a1a23ff2696cc4ce3ffa",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/独立镜头-v009/CY003A-v009.png",
+          "sha256": "fc58bde8a92c9bc0b5dcec1170c8fbd67dca2363fd8910c45592abdeebafc799",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB002",
+      "shot_ids": [
+        "CY003B",
+        "CY003C",
+        "CY004",
+        "CY004A"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 14.98,
+      "film_end": 29.672729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB002-minimax-h3.txt",
+      "prompt_sha256": "fb0b314a24ea8ba94611b33fe494746f88cd1e462df83df3a08560e1d0bb9f28",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/独立镜头-v009/CY003B-v009.png",
+          "sha256": "e24d24097de4468704c8fbb0cacdce5559cdcee35ecbe2a2f9e8fd7d44534f6a",
+          "kind": "composition"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/空间张力-v063/CY003C-v063-r1.png",
+          "sha256": "b513fa23f430c34f61433f188da15c075a472269af0a89e047535550cce44f29",
+          "kind": "composition"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/动作收尾-v015/CY004-v015-r1.png",
+          "sha256": "a1f49923525741fb448f58adc0b23bb25b7794f90e23d47d0522ba9ce92c40f6",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/动作收尾-v015/CY004A-v015-r1.png",
+          "sha256": "76bbd39df1f4f7895d78d65bd49200a231f96921881bbf7dd95a2696211bea51",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB003",
+      "shot_ids": [
+        "CY004B",
+        "CY004C",
+        "CY004D",
+        "CY005"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 29.672729,
+      "film_end": 40.672729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB003-minimax-h3.txt",
+      "prompt_sha256": "65230eb6d76ca59cc0fff292de832c878d2afe5856bf5d202c23c0826045da63",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/CHAR-PALADIN-v001.png",
+          "sha256": "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/空间张力-v063/CY004B-v063-r1.png",
+          "sha256": "7532f97f0d412d7002e0e2acbbd28364f8765340249994e5fe85e2ac84163765",
+          "kind": "composition"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/空间张力-v063/CY004C-v063-r1.png",
+          "sha256": "24380275c46ffb8fc7162bd547dc91cebed2c201ef5e46b7166b3b49c755946e",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/空间张力-v063/CY004D-v063-r1.png",
+          "sha256": "fbf95430ebe93e19426129eec05b3131977ae5b9427fd389b8e277577e1e7ca9",
+          "kind": "composition"
+        },
+        {
+          "slot": 7,
+          "path": "镜头设计/图像/数学宫殿-v056/CY005.png",
+          "sha256": "4f1a2922a595a3936b912115b40655f0c6e49e17035dde6ac3a7d69b95fda5c9",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB004",
+      "shot_ids": [
+        "CY006",
+        "CY007",
+        "CY008"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 40.672729,
+      "film_end": 54.672729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB004-minimax-h3.txt",
+      "prompt_sha256": "5b649cd9c0932636ccd2a1d15065a1eb9b71b7dcef319db12c7473ba7807b65b",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/数学宫殿-v056/CY006.png",
+          "sha256": "14f6bc3c1e7468b6c0e35c5560f7094e570e5bfc47a4eb492a636d5fe990212a",
+          "kind": "composition"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/数学宫殿-v056/CY007.png",
+          "sha256": "fdc72190014d8d66af8cc7d7efb8c02fca68616106e83a23823fb3f05b7d7dc7",
+          "kind": "composition"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/数学宫殿-v056/CY008.png",
+          "sha256": "94613f4660e30f562a3e90e7749c750808ce88427126194a56aa047fe3f5f4da",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB004M",
+      "shot_ids": [
+        "CY008M"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 54.672729,
+      "film_end": 69.592729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB004M-minimax-h3.txt",
+      "prompt_sha256": "b5f75b68a7e3bb16607b5c69706760f89f117fd641b3bc4345168ffb4b88cd4d",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/王宫内心戏-v001/CHAR-GPT-DEVIL-TURN-v003.png",
+          "sha256": "e44ded7f0a9e27a70ff2980d4d95a331882f929efe7394257daab0cc01910b15",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/王宫内心戏-v001/CHAR-GPT-ANGEL-TURN-v003.png",
+          "sha256": "8e5b7ef471ca677b2751891edd36282e0b2ad84d33cd03e132fdb98771a2ab4b",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/数学宫殿-v056/CY007.png",
+          "sha256": "fdc72190014d8d66af8cc7d7efb8c02fca68616106e83a23823fb3f05b7d7dc7",
+          "kind": "composition"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/王宫内心戏-v001/CY008M-S01-恶魔提醒.png",
+          "sha256": "b2c9a7e7c1c28212834d58fe64ff0a155ef2d2045b29349addcb4d4fe700c617",
+          "kind": "state"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/王宫内心戏-v001/CY008M-S03-等待回答.png",
+          "sha256": "9876de5f18b9512da8138dd9d4dca8736735629eb2c41d882e2236c2f9e760bf",
+          "kind": "state"
+        }
+      ]
+    },
+    {
+      "id": "GB005",
+      "shot_ids": [
+        "CY009",
+        "CY010",
+        "CY009A"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 69.592729,
+      "film_end": 83.592729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB005-minimax-h3.txt",
+      "prompt_sha256": "fe2b79a269095e598d979c8f846013aa8dbf2400f071f1c69de95203f10bd855",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/数学宫殿-v056/CY009.png",
+          "sha256": "50c30570f97b23d3209329d6b7985de58d8eb56a2fa05fbe30257c6235ca9ab0",
+          "kind": "composition"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/宫殿躺姿-v055/CY010-r2-搓手.png",
+          "sha256": "63d4ac1b354c7022f52a846530d4c8d0f0dd6ce3b60857dcaacb6f8ac6a64f6f",
+          "kind": "composition"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/数学宫殿-v056/CY009A.png",
+          "sha256": "44c7f45cb3ea56cd8da3857d0f6f419170c333f06f63588938a52ee7e3dc1fd6",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB006",
+      "shot_ids": [
+        "CY010A",
+        "CY011",
+        "CY011A",
+        "CY012"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 83.592729,
+      "film_end": 96.592729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB006-minimax-h3.txt",
+      "prompt_sha256": "3189b18afed13bd570c77956dc33c8848999a5c3e77216f29e9ef03ef578068c",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/空间因果-v011/CY010A-v011.png",
+          "sha256": "4cd689d286a631f4b9c05b477ef32859da6e68d01e3f5fe74b63c711e55e5d2a",
+          "kind": "composition"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/空间因果-v011/CY011-v011.png",
+          "sha256": "08e2620b9f439e54e6b0d370b2f6afd387f172fdf97a1c53ae83672e4031c358",
+          "kind": "composition"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/空间因果-v011/CY011A-v011.png",
+          "sha256": "23e64f267b7757bff47657f0777a27ec8a96abfad2ba7680c5c139ca9b4edf1b",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/祭坛长椅连续性-v023/CY012-v023-r8.png",
+          "sha256": "399c6ea538e210b44ca22eec0fdcf4f669edd0991160caa78f77548a14a9e7c9",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB007",
+      "shot_ids": [
+        "CY013",
+        "CY013A",
+        "CY015",
+        "CY016"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 96.592729,
+      "film_end": 111.592729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB007-minimax-h3.txt",
+      "prompt_sha256": "a8702c4aba06e7bdb2acd6b4eff114494c19da5dd143971e4e3c8e91a79fe64d",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/天瀑空间-v014/CY013-v014-r3.png",
+          "sha256": "8aa15353392208180c0a97cb8f31a2b598db9a6c81360ca77dca00e80273f35f",
+          "kind": "composition"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/天瀑空间-v014/CY013A-v014-r3.png",
+          "sha256": "d09dd015273c2fee89cc4afa22159b834bf3d69c31ee68f1abd7c3549b4726f9",
+          "kind": "composition"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/空间张力-v063/CY015-v063-r1.png",
+          "sha256": "536607737f05b3df218eaf4b574394580f2dbb68e04a19670799e56634c2bf6c",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/空间张力-v063/CY016-v063-r1.png",
+          "sha256": "f1c37a7b42ed2405c55465877a1290500a22edcde512254506cfc03ef0352004",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB008",
+      "shot_ids": [
+        "CY016A1",
+        "CY016A",
+        "CY016B",
+        "CY016B1"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 111.592729,
+      "film_end": 125.572729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB008-minimax-h3.txt",
+      "prompt_sha256": "27d466ec7b321bebc6a5c2c3e8b92f35b2547dd0113c81b1d5ac241ea74b08b0",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/天瀑空间-v014/CY016A1-v014-r4.png",
+          "sha256": "3a38c261e390b86f257ccb56a66ec40546e5af7d0ecd91966d6867e29ec55196",
+          "kind": "composition"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/天瀑空间-v014/CY016A-v014-r5.png",
+          "sha256": "6b10548b27d273ff6c20ca27a7b7bd576756c07e42a832a9dbeffda79b42d31a",
+          "kind": "composition"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/天瀑空间-v014/CY016B-v014-r3.png",
+          "sha256": "375dbb6fb97adfa490a26f8dd531396dfad9d7ef883b58f50ed70ce8874dfd67",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/天瀑空间-v014/CY016B1-v014-r3.png",
+          "sha256": "4264fd799dcd09769deab6e6954cda53c14108f85fb4dc1359a6b7e1e4e77263",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB008R2",
+      "shot_ids": [
+        "CY016C"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 125.572729,
+      "film_end": 129.572729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB008R2-minimax-h3.txt",
+      "prompt_sha256": "2b6cb8af5bb32ff20d922205ed4d1852a4df9b49379728edb8cb80c4a02d8fa6",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "镜头设计/图像/火祭因果-v040/CY016C-v040-r1.png",
+          "sha256": "1632dfb3fc095275212842c5cde19a6c3d7d34b80152e566926f1cc2010916ac",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB009",
+      "shot_ids": [
+        "CY016D",
+        "CY017",
+        "CY017A",
+        "CY018"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 129.572729,
+      "film_end": 142.572729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB009-minimax-h3.txt",
+      "prompt_sha256": "682eea5cccc0864bbfe6078d30e5fe4281da2bad882ced2265411fee5caf8f6f",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/空间张力-v063/CY016D-v063-r1.png",
+          "sha256": "24af6ba366af39c437c62489825e78b75096f01f2df5c8b0470002c7d529f414",
+          "kind": "composition"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/空间张力-v063/CY017-v063-r2.png",
+          "sha256": "2d445d048201b68d30a115540b45762e96a60062ddf27647a181a2b556627725",
+          "kind": "composition"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/火祭因果-v040/CY017A-v040-r1.png",
+          "sha256": "2b207c2ae64f753c9eb115b00ecb1c66df590b10c77354f13c423e4963f081ee",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/空间张力-v063/CY018-v063-r2.png",
+          "sha256": "97b531e5e89b700f93b71e2b7de74ed38f77a018e98041a54ae66820b06611e6",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB010",
+      "shot_ids": [
+        "CY018B",
+        "CY021A",
+        "CY019"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 142.572729,
+      "film_end": 156.472729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB010-minimax-h3.txt",
+      "prompt_sha256": "69e14b859572a34addfc1b57a468f48f0253b36b8b34d137df7b6446a1e3b560",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/火祭因果-v040/CY018B-v040-r1.png",
+          "sha256": "bf4763eb83a43992188a958c2e1239e03a52a7c6bb0c9f19cf88ddf46401cbe6",
+          "kind": "composition"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/关键动作-v062/CY021A-v062-r2.png",
+          "sha256": "cb335f88a74a1ae130cd923035c9d71b10308411f186099f4e5e1ee23a54c1dc",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/张力与机位-v060/CY019-v060-r1.png",
+          "sha256": "d21090e047e4c61b602980a7c6169201102478b526aba19486e23580f8e7f5a9",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB011-1",
+      "shot_ids": [
+        "CY020",
+        "CY020B",
+        "CY020A"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 156.472729,
+      "film_end": 166.472729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB011-1-minimax-h3.txt",
+      "prompt_sha256": "bea3237e17d4e3092f7bbe42675ea2418b89dbaee5b69644c07038a43cbddccc",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/天瀑空间-v014/CY020-v014-r4.png",
+          "sha256": "939e6566ac8060679a9ae17b973eaa0d07d65a4b57ecfd5be61b4a7d65eff6b6",
+          "kind": "composition"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/张力与机位-v060/CY020B-v060-r1.png",
+          "sha256": "5211c4758c0713a866e8c1d52d7a584258d78eac4948709d6b39096c4ddd63d6",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/张力与机位-v060/CY020A-v060-r1.png",
+          "sha256": "00d5456695ccf047cbfa6f11137315237554efbec391fc55d5b75e05d86d552e",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB011-2",
+      "shot_ids": [
+        "CY021",
+        "CY021B"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 166.472729,
+      "film_end": 172.272729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB011-2-minimax-h3.txt",
+      "prompt_sha256": "fd67b7d3899dc456f3cda51b99b716fdbf5d439f5f6454db9e4c967f0d73fc6f",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/连续性修复-v049/CY021-v049-r2.png",
+          "sha256": "9cc362d9d140f525aa1e25008d0ca4a9247098570b2c6623185380d0ad218afe",
+          "kind": "composition"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/动作收尾-v015/CY021B-v015-r1.png",
+          "sha256": "3e07b40030d09093c451ffd3bb464de88ceba84dda7ad593a1aeface4cb03481",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB012",
+      "shot_ids": [
+        "CY022A",
+        "CY022A1",
+        "CY022",
+        "CY022B"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 172.272729,
+      "film_end": 184.272729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB012-minimax-h3.txt",
+      "prompt_sha256": "2859e7e45242b490cac9d32a009a986f35bd0b1a693fa4729dd211e17481f368",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/关键动作-v062/CY022A-v062-r1.png",
+          "sha256": "93c90d979b473d1d485cc0f2e561fa1480f4a88f49866a877cb4f2f558e66368",
+          "kind": "composition"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/细节与显形-v052/CY022A1-v052-r1.png",
+          "sha256": "af52f21feb359171dd4ff678821f3923b62b61b61a06a2901be5dfc7d7a53c4e",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/细节与显形-v052/CY022-v052-r1.png",
+          "sha256": "640095532214808eaaaa763ceddc022ebc69c53f8cf725a3a2aa5e19a2c569c1",
+          "kind": "composition"
+        },
+        {
+          "slot": 7,
+          "path": "镜头设计/图像/火焰伤后与星火-v036/CY022B-v036-r2.png",
+          "sha256": "724b7d2b253f178a17c8095c7dea3f8520ac1bf15aab286c27aa84ce95a3a6e5",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB013",
+      "shot_ids": [
+        "CY022B2",
+        "CY022B1",
+        "CY026",
+        "CY022C",
+        "CY023"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 184.272729,
+      "film_end": 198.272729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB013-minimax-h3.txt",
+      "prompt_sha256": "79fe322882a46076809d8690bb41a093e2ee10701c249bcc5ae4f2566ecc6533",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/CHAR-PALADIN-v001.png",
+          "sha256": "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+          "kind": "identity"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/火焰伤后与星火-v036/CY022B2-v036-r1.png",
+          "sha256": "2d47549f41bd9c4fb7637ecd6ac240a5286d1f502ec361d72aea4fb391007444",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/末轮叙事优化-v035/CY022B1-v035-r1.png",
+          "sha256": "b6dc0f3001d95affeeaca4dc3c376f70fba876397b2f55cb3ce4df7b46cee892",
+          "kind": "composition"
+        },
+        {
+          "slot": 7,
+          "path": "镜头设计/图像/末轮叙事优化-v035/CY026-v035-r1.png",
+          "sha256": "e5ec5b2810b465a6519e546a8bc771a04b7ce5928413a906d638f7a75d3f3c3f",
+          "kind": "composition"
+        },
+        {
+          "slot": 8,
+          "path": "镜头设计/图像/天瀑空间-v014/CY022C-v014-r3.png",
+          "sha256": "d8a109fc20db99f6c25827c5984d49a0395baef52fe8930c1385850e5ba727b0",
+          "kind": "composition"
+        },
+        {
+          "slot": 9,
+          "path": "镜头设计/图像/关键动作-v062/CY023-v062-r2.png",
+          "sha256": "54bb90cf93b1efd26d744fca02fb9cc57188cae66efdbc955a5081700909fefd",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB014",
+      "shot_ids": [
+        "CY024",
+        "CY024R"
+      ],
+      "model": "seedance25",
+      "request_seconds": 15,
+      "film_start": 198.272729,
+      "film_end": 204.772729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB014-seedance25.txt",
+      "prompt_sha256": "d68363809c8825cdfc0419297a25bb0d8581c6f6b97f4375c03018fffbc62cba",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+          "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/四视图复用/C06_Gemini-角色设定卡.png",
+          "sha256": "93b967c7dc79a90087885ddf096a8f6a3c2b531d562f930e3191de49deff8dab",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "path": "资产/图像/四视图复用/C09_Grok-角色设定卡.png",
+          "sha256": "439924ef5fc8024902a10c55e6c67e3a750bda77ac891b38b139077061c06388",
+          "kind": "identity"
+        },
+        {
+          "slot": 5,
+          "path": "资产/图像/四视图复用/C16_Tencent-Hunyuan-角色设定卡.png",
+          "sha256": "9bfe12f46b4244b52e77ee5ce66628389c0f1ca375bf5d38bc22738c863ab0cc",
+          "kind": "identity"
+        },
+        {
+          "slot": 6,
+          "path": "资产/图像/四视图复用/C10_Meta-角色设定卡.png",
+          "sha256": "0477217a3fd2dae568097f1743edcab00a20dbcf4880bf6cc32cadc61323c8dd",
+          "kind": "identity"
+        },
+        {
+          "slot": 7,
+          "path": "资产/图像/四视图复用/C05_Zai-GLM-角色设定卡.png",
+          "sha256": "3874fb8d6799fa7e3775dae95cc07f75b8a496e2806fec0a87092315df3043ef",
+          "kind": "identity"
+        },
+        {
+          "slot": 8,
+          "path": "资产/图像/四视图复用/C08_Mistral-角色设定卡.png",
+          "sha256": "48c6bc8343fedc417437c1706a2ca19dec26ca2007406bd365f21c00d8ecde9b",
+          "kind": "identity"
+        },
+        {
+          "slot": 9,
+          "path": "资产/图像/四视图复用/C07_Perplexity-角色设定卡.png",
+          "sha256": "23ed4cbde90f467ea97f50a77ecb6c9e212753ec191ddb7cab50cc638c7720f4",
+          "kind": "identity"
+        },
+        {
+          "slot": 10,
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+          "kind": "identity"
+        },
+        {
+          "slot": 11,
+          "path": "镜头设计/图像/目光与入场-v048/CY024-v048-r1.png",
+          "sha256": "b8a6dd3356348c52dd4f426e3b8973a8adf20417878a5718a83621e84c17be74",
+          "kind": "composition"
+        },
+        {
+          "slot": 12,
+          "path": "镜头设计/图像/目光与入场-v048/CY024R-v048-r1.png",
+          "sha256": "8058a67fcf61ccb6b26b4c756173effc2994fd5bfd0005ae665aaf9e9094ef12",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB014A",
+      "shot_ids": [
+        "CY024K00",
+        "CY024K0"
+      ],
+      "model": "seedance25",
+      "request_seconds": 15,
+      "film_start": 204.772729,
+      "film_end": 217.062729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB014A-seedance25.txt",
+      "prompt_sha256": "148f823b18721b7bf313c9029289fb5dea64b271e7da181cf3fab41448a0d2bd",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+          "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "镜头设计/图像/月光流动-v054/背影-月光凝形.png",
+          "sha256": "59d5dc2a16170d7cea96bf5d0da5b0c60984346bb8974ceda267c07504f41846",
+          "kind": "composition"
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/月光流动-v054/背影-月光流入.png",
+          "sha256": "f6f14eff9a70441915ba10ad0e822d58b31af725338e6dbd0aa1c4072bb432e7",
+          "kind": "state"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/月光流动-v054/背影-显形完成.png",
+          "sha256": "9f521982f15b2adc963a796aed8cea7711cec522ae06aff4fc8a5e8f344dd264",
+          "kind": "state"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/细节与显形-v052/CY024K0-v052-r1.png",
+          "sha256": "3a2a0e127a3c66669172c5bfb152daf66f978f26dd46a2ba60ee90f676deb688",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB015-1",
+      "shot_ids": [
+        "CY024K1",
+        "CY024K1A",
+        "CY024K2",
+        "CY024K2A"
+      ],
+      "model": "seedance25",
+      "request_seconds": 15,
+      "film_start": 217.062729,
+      "film_end": 229.062729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB015-1-seedance25.txt",
+      "prompt_sha256": "edbc9d581f2430e9a660b0a32c22549fb729fc81ee04b1c10b1825094084f0d3",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+          "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/暗月瞬临-v045/CY024K1-v045-r1.png",
+          "sha256": "3341f78639511130b7834f07b36d34dda06709161a2dff3b57fb87d2cf04f82e",
+          "kind": "composition"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/暗月瞬临-v045/CY024K1A-v045-r1.png",
+          "sha256": "88599d40611961e3b3395b046244435ebd3f25401e69e77af171406ff03b8856",
+          "kind": "composition"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/暗月瞬临-v045/CY024K2-v045-r1.png",
+          "sha256": "26268718c9c1cc60205640cae55c9d37d3965978385a387760f091a85b8a82c8",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/控水协作-v046/CY024K2A-v046-r1.png",
+          "sha256": "0de5c6eeec241854524933dc4dc16e681553e44be34d42b3abb63f5f27eabdbd",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB015-2",
+      "shot_ids": [
+        "CY024K3"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 229.062729,
+      "film_end": 233.062729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB015-2-minimax-h3.txt",
+      "prompt_sha256": "d07b31446e0cc10111012a537623c690ee45f67266c4ff9fa3c29e3aae910abc",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+          "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/控水协作-v046/CY024K3-v046-r1.png",
+          "sha256": "57461e36c680a32904da2bc19ab781aca5230fe03f3a751f3ad7568b8285c1e4",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB016-1",
+      "shot_ids": [
+        "CY024K4",
+        "CY023A",
+        "CY026A",
+        "CY026A1"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 233.062729,
+      "film_end": 244.362729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB016-1-minimax-h3.txt",
+      "prompt_sha256": "b0b9e34c946bf9e714b7f05bb1b70dd05d141c578ab9025d3ac67a666a2e6e8b",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+          "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/CHAR-PALADIN-v001.png",
+          "sha256": "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+          "kind": "identity"
+        },
+        {
+          "slot": 5,
+          "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+          "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+          "kind": "identity"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/目光与入场-v048/CY024K4-v048-r1.png",
+          "sha256": "e3ef521890a01f0caa2951b28922d1a3d71b5b2d6109e22d7662420a301dcaf6",
+          "kind": "composition"
+        },
+        {
+          "slot": 7,
+          "path": "镜头设计/图像/天瀑空间-v014/CY023A-v014-r3.png",
+          "sha256": "625078b21c6f10f30fe5b384601e45d29b7be779e9c1c8e76138f44b979c9fb7",
+          "kind": "composition"
+        },
+        {
+          "slot": 8,
+          "path": "镜头设计/图像/独立镜头-v009/CY026A-v009.png",
+          "sha256": "29a458b3796e581a939537030f3ce8a95161432175951f023b97fbbec867eff1",
+          "kind": "composition"
+        },
+        {
+          "slot": 9,
+          "path": "镜头设计/图像/独立镜头-v009/CY026A1-v009.png",
+          "sha256": "0c51706f021371af875bbc8254743d34d6fcc885f5e4deb1495f5ba4ae7f9cb2",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB016-2",
+      "shot_ids": [
+        "CY026B"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 244.362729,
+      "film_end": 248.362729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB016-2-minimax-h3.txt",
+      "prompt_sha256": "a93826c2dcbb8024292de58614fdd49aa5e158be340f4e88e77dc44e11492054",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图复用/C06_Gemini-角色设定卡.png",
+          "sha256": "93b967c7dc79a90087885ddf096a8f6a3c2b531d562f930e3191de49deff8dab",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/展翼与扇叶-v033/CY026B-v033-r1.png",
+          "sha256": "1b41aa668b4b916d1ad6c83fa23e045d20cf4129cd6ad75b2ee56c24b1b997f4",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB017",
+      "shot_ids": [
+        "CY026C",
+        "CY026D1"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 248.362729,
+      "film_end": 254.902729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB017-minimax-h3.txt",
+      "prompt_sha256": "2d8f0f435c737838a0f30b52e3dbec0ee6622f208d82a6fced7594b1cd1ff238",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图复用/C09_Grok-角色设定卡.png",
+          "sha256": "439924ef5fc8024902a10c55e6c67e3a750bda77ac891b38b139077061c06388",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+          "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/动作收尾-v015/CY026C-v015-r1.png",
+          "sha256": "766127865341188fb1749763c8d93aa6f1846e1bd5ee52e091bbad111865d2f2",
+          "kind": "composition"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/独立镜头-v009/CY026D1-v009.png",
+          "sha256": "2daaf170012a5cfbede2ae4f35f31a4fb1b74bcac7f639142d20af6594a92f2f",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB017R2",
+      "shot_ids": [
+        "CY026D"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 254.902729,
+      "film_end": 264.062729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB017R2-minimax-h3.txt",
+      "prompt_sha256": "4e625dc6eec3e7655dbce2b55700196df6e194a4a27687dab54f84450d3d66e2",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+          "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/独立镜头-v009/CY026D-v009.png",
+          "sha256": "7c7113af601e76fd6b4dc554311b45bde7c18fe0a121159fcbc74a954561e323",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB018",
+      "shot_ids": [
+        "CY026E",
+        "CY024A0",
+        "CY024A"
+      ],
+      "model": "seedance25",
+      "request_seconds": 15,
+      "film_start": 264.062729,
+      "film_end": 278.512729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB018-seedance25.txt",
+      "prompt_sha256": "a1da000be20f191bc4946b8ffed32ef9fdf18b9bd8134e8f7f20b418d24ba8ef",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图复用/C16_Tencent-Hunyuan-角色设定卡.png",
+          "sha256": "9bfe12f46b4244b52e77ee5ce66628389c0f1ca375bf5d38bc22738c863ab0cc",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图复用/C10_Meta-角色设定卡.png",
+          "sha256": "0477217a3fd2dae568097f1743edcab00a20dbcf4880bf6cc32cadc61323c8dd",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/四视图复用/C05_Zai-GLM-角色设定卡.png",
+          "sha256": "3874fb8d6799fa7e3775dae95cc07f75b8a496e2806fec0a87092315df3043ef",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "path": "资产/图像/四视图复用/C08_Mistral-角色设定卡.png",
+          "sha256": "48c6bc8343fedc417437c1706a2ca19dec26ca2007406bd365f21c00d8ecde9b",
+          "kind": "identity"
+        },
+        {
+          "slot": 5,
+          "path": "资产/图像/四视图复用/C07_Perplexity-角色设定卡.png",
+          "sha256": "23ed4cbde90f467ea97f50a77ecb6c9e212753ec191ddb7cab50cc638c7720f4",
+          "kind": "identity"
+        },
+        {
+          "slot": 6,
+          "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+          "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+          "kind": "identity"
+        },
+        {
+          "slot": 7,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 8,
+          "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+          "kind": "identity"
+        },
+        {
+          "slot": 9,
+          "path": "镜头设计/图像/S05D-应召分屏-v001.png",
+          "sha256": "db7a626651b4caa696c5dc3d630adc9d4d21f92876c7544f260c85d533232156",
+          "kind": "composition"
+        },
+        {
+          "slot": 10,
+          "path": "镜头设计/图像/张力与机位-v060/CY024A0-v060-r2.png",
+          "sha256": "6088c303b96ecae73362067edd642638989dc293b941da6a1fb32a7c013b0b1d",
+          "kind": "composition"
+        },
+        {
+          "slot": 11,
+          "path": "镜头设计/图像/末轮叙事优化-v035/CY024A-v035-r1.png",
+          "sha256": "b5539825dbb96c2d741e62d6fd356e8849e5e65403e79d901f3d51f1a562085c",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB019",
+      "shot_ids": [
+        "CY024A9",
+        "CY024A10",
+        "CY024A11",
+        "CY024A12",
+        "CY024A1",
+        "CY024A2"
+      ],
+      "model": "seedance25",
+      "request_seconds": 15,
+      "film_start": 278.512729,
+      "film_end": 293.402729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB019-seedance25.txt",
+      "prompt_sha256": "5caa7b295ca6f9023051aaebb50ac8cd662ce81ec698d7892688cd42fac57a88",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+          "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+          "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/细节与显形-v052/CY024A9-v052-r1.png",
+          "sha256": "6bca6a86bcd94a0afbc2504fec0a774701f6a6cc4fafac910dfde91dd4d9f693",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/扇子法术-v061/CY024A10-v061-r1.png",
+          "sha256": "0579bb50c23171833b9ecefc4f0d5cd635e6704e50139e9eb9e388b053dc5eeb",
+          "kind": "composition"
+        },
+        {
+          "slot": 7,
+          "path": "镜头设计/图像/扇子法术-v061/CY024A11-v061-r1.png",
+          "sha256": "c8a40fed7ceb385600ae99f79fe35636bb8d6c224f03528329619400759f868d",
+          "kind": "composition"
+        },
+        {
+          "slot": 8,
+          "path": "镜头设计/图像/扇子法术-v061/CY024A12-v061-r1.png",
+          "sha256": "a1a3f5396ba7320021b177a6fba7fa8bb694993e13f4d1152a7275e2185d9962",
+          "kind": "composition"
+        },
+        {
+          "slot": 9,
+          "path": "镜头设计/图像/目光与入场-v048/CY024A1-v048-r1.png",
+          "sha256": "b3cf735f3c15a4653287539da0afa463cbc1a1e159f9e568c172725affde02a1",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB020-1",
+      "shot_ids": [
+        "CY024A3"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 293.402729,
+      "film_end": 299.922729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB020-1-minimax-h3.txt",
+      "prompt_sha256": "4dc5cbe2ca5d90d8c7d9863daa91db61a87be349c02de028ec9ad4364de6d93f",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "镜头设计/图像/水珠与云顶-v030/CY024A3-v030-r1.png",
+          "sha256": "99412e6f86943a7dca59b5cb73445272b7582d8f82a08d2a6d43ab8b1a76614b",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB020-1R2",
+      "shot_ids": [
+        "CY024A6"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 299.922729,
+      "film_end": 311.272729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB020-1R2-minimax-h3.txt",
+      "prompt_sha256": "8a5403f58ce7f605143067b134372706e576404d10a682074035a0a9e94e2f85",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "镜头设计/图像/结印盘龙-v050/CY024A6-v050-r1.png",
+          "sha256": "7d47a428f4731958e5ff81d617dcaf42ae7d40c2f5234d3aa312c32f0d9b70ae",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB020-2",
+      "shot_ids": [
+        "CY024A7"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 311.272729,
+      "film_end": 316.862729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB020-2-minimax-h3.txt",
+      "prompt_sha256": "ced48f18e6327e7a919e1d94e4622f2bce1f15285765f55e84435480dbd1bc10",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "镜头设计/图像/生成前修正-v059/CY024A7-r2-v059.png",
+          "sha256": "4142424dbf2bcbd3147701dc85b004eaf5e2da28f9f6755e77f8f5d08ca6b14d",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB021",
+      "shot_ids": [
+        "CY024A5A",
+        "CY024A4",
+        "CY024A8"
+      ],
+      "model": "seedance25",
+      "request_seconds": 15,
+      "film_start": 316.862729,
+      "film_end": 328.442729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB021-seedance25.txt",
+      "prompt_sha256": "42b77dfcfeb1c6fe39d69c710a83f94c380c9f965dab4c5b0a5c549394962dda",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+          "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/生成前修正-v059/CY024A5A-v059.png",
+          "sha256": "03580a558fb2a675d198bbbe6d4d4a4379b1ae81c77c099631848fbf47fb7375",
+          "kind": "composition"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/暗月瞬临-v045/CY024A4-v045-r3.png",
+          "sha256": "09fa6831cbf4932b0636636dfddc49845ee1b67bedf2877e20e9ade483bba9ea",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/苍龙雷渊-v031/CY024A8-v031-r3.png",
+          "sha256": "d6143562c83800a48ee206e4d6363ff14222aa56c74e07f18150f1df19ff7828",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB022-1",
+      "shot_ids": [
+        "CY024A5",
+        "CY024A5B"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 328.442729,
+      "film_end": 341.942729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB022-1-minimax-h3.txt",
+      "prompt_sha256": "cbbd526f10b2445407725c065dd6ed94d6f18c3dd418a8c195a8ad4b07d747a3",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "镜头设计/图像/生成前修正-v059/CY024A5-v059.png",
+          "sha256": "548f1584110f1b19e6d4fce590f74d65f8bf3e4a5e901e8c2a54f9cbbefa6769",
+          "kind": "composition"
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/生成前修正-v059/CY024A5B-r2-v059.png",
+          "sha256": "737ce2e746a571795c849f9b8f69b6673988436217eb2da5c2f13259f79d865a",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB022-2",
+      "shot_ids": [
+        "CY024B"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 341.942729,
+      "film_end": 346.942729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB022-2-minimax-h3.txt",
+      "prompt_sha256": "9f6efbc7a6eab6e7da0b6ddc395be7271ee78253d8687a7573527c7fc6a87311",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "镜头设计/图像/生成前修正-v059/CY024B-v059.png",
+          "sha256": "9d65c82ded1227c8300e19f5c5f9ba4d5a209ea920e452fc06b72a805f15b792",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB023",
+      "shot_ids": [
+        "CY024B1",
+        "CY024B3",
+        "CY024B3A",
+        "CY027"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 346.942729,
+      "film_end": 358.942729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB023-minimax-h3.txt",
+      "prompt_sha256": "46cbbeb74b929e46e52abe35be0c7f727577e07f321b5a26a1b6aea9899d2771",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+          "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+          "kind": "identity"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/细节与显形-v052/CY024B1-v052-r1.png",
+          "sha256": "f05297353919a61ef38beb10ed392456654f812ee21d87b1f2f300d8b0a9291f",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/细节与显形-v052/CY024B3-v052-r1.png",
+          "sha256": "8cdd21ab096300147a6289f16ea8589ac517ab47e94684dc1fbe605c1b4e9362",
+          "kind": "composition"
+        },
+        {
+          "slot": 7,
+          "path": "镜头设计/图像/目光与入场-v048/CY024B3A-v048-r1.png",
+          "sha256": "514faf587a2e3dafb7023966eec417f0724713659eb8c537cc99a2b585ddc96f",
+          "kind": "composition"
+        },
+        {
+          "slot": 8,
+          "path": "镜头设计/图像/暗月瞬临-v045/CY027-v045-r1.png",
+          "sha256": "f91785c1ac15cfbdc5af90fc70dfaf311b876ac385e56d78a35bce8bee938d33",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB024",
+      "shot_ids": [
+        "CY027A",
+        "CY027B",
+        "CY027B1",
+        "CY027B2",
+        "CY027B3"
+      ],
+      "model": "seedance25",
+      "request_seconds": 15,
+      "film_start": 358.942729,
+      "film_end": 372.842729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB024-seedance25.txt",
+      "prompt_sha256": "00d2f3d8017e83d545027c6f19cf541f8d2afc6ed3305a0c8b397663f3b856c8",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/暗月瞬临-v045/CY027A-v045-r1.png",
+          "sha256": "309c537c9b466ae68788b5595dc8ae56aec467339f57a30bad87044408539076",
+          "kind": "composition"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/目光与入场-v048/CY027B-v048-r1.png",
+          "sha256": "7bd904d35e2e4dc881fb642a040afbebab3dd9aa9e66109cd9316e85a991a5b5",
+          "kind": "composition"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/关键动作-v062/CY027B1-v062-r1.png",
+          "sha256": "c6b32c8a212491a13b3a74bc2ebde08704541168d516c50005a8ed9f5ed13df9",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/独立镜头-v009/CY027B2-v009.png",
+          "sha256": "f2af33a63f169727b29d468faefa5b8b2f845511deee7c88dda6dcb76331aa01",
+          "kind": "composition"
+        },
+        {
+          "slot": 7,
+          "path": "镜头设计/图像/独立镜头-v009/CY027B3-v009.png",
+          "sha256": "f834353c05e2d1642f16e9d1859c7ceb2bfc9d5270c055141a4f14ddc368f25e",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB025",
+      "shot_ids": [
+        "CY027C",
+        "CY025",
+        "CY027E",
+        "CY027E1",
+        "CY027D0"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 372.842729,
+      "film_end": 386.842729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB025-minimax-h3.txt",
+      "prompt_sha256": "bd21a3774e9ba31f44e0fccad1880558c7dcd5afdde91a1f6e795db71b01b6dc",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "path": "资产/图像/CHAR-PALADIN-v001.png",
+          "sha256": "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d",
+          "kind": "identity"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/天瀑空间-v014/CY027C-v014.png",
+          "sha256": "99c01c10cbfa00cc3819d4a17fab3dbfa2952c905219ad9c818ba3853955e053",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/目光与入场-v048/CY025-v048-r1.png",
+          "sha256": "f05576c45ec4da41220460f5ddfe0cca6477699d2ade1e7d88dbb43f7ab900ea",
+          "kind": "composition"
+        },
+        {
+          "slot": 7,
+          "path": "镜头设计/图像/熄烛月光-v012/CY027E-v012.png",
+          "sha256": "bde230e5cb97fd364e20ce4925dbe98a8272b08ec9c422f74fbfd3ae71e026d2",
+          "kind": "composition"
+        },
+        {
+          "slot": 8,
+          "path": "镜头设计/图像/熄烛月光-v012/CY027E1-v012.png",
+          "sha256": "820fd1400170d86b400c66e3055b1cfd00970eb061a70460dadfccb04c4fd43d",
+          "kind": "composition"
+        },
+        {
+          "slot": 9,
+          "path": "镜头设计/图像/末轮叙事优化-v035/CY027D0-v035-r2.png",
+          "sha256": "84ff0d72046035d8398879d3d0de7646aa000c9232dbf45db09573139fd30907",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB026",
+      "shot_ids": [
+        "CY027D",
+        "CY027E2",
+        "CY027F",
+        "CY027F0"
+      ],
+      "model": "seedance25",
+      "request_seconds": 15,
+      "film_start": 386.842729,
+      "film_end": 398.842729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB026-seedance25.txt",
+      "prompt_sha256": "60ec748cd93d89efdbc078bd9435662d5282362af7e73023ad52ee4c8ebff5ab",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+          "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图复用/C06_Gemini-角色设定卡.png",
+          "sha256": "93b967c7dc79a90087885ddf096a8f6a3c2b531d562f930e3191de49deff8dab",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/四视图复用/C09_Grok-角色设定卡.png",
+          "sha256": "439924ef5fc8024902a10c55e6c67e3a750bda77ac891b38b139077061c06388",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "path": "资产/图像/四视图复用/C16_Tencent-Hunyuan-角色设定卡.png",
+          "sha256": "9bfe12f46b4244b52e77ee5ce66628389c0f1ca375bf5d38bc22738c863ab0cc",
+          "kind": "identity"
+        },
+        {
+          "slot": 5,
+          "path": "资产/图像/四视图复用/C10_Meta-角色设定卡.png",
+          "sha256": "0477217a3fd2dae568097f1743edcab00a20dbcf4880bf6cc32cadc61323c8dd",
+          "kind": "identity"
+        },
+        {
+          "slot": 6,
+          "path": "资产/图像/四视图复用/C05_Zai-GLM-角色设定卡.png",
+          "sha256": "3874fb8d6799fa7e3775dae95cc07f75b8a496e2806fec0a87092315df3043ef",
+          "kind": "identity"
+        },
+        {
+          "slot": 7,
+          "path": "资产/图像/四视图复用/C08_Mistral-角色设定卡.png",
+          "sha256": "48c6bc8343fedc417437c1706a2ca19dec26ca2007406bd365f21c00d8ecde9b",
+          "kind": "identity"
+        },
+        {
+          "slot": 8,
+          "path": "资产/图像/四视图复用/C07_Perplexity-角色设定卡.png",
+          "sha256": "23ed4cbde90f467ea97f50a77ecb6c9e212753ec191ddb7cab50cc638c7720f4",
+          "kind": "identity"
+        },
+        {
+          "slot": 9,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 10,
+          "path": "资产/图像/CHAR-PALADIN-v001.png",
+          "sha256": "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d",
+          "kind": "identity"
+        },
+        {
+          "slot": 11,
+          "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+          "kind": "identity"
+        },
+        {
+          "slot": 12,
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+          "kind": "identity"
+        },
+        {
+          "slot": 13,
+          "path": "镜头设计/图像/目光与入场-v048/CY027D-v048-r1.png",
+          "sha256": "f97aef426d66c147f3161da161241371c7c2b91f82966231306c4793e9ccb527",
+          "kind": "composition"
+        },
+        {
+          "slot": 14,
+          "path": "镜头设计/图像/天瀑空间-v014/CY027E2-v014-r1.png",
+          "sha256": "923711e34169601b7ad49d588060cee76ed6631024f87ff128c083b04a73f280",
+          "kind": "composition"
+        },
+        {
+          "slot": 15,
+          "path": "镜头设计/图像/细节与显形-v052/CY027F-v052-r1.png",
+          "sha256": "a0731b7569df7466f1d8fceb8d43b8e7f177c4897b27f924a499400cdac824d8",
+          "kind": "composition"
+        },
+        {
+          "slot": 16,
+          "path": "镜头设计/图像/月刃救援-v041/CY027F0-v041-r1.png",
+          "sha256": "9ec53f027cd891e24c6a9d8a18487c1126bc1a4e29b8c63dc51f82390b6da548",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB027",
+      "shot_ids": [
+        "CY027F2",
+        "CY027F1",
+        "CY027G",
+        "CY028A"
+      ],
+      "model": "seedance25",
+      "request_seconds": 15,
+      "film_start": 398.842729,
+      "film_end": 413.042729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB027-seedance25.txt",
+      "prompt_sha256": "ef4b3387233319d2147598a86b973701564b8d8a27aec14d3d17102030e1d3ae",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+          "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/目光与入场-v048/CY027F2-v048-r1.png",
+          "sha256": "81e574d8d45c0f2b118be0041f192caf947dc81c757f24c52f6c50457cf7819d",
+          "kind": "composition"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/火焰伤后与星火-v036/CY027F1-v036-r1.png",
+          "sha256": "0f885eaf7c57a4a0f0c6d19b2cdee7666a599fb6d7e399e92f74edc65f3456e3",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/目光与入场-v048/CY027G-v048-r1.png",
+          "sha256": "1a2eea63ed7e18bfbd3bdf489f275d3b95fd91163a6f3d98844fee56915a6a7b",
+          "kind": "composition"
+        },
+        {
+          "slot": 7,
+          "path": "镜头设计/图像/关键动作-v062/CY028A-v062-r1.png",
+          "sha256": "66c1e6a1e927241ff33e2e5b8ba3290917711e12b62b95cc8c0803c6549f9497",
+          "kind": "composition"
+        },
+        {
+          "slot": 8,
+          "path": "镜头设计/图像/目光与入场-v048/CY028A-v048-r1.png",
+          "sha256": "02236be584cb2307c450932230f9ae951ab0f052342f0048c5b907e2ba47cc76",
+          "kind": "state"
+        }
+      ]
+    },
+    {
+      "id": "GB028",
+      "shot_ids": [
+        "CY028A2",
+        "CY028B",
+        "CY028C",
+        "CY029",
+        "CY029E"
+      ],
+      "model": "seedance25",
+      "request_seconds": 15,
+      "film_start": 413.042729,
+      "film_end": 427.282729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB028-seedance25.txt",
+      "prompt_sha256": "938bcbad6bb329482cff517b00d61197503bd23b36436d52d428870dad3bb41a",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+          "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+          "kind": "identity"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/目光与入场-v048/CY028A2-v048-r1.png",
+          "sha256": "2006931f94b084f74ff229869ad6da3363000546ef53b1b65a2adcfa85865413",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/余波与锁痕-v053/CY028B-v053-r1.png",
+          "sha256": "8d2abd371758be941744679399ce3cc6c563c809ce65c93f4bbe12319ec059f2",
+          "kind": "composition"
+        },
+        {
+          "slot": 7,
+          "path": "镜头设计/图像/余波与锁痕-v053/CY028C-v053-r1.png",
+          "sha256": "bf2aae78b3b5c1936af01a43d2a0793cf781d3083c0f4b328c749d0a94cde275",
+          "kind": "composition"
+        },
+        {
+          "slot": 8,
+          "path": "镜头设计/图像/头纱连续-v013/CY029-v013.png",
+          "sha256": "1ee86672dd3ad67a1696b5c59c6d7425436b534f71a6e51d8c336a739b99a437",
+          "kind": "composition"
+        },
+        {
+          "slot": 9,
+          "path": "镜头设计/图像/天瀑空间-v014/CY029E-v014-r1.png",
+          "sha256": "2c68c03900736e42ab352f93ff44a2253db4658af19ac5b51f41a417b6f47d1f",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB029",
+      "shot_ids": [
+        "CY029E1",
+        "CY029E2",
+        "CY029E3",
+        "CY029E4"
+      ],
+      "model": "seedance25",
+      "request_seconds": 15,
+      "film_start": 427.282729,
+      "film_end": 440.662729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB029-seedance25.txt",
+      "prompt_sha256": "bc1f58a53ef9661b7958b15aae3b8e2670d554bd9a1251415d6b65763c2fd340",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+          "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+          "kind": "identity"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/火焰伤后与星火-v036/CY029E1-v036-r1.png",
+          "sha256": "5f3812747ba948f49c63d6381b535ce796496dcbf71079a640bccd55c2b64607",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/末轮叙事优化-v035/CY029E2-v035-r1.png",
+          "sha256": "45a6465264e34b2d075454014017ece7ca7eb3c781e26ca7c10af7925258626e",
+          "kind": "composition"
+        },
+        {
+          "slot": 7,
+          "path": "镜头设计/图像/火焰伤后与星火-v036/CY029E3-v036-r1.png",
+          "sha256": "1add6e04bd4c79f7ab4b29b61dfe5edca5be9573c9a7025e16a75a7e01bcea7b",
+          "kind": "composition"
+        },
+        {
+          "slot": 8,
+          "path": "镜头设计/图像/目光与入场-v048/CY029E4-v048-r1.png",
+          "sha256": "8a4e846a6193fe0734c79dfc3c24edb75fa36f899f9e3893cc60b9515559a24b",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB030-1",
+      "shot_ids": [
+        "CY029B1",
+        "CY029B2",
+        "CY029B",
+        "CY029C",
+        "CY029D"
+      ],
+      "model": "seedance25",
+      "request_seconds": 15,
+      "film_start": 440.662729,
+      "film_end": 454.022729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB030-1-seedance25.txt",
+      "prompt_sha256": "3c37ef097538141de33b65074fc8f760a662e2e43e7b34ca92e77eb410953b83",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/火焰伤后与星火-v036/CY029B1-v036-r1.png",
+          "sha256": "5c1b217da403575f03a47b8675726604f9f5dfb2b7f523bc8d6bd2848cf70da5",
+          "kind": "composition"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/火种主观-v027/CY029B2-v027-r1.png",
+          "sha256": "0dd08ca242baa694a272ecebac3759926d81108199d3e317dbf3a8bbcacefa34",
+          "kind": "composition"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/火焰伤后与星火-v036/CY029B-v036-r1.png",
+          "sha256": "08798cb3d797ec539e7f250c2f24ae70d9555e97dc4848520c9f9685d15242f2",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/关键动作-v062/CY029C-v062-r3.png",
+          "sha256": "38e05ea54215ca5ced2c22e6bcbf1ece71627214adf2759461069ce2bcc1dcd1",
+          "kind": "composition"
+        },
+        {
+          "slot": 7,
+          "path": "镜头设计/图像/关键动作-v062/CY029D-v062-r2.png",
+          "sha256": "26b98e245d2de511a8e41d5a5ef6d532ff7b2e7c4e12d012f4a3394191663f30",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB030-2",
+      "shot_ids": [
+        "CY028"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 454.022729,
+      "film_end": 457.022729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB030-2-minimax-h3.txt",
+      "prompt_sha256": "cf57d0aeaff546c9088d927a80f20dd7cd40c47062b56a0a0689a1173fd84482",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/火焰伤后与星火-v036/CY028-v036-r1.png",
+          "sha256": "518dd09f75b2f8910e30f8742c7cc1a61d21dbc502e26dd86c8c1b57e8b8be7b",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB031",
+      "shot_ids": [
+        "CY029A",
+        "CY030",
+        "CY031"
+      ],
+      "model": "seedance25",
+      "request_seconds": 15,
+      "film_start": 457.022729,
+      "film_end": 471.022729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB031-seedance25.txt",
+      "prompt_sha256": "26588683934da005abf8519963ac21521f8e6747f97dc53e8a63eb7b045a2382",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+          "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+          "kind": "identity"
+        },
+        {
+          "slot": 5,
+          "path": "资产/图像/四视图复用/C06_Gemini-角色设定卡.png",
+          "sha256": "93b967c7dc79a90087885ddf096a8f6a3c2b531d562f930e3191de49deff8dab",
+          "kind": "identity"
+        },
+        {
+          "slot": 6,
+          "path": "资产/图像/四视图复用/C09_Grok-角色设定卡.png",
+          "sha256": "439924ef5fc8024902a10c55e6c67e3a750bda77ac891b38b139077061c06388",
+          "kind": "identity"
+        },
+        {
+          "slot": 7,
+          "path": "资产/图像/四视图复用/C16_Tencent-Hunyuan-角色设定卡.png",
+          "sha256": "9bfe12f46b4244b52e77ee5ce66628389c0f1ca375bf5d38bc22738c863ab0cc",
+          "kind": "identity"
+        },
+        {
+          "slot": 8,
+          "path": "资产/图像/四视图复用/C10_Meta-角色设定卡.png",
+          "sha256": "0477217a3fd2dae568097f1743edcab00a20dbcf4880bf6cc32cadc61323c8dd",
+          "kind": "identity"
+        },
+        {
+          "slot": 9,
+          "path": "资产/图像/四视图复用/C05_Zai-GLM-角色设定卡.png",
+          "sha256": "3874fb8d6799fa7e3775dae95cc07f75b8a496e2806fec0a87092315df3043ef",
+          "kind": "identity"
+        },
+        {
+          "slot": 10,
+          "path": "资产/图像/四视图复用/C08_Mistral-角色设定卡.png",
+          "sha256": "48c6bc8343fedc417437c1706a2ca19dec26ca2007406bd365f21c00d8ecde9b",
+          "kind": "identity"
+        },
+        {
+          "slot": 11,
+          "path": "资产/图像/四视图复用/C07_Perplexity-角色设定卡.png",
+          "sha256": "23ed4cbde90f467ea97f50a77ecb6c9e212753ec191ddb7cab50cc638c7720f4",
+          "kind": "identity"
+        },
+        {
+          "slot": 12,
+          "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+          "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc",
+          "kind": "identity"
+        },
+        {
+          "slot": 13,
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+          "kind": "identity"
+        },
+        {
+          "slot": 14,
+          "path": "资产/图像/CHAR-PALADIN-v001.png",
+          "sha256": "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d",
+          "kind": "identity"
+        },
+        {
+          "slot": 15,
+          "path": "镜头设计/图像/火焰伤后与星火-v036/CY029A-v036-r1.png",
+          "sha256": "93c6d6fca455d88b769773b3a8874b679500362317045062704fe31b2144f5a5",
+          "kind": "composition"
+        },
+        {
+          "slot": 16,
+          "path": "镜头设计/图像/火焰伤后与星火-v036/CY030-v036-r1.png",
+          "sha256": "4b4969b67a24902301c26f4628fece7d79f6943145e4d3bf585f780258682b75",
+          "kind": "composition"
+        },
+        {
+          "slot": 17,
+          "path": "镜头设计/图像/独立镜头-v009/CY031-v009.png",
+          "sha256": "b96a52892235847d16d96908cc76ac433f8eddf5a62cf984932d3a3f08ee0e95",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB032",
+      "shot_ids": [
+        "CY031A",
+        "CY032A",
+        "CY033"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 471.022729,
+      "film_end": 481.022729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB032-minimax-h3.txt",
+      "prompt_sha256": "07b7dbc53ec0873e77b559bd08de33a0b9fe7cc70090d59c761367a63239608e",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "path": "资产/图像/四视图复用/C09_Grok-角色设定卡.png",
+          "sha256": "439924ef5fc8024902a10c55e6c67e3a750bda77ac891b38b139077061c06388",
+          "kind": "identity"
+        },
+        {
+          "slot": 5,
+          "path": "镜头设计/图像/独立镜头-v009/CY031A-v009.png",
+          "sha256": "9c0c5fd1542d56d6bd5daf86f56c35900e8d0f124ecf10491ce5c525869ec7d8",
+          "kind": "composition"
+        },
+        {
+          "slot": 6,
+          "path": "镜头设计/图像/细节F-接勺握持-v002.png",
+          "sha256": "d19d00ca7d0b68f3f107390adfeee6b904a87d11f53bbe420482f5becb28c775",
+          "kind": "composition"
+        },
+        {
+          "slot": 7,
+          "path": "镜头设计/图像/独立镜头-v009/CY033-v009.png",
+          "sha256": "d503d8c10733930a551e5af5b6fc2fac0abb73c2e9a1df7aae667c501c5c78c6",
+          "kind": "composition"
+        }
+      ]
+    },
+    {
+      "id": "GB033",
+      "shot_ids": [
+        "CY034A",
+        "CY034"
+      ],
+      "model": "minimax-h3",
+      "request_seconds": 15,
+      "film_start": 481.022729,
+      "film_end": 490.022729,
+      "prompt_file": "视频制作/生成板-v025/提示词/GB033-minimax-h3.txt",
+      "prompt_sha256": "fde7320a9499bccced17de669a33413a47e63b6b307ed75539657f7e6d8bdc02",
+      "reference_order": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/长吟唱护盾与结尾-v029/CY034A-v029-r1.png",
+          "sha256": "618c7554631a9f03fb6abe13d3943204d2674a69fd378caf105a8176c61cccf8",
+          "kind": "composition"
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/长吟唱护盾与结尾-v029/CY034-v029-r1.png",
+          "sha256": "656789f33489f19240985772e1eb5aa272267372f3d310e99f541475b4bc639a",
+          "kind": "composition"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "edits": [
+    {
+      "id": "church_space",
+      "batch": 7,
+      "start": 2126,
+      "end": 2198,
+      "reason": "初见教堂纵深延长1.5秒，先读清祭坛关系再靠近",
+      "segments": [
+        {
+          "source": "视频制作/LibTV-H3-v001/产物/GB006-H3-v001.mp4",
+          "in": 240,
+          "out": 312,
+          "frames": 108,
+          "props": {},
+          "anchor": "church_space"
+        }
+      ]
+    },
+    {
+      "id": "child_decision",
+      "batch": 10,
+      "start": 3007,
+      "end": 3007,
+      "reason": "听见搬柴后先有决定，再接原有下阶",
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v006/产物/GB008R2-v006-CY016C-decision-r1.mp4",
+          "in": 6,
+          "out": 66,
+          "frames": 60,
+          "props": {},
+          "anchor": "child_decision"
+        }
+      ]
+    },
+    {
+      "id": "acolyte_force",
+      "batch": 11,
+      "start": 3079,
+      "end": 3199,
+      "reason": "短拉扯后明确掌根推、失衡、落地，裁掉无效等待",
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v006/产物/GB009-v006-CY016D-force-r1.mp4",
+          "in": 12,
+          "out": 36,
+          "frames": 24,
+          "props": {},
+          "anchor": "acolyte_force"
+        },
+        {
+          "source": "视频制作/Metaso-H3-v006/产物/GB009-v006-CY016D-force-r1.mp4",
+          "in": 48,
+          "out": 138,
+          "frames": 90,
+          "props": {}
+        }
+      ]
+    },
+    {
+      "id": "father_audio",
+      "batch": 12,
+      "start": 3388,
+      "end": 3526,
+      "reason": "以作者当前两段原声剪辑驱动口型，替换快慢嘴分段",
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v006/产物/GB010-v006-CY021A-audio-r1.mp4",
+          "in": 0,
+          "out": 144,
+          "frames": 144,
+          "props": {
+            "ZoomX": 1,
+            "ZoomY": 1,
+            "Pan": 0,
+            "Tilt": 0
+          },
+          "anchor": "father_audio",
+          "follow_face": true
+        }
+      ]
+    },
+    {
+      "id": "father_force",
+      "batch": 13,
+      "start": 3722,
+      "end": 3806,
+      "reason": "拒用首轮悬浮轻放，二轮脚接地；剪掉托肩等待，落地后留恢复",
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v006/产物/GB011-1-v006-CY020A-force-r2.mp4",
+          "in": 0,
+          "out": 18,
+          "frames": 18,
+          "props": {},
+          "anchor": "father_force"
+        },
+        {
+          "source": "视频制作/Metaso-H3-v006/产物/GB011-1-v006-CY020A-force-r2.mp4",
+          "in": 36,
+          "out": 66,
+          "frames": 30,
+          "props": {}
+        },
+        {
+          "source": "视频制作/Metaso-H3-v006/产物/GB011-1-v006-CY020A-force-r2.mp4",
+          "in": 66,
+          "out": 96,
+          "frames": 48,
+          "props": {}
+        }
+      ]
+    },
+    {
+      "id": "claude_audio",
+      "batch": 14,
+      "start": 3806,
+      "end": 3908,
+      "reason": "原选声驱动两次发话，停顿用受缚手部承接，保留句后等待",
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v006/产物/GB011-2-v006-CY021-audio-r1.mp4",
+          "in": 0,
+          "out": 33,
+          "frames": 33,
+          "props": {
+            "ZoomX": 1.344,
+            "ZoomY": 1.344,
+            "Pan": 0,
+            "Tilt": -132.384
+          },
+          "anchor": "claude_audio"
+        },
+        {
+          "source": "视频制作/LibTV-H3-v001/产物/GB011-2-H3-v001.mp4",
+          "in": 84,
+          "out": 126,
+          "frames": 42,
+          "props": {}
+        },
+        {
+          "source": "视频制作/Metaso-H3-v006/产物/GB011-2-v006-CY021-audio-r1.mp4",
+          "in": 75,
+          "out": 144,
+          "frames": 69,
+          "props": {
+            "ZoomX": 1.344,
+            "ZoomY": 1.344,
+            "Pan": 0,
+            "Tilt": -132.384
+          }
+        }
+      ]
+    },
+    {
+      "id": "father_refusal",
+      "batch": 14,
+      "start": 3908,
+      "end": 3908,
+      "reason": "女儿说完后父亲闭口拒绝并转向刑火；不加新台词",
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v006/产物/GB011-2-v006-CY021-father-r1.mp4",
+          "in": 12,
+          "out": 84,
+          "frames": 72,
+          "props": {},
+          "anchor": "father_refusal"
+        }
+      ]
+    },
+    {
+      "id": "kimi_defense",
+      "batch": 20,
+      "start": 5244,
+      "end": 5340,
+      "reason": "先蓄力、Kimi落脚挥刃、立即命中，接不透明罩余波",
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v006/产物/GB015-2-v006-CY024K3-defense-r1.mp4",
+          "in": 0,
+          "out": 48,
+          "frames": 48,
+          "props": {},
+          "anchor": "kimi_defense"
+        },
+        {
+          "source": "视频制作/Metaso-H3-v006/产物/GB015-2-v006-CY024K3-defense-r1.mp4",
+          "in": 63,
+          "out": 102,
+          "frames": 39,
+          "props": {},
+          "anchor": "kimi_contact"
+        },
+        {
+          "source": "视频制作/Metaso-H3-v003/剪辑候选/GB015-2-v003.mp4",
+          "in": 78,
+          "out": 96,
+          "frames": 18,
+          "props": {}
+        }
+      ]
+    },
+    {
+      "id": "gpt_chant",
+      "batch": 26,
+      "start": 6419,
+      "end": 6776,
+      "reason": "咏唱恢复施术者主体，保留敌矛与扇盾因果，云天承接水息",
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v006/产物/GB019-v006-CY024A9-caster-r1.mp4",
+          "in": 0,
+          "out": 54,
+          "frames": 54,
+          "props": {},
+          "anchor": "gpt_chant"
+        },
+        {
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB019-v002.mp4",
+          "in": 0,
+          "out": 108,
+          "frames": 108,
+          "props": {},
+          "anchor": "spear_fan"
+        },
+        {
+          "source": "视频制作/Metaso-H3-v006/产物/GB019-v006-CY024A9-caster-r1.mp4",
+          "in": 162,
+          "out": 360,
+          "frames": 198,
+          "props": {}
+        }
+      ]
+    },
+    {
+      "id": "retreating_water",
+      "batch": 33,
+      "start": 8020,
+      "end": 8020,
+      "reason": "补回退水中段，让水击结果先被读清",
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v001/产物/GB023-Metaso-H3-v001.mp4",
+          "in": 36,
+          "out": 72,
+          "frames": 36,
+          "props": {},
+          "anchor": "retreating_water"
+        }
+      ]
+    },
+    {
+      "id": "aftermath_space",
+      "batch": 33,
+      "start": 8020,
+      "end": 8080,
+      "reason": "保护罩与退水全景延长一秒，给音乐落点与空间恢复",
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v001/产物/GB023-Metaso-H3-v001.mp4",
+          "in": 72,
+          "out": 132,
+          "frames": 84,
+          "props": {},
+          "anchor": "aftermath_space"
+        }
+      ]
+    },
+    {
+      "id": "claude_offscreen",
+      "batch": 37,
+      "start": 9405,
+      "end": 9442,
+      "reason": "Claude半句改由闭口小鱼反应承接，保留扶下前后动作",
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB028-v002.mp4",
+          "in": 15,
+          "out": 52,
+          "frames": 37,
+          "props": {},
+          "anchor": "claude_offscreen"
+        }
+      ]
+    }
+  ],
+  "tempo_voice_ids": [
+    "VO-CY024A-01",
+    "VO-CY024A9-01",
+    "VO-CY024A2-01",
+    "VO-CY024A3-01"
+  ],
+  "voice_overrides": {
+    "VO-CY021A-01": {
+      "anchor": "father_audio",
+      "offset": 0.35,
+      "retain_part_offsets": true
+    },
+    "VO-CY021-01": {
+      "anchor": "claude_audio",
+      "offset": 0.4
+    },
+    "VO-CY024A9-01": {
+      "anchor": "gpt_chant",
+      "offset": 0.25
+    },
+    "VO-CY024A2-01": {
+      "anchor": "gpt_chant",
+      "offset": 7.031458
+    },
+    "VO-CY027B-01": {
+      "shift_frames": 13
+    }
+  },
+  "sound_events": [
+    {
+      "ident": "V3-wood-trigger",
+      "src": "wooden-board1",
+      "kind": "Foley",
+      "anchor": "child_decision",
+      "offset": 0.1,
+      "dur": 0.6,
+      "peak": -22
+    },
+    {
+      "ident": "V3-turn-cloth",
+      "src": "rustling-of-clothes1",
+      "kind": "Foley",
+      "anchor": "child_decision",
+      "offset": 1.65,
+      "dur": 0.65,
+      "peak": -25
+    },
+    {
+      "ident": "V3-push-palm",
+      "src": "punch-light2",
+      "kind": "Action",
+      "anchor": "acolyte_force",
+      "offset": 1.375,
+      "dur": 0.55,
+      "peak": -17
+    },
+    {
+      "ident": "V3-push-cloth",
+      "src": "rustling-of-clothes2",
+      "kind": "Foley",
+      "anchor": "acolyte_force",
+      "offset": 1.34,
+      "dur": 0.65,
+      "peak": -24
+    },
+    {
+      "ident": "V3-child-ground",
+      "src": "real-down1",
+      "kind": "Action",
+      "anchor": "acolyte_force",
+      "offset": 2.25,
+      "dur": 1,
+      "peak": -16
+    },
+    {
+      "ident": "V3-child-hand",
+      "src": "wall-hit1",
+      "kind": "Foley",
+      "anchor": "acolyte_force",
+      "offset": 2.2,
+      "dur": 0.45,
+      "peak": -22
+    },
+    {
+      "ident": "V3-acolyte-leaves",
+      "src": "walk-leather-shoes1",
+      "kind": "Foley",
+      "anchor": "acolyte_force",
+      "offset": 3.6,
+      "dur": 1.1,
+      "peak": -24
+    },
+    {
+      "ident": "V3-father-push",
+      "src": "punch-light2",
+      "kind": "Action",
+      "anchor": "father_force",
+      "offset": 0.5,
+      "dur": 0.5,
+      "peak": -17
+    },
+    {
+      "ident": "V3-father-slip",
+      "src": "walk-leather-shoes1",
+      "kind": "Foley",
+      "anchor": "father_force",
+      "offset": 1,
+      "dur": 0.55,
+      "peak": -25
+    },
+    {
+      "ident": "V3-father-ground",
+      "src": "real-down1",
+      "kind": "Action",
+      "anchor": "father_force",
+      "offset": 1.75,
+      "dur": 0.9,
+      "peak": -16
+    },
+    {
+      "ident": "V3-father-hand",
+      "src": "wall-hit1",
+      "kind": "Foley",
+      "anchor": "father_force",
+      "offset": 1.7,
+      "dur": 0.45,
+      "peak": -22
+    },
+    {
+      "ident": "V3-priest-robe",
+      "src": "rustling-of-clothes3",
+      "kind": "Foley",
+      "anchor": "father_refusal",
+      "offset": 2.25,
+      "dur": 0.65,
+      "peak": -25
+    },
+    {
+      "ident": "V3-claude-binding",
+      "src": "key1",
+      "kind": "Foley",
+      "anchor": "claude_audio",
+      "offset": 1.45,
+      "dur": 0.6,
+      "peak": -28,
+      "purpose": "既有金属小响作束缚轻响代理，不宣称新录链声"
+    },
+    {
+      "ident": "V3-kimi-plant",
+      "src": "walk-leather-shoes1",
+      "kind": "Foley",
+      "anchor": "kimi_defense",
+      "offset": 1.2,
+      "dur": 0.45,
+      "peak": -20
+    },
+    {
+      "ident": "V3-kimi-draw",
+      "src": "mixkit-2799",
+      "kind": "Action",
+      "anchor": "kimi_defense",
+      "offset": 1.5,
+      "dur": 0.6,
+      "peak": -21
+    },
+    {
+      "ident": "V3-shield-arc",
+      "src": "magic-wind1",
+      "kind": "Magic",
+      "anchor": "kimi_defense",
+      "offset": 1.6,
+      "dur": 0.65,
+      "peak": -20
+    },
+    {
+      "ident": "V3-shield-strike",
+      "src": "mixkit-1306",
+      "kind": "Action",
+      "anchor": "kimi_contact",
+      "offset": 0.2,
+      "dur": 2,
+      "peak": -14
+    },
+    {
+      "ident": "V3-shield-pressure",
+      "src": "magic-reflection1",
+      "kind": "Magic",
+      "anchor": "kimi_contact",
+      "offset": 0.24,
+      "dur": 1.5,
+      "peak": -20
+    },
+    {
+      "ident": "V3-shield-settle",
+      "src": "magic-wind1",
+      "kind": "Magic",
+      "anchor": "kimi_contact",
+      "offset": 1.1,
+      "dur": 1.2,
+      "peak": -27
+    },
+    {
+      "ident": "V3-spear-whoosh",
+      "src": "sword-drawn1",
+      "kind": "Action",
+      "anchor": "spear_fan",
+      "offset": 0.6,
+      "dur": 0.6,
+      "peak": -21
+    },
+    {
+      "ident": "V3-fan-catch",
+      "src": "mixkit-2794",
+      "kind": "Action",
+      "anchor": "spear_fan",
+      "offset": 1.5,
+      "dur": 0.8,
+      "peak": -17
+    },
+    {
+      "ident": "V3-fan-shield",
+      "src": "magic-reflection1",
+      "kind": "Magic",
+      "anchor": "spear_fan",
+      "offset": 1.55,
+      "dur": 2,
+      "peak": -23
+    },
+    {
+      "ident": "V3-lock-382",
+      "src": "mixkit-2858",
+      "kind": "Foley",
+      "baseline_time": 382,
+      "dur": 0.8,
+      "peak": -22
+    },
+    {
+      "ident": "V3-lock-383.2",
+      "src": "mixkit-2858",
+      "kind": "Foley",
+      "baseline_time": 383.2,
+      "dur": 0.8,
+      "peak": -22
+    },
+    {
+      "ident": "V3-lock-386",
+      "src": "mixkit-2858",
+      "kind": "Foley",
+      "baseline_time": 386,
+      "dur": 0.8,
+      "peak": -22
+    }
+  ],
+  "not_adopted": [
+    "GB011-1-v006-CY020A-force-r1"
+  ],
+  "export_policy": "不导出，达芬奇工程内核验"
+}

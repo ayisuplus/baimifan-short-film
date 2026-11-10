@@ -1,0 +1,36 @@
+subject_definitions:
+<Subject 1> is DeepSeek, the small blue-haired, blue-eyed child in the four-view character sheet <Picture 1>. The front, two side and rear views depict one character, not four people; do not copy the neutral pose or sheet layout. Preserve her round face, baby proportions, whale hat and blue outfit. The same character appears in <Picture 3>, <Picture 5> and <Picture 6>; these images guide staging, not a replacement identity.
+<Subject 2> is Claude in the four-view character sheet <Picture 2>; its four angles depict one character, with orange hair, amber eyes, an embroidered white dress, an orange flower on her own left temple and an ivory veil.
+<Subject 3> is the sunlit Gothic market and black-and-gold-robed procession in <Picture 3> and <Picture 4>.
+<Subject 4> is the metal bowl heaped with white rice, held by <Subject 1> in <Picture 3> and <Picture 5>, and shown closely in <Picture 6>. <Picture 1> contains no bowl.
+<Picture 3> guides the wide composition of [Shot 1].
+<Picture 4> guides the foreground framing of Claude in [Shot 2].
+<Picture 5> guides the over-shoulder composition of [Shot 3], with the child on the left and Claude partly visible at the right edge.
+<Picture 6> guides the bowl close-up of [Shot 4], including its position between the characters. These four pictures are composition references, not prescribed first frames or held slides.
+
+summary:
+[reference generation] A 15-second, four-shot animated encounter: <Subject 1> stops before the procession in <Subject 3>, meets the gaze of <Subject 2>, offers <Subject 4>, and waits without receiving a response. Eyeline cuts and a bowl-position match connect one continuous event. The child remains on the left of Claude; all cameras stay on the same side of their interaction axis.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 3], [Shot 4]): fully_preserved - identity and clothing follow the four-view character sheet; in [Shot 4], only her hands and partial body are visible.
+<Subject 2> (appears in [Shot 2], [Shot 3], [Shot 4]): fully_preserved - identity and left-side flower remain consistent; only a shoulder or cropped hair and dress are visible in the last two shots.
+<Subject 3> (appears in all four shots): fully_preserved - market architecture, daylight and robe designs persist across the exchange.
+<Subject 4> (appears in [Shot 1], [Shot 3], [Shot 4]): fully_preserved - the same full bowl stays in the child's two hands.
+<Picture 3> ([Shot 1] composition): fully_preserved - retain the low wide layout; animate the approach and stop.
+<Picture 4> ([Shot 2] composition): fully_preserved - retain the enclosing foreground robes; animate Claude turning into the reference view.
+<Picture 5> ([Shot 3] composition): fully_preserved - retain relative placement while the child lifts and extends the bowl once.
+<Picture 6> ([Shot 4] composition): fully_preserved - retain the offered bowl, hand placement and unbridged gap. No image is imposed as an exact opening or ending frame.
+
+detailed_description:
+The video follows the supplied Gothic fantasy animation design, with warm market daylight and deep black robe foregrounds. Preserve the reference colors and render continuous character animation without captions or reference labels.
+[Shot 1] A child-eye-level wide shot uses <Picture 3> to establish <Subject 3>. <Subject 1> walks briskly toward screen right, holding <Subject 4> steadily in both hands. The camera tracks laterally at her pace; stalls and near robes pass at different speeds. Her hat, hair and hem respond to each step. As robed figures cross her path, she slows and stops, and the camera eases to a stop with her. She raises her gaze toward someone to the right. Her footfalls cease while the procession's fabric remains audible.
+[Shot 2] At 00:05.000, an eyeline cut reveals <Subject 2> in the medium close framing of <Picture 4>. She starts facing along the procession, then turns toward the footfalls that have just stopped, looking down toward screen left. The camera holds still as near robes drift past and her veil moves gently. Her eyes settle on the child and sustain the connection for a beat. Market ambience carries across the cut without restarting. She does not speak.
+[Shot 3] At 00:09.000, a reverse eyeline cut places the camera beside Claude's shoulder, using <Picture 5>. <Subject 1> looks up at Claude, glances at <Subject 4>, then raises and extends it toward screen right. The camera pushes in slowly with small amplitude, keeping the child's face, bowl and Claude's cropped shoulder visible. Beginning around 9.8 seconds, the child, <Subject 1> (S1), speaks with an inviting emotion: <d>[Japanese] 少し食べる？</d> She completes the sentence before the next cut. The bowl reaches the space between them; both hands retain their grip.
+[Shot 4] At 00:12.000, cut to the close-up composition of <Picture 6>, matching the bowl's rim height, angle and hand positions from the previous shot. Continue the preceding gentle push briefly and ease to rest. The child does not lift or offer the bowl again. Steam rises above the rice during two seconds of waiting. Claude's dress and hair remain cropped at the right edge; no receiving hand enters. From 14 to 15 seconds, sustain this same state with breathing micro-movement and changing steam, without a new action or line.
+
+overall_soundscape:
+Action targets: 12s: Match-cut to the offered bowl.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Continuous market murmur, footsteps and robe rustle connect the shots. The market recedes as the framing tightens; quiet sleeve movement accompanies the single offer. No additional intelligible crowd speech, repeated dialogue, impact sound or music is heard.
+
+non_diegetic_music: N/A

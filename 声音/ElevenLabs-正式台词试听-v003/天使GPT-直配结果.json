@@ -1,0 +1,126 @@
+{
+  "role": "天使GPT",
+  "status": "web_direct_tts_saved_pending_review",
+  "lines": [
+    {
+      "id": "VO-CY008M-02",
+      "role": "天使GPT",
+      "previous_batch": 5,
+      "previous_record_frame": 1379,
+      "previous_ja": "でも、この子を見てよ……あの人たち、正気なの？本当にクロードを焼き殺そうとしてるんだよ！",
+      "previous_zh": "可你看看这孩子……那些人疯了吗？他们真的要烧死克劳德啊！",
+      "previous_audio_duration_seconds": 10.009974999999997,
+      "status": "revised_draft",
+      "ja": "それで、見殺しにするの？",
+      "zh_back_translation": "所以，就眼看着她死吗？",
+      "direction": "紧接守约提醒，轻而尖锐地质问；不再复述献祭，也不喊口号。",
+      "reading_hints": {},
+      "revision_history": [
+        {
+          "version": "v0.66",
+          "ja": "でも、この子を見てよ……クロードを見殺しにするの？",
+          "zh_back_translation": "可是，你看看这孩子……难道就眼看着Claude死吗？",
+          "direction": "逼问自己的良心，句尾落在见死不救的选择上，不重复说明火祭。"
+        }
+      ]
+    }
+  ],
+  "previews": [
+    {
+      "file": "天使GPT-直配-5fCDhoDObEpAuqJzCr2j.mp3",
+      "candidate": 1,
+      "history": {
+        "alignments": null,
+        "avatar_context": null,
+        "character_count_change_from": 728,
+        "character_count_change_to": 740,
+        "content_type": "audio/mpeg",
+        "date_unix": 1793257860,
+        "dialogue": [
+          {
+            "text": "それで、見殺しにするの？",
+            "voice_id": "WQz3clzUdMqvBf0jswZQ",
+            "voice_name": "Shizuka - Natural and Soft"
+          }
+        ],
+        "feedback": null,
+        "history_item_id": "5fCDhoDObEpAuqJzCr2j",
+        "model_id": "eleven_v4",
+        "output_format": "mp3_44100_128",
+        "request_id": "Q7YmEBbYdhrInOGXcHBT",
+        "settings": {
+          "focus": null,
+          "internal_sampling_config": null,
+          "similarity": 0.75,
+          "stability": 0.5,
+          "text_boost": false
+        },
+        "share_link_id": null,
+        "source": "TTS",
+        "state": "created",
+        "text": null,
+        "voice_category": null,
+        "voice_id": null,
+        "voice_name": null
+      },
+      "sha256": "5b6957dcdec935834cb2e2fa9dbf5ec7c2a481d82159005995250b98d841c560",
+      "bytes": 57061,
+      "media": {
+        "format": {
+          "duration": "2.507750"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    },
+    {
+      "file": "天使GPT-直配-CvlRnpKJkqPg3k9td14h.mp3",
+      "candidate": 2,
+      "history": {
+        "alignments": null,
+        "avatar_context": null,
+        "character_count_change_from": 728,
+        "character_count_change_to": 728,
+        "content_type": "audio/mpeg",
+        "date_unix": 1793257862,
+        "dialogue": [
+          {
+            "text": "それで、見殺しにするの？",
+            "voice_id": "WQz3clzUdMqvBf0jswZQ",
+            "voice_name": "Shizuka - Natural and Soft"
+          }
+        ],
+        "feedback": null,
+        "history_item_id": "CvlRnpKJkqPg3k9td14h",
+        "model_id": "eleven_v4_exp",
+        "output_format": "mp3_44100_128",
+        "request_id": "NGtTtXulw4uHb2Gfj2es",
+        "settings": {
+          "focus": null,
+          "internal_sampling_config": null,
+          "similarity": 0.75,
+          "stability": 0.5,
+          "text_boost": false
+        },
+        "share_link_id": null,
+        "source": "TTS",
+        "state": "created",
+        "text": null,
+        "voice_category": null,
+        "voice_id": null,
+        "voice_name": null
+      },
+      "sha256": "791233d5f257da6263b7484eb746fb0d4fba5e58f66674f6fca2bcdd09279e92",
+      "bytes": 55807,
+      "media": {
+        "format": {
+          "duration": "2.429375"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    }
+  ],
+  "generation_count": 1,
+  "note": "One web submission can produce main and experimental variants; history records actual charge."
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "file": "006_小鱼回答转身_渐暗_v019.mp4",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1344,
+        "height": 768,
+        "r_frame_rate": "24/1",
+        "nb_frames": "107"
+      }
+    ],
+    "sha256": "e46d7b89aa725e7c222f10e17719213488fb74a465a89227b2cd8f8c1f3db143"
+  },
+  {
+    "file": "007_小鱼离开_逐灯熄灭_v019.mp4",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1344,
+        "height": 768,
+        "r_frame_rate": "24/1",
+        "nb_frames": "90"
+      }
+    ],
+    "sha256": "200648cee64fd1dc7c502dd31f972237c5ba35990510377e252460996f3e3e3c"
+  },
+  {
+    "file": "008_GPT手部反应_暗场承接_v019.mp4",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1344,
+        "height": 768,
+        "r_frame_rate": "24/1",
+        "nb_frames": "72"
+      }
+    ],
+    "sha256": "38f240ffd7589e63c0527a9e3981d5d5cc4f087a9e5abee3cb0f9885461c13b3"
+  },
+  {
+    "file": "009_离殿远景_暗场承接_v019.mp4",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1344,
+        "height": 768,
+        "r_frame_rate": "24/1",
+        "nb_frames": "78"
+      }
+    ],
+    "sha256": "303b2045b3f29437a4b89eb80773e231f957e8c8144ba22b4bd97513626f9a80"
+  },
+  {
+    "file": "009_离殿远景_灯光渐熄_v019.mp4",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1344,
+        "height": 768,
+        "r_frame_rate": "24/1",
+        "nb_frames": "78"
+      }
+    ],
+    "sha256": "b76dae9825b99542a2f8b8058c6aeb3bdda5cee8a02ac6f4da52718bb03a7b67"
+  }
+]

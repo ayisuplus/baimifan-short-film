@@ -1,0 +1,101 @@
+请求参数说明
+#
+参数	类型	是否必填	说明
+prompt	String	可选	
+文本长度限制: 0 - 20480
+视频生成提示词
+
+resolution	String	必填	
+枚举值:
+480p
+720p
+native1080p
+1080p
+2k
+4k
+视频分辨率。分为模型原生输出的分辨率（480p、720p、native1080p），与基于 720p 原生生成后进行超分放大的分辨率（1080p、2k、4k）。
+
+duration	String	必填	
+枚举值:
+-1
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+视频时长（秒）。-1 为智能时长；4-30 秒可选。
+
+firstFrameUrl	String	必填	
+最多支持 1 项图片，每张 30 MB
+首帧图片
+
+lastFrameUrl	String	可选	
+最多支持 1 项图片，每张 30 MB
+尾帧图片（可选，首尾帧模式）
+
+generateAudio	Boolean	可选	
+是否生成视频音频
+
+watermark	Boolean	可选	
+是否在生成视频上添加水印
+
+ratio	String	可选	
+枚举值:
+adaptive
+视频宽高比
+
+realPersonMode	Boolean	可选	
+真人模式，开启后系统会自动将图片/视频/音频转为火山资产（asset://），提升生成效果。
+
+conversionSlots	List(String)	可选	
+枚举值:
+all
+firstFrameUrl
+lastFrameUrl
+真人素材资产化槽位，多选；all 表示所有槽位都做资产化。
+
+returnLastFrame	Boolean	可选	
+是否返回视频尾帧图片
+
+bitrateMode	String	可选	
+枚举值:
+standard
+high
+画质档位。standard 标准；high 高画质（文件体积约为标准的 3-5 倍）。
+
+seed	Int	可选	
+输入范围值: -1 - 2147483647
+种子整数，用于控制生成内容的随机性。
+
+outputFormat	String	可选	
+枚举值:
+mp4
+mov
+输出视频的格式。mp4：通用格式，兼容性最好；mov：专业高色彩精度，推荐编辑/延长场景。
+
+draft	Boolean	可选	
+样片模式。开启后仅生成480p样片，分辨率必须为480p。
+
+webhookUrl	String	可选	Webhook 回调地址，任务完成时会向该地址发送 POST 请求

@@ -1,0 +1,359 @@
+{
+  "1": {
+    "inputs": {
+      "image": "qwen21-official-portrait.png"
+    },
+    "class_type": "LoadImage",
+    "_meta": {
+      "title": "主图｜在这里换自己的图"
+    }
+  },
+  "2": {
+    "inputs": {
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "feathering": 80,
+      "image": [
+        "1",
+        0
+      ]
+    },
+    "class_type": "ImagePadForOutpaint",
+    "_meta": {
+      "title": "扩画布｜按需填写四边像素"
+    }
+  },
+  "3": {
+    "inputs": {
+      "switch": [
+        "23",
+        0
+      ],
+      "on_false": [
+        "1",
+        0
+      ],
+      "on_true": [
+        "2",
+        0
+      ]
+    },
+    "class_type": "ComfySwitchNode",
+    "_meta": {
+      "title": "扩画布开关｜默认关闭"
+    }
+  },
+  "23": {
+    "inputs": {
+      "value": false
+    },
+    "class_type": "PrimitiveBoolean",
+    "_meta": {
+      "title": "扩画布模式｜统一开关"
+    }
+  },
+  "5": {
+    "inputs": {
+      "unet_name": "qwen_image_2.1_bf16.safetensors",
+      "weight_dtype": "fp8_e4m3fn"
+    },
+    "class_type": "UNETLoader",
+    "_meta": {
+      "title": "图像模型｜BF16文件加载为FP8"
+    }
+  },
+  "6": {
+    "inputs": {
+      "clip_name": "qwen3vl_8b_fp8_scaled.safetensors",
+      "type": "qwen_image",
+      "device": "cpu"
+    },
+    "class_type": "CLIPLoader",
+    "_meta": {
+      "title": "条件编码器｜CPU省显存"
+    }
+  },
+  "7": {
+    "inputs": {
+      "vae_name": "qwen_image_2.1_vae_bf16.safetensors"
+    },
+    "class_type": "VAELoader",
+    "_meta": {
+      "title": "2.1专用RGBA VAE"
+    }
+  },
+  "8": {
+    "inputs": {
+      "device": "cpu",
+      "dtype": "default",
+      "model": [
+        "5",
+        0
+      ]
+    },
+    "class_type": "QwenImage21Cache",
+    "_meta": {
+      "title": "前缀缓存｜CPU / 原精度"
+    }
+  },
+  "9": {
+    "inputs": {
+      "prompt": "Replace only the dark teal top with a matte burgundy crew-neck sweater. Match the original fabric folds, shadows and lighting. Keep the man's face, hairstyle, pose, body shape, framing and plain background unchanged.",
+      "negative_prompt": "",
+      "resolution": 992,
+      "clip": [
+        "6",
+        0
+      ],
+      "vae": [
+        "7",
+        0
+      ],
+      "images.image_1": [
+        "3",
+        0
+      ]
+    },
+    "class_type": "TextEncodeQwenImage21",
+    "_meta": {
+      "title": "编辑指令｜第二张图可选"
+    }
+  },
+  "10": {
+    "inputs": {
+      "seed": 42,
+      "steps": 40,
+      "cfg": 1.0,
+      "sampler_name": "euler",
+      "scheduler": "simple",
+      "denoise": 1.0,
+      "model": [
+        "8",
+        0
+      ],
+      "positive": [
+        "9",
+        0
+      ],
+      "negative": [
+        "9",
+        1
+      ],
+      "latent_image": [
+        "9",
+        2
+      ]
+    },
+    "class_type": "KSampler",
+    "_meta": {
+      "title": "采样｜40步 / CFG 1"
+    }
+  },
+  "11": {
+    "inputs": {
+      "tile_size": 512,
+      "overlap": 64,
+      "temporal_size": 64,
+      "temporal_overlap": 8,
+      "samples": [
+        "10",
+        0
+      ],
+      "vae": [
+        "7",
+        0
+      ]
+    },
+    "class_type": "VAEDecodeTiled",
+    "_meta": {
+      "title": "分块解码｜保留透明通道"
+    }
+  },
+  "24": {
+    "inputs": {
+      "mask": [
+        "2",
+        1
+      ]
+    },
+    "class_type": "InvertMask",
+    "_meta": {
+      "title": "扩图｜反转边缘蒙版"
+    }
+  },
+  "25": {
+    "inputs": {
+      "x": 0,
+      "y": 0,
+      "resize_source": true,
+      "destination": [
+        "11",
+        0
+      ],
+      "source": [
+        "2",
+        0
+      ],
+      "mask": [
+        "24",
+        0
+      ]
+    },
+    "class_type": "ImageCompositeMasked",
+    "_meta": {
+      "title": "扩图｜还原原画面"
+    }
+  },
+  "12": {
+    "inputs": {
+      "expand": 12,
+      "tapered_corners": true,
+      "mask": [
+        "1",
+        1
+      ]
+    },
+    "class_type": "GrowMask",
+    "_meta": {
+      "title": "局部区域｜扩大蒙版12像素"
+    }
+  },
+  "13": {
+    "inputs": {
+      "mask": [
+        "12",
+        0
+      ]
+    },
+    "class_type": "MaskToImage",
+    "_meta": {
+      "title": "蒙版转图像"
+    }
+  },
+  "14": {
+    "inputs": {
+      "blur_radius": 9,
+      "sigma": 3.0,
+      "image": [
+        "13",
+        0
+      ]
+    },
+    "class_type": "ImageBlur",
+    "_meta": {
+      "title": "局部边缘柔化"
+    }
+  },
+  "15": {
+    "inputs": {
+      "channel": "red",
+      "image": [
+        "14",
+        0
+      ]
+    },
+    "class_type": "ImageToMask",
+    "_meta": {
+      "title": "取红通道作软蒙版"
+    }
+  },
+  "16": {
+    "inputs": {
+      "x": 0,
+      "y": 0,
+      "resize_source": true,
+      "destination": [
+        "1",
+        0
+      ],
+      "source": [
+        "11",
+        0
+      ],
+      "mask": [
+        "15",
+        0
+      ]
+    },
+    "class_type": "ImageCompositeMasked",
+    "_meta": {
+      "title": "局部保真｜蒙版外用原图"
+    }
+  },
+  "17": {
+    "inputs": {
+      "switch": false,
+      "on_false": [
+        "11",
+        0
+      ],
+      "on_true": [
+        "16",
+        0
+      ]
+    },
+    "class_type": "ComfySwitchNode",
+    "_meta": {
+      "title": "局部保真开关｜默认关闭"
+    }
+  },
+  "26": {
+    "inputs": {
+      "switch": [
+        "23",
+        0
+      ],
+      "on_false": [
+        "17",
+        0
+      ],
+      "on_true": [
+        "25",
+        0
+      ]
+    },
+    "class_type": "ComfySwitchNode",
+    "_meta": {
+      "title": "扩图还原｜随扩图模式切换"
+    }
+  },
+  "18": {
+    "inputs": {
+      "filename_prefix": "OpenCut/canvas-6/SaveImage",
+      "images": [
+        "26",
+        0
+      ]
+    },
+    "class_type": "SaveImage",
+    "_meta": {
+      "title": "保存结果｜含透明通道"
+    }
+  },
+  "19": {
+    "inputs": {
+      "images": [
+        "1",
+        0
+      ]
+    },
+    "class_type": "PreviewImage",
+    "_meta": {
+      "title": "对照｜输入"
+    }
+  },
+  "20": {
+    "inputs": {
+      "images": [
+        "26",
+        0
+      ]
+    },
+    "class_type": "PreviewImage",
+    "_meta": {
+      "title": "对照｜结果"
+    }
+  }
+}

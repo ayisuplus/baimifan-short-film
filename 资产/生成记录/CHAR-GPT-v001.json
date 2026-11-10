@@ -1,0 +1,34 @@
+{
+  "asset_id": "CHAR-GPT",
+  "version": "v001",
+  "date": "2026-10-20",
+  "engine": "built-in image_gen",
+  "actual_request": {
+    "prompt": "Use case: identity-preserve and background-extraction. EDIT the supplied user-selected full-body ChatGPT white-dragon girl illustration into a clean reusable character cutout. Retain the exact same person, face, lavender eyes, long white hair with pale lavender shadows, curved white scaly horns, pointed ears, small white/lavender dragon wings, thick long scaly tail, slim adult proportions, exact white asymmetrical long dress and draping sleeves, silver ornaments, tassels, knot emblems on hair and dress, exact garment cut and color placement, and existing pose with one hand near chest and one palm raised. Retain the original fine anime linework. Remove ONLY the surrounding screenshot text (GPT header and Chinese commentary), background, player overlay and floating blue cloud mascot. Preserve the knot emblems which are physical costume details. The result is one full-height character on TRUE transparent background with clean alpha edges, no white rectangle. Reconstruct only the small bottom edge obscured by the video UI so both existing shoes and dress hem are complete. Do not change outfit, do not add a crown, do not introduce new weapons, no seductive pose changes. Show complete horns, wings, hair, sleeves, shoes, skirt and tail with a clear margin. No text, captions, signature, watermark, UI, no blank annotation panel. Do not reproduce any source screenshot writing.",
+    "referenced_image_paths": [
+      "E:\\projects\\内容创作\\穿云\\概念参考\\04-ChatGPT-用户指定龙娘.png"
+    ],
+    "transparent_background": true
+  },
+  "references": [
+    {
+      "actual_input_path": "E:\\projects\\内容创作\\穿云\\概念参考\\04-ChatGPT-用户指定龙娘.png",
+      "project_path": "概念参考/04-ChatGPT-用户指定龙娘.png",
+      "sha256": "75daa70f00c98561b00bb7f43558141a5b15f78a19915fe23af6ccc0f7f6eb84"
+    }
+  ],
+  "output": "资产/图像/CHAR-GPT-v001.png",
+  "original_output": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-e70b96ee-ac40-4a35-805d-5d1861bd3c7c.png",
+  "sha256": "3809f0516184506f51d9fbfb8222814c1d2a9458b606e90dca8e21bbc129e00b",
+  "image": {
+    "width": 949,
+    "height": 1657,
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "status": "历史候选：透明边缘有杂色，保留不覆盖",
+  "evidence": "已实际查看生成图片；文件可解码、项目副本哈希与生成原件一致。不是动态或作者采用验收。"
+}

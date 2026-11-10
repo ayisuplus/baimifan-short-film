@@ -1,0 +1,34 @@
+{
+  "snapshot_reviewed": [
+    "003a-key-r1",
+    "003b-key-r1",
+    "003c-key-r1",
+    "119-key-r1"
+  ],
+  "not_present_at_start": [
+    "015a-key-r1"
+  ],
+  "rows": [
+    {
+      "id": "003a",
+      "decision": "pass",
+      "evidence": "双手在胸前、望向高位GPT，蓝眼/鲸帽/蓝衣身份稳定，二维轮廓和块面成立。"
+    },
+    {
+      "id": "003b",
+      "decision": "pass",
+      "evidence": "托腮侧躺支撑与手位保持，白角/淡紫膜翼正确，脸和衣影已转为墨线块面；无需强行改起身。"
+    },
+    {
+      "id": "003c",
+      "decision": "pass",
+      "evidence": "同小鱼身份，垂肩低手，与前段双手握胸区分明确，失落表情可作短答起点。"
+    },
+    {
+      "id": "119",
+      "decision": "repair",
+      "evidence": "画风与双人同坐成立，但勺回到小鱼手里朝Claude抬起，打断116交勺→118一口→119静默的单一勺归属。",
+      "minimum_fix": "仅把唯一银勺移到Claude低垂右手，小鱼双手稳原碗，保持镜头其余内容。"
+    }
+  ]
+}

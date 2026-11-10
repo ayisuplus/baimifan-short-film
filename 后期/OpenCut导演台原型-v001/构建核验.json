@@ -1,0 +1,21 @@
+{
+  "shots": [
+    "CY006",
+    "CY007",
+    "CY008"
+  ],
+  "frames": 336,
+  "seconds": 14,
+  "media": 11,
+  "source_files_unchanged": true,
+  "sources": {
+    "后期/制作工作台-v025/工作台数据.json": "a0ae2558075dec4a7dd165b1e005d0ceaea9b7bba3a13f36d8c0ebde0d335f75",
+    "剧本/白米饭-场景剧本-v0.69.md": "ceaf6f38c7d4aa664d4a45db3a945a751cfcd69c7bc1a25a9e2108e891828b9a",
+    "视频制作/LibTV-H3-v001/GB004-冻结执行.json": "e3f1e7194924df91ab9e4d3530c9e5693f75e8626f3c386defa8f6c632eb4fc3",
+    "剧本/白米饭-日语对白-v0.69.json": "f652eb4cb0f7759bcb90f84a1e2072367f00125d3bd7883bc5284ccc4c283477",
+    "后期/独立剪辑-v017/剪辑清单.json": "13d44d303344648ab01d1f9bcf66745227ff5c96e58f89383b12eb3b16e9d473",
+    "后期/宫殿调色-v014/after.json": "442d1f2d63395782d5625e5d8081aaf2cb59cb49e2ad9c92e004ed3dcb8cca07",
+    "后期/迁回达芬奇-v033/迁移剪辑清单.json": "04692dc808e3866969a42d11e5eb663ad2a8111f587e15d1abcbb23a226c091f"
+  },
+  "adapter": "creative-workbench.import_board + studio_view"
+}

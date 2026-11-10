@@ -1,0 +1,65 @@
+[
+  {
+    "path": "镜头设计/图像/控水协作-v046/CY024B-v046-r1.png",
+    "size": [
+      1671,
+      941
+    ],
+    "sha256": "e444aea89502cf4a311577c04d28a325f9a2ffe1f5e4c0a9cc70c29983a91f16",
+    "status": "superseded_preserved"
+  },
+  {
+    "path": "镜头设计/图像/控水协作-v046/CY024B-v046-r2.png",
+    "size": [
+      1671,
+      941
+    ],
+    "sha256": "c45a0df7ba1e36f7a02a8999fc5b0cd5193f0e644abc47c1a81951911b39bb02",
+    "status": "current_candidate_pending_author_review"
+  },
+  {
+    "path": "镜头设计/图像/控水协作-v046/CY024B1-v046-r1.png",
+    "size": [
+      1672,
+      941
+    ],
+    "sha256": "081b32da7ac8585fb7fcf486cdbd3c42d5e28aee329c5851efe86361224a6131",
+    "status": "current_candidate_pending_author_review"
+  },
+  {
+    "path": "镜头设计/图像/控水协作-v046/CY024B3-v046-r1.png",
+    "size": [
+      1672,
+      941
+    ],
+    "sha256": "5d527deb151b8462eb1ec2045fc7edc007fbb29bbbdd1974a7bbab38eb7b3734",
+    "status": "current_candidate_pending_author_review"
+  },
+  {
+    "path": "镜头设计/图像/控水协作-v046/CY024B3A-v046-r1.png",
+    "size": [
+      1672,
+      941
+    ],
+    "sha256": "9f47e4450ce755ab733560e05d5575819004a1df9996a8c1875c6efdcbd26f1e",
+    "status": "current_candidate_pending_author_review"
+  },
+  {
+    "path": "镜头设计/图像/控水协作-v046/CY024K2A-v046-r1.png",
+    "size": [
+      1672,
+      941
+    ],
+    "sha256": "0de5c6eeec241854524933dc4dc16e681553e44be34d42b3abb63f5f27eabdbd",
+    "status": "current_candidate_pending_author_review"
+  },
+  {
+    "path": "镜头设计/图像/控水协作-v046/CY024K3-v046-r1.png",
+    "size": [
+      1672,
+      941
+    ],
+    "sha256": "57461e36c680a32904da2bc19ab781aca5230fe03f3a751f3ad7568b8285c1e4",
+    "status": "current_candidate_pending_author_review"
+  }
+]

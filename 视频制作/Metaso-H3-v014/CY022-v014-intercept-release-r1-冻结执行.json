@@ -1,0 +1,47 @@
+{
+  "batch": {
+    "attempt_id": "CY022-v014-intercept-release-r1",
+    "batch_number": 16,
+    "batch_id": "GB016",
+    "shot_id": "CY022-v014-intercept-release-r1",
+    "duration": 4,
+    "prompt": "精细日式二维动画电影，保持参考细线稿、赛璐璐阴影、人物比例和精致服装。不要3D建模、塑料皮肤、漫剧推拉。16:9，固定同侧镜头，无字幕、对白、音乐。沿参考同侧轴线取略宽中景：鲸帽小女孩画左下，黑袍教徒在她左后，单手扣住上臂；棕橙发黑金袍教主在右。开头教主已前伸掌，琥珀细光从右往左，距离孩子至少一臂；一束窄水流立即从画外左前侧进入，在孩子身体前方的空隙和琥珀光迎面相撞，局部白水雾闪开，术光向无人的上方散掉。整个碰撞在孩子轮廓之外。黑袍抓持者因水花惊退半步，抓持手张开并明确离开孩子上臂；女孩脚仍着地，退半步但不倒下。1.5至4秒看清女孩上臂已自由、抓持者后撤，水花落下。教主始终右侧，不换位；火把仍仅后方教徒持有。没有大洪水，不能浇灭画外祭架火焰，没有千问，没有新抱起动作，没有伤口。",
+    "references": [
+      {
+        "path": "视频制作/Metaso-H3-v013/参考/CY022-R1-聚术首帧-r1.png",
+        "sha256": "02bf5eec8f727230ebd519daab95d30ef52dce789392bd3d46bcb4dd41ad8ee5",
+        "role": "reference_image",
+        "purpose": "教主小鱼身份、黑袍抓持者、局部教堂轴线、原冻结画风",
+        "visually_reviewed": true
+      }
+    ],
+    "estimated_credits": 40.8,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "需要看见水术截击和抓持手真正松开",
+    "repair_of": "v0.69 rescue gap",
+    "quality_gate": "single action, consistent identity and axis, visible contact and weight"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "精细日式二维动画电影，保持参考细线稿、赛璐璐阴影、人物比例和精致服装。不要3D建模、塑料皮肤、漫剧推拉。16:9，固定同侧镜头，无字幕、对白、音乐。沿参考同侧轴线取略宽中景：鲸帽小女孩画左下，黑袍教徒在她左后，单手扣住上臂；棕橙发黑金袍教主在右。开头教主已前伸掌，琥珀细光从右往左，距离孩子至少一臂；一束窄水流立即从画外左前侧进入，在孩子身体前方的空隙和琥珀光迎面相撞，局部白水雾闪开，术光向无人的上方散掉。整个碰撞在孩子轮廓之外。黑袍抓持者因水花惊退半步，抓持手张开并明确离开孩子上臂；女孩脚仍着地，退半步但不倒下。1.5至4秒看清女孩上臂已自由、抓持者后撤，水花落下。教主始终右侧，不换位；火把仍仅后方教徒持有。没有大洪水，不能浇灭画外祭架火焰，没有千问，没有新抱起动作，没有伤口。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115678936394723328"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 4,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者要求直接修复教堂段，密塔剩余额度优先，不足转本地ComfyUI；现余额971.3，经控制台实时核实。保留历史，不充值，不导出。"
+}

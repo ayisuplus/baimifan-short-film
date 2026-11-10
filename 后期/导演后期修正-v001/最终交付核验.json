@@ -1,0 +1,36 @@
+{
+  "video_frames": 11056,
+  "seconds": 460.6666666666667,
+  "video_segments_match_edl": 80,
+  "video_gaps": 0,
+  "voice_count": 63,
+  "all_voice_rate_100": true,
+  "max_voice_duration_error_seconds": 1.7000000025912954e-05,
+  "music_segments": 13,
+  "decode_exit_code": 0,
+  "blackdetect_events": [],
+  "decoded_audio_peak_db": -0.249264,
+  "audio_nan_count": 0,
+  "audio_inf_count": 0,
+  "title_legibility_fix": "r3 black translucent backplates; visually rechecked",
+  "independent_audio_report": "声音施工-独立复核.json",
+  "independent_picture_report": "最终画面独立复核.json",
+  "continuous_audition_done": false,
+  "files": [
+    {
+      "path": "导出/白米饭-导演修订-v001-r3.mp4",
+      "bytes": 927059846,
+      "sha256": "eae5307e47cf81af986b94da70477551350e4ba6a64aba87b9890866d2a7da30"
+    },
+    {
+      "path": "白米饭-导演修订-v001.drp",
+      "bytes": 486462,
+      "sha256": "c03a97550c05167e8bc53578ce20ec391dc3c2b67d45b0b8046b203f22f2a35b"
+    },
+    {
+      "path": "导演修订-v001.drt",
+      "bytes": 144056,
+      "sha256": "e76479b152c5c7f10976cebf908cc6918dc29371356ea86acae0c7fda090a342"
+    }
+  ]
+}

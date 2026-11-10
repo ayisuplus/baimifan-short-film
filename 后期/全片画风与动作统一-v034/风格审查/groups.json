@@ -1,0 +1,141 @@
+{
+  "sheet-00-基准": {
+    "cols": 4,
+    "items": [
+      ["077-codex(已通过画风)", "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\codex-keyfix\\077-key-r2-codex.png"],
+      ["096-v034-pass", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\096-key-r1_00001_.png"],
+      ["099-v034-pass", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\099-key-r1_00001_.png"],
+      ["102-v034-pass", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\102-key-r1_00001_.png"],
+      ["114-v034-pass", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\114-key-r1_00001_.png"],
+      ["117-v034-pass", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\117-key-r1_00001_.png"],
+      ["087-v032-pass", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\087-key-r1_00001_.png"],
+      ["088-v032-pass", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\088-key-r1_00001_.png"]
+    ]
+  },
+  "sheet-01-头部v034": {
+    "cols": 4,
+    "items": [
+      ["003a-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\003a-key-r1_00001_.png"],
+      ["003b-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\003b-key-r1_00001_.png"],
+      ["003c-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\003c-key-r1_00001_.png"],
+      ["015a-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\015a-key-r1_00001_.png"],
+      ["015b-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\015b-key-r1_00001_.png"],
+      ["016-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\016-key-r1_00001_.png"],
+      ["017-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\017-key-r1_00001_.png"],
+      ["018-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\018-key-r1_00001_.png"],
+      ["021-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\021-key-r1_00001_.png"],
+      ["022-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\022-key-r1_00001_.png"],
+      ["028-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\028-key-r1_00001_.png"]
+    ]
+  },
+  "sheet-02-中段A": {
+    "cols": 4,
+    "items": [
+      ["042-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\042-key-r1_00001_.png"],
+      ["043-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\043-key-r1_00001_.png"],
+      ["045-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\045-key-r1_00001_.png"],
+      ["046-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\046-key-r1_00001_.png"],
+      ["047r2-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\047-key-r2_00001_.png"],
+      ["049r2-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\049-key-r2_00001_.png"],
+      ["050-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\050-key-r1_00001_.png"]
+    ]
+  },
+  "sheet-03-中段B": {
+    "cols": 4,
+    "items": [
+      ["051-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\051-key-r1_00001_.png"],
+      ["052-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\052-key-r1_00001_.png"],
+      ["054r2-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\054-key-r2_00001_.png"],
+      ["055r2-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\055-key-r2_00001_.png"],
+      ["056r2-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\056-key-r2_00001_.png"],
+      ["058-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\058-key-r1_00001_.png"],
+      ["059r3-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\059-key-r3_00001_.png"],
+      ["061r3-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\061-key-r3_00001_.png"],
+      ["062ar2-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\062a-key-r2_00001_.png"],
+      ["062b-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\062b-key-r1_00001_.png"],
+      ["063-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\063-key-r1_00001_.png"],
+      ["064-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\064-key-r1_00001_.png"],
+      ["065a-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\065a-key-r1_00001_.png"],
+      ["065br2-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\065b-key-r2_00001_.png"],
+      ["066r3-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\066-key-r3_00001_.png"],
+      ["068-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\068-key-r1_00001_.png"]
+    ]
+  },
+  "sheet-04-中段C水龙": {
+    "cols": 4,
+    "items": [
+      ["070-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\070-key-r1_00001_.png"],
+      ["071a-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\071a-key-r1_00001_.png"],
+      ["071b-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\071b-key-r1_00001_.png"],
+      ["071c-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\071c-key-r1_00001_.png"],
+      ["072-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\072-key-r1_00001_.png"],
+      ["073r2-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\073-key-r2_00001_.png"],
+      ["074-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\074-key-r1_00001_.png"],
+      ["075-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\075-key-r1_00001_.png"],
+      ["077r1-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\077-key-r1_00001_.png"],
+      ["078r2-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\078-key-r2_00001_.png"],
+      ["079-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\079-key-r1_00001_.png"],
+      ["080-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\080-key-r1_00001_.png"],
+      ["081-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\081-key-r1_00001_.png"],
+      ["082r2-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\082-key-r2_00001_.png"],
+      ["083r2-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\083-key-r2_00001_.png"],
+      ["085r2-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\085-key-r2_00001_.png"]
+    ]
+  },
+  "sheet-05-中段D变龙": {
+    "cols": 4,
+    "items": [
+      ["086a-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\086a-key-r1_00001_.png"],
+      ["086b-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\086b-key-r1_00001_.png"],
+      ["086c-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\086c-key-r1_00001_.png"],
+      ["086d-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\086d-key-r1_00001_.png"],
+      ["086e-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\086e-key-r1_00001_.png"],
+      ["087-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\087-key-r1_00001_.png"],
+      ["088-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\088-key-r1_00001_.png"],
+      ["089-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\089-key-r1_00001_.png"],
+      ["090a-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\090a-key-r1_00001_.png"],
+      ["090b-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\090b-key-r1_00001_.png"],
+      ["091-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\091-key-r1_00001_.png"],
+      ["092a-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\092a-key-r1_00001_.png"],
+      ["092b-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\092b-key-r1_00001_.png"],
+      ["092c-v032", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\092c-key-r1_00001_.png"]
+    ]
+  },
+  "sheet-06-尾部晚段": {
+    "cols": 4,
+    "items": [
+      ["093a-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\093a-key-r1_00001_.png"],
+      ["093b-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\093b-key-r1_00001_.png"],
+      ["093c-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\093c-key-r1_00001_.png"],
+      ["093d-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\093d-key-r1_00001_.png"],
+      ["093e-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\093e-key-r1_00001_.png"],
+      ["094-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\094-key-r1_00001_.png"],
+      ["095-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\095-key-r1_00001_.png"],
+      ["096-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\096-key-r1_00001_.png"],
+      ["097-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\097-key-r1_00001_.png"],
+      ["098-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\098-key-r1_00001_.png"],
+      ["099-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\099-key-r1_00001_.png"],
+      ["100-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\100-key-r1_00001_.png"],
+      ["101-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\101-key-r1_00001_.png"],
+      ["102-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\102-key-r1_00001_.png"]
+    ]
+  },
+  "sheet-07-尾部收束": {
+    "cols": 4,
+    "items": [
+      ["104-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\104-key-r1_00001_.png"],
+      ["105-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\105-key-r1_00001_.png"],
+      ["106-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\106-key-r1_00001_.png"],
+      ["107-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\107-key-r1_00001_.png"],
+      ["108-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\108-key-r1_00001_.png"],
+      ["112-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\112-key-r1_00001_.png"],
+      ["113-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\113-key-r1_00001_.png"],
+      ["114-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\114-key-r1_00001_.png"],
+      ["115-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\115-key-r1_00001_.png"],
+      ["116-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\116-key-r1_00001_.png"],
+      ["117-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\117-key-r1_00001_.png"],
+      ["118-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\118-key-r1_00001_.png"],
+      ["119-v034", "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\119-key-r1_00001_.png"]
+    ]
+  }
+}

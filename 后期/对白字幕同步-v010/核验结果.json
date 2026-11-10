@@ -1,0 +1,25 @@
+{
+  "timeline": "v010_Dialogue_Subtitle_Sync",
+  "active_dialogue": 54,
+  "subtitle_tracks": 1,
+  "subtitle_cues": 54,
+  "subtitle_text_and_frames_exact": true,
+  "v009_unchanged": true,
+  "picture_music_sfx_unchanged": true,
+  "other_53_dialogue_unchanged": true,
+  "voice_sources_hash_verified": true,
+  "opening_sync": {
+    "id": "VO-CY003B-01",
+    "old_record": 396,
+    "new_record": 441,
+    "shift_frames": 45,
+    "fps": 24,
+    "end_frame": 471.72,
+    "slap_segment_start_frame": 472,
+    "gap_seconds": 0.01166666666666553,
+    "rationale": "Finish the short thanks within the eye close-up immediately before the existing slap segment; preserve voice speed and all picture/SFX edit positions."
+  },
+  "saved": true,
+  "exported_film_or_project": false,
+  "performance_lipsync_accepted": false
+}

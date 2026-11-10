@@ -1,0 +1,13 @@
+{
+  "id": "CY013A",
+  "take": 3,
+  "destination": "镜头设计/图像/天瀑空间-v014/CY013A-v014-r3.png",
+  "request": "镜头设计/生成记录/天瀑空间-v014/CY013A-请求-v003.json",
+  "input": {
+    "prompt": "只移除图中背景全部烛台、蜡烛、壁灯、吊灯、火盆及小火点，恢复为石墙、石柱和彩窗。保持人物和动作、脸、头纱、橙花、手部、服装以及原构图完全不变，保留画外照到人物的暖光和蓝紫月光，不添加任何新灯具。无文字。",
+    "referenced_image_paths": [
+      "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-d317b3dc-5a42-4719-be0e-ecbe85623f11.png"
+    ],
+    "transparent_background": false
+  }
+}

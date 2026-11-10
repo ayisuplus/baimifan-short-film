@@ -1,0 +1,15 @@
+{
+  "version": "v021",
+  "new_shot": "CY022B2",
+  "status": "candidate_pending_author_review",
+  "shots": 92,
+  "seconds": 296,
+  "added_seconds": 4,
+  "unchanged_previous_images_dialogue_and_durations": 91,
+  "picture_lock_hashes_verified": 98,
+  "generation_original_copy_matches": 2,
+  "local_links_checked": 1014,
+  "visual_review": "main_and_independent_agent_inspected_r2",
+  "audio": "chant_design_only_no_track_generated",
+  "video": "not_generated"
+}

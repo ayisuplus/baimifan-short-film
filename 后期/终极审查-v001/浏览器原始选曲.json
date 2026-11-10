@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-25",
+  "source": "Current IAB selection overview DOM; no storage edits",
+  "choices": [
+    {
+      "music_id": "BGM-CY-MT-03",
+      "origin": "标记在 CY001",
+      "scene": "S01 · 街市初见",
+      "title": "存在魔法的世界 / 魔法が存在する世界で"
+    },
+    {
+      "music_id": "BGM-CY-KH-05",
+      "origin": "标记在 CY009",
+      "scene": "S02 · 宫殿求助",
+      "title": "前往耶路撒冷 / To Jerusalem"
+    },
+    {
+      "music_id": "BGM-CY-HP7-02",
+      "origin": "标记在 CY010A",
+      "scene": "S03 · 空堂营救未成",
+      "title": "斯内普前往马尔福庄园 / Snape to Malfoy Manor"
+    },
+    {
+      "music_id": "BGM-CY-RZ-01",
+      "origin": "标记在 CY018",
+      "scene": "S04 · 火前守护",
+      "title": "沉默的镇魂曲 / 沈黙のレクイエム"
+    },
+    {
+      "music_id": "BGM-CY-FEAR-001",
+      "origin": "标记在 CY026B",
+      "scene": "S05 · 召集、对抗与营救",
+      "title": "Fear Brought Me This Far"
+    },
+    {
+      "music_id": "BGM-CY-TIME-001",
+      "origin": "标记在 CY031",
+      "scene": "S06 · 再分一碗饭",
+      "title": "Time Flows Ever Onward"
+    }
+  ]
+}

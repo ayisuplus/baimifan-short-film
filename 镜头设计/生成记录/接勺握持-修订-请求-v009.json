@@ -1,0 +1,17 @@
+{
+  "key": "spoon_grip_fix",
+  "engine": "built-in imagegen",
+  "destination": "镜头设计/图像/细节F-接勺握持-v002.png",
+  "shot_ids_in_panel_order": [
+    "CY032A"
+  ],
+  "request": {
+    "prompt": "Use case: precise-object-edit / illustration-story. Reference image 1 is a 2x2 storyboard sheet. Make ONE standalone wide 16:9 image based ONLY on its bottom-right market spoon-transfer panel, reproducing that same warm lighting, detailed anime painting, costume colors, hand sizes, bench and rice bowl. Reference image 2 is the film's established final bench scene. Correct the spoon grasping. Tight insert, NO faces, NO grid, NO labels or text. DeepSeek the small child is on screen LEFT, wearing navy snowflake sleeves with white fur cuffs and a clean wrist bandage. Her near hand continues to SUPPORT the stainless-steel bowl of steaming white rice at center-bottom. Her other little hand has JUST LET GO of the spoon and is softly open immediately to the left of the spoon handle; it must not still hold the spoon. Claude's larger adult feminine hand with ivory lace and orange floral cuff enters from screen RIGHT. Claude holds ONLY the slender HANDLE of ONE spoon between thumb and fingers, near the far-right end of handle. Anatomically clear grip, five normal fingers. The spoon's long metal handle extends toward the RIGHT to Claude's hand; the spoon's oval bowl containing a small amount of rice points toward the LEFT, held above the rice bowl. NO hand touches the oval food-bearing spoon bowl, no utensil reversal, no second spoon, no fingers inside food, no extra hands. Clear separation between the open child hand and Claude's hand, conveying the handover has just completed. Rice bowl remains in baby's supporting hand, not passed to Claude. Keep the exact gentle emotional atmosphere and bench bokeh. A visually straightforward readable spoon handover; not feeding someone with spoon in mouth. No full bodies, faces, text or graphics.",
+    "referenced_image_paths": [
+      "E:/projects/内容创作/穿云/镜头设计/图像/细节A-递饭与选择-v001.png",
+      "E:/projects/内容创作/穿云/镜头设计/图像/S06-粗分镜-v002.png"
+    ],
+    "transparent_background": false
+  },
+  "reason": "First sheet bottom-right has Claude touching spoon bowl; keep other three cells unchanged."
+}

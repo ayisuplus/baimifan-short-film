@@ -1,0 +1,38 @@
+subject_definitions:
+<Subject 1>: Claude, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: ChatGPT, identity and outfit from four-view sheet <Picture 2>.
+<Picture 3>: [Shot 1] composition and state reference; not its first frame.
+<Picture 4>: [Shot 2] composition and state reference; not its first frame.
+<Picture 5>: [Shot 3] composition and state reference; not its first frame.
+<Picture 6>: [Shot 4] composition and state reference; not its first frame.
+<Picture 7>: [Shot 5] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. Continue the actions below in their listed order, without restarting ongoing motion or speech.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+<Picture 7>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Return to the already formed ember for the complete spell name and tail; preparation leads across the cut to release in the next shot. Use <Picture 3> for composition. Claude names the spell once while holding the same completed ember and supporting her right wrist. Preserve the entire 4.36-second recording and its tail. Near the end, the fingertips prepare to move forward, but the ember remains at her fingers; actual release occurs at the beginning of the next shot. Do not form another ember or sustain a flame jet. Preserve her scorched cuff and pallor. In the side hand close-up, follow the fingertips only as they prepare to move forward; keep the ember at the fingers until the cut. Tiny flame and breathing; no repeated formation sound. From 0 to 4.36 seconds, Claude (S1) speaks outside the frame: <d>[Japanese] せいか。</d>.
+[Shot 2] At 00:04.360, After the preceding complete spell name, show the single release before matching forward into the ember viewpoint; cut to external ignition on wood contact. Use <Picture 4> for composition. For the first 0.3 seconds, continue the side hand view: Claude releases the same completed ember, relaxes the supporting left hand and creates a clear gap from her fingertips. Then match its forward direction into the ember viewpoint, approaching bare wood beneath the crossbeam iron band. Keep the target clear; only blurred flame and heat distortion edge the viewpoint frame, with no central ember body. Move steadily without rolling or orbiting, accelerate at 1.6 seconds and touch wood at 1.9 seconds; cut to the external ignition. Use the first 0.3 seconds for a side hand close-up establishing separation, then match-cut forward into the ember viewpoint. Track steadily toward the exposed wood, accelerating at 1.6 seconds without roll or orbit. A faint sleeve and flame sound accompanies release, followed by close flame movement in the viewpoint segment. No further speech; ignition belongs to the following shot.
+[Shot 3] At 00:06.360, Match the contact flash to one ignition burst. Use <Picture 5> for composition. Fire climbs the post and crossbeam, chains visible through gaps. Claude's hand is already lowered; no connecting flame stream. GPT remains beside her. Fire stays on the empty cross, never people or architecture. Ordinary lamps stay extinguished; Claude's burns persist. Tilt upward slightly with the climbing flame, keeping the empty cross readable. Short ignition roar, then burning wood and chain sounds.
+[Shot 4] At 00:09.360, Continue one rightward loss of balance into support. Use <Picture 6> for composition. The cross burns independently; Claude's casting hand is already down. Her knees soften and she tilts toward GPT on the right. She remains conscious and never reaches the ground. GPT starts reaching before the cut. Keep pallor and scorched clothes. Tilt slightly with weakening knees, stopping at GPT's reaching arms. Caught breath and sliding sleeve; no floor impact.
+[Shot 5] At 00:11.360, Match the ongoing rightward movement; one catch only. Use <Picture 7> for composition. GPT closes in, supports Claude's back with one arm and slides the other under her knees, beginning one continuous lift. Her weight transfers into support without dropping, kneeling or resetting upright. Preserve pallor and burns. End with back and knee support established, ready to settle. Track slightly with GPT, keeping both supporting arms visible. Rubbing fabric and a short breath; no fall impact.
+From 13.36 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 6.36s: Cut to the spark igniting the wood; 9.36s: Claude weakens after withdrawing her hand.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

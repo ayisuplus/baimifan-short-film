@@ -1,0 +1,262 @@
+{
+  "batch": {
+    "batch_number": 35,
+    "batch_id": "GB025",
+    "title": "天空省略与外敌逼近",
+    "shot_ids": [
+      "CY027C",
+      "CY025",
+      "CY027E",
+      "CY027E1",
+      "CY027D0"
+    ],
+    "film_start": 372.842729,
+    "duration": 14,
+    "prompt": "subject_definitions:\nImage 1=ChatGPT四视图：同一人四角度，身份服饰保持\nImage 2=教主四视图：同一人四角度，身份服饰保持\nImage 3=DeepSeek四视图：同一人四角度，身份服饰保持\nImage 4=圣骑士四视图：同一人四角度，身份服饰保持\nImage 5=构图状态，非强制首帧\nImage 6=构图状态，非强制首帧\nImage 7=构图状态，非强制首帧\nImage 8=构图状态，非强制首帧\nImage 9=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，14秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–2s Image 5；画内:ChatGPT、教主。接穿顶方向切外部已到位对峙，水龙盘身不再重复升空；远雷引向宝宝。屋顶上方中远景轻微弧移到两者侧面，保持间距和互相视线，2秒内不新增招式。两人已经来到教堂上空。白紫水龙盘起长身，黑金鸦翼教主悬在对面，两道力量隔着夜空对峙。 人物:GPT为白紫龙，教主为鸦翼人形。 声音:水龙掠空、羽翼气流，接宝宝眼中倒影的远雷。\n[Shot 2] 2–5s Image 6；画内:DeepSeek。仅倒影:ChatGPT。从天空空间切宝宝仰视反应，远处龙影只在眼中出现，不复制小型实体龙。眼部极近特写定镜，微小焦点调整落在泪光与蓝虹膜，倒影只模糊向上滑动。宝宝疲惫抬眼；蓝色虹膜中仅有模糊白紫上升光影，泪光微颤，瞳孔不被倒影覆盖。 人物:GPT只在DeepSeek蓝眼中作为模糊白紫龙影，不加实体龙或脸。 声音:水流升空尾音，远雷渐起。\n[Shot 3] 5–9s Image 7；画内:环境。承宝宝眼中亮影切夜云闪光；雷雨只从此段自然发展，不能倒带成前段水咒电击。钟楼上方天空长焦定镜，让云层、闪光和雨进入承担时间省略，不寻找战斗主体。保留钟楼上方的天空特写。夜云被闪电照亮，雨逐渐落下，几声沉闷的雷响带过空中的激战。 人物:天空闪光省略战斗，无可辨角色实体。 声音:雨渐密，三声间隔闷雷对应闪光。\n[Shot 4] 9–11s Image 8；画内:环境。天空雨落匹配切地面雨点，雷尾衰减中提前出现门外脚步。贴石板微距低机位缓慢滑移一小段，涟漪焦点稳定，反射闪光掠过；不仰拍揭招式。雨滴穿过中殿穹顶破口，打在湿石地板上，涟漪里晃过白紫和暗金闪光。雷声由远及近，又渐渐退去。 人物:湿地涟漪只映白紫与暗金闪光，不渲染人物倒影。 声音:贴近雨滴、湿地涟漪与远雷尾音。\n[Shot 5] 11–14s Image 9；画内:圣骑士、教徒。雨中脚步先入再切可见外院教徒；示警尾音向内接下一批，不让敌人瞬移后排。门槛内中远景定住两侧岗哨，轻微前移到横枪阻挡线即停，让敌人汇入形成压迫。外院教徒从两侧回廊汇聚到门前，岗哨横枪拦住；敌人仍在门外。 人物:敌人为新来的外院教徒，不让已倒下者复起。 声音:雨中脚步骤密、甲片与长枪碰响，一声无词示警。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "ChatGPT",
+        "name_en": "ChatGPT",
+        "asset_id": "CHAR-GPT",
+        "status": "候选待作者审阅",
+        "limits": "两侧躯干略带斜角。开衩与腿饰以原图/正面图的角色右腿为准，不按对称读取；尾巴弯曲是姿态参考，侧背含补全。",
+        "purpose": "ChatGPT四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9",
+        "source_path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+        "source_sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+        "sha1": "ff68ef289edac6743d7e87bdfe142f00332d50ce",
+        "file_size": 2143481,
+        "width": 2172,
+        "height": 869,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-GPT-TURN-v001-h3-pad.png"
+      },
+      {
+        "slot": 2,
+        "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+        "kind": "identity",
+        "person": "教主",
+        "name_en": "the High Priest",
+        "asset_id": "CHAR-PRIEST",
+        "status": "生成前修正候选，待作者审阅",
+        "limits": "四幅全身正、朝左、背、朝右；侧背结构为基于原立绘的合理补全，待作者确认。",
+        "purpose": "教主四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+        "source_path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+        "source_sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+        "sha1": "34f6c0a8dc9ecb9773d855ad67bb2225c2b36a57",
+        "file_size": 2283123,
+        "width": 1774,
+        "height": 887,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\图像\\四视图\\CHAR-PRIEST-TURN-v001.png"
+      },
+      {
+        "slot": 3,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+        "kind": "identity",
+        "person": "DeepSeek",
+        "name_en": "DeepSeek",
+        "asset_id": "CHAR-DEEPSEEK",
+        "status": "候选待作者审阅",
+        "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+        "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+        "source_path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+        "source_sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+        "sha1": "d9d76117c7724d34a366061d3bb38d3a2c70e2c6",
+        "file_size": 1868475,
+        "width": 2169,
+        "height": 868,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-DEEPSEEK-TURN-v003-h3-pad.png"
+      },
+      {
+        "slot": 4,
+        "path": "资产/图像/CHAR-PALADIN-v001.png",
+        "kind": "identity",
+        "person": "圣骑士",
+        "name_en": "the palace paladins",
+        "asset_id": "CHAR-PALADIN",
+        "status": "候选待作者审阅",
+        "limits": "侧背结构是设计补全，不作为精确工程正交图。队伍枪距、披风碰撞与行进连续性待动态验证。",
+        "purpose": "圣骑士四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d",
+        "source_path": "资产/图像/CHAR-PALADIN-v001.png",
+        "source_sha256": "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d",
+        "sha1": "8c06ab19982eec42c5594e272e81b2a8deb88052",
+        "file_size": 2428509,
+        "width": 1774,
+        "height": 887,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\图像\\CHAR-PALADIN-v001.png"
+      },
+      {
+        "slot": 5,
+        "path": "镜头设计/图像/天瀑空间-v014/CY027C-v014.png",
+        "kind": "composition",
+        "shot_id": "CY027C",
+        "purpose": "构图、空间与代表状态：破口之上；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "99c01c10cbfa00cc3819d4a17fab3dbfa2952c905219ad9c818ba3853955e053",
+        "source_path": "镜头设计/图像/天瀑空间-v014/CY027C-v014.png",
+        "source_sha256": "99c01c10cbfa00cc3819d4a17fab3dbfa2952c905219ad9c818ba3853955e053",
+        "sha1": "5bb4b2d41145bec4399a1f88d22824319f7bf969",
+        "file_size": 2914762,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\天瀑空间-v014\\CY027C-v014.png"
+      },
+      {
+        "slot": 6,
+        "path": "镜头设计/图像/目光与入场-v048/CY025-v048-r1.png",
+        "kind": "composition",
+        "shot_id": "CY025",
+        "purpose": "构图、空间与代表状态：她还是来了；不是默认首帧",
+        "status": "v0.48朝向、反应、咏唱及局部色偏修订候选，待作者画面审阅",
+        "limits": "",
+        "sha256": "f05576c45ec4da41220460f5ddfe0cca6477699d2ade1e7d88dbb43f7ab900ea",
+        "source_path": "镜头设计/图像/目光与入场-v048/CY025-v048-r1.png",
+        "source_sha256": "f05576c45ec4da41220460f5ddfe0cca6477699d2ade1e7d88dbb43f7ab900ea",
+        "sha1": "4944fd2c0905c48fe3f8ff8dd51f1d10ab83876b",
+        "file_size": 2348949,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\目光与入场-v048\\CY025-v048-r1.png"
+      },
+      {
+        "slot": 7,
+        "path": "镜头设计/图像/熄烛月光-v012/CY027E-v012.png",
+        "kind": "composition",
+        "shot_id": "CY027E",
+        "purpose": "构图、空间与代表状态：略去激战；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "bde230e5cb97fd364e20ce4925dbe98a8272b08ec9c422f74fbfd3ae71e026d2",
+        "source_path": "镜头设计/图像/熄烛月光-v012/CY027E-v012.png",
+        "source_sha256": "bde230e5cb97fd364e20ce4925dbe98a8272b08ec9c422f74fbfd3ae71e026d2",
+        "sha1": "d492230dc5fec6974b9b9f66e2c5524ddaa3f094",
+        "file_size": 2872066,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\熄烛月光-v012\\CY027E-v012.png"
+      },
+      {
+        "slot": 8,
+        "path": "镜头设计/图像/熄烛月光-v012/CY027E1-v012.png",
+        "kind": "composition",
+        "shot_id": "CY027E1",
+        "purpose": "构图、空间与代表状态：雨滴落入大殿；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "820fd1400170d86b400c66e3055b1cfd00970eb061a70460dadfccb04c4fd43d",
+        "source_path": "镜头设计/图像/熄烛月光-v012/CY027E1-v012.png",
+        "source_sha256": "820fd1400170d86b400c66e3055b1cfd00970eb061a70460dadfccb04c4fd43d",
+        "sha1": "abddce6fc26768ed5e747faa256eef618ccbfe00",
+        "file_size": 3118410,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\熄烛月光-v012\\CY027E1-v012.png"
+      },
+      {
+        "slot": 9,
+        "path": "镜头设计/图像/末轮叙事优化-v035/CY027D0-v035-r2.png",
+        "kind": "composition",
+        "shot_id": "CY027D0",
+        "purpose": "构图、空间与代表状态：外院教徒，围向正门；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "84ff0d72046035d8398879d3d0de7646aa000c9232dbf45db09573139fd30907",
+        "source_path": "镜头设计/图像/末轮叙事优化-v035/CY027D0-v035-r2.png",
+        "source_sha256": "84ff0d72046035d8398879d3d0de7646aa000c9232dbf45db09573139fd30907",
+        "sha1": "bbf45bbc910815e1af86b27d5aead79a6a7f4709",
+        "file_size": 3045291,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\末轮叙事优化-v035\\CY027D0-v035-r2.png"
+      }
+    ],
+    "estimated_credits": 165.6,
+    "status": "prepared",
+    "accepted": false
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "subject_definitions:\nImage 1=ChatGPT四视图：同一人四角度，身份服饰保持\nImage 2=教主四视图：同一人四角度，身份服饰保持\nImage 3=DeepSeek四视图：同一人四角度，身份服饰保持\nImage 4=圣骑士四视图：同一人四角度，身份服饰保持\nImage 5=构图状态，非强制首帧\nImage 6=构图状态，非强制首帧\nImage 7=构图状态，非强制首帧\nImage 8=构图状态，非强制首帧\nImage 9=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，14秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–2s Image 5；画内:ChatGPT、教主。接穿顶方向切外部已到位对峙，水龙盘身不再重复升空；远雷引向宝宝。屋顶上方中远景轻微弧移到两者侧面，保持间距和互相视线，2秒内不新增招式。两人已经来到教堂上空。白紫水龙盘起长身，黑金鸦翼教主悬在对面，两道力量隔着夜空对峙。 人物:GPT为白紫龙，教主为鸦翼人形。 声音:水龙掠空、羽翼气流，接宝宝眼中倒影的远雷。\n[Shot 2] 2–5s Image 6；画内:DeepSeek。仅倒影:ChatGPT。从天空空间切宝宝仰视反应，远处龙影只在眼中出现，不复制小型实体龙。眼部极近特写定镜，微小焦点调整落在泪光与蓝虹膜，倒影只模糊向上滑动。宝宝疲惫抬眼；蓝色虹膜中仅有模糊白紫上升光影，泪光微颤，瞳孔不被倒影覆盖。 人物:GPT只在DeepSeek蓝眼中作为模糊白紫龙影，不加实体龙或脸。 声音:水流升空尾音，远雷渐起。\n[Shot 3] 5–9s Image 7；画内:环境。承宝宝眼中亮影切夜云闪光；雷雨只从此段自然发展，不能倒带成前段水咒电击。钟楼上方天空长焦定镜，让云层、闪光和雨进入承担时间省略，不寻找战斗主体。保留钟楼上方的天空特写。夜云被闪电照亮，雨逐渐落下，几声沉闷的雷响带过空中的激战。 人物:天空闪光省略战斗，无可辨角色实体。 声音:雨渐密，三声间隔闷雷对应闪光。\n[Shot 4] 9–11s Image 8；画内:环境。天空雨落匹配切地面雨点，雷尾衰减中提前出现门外脚步。贴石板微距低机位缓慢滑移一小段，涟漪焦点稳定，反射闪光掠过；不仰拍揭招式。雨滴穿过中殿穹顶破口，打在湿石地板上，涟漪里晃过白紫和暗金闪光。雷声由远及近，又渐渐退去。 人物:湿地涟漪只映白紫与暗金闪光，不渲染人物倒影。 声音:贴近雨滴、湿地涟漪与远雷尾音。\n[Shot 5] 11–14s Image 9；画内:圣骑士、教徒。雨中脚步先入再切可见外院教徒；示警尾音向内接下一批，不让敌人瞬移后排。门槛内中远景定住两侧岗哨，轻微前移到横枪阻挡线即停，让敌人汇入形成压迫。外院教徒从两侧回廊汇聚到门前，岗哨横枪拦住；敌人仍在门外。 人物:敌人为新来的外院教徒，不让已倒下者复起。 声音:雨中脚步骤密、甲片与长枪碰响，一声无词示警。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141276083478528"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141373313343488"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141523506393088"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141532830461952"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141543572205568"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141552535302144"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141562914103296"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141574171615232"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141586638925824"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 14,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "source_sha256": "e31c8f0667be1092066e4307a8784ba2d54ac12d7039479b4edca5704c88c2a7",
+  "approved_scope": "2026-10-28 user requested switching remaining generation to https://metaso.cn/minimax-h3"
+}

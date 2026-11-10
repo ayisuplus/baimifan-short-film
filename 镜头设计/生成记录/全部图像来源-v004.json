@@ -1,0 +1,316 @@
+{
+  "engine": "built-in imagegen",
+  "successful_images": 24,
+  "rejected_requests": 3,
+  "current_candidates": 11,
+  "source_policy": "Tool originals preserved; project copies are byte-identical.",
+  "records": [
+    {
+      "path": "镜头设计/图像/S01-粗分镜-v001.png",
+      "request": "镜头设计/生成记录/六场粗分镜-请求-v001.json",
+      "status": "current_candidate",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-e7396159-0d80-404e-9a98-9d2008f52342.png",
+      "sha256": "8b4e5a8393c43892e3288f287478fff5169b1b0026b25b8a891106168017b73e",
+      "size": [
+        1672,
+        940
+      ]
+    },
+    {
+      "path": "镜头设计/图像/S02-粗分镜-v001.png",
+      "request": "镜头设计/生成记录/六场粗分镜-请求-v001.json",
+      "status": "current_candidate",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-525e0ece-7956-463a-9a4e-78520949b527.png",
+      "sha256": "2872500648f5436714ed0eba2b50e15a50fe358acfc6163ea13382151cfdcf73",
+      "size": [
+        1364,
+        1153
+      ]
+    },
+    {
+      "path": "镜头设计/图像/S06-粗分镜-v001.png",
+      "request": "镜头设计/生成记录/六场粗分镜-请求-v001.json",
+      "status": "history: cup handoff, bandages and seating corrected",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-64b0e23f-23eb-49e6-a4bb-350e5a91060b.png",
+      "sha256": "fe2febafe7f8a2cd66973d58d7e89ba4b4d390c900648fafc314f56746a078b2",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "path": "镜头设计/图像/S03-粗分镜-v001.png",
+      "request": "镜头设计/生成记录/教堂两场-请求-v002.json",
+      "status": "history: superseded by author empty-church plot correction",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-2cbcf481-1518-4dab-aaf4-eb95d2cc6182.png",
+      "sha256": "4a206c46049d0e5b02510e953f57ffc780229905f79597b752292be2a287c90a",
+      "size": [
+        1364,
+        1153
+      ]
+    },
+    {
+      "path": "镜头设计/图像/S04-粗分镜-v001.png",
+      "request": "镜头设计/生成记录/教堂两场-请求-v002.json",
+      "status": "history: premature wood flame corrected",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-ede9c5b2-e5ef-4486-ba00-5a9955ee490a.png",
+      "sha256": "8082285bc1c04d2b013df2be8cb8c6d35302632cc8c95fa11ba5f78e2fcc2991",
+      "size": [
+        1364,
+        1153
+      ]
+    },
+    {
+      "path": "镜头设计/图像/S05-粗分镜-v001.png",
+      "request": "镜头设计/生成记录/破门营救-请求-v002.json",
+      "status": "history: eight shallow strips recomposed as two sheets",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-18d908d4-2087-4ade-a4dc-def37f124e9b.png",
+      "sha256": "6b02eb0f2e321f65b0df8d30969661034b529601fc1d549ac09121a328069708",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "path": "镜头设计/图像/S06-粗分镜-v002.png",
+      "request": "镜头设计/生成记录/结尾修订-请求-v002.json",
+      "status": "current_candidate",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-a20dfd93-52af-4422-9db0-a38c9b9cf589.png",
+      "sha256": "20cec5cb26ea4ad00a7e14ccebb0c82abb68dd6190a21f1c515b0309bc472164",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "path": "镜头设计/图像/S04-粗分镜-v002.png",
+      "request": "镜头设计/生成记录/连续性与版式修订-请求-v002.json",
+      "status": "current_candidate",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-9184949f-16e9-483d-bfc4-9c5d213d0a49.png",
+      "sha256": "cb6d76f294286d55acca90c58ffe4cee9ebd9317deee23fbe6925f6dfa466616",
+      "size": [
+        1364,
+        1153
+      ]
+    },
+    {
+      "path": "镜头设计/图像/S05A-粗分镜-v002.png",
+      "request": "镜头设计/生成记录/连续性与版式修订-请求-v002.json",
+      "status": "history: superseded by expanded ensemble or targeted continuity/identity repair",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-e3e07016-ee09-4a8f-842c-85706f7f6eea.png",
+      "sha256": "adbc7e479ab03a5f716c7c38ab7331ac349a99fd859025feddce7f9847caabd6",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "path": "镜头设计/图像/S05B-粗分镜-v002.png",
+      "request": "镜头设计/生成记录/连续性与版式修订-请求-v002.json",
+      "status": "history: local wrist-restraint or flower-side continuity correction",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-4e0f8eda-7d04-4755-b298-5d3bcee9b8c7.png",
+      "sha256": "28806ca87806b57cc94a59151361ded87612a6f702abbf3c579eb00abee2ea98",
+      "size": [
+        1671,
+        941
+      ]
+    },
+    {
+      "path": "镜头设计/图像/S03A-空堂潜入-v002.png",
+      "request": "镜头设计/生成记录/空堂营救-剧情修订-请求-v002.json",
+      "status": "history: local wrist-restraint or flower-side continuity correction",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-cf03aa32-6190-4be6-b6e9-da1e47c6734b.png",
+      "sha256": "11b42662548feb57f68a412682b9c954b7dc540800196e3b971c9ac23bb7d4a0",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "path": "镜头设计/图像/S03B-解锁未成-v002.png",
+      "request": "镜头设计/生成记录/空堂营救-剧情修订-请求-v002.json",
+      "status": "history: local wrist-restraint or flower-side continuity correction",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-ea464e86-d53b-4e0a-af41-166c2e181f76.png",
+      "sha256": "b436734731d8882e0cdc9a7254a424e37a861ea41a977aca203d4cab84e5f664",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "S03A-v003",
+      "path": "镜头设计/图像/S03A-空堂潜入-v003.png",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-82253d8c-60cb-4cdc-956b-43e2f714995a.png",
+      "replaces": "镜头设计/图像/S03A-空堂潜入-v002.png",
+      "request": "镜头设计/生成记录/束具与花饰-局部修订-请求-v003.json",
+      "status": "current_candidate",
+      "sha256": "94700e54e16cf2195e00b5cd68f2caad350308b0ce6338fdbc2223dd475dd987",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "S03B-v003",
+      "path": "镜头设计/图像/S03B-解锁未成-v003.png",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-78275684-0d4e-4af4-bdf6-685efed2717f.png",
+      "replaces": "镜头设计/图像/S03B-解锁未成-v002.png",
+      "request": "镜头设计/生成记录/束具与花饰-局部修订-请求-v003.json",
+      "status": "current_candidate",
+      "sha256": "45d97bb6f6a3e7720534505dd29735941aefd346fe70834899baa5013e140e4c",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "S05B-v003",
+      "path": "镜头设计/图像/S05B-粗分镜-v003.png",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-f96bc0e6-e5b6-4a59-8ae8-54ab1c9c0e8c.png",
+      "replaces": "镜头设计/图像/S05B-粗分镜-v002.png",
+      "request": "镜头设计/生成记录/束具与花饰-局部修订-请求-v003.json",
+      "status": "history: superseded by expanded ensemble or targeted continuity/identity repair",
+      "sha256": "88b082854bf494422e401144c16ef1cf49bfb4a1747f7d1a06d342f52fa6c919",
+      "size": [
+        1671,
+        941
+      ]
+    },
+    {
+      "id": "S05C-v001",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-5a232c81-9646-4fbe-b062-74e353b71dc7.png",
+      "path": "镜头设计/图像/S05C-四方邀请-v001.png",
+      "sha256": "469b322b09c6c3389eadc071f1fc3c798ea07208f12fbaae69e90948a6402d5f",
+      "source_sha256": "469b322b09c6c3389eadc071f1fc3c798ea07208f12fbaae69e90948a6402d5f",
+      "width": 1672,
+      "height": 941,
+      "request": "镜头设计/生成记录/召集与对抗-请求-v003.json",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "current_candidate"
+    },
+    {
+      "id": "S05D-v001",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-3adcc333-38ff-406e-8eb7-012db062089a.png",
+      "path": "镜头设计/图像/S05D-应召分屏-v001.png",
+      "sha256": "db7a626651b4caa696c5dc3d630adc9d4d21f92876c7544f260c85d533232156",
+      "source_sha256": "db7a626651b4caa696c5dc3d630adc9d4d21f92876c7544f260c85d533232156",
+      "width": 1672,
+      "height": 941,
+      "request": "镜头设计/生成记录/召集与对抗-请求-v003.json",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "current_candidate"
+    },
+    {
+      "id": "S05E-v001",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-c494f800-644d-4505-b966-c933f8cffb70.png",
+      "path": "镜头设计/图像/S05E-对抗与战后-v001.png",
+      "sha256": "ad519f6cf952b550e4182ba203208c19be19e1b89dbe4402b201a8aa83b90436",
+      "source_sha256": "ad519f6cf952b550e4182ba203208c19be19e1b89dbe4402b201a8aa83b90436",
+      "width": 1365,
+      "height": 1152,
+      "request": "镜头设计/生成记录/召集与对抗-请求-v003.json",
+      "size": [
+        1365,
+        1152
+      ],
+      "status": "history: superseded by expanded ensemble or targeted continuity/identity repair"
+    },
+    {
+      "id": "S05E-v002",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-f2c0658a-7e3a-4a80-a3f5-fbf9f108d49f.png",
+      "path": "镜头设计/图像/S05E-对抗与战后-v002.png",
+      "source_sha256": "fa0498bd2b1a3cf97c32e04bf2302eda5569a7e2411fb87449db7fad93302cc4",
+      "sha256": "fa0498bd2b1a3cf97c32e04bf2302eda5569a7e2411fb87449db7fad93302cc4",
+      "width": 1366,
+      "height": 1152,
+      "request": "镜头设计/生成记录/战后宝宝抱护-局部修订-请求-v004.json",
+      "size": [
+        1366,
+        1152
+      ],
+      "status": "history: superseded by expanded ensemble or targeted continuity/identity repair"
+    },
+    {
+      "id": "S05E-v003",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-616da8ec-7837-4c74-a738-30ba0bd5f8c6.png",
+      "path": "镜头设计/图像/S05E-对抗与战后-v003.png",
+      "source_sha256": "cf30a640a9b30eb0cba03fd2f2e98b45afb05c80953709b7657184706c8d8483",
+      "sha256": "cf30a640a9b30eb0cba03fd2f2e98b45afb05c80953709b7657184706c8d8483",
+      "width": 1366,
+      "height": 1151,
+      "request": "镜头设计/生成记录/大殿群像-请求-v005.json",
+      "size": [
+        1366,
+        1151
+      ],
+      "status": "history: superseded by expanded ensemble or targeted continuity/identity repair"
+    },
+    {
+      "id": "S05A-v003",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-5895e6a1-b843-48f2-8dd5-0b76e82804dc.png",
+      "path": "镜头设计/图像/S05A-粗分镜-v003.png",
+      "source_sha256": "47921c1e183b60f8448e382ffe35b0ab811327a8c5d3f5082e935523723a15ea",
+      "sha256": "47921c1e183b60f8448e382ffe35b0ab811327a8c5d3f5082e935523723a15ea",
+      "width": 1672,
+      "height": 941,
+      "request": "镜头设计/生成记录/大殿群像-请求-v005.json",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "current_candidate"
+    },
+    {
+      "id": "S05B-v004",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-bf00c928-514d-431d-8b98-17d77bd026ed.png",
+      "path": "镜头设计/图像/S05B-粗分镜-v004.png",
+      "source_sha256": "59841457a08672281d8150f44146ee64ed03b363e643330eacd48eb546203d54",
+      "sha256": "59841457a08672281d8150f44146ee64ed03b363e643330eacd48eb546203d54",
+      "width": 1670,
+      "height": 942,
+      "request": "镜头设计/生成记录/大殿群像-请求-v005.json",
+      "size": [
+        1670,
+        942
+      ],
+      "status": "history: superseded by expanded ensemble or targeted continuity/identity repair"
+    },
+    {
+      "id": "S05E-v004",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-0aa316e2-d9c3-47de-9c12-199225c54b73.png",
+      "path": "镜头设计/图像/S05E-对抗与战后-v004.png",
+      "source_sha256": "7c6f4f698584dbd83821c1ced7829637d41875900de825c7d1c8fe4f9d291705",
+      "sha256": "7c6f4f698584dbd83821c1ced7829637d41875900de825c7d1c8fe4f9d291705",
+      "width": 1366,
+      "height": 1151,
+      "request": "镜头设计/生成记录/群像人数与倒地-修订-请求-v006.json",
+      "size": [
+        1366,
+        1151
+      ],
+      "status": "current_candidate"
+    },
+    {
+      "id": "S05B-v005",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-b6d73b09-ed3f-4fab-b2d5-47f7342d8ce9.png",
+      "path": "镜头设计/图像/S05B-粗分镜-v005.png",
+      "source_sha256": "7816a4ba5850cd1f5ffc5b3d09b9c814e1ac1f1217b4544bc1ae1bd8686f3233",
+      "sha256": "7816a4ba5850cd1f5ffc5b3d09b9c814e1ac1f1217b4544bc1ae1bd8686f3233",
+      "width": 1670,
+      "height": 942,
+      "request": "镜头设计/生成记录/离殿群像身份-修订-请求-v007.json",
+      "size": [
+        1670,
+        942
+      ],
+      "status": "current_candidate"
+    }
+  ],
+  "historical_images": 13
+}

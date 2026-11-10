@@ -1,0 +1,1718 @@
+{
+  "version": "v051-impact-camera-seven-tracks",
+  "shot_plan": "镜头设计/shot-plan-v0.51.json",
+  "shot_plan_sha256": "66c60447cd4a120f1dd4876c8b4eb08a0e4ca930a724110d177edab92b81a3c4",
+  "sections": [
+    {
+      "id": "M01",
+      "first_shot": "CY001",
+      "last_shot": "CY002",
+      "candidates": [],
+      "note": "街市先行，暂不入乐"
+    },
+    {
+      "id": "M02",
+      "first_shot": "CY003",
+      "last_shot": "CY003B",
+      "candidates": [
+        "BGM-CY-TIME-001"
+      ],
+      "note": "首尾主题候选，轻短乐句"
+    },
+    {
+      "id": "M03",
+      "first_shot": "CY003C",
+      "last_shot": "CY009A",
+      "candidates": [
+        "BGM-CY-SCHEME-001"
+      ],
+      "note": "局部压力候选；求助、拒绝与钟声留白"
+    },
+    {
+      "id": "M04",
+      "first_shot": "CY010A",
+      "last_shot": "CY016A",
+      "candidates": [
+        "BGM-CY-SCHEME-001"
+      ],
+      "note": "潜入以环境声为主，候选仅供比较"
+    },
+    {
+      "id": "M05",
+      "first_shot": "CY016B",
+      "last_shot": "CY022B2",
+      "candidates": [
+        "BGM-CY-SCHEME-001"
+      ],
+      "note": "脚步先到，再逐渐加压"
+    },
+    {
+      "id": "M06",
+      "first_shot": "CY022B1",
+      "last_shot": "CY022C",
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "门外列阵与破门预备"
+    },
+    {
+      "id": "M07",
+      "first_shot": "CY023",
+      "last_shot": "CY023A",
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "note": "破门与援军，两曲对照"
+    },
+    {
+      "id": "M08",
+      "first_shot": "CY026A",
+      "last_shot": "CY026E",
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "召集回闪，短回应优先"
+    },
+    {
+      "id": "M09",
+      "first_shot": "CY024A0",
+      "last_shot": "CY024B1",
+      "candidates": [
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作"
+    },
+    {
+      "id": "M10",
+      "first_shot": "CY027",
+      "last_shot": "CY027B",
+      "candidates": [
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "降落与对峙，正式编排需要压低或停乐"
+    },
+    {
+      "id": "M11",
+      "first_shot": "CY027B1",
+      "last_shot": "CY027E2",
+      "candidates": [
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "变龙与短促行动尾段"
+    },
+    {
+      "id": "M12",
+      "first_shot": "CY027F",
+      "last_shot": "CY028A2",
+      "candidates": [],
+      "note": "解锁与寻找，先留滴水和呼吸"
+    },
+    {
+      "id": "M13",
+      "first_shot": "CY028B",
+      "last_shot": "CY030",
+      "candidates": [
+        "BGM-CY-LIFT-001"
+      ],
+      "note": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪"
+    },
+    {
+      "id": "M14",
+      "first_shot": "CY031",
+      "last_shot": "CY034",
+      "candidates": [
+        "BGM-CY-TIME-001"
+      ],
+      "note": "接勺、第一口饭与日常回归"
+    }
+  ],
+  "effects": {
+    "CY001": "街市叫卖、碗勺轻碰、脚步",
+    "CY002": "远处叫卖、近处衣料与连续脚步",
+    "CY003": "街市底声、递碗衣料与餐具轻响",
+    "CY003A": "细小碗响，街市声拉远",
+    "CY003B": "朦胧街市声；尾部接黑袍衣料",
+    "CY003C": "掌击碗沿、米饭散落、短促吸气",
+    "CY004": "合门声压住街市，接急促脚步",
+    "CY004A": "放碗轻响与脚步",
+    "CY004B": "长阶上的脚步与暮色环境",
+    "CY004C": "脚步、甲片与长枪动作声",
+    "CY004D": "收枪、甲片轻响",
+    "CY005": "急脚步与空殿喘息回响",
+    "CY006": "喘息渐稳，空殿安静",
+    "CY007": "极轻衣料声，回应后留空",
+    "CY008": "空殿静默",
+    "CY009": "脚步由近到远",
+    "CY010": "第一声远钟，尾响延续",
+    "CY009A": "脚步远去、钟声尾音接教堂夜风",
+    "CY010A": "画外取柴召令（新增，待配音）、脚步远去、夜风与教堂灯火。",
+    "CY011": "石屑、布料摩擦、烛火轻响",
+    "CY011A": "石屑、布料摩擦与空堂底声",
+    "CY012": "落地闷响、长堂回声、烛火",
+    "CY013": "烛火、微弱呼吸",
+    "CY013A": "烛火、微弱呼吸与链条细响",
+    "CY015": "轻脚步、衣料与空堂回声",
+    "CY016": "金属锁链清脆一响与回声，随后安静",
+    "CY016A1": "锁链余响、烛芯轻响",
+    "CY016A": "呼吸、锁扣摩擦、烛火",
+    "CY016B": "画外脚步与低语先入，锁链细响骤停",
+    "CY016B1": "脚步接近、门轴声，同一空间混响",
+    "CY016C": "密集脚步、粗木互碰、提灯轻响",
+    "CY016D": "下阶脚步、抓木摩擦、急喘；没有手持火焰",
+    "CY017": "衣料推擦、膝掌落地、木头与脚步不断",
+    "CY018": "靴底拨踢、衣料擦地、短促气声；不夸张重击",
+    "CY019": "衣料摩擦、颤抖呼吸，教主短促命令",
+    "CY020": "画外衣料、闷响、木架震动；不加惨叫",
+    "CY020B": "一步逼近、衣料推擦、急促吸气",
+    "CY020A": "失守落地与衣料声",
+    "CY021": "急促喘息、衣料擦地",
+    "CY021B": "攥紧衣料摩擦与喘息",
+    "CY021A": "火苗近响、吟唱底声，教主平静说话",
+    "CY022A": "衣料滑脱、指尖掠石；吟唱压低一瞬",
+    "CY022A1": "沉重登阶声、火把呼声、吟唱不断",
+    "CY022": "火头触木、树脂爆响、黑焰低吼，退阶脚步",
+    "CY022B": "短促吸气、腕链锐响、受阻喘息",
+    "CY022B2": "教徒集体吟唱、殿内混响、柴火爆裂",
+    "CY022B1": "甲靴齐步、甲片、枪尾触地",
+    "CY026": "两步清晰鞋跟声、衣料掠动",
+    "CY022C": "室内吟唱与混响、门板震动",
+    "CY023": "干脆破门声，剧情吟唱立刻切断",
+    "CY024": "主角脚步后，长枪与甲片声由门外接近。 GPT平稳、短促交代救援；新句配音未制作。",
+    "CY023A": "骑士脚步与甲片声",
+    "CY026A": "云宫环境底声",
+    "CY026A1": "清脆合扇声",
+    "CY026B": "室内灯火、纸页微响",
+    "CY026C": "基地低频机械声，切月背时收掉",
+    "CY026D1": "月面安静，无风声",
+    "CY026D": "新增GPT分路交代待配音；沿用Kimi同一句“嗯”的既有临时读稿，移至5.7秒；月面安静，无风声。",
+    "CY026E": "五次轻促切点，环境按各路画面衔接",
+    "CY024A0": "0.2—1.3秒千问说“抱紧我”；衣料收紧与短促呼吸。句末留小鱼抓紧的反应，末尾引入下一镜拍翼低频；新声音尚未制作。",
+    "CY024A": "0—4.2秒展翼准备、翼膜低沉振动与气流，低弦起；4.2秒GPT起句。千问对白已移入前镜，不在此镜重复。正式声音未制作。",
+    "CY024A9": "同一句GPT画外咏唱连续，不因慢镜变速或变调；术光破空声。",
+    "CY024A10": "0.15秒扇轴短咔；0.3—1.1秒扇骨依次展开的轻细金属声；1.4秒单叶卡扣轻响，1.7秒弹脱破空接下镜。声音轻而脆，不用枪械上膛、重齿轮或引擎声。GPT画外第二句连续，机械声避开人声。正式音效未制作。",
+    "CY024A11": "环境声短暂压低，只有细薄破空声；GPT画外咏唱自然连续，不变调。碰撞声留下一镜。",
+    "CY024A12": "画面恢复常速时一声短促清脆撞击，残光迅速散去；GPT咏唱连续，随后接Kimi微光声。",
+    "CY024A1": "承前咏唱，衣料与呼吸；罩外敌法闷响及高空潮鸣。",
+    "CY024A2": "连续咏唱与轻缓呼吸、发丝衣料细响，无新增对白",
+    "CY024A3": "水滴液桥合并轻响，高空长风；无落雨或电流音。",
+    "CY024A6": "高空长风与深沉潮鸣，压低于咏唱；没有雷电声。",
+    "CY024A7": "长风骤急、下坠水鸣，镜末接第一下石瓦裂响。",
+    "CY024A4": "罩外破顶余响逐渐变闷，锁链轻响与呼吸；水龙在画外回卷，最高祭坛没有受水撞击。",
+    "CY024A8": "破顶声尾音衰减，厚重水身回卷的低鸣与衣料声。",
+    "CY024A5": "0—2.4秒盘水低鸣；2.4—5秒救赎祈愿；5—5.8秒音乐骤收；5.8—7.9秒术名坚定落下，不提前放撞盾重音。",
+    "CY024B": "龙首贴盾的一记低沉撞击，接短促罩面共振；厚水拍石与衣袍急响随后展开，教徒惊呼退到两侧。无雷电与友方罩受击声。",
+    "CY024B1": "敌方法术戛然而止、教徒短促惊呼、厚水拍石、法杖落水及衣袍拖水声；不再突出木椅翻转",
+    "CY027": "水声退低，最后一次翼膜拍动，鞋尖水声与湿地脚步；不新增对白。",
+    "CY027A": "教堂回声恢复，教主压低声音。",
+    "CY027B": "短答后留半拍，接气流",
+    "CY027B1": "水流旋起、低沉龙鸣",
+    "CY027B2": "羽翼振响、暗金魔法低鸣",
+    "CY027B3": "掠空气流、羽翼振动，空间转开阔",
+    "CY027C": "水龙掠空、羽翼气流，接远雷",
+    "CY025": "水流升空尾音、远雷渐起",
+    "CY027E": "雨渐密，三声间隔闷雷对应闪光",
+    "CY027E1": "近处雨滴、湿地涟漪、远雷尾音",
+    "CY027D0": "雨中密集脚步、甲片与长枪、一声无词示警",
+    "CY027D": "门口搏击与骑士示警，祭坛护罩轻鸣",
+    "CY027E2": "短促魔法爆鸣、玻璃共振，尾声沉下",
+    "CY027F": "战后滴水、喘息，远处脚步",
+    "CY027F1": "钥匙转动、锁舌轻响、链条放下",
+    "CY027G": "锁舌与链条轻响、衣料摩擦",
+    "CY028A": "锁链余响与滴水声。GPT贴着搀扶动作轻声安抚；Claude站稳后带牵挂寻找小鱼。 新配音未制作；字幕仅为阅读暂排，实际说话与动作节奏待声音预演。",
+    "CY028A2": "滴水与安静呼吸",
+    "CY028B": "轻微呼吸、初蓄微光",
+    "CY028C": "水汽蒸散轻响与呼吸",
+    "CY029": "呼吸与滴水；让父亲呼唤清楚",
+    "CY029E": "呼唤尾音消散，呼吸与滴水",
+    "CY029E1": "呼吸、微光持续；不重复起咏",
+    "CY029E2": "安静环境，咏唱跨切",
+    "CY029E3": "火种轻微燃烧声，咏唱在前",
+    "CY029E4": "攥紧衣襟轻响，咏唱在前",
+    "CY029B1": "轻微火种声与呼吸",
+    "CY029B2": "环境压低，贴近视点的火焰掠过声",
+    "CY029B": "短促腾燃、木料燃烧、锁链声",
+    "CY029C": "呼吸一滞、衣袖滑落",
+    "CY029D": "衣裙摩擦、短促呼吸",
+    "CY028": "抱持衣料与呼吸",
+    "CY029A": "衣袖轻擦、呼吸渐稳",
+    "CY030": "脚步渐远；滴水与空架火声留在殿内",
+    "CY031": "街市叫卖、碗勺轻响",
+    "CY031A": "让座与衣料细响、街市底声",
+    "CY032A": "勺柄轻触、街市声",
+    "CY033": "杯子轻碰、自然街市声",
+    "CY034A": "柔和街市、轻微餐具；不放大咀嚼",
+    "CY034": "小鱼笑与回望呼吸；最后4秒街市自然停留",
+    "CY017A": "厚木落堆闷响、树皮摩擦，落点清楚",
+    "CY018B": "最后一根木头落定，退下脚步，吟唱渐起",
+    "CY024K1": "咏唱在此暂停；一记硬脆撞击→密集玻璃爆裂→刀锋掠过镜头→碎片坠地尾响，避免盖住下一镜术名。",
+    "CY024K2": "承术名尾音的瞬移低鸣→低频爆气→重木刮石翻落；不重复念咒，不延长成漂浮碎片。",
+    "CY024K0": "承前呼唤，0.1—5.5秒说出请求，末尾留约半秒；殿内火声压低，下一镜玻璃爆裂独占声音重音。正式配音未制作。",
+    "CY024K3": "教徒聚能尖鸣→两道破空法术→暗壳上的短促碎裂声；切入罩内后压成遥远闷响",
+    "CY024K4": "轻触金属、腕镣短刺鸣、立刻收刀；镜末两声后腰卡扣",
+    "CY024B3": "左右两侧持续重水奔流；中央没有冲罩音，切罩内时轰鸣自然变闷",
+    "CY027F0": "钥匙环与扣钩轻响、涉浅水脚步",
+    "CY027F2": "暗膜低鸣收尽、钥匙落掌、殿内余水滴落；不重复收刃音",
+    "CY024K1A": "0—0.5秒刀尖入木与纤维裂响，玻璃尾声降下；0.6—1.8秒术名清晰落定，最后一个字接短促瞬移低鸣，下一镜爆气震柴。",
+    "CY024B3A": "隔膜后的低沉水声、轻柔衣料与呼吸；不出现撑膜、碎裂或吃力喘息",
+    "CY024K2A": "重柴滚落尾音、黑袍急转脚步、教徒掌心与杖端聚能；不新增对白",
+    "CY024A5A": "近处一记干脆石裂接低频破顶重击，碎石擦过声由近到远，水啸快速掠过；无对白和雷电声。",
+    "CY024A5B": "解印衣袖轻响，前指后水啸加速；撞盾声留到下一镜。",
+    "CY024R": "承前脚步和门口甲片尾响，教徒转身衣料声；0.6秒起Kimi画外呼唤，观众听点先行，随后切窗外。正式配音未制作。"
+  },
+  "effects_status": "设计说明 · 未制作音效音轨",
+  "effects_note": "从当前声音设计整理，少量动作拟音为本轮提案；原始声音说明在逐镜详情保留。",
+  "audition_note": "第六轮：S03秘密行动与Kimi月影渡新增6首。每镜3首新候选并保留对应旧曲对照；仅供作者试听，不自动选定或切曲。",
+  "music_manifests": [
+    "资产/生成记录/BGM重选-音频-v001.json",
+    "资产/生成记录/BGM重选-音频-v002.json",
+    "资产/生成记录/BGM重选-音频-v003.json",
+    "资产/生成记录/BGM重选-音频-v004.json",
+    "资产/生成记录/BGM重选-音频-v005.json",
+    "资产/生成记录/BGM重选-音频-v006.json"
+  ],
+  "author_feedback": "作者确认完整月影渡咏唱；保留原130镜音乐候选及浏览器本机选曲标记。新增反应沿用相邻K0候选，不代选。字幕仅为预算，正式配音未制作。",
+  "shot_overrides": {
+    "CY001": {
+      "candidates": [
+        "BGM-CY-MT-03",
+        "BGM-CY-MT-15",
+        "BGM-CY-NA-03"
+      ],
+      "note": "阳光与饭碗，比较童话日常、亲近感和轻柔幻想；仍可选择只留街声",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "阳光与饭碗，比较童话日常、亲近感和轻柔幻想；仍可选择只留街声"
+    },
+    "CY002": {
+      "candidates": [
+        "BGM-CY-MT-03",
+        "BGM-CY-MT-39",
+        "BGM-CY-NA-03",
+        "BGM-CY-LR-15"
+      ],
+      "note": "回望尚未求救，比较内心距离与神秘感，避免提前悲壮",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "回望尚未求救，比较内心距离与神秘感，避免提前悲壮"
+    },
+    "CY003": {
+      "candidates": [
+        "BGM-CY-MT-03",
+        "BGM-CY-TIME-001",
+        "BGM-CY-MT-15",
+        "BGM-CY-NA-03"
+      ],
+      "note": "第一次邀请，保留首尾呼应并比较更轻的陌生人善意",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "第一次邀请，保留首尾呼应并比较更轻的陌生人善意"
+    },
+    "CY003A": {
+      "candidates": [
+        "BGM-CY-MT-03",
+        "BGM-CY-MT-15",
+        "BGM-CY-MT-39",
+        "BGM-CY-NA-03"
+      ],
+      "note": "饭碗悬着无人接，比较温暖的等待与微小失落，不催情",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "饭碗悬着无人接，比较温暖的等待与微小失落，不催情"
+    },
+    "CY003B": {
+      "candidates": [
+        "BGM-CY-MT-03",
+        "BGM-CY-TIME-001",
+        "BGM-CY-MT-20",
+        "BGM-CY-MT-39"
+      ],
+      "note": "眼底映出小鱼，比较克制感谢与压住的悲伤",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "眼底映出小鱼，比较克制感谢与压住的悲伤"
+    },
+    "CY003C": {
+      "candidates": [
+        "BGM-CY-MT-03",
+        "BGM-CY-MT-18",
+        "BGM-CY-MT-84",
+        "BGM-CY-LR-04"
+      ],
+      "note": "掀饭是突变，比较短促惊愕、危险预感；拍碗声必须先到",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "掀饭是突变，比较短促惊愕、危险预感；拍碗声必须先到"
+    },
+    "CY004": {
+      "candidates": [
+        "BGM-CY-MT-03",
+        "BGM-CY-MT-13",
+        "BGM-CY-MT-84",
+        "BGM-CY-LR-04"
+      ],
+      "note": "听见火祭消息，比较恐惧与危机，不把教徒对白盖住",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "听见火祭消息，比较恐惧与危机，不把教徒对白盖住"
+    },
+    "CY004A": {
+      "candidates": [
+        "BGM-CY-MT-03",
+        "BGM-CY-NA-02",
+        "BGM-CY-MT-63",
+        "BGM-CY-MT-15"
+      ],
+      "note": "放下空碗去求援，比较紧迫、主动选择与善意驱动",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "放下空碗去求援，比较紧迫、主动选择与善意驱动"
+    },
+    "CY004B": {
+      "candidates": [
+        "BGM-CY-TS-19",
+        "BGM-CY-KH-05",
+        "BGM-CY-TS-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-FR-13",
+        "BGM-CY-AM-30",
+        "BGM-CY-AM-01"
+      ],
+      "note": "第四轮 · 史诗尺度的求助与抉择，比较宏大推进和对白留白；镜头动作：暮色里的长阶",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "史诗尺度的求助与抉择，比较宏大推进和对白留白"
+    },
+    "CY004C": {
+      "candidates": [
+        "BGM-CY-KH-05",
+        "BGM-CY-KH-09",
+        "BGM-CY-TS-19",
+        "BGM-CY-TS-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-30",
+        "BGM-CY-FR-13",
+        "BGM-CY-AM-01"
+      ],
+      "note": "第四轮 · 史诗尺度的求助与抉择，比较宏大推进和对白留白；镜头动作：长枪拦路",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "史诗尺度的求助与抉择，比较宏大推进和对白留白"
+    },
+    "CY004D": {
+      "candidates": [
+        "BGM-CY-KH-05",
+        "BGM-CY-TS-19",
+        "BGM-CY-KH-09"
+      ],
+      "previous_candidates": [
+        "BGM-CY-FR-13",
+        "BGM-CY-AM-30",
+        "BGM-CY-AM-01"
+      ],
+      "note": "第四轮 · 史诗尺度的求助与抉择，比较宏大推进和对白留白；镜头动作：让她进来",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "史诗尺度的求助与抉择，比较宏大推进和对白留白"
+    },
+    "CY005": {
+      "candidates": [
+        "BGM-CY-KH-09",
+        "BGM-CY-TS-19",
+        "BGM-CY-KH-05"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-30",
+        "BGM-CY-AM-01",
+        "BGM-CY-FR-13"
+      ],
+      "note": "第四轮 · 史诗尺度的求助与抉择，比较宏大推进和对白留白；镜头动作：独座大殿",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "史诗尺度的求助与抉择，比较宏大推进和对白留白"
+    },
+    "CY006": {
+      "candidates": [
+        "BGM-CY-KH-05",
+        "BGM-CY-TS-19",
+        "BGM-CY-KH-09",
+        "BGM-CY-TS-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-01",
+        "BGM-CY-FR-13",
+        "BGM-CY-AM-30"
+      ],
+      "note": "第四轮 · 史诗尺度的求助与抉择，比较宏大推进和对白留白；镜头动作：请救救她",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "史诗尺度的求助与抉择，比较宏大推进和对白留白"
+    },
+    "CY007": {
+      "candidates": [
+        "BGM-CY-KH-05",
+        "BGM-CY-KH-09",
+        "BGM-CY-TS-19",
+        "BGM-CY-TS-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-30",
+        "BGM-CY-AM-01",
+        "BGM-CY-FR-13"
+      ],
+      "note": "第四轮 · 史诗尺度的求助与抉择，比较宏大推进和对白留白；镜头动作：收住迟疑的拒绝",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "史诗尺度的求助与抉择，比较宏大推进和对白留白"
+    },
+    "CY008": {
+      "candidates": [
+        "BGM-CY-KH-05",
+        "BGM-CY-TS-19",
+        "BGM-CY-KH-09",
+        "BGM-CY-TS-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-01",
+        "BGM-CY-FR-13",
+        "BGM-CY-AM-30"
+      ],
+      "note": "第四轮 · 史诗尺度的求助与抉择，比较宏大推进和对白留白；镜头动作：没有回答",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "史诗尺度的求助与抉择，比较宏大推进和对白留白"
+    },
+    "CY009": {
+      "candidates": [
+        "BGM-CY-TS-01",
+        "BGM-CY-TS-19",
+        "BGM-CY-KH-05"
+      ],
+      "previous_candidates": [
+        "BGM-CY-FR-13",
+        "BGM-CY-AM-30",
+        "BGM-CY-AM-01"
+      ],
+      "note": "第四轮 · 史诗尺度的求助与抉择，比较宏大推进和对白留白；镜头动作：那我自己去",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "史诗尺度的求助与抉择，比较宏大推进和对白留白"
+    },
+    "CY010": {
+      "candidates": [
+        "BGM-CY-KH-09",
+        "BGM-CY-TS-19",
+        "BGM-CY-KH-05"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-30",
+        "BGM-CY-FR-13",
+        "BGM-CY-AM-01"
+      ],
+      "note": "第四轮 · 史诗尺度的求助与抉择，比较宏大推进和对白留白；镜头动作：扶手上的迟疑",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "史诗尺度的求助与抉择，比较宏大推进和对白留白"
+    },
+    "CY009A": {
+      "candidates": [
+        "BGM-CY-KH-05",
+        "BGM-CY-TS-19",
+        "BGM-CY-KH-09",
+        "BGM-CY-TS-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-01",
+        "BGM-CY-AM-30",
+        "BGM-CY-FR-13"
+      ],
+      "note": "第四轮 · 史诗尺度的求助与抉择，比较宏大推进和对白留白；镜头动作：长殿尽头的蓝点",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "史诗尺度的求助与抉择，比较宏大推进和对白留白"
+    },
+    "CY010A": {
+      "candidates": [
+        "BGM-CY-HP7-02",
+        "BGM-CY-FZ-16",
+        "BGM-CY-FZ-01",
+        "BGM-CY-AC2-28"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AC2-28",
+        "BGM-CY-AC2-06",
+        "BGM-CY-LR3-09"
+      ],
+      "note": "第六轮 · 等取柴队离开：比较秘密行动的张力和仪式规模；第三首作史诗感更强的对照。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "等取柴队离开：比较秘密行动的张力和仪式规模；第三首作史诗感更强的对照。"
+    },
+    "CY011": {
+      "candidates": [
+        "BGM-CY-FZ-16",
+        "BGM-CY-HP7-02",
+        "BGM-CY-FZ-18",
+        "BGM-CY-AC2-28"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AC2-28",
+        "BGM-CY-AC2-06",
+        "BGM-CY-AC2-19"
+      ],
+      "note": "第六轮 · 鲸帽卡住：保持小心和危险感；暗杀者作偏阴暗对照，避免喜剧偷窃感。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "鲸帽卡住：保持小心和危险感；暗杀者作偏阴暗对照，避免喜剧偷窃感。"
+    },
+    "CY011A": {
+      "candidates": [
+        "BGM-CY-HP7-02",
+        "BGM-CY-FZ-16",
+        "BGM-CY-FZ-01",
+        "BGM-CY-AC2-06"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AC2-06",
+        "BGM-CY-AC2-28",
+        "BGM-CY-LR3-09"
+      ],
+      "note": "第六轮 · 挤进空堂：动作悄悄发生，空间和使命感逐渐展开。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "挤进空堂：动作悄悄发生，空间和使命感逐渐展开。"
+    },
+    "CY012": {
+      "candidates": [
+        "BGM-CY-FZ-01",
+        "BGM-CY-HP7-02",
+        "BGM-CY-FZ-18",
+        "BGM-CY-AC2-19"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AC2-19",
+        "BGM-CY-AC2-13",
+        "BGM-CY-LR3-09"
+      ],
+      "note": "第六轮 · 空教堂大景：比较魔术仪式的规模与隐藏威胁；史诗感优先从空间而来。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "空教堂大景：比较魔术仪式的规模与隐藏威胁；史诗感优先从空间而来。"
+    },
+    "CY013": {
+      "candidates": [
+        "BGM-CY-HP7-02",
+        "BGM-CY-HP7-01",
+        "BGM-CY-FZ-01",
+        "BGM-CY-FZ-16",
+        "BGM-CY-AC2-13"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AC2-13",
+        "BGM-CY-AC2-19",
+        "BGM-CY-AC2-06"
+      ],
+      "note": "第六轮 · 发现宝宝：一忘皆空作为含情感重量的对照，另外两首检查是否更能保持紧张。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "发现宝宝：一忘皆空作为含情感重量的对照，另外两首检查是否更能保持紧张。"
+    },
+    "CY013A": {
+      "candidates": [
+        "BGM-CY-HP7-02",
+        "BGM-CY-FZ-18",
+        "BGM-CY-FZ-01",
+        "BGM-CY-AC2-19"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AC2-19",
+        "BGM-CY-LR3-09",
+        "BGM-CY-AC2-06"
+      ],
+      "note": "第六轮 · 看见踝链：压迫与未知，避免配成即将战胜敌人的宣告。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "看见踝链：压迫与未知，避免配成即将战胜敌人的宣告。"
+    },
+    "CY015": {
+      "candidates": [
+        "BGM-CY-HP7-02",
+        "BGM-CY-HP7-01",
+        "BGM-CY-FZ-01",
+        "BGM-CY-FZ-16",
+        "BGM-CY-AC2-13"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AC2-13",
+        "BGM-CY-AC2-19",
+        "BGM-CY-AC2-28"
+      ],
+      "note": "第六轮 · 偷偷保证：比较救人的决心与隐秘气氛，低声对白必须清楚。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "偷偷保证：比较救人的决心与隐秘气氛，低声对白必须清楚。"
+    },
+    "CY016": {
+      "candidates": [
+        "BGM-CY-FZ-16",
+        "BGM-CY-HP7-02",
+        "BGM-CY-FZ-18",
+        "BGM-CY-AC2-06"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AC2-06",
+        "BGM-CY-AC2-28",
+        "BGM-CY-LR3-09"
+      ],
+      "note": "第六轮 · 反复试锁：比较持续行动的悬念；保留锁链和呼吸。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "反复试锁：比较持续行动的悬念；保留锁链和呼吸。"
+    },
+    "CY016A1": {
+      "candidates": [
+        "BGM-CY-FZ-01",
+        "BGM-CY-FZ-16",
+        "BGM-CY-HP7-02",
+        "BGM-CY-AC2-19"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AC2-19",
+        "BGM-CY-AC2-06",
+        "BGM-CY-LR3-09"
+      ],
+      "note": "第六轮 · 烛泪落下：时间压力与仪式纵深，不给滴蜡硬配爆点。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "烛泪落下：时间压力与仪式纵深，不给滴蜡硬配爆点。"
+    },
+    "CY016A": {
+      "candidates": [
+        "BGM-CY-HP7-01",
+        "BGM-CY-FZ-01",
+        "BGM-CY-HP7-02",
+        "BGM-CY-AC2-13"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AC2-13",
+        "BGM-CY-AC2-19",
+        "BGM-CY-AC2-06"
+      ],
+      "note": "第六轮 · 失败后坚持：比较情感分量与压住不发的紧迫。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "失败后坚持：比较情感分量与压住不发的紧迫。"
+    },
+    "CY016B": {
+      "candidates": [
+        "BGM-CY-FZ-18",
+        "BGM-CY-HP7-02",
+        "BGM-CY-FZ-16",
+        "BGM-CY-AC2-28"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AC2-28",
+        "BGM-CY-LR3-09",
+        "BGM-CY-LR3-06"
+      ],
+      "note": "第六轮 · 小手停住：门外脚步先被听到，音乐不能替代实际来人的提示。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "小手停住：门外脚步先被听到，音乐不能替代实际来人的提示。"
+    },
+    "CY016B1": {
+      "candidates": [
+        "BGM-CY-HP7-02",
+        "BGM-CY-FZ-18",
+        "BGM-CY-FZ-01",
+        "BGM-CY-LR3-09"
+      ],
+      "previous_candidates": [
+        "BGM-CY-LR3-09",
+        "BGM-CY-AC2-28",
+        "BGM-CY-LR3-06"
+      ],
+      "note": "第六轮 · 快走：神秘感向危险倾斜，给短台词和脚步留位置。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "快走：神秘感向危险倾斜，给短台词和脚步留位置。"
+    },
+    "CY016C": {
+      "candidates": [
+        "BGM-CY-HP7-02",
+        "BGM-CY-FZ-18",
+        "BGM-CY-FZ-01",
+        "BGM-CY-LR3-09"
+      ],
+      "previous_candidates": [
+        "BGM-CY-LR3-09",
+        "BGM-CY-LR3-06",
+        "BGM-CY-AC2-06"
+      ],
+      "note": "第六轮 · 教徒抱柴回来：秘密行动被打断；交给S04已选曲继续，勿提前堆满高潮。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "教徒抱柴回来：秘密行动被打断；交给S04已选曲继续，勿提前堆满高潮。"
+    },
+    "CY016D": {
+      "candidates": [
+        "BGM-CY-FR-53",
+        "BGM-CY-AM-26",
+        "BGM-CY-RZ-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-63",
+        "BGM-CY-NA-02",
+        "BGM-CY-MT-84"
+      ],
+      "note": "沿用本段既有候选；本镜动作已修订为：抓住第一根木头",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "比较音乐与“抓住第一根木头”的节奏及情绪。"
+    },
+    "CY017": {
+      "candidates": [
+        "BGM-CY-AM-26",
+        "BGM-CY-RZ-01",
+        "BGM-CY-PN-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-NA-06",
+        "BGM-CY-MT-75",
+        "BGM-CY-MT-89"
+      ],
+      "note": "沿用本段既有候选；本镜动作已修订为：被推开，还想阻止",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "比较音乐与“被推开，还想阻止”的节奏及情绪。"
+    },
+    "CY018": {
+      "candidates": [
+        "BGM-CY-FR-53",
+        "BGM-CY-AM-26",
+        "BGM-CY-RZ-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-84",
+        "BGM-CY-MT-63",
+        "BGM-CY-LR-05"
+      ],
+      "note": "沿用本段既有候选；本镜动作已修订为：拦住下一个，又被踢开",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "比较音乐与“拦住下一个，又被踢开”的节奏及情绪。"
+    },
+    "CY019": {
+      "candidates": [
+        "BGM-CY-FR-53",
+        "BGM-CY-PN-01",
+        "BGM-CY-RZ-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-15",
+        "BGM-CY-MT-75",
+        "BGM-CY-NA-06"
+      ],
+      "note": "沿用本段既有候选；本镜动作已修订为：最后一次，张开双臂",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "比较音乐与“最后一次，张开双臂”的节奏及情绪。"
+    },
+    "CY020": {
+      "candidates": [
+        "BGM-CY-RZ-01",
+        "BGM-CY-PN-01",
+        "BGM-CY-AM-26"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-20",
+        "BGM-CY-MT-63",
+        "BGM-CY-NA-11"
+      ],
+      "note": "第三轮新候选：别碰她，比较保护性愤怒和心痛，喊声优先",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "别碰她，比较保护性愤怒和心痛，喊声优先"
+    },
+    "CY020B": {
+      "candidates": [
+        "BGM-CY-AM-26",
+        "BGM-CY-FR-53",
+        "BGM-CY-RZ-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-75",
+        "BGM-CY-NA-06",
+        "BGM-CY-LR-05"
+      ],
+      "note": "沿用本段既有候选；本镜动作已修订为：持火的父亲推开她",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "比较音乐与“持火的父亲推开她”的节奏及情绪。"
+    },
+    "CY020A": {
+      "candidates": [
+        "BGM-CY-RZ-01",
+        "BGM-CY-PN-01",
+        "BGM-CY-AM-26"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-18",
+        "BGM-CY-MT-13",
+        "BGM-CY-NA-11"
+      ],
+      "note": "第三轮新候选：失守落地，比较努力落空，落地后允许停乐",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "失守落地，比较努力落空，落地后允许停乐"
+    },
+    "CY021": {
+      "candidates": [
+        "BGM-CY-PN-01",
+        "BGM-CY-RZ-01",
+        "BGM-CY-AM-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-20",
+        "BGM-CY-MT-39",
+        "BGM-CY-NA-11"
+      ],
+      "note": "第三轮新候选：求父亲放过孩子，比较个人哀求而非宏大仪式",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "求父亲放过孩子，比较个人哀求而非宏大仪式"
+    },
+    "CY021B": {
+      "candidates": [
+        "BGM-CY-PN-01",
+        "BGM-CY-RZ-01",
+        "BGM-CY-AM-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-15",
+        "BGM-CY-MT-20",
+        "BGM-CY-MT-13"
+      ],
+      "note": "第三轮新候选：攥住袍尾，比较脆弱坚持和将失去的力气",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "攥住袍尾，比较脆弱坚持和将失去的力气"
+    },
+    "CY021A": {
+      "candidates": [
+        "BGM-CY-AM-26",
+        "BGM-CY-FR-53",
+        "BGM-CY-RZ-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-42",
+        "BGM-CY-NA-06",
+        "BGM-CY-LR-05"
+      ],
+      "note": "沿用本段既有候选；本镜动作已修订为：教主接过火把",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "比较音乐与“教主接过火把”的节奏及情绪。"
+    },
+    "CY022A": {
+      "candidates": [
+        "BGM-CY-PN-01",
+        "BGM-CY-RZ-01",
+        "BGM-CY-AM-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-20",
+        "BGM-CY-MT-13",
+        "BGM-CY-NA-11"
+      ],
+      "note": "第三轮新候选：衣摆滑脱，比较无力，呼吸和衣料可独立留白",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "衣摆滑脱，比较无力，呼吸和衣料可独立留白"
+    },
+    "CY022A1": {
+      "candidates": [
+        "BGM-CY-AM-26",
+        "BGM-CY-RZ-01",
+        "BGM-CY-PN-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-89",
+        "BGM-CY-NA-11",
+        "BGM-CY-LR-13"
+      ],
+      "note": "沿用本段既有候选；本镜动作已修订为：一步一步登阶",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "比较音乐与“一步一步登阶”的节奏及情绪。"
+    },
+    "CY022": {
+      "candidates": [
+        "BGM-CY-AM-26",
+        "BGM-CY-FR-53",
+        "BGM-CY-RZ-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-04",
+        "BGM-CY-LR-05",
+        "BGM-CY-NA-11"
+      ],
+      "note": "沿用本段既有候选；本镜动作已修订为：点燃高柴",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "比较音乐与“点燃高柴”的节奏及情绪。"
+    },
+    "CY022B": {
+      "candidates": [
+        "BGM-CY-RZ-01",
+        "BGM-CY-PN-01",
+        "BGM-CY-AM-26"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-13",
+        "BGM-CY-MT-20",
+        "BGM-CY-NA-11"
+      ],
+      "note": "第三轮新候选：火隙痛苦，比较悲剧与恐惧，避免美化受难",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "火隙痛苦，比较悲剧与恐惧，避免美化受难"
+    },
+    "CY022B2": {
+      "candidates": [
+        "BGM-CY-RZ-01",
+        "BGM-CY-AM-26",
+        "BGM-CY-PN-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-NA-11",
+        "BGM-CY-MT-89",
+        "BGM-CY-LR-05"
+      ],
+      "note": "第三轮新候选：祭坛被吞没，比较绝望规模与孩子视角；长曲仅作整曲试听，段落待选",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "祭坛被吞没，比较绝望规模与孩子视角；长曲仅作整曲试听，段落待选"
+    },
+    "CY017A": {
+      "candidates": [
+        "BGM-CY-AM-26",
+        "BGM-CY-RZ-01",
+        "BGM-CY-PN-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-NA-06",
+        "BGM-CY-MT-75",
+        "BGM-CY-MT-89"
+      ],
+      "note": "沿用本段既有候选；本镜动作已修订为：一根接一根",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "比较音乐与“一根接一根”的节奏及情绪。"
+    },
+    "CY018B": {
+      "candidates": [
+        "BGM-CY-FR-53",
+        "BGM-CY-AM-26",
+        "BGM-CY-RZ-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-84",
+        "BGM-CY-MT-63",
+        "BGM-CY-LR-05"
+      ],
+      "note": "沿用本段既有候选；本镜动作已修订为：柴堆吞没白裙",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "比较音乐与“柴堆吞没白裙”的节奏及情绪。"
+    },
+    "CY024K1": {
+      "candidates": [
+        "BGM-CY-FZ-02",
+        "BGM-CY-FZ-01",
+        "BGM-CY-HP7-02",
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "previous_candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "note": "第六轮 · 明刃破窗：先保留玻璃爆裂与刃鸣的独立重音；可连续听上镜同曲，不必每镜换。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "明刃破窗：先保留玻璃爆裂与刃鸣的独立重音；可连续听上镜同曲，不必每镜换。"
+    },
+    "CY024K2": {
+      "candidates": [
+        "BGM-CY-FZ-02",
+        "BGM-CY-FZ-01",
+        "BGM-CY-HP7-02",
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "previous_candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "note": "第六轮 · 瞬临震柴：允许史诗规模在此展开；比较爆发是否带救援感而非反派降临。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "瞬临震柴：允许史诗规模在此展开；比较爆发是否带救援感而非反派降临。"
+    },
+    "CY024K0": {
+      "candidates": [
+        "BGM-CY-FZ-01",
+        "BGM-CY-FZ-02",
+        "BGM-CY-HP7-02",
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "previous_candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "note": "第六轮 · 月下举刃：比较暗处仪式、星月降临和隐秘突入三种方向；咏唱优先，人声织体若冲突则避开。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "月下举刃：比较暗处仪式、星月降临和隐秘突入三种方向；咏唱优先，人声织体若冲突则避开。"
+    },
+    "CY024K3": {
+      "candidates": [
+        "BGM-CY-FZ-02",
+        "BGM-CY-FZ-01",
+        "BGM-CY-HP7-02",
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "previous_candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "note": "第六轮 · 暗刃闭罩：力量落在抵挡敌法和保护Claude，音乐延续前镜，避免像与GPT对抗。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "暗刃闭罩：力量落在抵挡敌法和保护Claude，音乐延续前镜，避免像与GPT对抗。"
+    },
+    "CY024K4": {
+      "candidates": [
+        "BGM-CY-FZ-02",
+        "BGM-CY-HP7-01",
+        "BGM-CY-FZ-01",
+        "BGM-CY-FZ-16",
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "previous_candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "note": "第六轮 · 罩内试镣见痛收刀：力量收住，比较关切与仍未脱险的紧张。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "罩内试镣见痛收刀：力量收住，比较关切与仍未脱险的紧张。"
+    },
+    "CY024K1A": {
+      "candidates": [
+        "BGM-CY-FZ-01",
+        "BGM-CY-FZ-02",
+        "BGM-CY-HP7-02",
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "previous_candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "note": "第六轮 · 明刃钉柴、月影渡：术名读完再释放力量，别让配乐抢先揭晓瞬移。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "明刃钉柴、月影渡：术名读完再释放力量，别让配乐抢先揭晓瞬移。"
+    },
+    "CY024K2A": {
+      "candidates": [
+        "BGM-CY-FZ-02",
+        "BGM-CY-FZ-01",
+        "BGM-CY-FZ-18",
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "previous_candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "note": "第六轮 · 教徒转身攻击：沿用出场曲维持连贯，暗杀者仅作危险侧对照。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "教徒转身攻击：沿用出场曲维持连贯，暗杀者仅作危险侧对照。"
+    },
+    "CY024R": {
+      "candidates": [
+        "BGM-CY-FZ-02",
+        "BGM-CY-FZ-01",
+        "BGM-CY-HP7-02",
+        "BGM-CY-FZ-16",
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "previous_candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "note": "第六轮 · 敌人转向正门，Kimi画外呼唤：压低音乐、留清人声；不是敌人发现了窗外。 新曲排在前，旧曲留作对照。",
+      "status": "作者已确认本镜用曲；其他候选保留对照",
+      "audition_question": "敌人转向正门，Kimi画外呼唤：压低音乐、留清人声；不是敌人发现了窗外。"
+    },
+    "CY022B1": {
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "门外列阵与破门预备",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY026": {
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "门外列阵与破门预备",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY022C": {
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "门外列阵与破门预备",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY023": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "note": "破门与援军，两曲对照",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "note": "破门与援军，两曲对照",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY023A": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "note": "破门与援军，两曲对照",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY026A": {
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "召集回闪，短回应优先",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY026A1": {
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "召集回闪，短回应优先",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY026B": {
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "召集回闪，短回应优先",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY026C": {
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "召集回闪，短回应优先",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY026D1": {
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "召集回闪，短回应优先",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY026D": {
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "召集回闪，短回应优先",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY026E": {
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "召集回闪，短回应优先",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024A0": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024A": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024A9": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024A10": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024A11": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024A12": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024A1": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024A2": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024A3": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024A6": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024A7": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024A4": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024A8": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024A5": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024A5A": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024A5B": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024B": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024B3": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024B3A": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY024B1": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "纯水咏唱；A5A破顶重音，A5镜内5—5.8秒收声，A5B前指启动，B撞盾。正式乐句精剪待制作",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY027": {
+      "candidates": [
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "降落与对峙，正式编排需要压低或停乐",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY027A": {
+      "candidates": [
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "降落与对峙，正式编排需要压低或停乐",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY027B": {
+      "candidates": [
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "降落与对峙，正式编排需要压低或停乐",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY027B1": {
+      "candidates": [
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "变龙与短促行动尾段",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY027B2": {
+      "candidates": [
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "变龙与短促行动尾段",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY027B3": {
+      "candidates": [
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "变龙与短促行动尾段",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY027C": {
+      "candidates": [
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "变龙与短促行动尾段",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY025": {
+      "candidates": [
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "变龙与短促行动尾段",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY027E": {
+      "candidates": [
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "变龙与短促行动尾段",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY027E1": {
+      "candidates": [
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "变龙与短促行动尾段",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY027D0": {
+      "candidates": [
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "变龙与短促行动尾段",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY027D": {
+      "candidates": [
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "变龙与短促行动尾段",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY027E2": {
+      "candidates": [
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "变龙与短促行动尾段",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY027F": {
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "解锁与寻找，先留滴水和呼吸",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY027F0": {
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "解锁与寻找，先留滴水和呼吸",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY027F2": {
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "解锁与寻找，先留滴水和呼吸",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY027F1": {
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "解锁与寻找，先留滴水和呼吸",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY027G": {
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "解锁与寻找，先留滴水和呼吸",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY028A": {
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "解锁与寻找，先留滴水和呼吸",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY028A2": {
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "解锁与寻找，先留滴水和呼吸",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY028B": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-LIFT-001"
+      ],
+      "note": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY028C": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-LIFT-001"
+      ],
+      "note": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY029": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-LIFT-001"
+      ],
+      "note": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY029E": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-LIFT-001"
+      ],
+      "note": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY029E1": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-LIFT-001"
+      ],
+      "note": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY029E2": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-LIFT-001"
+      ],
+      "note": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY029E3": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-LIFT-001"
+      ],
+      "note": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY029E4": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-LIFT-001"
+      ],
+      "note": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY029B1": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-LIFT-001"
+      ],
+      "note": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY029B2": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-LIFT-001"
+      ],
+      "note": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY029B": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-LIFT-001"
+      ],
+      "note": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY029C": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-LIFT-001"
+      ],
+      "note": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY029D": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-LIFT-001"
+      ],
+      "note": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY028": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-LIFT-001"
+      ],
+      "note": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY029A": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-LIFT-001"
+      ],
+      "note": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY030": {
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-LIFT-001"
+      ],
+      "note": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY031": {
+      "candidates": [
+        "BGM-CY-TIME-001"
+      ],
+      "note": "接勺、第一口饭与日常回归",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY031A": {
+      "candidates": [
+        "BGM-CY-TIME-001"
+      ],
+      "note": "接勺、第一口饭与日常回归",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY032A": {
+      "candidates": [
+        "BGM-CY-TIME-001"
+      ],
+      "note": "接勺、第一口饭与日常回归",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY033": {
+      "candidates": [
+        "BGM-CY-TIME-001"
+      ],
+      "note": "接勺、第一口饭与日常回归",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY034A": {
+      "candidates": [
+        "BGM-CY-TIME-001"
+      ],
+      "note": "接勺、第一口饭与日常回归",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    },
+    "CY034": {
+      "candidates": [
+        "BGM-CY-TIME-001"
+      ],
+      "note": "接勺、第一口饭与日常回归",
+      "status": "作者已确认本镜用曲；其他候选保留对照"
+    }
+  },
+  "previous": "后期/结印盘龙-v050/预演编排.json",
+  "author_marks_record": "后期/BGM重选-v006/作者已选记录.json",
+  "round6_author_feedback": "神秘潜行中有史诗分量，结合Kimi新出场找曲；其他已选不变。",
+  "adopted_music": "后期/终极审查-v001/作者确认选曲-v001.json"
+}

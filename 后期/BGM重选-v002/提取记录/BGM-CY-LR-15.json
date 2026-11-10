@@ -1,0 +1,39 @@
+{
+  "id": "BGM-CY-LR-15",
+  "bvid": "BV1BT411v722",
+  "part": 15,
+  "title": "Lothlorien",
+  "display_title": "洛丝萝瑞恩",
+  "work": "指环王：护戒使者",
+  "composer": "Howard Shore",
+  "source_page_title": "14 Lothlorien (feat. _Lament for Gandalf_)",
+  "cid": 1031920280,
+  "source": "https://www.bilibili.com/video/BV1BT411v722/?p=15",
+  "uploader": "拾光留声机",
+  "video_title": "电影与音乐，到底是谁成就了谁-经典奥斯卡史诗电影《指环王1：魔戒再现  电影原声带》",
+  "path": "资产/声音/BGM/重选-v002/BGM-CY-LR-15.m4a",
+  "bytes": 6508679,
+  "sha256": "df05f8aa42c38a70019d2b05403c6ab84ba9438d94c573f84d78766f3b2fdff5",
+  "duration": 279.126644,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "101851"
+      }
+    ],
+    "format": {
+      "duration": "279.126644"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

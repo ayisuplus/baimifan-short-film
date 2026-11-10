@@ -1,0 +1,208 @@
+{
+  "date": "2026-10-29",
+  "current_timeline": "v008_Local_Continuity_Fixes",
+  "working_timeline": null,
+  "status": "局部修复已装入达芬奇并保存，待作者复看；尚未锁画或完成最终混音",
+  "author_rules": [
+    "保留Kimi现有片段",
+    "不明显3D不因画风重拍",
+    "人物造型及原场景不可漂移",
+    "不整批重做",
+    "作者最终核定并明确要求后才导出"
+  ],
+  "required": [
+    {
+      "id": "B10-tail",
+      "frames": [
+        3043,
+        3175
+      ],
+      "issue": "起身尾部漂移",
+      "status": "剪去18帧漂移尾部，下阶提前并保留总长，三次落步同步提前"
+    },
+    {
+      "id": "B13-push",
+      "frames": [
+        3818,
+        3914
+      ],
+      "issue": "场景跳变/承力",
+      "status": "已采用v011源12–108帧；保留湿地祭坛，音效按接触/推出/落地分层对位"
+    },
+    {
+      "id": "B17-entry",
+      "frames": [
+        4778,
+        4838
+      ],
+      "issue": "日夜/人数/地面",
+      "status": "已采用v010源24–84帧；九人、月夜、湿地和原武器；后续教主反应保留"
+    },
+    {
+      "id": "B37-support",
+      "frames": [
+        9632,
+        9699
+      ],
+      "issue": "明显模型感",
+      "status": "局部补拍已装入；原声结束转Claude反应特写，遮蔽无声张嘴；Kimi前段保留"
+    },
+    {
+      "id": "B37-bridge",
+      "frames": [
+        9699,
+        9781
+      ],
+      "issue": "空间接头",
+      "status": "改用现有冷蓝湿地听者反应，源0–48帧按58.5366%播放；非新增干石阶"
+    },
+    {
+      "id": "B40-42-carry",
+      "frames": [
+        10641,
+        10833
+      ],
+      "issue": "明显模型感",
+      "status": "仅8秒窗口采用连续托背托膝、抱起、站稳；行こう转托抱细节，保留原声与后续离场"
+    }
+  ],
+  "preserve": [
+    "Kimi现有全部片段",
+    "B7二维简化入洞不自动扩修",
+    "B25展翼不凭机位变化判空间错误",
+    "B26母扇留手/单叶释放/撞击顺序已核，保留原片",
+    "B30检查闭锁不当作提前解锁",
+    "所有原选声与B12作者删20帧"
+  ],
+  "candidates": [
+    {
+      "id": "GB011-v011-Claude-original-2d-r1",
+      "path": "视频制作/Metaso-H3-v011/产物/GB011-v011-Claude-original-2d-r1.mp4",
+      "status": "静音开口；不能直接采用，原Claude不因画风替换",
+      "adopted": false
+    },
+    {
+      "id": "GB006-v011-inside-original-2d-r1",
+      "path": "视频制作/Metaso-H3-v011/产物/GB006-v011-inside-original-2d-r1.mp4",
+      "status": "未采用；本轮不需要替换",
+      "adopted": false
+    },
+    {
+      "id": "GB008R2-v011-decision-descent-2d-r1",
+      "path": "视频制作/Metaso-H3-v011/产物/GB008R2-v011-decision-descent-2d-r1.mp4",
+      "status": "拒用：束缚姿势及行动方向改变",
+      "adopted": false
+    },
+    {
+      "id": "GB011-1-v011-father-force-2d-r1",
+      "path": "视频制作/Metaso-H3-v011/产物/GB011-1-v011-father-force-2d-r1.mp4",
+      "status": "已用于v008，限源12–108帧；待作者最终核定",
+      "adopted": true
+    },
+    {
+      "id": "GB013-v011-door-kick-2d-r1",
+      "path": "视频制作/Metaso-H3-v011/产物/GB013-v011-door-kick-2d-r1.mp4",
+      "status": "未采用；本轮不需要替换",
+      "adopted": false
+    },
+    {
+      "id": "GB014-v011-original-2d-group-r1",
+      "path": "视频制作/Metaso-H3-v011/产物/GB014-v011-original-2d-group-r1.mp4",
+      "status": "后段持剑漂移，禁止整条采用；优先v010",
+      "adopted": false
+    },
+    {
+      "id": "GB014A-v011-original-2d-window-r1",
+      "path": "视频制作/Metaso-H3-v011/产物/GB014A-v011-original-2d-window-r1.mp4",
+      "status": "未采用；本轮不需要替换",
+      "adopted": false
+    },
+    {
+      "id": "GB015-2-v011-original-2d-defense-r1",
+      "path": "视频制作/Metaso-H3-v011/产物/GB015-2-v011-original-2d-defense-r1.mp4",
+      "status": "未采用；本轮不需要替换",
+      "adopted": false
+    },
+    {
+      "id": "GB018-v011-original-2d-wing-r1",
+      "path": "视频制作/Metaso-H3-v011/产物/GB018-v011-original-2d-wing-r1.mp4",
+      "status": "未采用；本轮不需要替换",
+      "adopted": false
+    },
+    {
+      "id": "GB023-v011-shield-landing-2d-r1",
+      "path": "视频制作/Metaso-H3-v011/产物/GB023-v011-shield-landing-2d-r1.mp4",
+      "status": "未采用；本轮不需要替换",
+      "adopted": false
+    },
+    {
+      "id": "GB027-v012-support-close-r1",
+      "path": "视频制作/Metaso-H3-v012/产物/GB027-v012-support-close-r1.mp4",
+      "status": "已按指定窗口装入v008并局部裁切；待作者最终核定",
+      "adopted": true,
+      "source_window": [
+        12,
+        79
+      ]
+    },
+    {
+      "id": "GB030-v012-carry-design-r1",
+      "path": "视频制作/Metaso-H3-v012/产物/GB030-v012-carry-design-r1.mp4",
+      "status": "已按指定窗口装入v008并局部裁切；待作者最终核定",
+      "adopted": true,
+      "source_window": [
+        12,
+        204
+      ]
+    },
+    {
+      "id": "GB014-v010-original-shot-only-r1",
+      "path": "视频制作/Metaso-H3-v010/产物/GB014-v010-original-shot-only-r1.mp4",
+      "status": "已用于v008，限24–84帧",
+      "adopted": true
+    }
+  ],
+  "acceptance": {
+    "structural": true,
+    "visual": false,
+    "lip_sync": false,
+    "continuous_listening": false,
+    "author_final": false
+  },
+  "exported": false,
+  "rejected_image_candidates": [
+    {
+      "path": "视频制作/Metaso-H3-v011/参考/late-collapse-2d.png",
+      "reason": "用户指出造型偏移；不采用，不作为下轮生成输入"
+    },
+    {
+      "path": "视频制作/Metaso-H3-v011/参考/late-carry-2d.png",
+      "reason": "用户指出造型偏移；不采用，不作为下轮生成输入"
+    },
+    {
+      "path": "视频制作/Metaso-H3-v011/参考/middle-ankle-2d.png",
+      "reason": "用户指出造型偏移；不采用，不作为下轮生成输入"
+    }
+  ],
+  "previous_timeline": "v005_2D_Anime_Fixes",
+  "frames": 11497,
+  "video_count": 123,
+  "audio_count": 85,
+  "verification_notes": [
+    "已抽查真实达芬奇接头帧并独立复核前中后段；不等于全片逐帧/连续视听验收",
+    "110条未涉及视频的全部属性与源时间逐字段保持；B40未改前缀的原属性另行恢复",
+    "63句选声的64个音频片段来源与时点保持，13句仅改增益",
+    "48k PCM数学叠加峰值-5.164 dBFS，无削波；不含最终Fairlight总线/效果听审",
+    "B12让开为父亲前景与小鱼反应；未证明错说话者，保留",
+    "扇子母扇留手、单叶释放和撞击顺序经动态帧核查；不再列普遍缺法术",
+    "B25与水龙不凭材质体积感扩修，维持待作者观感核验"
+  ],
+  "cost": {
+    "new_h3_tasks": 2,
+    "generated_seconds": 15,
+    "adopted_seconds": 10.791666666666666,
+    "estimated_credits": 153,
+    "actual_bill_verified": false,
+    "image_generation_cost_included": false
+  }
+}

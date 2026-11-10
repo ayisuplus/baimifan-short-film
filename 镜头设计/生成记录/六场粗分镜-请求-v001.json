@@ -1,0 +1,373 @@
+{
+  "version": "v0.1",
+  "engine": "built-in imagegen",
+  "stage": "rough_storyboard_not_video_keyframes",
+  "status": "requests_frozen_before_submission",
+  "scenes": [
+    {
+      "id": "S01",
+      "title": "街市初见",
+      "cols": 2,
+      "rows": 2,
+      "refs": [
+        "DS",
+        "CL",
+        "ST",
+        "DST",
+        "CLT"
+      ],
+      "context": "Day. Use reference 3's same cobbled medieval market, blue and cream awnings, distant church. Warm sunlight against oppressive black hooded procession. The child carries the SAME silver metal bowl heaped with white rice in all four panels.",
+      "panels": [
+        "Wide low street-level frame. Tiny whale-hat child in the lower foreground hurries toward a crossing procession of tall black-robed figures, rice bowl carefully held in both hands; sunny market recedes to distant church.",
+        "Medium close view through tight dark hooded shoulders framing both sides. Orange-haired veiled Claude, in the middle of the procession, turns her face toward the child offscreen; fleeting warm light on her amber eyes. Match original Claude mother concept.",
+        "Over Claude's shoulder at the CHILD's eye-level. Small smiling child has stopped, holds up the rice bowl invitingly toward Claude; Claude's ivory sleeve only at frame edge, black robes threaten the gap. This is a hopeful offer, no one has accepted or eaten.",
+        "Wide from behind the tiny child still holding her bowl in the sun. Black procession has passed through distant church doors; one remaining black robe blocks last glimpse of orange hair as the tall double doors nearly close. Preserve market geography, dark narrow doorway, child left outside."
+      ],
+      "inputs": [
+        {
+          "key": "DS",
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp"
+        },
+        {
+          "key": "CL",
+          "path": "概念参考/01-Claude-母版概念参考.webp"
+        },
+        {
+          "key": "ST",
+          "path": "资产/图像/ENV-STREET-v001.png"
+        },
+        {
+          "key": "DST",
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png"
+        },
+        {
+          "key": "CLT",
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png"
+        }
+      ],
+      "prompt": "Use case: illustration-story. Create one cinematic colored rough STORYBOARD contact sheet for the fictional gothic fantasy anime short film \"穿云\". All panels are distinct camera compositions of the SAME continuous story, NOT costume catalog pictures. Match the supplied concept art's delicate anime faces, painterly architectural depth, ivory/gold/rust textures, dramatic gothic lighting. Keep readable staging and quiet emotional expressions; moderately loose rendering suitable for story review. Each panel is a landscape 16:9 picture, exactly equal size in a strict regular grid. Thin plain white gutters and thin white outer margin only. NO captions, lettering, labels, speech balloons, watermarks, numbers, interface, reference thumbnails, or extra panels. Preserve identities and costumes.\nDeepSeek is the TINY round child in the original market image: oversized blue whale hat with two rounded side fins, ONE projecting rear forked hat-tail and top water spout, round baby face, huge blue eyes, blue-violet long hair, navy/blue short fur-trim cape with snowflakes and waves, small boots; about waist-high to adult women, NEVER adult maid. The original market image governs her face and proportions; turnaround is secondary wardrobe guidance. Claude is an adult orange-haired amber-eyed saint, rust-orange flower on her own LEFT temple, ivory veil, modest ivory long dress with orange botanical embroidery; restrained vulnerable expression. GPT is an adult white/lavender dragon woman, white horns, pointed ears, white long gown with silver knot ornaments, two small pale wings and ONE scaly tail, leg slit on her own RIGHT leg. Use references as designs, not source lettering. Fictional non-graphic peril only: no gore, no blood, no wound closeups, no body impalement. Keep all characters fully dressed. No modern objects.\n\nLAYOUT: exactly 2 columns and 2 rows (4 frames), equal 16:9 panels, read left-to-right then top-to-bottom. Output an approximately 2048 by 1152 pixel sheet if possible. Reference roles: image 1=DS; image 2=CL; image 3=ST; image 4=DST; image 5=CLT.\nDay. Use reference 3's same cobbled medieval market, blue and cream awnings, distant church. Warm sunlight against oppressive black hooded procession. The child carries the SAME silver metal bowl heaped with white rice in all four panels.\n\nPANELS IN STRICT ROW-MAJOR ORDER:\n1. Wide low street-level frame. Tiny whale-hat child in the lower foreground hurries toward a crossing procession of tall black-robed figures, rice bowl carefully held in both hands; sunny market recedes to distant church.\n2. Medium close view through tight dark hooded shoulders framing both sides. Orange-haired veiled Claude, in the middle of the procession, turns her face toward the child offscreen; fleeting warm light on her amber eyes. Match original Claude mother concept.\n3. Over Claude's shoulder at the CHILD's eye-level. Small smiling child has stopped, holds up the rice bowl invitingly toward Claude; Claude's ivory sleeve only at frame edge, black robes threaten the gap. This is a hopeful offer, no one has accepted or eaten.\n4. Wide from behind the tiny child still holding her bowl in the sun. Black procession has passed through distant church doors; one remaining black robe blocks last glimpse of orange hair as the tall double doors nearly close. Preserve market geography, dark narrow doorway, child left outside.\n\nFinal checks: exact panel count and grid, no text, character consistency, clear storytelling. Do not insert reference sheet layouts inside panels.",
+      "request": {
+        "prompt": "Use case: illustration-story. Create one cinematic colored rough STORYBOARD contact sheet for the fictional gothic fantasy anime short film \"穿云\". All panels are distinct camera compositions of the SAME continuous story, NOT costume catalog pictures. Match the supplied concept art's delicate anime faces, painterly architectural depth, ivory/gold/rust textures, dramatic gothic lighting. Keep readable staging and quiet emotional expressions; moderately loose rendering suitable for story review. Each panel is a landscape 16:9 picture, exactly equal size in a strict regular grid. Thin plain white gutters and thin white outer margin only. NO captions, lettering, labels, speech balloons, watermarks, numbers, interface, reference thumbnails, or extra panels. Preserve identities and costumes.\nDeepSeek is the TINY round child in the original market image: oversized blue whale hat with two rounded side fins, ONE projecting rear forked hat-tail and top water spout, round baby face, huge blue eyes, blue-violet long hair, navy/blue short fur-trim cape with snowflakes and waves, small boots; about waist-high to adult women, NEVER adult maid. The original market image governs her face and proportions; turnaround is secondary wardrobe guidance. Claude is an adult orange-haired amber-eyed saint, rust-orange flower on her own LEFT temple, ivory veil, modest ivory long dress with orange botanical embroidery; restrained vulnerable expression. GPT is an adult white/lavender dragon woman, white horns, pointed ears, white long gown with silver knot ornaments, two small pale wings and ONE scaly tail, leg slit on her own RIGHT leg. Use references as designs, not source lettering. Fictional non-graphic peril only: no gore, no blood, no wound closeups, no body impalement. Keep all characters fully dressed. No modern objects.\n\nLAYOUT: exactly 2 columns and 2 rows (4 frames), equal 16:9 panels, read left-to-right then top-to-bottom. Output an approximately 2048 by 1152 pixel sheet if possible. Reference roles: image 1=DS; image 2=CL; image 3=ST; image 4=DST; image 5=CLT.\nDay. Use reference 3's same cobbled medieval market, blue and cream awnings, distant church. Warm sunlight against oppressive black hooded procession. The child carries the SAME silver metal bowl heaped with white rice in all four panels.\n\nPANELS IN STRICT ROW-MAJOR ORDER:\n1. Wide low street-level frame. Tiny whale-hat child in the lower foreground hurries toward a crossing procession of tall black-robed figures, rice bowl carefully held in both hands; sunny market recedes to distant church.\n2. Medium close view through tight dark hooded shoulders framing both sides. Orange-haired veiled Claude, in the middle of the procession, turns her face toward the child offscreen; fleeting warm light on her amber eyes. Match original Claude mother concept.\n3. Over Claude's shoulder at the CHILD's eye-level. Small smiling child has stopped, holds up the rice bowl invitingly toward Claude; Claude's ivory sleeve only at frame edge, black robes threaten the gap. This is a hopeful offer, no one has accepted or eaten.\n4. Wide from behind the tiny child still holding her bowl in the sun. Black procession has passed through distant church doors; one remaining black robe blocks last glimpse of orange hair as the tall double doors nearly close. Preserve market geography, dark narrow doorway, child left outside.\n\nFinal checks: exact panel count and grid, no text, character consistency, clear storytelling. Do not insert reference sheet layouts inside panels.",
+        "referenced_image_paths": [
+          "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "E:/projects/内容创作/穿云/概念参考/01-Claude-母版概念参考.webp",
+          "E:/projects/内容创作/穿云/资产/图像/ENV-STREET-v001.png",
+          "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png"
+        ],
+        "transparent_background": false
+      },
+      "output_path": "镜头设计/图像/S01-粗分镜-v001.png"
+    },
+    {
+      "id": "S02",
+      "title": "宫殿求助",
+      "cols": 2,
+      "rows": 3,
+      "refs": [
+        "GPT",
+        "DS",
+        "PA",
+        "DST"
+      ],
+      "context": "Dusk ivory/lavender palace from reference 3, empty except GPT and DeepSeek. NO guards, servants, allies, reinforcements or rice bowl anywhere. Throne is a single seat. The refusal must feel restrained and ambiguous. DO NOT depict signal, arrow, weapons, magic or summoned companions in this sheet.",
+      "panels": [
+        "Extreme wide from palace entrance. Tiny child runs inward along immense polished floor toward white dragon woman seated alone at far end. Ivory pillars dwarf both figures, dusk falls from terrace windows.",
+        "Medium close child from seated GPT's viewpoint, looking upward breathless and pleading with small empty hands gathered near chest. Her original round baby face and whale hat fill the foreground; blurred empty hall behind.",
+        "Medium portrait of GPT seated on single throne: face controlled, eyes lowered, ONE hand slightly clenched on armrest, the other relaxed. Pale scaly tail curls naturally beside seat. Quiet refusal, no villain smile, child outside frame.",
+        "Reverse close portrait of child, disbelief fading to hurt, moist eyes, mouth slightly open then held, empty luminous hall behind. She has no bowl.",
+        "Medium wide at child height. Child wipes her eyes with fur sleeve, turns toward palace exit; huge space separates her from GPT seated far behind, still alone. Determination in small posture.",
+        "Wide side angle. Door at distant end has closed after child leaves. GPT is now standing beside empty throne looking toward that exit, one step forward. Only GPT visible. Night is approaching. End on withheld decision, NO signal reveal."
+      ],
+      "inputs": [
+        {
+          "key": "GPT",
+          "path": "资产/图像/CHAR-GPT-v003.png"
+        },
+        {
+          "key": "DS",
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp"
+        },
+        {
+          "key": "PA",
+          "path": "资产/图像/ENV-PALACE-v001.png"
+        },
+        {
+          "key": "DST",
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png"
+        }
+      ],
+      "prompt": "Use case: illustration-story. Create one cinematic colored rough STORYBOARD contact sheet for the fictional gothic fantasy anime short film \"穿云\". All panels are distinct camera compositions of the SAME continuous story, NOT costume catalog pictures. Match the supplied concept art's delicate anime faces, painterly architectural depth, ivory/gold/rust textures, dramatic gothic lighting. Keep readable staging and quiet emotional expressions; moderately loose rendering suitable for story review. Each panel is a landscape 16:9 picture, exactly equal size in a strict regular grid. Thin plain white gutters and thin white outer margin only. NO captions, lettering, labels, speech balloons, watermarks, numbers, interface, reference thumbnails, or extra panels. Preserve identities and costumes.\nDeepSeek is the TINY round child in the original market image: oversized blue whale hat with two rounded side fins, ONE projecting rear forked hat-tail and top water spout, round baby face, huge blue eyes, blue-violet long hair, navy/blue short fur-trim cape with snowflakes and waves, small boots; about waist-high to adult women, NEVER adult maid. The original market image governs her face and proportions; turnaround is secondary wardrobe guidance. Claude is an adult orange-haired amber-eyed saint, rust-orange flower on her own LEFT temple, ivory veil, modest ivory long dress with orange botanical embroidery; restrained vulnerable expression. GPT is an adult white/lavender dragon woman, white horns, pointed ears, white long gown with silver knot ornaments, two small pale wings and ONE scaly tail, leg slit on her own RIGHT leg. Use references as designs, not source lettering. Fictional non-graphic peril only: no gore, no blood, no wound closeups, no body impalement. Keep all characters fully dressed. No modern objects.\n\nLAYOUT: exactly 2 columns and 3 rows (6 frames), equal 16:9 panels, read left-to-right then top-to-bottom. Output an approximately 2048 by 1728 pixel sheet if possible. Reference roles: image 1=GPT; image 2=DS; image 3=PA; image 4=DST.\nDusk ivory/lavender palace from reference 3, empty except GPT and DeepSeek. NO guards, servants, allies, reinforcements or rice bowl anywhere. Throne is a single seat. The refusal must feel restrained and ambiguous. DO NOT depict signal, arrow, weapons, magic or summoned companions in this sheet.\n\nPANELS IN STRICT ROW-MAJOR ORDER:\n1. Extreme wide from palace entrance. Tiny child runs inward along immense polished floor toward white dragon woman seated alone at far end. Ivory pillars dwarf both figures, dusk falls from terrace windows.\n2. Medium close child from seated GPT's viewpoint, looking upward breathless and pleading with small empty hands gathered near chest. Her original round baby face and whale hat fill the foreground; blurred empty hall behind.\n3. Medium portrait of GPT seated on single throne: face controlled, eyes lowered, ONE hand slightly clenched on armrest, the other relaxed. Pale scaly tail curls naturally beside seat. Quiet refusal, no villain smile, child outside frame.\n4. Reverse close portrait of child, disbelief fading to hurt, moist eyes, mouth slightly open then held, empty luminous hall behind. She has no bowl.\n5. Medium wide at child height. Child wipes her eyes with fur sleeve, turns toward palace exit; huge space separates her from GPT seated far behind, still alone. Determination in small posture.\n6. Wide side angle. Door at distant end has closed after child leaves. GPT is now standing beside empty throne looking toward that exit, one step forward. Only GPT visible. Night is approaching. End on withheld decision, NO signal reveal.\n\nFinal checks: exact panel count and grid, no text, character consistency, clear storytelling. Do not insert reference sheet layouts inside panels.",
+      "request": {
+        "prompt": "Use case: illustration-story. Create one cinematic colored rough STORYBOARD contact sheet for the fictional gothic fantasy anime short film \"穿云\". All panels are distinct camera compositions of the SAME continuous story, NOT costume catalog pictures. Match the supplied concept art's delicate anime faces, painterly architectural depth, ivory/gold/rust textures, dramatic gothic lighting. Keep readable staging and quiet emotional expressions; moderately loose rendering suitable for story review. Each panel is a landscape 16:9 picture, exactly equal size in a strict regular grid. Thin plain white gutters and thin white outer margin only. NO captions, lettering, labels, speech balloons, watermarks, numbers, interface, reference thumbnails, or extra panels. Preserve identities and costumes.\nDeepSeek is the TINY round child in the original market image: oversized blue whale hat with two rounded side fins, ONE projecting rear forked hat-tail and top water spout, round baby face, huge blue eyes, blue-violet long hair, navy/blue short fur-trim cape with snowflakes and waves, small boots; about waist-high to adult women, NEVER adult maid. The original market image governs her face and proportions; turnaround is secondary wardrobe guidance. Claude is an adult orange-haired amber-eyed saint, rust-orange flower on her own LEFT temple, ivory veil, modest ivory long dress with orange botanical embroidery; restrained vulnerable expression. GPT is an adult white/lavender dragon woman, white horns, pointed ears, white long gown with silver knot ornaments, two small pale wings and ONE scaly tail, leg slit on her own RIGHT leg. Use references as designs, not source lettering. Fictional non-graphic peril only: no gore, no blood, no wound closeups, no body impalement. Keep all characters fully dressed. No modern objects.\n\nLAYOUT: exactly 2 columns and 3 rows (6 frames), equal 16:9 panels, read left-to-right then top-to-bottom. Output an approximately 2048 by 1728 pixel sheet if possible. Reference roles: image 1=GPT; image 2=DS; image 3=PA; image 4=DST.\nDusk ivory/lavender palace from reference 3, empty except GPT and DeepSeek. NO guards, servants, allies, reinforcements or rice bowl anywhere. Throne is a single seat. The refusal must feel restrained and ambiguous. DO NOT depict signal, arrow, weapons, magic or summoned companions in this sheet.\n\nPANELS IN STRICT ROW-MAJOR ORDER:\n1. Extreme wide from palace entrance. Tiny child runs inward along immense polished floor toward white dragon woman seated alone at far end. Ivory pillars dwarf both figures, dusk falls from terrace windows.\n2. Medium close child from seated GPT's viewpoint, looking upward breathless and pleading with small empty hands gathered near chest. Her original round baby face and whale hat fill the foreground; blurred empty hall behind.\n3. Medium portrait of GPT seated on single throne: face controlled, eyes lowered, ONE hand slightly clenched on armrest, the other relaxed. Pale scaly tail curls naturally beside seat. Quiet refusal, no villain smile, child outside frame.\n4. Reverse close portrait of child, disbelief fading to hurt, moist eyes, mouth slightly open then held, empty luminous hall behind. She has no bowl.\n5. Medium wide at child height. Child wipes her eyes with fur sleeve, turns toward palace exit; huge space separates her from GPT seated far behind, still alone. Determination in small posture.\n6. Wide side angle. Door at distant end has closed after child leaves. GPT is now standing beside empty throne looking toward that exit, one step forward. Only GPT visible. Night is approaching. End on withheld decision, NO signal reveal.\n\nFinal checks: exact panel count and grid, no text, character consistency, clear storytelling. Do not insert reference sheet layouts inside panels.",
+        "referenced_image_paths": [
+          "E:/projects/内容创作/穿云/资产/图像/CHAR-GPT-v003.png",
+          "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "E:/projects/内容创作/穿云/资产/图像/ENV-PALACE-v001.png",
+          "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png"
+        ],
+        "transparent_background": false
+      },
+      "output_path": "镜头设计/图像/S02-粗分镜-v001.png"
+    },
+    {
+      "id": "S03",
+      "title": "潜入教堂",
+      "cols": 2,
+      "rows": 3,
+      "refs": [
+        "DS",
+        "CL",
+        "CH",
+        "PR",
+        "DST",
+        "CLT"
+      ],
+      "context": "Night gothic church geography from reference 3: high altar and cross at one end, central aisle and rows of pews leading to opposite main entrance; low crawl hole in LEFT side wall when facing altar; water basin on RIGHT of altar. Child enters side hole then uses LEFT aisle and LEFT side steps, avoiding center congregation. Cross has metal wrist CUFFS fixed to wood and chain across clothed torso; NOTHING penetrates skin. Wood pile is unlit. No rice bowl. DeepSeek's head top reaches adult Claude's waist at most. Viewpoint never randomly swaps altar and entrance.",
+      "panels": [
+        "Low exterior close at rough side wall crawl hole. Child kneels with shoulders in opening; oversized whale hat catches on upper stone edge. BOTH small hands grasp brim and compress soft hat to free it, body anatomically connected, hat-tail outside; moonlight, no people watching.",
+        "Low interior shot just inside LEFT side wall. Child has landed silently on floor after crawling through hole behind her, hat back on head. She crouches and looks up/right toward distant elevated altar beyond left pews. Hooded backs visible in distant nave.",
+        "Wide child-point-of-view toward high altar: orange-haired adult Claude in ivory embroidered dress restrained to tall wooden cross by intact cuffs/chains, her skirt above dry UNLIT wood. Black hooded congregation below. Metal/stone water basin to altar RIGHT, left side steps open in shadow.",
+        "Medium fictional father-priest in black/gold ceremonial robes at foot of altar, arm raised as he speaks solemnly toward Claude offscreen. Copper-grey hair; design from priest reference. A hooded torchbearer behind holds low torch away from wood. No recognizable real person.",
+        "Intimate diagonal two-shot at LEFT side steps. Child has crept up to Claude's side beneath cross; she points back toward left exit route with a brave encouraging smile. Claude leans eyes down toward her and subtly shakes her head in alarm. Height difference unambiguous; dry wood still UNLIT.",
+        "Close view of tiny child stretching upward with BOTH hands pulling a taut iron chain still attached across Claude's clothed torso. Claude's cuffed arm and wood at top edge. In background one black hood turns toward the metallic noise. This is unsuccessful tugging, chain intact, no supernatural child strength."
+      ],
+      "inputs": [
+        {
+          "key": "DS",
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp"
+        },
+        {
+          "key": "CL",
+          "path": "概念参考/01-Claude-母版概念参考.webp"
+        },
+        {
+          "key": "CH",
+          "path": "资产/图像/ENV-CHURCH-v001.png"
+        },
+        {
+          "key": "PR",
+          "path": "资产/图像/CHAR-PRIEST-v001.png"
+        },
+        {
+          "key": "DST",
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png"
+        },
+        {
+          "key": "CLT",
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png"
+        }
+      ],
+      "prompt": "Use case: illustration-story. Create one cinematic colored rough STORYBOARD contact sheet for the fictional gothic fantasy anime short film \"穿云\". All panels are distinct camera compositions of the SAME continuous story, NOT costume catalog pictures. Match the supplied concept art's delicate anime faces, painterly architectural depth, ivory/gold/rust textures, dramatic gothic lighting. Keep readable staging and quiet emotional expressions; moderately loose rendering suitable for story review. Each panel is a landscape 16:9 picture, exactly equal size in a strict regular grid. Thin plain white gutters and thin white outer margin only. NO captions, lettering, labels, speech balloons, watermarks, numbers, interface, reference thumbnails, or extra panels. Preserve identities and costumes.\nDeepSeek is the TINY round child in the original market image: oversized blue whale hat with two rounded side fins, ONE projecting rear forked hat-tail and top water spout, round baby face, huge blue eyes, blue-violet long hair, navy/blue short fur-trim cape with snowflakes and waves, small boots; about waist-high to adult women, NEVER adult maid. The original market image governs her face and proportions; turnaround is secondary wardrobe guidance. Claude is an adult orange-haired amber-eyed saint, rust-orange flower on her own LEFT temple, ivory veil, modest ivory long dress with orange botanical embroidery; restrained vulnerable expression. GPT is an adult white/lavender dragon woman, white horns, pointed ears, white long gown with silver knot ornaments, two small pale wings and ONE scaly tail, leg slit on her own RIGHT leg. Use references as designs, not source lettering. Fictional non-graphic peril only: no gore, no blood, no wound closeups, no body impalement. Keep all characters fully dressed. No modern objects.\n\nLAYOUT: exactly 2 columns and 3 rows (6 frames), equal 16:9 panels, read left-to-right then top-to-bottom. Output an approximately 2048 by 1728 pixel sheet if possible. Reference roles: image 1=DS; image 2=CL; image 3=CH; image 4=PR; image 5=DST; image 6=CLT.\nNight gothic church geography from reference 3: high altar and cross at one end, central aisle and rows of pews leading to opposite main entrance; low crawl hole in LEFT side wall when facing altar; water basin on RIGHT of altar. Child enters side hole then uses LEFT aisle and LEFT side steps, avoiding center congregation. Cross has metal wrist CUFFS fixed to wood and chain across clothed torso; NOTHING penetrates skin. Wood pile is unlit. No rice bowl. DeepSeek's head top reaches adult Claude's waist at most. Viewpoint never randomly swaps altar and entrance.\n\nPANELS IN STRICT ROW-MAJOR ORDER:\n1. Low exterior close at rough side wall crawl hole. Child kneels with shoulders in opening; oversized whale hat catches on upper stone edge. BOTH small hands grasp brim and compress soft hat to free it, body anatomically connected, hat-tail outside; moonlight, no people watching.\n2. Low interior shot just inside LEFT side wall. Child has landed silently on floor after crawling through hole behind her, hat back on head. She crouches and looks up/right toward distant elevated altar beyond left pews. Hooded backs visible in distant nave.\n3. Wide child-point-of-view toward high altar: orange-haired adult Claude in ivory embroidered dress restrained to tall wooden cross by intact cuffs/chains, her skirt above dry UNLIT wood. Black hooded congregation below. Metal/stone water basin to altar RIGHT, left side steps open in shadow.\n4. Medium fictional father-priest in black/gold ceremonial robes at foot of altar, arm raised as he speaks solemnly toward Claude offscreen. Copper-grey hair; design from priest reference. A hooded torchbearer behind holds low torch away from wood. No recognizable real person.\n5. Intimate diagonal two-shot at LEFT side steps. Child has crept up to Claude's side beneath cross; she points back toward left exit route with a brave encouraging smile. Claude leans eyes down toward her and subtly shakes her head in alarm. Height difference unambiguous; dry wood still UNLIT.\n6. Close view of tiny child stretching upward with BOTH hands pulling a taut iron chain still attached across Claude's clothed torso. Claude's cuffed arm and wood at top edge. In background one black hood turns toward the metallic noise. This is unsuccessful tugging, chain intact, no supernatural child strength.\n\nFinal checks: exact panel count and grid, no text, character consistency, clear storytelling. Do not insert reference sheet layouts inside panels.",
+      "request": {
+        "prompt": "Use case: illustration-story. Create one cinematic colored rough STORYBOARD contact sheet for the fictional gothic fantasy anime short film \"穿云\". All panels are distinct camera compositions of the SAME continuous story, NOT costume catalog pictures. Match the supplied concept art's delicate anime faces, painterly architectural depth, ivory/gold/rust textures, dramatic gothic lighting. Keep readable staging and quiet emotional expressions; moderately loose rendering suitable for story review. Each panel is a landscape 16:9 picture, exactly equal size in a strict regular grid. Thin plain white gutters and thin white outer margin only. NO captions, lettering, labels, speech balloons, watermarks, numbers, interface, reference thumbnails, or extra panels. Preserve identities and costumes.\nDeepSeek is the TINY round child in the original market image: oversized blue whale hat with two rounded side fins, ONE projecting rear forked hat-tail and top water spout, round baby face, huge blue eyes, blue-violet long hair, navy/blue short fur-trim cape with snowflakes and waves, small boots; about waist-high to adult women, NEVER adult maid. The original market image governs her face and proportions; turnaround is secondary wardrobe guidance. Claude is an adult orange-haired amber-eyed saint, rust-orange flower on her own LEFT temple, ivory veil, modest ivory long dress with orange botanical embroidery; restrained vulnerable expression. GPT is an adult white/lavender dragon woman, white horns, pointed ears, white long gown with silver knot ornaments, two small pale wings and ONE scaly tail, leg slit on her own RIGHT leg. Use references as designs, not source lettering. Fictional non-graphic peril only: no gore, no blood, no wound closeups, no body impalement. Keep all characters fully dressed. No modern objects.\n\nLAYOUT: exactly 2 columns and 3 rows (6 frames), equal 16:9 panels, read left-to-right then top-to-bottom. Output an approximately 2048 by 1728 pixel sheet if possible. Reference roles: image 1=DS; image 2=CL; image 3=CH; image 4=PR; image 5=DST; image 6=CLT.\nNight gothic church geography from reference 3: high altar and cross at one end, central aisle and rows of pews leading to opposite main entrance; low crawl hole in LEFT side wall when facing altar; water basin on RIGHT of altar. Child enters side hole then uses LEFT aisle and LEFT side steps, avoiding center congregation. Cross has metal wrist CUFFS fixed to wood and chain across clothed torso; NOTHING penetrates skin. Wood pile is unlit. No rice bowl. DeepSeek's head top reaches adult Claude's waist at most. Viewpoint never randomly swaps altar and entrance.\n\nPANELS IN STRICT ROW-MAJOR ORDER:\n1. Low exterior close at rough side wall crawl hole. Child kneels with shoulders in opening; oversized whale hat catches on upper stone edge. BOTH small hands grasp brim and compress soft hat to free it, body anatomically connected, hat-tail outside; moonlight, no people watching.\n2. Low interior shot just inside LEFT side wall. Child has landed silently on floor after crawling through hole behind her, hat back on head. She crouches and looks up/right toward distant elevated altar beyond left pews. Hooded backs visible in distant nave.\n3. Wide child-point-of-view toward high altar: orange-haired adult Claude in ivory embroidered dress restrained to tall wooden cross by intact cuffs/chains, her skirt above dry UNLIT wood. Black hooded congregation below. Metal/stone water basin to altar RIGHT, left side steps open in shadow.\n4. Medium fictional father-priest in black/gold ceremonial robes at foot of altar, arm raised as he speaks solemnly toward Claude offscreen. Copper-grey hair; design from priest reference. A hooded torchbearer behind holds low torch away from wood. No recognizable real person.\n5. Intimate diagonal two-shot at LEFT side steps. Child has crept up to Claude's side beneath cross; she points back toward left exit route with a brave encouraging smile. Claude leans eyes down toward her and subtly shakes her head in alarm. Height difference unambiguous; dry wood still UNLIT.\n6. Close view of tiny child stretching upward with BOTH hands pulling a taut iron chain still attached across Claude's clothed torso. Claude's cuffed arm and wood at top edge. In background one black hood turns toward the metallic noise. This is unsuccessful tugging, chain intact, no supernatural child strength.\n\nFinal checks: exact panel count and grid, no text, character consistency, clear storytelling. Do not insert reference sheet layouts inside panels.",
+        "referenced_image_paths": [
+          "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "E:/projects/内容创作/穿云/概念参考/01-Claude-母版概念参考.webp",
+          "E:/projects/内容创作/穿云/资产/图像/ENV-CHURCH-v001.png",
+          "E:/projects/内容创作/穿云/资产/图像/CHAR-PRIEST-v001.png",
+          "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png"
+        ],
+        "transparent_background": false
+      },
+      "output_path": "镜头设计/图像/S03-粗分镜-v001.png"
+    },
+    {
+      "id": "S04",
+      "title": "火前守护",
+      "cols": 2,
+      "rows": 3,
+      "refs": [
+        "DS",
+        "CL",
+        "CH",
+        "PR",
+        "DST",
+        "CLT"
+      ],
+      "context": "Same NIGHT church and same left-side entry geography; water basin stays RIGHT of altar. No bowl or GPT or reinforcements visible. Distress conveyed by staging, no graphic injury or explicit beating. Claude remains cuffed/chained to wooden cross until later rescue, no pierced skin. Fire does not touch bare skin. First torch is extinguished in water; later priest receives a SEPARATELY relit torch. Signal origin remains completely hidden.",
+      "panels": [
+        "Low side medium shot beside altar steps. Child on one knee after being pulled away, bracing with hands and stubbornly looking back up toward chain; large black-robed figure blocks path. Hat tilted, sleeves dusty, no visible injuries. Claude and unlit wood high in background.",
+        "Dynamic medium view to altar RIGHT. Child has bumped hooded torchbearer's forearm; a dropped torch splashes into the metal water basin, small burst of steam extinguishes it. Show only ONE torch entering water, clearly a basin not wood pile. Cross and dry unlit wood in rear left.",
+        "Frontal medium-wide of child standing on steps directly BELOW Claude, arms spread to shield her. Child's knees trembling, whale hat tilted, immense black-robed silhouettes crowd edges. Claude on cross behind, unlit wood beneath, candlelight dim after torch lost.",
+        "Tight face closeup of orange-haired Claude in ivory veil, amber eyes wide and wet, mouth open calling out, shoulder strains against intact cuff/chain visible at edge. Violence occurs entirely OFFSCREEN BELOW; no child being struck in picture.",
+        "Low close view of exhausted child collapsed gently on lower step, trying to prop herself on one elbow, empty other hand reaching toward Claude offscreen above. High narrow stained-glass window in background briefly reflects a slender BLUE-WHITE flash from OUTSIDE. No arrow shooter, no GPT, no allies, no sky crowd.",
+        "Low altar view focused on a gap between reaching small hand below and tearful Claude above. Dry wood pile has begun burning at base of cross, flame only below dress hem; smoky amber light. Priest in background holds now-empty hand after dropping a DIFFERENT relit torch; original water basin with extinguished first torch remains at right. Child in foreground prone and reaching, no gore. Danger and separation, restrained fire scale, no burning body."
+      ],
+      "inputs": [
+        {
+          "key": "DS",
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp"
+        },
+        {
+          "key": "CL",
+          "path": "概念参考/01-Claude-母版概念参考.webp"
+        },
+        {
+          "key": "CH",
+          "path": "资产/图像/ENV-CHURCH-v001.png"
+        },
+        {
+          "key": "PR",
+          "path": "资产/图像/CHAR-PRIEST-v001.png"
+        },
+        {
+          "key": "DST",
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png"
+        },
+        {
+          "key": "CLT",
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png"
+        }
+      ],
+      "prompt": "Use case: illustration-story. Create one cinematic colored rough STORYBOARD contact sheet for the fictional gothic fantasy anime short film \"穿云\". All panels are distinct camera compositions of the SAME continuous story, NOT costume catalog pictures. Match the supplied concept art's delicate anime faces, painterly architectural depth, ivory/gold/rust textures, dramatic gothic lighting. Keep readable staging and quiet emotional expressions; moderately loose rendering suitable for story review. Each panel is a landscape 16:9 picture, exactly equal size in a strict regular grid. Thin plain white gutters and thin white outer margin only. NO captions, lettering, labels, speech balloons, watermarks, numbers, interface, reference thumbnails, or extra panels. Preserve identities and costumes.\nDeepSeek is the TINY round child in the original market image: oversized blue whale hat with two rounded side fins, ONE projecting rear forked hat-tail and top water spout, round baby face, huge blue eyes, blue-violet long hair, navy/blue short fur-trim cape with snowflakes and waves, small boots; about waist-high to adult women, NEVER adult maid. The original market image governs her face and proportions; turnaround is secondary wardrobe guidance. Claude is an adult orange-haired amber-eyed saint, rust-orange flower on her own LEFT temple, ivory veil, modest ivory long dress with orange botanical embroidery; restrained vulnerable expression. GPT is an adult white/lavender dragon woman, white horns, pointed ears, white long gown with silver knot ornaments, two small pale wings and ONE scaly tail, leg slit on her own RIGHT leg. Use references as designs, not source lettering. Fictional non-graphic peril only: no gore, no blood, no wound closeups, no body impalement. Keep all characters fully dressed. No modern objects.\n\nLAYOUT: exactly 2 columns and 3 rows (6 frames), equal 16:9 panels, read left-to-right then top-to-bottom. Output an approximately 2048 by 1728 pixel sheet if possible. Reference roles: image 1=DS; image 2=CL; image 3=CH; image 4=PR; image 5=DST; image 6=CLT.\nSame NIGHT church and same left-side entry geography; water basin stays RIGHT of altar. No bowl or GPT or reinforcements visible. Distress conveyed by staging, no graphic injury or explicit beating. Claude remains cuffed/chained to wooden cross until later rescue, no pierced skin. Fire does not touch bare skin. First torch is extinguished in water; later priest receives a SEPARATELY relit torch. Signal origin remains completely hidden.\n\nPANELS IN STRICT ROW-MAJOR ORDER:\n1. Low side medium shot beside altar steps. Child on one knee after being pulled away, bracing with hands and stubbornly looking back up toward chain; large black-robed figure blocks path. Hat tilted, sleeves dusty, no visible injuries. Claude and unlit wood high in background.\n2. Dynamic medium view to altar RIGHT. Child has bumped hooded torchbearer's forearm; a dropped torch splashes into the metal water basin, small burst of steam extinguishes it. Show only ONE torch entering water, clearly a basin not wood pile. Cross and dry unlit wood in rear left.\n3. Frontal medium-wide of child standing on steps directly BELOW Claude, arms spread to shield her. Child's knees trembling, whale hat tilted, immense black-robed silhouettes crowd edges. Claude on cross behind, unlit wood beneath, candlelight dim after torch lost.\n4. Tight face closeup of orange-haired Claude in ivory veil, amber eyes wide and wet, mouth open calling out, shoulder strains against intact cuff/chain visible at edge. Violence occurs entirely OFFSCREEN BELOW; no child being struck in picture.\n5. Low close view of exhausted child collapsed gently on lower step, trying to prop herself on one elbow, empty other hand reaching toward Claude offscreen above. High narrow stained-glass window in background briefly reflects a slender BLUE-WHITE flash from OUTSIDE. No arrow shooter, no GPT, no allies, no sky crowd.\n6. Low altar view focused on a gap between reaching small hand below and tearful Claude above. Dry wood pile has begun burning at base of cross, flame only below dress hem; smoky amber light. Priest in background holds now-empty hand after dropping a DIFFERENT relit torch; original water basin with extinguished first torch remains at right. Child in foreground prone and reaching, no gore. Danger and separation, restrained fire scale, no burning body.\n\nFinal checks: exact panel count and grid, no text, character consistency, clear storytelling. Do not insert reference sheet layouts inside panels.",
+      "request": {
+        "prompt": "Use case: illustration-story. Create one cinematic colored rough STORYBOARD contact sheet for the fictional gothic fantasy anime short film \"穿云\". All panels are distinct camera compositions of the SAME continuous story, NOT costume catalog pictures. Match the supplied concept art's delicate anime faces, painterly architectural depth, ivory/gold/rust textures, dramatic gothic lighting. Keep readable staging and quiet emotional expressions; moderately loose rendering suitable for story review. Each panel is a landscape 16:9 picture, exactly equal size in a strict regular grid. Thin plain white gutters and thin white outer margin only. NO captions, lettering, labels, speech balloons, watermarks, numbers, interface, reference thumbnails, or extra panels. Preserve identities and costumes.\nDeepSeek is the TINY round child in the original market image: oversized blue whale hat with two rounded side fins, ONE projecting rear forked hat-tail and top water spout, round baby face, huge blue eyes, blue-violet long hair, navy/blue short fur-trim cape with snowflakes and waves, small boots; about waist-high to adult women, NEVER adult maid. The original market image governs her face and proportions; turnaround is secondary wardrobe guidance. Claude is an adult orange-haired amber-eyed saint, rust-orange flower on her own LEFT temple, ivory veil, modest ivory long dress with orange botanical embroidery; restrained vulnerable expression. GPT is an adult white/lavender dragon woman, white horns, pointed ears, white long gown with silver knot ornaments, two small pale wings and ONE scaly tail, leg slit on her own RIGHT leg. Use references as designs, not source lettering. Fictional non-graphic peril only: no gore, no blood, no wound closeups, no body impalement. Keep all characters fully dressed. No modern objects.\n\nLAYOUT: exactly 2 columns and 3 rows (6 frames), equal 16:9 panels, read left-to-right then top-to-bottom. Output an approximately 2048 by 1728 pixel sheet if possible. Reference roles: image 1=DS; image 2=CL; image 3=CH; image 4=PR; image 5=DST; image 6=CLT.\nSame NIGHT church and same left-side entry geography; water basin stays RIGHT of altar. No bowl or GPT or reinforcements visible. Distress conveyed by staging, no graphic injury or explicit beating. Claude remains cuffed/chained to wooden cross until later rescue, no pierced skin. Fire does not touch bare skin. First torch is extinguished in water; later priest receives a SEPARATELY relit torch. Signal origin remains completely hidden.\n\nPANELS IN STRICT ROW-MAJOR ORDER:\n1. Low side medium shot beside altar steps. Child on one knee after being pulled away, bracing with hands and stubbornly looking back up toward chain; large black-robed figure blocks path. Hat tilted, sleeves dusty, no visible injuries. Claude and unlit wood high in background.\n2. Dynamic medium view to altar RIGHT. Child has bumped hooded torchbearer's forearm; a dropped torch splashes into the metal water basin, small burst of steam extinguishes it. Show only ONE torch entering water, clearly a basin not wood pile. Cross and dry unlit wood in rear left.\n3. Frontal medium-wide of child standing on steps directly BELOW Claude, arms spread to shield her. Child's knees trembling, whale hat tilted, immense black-robed silhouettes crowd edges. Claude on cross behind, unlit wood beneath, candlelight dim after torch lost.\n4. Tight face closeup of orange-haired Claude in ivory veil, amber eyes wide and wet, mouth open calling out, shoulder strains against intact cuff/chain visible at edge. Violence occurs entirely OFFSCREEN BELOW; no child being struck in picture.\n5. Low close view of exhausted child collapsed gently on lower step, trying to prop herself on one elbow, empty other hand reaching toward Claude offscreen above. High narrow stained-glass window in background briefly reflects a slender BLUE-WHITE flash from OUTSIDE. No arrow shooter, no GPT, no allies, no sky crowd.\n6. Low altar view focused on a gap between reaching small hand below and tearful Claude above. Dry wood pile has begun burning at base of cross, flame only below dress hem; smoky amber light. Priest in background holds now-empty hand after dropping a DIFFERENT relit torch; original water basin with extinguished first torch remains at right. Child in foreground prone and reaching, no gore. Danger and separation, restrained fire scale, no burning body.\n\nFinal checks: exact panel count and grid, no text, character consistency, clear storytelling. Do not insert reference sheet layouts inside panels.",
+        "referenced_image_paths": [
+          "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "E:/projects/内容创作/穿云/概念参考/01-Claude-母版概念参考.webp",
+          "E:/projects/内容创作/穿云/资产/图像/ENV-CHURCH-v001.png",
+          "E:/projects/内容创作/穿云/资产/图像/CHAR-PRIEST-v001.png",
+          "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png"
+        ],
+        "transparent_background": false
+      },
+      "output_path": "镜头设计/图像/S04-粗分镜-v001.png"
+    },
+    {
+      "id": "S05",
+      "title": "穿云与破门",
+      "cols": 2,
+      "rows": 4,
+      "refs": [
+        "GPT",
+        "CLT",
+        "DS",
+        "CH",
+        "GR",
+        "QW",
+        "PP",
+        "DST"
+      ],
+      "context": "Reference images in order: GPT clean identity; Claude turnaround; original child identity; church; blonde axe-warrior Grok; blue-purple Chinese fan-wielder Qwen; teal-haired glasses mage Perplexity; child secondary wardrobe. Reinforcements all adults. Church main entrance is at OPPOSITE end from altar. Cold moonlight enters main doors, warm small altar fire at other end. Continuity: first block cultists and extinguish fire, then GPT SUPPORTS Claude BEFORE helpers detach cuffs and chain; no levitating bound woman. Non-graphic rescue. Eight distinct sequential shots, the fourth panel is a BRIEF EARLIER FLASHBACK at palace terrace, all other panels church. Foreground clean silhouettes, no gratuitous crowd detail.",
+      "panels": [
+        "View from inside central church aisle facing tall closed MAIN entrance opposite altar. White dragon GPT kicks one wooden door leaf inward, body balanced outside threshold, a single raised kicking leg, dust and splinters catching cold moonlight. Nobody's body struck. No altar behind doorway.",
+        "Low wide hero entrance, same doors now open. White dragon GPT centered stepping inward; adult blonde Grok with giant axe, Qwen with folding fan and teal mage Perplexity with staff clearly staggered BEHIND her, additional allies only small background silhouettes. Not more than one of each identity. Moonlight silhouettes horns, wings and weapons. Altar behind camera.",
+        "Close child on church altar step, looking past camera toward open door. Exhausted huge blue eyes catch cold reflection, recognition rather than sudden restored health. Dirty sleeve and tilted whale hat, no wound. Orange fire glow fades at frame edge. GPT not duplicated in this closeup.",
+        "FLASHBACK without any written label: GPT ALONE on ivory palace terrace against night sky, raises ONE hand and sends a single narrow BLUE-WHITE SIGNAL LIGHT upward. Pale horns/wings/tail, distant church spire in skyline. No companions, no battle and no fire. The same hue as previous mysterious window flash. This picture chronologically precedes door kick.",
+        "Wide side church rescue staging. At altar distant right a translucent teal barrier erected by Perplexity's staff separates Claude from wood and suppresses flames. At left near aisle Grok holds axe defensively across path of black-robed cultists. Qwen crouches shielding collapsed child at base of altar. GPT approaches steps. Exact unique people, barrier prevents burning, no attacks landing.",
+        "Medium intimate rescue at cross after fire is OUT, damp ash below. GPT is already braced with both arms SUPPORTING Claude's upper back and knees. Perplexity beside wood uses a small tool/light to detach cuff-to-wood fastening and slacken cross-torso chain; one wrist now free, remaining support is clearly GPT's arms. Claude's body lowered inches only, never ripped free through intact bindings. No axe near bodies.",
+        "Medium close Claude supported upright by GPT just below altar, pale face and shoulders instinctively recoiling toward an OFFSCREEN stern father's voice behind. GPT beside her steady, one supportive arm across her back. Cuffs no longer connected to cross. Claude turns her gaze toward the safely carried child offscreen, flame gone.",
+        "Wide down center aisle toward distant OPEN EXIT. Claude on her own feet takes GPT's offered hand and chooses to walk away; Qwen ahead carries exhausted child securely against chest, Grok and mage protect sides. Priest small and isolated at altar BEHIND foreground side, smoke only, no flame. Strong visual choice, careful hands and scale. Do not leave child walking after collapse."
+      ],
+      "inputs": [
+        {
+          "key": "GPT",
+          "path": "资产/图像/CHAR-GPT-v003.png"
+        },
+        {
+          "key": "CLT",
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png"
+        },
+        {
+          "key": "DS",
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp"
+        },
+        {
+          "key": "CH",
+          "path": "资产/图像/ENV-CHURCH-v001.png"
+        },
+        {
+          "key": "GR",
+          "path": "资产/图像/C09_Grok.png"
+        },
+        {
+          "key": "QW",
+          "path": "资产/图像/C04_Qwen.png"
+        },
+        {
+          "key": "PP",
+          "path": "资产/图像/C07_Perplexity.png"
+        },
+        {
+          "key": "DST",
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png"
+        }
+      ],
+      "prompt": "Use case: illustration-story. Create one cinematic colored rough STORYBOARD contact sheet for the fictional gothic fantasy anime short film \"穿云\". All panels are distinct camera compositions of the SAME continuous story, NOT costume catalog pictures. Match the supplied concept art's delicate anime faces, painterly architectural depth, ivory/gold/rust textures, dramatic gothic lighting. Keep readable staging and quiet emotional expressions; moderately loose rendering suitable for story review. Each panel is a landscape 16:9 picture, exactly equal size in a strict regular grid. Thin plain white gutters and thin white outer margin only. NO captions, lettering, labels, speech balloons, watermarks, numbers, interface, reference thumbnails, or extra panels. Preserve identities and costumes.\nDeepSeek is the TINY round child in the original market image: oversized blue whale hat with two rounded side fins, ONE projecting rear forked hat-tail and top water spout, round baby face, huge blue eyes, blue-violet long hair, navy/blue short fur-trim cape with snowflakes and waves, small boots; about waist-high to adult women, NEVER adult maid. The original market image governs her face and proportions; turnaround is secondary wardrobe guidance. Claude is an adult orange-haired amber-eyed saint, rust-orange flower on her own LEFT temple, ivory veil, modest ivory long dress with orange botanical embroidery; restrained vulnerable expression. GPT is an adult white/lavender dragon woman, white horns, pointed ears, white long gown with silver knot ornaments, two small pale wings and ONE scaly tail, leg slit on her own RIGHT leg. Use references as designs, not source lettering. Fictional non-graphic peril only: no gore, no blood, no wound closeups, no body impalement. Keep all characters fully dressed. No modern objects.\n\nLAYOUT: exactly 2 columns and 4 rows (8 frames), equal 16:9 panels, read left-to-right then top-to-bottom. Output an approximately 2048 by 2304 pixel sheet if possible. Reference roles: image 1=GPT; image 2=CLT; image 3=DS; image 4=CH; image 5=GR; image 6=QW; image 7=PP; image 8=DST.\nReference images in order: GPT clean identity; Claude turnaround; original child identity; church; blonde axe-warrior Grok; blue-purple Chinese fan-wielder Qwen; teal-haired glasses mage Perplexity; child secondary wardrobe. Reinforcements all adults. Church main entrance is at OPPOSITE end from altar. Cold moonlight enters main doors, warm small altar fire at other end. Continuity: first block cultists and extinguish fire, then GPT SUPPORTS Claude BEFORE helpers detach cuffs and chain; no levitating bound woman. Non-graphic rescue. Eight distinct sequential shots, the fourth panel is a BRIEF EARLIER FLASHBACK at palace terrace, all other panels church. Foreground clean silhouettes, no gratuitous crowd detail.\n\nPANELS IN STRICT ROW-MAJOR ORDER:\n1. View from inside central church aisle facing tall closed MAIN entrance opposite altar. White dragon GPT kicks one wooden door leaf inward, body balanced outside threshold, a single raised kicking leg, dust and splinters catching cold moonlight. Nobody's body struck. No altar behind doorway.\n2. Low wide hero entrance, same doors now open. White dragon GPT centered stepping inward; adult blonde Grok with giant axe, Qwen with folding fan and teal mage Perplexity with staff clearly staggered BEHIND her, additional allies only small background silhouettes. Not more than one of each identity. Moonlight silhouettes horns, wings and weapons. Altar behind camera.\n3. Close child on church altar step, looking past camera toward open door. Exhausted huge blue eyes catch cold reflection, recognition rather than sudden restored health. Dirty sleeve and tilted whale hat, no wound. Orange fire glow fades at frame edge. GPT not duplicated in this closeup.\n4. FLASHBACK without any written label: GPT ALONE on ivory palace terrace against night sky, raises ONE hand and sends a single narrow BLUE-WHITE SIGNAL LIGHT upward. Pale horns/wings/tail, distant church spire in skyline. No companions, no battle and no fire. The same hue as previous mysterious window flash. This picture chronologically precedes door kick.\n5. Wide side church rescue staging. At altar distant right a translucent teal barrier erected by Perplexity's staff separates Claude from wood and suppresses flames. At left near aisle Grok holds axe defensively across path of black-robed cultists. Qwen crouches shielding collapsed child at base of altar. GPT approaches steps. Exact unique people, barrier prevents burning, no attacks landing.\n6. Medium intimate rescue at cross after fire is OUT, damp ash below. GPT is already braced with both arms SUPPORTING Claude's upper back and knees. Perplexity beside wood uses a small tool/light to detach cuff-to-wood fastening and slacken cross-torso chain; one wrist now free, remaining support is clearly GPT's arms. Claude's body lowered inches only, never ripped free through intact bindings. No axe near bodies.\n7. Medium close Claude supported upright by GPT just below altar, pale face and shoulders instinctively recoiling toward an OFFSCREEN stern father's voice behind. GPT beside her steady, one supportive arm across her back. Cuffs no longer connected to cross. Claude turns her gaze toward the safely carried child offscreen, flame gone.\n8. Wide down center aisle toward distant OPEN EXIT. Claude on her own feet takes GPT's offered hand and chooses to walk away; Qwen ahead carries exhausted child securely against chest, Grok and mage protect sides. Priest small and isolated at altar BEHIND foreground side, smoke only, no flame. Strong visual choice, careful hands and scale. Do not leave child walking after collapse.\n\nFinal checks: exact panel count and grid, no text, character consistency, clear storytelling. Do not insert reference sheet layouts inside panels.",
+      "request": {
+        "prompt": "Use case: illustration-story. Create one cinematic colored rough STORYBOARD contact sheet for the fictional gothic fantasy anime short film \"穿云\". All panels are distinct camera compositions of the SAME continuous story, NOT costume catalog pictures. Match the supplied concept art's delicate anime faces, painterly architectural depth, ivory/gold/rust textures, dramatic gothic lighting. Keep readable staging and quiet emotional expressions; moderately loose rendering suitable for story review. Each panel is a landscape 16:9 picture, exactly equal size in a strict regular grid. Thin plain white gutters and thin white outer margin only. NO captions, lettering, labels, speech balloons, watermarks, numbers, interface, reference thumbnails, or extra panels. Preserve identities and costumes.\nDeepSeek is the TINY round child in the original market image: oversized blue whale hat with two rounded side fins, ONE projecting rear forked hat-tail and top water spout, round baby face, huge blue eyes, blue-violet long hair, navy/blue short fur-trim cape with snowflakes and waves, small boots; about waist-high to adult women, NEVER adult maid. The original market image governs her face and proportions; turnaround is secondary wardrobe guidance. Claude is an adult orange-haired amber-eyed saint, rust-orange flower on her own LEFT temple, ivory veil, modest ivory long dress with orange botanical embroidery; restrained vulnerable expression. GPT is an adult white/lavender dragon woman, white horns, pointed ears, white long gown with silver knot ornaments, two small pale wings and ONE scaly tail, leg slit on her own RIGHT leg. Use references as designs, not source lettering. Fictional non-graphic peril only: no gore, no blood, no wound closeups, no body impalement. Keep all characters fully dressed. No modern objects.\n\nLAYOUT: exactly 2 columns and 4 rows (8 frames), equal 16:9 panels, read left-to-right then top-to-bottom. Output an approximately 2048 by 2304 pixel sheet if possible. Reference roles: image 1=GPT; image 2=CLT; image 3=DS; image 4=CH; image 5=GR; image 6=QW; image 7=PP; image 8=DST.\nReference images in order: GPT clean identity; Claude turnaround; original child identity; church; blonde axe-warrior Grok; blue-purple Chinese fan-wielder Qwen; teal-haired glasses mage Perplexity; child secondary wardrobe. Reinforcements all adults. Church main entrance is at OPPOSITE end from altar. Cold moonlight enters main doors, warm small altar fire at other end. Continuity: first block cultists and extinguish fire, then GPT SUPPORTS Claude BEFORE helpers detach cuffs and chain; no levitating bound woman. Non-graphic rescue. Eight distinct sequential shots, the fourth panel is a BRIEF EARLIER FLASHBACK at palace terrace, all other panels church. Foreground clean silhouettes, no gratuitous crowd detail.\n\nPANELS IN STRICT ROW-MAJOR ORDER:\n1. View from inside central church aisle facing tall closed MAIN entrance opposite altar. White dragon GPT kicks one wooden door leaf inward, body balanced outside threshold, a single raised kicking leg, dust and splinters catching cold moonlight. Nobody's body struck. No altar behind doorway.\n2. Low wide hero entrance, same doors now open. White dragon GPT centered stepping inward; adult blonde Grok with giant axe, Qwen with folding fan and teal mage Perplexity with staff clearly staggered BEHIND her, additional allies only small background silhouettes. Not more than one of each identity. Moonlight silhouettes horns, wings and weapons. Altar behind camera.\n3. Close child on church altar step, looking past camera toward open door. Exhausted huge blue eyes catch cold reflection, recognition rather than sudden restored health. Dirty sleeve and tilted whale hat, no wound. Orange fire glow fades at frame edge. GPT not duplicated in this closeup.\n4. FLASHBACK without any written label: GPT ALONE on ivory palace terrace against night sky, raises ONE hand and sends a single narrow BLUE-WHITE SIGNAL LIGHT upward. Pale horns/wings/tail, distant church spire in skyline. No companions, no battle and no fire. The same hue as previous mysterious window flash. This picture chronologically precedes door kick.\n5. Wide side church rescue staging. At altar distant right a translucent teal barrier erected by Perplexity's staff separates Claude from wood and suppresses flames. At left near aisle Grok holds axe defensively across path of black-robed cultists. Qwen crouches shielding collapsed child at base of altar. GPT approaches steps. Exact unique people, barrier prevents burning, no attacks landing.\n6. Medium intimate rescue at cross after fire is OUT, damp ash below. GPT is already braced with both arms SUPPORTING Claude's upper back and knees. Perplexity beside wood uses a small tool/light to detach cuff-to-wood fastening and slacken cross-torso chain; one wrist now free, remaining support is clearly GPT's arms. Claude's body lowered inches only, never ripped free through intact bindings. No axe near bodies.\n7. Medium close Claude supported upright by GPT just below altar, pale face and shoulders instinctively recoiling toward an OFFSCREEN stern father's voice behind. GPT beside her steady, one supportive arm across her back. Cuffs no longer connected to cross. Claude turns her gaze toward the safely carried child offscreen, flame gone.\n8. Wide down center aisle toward distant OPEN EXIT. Claude on her own feet takes GPT's offered hand and chooses to walk away; Qwen ahead carries exhausted child securely against chest, Grok and mage protect sides. Priest small and isolated at altar BEHIND foreground side, smoke only, no flame. Strong visual choice, careful hands and scale. Do not leave child walking after collapse.\n\nFinal checks: exact panel count and grid, no text, character consistency, clear storytelling. Do not insert reference sheet layouts inside panels.",
+        "referenced_image_paths": [
+          "E:/projects/内容创作/穿云/资产/图像/CHAR-GPT-v003.png",
+          "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "E:/projects/内容创作/穿云/资产/图像/ENV-CHURCH-v001.png",
+          "E:/projects/内容创作/穿云/资产/图像/C09_Grok.png",
+          "E:/projects/内容创作/穿云/资产/图像/C04_Qwen.png",
+          "E:/projects/内容创作/穿云/资产/图像/C07_Perplexity.png",
+          "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png"
+        ],
+        "transparent_background": false
+      },
+      "output_path": "镜头设计/图像/S05-粗分镜-v001.png"
+    },
+    {
+      "id": "S06",
+      "title": "再分一碗饭",
+      "cols": 2,
+      "rows": 2,
+      "refs": [
+        "DS",
+        "CLT",
+        "ST",
+        "GPT",
+        "DST"
+      ],
+      "context": "Several DAYS LATER. Same sunny medieval market as first scene, same cream/blue awnings and foreground wooden bench. Tiny child same original identity with small clean bandage wrapped at forearm and forehead under hat, no injuries exposed. Adult Claude free of chains/cuffs, no guards. Silver rice bowl identical to opening. Warm gentle daylight, not palace. Emotional end belongs to Claude and child; GPT is peripheral.",
+      "panels": [
+        "Wide at bench height: tiny bandaged whale-hat child sits on wooden bench at street edge, boots dangling far ABOVE ground, silver bowl of steaming white rice in lap. Empty space next to her, familiar market bustle soft behind, sunny.",
+        "Medium two-shot. Claude in ivory/orange embroidered dress and veil has arrived beside bench and begins sitting. Child has scooted to make room, looks up smiling and offers rice bowl with both hands; Claude gently reaches for a spoon. Keep height/age difference, kindness, original mother faces. No chains or black guards.",
+        "Brief medium cutaway on GPT off to side of SAME street, not on main bench. An adult companion's hand passes her a steaming cup; dragon woman takes it relaxed and leans beside companion. Claude and child at bench small out-of-focus BACKGROUND; horns/wings/one tail intact. No hero pose or signal.",
+        "Final lingering intimate bench two-shot. Claude SEATED alongside tiny child with dangling feet. Claude has just eaten ONE small spoonful of rice and gently lowers spoon; child cradles same bowl and beams up at her. Warm sun on shoulders, passerby bokeh behind. Claude subtle relieved smile not crying theatrically. Both faces and bowl clear; GPT outside frame. Quiet completion of original refused meal invitation."
+      ],
+      "inputs": [
+        {
+          "key": "DS",
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp"
+        },
+        {
+          "key": "CLT",
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png"
+        },
+        {
+          "key": "ST",
+          "path": "资产/图像/ENV-STREET-v001.png"
+        },
+        {
+          "key": "GPT",
+          "path": "资产/图像/CHAR-GPT-v003.png"
+        },
+        {
+          "key": "DST",
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png"
+        }
+      ],
+      "prompt": "Use case: illustration-story. Create one cinematic colored rough STORYBOARD contact sheet for the fictional gothic fantasy anime short film \"穿云\". All panels are distinct camera compositions of the SAME continuous story, NOT costume catalog pictures. Match the supplied concept art's delicate anime faces, painterly architectural depth, ivory/gold/rust textures, dramatic gothic lighting. Keep readable staging and quiet emotional expressions; moderately loose rendering suitable for story review. Each panel is a landscape 16:9 picture, exactly equal size in a strict regular grid. Thin plain white gutters and thin white outer margin only. NO captions, lettering, labels, speech balloons, watermarks, numbers, interface, reference thumbnails, or extra panels. Preserve identities and costumes.\nDeepSeek is the TINY round child in the original market image: oversized blue whale hat with two rounded side fins, ONE projecting rear forked hat-tail and top water spout, round baby face, huge blue eyes, blue-violet long hair, navy/blue short fur-trim cape with snowflakes and waves, small boots; about waist-high to adult women, NEVER adult maid. The original market image governs her face and proportions; turnaround is secondary wardrobe guidance. Claude is an adult orange-haired amber-eyed saint, rust-orange flower on her own LEFT temple, ivory veil, modest ivory long dress with orange botanical embroidery; restrained vulnerable expression. GPT is an adult white/lavender dragon woman, white horns, pointed ears, white long gown with silver knot ornaments, two small pale wings and ONE scaly tail, leg slit on her own RIGHT leg. Use references as designs, not source lettering. Fictional non-graphic peril only: no gore, no blood, no wound closeups, no body impalement. Keep all characters fully dressed. No modern objects.\n\nLAYOUT: exactly 2 columns and 2 rows (4 frames), equal 16:9 panels, read left-to-right then top-to-bottom. Output an approximately 2048 by 1152 pixel sheet if possible. Reference roles: image 1=DS; image 2=CLT; image 3=ST; image 4=GPT; image 5=DST.\nSeveral DAYS LATER. Same sunny medieval market as first scene, same cream/blue awnings and foreground wooden bench. Tiny child same original identity with small clean bandage wrapped at forearm and forehead under hat, no injuries exposed. Adult Claude free of chains/cuffs, no guards. Silver rice bowl identical to opening. Warm gentle daylight, not palace. Emotional end belongs to Claude and child; GPT is peripheral.\n\nPANELS IN STRICT ROW-MAJOR ORDER:\n1. Wide at bench height: tiny bandaged whale-hat child sits on wooden bench at street edge, boots dangling far ABOVE ground, silver bowl of steaming white rice in lap. Empty space next to her, familiar market bustle soft behind, sunny.\n2. Medium two-shot. Claude in ivory/orange embroidered dress and veil has arrived beside bench and begins sitting. Child has scooted to make room, looks up smiling and offers rice bowl with both hands; Claude gently reaches for a spoon. Keep height/age difference, kindness, original mother faces. No chains or black guards.\n3. Brief medium cutaway on GPT off to side of SAME street, not on main bench. An adult companion's hand passes her a steaming cup; dragon woman takes it relaxed and leans beside companion. Claude and child at bench small out-of-focus BACKGROUND; horns/wings/one tail intact. No hero pose or signal.\n4. Final lingering intimate bench two-shot. Claude SEATED alongside tiny child with dangling feet. Claude has just eaten ONE small spoonful of rice and gently lowers spoon; child cradles same bowl and beams up at her. Warm sun on shoulders, passerby bokeh behind. Claude subtle relieved smile not crying theatrically. Both faces and bowl clear; GPT outside frame. Quiet completion of original refused meal invitation.\n\nFinal checks: exact panel count and grid, no text, character consistency, clear storytelling. Do not insert reference sheet layouts inside panels.",
+      "request": {
+        "prompt": "Use case: illustration-story. Create one cinematic colored rough STORYBOARD contact sheet for the fictional gothic fantasy anime short film \"穿云\". All panels are distinct camera compositions of the SAME continuous story, NOT costume catalog pictures. Match the supplied concept art's delicate anime faces, painterly architectural depth, ivory/gold/rust textures, dramatic gothic lighting. Keep readable staging and quiet emotional expressions; moderately loose rendering suitable for story review. Each panel is a landscape 16:9 picture, exactly equal size in a strict regular grid. Thin plain white gutters and thin white outer margin only. NO captions, lettering, labels, speech balloons, watermarks, numbers, interface, reference thumbnails, or extra panels. Preserve identities and costumes.\nDeepSeek is the TINY round child in the original market image: oversized blue whale hat with two rounded side fins, ONE projecting rear forked hat-tail and top water spout, round baby face, huge blue eyes, blue-violet long hair, navy/blue short fur-trim cape with snowflakes and waves, small boots; about waist-high to adult women, NEVER adult maid. The original market image governs her face and proportions; turnaround is secondary wardrobe guidance. Claude is an adult orange-haired amber-eyed saint, rust-orange flower on her own LEFT temple, ivory veil, modest ivory long dress with orange botanical embroidery; restrained vulnerable expression. GPT is an adult white/lavender dragon woman, white horns, pointed ears, white long gown with silver knot ornaments, two small pale wings and ONE scaly tail, leg slit on her own RIGHT leg. Use references as designs, not source lettering. Fictional non-graphic peril only: no gore, no blood, no wound closeups, no body impalement. Keep all characters fully dressed. No modern objects.\n\nLAYOUT: exactly 2 columns and 2 rows (4 frames), equal 16:9 panels, read left-to-right then top-to-bottom. Output an approximately 2048 by 1152 pixel sheet if possible. Reference roles: image 1=DS; image 2=CLT; image 3=ST; image 4=GPT; image 5=DST.\nSeveral DAYS LATER. Same sunny medieval market as first scene, same cream/blue awnings and foreground wooden bench. Tiny child same original identity with small clean bandage wrapped at forearm and forehead under hat, no injuries exposed. Adult Claude free of chains/cuffs, no guards. Silver rice bowl identical to opening. Warm gentle daylight, not palace. Emotional end belongs to Claude and child; GPT is peripheral.\n\nPANELS IN STRICT ROW-MAJOR ORDER:\n1. Wide at bench height: tiny bandaged whale-hat child sits on wooden bench at street edge, boots dangling far ABOVE ground, silver bowl of steaming white rice in lap. Empty space next to her, familiar market bustle soft behind, sunny.\n2. Medium two-shot. Claude in ivory/orange embroidered dress and veil has arrived beside bench and begins sitting. Child has scooted to make room, looks up smiling and offers rice bowl with both hands; Claude gently reaches for a spoon. Keep height/age difference, kindness, original mother faces. No chains or black guards.\n3. Brief medium cutaway on GPT off to side of SAME street, not on main bench. An adult companion's hand passes her a steaming cup; dragon woman takes it relaxed and leans beside companion. Claude and child at bench small out-of-focus BACKGROUND; horns/wings/one tail intact. No hero pose or signal.\n4. Final lingering intimate bench two-shot. Claude SEATED alongside tiny child with dangling feet. Claude has just eaten ONE small spoonful of rice and gently lowers spoon; child cradles same bowl and beams up at her. Warm sun on shoulders, passerby bokeh behind. Claude subtle relieved smile not crying theatrically. Both faces and bowl clear; GPT outside frame. Quiet completion of original refused meal invitation.\n\nFinal checks: exact panel count and grid, no text, character consistency, clear storytelling. Do not insert reference sheet layouts inside panels.",
+        "referenced_image_paths": [
+          "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "E:/projects/内容创作/穿云/资产/图像/ENV-STREET-v001.png",
+          "E:/projects/内容创作/穿云/资产/图像/CHAR-GPT-v003.png",
+          "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png"
+        ],
+        "transparent_background": false
+      },
+      "output_path": "镜头设计/图像/S06-粗分镜-v001.png"
+    }
+  ]
+}
+

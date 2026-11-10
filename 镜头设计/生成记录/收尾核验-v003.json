@@ -1,0 +1,34 @@
+{
+  "shots": 49,
+  "seconds": 236,
+  "current_pages": 11,
+  "script_scenes_unchanged": [
+    "S01",
+    "S02",
+    "S03",
+    "S04",
+    "S06"
+  ],
+  "battle_then_rescue_order": [
+    "CY023",
+    "CY027",
+    "CY026A",
+    "CY026E",
+    "CY026",
+    "CY027A",
+    "CY027B",
+    "CY027C",
+    "CY027D",
+    "CY027E",
+    "CY027F",
+    "CY028",
+    "CY030"
+  ],
+  "local_html_links_verified": 627,
+  "source_image_copies_verified": 24,
+  "historical_snapshots_match_base_commit_with_normalized_line_endings": true,
+  "base_commit": "e2e9dce",
+  "new_temporary_dialogue": 11,
+  "reused_temporary_dialogue": 9,
+  "formal_video_produced": false
+}

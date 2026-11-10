@@ -1,0 +1,58 @@
+{
+  "batch": {
+    "attempt_id": "CY024K3-v014-shield-close-r1",
+    "batch_number": 20,
+    "batch_id": "GB015-2",
+    "duration": 4,
+    "prompt": "精细日式二维动画，严格保持首尾帧线条、平涂阴影和原角色服装，固定正面同侧镜头。4秒只完成同一个防护罩从无到闭合：首帧Kimi刚落地，双手各持唯一一把月牙刃，Claude仍双腕固定于后方祭架。0至0.5秒Kimi稳住前脚、把两刃向身前收拢；0.5至2秒一道蓝紫月光从地面沿她与祭架外围向上卷起，连续生长为覆盖Kimi和整个祭架的半球，先透明后逐渐变成尾帧深蓝紫薄膜；2至4秒半球已经完整闭合，表面只留缓慢月纹，不再缩小或变回直立圆盘。外围火焰被阻在罩外，不能穿透罩壁，没有先到的敌方攻击，没有新增人物。镜头不绕行、不突然换角度；没有对白字幕音乐，不用3D手办材质。",
+    "references": [
+      {
+        "path": "镜头设计/图像/暗月瞬临-v045/CY024K2-v045-r1.png",
+        "role": "first_frame",
+        "sha256": "26268718c9c1cc60205640cae55c9d37d3965978385a387760f091a85b8a82c8",
+        "visually_reviewed": true,
+        "purpose": "同风格原设计，起态Kimi护在祭架前、终态完整暗月半球"
+      },
+      {
+        "path": "镜头设计/图像/暗月瞬临-v045/CY024K3-v045-r1.png",
+        "role": "last_frame",
+        "sha256": "79a31c435a15c534cf50f0940caf6aa71c593e15cb6230e0ef62cf0b393b04a0",
+        "visually_reviewed": true,
+        "purpose": "同风格原设计，起态Kimi护在祭架前、终态完整暗月半球"
+      }
+    ],
+    "estimated_credits": 40.8,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "替换直立圆盘硬切封闭半球，让同一个盾连续长成",
+    "repair_of": "B20 disk-to-dome discontinuity"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "精细日式二维动画，严格保持首尾帧线条、平涂阴影和原角色服装，固定正面同侧镜头。4秒只完成同一个防护罩从无到闭合：首帧Kimi刚落地，双手各持唯一一把月牙刃，Claude仍双腕固定于后方祭架。0至0.5秒Kimi稳住前脚、把两刃向身前收拢；0.5至2秒一道蓝紫月光从地面沿她与祭架外围向上卷起，连续生长为覆盖Kimi和整个祭架的半球，先透明后逐渐变成尾帧深蓝紫薄膜；2至4秒半球已经完整闭合，表面只留缓慢月纹，不再缩小或变回直立圆盘。外围火焰被阻在罩外，不能穿透罩壁，没有先到的敌方攻击，没有新增人物。镜头不绕行、不突然换角度；没有对白字幕音乐，不用3D手办材质。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115144244372238336"
+        },
+        "role": "first_frame"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115761166781882368"
+        },
+        "role": "last_frame"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 4,
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者要求直接修复教堂段，密塔剩余额度优先，不足转本地ComfyUI；现余额971.3，经控制台实时核实。保留历史，不充值，不导出。"
+}

@@ -1,0 +1,27 @@
+{
+  "shots": 109,
+  "total_seconds": 359,
+  "modified_shots": [
+    "CY024A10",
+    "CY024A11",
+    "CY024A12"
+  ],
+  "image_replacements": [
+    "CY024A11",
+    "CY024A12"
+  ],
+  "attempts_preserved": 4,
+  "unaffected_shots_identical": 106,
+  "timing_and_dialogue_unchanged": true,
+  "approved_chant_and_music_plan_unchanged": true,
+  "previous_version_unchanged": true,
+  "old_html_snapshot_content_matches": true,
+  "git_comparison_normalizes_line_endings": true,
+  "picture_lock_files_verified": 98,
+  "local_links_verified": 295,
+  "source_quotes_verified": 109,
+  "visual_review": "主代理实际查看：上行方向、飞行单叶无术光、飞行纵深与撞击侧面构图区分；仍待作者审阅。",
+  "video_produced": false,
+  "audio_produced": false,
+  "browser_playback": "not_verified"
+}

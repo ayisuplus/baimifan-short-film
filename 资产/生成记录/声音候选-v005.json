@@ -1,0 +1,436 @@
+{
+  "version": "v005",
+  "date": "2026-10-21",
+  "dialogue_source": "镜头设计/shot-plan-v0.5.json",
+  "music": [
+    {
+      "license": "未取得本片同步及录音使用授权",
+      "license_url": "https://warnerchappell.com/faqs/",
+      "status": "新候选 · 官方来源待试听",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "attribution": "当前仅记录试听来源，署名本身不等于获得使用许可。",
+      "audition_note": "打开官方试听／发行页；未下载原声，未写入成片。",
+      "id": "BGM-BEACONS-001",
+      "title": "The Lighting of the Beacons",
+      "author": "Howard Shore",
+      "source": "https://www.youtube.com/watch?v=w_hnJNnKZz0",
+      "description": "《指环王：王者归来》完整原声；官方艺人频道发行版本。",
+      "role": "叙事贴合优先：试配 GPT 四地邀约、分屏回应和穿云信号。选已形成推进的乐段，不从长铺垫机械铺起。",
+      "recognition_evidence": "搜索索引返回官方艺人频道约194万播放；2026-10-21检索快照，不代表中国平台受众覆盖。"
+    },
+    {
+      "license": "未取得本片同步及录音使用授权",
+      "license_url": "https://warnerchappell.com/faqs/",
+      "status": "新候选 · 官方来源待试听",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "attribution": "当前仅记录试听来源，署名本身不等于获得使用许可。",
+      "audition_note": "打开官方试听／发行页；未下载原声，未写入成片。",
+      "id": "BGM-VICTORY-001",
+      "title": "Victory",
+      "author": "Two Steps From Hell / Thomas Bergersen",
+      "source": "https://www.youtube.com/watch?v=hKRUPYrAQoE",
+      "description": "经典史诗音乐；不是《霍比特人》或《指环王》的电影原声。",
+      "role": "熟悉感优先：试配踹门、群像登场和力量反转。只挑高潮段，不用整首五分钟的铺垫；对白压低人声与合唱。",
+      "recognition_evidence": "Two Steps From Hell官方视频搜索快照约1.83亿播放，2026-10-21检索；不能据此保证每位观众熟悉。",
+      "catalog_source": "https://www.extrememusic.com/discover/labels/two-steps-from-hell"
+    },
+    {
+      "license": "未取得本片同步及录音使用授权",
+      "license_url": "https://warnerchappell.com/faqs/",
+      "status": "新候选 · 官方来源待试听",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "attribution": "当前仅记录试听来源，署名本身不等于获得使用许可。",
+      "audition_note": "打开官方试听／发行页；未下载原声，未写入成片。",
+      "id": "BGM-COURAGE-001",
+      "title": "Heart of Courage",
+      "author": "Two Steps From Hell / Thomas Bergersen",
+      "source": "https://www.youtube.com/watch?v=K2iC1aCPbKA",
+      "description": "经典预告片／史诗曲，非特定战争电影原声。",
+      "role": "短段备用：援军列阵、邀约回应的持续推进。节拍数字不等于剪辑速度，重点试听细分节奏和重音。",
+      "catalog_source": "https://www.extrememusic.com/albums/3602",
+      "recognition_evidence": "Spotify艺人热门曲目列首；Extreme Music官方目录列入Greatest Hits Remastered。目录标67 BPM，本轮不声称它是高BPM歌曲。"
+    },
+    {
+      "license": "未取得本片同步及录音使用授权",
+      "license_url": "https://warnerchappell.com/faqs/",
+      "status": "新候选 · 官方来源待试听",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "attribution": "当前仅记录试听来源，署名本身不等于获得使用许可。",
+      "audition_note": "打开官方试听／发行页；未下载原声，未写入成片。",
+      "id": "BGM-PELENNOR-001",
+      "title": "The Battle of the Pelennor Fields",
+      "author": "Howard Shore",
+      "source": "https://www.youtube.com/watch?v=8t9eL-5wMFc",
+      "description": "《指环王：王者归来》完整原声，官方艺人频道发行版本。",
+      "role": "冲突强度备用：起飞与天空强光之间的极短段。不能为了音乐扩写战斗，依然直接跳至敌人倒地。",
+      "recognition_evidence": "官方频道搜索快照约897万播放，2026-10-21检索；受众熟悉程度待作者试听判断。"
+    },
+    {
+      "license": "未取得本片同步及录音使用授权",
+      "license_url": "https://warnerchappell.com/faqs/",
+      "status": "新候选 · 官方来源待试听",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "attribution": "当前仅记录试听来源，署名本身不等于获得使用许可。",
+      "audition_note": "打开官方试听／发行页；未下载原声，未写入成片。",
+      "id": "BGM-OVERHILL-001",
+      "title": "Over Hill",
+      "author": "Howard Shore",
+      "source": "https://www.watertower-music.com/release/the-hobbit-an-unexpected-journey-original-motion-picture-soundtrack/",
+      "description": "WaterTower官方《霍比特人：意外之旅》原声曲目18。",
+      "role": "奇幻冒险备用：优先核听管弦推进段。官方曲目已核实，独立试听链接及合适截段尚未核定；不冒称已确认热度。"
+    },
+    {
+      "id": "BGM-HOPE-001",
+      "title": "A Kind Of Hope",
+      "url": "https://www.scottbuckley.com.au/library/wp-content/uploads/2022/10/AKindOfHope.mp3",
+      "role": "初遇与结尾的情感主题；第一遍保留忧伤，尾声回归温暖。",
+      "description": "作者描述：钢琴、弦乐与氛围合成器，苦甜交织、略有迟疑的希望。",
+      "scenes": [
+        "S01",
+        "S06"
+      ],
+      "author": "Scott Buckley",
+      "source": "https://www.scottbuckley.com.au/library/a-kind-of-hope/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "status": "作者试听：曲调合适，节奏偏慢 · 旧备选",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "attribution": "'A Kind Of Hope' by Scott Buckley — released under CC BY 4.0. www.scottbuckley.com.au. 本片使用时注明剪辑及淡入淡出。",
+      "path": "资产/声音/BGM/BGM-HOPE-001.mp3",
+      "sha256": "d0dc554c0db9ea208b4f59e4f0c1b4446aa7ef622c7bfeffca278130a46c51f1",
+      "bytes": 13708261,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "342.600544"
+        }
+      },
+      "decode_ok": true,
+      "acquisition_history": [
+        "HTTP Error 406: Not Acceptable",
+        "Success with source-page Referer"
+      ],
+      "author_feedback": "不作为本轮快切段主选；原文件保留。"
+    },
+    {
+      "id": "BGM-DESCENT-001",
+      "title": "Descent",
+      "url": "https://www.scottbuckley.com.au/library/wp-content/uploads/2018/04/descent.mp3",
+      "role": "宫殿犹豫、潜入与火祭的压迫底色；脚步发现与第二支火把前留白。",
+      "description": "作者描述：阴暗氛围、人声纹理、合成器及处理过的管乐。需试听确认人声纹理不遮对白。",
+      "scenes": [
+        "S02",
+        "S03",
+        "S04"
+      ],
+      "author": "Scott Buckley",
+      "source": "https://www.scottbuckley.com.au/library/descent/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "status": "作者试听：曲调合适，节奏偏慢 · 旧备选",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "attribution": "'Descent' by Scott Buckley — released under CC BY 4.0. www.scottbuckley.com.au. 本片使用时注明剪辑及淡入淡出。",
+      "path": "资产/声音/BGM/BGM-DESCENT-001.mp3",
+      "sha256": "f94d1bc51651c5a4e4e81da032a2eae15df726857fce5a14babcfa9227cdb5dd",
+      "bytes": 5512007,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "137.693152"
+        }
+      },
+      "decode_ok": true,
+      "acquisition_history": [
+        "HTTP Error 406: Not Acceptable",
+        "Success with source-page Referer"
+      ],
+      "author_feedback": "不作为本轮快切段主选；原文件保留。"
+    },
+    {
+      "id": "BGM-TITAN-001",
+      "title": "Titan",
+      "url": "https://www.scottbuckley.com.au/library/wp-content/uploads/2018/06/sb_titan.mp3",
+      "role": "援军入场、邀约回闪与破局；对白处压低，战后迅速收束。",
+      "description": "作者描述：沉郁大提琴起始，逐步展开至完整管弦乐。不是持续战斗鼓点，优先服务获救的释放感。",
+      "scenes": [
+        "S05"
+      ],
+      "author": "Scott Buckley",
+      "source": "https://www.scottbuckley.com.au/library/titan/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "status": "作者试听：曲调合适，节奏偏慢 · 旧备选",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "attribution": "'Titan' by Scott Buckley — released under CC BY 4.0. www.scottbuckley.com.au. 本片使用时注明剪辑及淡入淡出。",
+      "path": "资产/声音/BGM/BGM-TITAN-001.mp3",
+      "sha256": "fb921a09cc6181228b14945c7a6b90b50a83f4f38a37644a383bf7c70ea83729",
+      "bytes": 7034419,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "175.756735"
+        }
+      },
+      "decode_ok": true,
+      "acquisition_history": [
+        "HTTP Error 406: Not Acceptable",
+        "Success with source-page Referer"
+      ],
+      "author_feedback": "不作为本轮快切段主选；原文件保留。"
+    }
+  ],
+  "voice_references": [
+    {
+      "id": "VOICE-REF-DS-01",
+      "title": "一发入魂！ssr大肥鱼音色！",
+      "creator": "星落落_oi",
+      "url": "https://www.bilibili.com/video/BV1PPYM6EEUR/",
+      "role": "DeepSeek",
+      "finding": "歌唱音色参考。后续《人是猫》简介明确指向本视频；未取得独立对白包或公开合成音色 ID。页面标注未经作者授权禁止转载。",
+      "evidence": "搜索索引正文；浏览器原页待核对",
+      "reusable": false
+    },
+    {
+      "id": "VOICE-REF-DS-02",
+      "title": "deepseek 翻唱《人是猫》真完整版",
+      "creator": "星落落_oi / 蒙德砍壬",
+      "url": "https://www.bilibili.com/video/BV1fYpn6SEk9/",
+      "role": "DeepSeek",
+      "finding": "简介明确写音色参考 BV1PPYM6EEUR；证明该系列的声线关系，不证明对白可复用。",
+      "evidence": "搜索索引正文",
+      "reusable": false
+    },
+    {
+      "id": "VOICE-REF-GPT-01",
+      "title": "GPT小龙娘开始融入DeepSeek大家庭了",
+      "creator": "这个刀子真甜",
+      "url": "https://www.bilibili.com/video/BV1EvKK6NEoi/",
+      "role": "GPT / DeepSeek",
+      "finding": "相关角色成片与壁纸；形象注明 ZipZipPipe。未找到配音音色编号或独立人声下载。",
+      "evidence": "搜索索引正文；直接抓取412",
+      "reusable": false
+    },
+    {
+      "id": "VOICE-REF-CL-01",
+      "title": "DS娘部署了Q娘帮自己干活",
+      "creator": "奶糕兽",
+      "url": "https://www.bilibili.com/video/BV1D4MS6jE36/",
+      "role": "Claude / 千问 / DeepSeek",
+      "finding": "系列列表出现《当我把散文中的珍珠鸟改成 Claude》《Claude和鱼尾草》，是作者线索；本视频并非已核实的 Claude 声音样本。",
+      "evidence": "搜索索引正文；直接抓取412",
+      "reusable": false
+    },
+    {
+      "id": "VOICE-REF-ENSEMBLE-01",
+      "title": "模型洄游：AI之间的模术回战先行预告",
+      "creator": "盐水哈基米",
+      "url": "https://www.bilibili.com/video/BV1UmY56GEEa/",
+      "role": "GPT / Gemini / Claude / Grok / DeepSeek",
+      "finding": "简介说明配音音频为后期替换，剧情参考咒术回战；不能当作五个角色的公开原创音源。",
+      "evidence": "搜索索引正文",
+      "reusable": false
+    },
+    {
+      "id": "VOICE-REF-FISH-01",
+      "title": "10月7日AI圈7件事",
+      "creator": "AI鼓励师_悠一",
+      "url": "https://www.bilibili.com/video/BV1arpN6FEHv/",
+      "role": "DeepSeek",
+      "finding": "简介标注 Fish Audio「苏晓晓」。这是现成音色名称线索；音色 ID、当前可用性及是否符合宝宝造型未核实。",
+      "evidence": "搜索索引正文",
+      "reusable": false
+    },
+    {
+      "id": "VOICE-REF-DS-03",
+      "title": "Let me go大肥鱼和用户深情对唱",
+      "creator": "星落落_oi",
+      "url": "https://www.bilibili.com/video/BV13SYr6dEiQ/",
+      "role": "DeepSeek",
+      "finding": "原页简介标注作曲为谱乐 AI，并提到谱乐及剪映会员；未标明可调用的独立对白声线。",
+      "evidence": "内置浏览器实际读取原页简介；播放器连播到此页。未进行听审。",
+      "reusable": false
+    }
+  ],
+  "casting": [
+    {
+      "role": "DeepSeek",
+      "voice_direction": "作者指定：以「这个刀子真甜」的鲸鱼宝宝系列为声音参考。撤销“年幼小女孩”的泛化设计；先核对宝宝对白里的音色质地、咬字和节奏，再制作新候选。不是大肥鱼歌唱SSR系列。",
+      "first_shot": "CY003",
+      "first_acting": "自然递饭，像分享自己最喜欢的食物。",
+      "contrast_shot": "CY006",
+      "contrast_acting": "着急求助，气息短但字句完整；不要全程哭腔。",
+      "status": "待合成试音",
+      "adopted_voice": null,
+      "review_status": "作者否决 · 保留旧样本",
+      "author_feedback": "像普通人类小孩，完全不像鲸鱼宝宝。 作者追加指定声音参考博主：这个刀子真甜。",
+      "reference_creator": "这个刀子真甜",
+      "reference_selection": "作者明确指定博主；尚未选定具体对白采样区间。",
+      "reference_url": "https://www.bilibili.com/video/BV1EvKK6NEoi/"
+    },
+    {
+      "role": "ChatGPT",
+      "voice_direction": "保留现有音色作为比较基线；具体加重威严、成熟度或冷感尚未确认，不擅自换声线。",
+      "first_shot": "CY007",
+      "first_acting": "拒绝时有停顿与压住的犹豫，不冷笑。",
+      "contrast_shot": "CY027B",
+      "contrast_acting": "轻而短、干脆截断；不喊成战斗口号。",
+      "status": "待合成试音",
+      "adopted_voice": null,
+      "review_status": "方向接近 · 尚未定稿",
+      "author_feedback": "作者认为很接近，仍希望进一步调整；具体微调方向未说完整。"
+    },
+    {
+      "role": "Claude",
+      "voice_direction": "成熟的年轻女性声，柔和而压抑，降低幼态与甜腻。护住宝宝时由压住的情绪突然用力，短促、急切，不作幼童尖叫；这是下一版方向建议，未生成。",
+      "first_shot": "CY020",
+      "first_acting": "先短吸气，护住宝宝的瞬间突然用力；尾音体力不支。",
+      "contrast_shot": null,
+      "contrast_acting": null,
+      "status": "待合成试音",
+      "adopted_voice": null,
+      "review_status": "作者否决 · 保留旧样本",
+      "author_feedback": "年龄感变成小女孩，情绪和语调也不对。"
+    },
+    {
+      "role": "教主",
+      "voice_direction": "低沉成年男声，庄严表面下带控制欲。",
+      "first_shot": "CY017",
+      "first_acting": "近乎温柔地宣判，平静更可怕。",
+      "contrast_shot": "CY027A",
+      "contrast_acting": "被挑战权威，咬住条约二字；不持续咆哮。",
+      "status": "待合成试音",
+      "adopted_voice": null
+    },
+    {
+      "role": "教徒",
+      "voice_direction": "偏干、直接的成年男声，与教主音色区分。",
+      "first_shot": "CY004",
+      "first_acting": "冷漠通告，勿解说腔。",
+      "contrast_shot": null,
+      "contrast_acting": null,
+      "status": "待合成试音",
+      "adopted_voice": null
+    },
+    {
+      "role": "千问",
+      "voice_direction": "温润、沉稳的年轻女性声，落字清晰。",
+      "first_shot": "CY026A1",
+      "first_acting": "毫不迟疑的同意，短而稳。",
+      "contrast_shot": null,
+      "contrast_acting": null,
+      "status": "待合成试音",
+      "adopted_voice": null
+    },
+    {
+      "role": "Gemini",
+      "voice_direction": "清亮、灵动的年轻女性声，与宝宝年龄感分开。",
+      "first_shot": "CY026B",
+      "first_acting": "轻快主动，有行动感。",
+      "contrast_shot": null,
+      "contrast_acting": null,
+      "status": "待合成试音",
+      "adopted_voice": null
+    },
+    {
+      "role": "Grok",
+      "voice_direction": "略低、带一点沙感的年轻女性声。",
+      "first_shot": "CY026C",
+      "first_acting": "自信、轻微笑意，不夸张嘲讽。",
+      "contrast_shot": null,
+      "contrast_acting": null,
+      "status": "待合成试音",
+      "adopted_voice": null
+    },
+    {
+      "role": "Kimi",
+      "voice_direction": "轻、柔、偏冷的年轻女性声。",
+      "first_shot": "CY026D",
+      "first_acting": "从困倦转为认真；短应声，不拖成长呻吟。",
+      "contrast_shot": null,
+      "contrast_acting": null,
+      "status": "待合成试音",
+      "adopted_voice": null
+    }
+  ],
+  "conclusion": "按作者听审修订：DeepSeek与Claude首轮试音否决，GPT音色接近但待微调。前三首原配乐降为慢节奏备选；新一轮优先经典电影／史诗曲的熟悉度与短段推进。 作者随后明确指定DeepSeek声音参考博主为「这个刀子真甜」，不是SSR歌唱系列；具体片段尚未提取。",
+  "listening_status": "作者已试听旧三首配乐与三句试音，反馈已逐项记录。新五首为来源核实后的待试听候选；未完成实际听审，不提供猜测的秒级入出点。",
+  "generation_status": "本轮不重复按失败声线方向抽取试音。旧FLAC及请求保留；GPT留作基线。先确定DeepSeek参考与Claude成熟度、表演方向，再制作下一版。",
+  "search_status": "DeepSeek Search 两次401。作者同意改普通网页搜索及内置浏览器；B站直接抓取412。未下载、克隆或转载博主配音。",
+  "cue_design": [
+    {
+      "scenes": [
+        "S01",
+        "S06"
+      ],
+      "music_id": null,
+      "direction": "首尾保留温柔主题与留白，不为全片快切强行加战鼓；旧曲仅保留为备选。"
+    },
+    {
+      "scenes": [
+        "S02",
+        "S03",
+        "S04"
+      ],
+      "music_id": null,
+      "direction": "脚步、锁链、火把入水等信息优先；音乐要有脉冲但不提前用完史诗高潮。中段新曲未选定。"
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "music_id": null,
+      "direction": "比较两套方案：烽火台主题服务跨地域召集；Victory或Heart of Courage服务破门与援军群像。不是五首全部拼接。条约对白压乐、聒噪留白；起飞强光后立即收束并进入救援。"
+    }
+  ],
+  "previous": "资产/生成记录/声音候选-v004.json",
+  "workflow_source": "G:/comfyui/ComfyUI/ComfyUI/user/default/workflows/90-高级备选-待验证/声音与音乐/VoxCPM2-中文配音与声音设计.json",
+  "audition_record": "资产/生成记录/主角试音-v001.json",
+  "rights_note": "未发现以上电影原声可无条件直接用于本片的证据。正式发布需核实发行平台曲库是否覆盖所选录音和使用场景，或取得相应授权；音乐可试听/购买不等于视频使用许可。本轮未购买、申请授权或联系他人。",
+  "research_sources": [
+    "https://warnerchappell.com/faqs/",
+    "https://www.extrememusic.com/albums/3602",
+    "https://www.extrememusic.com/discover/labels/two-steps-from-hell",
+    "https://embed.spotify.com/?uri=spotify%3Aartist%3A2qvP9yerCZCS0U1gZU8wYp",
+    "https://www.youtube.com/watch?v=s4LX9NX7hS4"
+  ]
+}

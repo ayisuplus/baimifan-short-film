@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "source_sha256": "64211b935fc38d7bb7cdcf1edeaec1a970d730bf2ffdbb868875fa6615e1367a",
+  "changed_shots": {
+    "CY024A10": {
+      "path": "镜头设计/图像/扇子法术-v061/CY024A10-v061-r1.png",
+      "sha256": "0579bb50c23171833b9ecefc4f0d5cd635e6704e50139e9eb9e388b053dc5eeb"
+    },
+    "CY024A11": {
+      "path": "镜头设计/图像/扇子法术-v061/CY024A11-v061-r1.png",
+      "sha256": "c8a40fed7ceb385600ae99f79fe35636bb8d6c224f03528329619400759f868d"
+    },
+    "CY024A12": {
+      "path": "镜头设计/图像/扇子法术-v061/CY024A12-v061-r1.png",
+      "sha256": "a1a3f5396ba7320021b177a6fba7fa8bb694993e13f4d1152a7275e2185d9962"
+    }
+  },
+  "audio_outputs_identical": true,
+  "timing_dialogue_unchanged": true,
+  "author_adoption": false,
+  "video_generated": false
+}

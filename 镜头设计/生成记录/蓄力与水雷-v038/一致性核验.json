@@ -1,0 +1,17 @@
+{
+  "version": "v038",
+  "shots": 115,
+  "seconds": 381,
+  "revised_images": [
+    "CY024A5",
+    "CY024B",
+    "CY024B1"
+  ],
+  "other_112_shots_identical": true,
+  "all_dialogue_subtitles_audio_timing_unchanged": true,
+  "music_budget_unchanged": true,
+  "local_links_verified": 319,
+  "images_decoded": 3,
+  "visual_review": "Three generated stills actually viewed; charging hand/orb, single torrent and shield impact, larger wave accepted as candidates.",
+  "limits": "No animation, audio generation or browser playback verification."
+}

@@ -1,0 +1,1 @@
+{"schema": "envelope/1", "type": "envelope", "ok": true, "command": "download", "version": "1.22.0", "where": "local", "data": {"prompt_id": "2d98c163-057e-4df0-8068-14f121ca8d34", "urls": ["http://127.0.0.1:8188/view?filename=palace_realesrgan_00001_.png&subfolder=Baimifan%5CUpscale_20261031&type=output"]}, "error": null}

@@ -1,0 +1,27 @@
+{
+  "shots": 127,
+  "seconds": 420.5,
+  "original_shot_order_preserved": true,
+  "original_126_durations_and_dialogue_unchanged": true,
+  "original_music_candidates_identical": true,
+  "music_files_hash_verified": 55,
+  "new_shot": "CY024B3A",
+  "new_shot_seconds": 2,
+  "current_images_verified": 17,
+  "selected_music_marks": "Browser verified 5/6 scenes and 5/127 shots; no mark operations performed",
+  "video_produced": false,
+  "audio_produced": false,
+  "final_plan_sha256": "9286edd3c88a09f99ca7d3b859621105b74ecfc2d23c5772aa363cdde875a062",
+  "final_script_sha256": "e26436e48859d78fceeda80d7f619bc96c2769569b52d02a3a36af35aacfb96d",
+  "previous_html_snapshot_identical": true,
+  "stale_continuity_phrases_removed": true,
+  "browser_errors": [],
+  "browser_previews": [
+    "CY024A1-v045-r3.png",
+    "CY024B3A-v045-r1.png"
+  ],
+  "screenshots": [
+    "后期/暗月瞬临-v045/预演核验.png",
+    "后期/暗月瞬临-v045/抱护承压核验.png"
+  ]
+}

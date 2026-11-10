@@ -1,0 +1,434 @@
+{
+  "1": {
+    "inputs": {
+      "unet_name": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+      "weight_dtype": "default"
+    },
+    "class_type": "UNETLoader",
+    "_meta": {
+      "title": "Ref2VA UNET"
+    }
+  },
+  "2": {
+    "inputs": {
+      "model": [
+        "1",
+        0
+      ]
+    },
+    "class_type": "MiniMaxH3MemoryEfficientSageAttentionPatch",
+    "_meta": {
+      "title": "H3 Memory Sage"
+    }
+  },
+  "3": {
+    "inputs": {
+      "lora_name": "minimax_h3_ref2v_turbo_8step_v1.0_768p_comfyui_bf16.safetensors",
+      "strength_model": 1.0,
+      "model": [
+        "2",
+        0
+      ]
+    },
+    "class_type": "LoraLoaderModelOnly",
+    "_meta": {
+      "title": "Turbo 8步"
+    }
+  },
+  "4": {
+    "inputs": {
+      "clip_name": "qwen3vl_32b_minimax_h3_int8_convrot.safetensors",
+      "type": "minimax",
+      "device": "default"
+    },
+    "class_type": "CLIPLoader",
+    "_meta": {
+      "title": "H3 CLIP"
+    }
+  },
+  "5": {
+    "inputs": {
+      "vae_name": "minimax_h3_video_vae_fp16.safetensors"
+    },
+    "class_type": "VAELoader",
+    "_meta": {
+      "title": "视频 VAE"
+    }
+  },
+  "6": {
+    "inputs": {
+      "vae_name": "minimax_h3_audio_vae_fp32.safetensors"
+    },
+    "class_type": "VAELoader",
+    "_meta": {
+      "title": "音频 VAE"
+    }
+  },
+  "7": {
+    "inputs": {
+      "image": "纸间慢午后·光构变奏 02｜居中近景·柔光托颏.png"
+    },
+    "class_type": "LoadImage",
+    "_meta": {
+      "title": "替换参考图"
+    }
+  },
+  "8": {
+    "inputs": {
+      "prompt": "subject_definitions:\n<Subject 1> is the adult woman in <Picture 1>, with the same brown twin braids, pale blue ribbons, face proportions, gray knitted cardigan and ivory layered dress. <Subject 2> is the autumn window reading room from the same picture.\nsummary:\n[reference generation] A single continuous shot with a clearly readable, moderately broad human action, flowing through anticipation, extension, a visible gesture peak and a soft landing. The action has enough travel to be seen at phone viewing size. It is not a frozen portrait with moving accessories.\nretention_analysis:\nPreserve the depicted woman's facial identity and realistic facial detail, hairstyle and clothing while allowing natural head, arm and upper-body movement. Match the reference room, window geometry, warm light and tactile ivory paper relief, layered paper fibers and torn edges. Keep fingers anatomically coherent, the body supported by the same seat and feet/legs plausible. Keep the camera fixed and all originally visible body parts framed. No internal cuts, new people, extra limbs, talking, lip-sync, facial melting, warped window bars, new titles, captions, prompt text, logos or watermark. Do not freeze the head or hands to protect the face; preserve their appearance while they move.\n\ndetailed_description:\n[Shot 1] Start in the source chin-and-cheek resting pose, with both elbows supported by her legs. During 0.0-0.5 seconds she is already beginning to lift her head. During 0.5-2.3 seconds she visibly releases her chin from the supporting hand, lets that hand lower to her lap, lifts her head from the pronounced tilt and straightens her upper torso. The other hand, originally touching the cheek on the image-right side, separates naturally from her cheek. Around 2.3 seconds the rising action reaches a clear turning point. During 2.3-3.2 seconds that image-right hand brushes a loose hair strand away from her cheek once. Continue the same arm movement during 3.2-4.5 seconds into a broad outward arc toward the bright window on the image-right: extend the forearm 25-35 centimeters with an open relaxed palm at shoulder height, all fingers still inside the image. Her head and shoulders turn about 20-25 degrees toward that hand and window, with her gaze following. The open palm reaches its strongest readable extension around 4.5 seconds. During 4.5-5.8 seconds the hand and shoulders settle softly into the extended pose; hold the new pose through the end. The motion must be easy to read at normal playback speed, with clear arm travel and body change. Keep her facial identity coherent through the head turn; no wide smile or speaking. Retain the original seat, legs, dress and background; do not stand, reverse the action, add a new object or return to the original chin-resting pose. Hair and ribbons may follow the arm/head motion naturally.\noverall_soundscape:\nNo dialogue. Generated sound will be discarded.\nnon_diegetic_music:\nA separately selected piano recording will be added during editing. The described action events are timing targets, not a claim of exact model timing.\n",
+      "duration_sec": 6.583333333333333,
+      "ref_image_size": "match",
+      "ref_images.ref_image_0": [
+        "7",
+        0
+      ]
+    },
+    "class_type": "MiniMaxH3DirectorGroupReferenceToVideo",
+    "_meta": {
+      "title": "提示词与参考图连线"
+    }
+  },
+  "9": {
+    "inputs": {
+      "shift_video": 6.0,
+      "shift_audio": 3.0,
+      "model": [
+        "3",
+        0
+      ]
+    },
+    "class_type": "MiniMaxH3SigmaShift",
+    "_meta": {
+      "title": "仅二采噪声表使用 Shift"
+    }
+  },
+  "10": {
+    "inputs": {
+      "scheduler": "beta",
+      "steps": 3,
+      "denoise": 0.2,
+      "model": [
+        "9",
+        0
+      ]
+    },
+    "class_type": "BasicScheduler",
+    "_meta": {
+      "title": "二采 3步 / 0.2"
+    }
+  },
+  "11": {
+    "inputs": {
+      "mode": "refine",
+      "upscale_method": "lanczos",
+      "latent_upscale_model": "ltx-2.3-spatial-upscaler-x2-1.1.safetensors",
+      "sampler": "euler",
+      "passes": 1,
+      "seed_mode": "inherit",
+      "aspect_ratio": "跟随导演台",
+      "megapixels": 1.0,
+      "width": 1280,
+      "height": 720,
+      "skip_fl2v": true,
+      "confirm_first_pass": false,
+      "enable_latent_chunking": false,
+      "enable_tiling": false,
+      "tile_count": 2,
+      "tile_overlap": 128,
+      "seed": 0,
+      "sigmas": [
+        "10",
+        0
+      ]
+    },
+    "class_type": "MiniMaxH3DirectorRefine",
+    "_meta": {
+      "title": "同尺寸二采，复用 Turbo"
+    }
+  },
+  "12": {
+    "inputs": {
+      "task_type": "r2v — 参考主体生视频(Reference to Video)",
+      "global_prompt": "",
+      "bd_grp_sample": "采样设置",
+      "cfg": 1.0,
+      "seed": 2026101542,
+      "frame_rate": 24.0,
+      "width": 832,
+      "height": 1248,
+      "ref_max_size": 1248,
+      "total_frames": 158,
+      "timeline_data": "{\"output\": {\"mode\": \"fixed\", \"width\": 832, \"height\": 1248, \"aspectRatio\": \"2:3 (竖版照片)\", \"megapixels\": 1.0, \"multiple\": 32, \"audioMode\": \"generate\", \"exportMode\": \"all\", \"continuityEnabled\": false}}",
+      "bd_grp_advanced": "高级采样",
+      "steps": 8,
+      "sampler": "euler",
+      "scheduler": "simple",
+      "shift_video": 6.0,
+      "shift_audio": 3.0,
+      "bd_grp_perf": "性能",
+      "clear_vram_between_segments": true,
+      "clear_vram_before_refine": true,
+      "clear_vram_before_face_refine": true,
+      "cache_frames_codec": "raw",
+      "export_source_images": false,
+      "export_pre_face_refine": true,
+      "model": [
+        "3",
+        0
+      ],
+      "video_vae": [
+        "5",
+        0
+      ],
+      "audio_vae": [
+        "6",
+        0
+      ],
+      "clip": [
+        "4",
+        0
+      ],
+      "r2v_groups": [
+        "8",
+        0
+      ],
+      "refine": [
+        "11",
+        0
+      ],
+      "face_refine": [
+        "26",
+        0
+      ]
+    },
+    "class_type": "MiniMaxH3Director",
+    "_meta": {
+      "title": "H3 一采 → 二采（1.0MP）"
+    }
+  },
+  "13": {
+    "inputs": {
+      "bit_depth": "auto",
+      "color_space": "sRGB",
+      "codec": "none",
+      "images": [
+        "12",
+        6
+      ],
+      "fps": [
+        "12",
+        2
+      ]
+    },
+    "class_type": "CreateVideo",
+    "_meta": {
+      "title": "一采画面，仅比较，无音轨"
+    }
+  },
+  "14": {
+    "inputs": {
+      "filename_prefix": "OpenCut/canvas-7/SaveVideo",
+      "format": "mp4",
+      "video": [
+        "13",
+        0
+      ],
+      "format.codec": "h264"
+    },
+    "class_type": "SaveVideo",
+    "_meta": {
+      "title": "保存一采"
+    }
+  },
+  "15": {
+    "inputs": {
+      "bit_depth": "auto",
+      "color_space": "sRGB",
+      "codec": "none",
+      "images": [
+        "12",
+        0
+      ],
+      "fps": [
+        "12",
+        2
+      ],
+      "audio": [
+        "12",
+        1
+      ]
+    },
+    "class_type": "CreateVideo",
+    "_meta": {
+      "title": "二采画面与生成音轨"
+    }
+  },
+  "16": {
+    "inputs": {
+      "filename_prefix": "OpenCut/canvas-7/SaveVideo",
+      "format": "mp4",
+      "video": [
+        "15",
+        0
+      ],
+      "format.codec": "h264"
+    },
+    "class_type": "SaveVideo",
+    "_meta": {
+      "title": "保存二采"
+    }
+  },
+  "17": {
+    "inputs": {
+      "filename_prefix": "OpenCut/canvas-7/SaveText",
+      "format": "txt",
+      "text": [
+        "12",
+        5
+      ]
+    },
+    "class_type": "SaveText",
+    "_meta": {
+      "title": "保存二采执行报告"
+    }
+  },
+  "18": {
+    "inputs": {
+      "source": [
+        "12",
+        5
+      ]
+    },
+    "class_type": "PreviewAny",
+    "_meta": {
+      "title": "核对报告，失败可能回退一采"
+    }
+  },
+  "21": {
+    "inputs": {
+      "model_bundle": "VOSR2",
+      "precision": "auto",
+      "memory_policy": "auto",
+      "torch_compile": false,
+      "vae_encode_amp": false
+    },
+    "class_type": "TESpeedVOSR2Loader",
+    "_meta": {
+      "title": "VOSR2 本机已有模型"
+    }
+  },
+  "22": {
+    "inputs": {
+      "quality_profile": "manual",
+      "tile_strategy": "auto",
+      "tile_size": 512,
+      "tile_overlap": 32,
+      "vae_tile_size": 1024,
+      "vae_tile_overlap": 32,
+      "image_batch": 1,
+      "frame_batch": 2,
+      "dino_batch": 2,
+      "temporal_cache": false,
+      "cache_threshold": 0.003,
+      "cache_refresh": 4,
+      "memory_policy": "auto",
+      "color_alignment": "wavelet"
+    },
+    "class_type": "TESpeedVOSR2Settings",
+    "_meta": {
+      "title": "VOSR2 分块推理"
+    }
+  },
+  "23": {
+    "inputs": {
+      "scale": 2,
+      "seed": 20261006,
+      "frame_batch": 0,
+      "temporal_cache": false,
+      "cache_threshold": 0.003,
+      "cache_refresh": 4,
+      "model": [
+        "21",
+        0
+      ],
+      "images": [
+        "12",
+        0
+      ],
+      "settings": [
+        "22",
+        0
+      ]
+    },
+    "class_type": "TESpeedVOSR2Video",
+    "_meta": {
+      "title": "二采成片 → VOSR2 2倍"
+    }
+  },
+  "24": {
+    "inputs": {
+      "bit_depth": "auto",
+      "color_space": "sRGB",
+      "codec": "none",
+      "images": [
+        "23",
+        0
+      ],
+      "fps": [
+        "12",
+        2
+      ],
+      "audio": [
+        "12",
+        1
+      ]
+    },
+    "class_type": "CreateVideo",
+    "_meta": {
+      "title": "超分画面与二采音轨"
+    }
+  },
+  "25": {
+    "inputs": {
+      "filename_prefix": "OpenCut/canvas-7/SaveVideo",
+      "format": "mp4",
+      "video": [
+        "24",
+        0
+      ],
+      "format.codec": "h264"
+    },
+    "class_type": "SaveVideo",
+    "_meta": {
+      "title": "保存最终超分；上游比较片同时保存"
+    }
+  },
+  "26": {
+    "inputs": {
+      "bd_grp_face_detect": "脸部检测设置",
+      "detector": "face_yolov8m.pt",
+      "confidence": 0.35,
+      "crop_factor": 2.5,
+      "canvas_width": 768,
+      "canvas_height": 768,
+      "canvas_mode": "manual",
+      "select": "largest_face",
+      "bd_grp_face_sample": "采样设置",
+      "denoise": 0.4,
+      "steps": 8,
+      "sampler": "euler",
+      "scheduler": "simple",
+      "seed_mode": "inherit",
+      "bd_grp_face_paste": "贴回设置",
+      "paste_region": "face_only",
+      "mask_dilation": 16,
+      "feather": 24,
+      "colour_match": 1.0,
+      "blend": 1.0
+    },
+    "class_type": "MiniMaxH3DirectorFaceRefine",
+    "_meta": {
+      "title": "H3 自动修脸"
+    }
+  }
+}

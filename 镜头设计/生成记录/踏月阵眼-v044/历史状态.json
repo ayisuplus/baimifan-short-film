@@ -1,0 +1,22 @@
+{
+  "status": "historical_direction_not_selected",
+  "current_revision": "v045",
+  "images": [
+    {
+      "path": "镜头设计/图像/踏月阵眼-v044/CY024B3-v044-r1.png",
+      "sha256": "c8c556ed835ef86e70e71f1b47389ba6933b4920a0df5e898d09807d3cc04ee3",
+      "status": "superseded_preserved_not_in_current_previs"
+    },
+    {
+      "path": "镜头设计/图像/踏月阵眼-v044/CY024K0-v044-r1.png",
+      "sha256": "bbe2010c3712370a7ed82b35f2108b4180ba3cff1a427df974c7b91d5a383808",
+      "status": "superseded_preserved_not_in_current_previs"
+    },
+    {
+      "path": "镜头设计/图像/踏月阵眼-v044/CY024K2-v044-r1.png",
+      "sha256": "319e32544034d35006b71de10dd6fa1e5ef475f88790379579940b99e9d6e87f",
+      "status": "superseded_preserved_not_in_current_previs"
+    }
+  ],
+  "requests_note": "冻结请求不等于实际执行。仅本表列出的8张（v043五张、v044三张）有图像结果；其余请求随作者改方案未执行。"
+}

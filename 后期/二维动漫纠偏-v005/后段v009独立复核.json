@@ -1,0 +1,200 @@
+{
+  "version": "v009-independent-late-review",
+  "status": "video_review_completed_with_local_editorial_fix",
+  "scope": [
+    "B17",
+    "B25",
+    "B37"
+  ],
+  "keyframes": [
+    {
+      "batch": "B17",
+      "path": "视频制作/Metaso-H3-v009/参考/group-2d-keyframe.png",
+      "style_pass": true,
+      "observation": "人物五官/轮廓由线稿定义，发束和衣褶由明确色块与硬边阴影组织，主体已摆脱上一版光滑人偶材质；不是只给原渲染加轮廓线。",
+      "continuity_watch": "门口外墙有破败、露天与碎石，较旧片强调了遗迹感。须核对本段叙事时点是否允许这些损坏，不能把二维纠偏变成提前破坏场景。",
+      "proposed_video_source_frames": [
+        24,
+        84
+      ]
+    },
+    {
+      "batch": "B25",
+      "path": "视频制作/Metaso-H3-v009/参考/wing-2d-keyframe.png",
+      "style_pass": true,
+      "observation": "肤色、白裙和翼膜明暗边界清楚，翼骨以线形和有限分面组织，已不再是粗圆橡胶柱状渲染。屈膝俯身蓄势明确，适合作为先发力后腾空的动作起点。",
+      "motion_watch": "必须从此蓄势姿态发展为翼面下压、躯干起身和离地，不能只是整幅推近。嘴在配音有效开始前保持闭合，只有GPT本句驱动。",
+      "selected_audio_audible_seconds": [
+        4.057542,
+        6.296667
+      ],
+      "proposed_video_source_frames": [
+        0,
+        174
+      ]
+    },
+    {
+      "batch": "B37",
+      "path": "视频制作/Metaso-H3-v009/参考/stairs-2d-keyframe.png",
+      "style_pass": true,
+      "observation": "Claude橙发、GPT袖褶与千问衣裙均由明确线条和绘制色块组织，先前发片/雕塑表面感消除。上下阶差、扶肩和抱孩子关系仍清晰。",
+      "mouth_watch": "小鱼和千问底图嘴部略张，回片必须排除两者替Claude持续说话；Claude短问句从背侧发出，构图本身不需要展示其口型。",
+      "proposed_video_source_frames": [
+        0,
+        82
+      ]
+    }
+  ],
+  "video_reviews": [
+    {
+      "batch": "B17",
+      "candidate": "视频制作/Metaso-H3-v009/产物/GB014-v009-group-2d-r1.mp4",
+      "actual_frames": 124,
+      "style_pass": true,
+      "motion_pass": true,
+      "decision": "可剪入待用户核验版",
+      "source_frames": [
+        24,
+        84
+      ],
+      "duration_frames": 60,
+      "observations": [
+        "主体轮廓与衣裙阴影边界保持二维；不再延续v008厚实体人偶材质。",
+        "角色逐步走进，腿部重心、头发和衣摆有对应运动；约2.5–3.5秒同伴开始抬起武器警戒，区别于静态立绘横移。",
+        "首秒省去可避免额外环境开场。1–3.5秒涵盖入场并开始警戒，60帧槽位成立。"
+      ],
+      "mouth": "GPT脸在全景仅占小面积，嘴部只有数个像素；未见明显别的角色持续替说，不能据此证明日语逐音素同步。有效原音1.550–2.493秒应保持。",
+      "continuity": "本轮回片以门框/破损窗和门口碎木为主，未表现新的坍塌事件；主任务补充原截图顶部本已有损坏，因此不将已有破损直接升级为新剧情错误。",
+      "evidence": [
+        "证据/independent-GB014-v009-group-2d-r1-0.jpg",
+        "证据/independent-GB014-v009-group-2d-r1-full.png",
+        "证据/independent-GB014-v009-group-2d-r1-mouth.jpg"
+      ]
+    },
+    {
+      "batch": "B25",
+      "candidate": "视频制作/Metaso-H3-v009/产物/GB018-v009-gpt-rise-2d-r1.mp4",
+      "actual_frames": 192,
+      "style_pass": true,
+      "motion_pass": true,
+      "decision": "可局部后期修口型头尾后剪入；不按原0–174整段直接通过",
+      "duration_frames": 174,
+      "observations": [
+        "0–0.5秒保留屈膝蓄势与翼面下压，随后身体伸展离地，衣发滞后和脚下气流对应发力，起飞动作因果成立。",
+        "2秒后悬浮是起飞后的持续状态，与首秒发力有区别，不是全段只有立绘平移。",
+        "翼膜、翼骨及衣裙保持线稿和硬边色块；虽然回片有所柔化，未回到v008圆滑塑料模型主导的观感。"
+      ],
+      "mouth": {
+        "selected_audio_audible_seconds": [
+          4.057542,
+          6.296667
+        ],
+        "observed": "2–3.5秒大致闭口，约3.625秒微张、3.875秒可辨开口，早于原声。4–6.625秒有开闭变化；6.75秒以后闭口。",
+        "limitation": "这里只核对大段开闭，不能声称每个日语音素精确同步。小范围早张口和尾部静音嘴动可用无嘴插镜/闭口余势处理。"
+      },
+      "edit": [
+        {
+          "output_frames": [
+            0,
+            84
+          ],
+          "source_frames": [
+            0,
+            84
+          ],
+          "speed": 1,
+          "treatment": "完整起飞及悬浮，原速"
+        },
+        {
+          "output_frames": [
+            84,
+            102
+          ],
+          "source_frames": [
+            84,
+            102
+          ],
+          "speed": 1,
+          "treatment": "同源左翼无脸特写，原速，音轨连续",
+          "crop_source_pixels": {
+            "x": 0,
+            "y": 0,
+            "width": 544,
+            "height": 306,
+            "source_width": 1344,
+            "source_height": 768
+          },
+          "reason": "遮住提前张嘴，顺势强调翼面气流；最后约0.19秒在翼膜特写上听到咏唱起音，然后切回发声者。"
+        },
+        {
+          "output_frames": [
+            102,
+            152
+          ],
+          "source_frames": [
+            102,
+            152
+          ],
+          "speed": 1,
+          "treatment": "原脸部发声段，不改变速度或声音位置"
+        },
+        {
+          "output_frames": [
+            152,
+            174
+          ],
+          "source_frames": [
+            162,
+            184
+          ],
+          "speed": 1,
+          "treatment": "用后段22帧闭口余势替换尾部静音嘴动；原声已于6.297秒附近结束"
+        }
+      ],
+      "edit_boundary_watch": "最后闭口余势替换为同机位小幅时间跳切；应在实际时间线检查头发/翼面连贯，如明显可用2–3帧很短融合，不能长叠化产生双脸。",
+      "evidence": [
+        "证据/independent-GB018-v009-gpt-rise-2d-r1-0.jpg",
+        "证据/independent-GB018-v009-gpt-rise-2d-r1-1.jpg",
+        "证据/independent-GB018-v009-gpt-rise-2d-r1-full.png",
+        "证据/independent-v009-wing-mouth-0.jpg",
+        "证据/independent-v009-wing-mouth-1.jpg",
+        "证据/independent-v009-wing-insert-crop.png"
+      ]
+    },
+    {
+      "batch": "B37",
+      "candidate": "视频制作/Metaso-H3-v009/产物/GB027-v009-stair-eyeline-2d-r1.mp4",
+      "actual_frames": 107,
+      "style_pass": true,
+      "motion_pass": true,
+      "decision": "可剪入待用户核验版",
+      "source_frames": [
+        0,
+        82
+      ],
+      "duration_frames": 82,
+      "observations": [
+        "Claude橙发、GPT扶肩手臂与袖口，以及千问和小鱼的衣料仍以线条及清楚的色块塑形；二维纠偏保持住。",
+        "上下阶差、前景GPT/Claude与阶下千问抱孩子的相对关系明确。",
+        "孩子由贴近千问到抬眼，千问有轻微抱紧和抬眼反应，属于适合此处的克制表演；不需要人为加入攻击或大动作。"
+      ],
+      "mouth": "Claude背侧说原短问句。千问和小鱼嘴有微张/保持，但局部连续帧没有明显跟随Claude短句反复开闭的替说现象；未发现需再重拍的错人开口。",
+      "continuity": "接保留的原B38共100帧，仍不重复抱孩子画面或用大幅慢放补时。",
+      "evidence": [
+        "证据/independent-GB027-v009-stair-eyeline-2d-r1-0.jpg",
+        "证据/independent-GB027-v009-stair-eyeline-2d-r1-full.png",
+        "证据/independent-GB027-v009-stair-eyeline-2d-r1-mouth.jpg"
+      ]
+    }
+  ],
+  "approval_limit": "这是独立回片筛查与具体后期建议，尚未验证主任务实施后的实际时间线拼接，也未代替用户最终核验。",
+  "boundaries": [
+    "无API调用",
+    "无Resolve修改",
+    "无视频导出",
+    "不扩大全片"
+  ],
+  "method": "对完整回片每0.25秒抽帧，检查全尺寸中段帧；GPT展翼2–8秒按每0.125秒放大脸部核对大段开闭；群像与阶差另查脸部局部。不是仅审首帧。未完成逐音素听视同步，不能称全片最终验收。",
+  "frame_convention": "24fps，所有区间为左闭右开；保留原选配音及其位置，不采用生成片自带音轨替代。",
+  "conclusion": "B17与B37可按既定60/82帧剪入；B25经18帧无嘴翼特写和22帧闭口尾替换保持174帧，可进入用户核验。三条不需因本轮已发现问题再次重拍。此结论不扩展为全片口型或最终质量全部通过。"
+}

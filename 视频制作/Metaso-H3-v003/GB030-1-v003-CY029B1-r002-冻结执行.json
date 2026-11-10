@@ -1,0 +1,56 @@
+{
+  "batch": {
+    "batch_number": 40,
+    "batch_id": "GB030-1",
+    "attempt_id": "GB030-1-v003-CY029B1-r002",
+    "title": "放出一枚火种、火种主观逼近空架、触木后骤然燃起、收手后脱力、及时托住",
+    "shot_ids": [
+      "CY029B1"
+    ],
+    "film_start": 440.662729,
+    "part_offset": 0,
+    "used_seconds": 4.36,
+    "duration": 5,
+    "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。单镜，保持首帧双手、衣袖、指端小亮点、冷蓝光线及静止背景。双手停在原处，仅右手指缓缓伸展。4.1秒时，指端既有的唯一小亮点沿画左方向离指，保持原大小；手留在原位。",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/Metaso-H3-v003/修订参考/CY029B1-承39末帧.png",
+        "sha256": "1e0cf4ab7a4538975406d9d0be475ccad2ad537f7ef276d472140476ad524926",
+        "role": "first_frame"
+      }
+    ],
+    "estimated_credits": 51.0,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "上一候选新增背景火源/道具，弃用。改极简正向画面运动，不让VO咏唱内容触发场景重构。",
+    "repair_of": {
+      "attempt_id": "GB030-1-v003-CY029B1",
+      "task_id": "2115178805837225984",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB030-1-v003-CY029B1.mp4"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json",
+    "mode": "first_frame"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。单镜，保持首帧双手、衣袖、指端小亮点、冷蓝光线及静止背景。双手停在原处，仅右手指缓缓伸展。4.1秒时，指端既有的唯一小亮点沿画左方向离指，保持原大小；手留在原位。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115178797767122944"
+        },
+        "role": "first_frame"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 5,
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者要求修复第6、11、20、21、39批剧情与空间错误，沿用已授权Metaso H3积分；40仅必要接头。无充值。"
+}

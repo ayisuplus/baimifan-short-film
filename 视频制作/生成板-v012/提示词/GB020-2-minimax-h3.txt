@@ -1,0 +1,21 @@
+subject_definitions:
+<Picture 1>: [Shot 1] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. Continue the actions below in their listed order, without restarting ongoing motion or speech.
+
+retention_analysis:
+<Picture 1>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Cut from the converging cloud center to the back of the diving head. Break the roof at one site only and bridge the first crack into the next close shot. Use <Picture 1> for composition. A single deep-blue water dragon descends from the cloud sea toward the still-intact central nave. Its massive curved neck and rear head are close to the camera, while towers, long roof ridge and apse establish the height below. The head reaches the designated roof point first and the long foreshortened body follows. At the end, the muzzle strikes and stone tiles open the first breach. The apse roof and side windows remain intact; the dragon does not originate from a hand or the ground. From a steep high angle, descend beside the water dragon's axis as the head falls, retaining the distant cathedral as a scale reference; stop following at roof contact for the cut. Wind tightens into a falling-water roar; the first stone-and-tile crack arrives at the end. No thunder. From 0 to 5.59 seconds, ChatGPT (S1) speaks outside the frame: <d>[Japanese] 今こそ天を開き、大海を翻せ。</d>.
+From 5.59 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 0s: Cut to the water dragon diving.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

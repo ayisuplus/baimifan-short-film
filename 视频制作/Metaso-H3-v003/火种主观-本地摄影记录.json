@@ -1,0 +1,33 @@
+{
+  "method": "本地二维摄影推进，不冒充AI空间重建",
+  "source": "视频制作/Metaso-H3-v003/修订参考/GB030-1-CY029B2-cold-pov-firstframe-r002.png",
+  "source_sha256": "b6878be69f86f0c09118ef2bc91b3578642c72c891082d584d89f1b49a15cca3",
+  "output": "视频制作/Metaso-H3-v003/产物/CY029B2-local-push-v003.mp4",
+  "sha256": "95ac0756284762bcb6bc5502f137ded0a486a1c92a06122a7f010a56f9791d53",
+  "duration": 2,
+  "frames": 48,
+  "frame_rate": 24,
+  "reason": "两次生成均擅自添加背景燃烛；已纠正的冷木纹起态保留全部内容，仅做连续渐快推进。镜末硬切现有外部腾燃，不重复释放。",
+  "command": [
+    "ffmpeg",
+    "-v",
+    "error",
+    "-y",
+    "-i",
+    "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\修订参考\\GB030-1-CY029B2-cold-pov-firstframe-r002.png",
+    "-vf",
+    "scale=3344:1882,zoompan=z='1+0.8*on/47+1.2*pow(on/47,3)':x='iw*0.5-iw/zoom/2':y='ih*(0.5+0.10*on/47)-ih/zoom/2':d=48:s=1344x756:fps=24,pad=1344:768:0:6,setsar=1",
+    "-frames:v",
+    "48",
+    "-an",
+    "-c:v",
+    "libx264",
+    "-crf",
+    "17",
+    "-pix_fmt",
+    "yuv420p",
+    "-movflags",
+    "+faststart",
+    "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\产物\\CY029B2-local-push-v003.mp4"
+  ]
+}

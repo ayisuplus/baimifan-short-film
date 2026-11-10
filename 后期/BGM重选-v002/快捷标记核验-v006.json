@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-24",
+  "version": "v006",
+  "source_unchanged": {
+    "shot-data": true,
+    "music-data": true
+  },
+  "browser_checks": [
+    "mark button and current chosen title",
+    "audition different song preserves mark",
+    "reload preserves mark",
+    "replacement keeps only one chosen song per shot",
+    "different shot remains unmarked",
+    "cancel persists after reload"
+  ],
+  "console_errors": [],
+  "test_marks_removed": true,
+  "storage": "localStorage: chuanyun.bgm-marks.v1; browser-local, not project mapping",
+  "screenshot": "后期/BGM重选-v002/快捷标记-v006.png"
+}

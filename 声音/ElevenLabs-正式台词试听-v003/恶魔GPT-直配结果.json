@@ -1,0 +1,126 @@
+{
+  "role": "恶魔GPT",
+  "status": "web_direct_tts_saved_pending_review",
+  "lines": [
+    {
+      "id": "VO-CY008M-01",
+      "role": "恶魔GPT",
+      "previous_batch": 5,
+      "previous_record_frame": 1288,
+      "previous_ja": "協定を忘れないで。教会のことに手を出しちゃだめ。",
+      "previous_zh": "别忘了协议。教会的事，你不能插手。",
+      "previous_audio_duration_seconds": 3.580000000000003,
+      "status": "revised_draft",
+      "ja": "協定を忘れないで。",
+      "zh_back_translation": "别忘了协议。",
+      "direction": "压低而短促，提醒代价；不夸张打闹，不拖慢孩子正在等待的时间。",
+      "reading_hints": {},
+      "revision_history": [
+        {
+          "version": "v0.66",
+          "ja": "協定を忘れないで。教会のことに手を出しちゃだめ。",
+          "zh_back_translation": "别忘了协议。教会的事，你不能插手。",
+          "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。"
+        }
+      ]
+    }
+  ],
+  "previews": [
+    {
+      "file": "恶魔GPT-直配-JE2UutmGh7NBDN19C6d9.mp3",
+      "candidate": 1,
+      "history": {
+        "alignments": null,
+        "avatar_context": null,
+        "character_count_change_from": 745,
+        "character_count_change_to": 754,
+        "content_type": "audio/mpeg",
+        "date_unix": 1793257931,
+        "dialogue": [
+          {
+            "text": "協定を忘れないで。",
+            "voice_id": "T7yYq3WpB94yAuOXraRi",
+            "voice_name": "Konoha - Professional JP Explainer"
+          }
+        ],
+        "feedback": null,
+        "history_item_id": "JE2UutmGh7NBDN19C6d9",
+        "model_id": "eleven_v4",
+        "output_format": "mp3_44100_128",
+        "request_id": "udUhzdhCVBjzcpaAZc7C",
+        "settings": {
+          "focus": null,
+          "internal_sampling_config": null,
+          "similarity": 0.75,
+          "stability": 0.5,
+          "text_boost": false
+        },
+        "share_link_id": null,
+        "source": "TTS",
+        "state": "created",
+        "text": null,
+        "voice_category": null,
+        "voice_id": null,
+        "voice_name": null
+      },
+      "sha256": "c083cc4407e2e87ae7a47e37b2d94535960d51c90507be502d88e48e6ba6505c",
+      "bytes": 47030,
+      "media": {
+        "format": {
+          "duration": "1.880813"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    },
+    {
+      "file": "恶魔GPT-直配-Qyb5v0xyM2Hm71HuUsry.mp3",
+      "candidate": 2,
+      "history": {
+        "alignments": null,
+        "avatar_context": null,
+        "character_count_change_from": 745,
+        "character_count_change_to": 745,
+        "content_type": "audio/mpeg",
+        "date_unix": 1793257933,
+        "dialogue": [
+          {
+            "text": "協定を忘れないで。",
+            "voice_id": "T7yYq3WpB94yAuOXraRi",
+            "voice_name": "Konoha - Professional JP Explainer"
+          }
+        ],
+        "feedback": null,
+        "history_item_id": "Qyb5v0xyM2Hm71HuUsry",
+        "model_id": "eleven_v4_exp",
+        "output_format": "mp3_44100_128",
+        "request_id": "P6WHj01N0egzXb17l7Ac",
+        "settings": {
+          "focus": null,
+          "internal_sampling_config": null,
+          "similarity": 0.75,
+          "stability": 0.5,
+          "text_boost": false
+        },
+        "share_link_id": null,
+        "source": "TTS",
+        "state": "created",
+        "text": null,
+        "voice_category": null,
+        "voice_id": null,
+        "voice_name": null
+      },
+      "sha256": "955486e9f8df74a8fbb946d7c60b5892a7f5863d7c262aefddc875c7cb6b2c3d",
+      "bytes": 47030,
+      "media": {
+        "format": {
+          "duration": "1.880813"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    }
+  ],
+  "generation_count": 1,
+  "note": "One web submission can produce main and experimental variants; history records actual charge."
+}

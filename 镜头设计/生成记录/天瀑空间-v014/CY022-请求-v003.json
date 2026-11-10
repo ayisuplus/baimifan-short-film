@@ -1,0 +1,13 @@
+{
+  "id": "CY022",
+  "take": 3,
+  "destination": "镜头设计/图像/天瀑空间-v014/CY022-v014-r3.png",
+  "request": "镜头设计/生成记录/天瀑空间-v014/CY022-请求-v003.json",
+  "input": {
+    "prompt": "保留教主在顶部平台用手中火把点燃Claude脚下低柴的动作，保留Claude受缚姿势和头纱花饰、赤足脚托。删除前景DeepSeek，她在远下方不在此镜内。移除背景所有烛台和灯具，背景为高处后殿石柱彩窗。火把和脚下刚燃低柴是本镜仅有可见火源。无文字。",
+    "referenced_image_paths": [
+      "E:/projects/内容创作/穿云/镜头设计/图像/头纱连续-v013/CY022-v013.png"
+    ],
+    "transparent_background": false
+  }
+}

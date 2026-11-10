@@ -1,0 +1,55 @@
+{
+  "batch": {
+    "batch_number": 39,
+    "batch_id": "GB029",
+    "attempt_id": "GB029-v003-CY029E2",
+    "title": "选择继续与凝种",
+    "shot_ids": [
+      "CY029E2"
+    ],
+    "film_start": 427.282729,
+    "part_offset": 2.7,
+    "used_seconds": 2.74,
+    "duration": 4,
+    "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。单镜地面低角度，父亲始终伏在原湿地。起始手臂朝前上方悬空伸出；听到画外Claude继续念咒，0.2–0.8秒动作突然僵住，目光从恳求转为惊惧，随后仅指尖失去力气下坠，手掌缓慢落低，2.5秒结束为半垂手而非攥拳。头胸不抬高，不跪起，不爬行，不做攻击动作，不说话。画外2.64秒原录音『まだ消えぬ温もりをたどり、』从本镜开始沿原时码播放，不把画外女声配到父亲嘴上。保持同一镜，不让地面出现火光。",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/Metaso-H3-v003/修订参考/GB029-CY029E2-firstframe-r001.png",
+        "sha256": "29e20d99724ee00e069623ab160f0a99e4795e6a30e053e8a5ed093a5d503d11",
+        "role": "first_frame"
+      }
+    ],
+    "estimated_credits": 40.8,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "整段重拍：承接悬空伸手与左手扶腕的小火种，不沿用终态反推动作。",
+    "repair_of": {
+      "author_rejected_version": "v002",
+      "batch_id": "GB029"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json",
+    "mode": "first_frame"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。单镜地面低角度，父亲始终伏在原湿地。起始手臂朝前上方悬空伸出；听到画外Claude继续念咒，0.2–0.8秒动作突然僵住，目光从恳求转为惊惧，随后仅指尖失去力气下坠，手掌缓慢落低，2.5秒结束为半垂手而非攥拳。头胸不抬高，不跪起，不爬行，不做攻击动作，不说话。画外2.64秒原录音『まだ消えぬ温もりをたどり、』从本镜开始沿原时码播放，不把画外女声配到父亲嘴上。保持同一镜，不让地面出现火光。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115178728454811648"
+        },
+        "role": "first_frame"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 4,
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者要求修复第6、11、20、21、39批剧情与空间错误，沿用已授权Metaso H3积分；40仅必要接头。无充值。"
+}

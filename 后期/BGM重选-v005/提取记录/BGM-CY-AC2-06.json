@@ -1,0 +1,40 @@
+{
+  "id": "BGM-CY-AC2-06",
+  "bvid": "BV1TQ4y1L7tR",
+  "part": 6,
+  "title": "Approaching Target 1",
+  "display_title": "接近目标 1",
+  "work": "刺客信条 II",
+  "composer": "Jesper Kyd",
+  "source_page_title": "【OST & 游戏原声带】歌名：《接近目标1》（Approaching Target 1)",
+  "navigation_translation": "中文名称用于导航，原曲名及分P标题保留。",
+  "cid": 1412447260,
+  "source": "https://www.bilibili.com/video/BV1TQ4y1L7tR/?p=6",
+  "uploader": "南门梦灵",
+  "video_title": "【刺客信条OST】《刺客信条2》游戏原声音乐合集（OST+网络歌曲+游戏原声带）",
+  "path": "资产/声音/BGM/重选-v005/BGM-CY-AC2-06.m4a",
+  "bytes": 4890421,
+  "sha256": "5a7b2330250000d22980440dfe350370af65a3c717182ee9710bc4a9023932ed",
+  "duration": 220.543667,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "bit_rate": "157484"
+      }
+    ],
+    "format": {
+      "duration": "220.543667"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

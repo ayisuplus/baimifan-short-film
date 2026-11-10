@@ -1,0 +1,52 @@
+{
+  "schema": "envelope/1",
+  "type": "envelope",
+  "ok": true,
+  "command": "nodes show",
+  "version": "1.22.0",
+  "where": "local",
+  "data": {
+    "id": "UpscaleModelLoader",
+    "name": "UpscaleModelLoader",
+    "display_name": "Load Upscale Model",
+    "description": "",
+    "category": "model/loaders",
+    "output_types": [
+      "UPSCALE_MODEL"
+    ],
+    "output_node": false,
+    "is_api_node": false,
+    "deprecated": false,
+    "pack": "core",
+    "labels": [],
+    "cloud_disabled": false,
+    "inputs": [
+      {
+        "name": "model_name",
+        "type": "COMBO",
+        "required": true,
+        "is_link": false,
+        "section": "required",
+        "choices": [
+          "4x-UltraSharp.pth",
+          "4x-UltraSharpV2.safetensors",
+          "RealESRGAN_x4plus.safetensors",
+          "ltx-2.3-spatial-upscaler-x2-1.0.safetensors"
+        ],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": null
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "UPSCALE_MODEL",
+        "type": "UPSCALE_MODEL"
+      }
+    ]
+  },
+  "error": null
+}

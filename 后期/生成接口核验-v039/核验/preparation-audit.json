@@ -1,0 +1,79 @@
+[
+  {
+    "id": "h3-i2v",
+    "prepared": true,
+    "assets": 1
+  },
+  {
+    "id": "qwen-edit",
+    "prepared": true,
+    "assets": 2
+  },
+  {
+    "id": "canvas-1",
+    "prepared": true,
+    "assets": 1
+  },
+  {
+    "id": "canvas-2",
+    "prepared": true,
+    "assets": 1
+  },
+  {
+    "id": "canvas-3",
+    "blocked_as_expected": true
+  },
+  {
+    "id": "canvas-4",
+    "blocked_as_expected": true
+  },
+  {
+    "id": "canvas-5",
+    "blocked_as_expected": true
+  },
+  {
+    "id": "canvas-6",
+    "prepared": true,
+    "assets": 1
+  },
+  {
+    "id": "canvas-7",
+    "prepared": true,
+    "assets": 1
+  },
+  {
+    "id": "rtx",
+    "prepared": true,
+    "assets": 1
+  },
+  {
+    "id": "realesrgan",
+    "prepared": true,
+    "assets": 1
+  },
+  {
+    "id": "seedvr2",
+    "prepared": true,
+    "assets": 1
+  },
+  {
+    "id": "rh-h3",
+    "prepared": true,
+    "assets": 1
+  },
+  {
+    "id": "rh-seedance",
+    "prepared": true,
+    "assets": 1
+  },
+  {
+    "id": "rh-upscale",
+    "prepared": true,
+    "assets": 1
+  },
+  {
+    "id": "woosh-sfx",
+    "prepared": true,
+    "assets": 0
+  }
+]

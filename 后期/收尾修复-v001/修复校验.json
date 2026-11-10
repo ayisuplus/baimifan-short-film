@@ -1,0 +1,15 @@
+{
+  "status": "pass",
+  "shots": 132,
+  "batches": 40,
+  "dialogue_cues": 61,
+  "action_points": 46,
+  "original_audio_sources": 42,
+  "original_samples_preserved_once": true,
+  "film_seconds": 450.9,
+  "all_selected_models_fit": true,
+  "japanese_spoken_text_matches_delivery": true,
+  "transcript_listened": false,
+  "sfx_completed": false,
+  "source_sha256": "83d23bc169a8bcdc862aecf8bbd7306668800f2651ae6e86fe6c252811df3287"
+}

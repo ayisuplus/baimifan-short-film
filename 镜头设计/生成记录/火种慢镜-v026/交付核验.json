@@ -1,0 +1,16 @@
+{
+  "shots": 96,
+  "seconds": 308,
+  "added_shots": [
+    "CY029B1",
+    "CY029B2"
+  ],
+  "replaced_image": "CY029B",
+  "old_images_unchanged": 93,
+  "all_previous_durations_and_dialogue_preserved": true,
+  "source_passages_verified": 96,
+  "locked_original_files_verified": 98,
+  "local_links_verified": 541,
+  "video_produced": false,
+  "audio_produced": false
+}

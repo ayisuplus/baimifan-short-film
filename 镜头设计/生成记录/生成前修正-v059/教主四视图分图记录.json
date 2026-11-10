@@ -1,0 +1,73 @@
+{
+  "source_name": "CHAR-PRIEST-TURN-v001.png",
+  "source_sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+  "oriented_size": [
+    1774,
+    887
+  ],
+  "coordinates": "EXIF-oriented pixels; right and bottom edges exclusive",
+  "operation": "crop only; no redraw, resizing, padding or background removal",
+  "views": [
+    {
+      "view": "01_front-full",
+      "file": "01_front-full.png",
+      "box_xyxy": [
+        0,
+        0,
+        520,
+        887
+      ],
+      "size": [
+        520,
+        887
+      ],
+      "sha256": "3e29056d8ff3580278dea5f120b374103b690ab743dae9aa6dec32c98c5e626d"
+    },
+    {
+      "view": "02_facing-left",
+      "file": "02_facing-left.png",
+      "box_xyxy": [
+        520,
+        0,
+        875,
+        887
+      ],
+      "size": [
+        355,
+        887
+      ],
+      "sha256": "004c8eb5cf7c47060c4a5a62af2d4051f3b75a9cd88c18e5ad3e87d76517f9ec"
+    },
+    {
+      "view": "03_back",
+      "file": "03_back.png",
+      "box_xyxy": [
+        875,
+        0,
+        1330,
+        887
+      ],
+      "size": [
+        455,
+        887
+      ],
+      "sha256": "c8e5bf1c01537882a118d7b6af1f6fb0b6771cb4e11578e3882ccb52fe839f8d"
+    },
+    {
+      "view": "04_facing-right",
+      "file": "04_facing-right.png",
+      "box_xyxy": [
+        1330,
+        0,
+        1774,
+        887
+      ],
+      "size": [
+        444,
+        887
+      ],
+      "sha256": "1315aafa436fd4fb724de95fc7390c82f2163efefa4c9bb6c9b7f4ba8ddb1435"
+    }
+  ],
+  "project_override": "四幅全身自然站姿；第二次裁切修正3/4图边界。"
+}

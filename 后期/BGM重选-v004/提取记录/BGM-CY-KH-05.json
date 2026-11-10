@@ -1,0 +1,40 @@
+{
+  "id": "BGM-CY-KH-05",
+  "bvid": "BV1jm4y1Z7Rb",
+  "part": 5,
+  "title": "To Jerusalem",
+  "display_title": "前往耶路撒冷",
+  "work": "天国王朝",
+  "composer": "Harry Gregson-Williams",
+  "source_page_title": "To Jerusalem",
+  "navigation_translation": "中文名为导航释义，原名保留。",
+  "cid": 504346785,
+  "source": "https://www.bilibili.com/video/BV1jm4y1Z7Rb/?p=5",
+  "uploader": "xtrikil",
+  "video_title": "【电影音乐】天国王朝 - 原声合集",
+  "path": "资产/声音/BGM/重选-v004/BGM-CY-KH-05.m4a",
+  "bytes": 1599656,
+  "sha256": "f0127de39de56e0557b030fa70344f99f96edda61040240e3eacb1d2b703fe5d",
+  "duration": 96.277833,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "bit_rate": "131956"
+      }
+    ],
+    "format": {
+      "duration": "96.277833"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

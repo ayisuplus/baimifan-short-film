@@ -1,0 +1,19 @@
+{
+  "engine": "built-in image_gen",
+  "date": "2026-10-25",
+  "shot": "CY016",
+  "request": {
+    "referenced_image_paths": [
+      "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/天瀑空间-v014/CY016-v014-r4.png",
+      "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/天瀑空间-v014/CY016B-v014-r3.png"
+    ],
+    "transparent_background": false,
+    "prompt": "Edit ONLY the small metal prop near the center of image 1. Match the decorative padlock to the prop shown in reference image 2: squat rectangular dark bronze body, rounded shackle, gold decorative border, one central keyhole. Keep its existing chain attachment. All people and all other image content must stay exactly unchanged: do not redraw faces, bodies, expressions, clothing or hands. No new action, injury, nudity, violence or sexual content. No reframing, no text. One full-frame 16:9 image."
+  },
+  "output": "镜头设计/图像/连续性修复-v049/CY016-v049-r1.png",
+  "sha256": "48b837d56b40559bb0adb1c7b42bd11edee8629fe511c01e81cbe4aad4f0f5df",
+  "previous_request": "镜头设计/生成记录/天瀑空间-v014/CY016-请求-v004.json",
+  "previous_image": "镜头设计/图像/天瀑空间-v014/CY016-v014-r4.png",
+  "previous_candidate": null,
+  "review": "technical and root visual inspection complete; independent review and author visual approval tracked separately"
+}

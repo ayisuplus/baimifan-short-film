@@ -1,0 +1,149 @@
+{
+  "role": "教徒",
+  "status": "web_direct_tts_saved_pending_review",
+  "lines": [
+    {
+      "id": "VO-CY004-01",
+      "role": "教徒",
+      "previous_batch": 2,
+      "previous_record_frame": 516,
+      "previous_ja": "今宵、クロードを火の供物に。",
+      "previous_zh": "今夜，为 Claude 行火祭。",
+      "previous_audio_duration_seconds": 5.0,
+      "status": "revised_draft",
+      "ja": "クロードを中へ。生贄の儀の支度をしろ。",
+      "zh_back_translation": "把Claude带进去。准备献祭仪式。",
+      "direction": "对门内接应者下令准备献祭，前半随押送，后半被小鱼听见。教会把Claude当作献给神的祭品，不以罪名宣判；不向观众补讲教义。",
+      "reading_hints": {
+        "生贄": "いけにえ",
+        "儀": "ぎ"
+      },
+      "revision_history": [
+        {
+          "version": "v0.66",
+          "ja": "今宵、クロードを火の供物に。",
+          "zh_back_translation": "今夜，为 Claude 行火祭。",
+          "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。"
+        },
+        {
+          "version": "v0.68",
+          "ja": "クロードを中へ。火刑の支度をしろ。",
+          "zh_back_translation": "把Claude带进去。准备火刑。",
+          "direction": "向门内接应者下令，前半随押送，后半被小鱼从门外听到；不是向观众宣告，不加日落后的新时限。"
+        }
+      ]
+    },
+    {
+      "id": "VO-CY010A-01",
+      "role": "教徒",
+      "previous_batch": 7,
+      "previous_record_frame": 1910,
+      "previous_ja": "こくじんの薪を、一人一本持ってこい。",
+      "previous_zh": "取乌烬木，一人一根。",
+      "previous_audio_duration_seconds": 2.8700000000000045,
+      "status": "retained_in_draft",
+      "ja": "こくじんの薪を、一人一本持ってこい。",
+      "zh_back_translation": "取乌烬木，一人一根。",
+      "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+      "reading_hints": {}
+    }
+  ],
+  "previews": [
+    {
+      "file": "教徒-直配-sBasCmUCkqdPXe3dC2X4.mp3",
+      "candidate": 1,
+      "history": {
+        "alignments": null,
+        "avatar_context": null,
+        "character_count_change_from": 754,
+        "character_count_change_to": 794,
+        "content_type": "audio/mpeg",
+        "date_unix": 1793258019,
+        "dialogue": [
+          {
+            "text": "クロードを中へ。いけにえの儀の支度をしろ。\nこくじんの薪を、一人一本持ってこい。",
+            "voice_id": "Mv8AjrYZCBkdsmDHNwcB",
+            "voice_name": "Ishibashi - Inviting, Natural and Smoky"
+          }
+        ],
+        "feedback": null,
+        "history_item_id": "sBasCmUCkqdPXe3dC2X4",
+        "model_id": "eleven_v4",
+        "output_format": "mp3_44100_128",
+        "request_id": "3tyE8eHyki2SpWFGKXEE",
+        "settings": {
+          "focus": null,
+          "internal_sampling_config": null,
+          "similarity": 0.75,
+          "stability": 0.5,
+          "text_boost": false
+        },
+        "share_link_id": null,
+        "source": "TTS",
+        "state": "created",
+        "text": null,
+        "voice_category": null,
+        "voice_id": null,
+        "voice_name": null
+      },
+      "sha256": "e45ed0459f80c5e99c2c3e5dcb73ce2ee829a6d844bdea80e82b0be521fd5418",
+      "bytes": 119754,
+      "media": {
+        "format": {
+          "duration": "6.426063"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    },
+    {
+      "file": "教徒-直配-z8vlS1xqMRvJ0ZdD1mzX.mp3",
+      "candidate": 2,
+      "history": {
+        "alignments": null,
+        "avatar_context": null,
+        "character_count_change_from": 754,
+        "character_count_change_to": 754,
+        "content_type": "audio/mpeg",
+        "date_unix": 1793258020,
+        "dialogue": [
+          {
+            "text": "クロードを中へ。いけにえの儀の支度をしろ。\nこくじんの薪を、一人一本持ってこい。",
+            "voice_id": "Mv8AjrYZCBkdsmDHNwcB",
+            "voice_name": "Ishibashi - Inviting, Natural and Smoky"
+          }
+        ],
+        "feedback": null,
+        "history_item_id": "z8vlS1xqMRvJ0ZdD1mzX",
+        "model_id": "eleven_v4_exp",
+        "output_format": "mp3_44100_128",
+        "request_id": "tHgF8NIpxEh7tJCXCJme",
+        "settings": {
+          "focus": null,
+          "internal_sampling_config": null,
+          "similarity": 0.75,
+          "stability": 0.5,
+          "text_boost": false
+        },
+        "share_link_id": null,
+        "source": "TTS",
+        "state": "created",
+        "text": null,
+        "voice_category": null,
+        "voice_id": null,
+        "voice_name": null
+      },
+      "sha256": "0c25ac67026eb624ec84764bd0083bec0b2ebb74e6fb28c2119e2306d02efff8",
+      "bytes": 119754,
+      "media": {
+        "format": {
+          "duration": "6.426063"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    }
+  ],
+  "generation_count": 1,
+  "note": "One web submission can produce main and experimental variants; history records actual charge."
+}

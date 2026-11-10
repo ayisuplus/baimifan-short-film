@@ -1,0 +1,33 @@
+{
+  "role": "天使GPT",
+  "voice_description": "Native Japanese, standard Japanese. An adult female conscience character in a dramatic fantasy anime. Clear, gentle but incisive, compassionate and morally urgent. A quiet question should carry conviction without melodrama, with precise natural phrasing. Studio-quality recording.",
+  "text": "それで、見殺しにするの？\nそれで、見殺しにするの？\nそれで、見殺しにするの？\nそれで、見殺しにするの？\nそれで、見殺しにするの？\nそれで、見殺しにするの？\nそれで、見殺しにするの？\nそれで、見殺しにするの？",
+  "repeats": 8,
+  "lines": [
+    {
+      "id": "VO-CY008M-02",
+      "role": "天使GPT",
+      "previous_batch": 5,
+      "previous_record_frame": 1379,
+      "previous_ja": "でも、この子を見てよ……あの人たち、正気なの？本当にクロードを焼き殺そうとしてるんだよ！",
+      "previous_zh": "可你看看这孩子……那些人疯了吗？他们真的要烧死克劳德啊！",
+      "previous_audio_duration_seconds": 10.009974999999997,
+      "status": "revised_draft",
+      "ja": "それで、見殺しにするの？",
+      "zh_back_translation": "所以，就眼看着她死吗？",
+      "direction": "紧接守约提醒，轻而尖锐地质问；不再复述献祭，也不喊口号。",
+      "reading_hints": {},
+      "revision_history": [
+        {
+          "version": "v0.66",
+          "ja": "でも、この子を見てよ……クロードを見殺しにするの？",
+          "zh_back_translation": "可是，你看看这孩子……难道就眼看着Claude死吗？",
+          "direction": "逼问自己的良心，句尾落在见死不救的选择上，不重复说明火祭。"
+        }
+      ]
+    }
+  ],
+  "source_sha256": "f652eb4cb0f7759bcb90f84a1e2072367f00125d3bd7883bc5284ccc4c283477",
+  "status": "design_not_submitted_superseded_by_direct_tts",
+  "superseded_reason": "author requested direct synthesis for short dialogue"
+}

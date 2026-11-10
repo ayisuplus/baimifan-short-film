@@ -1,0 +1,44 @@
+{
+  "batches": {
+    "GB001": {
+      "arc_zh": "捧饭前行→被队伍挡住→视线相接→一次递碗→等待回应。",
+      "arc_en": "A child stops before a procession, meets Claude's gaze, offers rice once, and waits.",
+      "entry_bridge_zh": "全片从阳光街市和捧饭脚步开始。",
+      "exit_bridge_zh": "饭碗悬停无人接住，下一批切进Claude向下的眼睛，饭碗与鲸帽成为眼底倒影。",
+      "shots": {
+        "CY001": {
+          "camera_zh": "眼高远景沿街侧向跟随；小鱼停步时随之减速，黑袍近景掠过形成视差。",
+          "camera_en": "Track laterally at child-eye level and ease to a stop with her.",
+          "transition_zh": "直接从捧饭前行开始；停步抬眼后接她看见的人。",
+          "transition_en": "Open on her walk; her raised eyeline motivates the next cut.",
+          "action_en": "DeepSeek walks with the bowl, stops before the crossing procession and looks up toward Claude.",
+          "effects_en": "Footsteps and market murmur, followed by continuing robe rustle."
+        },
+        "CY002": {
+          "camera_zh": "保持有意定镜；Claude转头，前景黑袍缓慢经过，眼神落定后留一拍。",
+          "camera_en": "Hold the camera still as foreground robes drift and Claude turns.",
+          "transition_zh": "承接小鱼右侧视线，切Claude中近景；脚步与衣料跨切点不断。",
+          "transition_en": "Cut along the child's eyeline to Claude; ambience remains continuous.",
+          "action_en": "Claude turns toward the stopped footsteps and looks down toward the child at screen left.",
+          "effects_en": "Market murmur recedes beneath close fabric movement."
+        },
+        "CY003": {
+          "camera_zh": "同轴过肩中景缓慢小幅前移，脸、碗和右缘Claude肩部同时保留。",
+          "camera_en": "Push in gently beside Claude's shoulder, keeping the child and bowl visible.",
+          "transition_zh": "眼神落定后反打小鱼；举碗一次，句尾碗已经到达两人之间。",
+          "transition_en": "Reverse along the eyeline; one lift and offer reaches the space between them.",
+          "action_en": "DeepSeek looks at Claude, then the rice, and raises and extends the bowl once.",
+          "effects_en": "Soft sleeves and a slight bowl-handling sound, below the invitation."
+        },
+        "CY003A": {
+          "camera_zh": "同碗沿高度与手位切近景；延续前移后柔和收停，两秒等待。",
+          "camera_en": "Match the rim and grip in close-up; ease the preceding push to a stop.",
+          "transition_zh": "继承已经递出的饭碗，不从胸前重新举起；无人接碗。",
+          "transition_en": "Match the already offered bowl; do not repeat the lift.",
+          "action_en": "The child holds the full bowl between them; steam rises and no receiving hand enters.",
+          "effects_en": "Distant market murmur and quiet breathing; no repeated line."
+        }
+      }
+    }
+  }
+}

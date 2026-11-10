@@ -1,0 +1,12 @@
+{
+  "id": "CY016D",
+  "take": 2,
+  "destination": "镜头设计/图像/空间因果-v011/CY016D-v011-r2.png",
+  "request": {
+    "prompt": "局部修正祭坛结构：原图台阶过多，改成只有三级低矮宽石阶，上接一个平平台，不要高台阶。两只铜火盆都移到最下一级石阶外的左右平地上，和前景黑袍教徒双脚同一地面，不在任何台阶或平台上。保留鲸帽宝宝向持火把教徒冲去的动作和急切表情，保留后方Claude被束缚的姿势、衣服和赤足脚托。其他画面不变，单张横幅，无字。",
+    "referenced_image_paths": [
+      "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-355f5777-5f0f-4672-aa6c-48c606fc5ef7.png"
+    ],
+    "transparent_background": false
+  }
+}

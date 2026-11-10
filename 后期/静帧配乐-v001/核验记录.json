@@ -1,0 +1,24 @@
+{
+  "duration": 237,
+  "shots": 63,
+  "full_decode": true,
+  "all_shots_sampled_and_visually_reviewed": true,
+  "black_and_audio_detection": [
+    "[Parsed_silencedetect_0 @ 000002663f39dc00] silence_start: 0",
+    "[Parsed_silencedetect_0 @ 000002663f39dc00] silence_end: 2.175583 | silence_duration: 2.175583",
+    "[Parsed_silencedetect_0 @ 000002663f39dc00] silence_start: 17.965708",
+    "[Parsed_silencedetect_0 @ 000002663f39dc00] silence_end: 18.5125 | silence_duration: 0.546792",
+    "[Parsed_silencedetect_0 @ 000002663f39dc00] silence_start: 89.990292",
+    "[Parsed_silencedetect_0 @ 000002663f39dc00] silence_end: 94.002792 | silence_duration: 4.0125",
+    "[Parsed_silencedetect_0 @ 000002663f39dc00] silence_start: 183.998854",
+    "[Parsed_silencedetect_0 @ 000002663f39dc00] silence_end: 186.231021 | silence_duration: 2.232167",
+    "[Parsed_volumedetect_1 @ 000002663f39d6c0] mean_volume: -24.1 dB",
+    "[Parsed_volumedetect_1 @ 000002663f39d6c0] max_volume: -5.8 dB"
+  ],
+  "browser_video_loaded": true,
+  "victory_chapter_seek": true,
+  "mobile_overflow": false,
+  "javascript_errors": [],
+  "audio_hearing": "pending author listening",
+  "continuous_visual_review": "not performed; every shot sampled from exported video"
+}

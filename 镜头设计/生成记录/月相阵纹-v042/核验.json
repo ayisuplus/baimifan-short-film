@@ -1,0 +1,22 @@
+{
+  "shots": 126,
+  "seconds": 418.5,
+  "selected_images": 8,
+  "stored_images": 15,
+  "old_shot_dialogue_audio_duration_bgm_unchanged": 125,
+  "source_passages_verified": 126,
+  "critical_effect_beats_in_bounds": true,
+  "all_selected_image_input_hashes_match": true,
+  "video_produced": false,
+  "new_sound_effect_tracks_produced": false,
+  "author_review": "pending",
+  "author_feedback_k4": "r1 attacking read; r2 extra moon ring; r3/r4 arm connection rejected; r5 rebuilt left shoulder-elbow-wrist chain, pending author review",
+  "browser_verified": {
+    "version": "v0.42",
+    "shots": 126,
+    "marked_shots": 5,
+    "marked_sections": 5,
+    "k4_image": "CY024K4-v042-r5.png",
+    "console_errors": 0
+  }
+}

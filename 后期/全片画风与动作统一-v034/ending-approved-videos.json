@@ -1,0 +1,32 @@
+[
+  {
+    "name": "114-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\114-key-r1_00001_.png",
+    "key_review": "pass",
+    "frames": 96,
+    "target_frames": 96,
+    "seed": 202610307114,
+    "prompt": "Hand-drawn Japanese 2D gothic anime, stable ink outlines, broad drawn hair shapes, matte skin and hard cel shading. This is several days later in the warm sunny market; clean restored clothes and golden cream daylight are intentional. Preserve identities, screen positions, bench and existing bowl shapes. No night lighting, cathedral, CGI, gloss, extra characters, extra spoons, random cuts or orbit. Locked medium-wide shot. Xiaoyu remains seated on the LEFT part of the bench, holding the ONE metal rice bowl securely with both hands. She opens her eyes softly, glances down at the rice and then toward the empty space on her RIGHT as someone approaches offscreen. One small relaxed breath and tiny foot swing only. Keep the right side of the bench empty throughout this shot; no adult enters yet. The bowl stays at the same height and never spins. Background passersby remain unobtrusive."
+  },
+  {
+    "name": "117-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\117-key-r1_00001_.png",
+    "key_review": "pass",
+    "frames": 65,
+    "target_frames": 65,
+    "seed": 202610307117,
+    "prompt": "Hand-drawn Japanese 2D gothic anime, stable ink outlines, broad drawn hair shapes, matte skin and hard cel shading. This is several days later in the warm sunny market; clean restored clothes and golden cream daylight are intentional. Preserve identities, screen positions, bench and existing bowl shapes. No night lighting, cathedral, CGI, gloss, extra characters, extra spoons, random cuts or orbit. Fixed two-person medium shot of Grok at image left and horned GPT at right, quietly watching the bench offscreen. Grok gives a very small relieved smile. GPT softens her eyes and takes a relaxed breath, keeping the existing metal bowl steady in both hands. The established pale lavender membrane wings stay in their current resting silhouette, with no flap or new wings. No additional food or spoon appears, no broad laughter, no head turn toward the camera. Restrained cloth and hair settling only."
+  },
+  {
+    "name": "118-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\118-key-r1_00001_.png",
+    "key_review": "pass",
+    "frames": 103,
+    "target_frames": 103,
+    "seed": 202610307118,
+    "prompt": "Hand-drawn Japanese 2D gothic anime, stable ink outlines, broad drawn hair shapes, matte skin and hard cel shading. This is several days later in the warm sunny market; clean restored clothes and golden cream daylight are intentional. Preserve identities, screen positions, bench and existing bowl shapes. No night lighting, cathedral, CGI, gloss, extra characters, extra spoons, random cuts or orbit. Keep this intimate fixed lower-face close-up, no need to reveal the eyes. Claude raises the existing SINGLE silver spoon with its small bite of rice to her lips. Lips part slightly, take the rice ONCE, close gently, and the same now-empty spoon withdraws downward. A subtle swallow and relaxed mouth corners follow, with a brief calm hold. No second eating cycle, repeated chewing, oversized open mouth or new bowl in the crop. Keep the supporting hand anatomy and spoon rigid and continuous. Warm light and clean veil remain unchanged."
+  }
+]

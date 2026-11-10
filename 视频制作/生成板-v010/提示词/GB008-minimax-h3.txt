@@ -1,0 +1,38 @@
+subject_definitions:
+<Subject 1>: DeepSeek, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: Claude, identity and outfit from four-view sheet <Picture 2>.
+<Picture 3>: [Shot 1] composition and state reference; not its first frame.
+<Picture 4>: [Shot 2] composition and state reference; not its first frame.
+<Picture 5>: [Shot 3] composition and state reference; not its first frame.
+<Picture 6>: [Shot 4] composition and state reference; not its first frame.
+<Picture 7>: [Shot 5] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. A wax insert marks elapsed effort; DeepSeek refuses to leave, then approaching sounds lead to the returning wood carriers.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+<Picture 7>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Carry the chain's decay into the wax insert, then let it die away; the insert marks elapsed attempts rather than another visible pull. Use <Picture 3> for composition. A single candle stands on the left stone pedestal of the lower stair section when facing the altar. Wax moves down an old track. No characters or rows of candles enter the macro frame; DeepSeek and Claude remain offscreen in the same church. In a macro view of one candle, make a small downward tilt following a bead of wax, stopping before it falls. The preceding chain echo fades, leaving only a slight wick crackle.
+[Shot 2] At 00:02.000, Return from the wax insert to the child already exhausted, with the same crooked hat; Claude's warning remains offscreen. Use <Picture 4> for composition. On the top platform DeepSeek lowers both hands for a moment, bows her head and catches her breath after repeated failed attempts. Claude speaks from outside the frame. DeepSeek answers without leaving and prepares to try again. The locks remain shut and nobody has returned inside yet. Follow the child's lowered hands with a slight downward reframe, then hold the upper-body close-up for her breathing and reply. Breathing, faint clasp friction and candle crackle; no approaching crowd until the next shot. From 2 to 4.4 seconds, Claude (S1) speaks outside the frame: <d>[English] Stop trying. You need to go.</d>. From 4.5 to 6 seconds, DeepSeek (S2) speaks with matching lip movement: <d>[English] One more try.</d>.
+[Shot 3] At 00:06.000, Match her renewed intention to hands on the clasp; offscreen footsteps arrive first and the hands freeze in response. Use <Picture 5> for composition. DeepSeek's small hands rest on the still-closed waist clasp, ready to try again. Footsteps and indistinct murmurs approach outside the church door. Her fingers suddenly stop. Only her hands and the intact clasp are visible; the arriving cultists are not shown yet. Keep a deliberate steady detail of the clasp and small hands; let the fingers' abrupt stillness register the sound. Outside footsteps and indistinct murmuring enter early; the tiny chain movement stops. No additional intelligible words.
+[Shot 4] At 00:08.000, Cut from frozen hands to Claude's reacting eyes; the approaching sound directs her gaze and her own warning stays off-frame at the mouth. Use <Picture 6> for composition. Claude shifts only her gaze toward the offscreen main entrance and holds it there while delivering her urgent warning. She does not look back toward DeepSeek within this shot. Neither the child nor the cultists enter the extreme close-up. Hold an extreme close-up of Claude's eyes as they shift once toward the main door and stay there; her mouth remains outside the frame. The same footsteps draw nearer and lead into the door hinge sound, preserving the church's acoustics. From 8.2 to 9.4 seconds, Claude (S1) speaks outside the frame: <d>[English] Run!</d>.
+[Shot 5] At 00:10.000, Cut along Claude's eyeline to the opening door, synchronizing its hinge sound; do not add an altar reaction shot. Use <Picture 7> for composition. The main door opens. Cultists returning from the wood store file along the central aisle, each carrying one thick black log. At the front, some support a log with one arm and carry a lantern in the other hand. They notice DeepSeek beside Claude offscreen at the altar and continue toward it. The wood piles are still low. From the altar looking toward the main door, retreat a short distance to accommodate the entering line, then hold the depth and lantern approach. Dense footsteps, log-to-log knocks and a light lantern rattle.
+From 14 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 6s: Hand stops at the lock as footsteps arrive.
+English speech with lip sync; no audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

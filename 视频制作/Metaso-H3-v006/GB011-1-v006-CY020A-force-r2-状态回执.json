@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115331078556815360",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "蓝帽女孩被推倒后父亲离去",
+    "status": "succeeded",
+    "created_at": 1793169205,
+    "updated_at": 1793169227,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115331078556815360/content?expires=1793774213&signature=44dc434122b6ff89046b4a01199d543851451f8bbd768dc3f68a30dd0adae71b"
+    },
+    "resolution": "768P",
+    "duration": 4,
+    "usage": {
+      "total_seconds": 4,
+      "input_seconds": 0,
+      "output_seconds": 4,
+      "input_image_count": 1
+    },
+    "ratio": "16:9",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

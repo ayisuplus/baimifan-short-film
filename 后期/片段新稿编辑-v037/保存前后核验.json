@@ -1,0 +1,14 @@
+{
+  "before_backup": "54727fa5-e3b9-40f2-9d39-9dd6526145f5",
+  "after_backup": "069bf584-60ec-4678-86b0-6f68046c98a0",
+  "all_118_drafts_readable": true,
+  "timeline_tracks_exactly_equal": true,
+  "media_inventory_equal": true,
+  "settings_equal": true,
+  "preserved_native_and_package_files": 383,
+  "new_files": [
+    "creative\\clip-drafts\\CUT003\\000001.json"
+  ],
+  "ui_saved_copy_equals_source": true,
+  "no_temporary_input_remains": true
+}

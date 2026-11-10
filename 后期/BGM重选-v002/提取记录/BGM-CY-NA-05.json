@@ -1,0 +1,39 @@
+{
+  "id": "BGM-CY-NA-05",
+  "bvid": "BV1QT4y1M79V",
+  "part": 5,
+  "title": "The Wardrobe",
+  "display_title": "魔衣橱",
+  "work": "纳尼亚传奇：狮子、女巫和魔衣柜",
+  "composer": "Harry Gregson-Williams",
+  "source_page_title": "5 - The Wardrobe",
+  "cid": 267027342,
+  "source": "https://www.bilibili.com/video/BV1QT4y1M79V/?p=5",
+  "uploader": "xtrikil",
+  "video_title": "【电影音乐】纳尼亚传奇：狮子、女巫和魔衣柜-原声合集",
+  "path": "资产/声音/BGM/重选-v002/BGM-CY-NA-05.m4a",
+  "bytes": 1471335,
+  "sha256": "10607958a23b6a1b372ab8ab9c1c528e1b90f160eef5d2175b51ad2a4a258f67",
+  "duration": 175.217551,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "67035"
+      }
+    ],
+    "format": {
+      "duration": "175.217551"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

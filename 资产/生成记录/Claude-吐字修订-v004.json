@@ -1,0 +1,79 @@
+{
+  "role": "Claude",
+  "shot_id": "CY020",
+  "text": "别碰她！",
+  "reference_path": "资产/声音/试音/VOICE-CLAUDE-v003-ANCHOR.flac",
+  "reference_sha256": "68b80eb180203916a9aaa20491f6d48915b4240dce922d99dd426b0c23ebf523",
+  "request": "资产/生成记录/VOICE-CLAUDE-v004-request.json",
+  "baseline": "资产/声音/试音/VOICE-CLAUDE-v003-B.flac",
+  "author_feedback": "v003-B音色方向对，但字听不清楚；尚未采用。",
+  "change": "仅改表演指导：移除短促/收尾催快要求，明确语速适中、咬字清楚、每字完整。音色身份描述、台词、参考、种子及参数不变。",
+  "validation": "实时节点必填项检查通过；MCP泛化错误，沿用同一本地服务/prompt校验。",
+  "devices": [
+    {
+      "name": "cuda:0 NVIDIA GeForce RTX 5090 : cudaMallocAsync",
+      "type": "cuda",
+      "index": 0,
+      "vram_total": 34162016256,
+      "vram_free": 32308461568,
+      "torch_vram_total": 67108864,
+      "torch_vram_free": 49020928
+    }
+  ],
+  "status": "generated_pending_listen",
+  "prompt_id": "afa9d36c-2d30-4791-bfae-fcf8bf7c4976",
+  "node_errors": {},
+  "server_status": {
+    "status_str": "success",
+    "completed": true,
+    "messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "afa9d36c-2d30-4791-bfae-fcf8bf7c4976",
+          "timestamp": 1792557253921
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [
+            "30",
+            "2",
+            "22"
+          ],
+          "prompt_id": "afa9d36c-2d30-4791-bfae-fcf8bf7c4976",
+          "timestamp": 1792557253923
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "afa9d36c-2d30-4791-bfae-fcf8bf7c4976",
+          "timestamp": 1792557258314
+        }
+      ]
+    ]
+  },
+  "path": "资产/声音/试音/VOICE-CLAUDE-v004.flac",
+  "sha256": "92a3a2665638c08ec6485e673ccf19504b25c32b7063ecc3c1544712575b3f72",
+  "native_output": {
+    "filename": "VOICE-CLAUDE-v004_00001.flac",
+    "subfolder": "audio\\chuanyun",
+    "type": "output"
+  },
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "sample_rate": "48000",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "0.800000"
+    }
+  },
+  "listening_review": "未实际听审；时长或文件解码不能证明吐字正确，待与v003-B比较。"
+}

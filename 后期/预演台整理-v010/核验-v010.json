@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-24",
+  "version": "v010",
+  "scope": "预演台选曲显示与操作整理，无新选曲",
+  "shots": 115,
+  "seconds": 381,
+  "shot_and_music_data_unchanged": true,
+  "original_marks_preserved": {
+    "CY001": "BGM-CY-MT-03",
+    "CY026B": "BGM-CY-FEAR-001",
+    "CY031": "BGM-CY-TIME-001",
+    "CY018": "BGM-CY-RZ-01",
+    "CY009": "BGM-CY-KH-05"
+  },
+  "browser_checks": {
+    "overview_six_scenes": true,
+    "five_marked_rows": true,
+    "all_rows_filter": 115,
+    "scene_highlight_after_filter": "S01",
+    "bulk_apply_S02_count": 14,
+    "bulk_apply_outside_original_candidates_visible": "CY006: BGM-CY-KH-05",
+    "audition_did_not_change_mark": true,
+    "undo_bulk_restored_count": 5,
+    "seek_and_play_continued_during_undo": true,
+    "single_mark_and_undo": true,
+    "refresh_restored_original_five": true,
+    "console_errors": [],
+    "test_changes_all_reverted": true
+  },
+  "review": "独立子代理只读审查，无数据损坏或播放回归；筛选重建段落卡后高亮丢失已修复并复测",
+  "screenshot": "后期/预演台整理-v010/选曲总览-v010.png",
+  "limitations": [
+    "选择仍保存在当前浏览器，可导出JSON备份；没有自动改为整段采用。",
+    "整段应用是选曲范围标记，不代表已经完成原曲区间剪辑或正式混音。"
+  ]
+}

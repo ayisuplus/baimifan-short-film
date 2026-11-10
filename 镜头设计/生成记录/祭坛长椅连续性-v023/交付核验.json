@@ -1,0 +1,15 @@
+{
+  "shots": 93,
+  "seconds": 299,
+  "changed_image_ids": [
+    "CY012",
+    "CY022B2",
+    "CY024B1"
+  ],
+  "unchanged_images": 90,
+  "dialogue_and_timing_preserved": true,
+  "locked_original_paths_verified": 98,
+  "local_links_verified": 523,
+  "source_passages_verified": 93,
+  "video_produced": false
+}

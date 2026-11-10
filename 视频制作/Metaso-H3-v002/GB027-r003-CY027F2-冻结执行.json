@@ -1,0 +1,57 @@
+{
+  "batch": {
+    "batch_number": 37,
+    "batch_id": "GB027",
+    "attempt_id": "GB027-r003-CY027F2",
+    "title": "撤罩、解锁与落脚",
+    "shot_ids": [
+      "CY027F2"
+    ],
+    "film_start": 398.842729,
+    "part_offset": 0,
+    "used_seconds": 3,
+    "duration": 4,
+    "prompt": "从给定第一帧原样开始，只让已有画面动起来，不重新设计角色或背景。单一连续镜头，无切镜，无字幕水印、无音乐、无新增人物。4秒，冷月光，所有烛芯与木柴始终熄灭无暖光。先延续暗罩正在散去，0–0.5秒背景暗膜散尽显出受缚的橙发Claude。右侧白银衣GPT伸出唯一黑铁钥匙，0.5–2秒将钥匙交进左侧黑紫衣Kimi掌心，Kimi接稳。2–3秒Kimi持钥匙稍俯身朝画外踝扣，3–4秒保持。只交一次钥匙，不解锁，不改变任一人的服装，不新增火、衣物燃烧或烛火。无对白。",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/Metaso-H3-v002/修订参考/rescue-key-固定首帧-r004.png",
+        "sha256": "91404d8fcfc145589c87935cc37109a3324daf80c172d550ab545cc030609edd",
+        "kind": "first_frame",
+        "role": "first_frame"
+      }
+    ],
+    "change_reason": "参考模式重复重构出错误元素；改用官方固定首帧模式，锁住已修正的画面元素。",
+    "repair_of": {
+      "attempt_id": "GB027-r002-CY027F2",
+      "task_id": "2115148552371888128",
+      "local_path": "视频制作/Metaso-H3-v002/产物/GB027-r002-CY027F2.mp4"
+    },
+    "source": "新增问题返修-准备.json",
+    "status": "prepared",
+    "accepted": false,
+    "estimated_credits": 40.8,
+    "mode": "first_frame"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "从给定第一帧原样开始，只让已有画面动起来，不重新设计角色或背景。单一连续镜头，无切镜，无字幕水印、无音乐、无新增人物。4秒，冷月光，所有烛芯与木柴始终熄灭无暖光。先延续暗罩正在散去，0–0.5秒背景暗膜散尽显出受缚的橙发Claude。右侧白银衣GPT伸出唯一黑铁钥匙，0.5–2秒将钥匙交进左侧黑紫衣Kimi掌心，Kimi接稳。2–3秒Kimi持钥匙稍俯身朝画外踝扣，3–4秒保持。只交一次钥匙，不解锁，不改变任一人的服装，不新增火、衣物燃烧或烛火。无对白。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115150931927949312"
+        },
+        "role": "first_frame"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 4,
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "2026-10-28作者授权：参考图超限想办法砍不重要参考，该返修的都返修；沿用Metaso H3"
+}

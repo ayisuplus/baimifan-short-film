@@ -1,0 +1,418 @@
+{
+  "schema_version": 1,
+  "execution_enabled": false,
+  "entries": [
+    {
+      "id": "h3-i2v",
+      "label": "H3 · 白米饭图生视频",
+      "provider": "comfyui",
+      "kind": "图生视频",
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\小鱼脱手与二维统一-v030\\041a-video-r1.api.json",
+      "template": "h3-i2v.json",
+      "sha256": "5eb12159171d876726e86d5972fd6bd23451018865fdaef514adf23cd9ca6cc6",
+      "format": "comfy-api",
+      "mapping": {
+        "prompt": [
+          "/8/inputs/prompt",
+          "/12/inputs/global_prompt"
+        ],
+        "image": "/7/inputs/image"
+      },
+      "note": "已有执行工作流快照；只准备参数；原模板固定 2.5 秒 / 24fps / 1344×768，含原生音频输出",
+      "params": [],
+      "slots": [
+        {
+          "key": "image",
+          "label": "输入图片",
+          "kind": "image",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "qwen-edit",
+      "label": "Qwen 2.1 · 白米饭关键帧",
+      "provider": "comfyui",
+      "kind": "图像编辑",
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\小鱼脱手与二维统一-v030\\037-key-r1.api.json",
+      "template": "qwen-edit.json",
+      "sha256": "813b05eb37b29f103b738a5dfdf2f819fe5fc6ade95ce56d8554120c8117707b",
+      "format": "comfy-api",
+      "mapping": {
+        "prompt": "/9/inputs/prompt",
+        "image": "/1/inputs/image",
+        "image2": "/2/inputs/image"
+      },
+      "note": "已有执行工作流快照；只准备参数",
+      "params": [],
+      "slots": [
+        {
+          "key": "image",
+          "label": "输入图片",
+          "kind": "image",
+          "required": true
+        },
+        {
+          "key": "image2",
+          "label": "第二参考图",
+          "kind": "image",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "canvas-1",
+      "label": "VOSR2-图片2倍",
+      "provider": "comfyui",
+      "kind": "图片超分",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\user\\default\\workflows\\02-专用超分与修复\\VOSR2-图片2倍.json",
+      "template": "canvas-1.json",
+      "sha256": "6076d58f3ff1b591d9dced0c6c432a54039ab901e3c233e0e93452f25ddf4848",
+      "format": "comfy-ui",
+      "mapping": {},
+      "note": "已收录原画布；执行前需导出并核对 API 格式",
+      "params": [],
+      "slots": []
+    },
+    {
+      "id": "canvas-2",
+      "label": "VOSR2-视频2倍-保留帧率音轨",
+      "provider": "comfyui",
+      "kind": "视频超分",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\user\\default\\workflows\\02-专用超分与修复\\VOSR2-视频2倍-保留帧率音轨.json",
+      "template": "canvas-2.json",
+      "sha256": "4dd1fa8cc059fac15718731c2360ae1f124ea7bbbb8e01c10268b96f69169f2b",
+      "format": "comfy-ui",
+      "mapping": {},
+      "note": "已收录原画布；执行前需导出并核对 API 格式",
+      "params": [],
+      "slots": []
+    },
+    {
+      "id": "canvas-3",
+      "label": "01-中文配音与声音设计",
+      "provider": "comfyui",
+      "kind": "声音",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\user\\default\\workflows\\03-声音与音乐\\BreezeTTS2\\01-中文配音与声音设计.json",
+      "template": "canvas-3.json",
+      "sha256": "bf511ba2f527fd5d0392b8320dd655be0f3d97e7b51831bf7999c77347625ecb",
+      "format": "comfy-ui",
+      "mapping": {},
+      "note": "已收录原画布；执行前需导出并核对 API 格式",
+      "params": [],
+      "slots": []
+    },
+    {
+      "id": "canvas-4",
+      "label": "03-克隆与情绪指导",
+      "provider": "comfyui",
+      "kind": "声音",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\user\\default\\workflows\\03-声音与音乐\\BreezeTTS2\\03-克隆与情绪指导.json",
+      "template": "canvas-4.json",
+      "sha256": "95e17c9655b4f955329d7047903231a8a48f95b93e8e2582aed8794ad72d2f86",
+      "format": "comfy-ui",
+      "mapping": {},
+      "note": "已收录原画布；执行前需导出并核对 API 格式",
+      "params": [],
+      "slots": []
+    },
+    {
+      "id": "canvas-5",
+      "label": "Nemotron-语音转录",
+      "provider": "comfyui",
+      "kind": "声音",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\user\\default\\workflows\\03-声音与音乐\\Nemotron-语音转录.json",
+      "template": "canvas-5.json",
+      "sha256": "deb0cb89970464c74dcac116d743f16d4b2699360b8d44129cceb101dcdcddeb",
+      "format": "comfy-ui",
+      "mapping": {},
+      "note": "已收录原画布；执行前需导出并核对 API 格式",
+      "params": [],
+      "slots": []
+    },
+    {
+      "id": "canvas-6",
+      "label": "Qwen-Image-2.1-全能编辑-16GB-v1",
+      "provider": "comfyui",
+      "kind": "图像编辑",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\user\\default\\workflows\\Qwen-Image-2.1-全能编辑-16GB-v1.json",
+      "template": "canvas-6.json",
+      "sha256": "4e55a8ec12829426156cc5bfc5ca3775fd887dad25992108a05f4ceb14366e01",
+      "format": "comfy-ui",
+      "mapping": {},
+      "note": "已收录原画布；执行前需导出并核对 API 格式",
+      "params": [],
+      "slots": []
+    },
+    {
+      "id": "canvas-7",
+      "label": "默认视频-H3二采修脸-VOSR2",
+      "provider": "comfyui",
+      "kind": "图生视频",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\user\\default\\workflows\\默认视频-H3二采修脸-VOSR2.json",
+      "template": "canvas-7.json",
+      "sha256": "b1e6ca6ebc1eea695df8d2112110c1ed5bd2161feefb5b9aec3203808dab0c15",
+      "format": "comfy-ui",
+      "mapping": {},
+      "note": "已收录原画布；执行前需导出并核对 API 格式",
+      "params": [],
+      "slots": []
+    },
+    {
+      "id": "rtx",
+      "label": "RTX · 保守放大",
+      "provider": "comfyui",
+      "kind": "图片超分",
+      "format": "builtin-upscale",
+      "source": "OpenCut 原生超分工作流",
+      "note": "复用已有超分接口；本入口只准备，不执行",
+      "params": [
+        {
+          "key": "long_edge",
+          "label": "目标长边",
+          "options": [
+            "1920",
+            "2560",
+            "3840"
+          ],
+          "default": "3840"
+        }
+      ],
+      "slots": [
+        {
+          "key": "image",
+          "label": "输入图片",
+          "kind": "image",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "realesrgan",
+      "label": "Real-ESRGAN · 线条增强",
+      "provider": "comfyui",
+      "kind": "图片超分",
+      "format": "builtin-upscale",
+      "source": "OpenCut 原生超分工作流",
+      "note": "复用已有超分接口；本入口只准备，不执行",
+      "params": [
+        {
+          "key": "long_edge",
+          "label": "目标长边",
+          "options": [
+            "1920",
+            "2560",
+            "3840"
+          ],
+          "default": "3840"
+        }
+      ],
+      "slots": [
+        {
+          "key": "image",
+          "label": "输入图片",
+          "kind": "image",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "seedvr2",
+      "label": "SeedVR2 · 细节增强",
+      "provider": "comfyui",
+      "kind": "图片超分",
+      "format": "builtin-upscale",
+      "source": "OpenCut 原生超分工作流",
+      "note": "复用已有超分接口；本入口只准备，不执行",
+      "params": [
+        {
+          "key": "long_edge",
+          "label": "目标长边",
+          "options": [
+            "1920",
+            "2560",
+            "3840"
+          ],
+          "default": "3840"
+        }
+      ],
+      "slots": [
+        {
+          "key": "image",
+          "label": "输入图片",
+          "kind": "image",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "rh-h3",
+      "label": "MiniMax H3",
+      "provider": "runninghub",
+      "kind": "图生视频",
+      "format": "rh-model",
+      "endpoint": "minimax/hailuo-h3/image-to-video",
+      "source": "RunningHub 公开模型清单",
+      "note": "公开参数已核对；账户权限未验证",
+      "params": [
+        {
+          "key": "resolution",
+          "label": "输出分辨率",
+          "options": [
+            "2K"
+          ],
+          "default": "2K"
+        },
+        {
+          "key": "duration",
+          "label": "生成时长（秒，不改剪辑）",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15"
+          ],
+          "default": "5"
+        }
+      ],
+      "slots": [
+        {
+          "key": "firstFrameUrl",
+          "label": "首帧图",
+          "kind": "image",
+          "required": false,
+          "max_mb": 30
+        },
+        {
+          "key": "lastFrameUrl",
+          "label": "尾帧图",
+          "kind": "image",
+          "required": false,
+          "max_mb": 30
+        }
+      ],
+      "max_prompt": 20480,
+      "defaults": {}
+    },
+    {
+      "id": "rh-seedance",
+      "label": "Seedance 2.5",
+      "provider": "runninghub",
+      "kind": "图生视频",
+      "format": "rh-model",
+      "endpoint": "bytedance/seedance-2.5-token/image-to-video",
+      "source": "本机 RunningHub Skill 模型目录",
+      "note": "本机目录已收录；当前公开清单缺失，待在线核验",
+      "params": [
+        {
+          "key": "resolution",
+          "label": "输出分辨率",
+          "options": [
+            "480p",
+            "720p",
+            "1080p",
+            "2k",
+            "4k"
+          ],
+          "default": "720p"
+        },
+        {
+          "key": "duration",
+          "label": "生成时长（秒，不改剪辑）",
+          "options": [
+            "-1",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30"
+          ],
+          "default": "5"
+        }
+      ],
+      "slots": [
+        {
+          "key": "firstFrameUrl",
+          "label": "首帧图",
+          "kind": "image",
+          "required": true,
+          "max_mb": 30
+        },
+        {
+          "key": "lastFrameUrl",
+          "label": "尾帧图",
+          "kind": "image",
+          "required": false,
+          "max_mb": 30
+        }
+      ],
+      "max_prompt": 20480,
+      "defaults": {
+        "generateAudio": false
+      }
+    },
+    {
+      "id": "rh-upscale",
+      "label": "RH 视频超分",
+      "provider": "runninghub",
+      "kind": "视频超分",
+      "format": "rh-model",
+      "endpoint": "rhart-video/video-upscaler",
+      "source": "RunningHub 公开模型清单",
+      "note": "公开参数已核对；账户权限未验证",
+      "params": [
+        {
+          "key": "targetResolution",
+          "label": "目标分辨率",
+          "options": [
+            "720p",
+            "1080p",
+            "2k",
+            "4k"
+          ],
+          "default": "1080p"
+        }
+      ],
+      "slots": [
+        {
+          "key": "videoUrl",
+          "label": "输入视频（完整源素材）",
+          "kind": "video",
+          "required": true,
+          "max_mb": 500
+        }
+      ],
+      "max_prompt": 20000,
+      "defaults": {}
+    }
+  ]
+}

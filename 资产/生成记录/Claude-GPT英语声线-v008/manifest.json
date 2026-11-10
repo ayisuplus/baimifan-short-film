@@ -1,0 +1,66 @@
+{
+  "version": "v008",
+  "date": "2026-10-26",
+  "engine": "Breeze TTS 2",
+  "mode": "VoiceDesign",
+  "status": "stopped_before_submission",
+  "authorization": "作者确认小鱼v006音色，要求Claude与GPT各两个候选，均使用Japanese anime voice actress方向并保留角色性格。",
+  "rationale": "沿用小鱼成功的英文描述方向，但不克隆小鱼声音；使用VoiceDesign分别设计Claude与GPT的角色身份，无参考音。",
+  "source": "视频制作/生成板-v010/英语译配.json",
+  "source_sha256": "c9a9e87e97c8a178aa43bc72ad2086bf65cd2280febbbf4daf39ae4848f4495c",
+  "comparison": "同角色A/B台词、seed、参数一致，仅改变音色与表演描述。沿用v001试听台词供跨版比较；没有新增剧情。",
+  "xiaoyu_status": "作者已暂定v006为小鱼固定参考；v007四种情绪已听审认可；本轮不生成小鱼。",
+  "validation_route": "本会话MCP校验接口反复无诊断报错，沿用同一本地8188实时节点校验及提交时node_errors检查。",
+  "scope": "仅四次本地音频合成；无参考音、变调、变速、配乐或混响。文字描述是目标，实际角色感待作者试听。",
+  "candidates": [
+    {
+      "id": "claude-A",
+      "role": "Claude",
+      "asset_id": "CHAR-CLAUDE",
+      "label": "A · 清透温柔，坚定藏在里面",
+      "text": "Thank you. What are you doing here? The little girl...",
+      "instruction": "Japanese anime voice actress. A gentle, clear and delicate heroine voice, warm and sensitive, with quiet inner strength. Light, expressive phrasing. Thank you is softly grateful; What are you doing here reveals sudden concern; The little girl trails into a worried thought. Speak the given lines in clear English, with brief pauses between sentences.",
+      "seed": 20261028,
+      "request": "资产/生成记录/Claude-GPT英语声线-v008/claude-A-request.json",
+      "status": "prepared",
+      "schema_validated": true
+    },
+    {
+      "id": "claude-B",
+      "role": "Claude",
+      "asset_id": "CHAR-CLAUDE",
+      "label": "B · 温润柔和，护人时有锋芒",
+      "text": "Thank you. What are you doing here? The little girl...",
+      "instruction": "Japanese anime voice actress. A warm, velvety heroine voice, gentle and thoughtful, with a focused edge when someone she cares for is in danger. Expressive, flowing phrasing. Thank you is softly grateful; What are you doing here reveals sudden concern; The little girl trails into a worried thought. Speak the given lines in clear English, with brief pauses between sentences.",
+      "seed": 20261028,
+      "request": "资产/生成记录/Claude-GPT英语声线-v008/claude-B-request.json",
+      "status": "prepared",
+      "schema_validated": true
+    },
+    {
+      "id": "gpt-A",
+      "role": "ChatGPT",
+      "asset_id": "CHAR-GPT",
+      "label": "A · 慵懒宠溺，自带王者气息",
+      "text": "Let her in. I shouldn't interfere in Church affairs. Easy now. She's safe. Waiting for you down below.",
+      "instruction": "Japanese anime voice actress. A full, rounded and soft adult dragon-queen voice. Languid and warmly amused, with effortless royal authority and an affectionate smile. Let her in is an unhurried command; the Church line carries composed reluctance; Easy now and the reassurance become warmly protective. Speak the given lines in clear English, with brief pauses between sentences.",
+      "seed": 20261029,
+      "request": "资产/生成记录/Claude-GPT英语声线-v008/gpt-A-request.json",
+      "status": "prepared",
+      "schema_validated": true
+    },
+    {
+      "id": "gpt-B",
+      "role": "ChatGPT",
+      "asset_id": "CHAR-GPT",
+      "label": "B · 从容威严，仍然柔和慵懒",
+      "text": "Let her in. I shouldn't interfere in Church affairs. Easy now. She's safe. Waiting for you down below.",
+      "instruction": "Japanese anime voice actress. A full, resonant and soft adult dragon-queen voice. Relaxed and dignified, with measured phrasing and unmistakable quiet authority. Let her in is an unhurried command; the Church line carries composed reluctance; Easy now and the reassurance become warmly protective. Speak the given lines in clear English, with brief pauses between sentences.",
+      "seed": 20261029,
+      "request": "资产/生成记录/Claude-GPT英语声线-v008/gpt-B-request.json",
+      "status": "prepared",
+      "schema_validated": true
+    }
+  ],
+  "stop_reason": "作者中止本地英语候选，转为整理日语配音需求交给另一agent；四条均未提交。"
+}

@@ -1,0 +1,114 @@
+{
+  "1": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "Baimifan_v034_107-key-r2.png"
+    }
+  },
+  "5": {
+    "class_type": "UNETLoader",
+    "inputs": {
+      "unet_name": "qwen_image_2.1_bf16.safetensors",
+      "weight_dtype": "fp8_e4m3fn"
+    }
+  },
+  "6": {
+    "class_type": "CLIPLoader",
+    "inputs": {
+      "clip_name": "qwen3vl_8b_fp8_scaled.safetensors",
+      "type": "qwen_image",
+      "device": "cpu"
+    }
+  },
+  "7": {
+    "class_type": "VAELoader",
+    "inputs": {
+      "vae_name": "qwen_image_2.1_vae_bf16.safetensors"
+    }
+  },
+  "8": {
+    "class_type": "QwenImage21Cache",
+    "inputs": {
+      "model": [
+        "5",
+        0
+      ],
+      "device": "cpu",
+      "dtype": "default"
+    }
+  },
+  "9": {
+    "class_type": "TextEncodeQwenImage21",
+    "inputs": {
+      "clip": [
+        "6",
+        0
+      ],
+      "vae": [
+        "7",
+        0
+      ],
+      "images.image_1": [
+        "1",
+        0
+      ],
+      "prompt": "Traditional hand-drawn 2D Japanese gothic anime matching the established Claude struggle shot: confident dark ink contours, clearly grouped orange or white-lilac hair locks, matte flat skin, hard-edged two-tone cel shadows, hand-painted dark backgrounds. Retain drawn lace and charred fabric texture; do not erase lace or replace costumes with generic plain dresses. No CGI, plastic skin, volumetric beauty rendering, shiny doll faces or photographic hair. Make only the necessary continuity corrections to this existing close portrait. Preserve Claude's exact orange hair, flower on HER LEFT, damaged veil, charred white-orange lace and black ribbon, pale exhausted face and tired half-open eyes. Keep her initially upright enough to perform one small weak sway toward screen RIGHT. Remove the visible unlit cross from this tight background; the SAME EMPTY cross is now burning OFF SCREEN LEFT after her deliberate spell, casting restrained orange light on the LEFT-facing edges of her hair and dress. Extinguish EVERY background candle and brazier: dark unlit wicks, no tiny orange flames. Do not light the wet floor or scattered wood. Keep blue night windows and intact walls. At the extreme RIGHT edge show only a little white-lilac GPT sleeve and a supporting hand approaching Claude's upper arm, not already wrapping her up. No new person, no healed clothes, no fall, no seated pose.",
+      "negative_prompt": "3d, cgi, photorealism, glossy plastic skin, realistic hair strands, volumetric rendering, text, watermark",
+      "resolution": 992
+    }
+  },
+  "10": {
+    "class_type": "KSampler",
+    "inputs": {
+      "model": [
+        "8",
+        0
+      ],
+      "positive": [
+        "9",
+        0
+      ],
+      "negative": [
+        "9",
+        1
+      ],
+      "latent_image": [
+        "9",
+        2
+      ],
+      "seed": 202610303710,
+      "steps": 40,
+      "cfg": 1.0,
+      "sampler_name": "euler",
+      "scheduler": "simple",
+      "denoise": 1.0
+    }
+  },
+  "11": {
+    "class_type": "VAEDecodeTiled",
+    "inputs": {
+      "samples": [
+        "10",
+        0
+      ],
+      "vae": [
+        "7",
+        0
+      ],
+      "tile_size": 512,
+      "overlap": 64,
+      "temporal_size": 64,
+      "temporal_overlap": 8
+    }
+  },
+  "18": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "11",
+        0
+      ],
+      "filename_prefix": "Baimifan/v034/107-key-r2"
+    }
+  }
+}

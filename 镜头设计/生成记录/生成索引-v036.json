@@ -1,0 +1,400 @@
+{
+  "version": "v036",
+  "previous_index": "镜头设计/生成记录/生成索引-v035.json",
+  "records": [
+    {
+      "shot_id": "CY022B2",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-6109485c-9fca-46ca-bb7d-6a1a8a8624d5.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY022B2-v036-r1.png",
+      "sha256": "2d47549f41bd9c4fb7637ecd6ac240a5286d1f502ec361d72aea4fb391007444",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY022B2-请求-v001.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/末轮叙事优化-v035/CY022B2-v035-r1.png",
+          "sha256": "3338dc34e2f365c42943dd68fc5855a27448e6f2851611af29c1ad0915c1e418"
+        }
+      ],
+      "status": "candidate_pending_author_review",
+      "request_sha256": "15f04dd6d1792e79cc651c6f6abf09cd70ffcc91d296761713612ed707a6ae4e"
+    },
+    {
+      "shot_id": "CY022B",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-64b818df-a93a-4442-8c08-da5ebc6e6c23.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY022B-v036-r1.png",
+      "sha256": "d63e708544d8e855408519996068bf71c83ade259e7962956a80bc06642c82f2",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY022B-请求-v001.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/末轮叙事优化-v035/CY022B-v035-r1.png",
+          "sha256": "87a8485bbe42461d1caffc1a79608ae748fc4cdc7457564696414f419267df6e"
+        }
+      ],
+      "status": "rejected_orange_ritual_flame",
+      "request_sha256": "93f00a117fe7eecef37808e75e524b82fefcd03db2f623ae2b892ea615ee9072"
+    },
+    {
+      "shot_id": "CY024A2",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-e11afc9e-4bf8-46af-8664-eca8ab0fab5e.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY024A2-v036-r1.png",
+      "sha256": "5c0590c1ff7e447cf990d09bad1e091773f4b18af3444d4b70450540581111ed",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY024A2-请求-v001.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/末轮叙事优化-v035/CY024A2-v035-r1.png",
+          "sha256": "d4dbc3031ce8149527d8fbf779d552c9ee942719f00549b439579d4df50c36df"
+        }
+      ],
+      "status": "rejected_orange_ritual_flame",
+      "request_sha256": "9a2b7009348f966be891cd8c8a5fe60b0b0ba780a789eabee031245da150d559"
+    },
+    {
+      "shot_id": "CY024A4",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-7cff9b64-e65d-423d-bc0a-eca5ad8a53da.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY024A4-v036-r1.png",
+      "sha256": "fad286392a4d2f1bda6a95c8e45c992d3b41070632458201ab087832dd20beeb",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY024A4-请求-v001.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/末轮叙事优化-v035/CY024A4-v035-r1.png",
+          "sha256": "82a995c002e65ce0b5e2495104abd4a65f7651c82bdfb87b1ed1a3bf9744c739"
+        }
+      ],
+      "status": "rejected_orange_ritual_flame",
+      "request_sha256": "f857adb4468dc728dbb174aa13243326a61d76ea759e3df6f3b9ba4455a0751e"
+    },
+    {
+      "shot_id": "CY028B",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-aec8d916-c9cd-4611-845b-15734f553948.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY028B-v036-r1.png",
+      "sha256": "99bfa29695e0917272177a3779e9d2c7571d312219f507ac87c1eb4a1e2b1bed",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY028B-请求-v001.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/天瀑空间-v014/CY028B-v014-r1.png",
+          "sha256": "e5ee7f4acfed3342dea1495f7dccd28836960627b07c1bfe89bdbbd28768c35b"
+        }
+      ],
+      "status": "candidate_pending_author_review",
+      "request_sha256": "83da2acc255b9dbe7cb49f4a7546e83b9c4872921aa9213bda0ced817b7f62d6"
+    },
+    {
+      "shot_id": "CY029E3",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-c090f9be-9e86-477a-b2e7-ec9b8ef08de9.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY029E3-v036-r1.png",
+      "sha256": "1add6e04bd4c79f7ab4b29b61dfe5edca5be9573c9a7025e16a75a7e01bcea7b",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY029E3-请求-v001.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/末轮叙事优化-v035/CY029E3-v035-r1.png",
+          "sha256": "472ade3a540d87051f2392dee0fe9f291b7a7762a6f48b5e2c483bed12090add"
+        }
+      ],
+      "status": "candidate_pending_author_review",
+      "request_sha256": "f80843ed023ebc5697f077d33d182addda86cc3a4c388e02b67d97182aa2693c"
+    },
+    {
+      "shot_id": "CY024B",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-64a3be1b-105a-49fa-b44f-55af5ee65972.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY024B-v036-r1.png",
+      "sha256": "75cca6165fe372d27d821ef10dfd2b2193510f4734e4b229d67654dbac196c36",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY024B-请求-v001.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/末轮叙事优化-v035/CY024B-v035-r1.png",
+          "sha256": "ba51cf4c35cb8a02b823f26f413d4ce0774fe5a4506423d544eb11d32c7d4c8f"
+        },
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a162c1-6e38-7a10-aee7-5c8371c4830c/exec-7cff9b64-e65d-423d-bc0a-eca5ad8a53da.png",
+          "sha256": "fad286392a4d2f1bda6a95c8e45c992d3b41070632458201ab087832dd20beeb"
+        }
+      ],
+      "status": "candidate_pending_author_review",
+      "request_sha256": "4d8b713b304f954117fdfdc8fc835753293ce2d6b54c55a5765a9f13f0de8b92"
+    },
+    {
+      "shot_id": "CY027F1",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-9e0af964-5e33-4f39-9115-4357fe129c5a.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY027F1-v036-r1.png",
+      "sha256": "0f885eaf7c57a4a0f0c6d19b2cdee7666a599fb6d7e399e92f74edc65f3456e3",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY027F1-请求-v001.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/月光救赎-v032/CY027F1-v032-r1.png",
+          "sha256": "5150f096c0866dd2ffd1a97553fb016ccbb56a75fd7b809ab473da9db33c2aed"
+        },
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a162c1-6e38-7a10-aee7-5c8371c4830c/exec-7cff9b64-e65d-423d-bc0a-eca5ad8a53da.png",
+          "sha256": "fad286392a4d2f1bda6a95c8e45c992d3b41070632458201ab087832dd20beeb"
+        }
+      ],
+      "status": "candidate_pending_author_review",
+      "request_sha256": "209e3ddc821191609cf583938a560981d5d3842ecd6d478a78e79135320a5894"
+    },
+    {
+      "shot_id": "CY027G",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-8d2ffbce-6396-4865-8c6b-c7ca96228b0e.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY027G-v036-r1.png",
+      "sha256": "469e5cdb2c30b06f7e088a1600a4f40aada5c18447204e091b3db70582d4b49c",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY027G-请求-v001.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY027G-v033-r1.png",
+          "sha256": "21688eebe259b7b6ef9f27f3e9bd04fe0b0dd0f284263d28c11e5983edfcb5cf"
+        },
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a162c1-6e38-7a10-aee7-5c8371c4830c/exec-7cff9b64-e65d-423d-bc0a-eca5ad8a53da.png",
+          "sha256": "fad286392a4d2f1bda6a95c8e45c992d3b41070632458201ab087832dd20beeb"
+        }
+      ],
+      "status": "candidate_pending_author_review",
+      "request_sha256": "fb2331b2edc3ff097ea40b8d873920e982e2b2aaa11c08b8afbc816bdb20f631"
+    },
+    {
+      "shot_id": "CY028A",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-84bf042d-8552-4325-9f5d-71a4e16659e3.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY028A-v036-r1.png",
+      "sha256": "4d22352cafcb86b1a0fc014e6bce0e6158374685e4bd2d313387fecd8e3336ef",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY028A-请求-v001.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY028A-v033-r1.png",
+          "sha256": "40901659d90578fc07c4f9d6917d7d3e17d5c39f7e267d9e086a0ee7b5c92468"
+        },
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a162c1-6e38-7a10-aee7-5c8371c4830c/exec-7cff9b64-e65d-423d-bc0a-eca5ad8a53da.png",
+          "sha256": "fad286392a4d2f1bda6a95c8e45c992d3b41070632458201ab087832dd20beeb"
+        }
+      ],
+      "status": "candidate_pending_author_review",
+      "request_sha256": "7ba97b2affd463413767e23cf9ca0aeda8e1a5ef6cc0dd3fb0b63fc25426fa99"
+    },
+    {
+      "shot_id": "CY028C",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-47a49269-ca12-4808-9fb4-5a2e9aab5e4f.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY028C-v036-r1.png",
+      "sha256": "a7815c6bc920ebb1a0cd4d0f0465fc488abc3be480cf77a2a97a877eade40b9e",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY028C-请求-v001.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/天瀑空间-v014/CY028C-v014-r1.png",
+          "sha256": "6f838d202c159bc8ed8a30c323ab50090cb9e0f29acaf9d594495c73a612e242"
+        },
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a162c1-6e38-7a10-aee7-5c8371c4830c/exec-7cff9b64-e65d-423d-bc0a-eca5ad8a53da.png",
+          "sha256": "fad286392a4d2f1bda6a95c8e45c992d3b41070632458201ab087832dd20beeb"
+        }
+      ],
+      "status": "candidate_pending_author_review",
+      "request_sha256": "624894a8f06fc120d3f5e6d1811ded0865618f7a16d4b76b5ea841dcab408de8"
+    },
+    {
+      "shot_id": "CY029E1",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-eaac0bfb-eba3-43ba-859d-fc5aba60f93c.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY029E1-v036-r1.png",
+      "sha256": "5f3812747ba948f49c63d6381b535ce796496dcbf71079a640bccd55c2b64607",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY029E1-请求-v001.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/末轮叙事优化-v035/CY029E1-v035-r1.png",
+          "sha256": "fe0f4c31f3982079f8e578811dd44c7940e9a0fdba66b2c111031075b57f5c34"
+        },
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a162c1-6e38-7a10-aee7-5c8371c4830c/exec-7cff9b64-e65d-423d-bc0a-eca5ad8a53da.png",
+          "sha256": "fad286392a4d2f1bda6a95c8e45c992d3b41070632458201ab087832dd20beeb"
+        }
+      ],
+      "status": "candidate_pending_author_review",
+      "request_sha256": "32c40c9072aac75f005200ceaa48314bea9dcd596b9154c75f90736549a7409e"
+    },
+    {
+      "shot_id": "CY029B1",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-c9499bc6-0513-4178-9320-ac51aa44abc5.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY029B1-v036-r1.png",
+      "sha256": "5c1b217da403575f03a47b8675726604f9f5dfb2b7f523bc8d6bd2848cf70da5",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY029B1-请求-v001.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火种慢镜-v026/CY029B1-v026-r2.png",
+          "sha256": "d0ee8df9b35d5ce8f393c6d9b8871b3662096f83101fa1c74c16f9baefaf5169"
+        },
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a162c1-6e38-7a10-aee7-5c8371c4830c/exec-7cff9b64-e65d-423d-bc0a-eca5ad8a53da.png",
+          "sha256": "fad286392a4d2f1bda6a95c8e45c992d3b41070632458201ab087832dd20beeb"
+        }
+      ],
+      "status": "candidate_pending_author_review",
+      "request_sha256": "1e21cb16f668ad96e9956b85aee48a02d85ba1f92b226e778cc5210656d1c21f"
+    },
+    {
+      "shot_id": "CY029B",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-b3592bd1-b26e-4557-8e64-8bf1734b6716.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY029B-v036-r1.png",
+      "sha256": "08798cb3d797ec539e7f250c2f24ae70d9555e97dc4848520c9f9685d15242f2",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY029B-请求-v001.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY029B-v033-r1.png",
+          "sha256": "03742336821b249a714294dde878ec3114e921e26319b63cedb965f9358f0b52"
+        },
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a162c1-6e38-7a10-aee7-5c8371c4830c/exec-7cff9b64-e65d-423d-bc0a-eca5ad8a53da.png",
+          "sha256": "fad286392a4d2f1bda6a95c8e45c992d3b41070632458201ab087832dd20beeb"
+        }
+      ],
+      "status": "candidate_pending_author_review",
+      "request_sha256": "e57540d0139fbd930436debb3072b29441ef19ef98f9ce27520f9bddd9b2017e"
+    },
+    {
+      "shot_id": "CY029C",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-077f5e69-810b-4019-8e87-ba66d0a743ff.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY029C-v036-r1.png",
+      "sha256": "13ac3aed77a8c45b87257dcb82dd49de1c1a86554a5ae6dd650bc84a1279ffac",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY029C-请求-v001.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY029C-v033-r1.png",
+          "sha256": "13589b7901889a310498cfa9ded6c3a0f713d897c9e9dc1e93e51dcafebab920"
+        },
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a162c1-6e38-7a10-aee7-5c8371c4830c/exec-7cff9b64-e65d-423d-bc0a-eca5ad8a53da.png",
+          "sha256": "fad286392a4d2f1bda6a95c8e45c992d3b41070632458201ab087832dd20beeb"
+        }
+      ],
+      "status": "candidate_pending_author_review",
+      "request_sha256": "cd723749354b2c494729a2324f8b5a1579b6017e5ab59311b6c8bfe0157400d6"
+    },
+    {
+      "shot_id": "CY029D",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-ff43fef8-cbc0-4902-ba5b-243d8bf08415.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY029D-v036-r1.png",
+      "sha256": "aad8e23c78d88b053b492afbbe4147e7e3e8c91f15b0ddefc64a7a34a44d540e",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY029D-请求-v001.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY029D-v033-r1.png",
+          "sha256": "2b665770e00e70ae1a16eb9dffe9bfc5234dd002fe005aa850afd458a26f2725"
+        },
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a162c1-6e38-7a10-aee7-5c8371c4830c/exec-7cff9b64-e65d-423d-bc0a-eca5ad8a53da.png",
+          "sha256": "fad286392a4d2f1bda6a95c8e45c992d3b41070632458201ab087832dd20beeb"
+        }
+      ],
+      "status": "candidate_pending_author_review",
+      "request_sha256": "518a7a21e525a71647d97af6db21727fedcf31fc4c2fd50d5d345e9dce97e52d"
+    },
+    {
+      "shot_id": "CY028",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-4fa9ef96-7a89-43b3-9bb6-7fd8ebf25bd7.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY028-v036-r1.png",
+      "sha256": "518dd09f75b2f8910e30f8742c7cc1a61d21dbc502e26dd86c8c1b57e8b8be7b",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY028-请求-v001.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY028-v033-r1.png",
+          "sha256": "97bd996facbd4c268f891748b9d4ceb556e5ce1c5b7c84d608110aed709b9c28"
+        },
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a162c1-6e38-7a10-aee7-5c8371c4830c/exec-7cff9b64-e65d-423d-bc0a-eca5ad8a53da.png",
+          "sha256": "fad286392a4d2f1bda6a95c8e45c992d3b41070632458201ab087832dd20beeb"
+        }
+      ],
+      "status": "candidate_pending_author_review",
+      "request_sha256": "61a9c9c236dde6318b6c5c6914d4db62a1078477131897f116ffddaec1a0feb0"
+    },
+    {
+      "shot_id": "CY029A",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-148fca12-c309-4ef8-b844-6703b9c1d41a.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY029A-v036-r1.png",
+      "sha256": "93c6d6fca455d88b769773b3a8874b679500362317045062704fe31b2144f5a5",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY029A-请求-v001.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/动作收尾-v015/CY029A-v015-r1.png",
+          "sha256": "f68cdebf8f967b7e4d66675b9eb2126f90139d78c87abdcaaa14d4d2ecc0c63e"
+        },
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a162c1-6e38-7a10-aee7-5c8371c4830c/exec-7cff9b64-e65d-423d-bc0a-eca5ad8a53da.png",
+          "sha256": "fad286392a4d2f1bda6a95c8e45c992d3b41070632458201ab087832dd20beeb"
+        }
+      ],
+      "status": "candidate_pending_author_review",
+      "request_sha256": "6831f0a57a39221e10772c6fad74d1647eefe0c98fc27327b398bd6407b13e08"
+    },
+    {
+      "shot_id": "CY030",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-6f8c1d8b-4e8c-461e-8eb2-16aa9bf37e6d.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY030-v036-r1.png",
+      "sha256": "4b4969b67a24902301c26f4628fece7d79f6943145e4d3bf585f780258682b75",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY030-请求-v001.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY030-v033-r1.png",
+          "sha256": "0294ab192fcf6600b4d762836fef71ce2b344557dc9578054810c4147273e1e0"
+        },
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a162c1-6e38-7a10-aee7-5c8371c4830c/exec-7cff9b64-e65d-423d-bc0a-eca5ad8a53da.png",
+          "sha256": "fad286392a4d2f1bda6a95c8e45c992d3b41070632458201ab087832dd20beeb"
+        }
+      ],
+      "status": "candidate_pending_author_review",
+      "request_sha256": "5bee68632db0f7ca403768aad96e52a52cce8d11ffffabcd5c90c4fa049c011f"
+    },
+    {
+      "shot_id": "CY022B",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-9c7b185f-9a1c-4201-a5cf-e815ea7832ce.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY022B-v036-r2.png",
+      "sha256": "724b7d2b253f178a17c8095c7dea3f8520ac1bf15aab286c27aa84ce95a3a6e5",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY022B-请求-v002.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火焰伤后与星火-v036/CY022B-v036-r1.png",
+          "sha256": "d63e708544d8e855408519996068bf71c83ade259e7962956a80bc06642c82f2"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火焰伤后与星火-v036/CY022B2-v036-r1.png",
+          "sha256": "2d47549f41bd9c4fb7637ecd6ac240a5286d1f502ec361d72aea4fb391007444"
+        }
+      ],
+      "status": "candidate_pending_author_review",
+      "request_sha256": "ab21a7fe7ecfca298db143fd25cc0cdd5223308ad5b4bc054148c4dd1e7b5563"
+    },
+    {
+      "shot_id": "CY024A2",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-3e00f59f-fb5b-4857-8fe5-bd9e2203f66c.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY024A2-v036-r2.png",
+      "sha256": "717cd9878c953e211fae89fa4c18719f08bd02eac0ad05ffbf331feb1d5af836",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY024A2-请求-v002.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火焰伤后与星火-v036/CY024A2-v036-r1.png",
+          "sha256": "5c0590c1ff7e447cf990d09bad1e091773f4b18af3444d4b70450540581111ed"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火焰伤后与星火-v036/CY022B2-v036-r1.png",
+          "sha256": "2d47549f41bd9c4fb7637ecd6ac240a5286d1f502ec361d72aea4fb391007444"
+        }
+      ],
+      "status": "candidate_pending_author_review",
+      "request_sha256": "e99b03e821d94e33ce6abbb3eb6ab9baa56e12fca9dde2c74d38f6f34cd26119"
+    },
+    {
+      "shot_id": "CY024A4",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-bb015e94-b4a7-470e-9631-06eb5f6be915.png",
+      "destination": "镜头设计/图像/火焰伤后与星火-v036/CY024A4-v036-r2.png",
+      "sha256": "da368dc5a687a68177b974687c76ea75df6677ce4918e722e2a48eea7ef56864",
+      "request": "镜头设计/生成记录/火焰伤后与星火-v036/CY024A4-请求-v002.json",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火焰伤后与星火-v036/CY024A4-v036-r1.png",
+          "sha256": "fad286392a4d2f1bda6a95c8e45c992d3b41070632458201ab087832dd20beeb"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火焰伤后与星火-v036/CY022B2-v036-r1.png",
+          "sha256": "2d47549f41bd9c4fb7637ecd6ac240a5286d1f502ec361d72aea4fb391007444"
+        }
+      ],
+      "status": "candidate_pending_author_review",
+      "request_sha256": "592d8b916c800dc6d80fe5a7c92aa4939c7bf4f90df8fec9edc8a68202cc43ee"
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "scope": "v001-r3第1–15批任务；本轮按用户追问优先完整实际复核7–15，1–6仅voice元数据，不宣称通过",
+  "source": "后期/导演后期修正-v001/导出/白米饭-导演修订-v001-r3.mp4",
+  "design": "镜头设计/shot-plan-v0.65.json",
+  "timing_basis": "后期/导演后期修正-v001/后期执行计划.json；24fps最终记录时码",
+  "method": "B7–15全长2fps实看；B8/9/12/14对白与B11/13动作8fps实看；B11原源2–5秒8fps对照；桥接当前成片原尺寸帧。网格切点近似，精确剪口需回片试剪。",
+  "limits": [
+    "未实际听审，不评价演员发音/音色/配乐音量或逐音口型",
+    "开合嘴与voice窗口比较属于可见发话归属/时序审查",
+    "独立拟音/环境声未完成不等于证实当前混音里完全无这些声音",
+    "不把所有画外音认定错误；B7教徒指令、B9Claude劝走和快走、B12让开均有合理反应镜动机"
+  ],
+  "root_cause": "原片按画面段落安排动作，未把发话窗口与接触/决定等关键节拍一起拍出；上一轮局部提速又把受推恢复压短。首要恢复说话主体、空间转移和受力，再重排快慢，不整批重做。",
+  "batches": [
+    {
+      "batch_number": 1,
+      "status": "not_expanded_this_priority_pass",
+      "summary": "已读取voice时间表；按用户后续聚焦7–15，本轮未重新逐帧声画验收，不沿用上一轮通过结论。"
+    },
+    {
+      "batch_number": 2,
+      "status": "not_expanded_this_priority_pass",
+      "summary": "已读取voice时间表；按用户后续聚焦7–15，本轮未重新逐帧声画验收，不沿用上一轮通过结论。"
+    },
+    {
+      "batch_number": 3,
+      "status": "not_expanded_this_priority_pass",
+      "summary": "已读取voice时间表；按用户后续聚焦7–15，本轮未重新逐帧声画验收，不沿用上一轮通过结论。"
+    },
+    {
+      "batch_number": 4,
+      "status": "not_expanded_this_priority_pass",
+      "summary": "已读取voice时间表；按用户后续聚焦7–15，本轮未重新逐帧声画验收，不沿用上一轮通过结论。"
+    },
+    {
+      "batch_number": 5,
+      "status": "not_expanded_this_priority_pass",
+      "summary": "已读取voice时间表；按用户后续聚焦7–15，本轮未重新逐帧声画验收，不沿用上一轮通过结论。"
+    },
+    {
+      "batch_number": 6,
+      "status": "not_expanded_this_priority_pass",
+      "summary": "已读取voice时间表；按用户后续聚焦7–15，本轮未重新逐帧声画验收，不沿用上一轮通过结论。"
+    },
+    {
+      "batch_number": 7,
+      "status": "reviewed_2fps_and_targeted_8fps",
+      "evidence": "后期/声画重构-v002/证据/独立01-15/B7-r3-full-2fps.jpg",
+      "issues": [
+        {
+          "batch_number": 7,
+          "final_start": 89,
+          "final_end": 96.666667,
+          "shot_ids": [
+            "CY012",
+            "CY013",
+            "CY014"
+          ],
+          "problem": "入殿末仍在最下层，接Claude俯视与脚镣后已经抵达最高坛。原空间省略未给攀阶启动/到达，潜入的谨慎和距离感被削弱。",
+          "minimum_repair": "在7→8间补小鱼上阶2–3秒有效动作，生成4秒；表现方向与脚步，不要求4秒跑完整长阶。",
+          "origin": "源素材缺桥接，非后期单独引入；B7删卡帽静止1秒与此无关。",
+          "evidence": [
+            "后期/声画重构-v002/证据/独立01-15/B07-end.png",
+            "后期/声画重构-v002/证据/独立01-15/B08-start.png"
+          ],
+          "classification": "regenerate",
+          "reshoot_seconds": 4,
+          "confidence": "medium-high"
+        }
+      ],
+      "summary": "需局部重构，见问题。"
+    },
+    {
+      "batch_number": 8,
+      "status": "reviewed_2fps_and_targeted_8fps",
+      "evidence": "后期/声画重构-v002/证据/独立01-15/B8-r3-full-2fps.jpg",
+      "issues": [
+        {
+          "batch_number": 8,
+          "final_start": 98.583333,
+          "final_end": 100.083333,
+          "shot_ids": [
+            "CY015"
+          ],
+          "problem": "小鱼‘我带你出去’期间主要是后帽/背头，Claude脸持续占据明显位置。看得到孩子伸手却看不到她坚定答话；8fps可见Claude略张嘴，存在归属含混，不能据此断言逐字代说。",
+          "minimum_repair": "先保留Claude问句，孩子承诺可后期在既有转头/手部镜头标明声源；若无法取得清楚发话起点，再补2–2.2秒小鱼3/4回答近景。当前最小强制补拍队列不加入。",
+          "origin": "源分镜执行未给要求的双方嘴可见；后期加速发生于9秒后，不是这句期间。",
+          "evidence": [
+            "后期/声画重构-v002/证据/独立01-15/B08-dialogue-8fps.jpg"
+          ],
+          "classification": "post_or_conditional_reshoot",
+          "reshoot_seconds": 2.2,
+          "confidence": "medium-high"
+        }
+      ],
+      "summary": "需局部重构，见问题。"
+    },
+    {
+      "batch_number": 9,
+      "status": "reviewed_2fps_and_targeted_8fps",
+      "evidence": "后期/声画重构-v002/证据/独立01-15/B9-r3-full-2fps.jpg",
+      "issues": [
+        {
+          "batch_number": 9,
+          "final_start": 110.791667,
+          "final_end": 114.151625,
+          "shot_ids": [
+            "CY016A"
+          ],
+          "problem": "小鱼答话镜嘴约112.5秒才明显开口；选声第一活动窗111.0101–111.5330秒已在此前，故至少第一短句存在可见发话起点风险。文件中多处静音/呼吸，不应认定整个3.36秒持续讲话。前句Claude劝走仍是合理画外反应。",
+          "minimum_repair": "按选声各活动窗对齐小鱼的可见开合，停顿可留闭口或插手部。第一短句先找到明确发话锚点，再接试锁；保留文件3.36秒完整原速。若缺能对应第一短句的画面，再补3.8秒近景。",
+          "origin": "当前B9原速，错位为源表演与配音排布不同步。",
+          "evidence": [
+            "后期/声画重构-v002/证据/独立01-15/B09-reply-8fps.jpg"
+          ],
+          "classification": "post_or_conditional_reshoot",
+          "reshoot_seconds": 3.8,
+          "confidence": "medium-high"
+        }
+      ],
+      "summary": "需局部重构，见问题。"
+    },
+    {
+      "batch_number": 10,
+      "status": "reviewed_2fps_and_targeted_8fps",
+      "evidence": "后期/声画重构-v002/证据/独立01-15/B10-r3-full-2fps.jpg",
+      "issues": [
+        {
+          "batch_number": 10,
+          "final_start": 118.291667,
+          "final_end": 124.291667,
+          "shot_ids": [
+            "CY016C",
+            "CY016D"
+          ],
+          "problem": "先从高坛小鱼旁看搬柴队伍，接队伍特写后小鱼突然已在最低阶抓木；缺‘放弃试锁，决定阻拦柴队’的转身和下阶启动。",
+          "minimum_repair": "10→11之间补2–3秒有效下阶动作，生成4秒；后方Claude留原位，孩子从左前向中央下方远离镜头，保持门在远端。",
+          "origin": "原素材缺动作桥，前版剪辑没有补足。",
+          "evidence": [
+            "后期/声画重构-v002/证据/独立01-15/B10-high-start.png",
+            "后期/声画重构-v002/证据/独立01-15/B10-end.png",
+            "后期/声画重构-v002/证据/独立01-15/B11-start.png"
+          ],
+          "classification": "regenerate",
+          "reshoot_seconds": 4,
+          "confidence": "medium-high"
+        }
+      ],
+      "summary": "需局部重构，见问题。"
+    },
+    {
+      "batch_number": 11,
+      "status": "reviewed_2fps_and_targeted_8fps",
+      "evidence": "后期/声画重构-v002/证据/独立01-15/B11-r3-full-2fps.jpg",
+      "issues": [
+        {
+          "batch_number": 11,
+          "final_start": 124.291667,
+          "final_end": 127.791667,
+          "shot_ids": [
+            "CY016D",
+            "CY017"
+          ],
+          "problem": "抓木受推变成双脚同时离地的小跳，然后自己蹲稳、抬手碰帽，缺推动接触和侧向重心失衡。原源2–5秒也存在，不是仅由加速造成。",
+          "minimum_repair": "补5秒同机位抓木→空手触肩→一脚滑移→半跪单手撑地；后面的堆柴可留。",
+          "origin": "源动作错误，后期把源2–3.75秒150%且删3.75–4.7917秒恢复段进一步放大跳跃感。",
+          "evidence": [
+            "后期/声画重构-v002/证据/独立01-15/B11-action-8fps.jpg",
+            "后期/声画重构-v002/证据/独立01-15/B11-source-action-8fps.jpg"
+          ],
+          "classification": "regenerate",
+          "reshoot_seconds": 5,
+          "confidence": "high"
+        }
+      ],
+      "summary": "需局部重构，见问题。"
+    },
+    {
+      "batch_number": 12,
+      "status": "reviewed_2fps_and_targeted_8fps",
+      "evidence": "后期/声画重构-v002/证据/独立01-15/B12-r3-full-2fps.jpg",
+      "issues": [
+        {
+          "batch_number": 12,
+          "final_start": 137.166667,
+          "final_end": 143.466667,
+          "shot_ids": [
+            "CY021A"
+          ],
+          "problem": "选声实际两段活动为137.6172–139.0709及140.0035–141.6028秒，角色到约141.5秒才明显开始说话；因此第一句和第二句大部分时间确在接火闭口，非把静音尾误算发话。6.3秒文件末1.864秒静音应可切反应。",
+          "minimum_repair": "以新教主朝高坛的近景，分别对应选声0.45055–1.904275、2.83685–4.4361两段发话；0.9326秒句间停顿不强迫嘴动，末1.864秒静音可切孩子反应。完整6.3秒声文件原速，不要求新镜连续说足6.3秒。",
+          "origin": "B12整段100%原速，源表演时序和机位问题，非后期加速。",
+          "evidence": [
+            "后期/声画重构-v002/证据/独立01-15/B12-dialogue-8fps.jpg"
+          ],
+          "classification": "regenerate",
+          "reshoot_seconds": 7,
+          "confidence": "high"
+        }
+      ],
+      "summary": "需局部重构，见问题。"
+    },
+    {
+      "batch_number": 13,
+      "status": "reviewed_2fps_and_targeted_8fps",
+      "evidence": "后期/声画重构-v002/证据/独立01-15/B13-r3-full-2fps.jpg",
+      "issues": [
+        {
+          "batch_number": 13,
+          "final_start": 153.833333,
+          "final_end": 156.333333,
+          "shot_ids": [
+            "CY020B",
+            "CY020A"
+          ],
+          "problem": "对视后教主胳膊刚扫动就切孩子已离地，触碰肩侧和受力起点没交代。跌落本身存在，但推动因果缺关键一拍。",
+          "minimum_repair": "只补3–4秒同轴一镜，先左手实际触肩，再向画左失衡落地，右手始终持火把；保留此前Claude喊停和短对视。",
+          "origin": "源未清楚建立接触；后期删源8–8.25秒进一步缩窄动作入口，不能把全部缺陷归于此0.25秒。",
+          "evidence": [
+            "后期/声画重构-v002/证据/独立01-15/B13-push-8fps.jpg"
+          ],
+          "classification": "regenerate",
+          "reshoot_seconds": 4,
+          "confidence": "medium-high"
+        }
+      ],
+      "summary": "需局部重构，见问题。"
+    },
+    {
+      "batch_number": 14,
+      "status": "reviewed_2fps_and_targeted_8fps",
+      "evidence": "后期/声画重构-v002/证据/独立01-15/B14-r3-full-2fps.jpg",
+      "issues": [
+        {
+          "batch_number": 14,
+          "final_start": 156.333333,
+          "final_end": 160.463333,
+          "shot_ids": [
+            "CY021",
+            "CY021B"
+          ],
+          "problem": "选声称呼活动156.5657–157.2227秒、后句159.0796–160.1631秒均缺明确Claude发话锚点，整镜主要是张嘴抬头的小鱼。中间约1.857秒是停顿，应利用留白反应，不应持续制作说话口型。",
+          "minimum_repair": "新Claude称呼近景→1.857秒无对白小鱼反应/手部→Claude后句近景，完整4.13秒文件原速，句间停顿保留。新回片需裁去错误提前燃火与新增后景人物，见v005首轮独立复核.json。",
+          "origin": "原设计允许画外但执行产生歧义；当前B14未加速，非新剪法独有。",
+          "evidence": [
+            "后期/声画重构-v002/证据/独立01-15/B14-dialogue-8fps.jpg"
+          ],
+          "classification": "regenerate",
+          "reshoot_seconds": 5,
+          "confidence": "medium-high"
+        }
+      ],
+      "summary": "需局部重构，见问题。"
+    },
+    {
+      "batch_number": 15,
+      "status": "reviewed_2fps_and_targeted_8fps",
+      "evidence": "后期/声画重构-v002/证据/独立01-15/B15-r3-full-2fps.jpg",
+      "issues": [],
+      "summary": "B15袍角滑脱→教主登阶→触柴→黑焰→Claude反应因果可读，当前不需再生；补拟音和保留选择前停顿。"
+    }
+  ],
+  "minimum_chain": [
+    "7→8上阶桥4秒生成/2–3秒有效",
+    "10→11下阶桥4秒生成/2–3秒有效",
+    "B11受推5秒",
+    "B12宣判7秒",
+    "B13明确接触推倒4秒",
+    "B14Claude恳求5秒"
+  ],
+  "sound_completion": [
+    {
+      "phase": "潜入/偷救",
+      "needs": "远去提灯脚步与教徒命令的距离感；卡帽衣料；空堂脚步；金属锁试失败两次分别有力度与间隔；孩子短促呼吸。"
+    },
+    {
+      "phase": "取柴/阻拦",
+      "needs": "脚步节奏持续逼近；木头受拉摩擦；推肩衣料、膝掌触地；堆柴重声；避免把过渡填满BGM。"
+    },
+    {
+      "phase": "宣判/跌落/恳求",
+      "needs": "宣判时音乐让位；推倒接触、落地的同步声；Claude称呼父亲后留停顿；抓袍、布料拉紧与滑脱后脚步离去；火触木的一次明确起燃点。"
+    }
+  ],
+  "audio_activity_revision": "已追加选定配音实测停顿.json。文件总长不是持续说话时长；以下区间为幅度阈值信号活动，可能包括呼吸，不等同音素转写或听审。保留原速完整文件，但画面按有效发话与停顿分段。",
+  "voice_activity_7_15": [
+    {
+      "id": "VO-CY010A-01",
+      "batch": 7,
+      "file_duration": 2.8699999999999903,
+      "signal_intervals": [
+        [
+          0.219575,
+          1.069125
+        ],
+        [
+          1.586975,
+          1.878525
+        ],
+        [
+          2.012375,
+          2.567375
+        ]
+      ]
+    },
+    {
+      "id": "VO-CY015-01",
+      "batch": 8,
+      "file_duration": 1.6200000000000045,
+      "signal_intervals": [
+        [
+          0.218025,
+          0.7201
+        ],
+        [
+          0.843,
+          1.3692
+        ]
+      ]
+    },
+    {
+      "id": "VO-CY015-02",
+      "batch": 8,
+      "file_duration": 1.5,
+      "signal_intervals": [
+        [
+          0.3536,
+          1.5
+        ]
+      ]
+    },
+    {
+      "id": "VO-CY016A-01",
+      "batch": 9,
+      "file_duration": 4.219999999999999,
+      "signal_intervals": [
+        [
+          0.29515,
+          1.31305
+        ],
+        [
+          3.01245,
+          3.968575
+        ]
+      ]
+    },
+    {
+      "id": "VO-CY016A-02",
+      "batch": 9,
+      "file_duration": 3.359957999999992,
+      "signal_intervals": [
+        [
+          0.218475,
+          0.741325
+        ],
+        [
+          1.06445,
+          1.270025
+        ],
+        [
+          1.4161,
+          1.4901
+        ],
+        [
+          2.08145,
+          2.39465
+        ],
+        [
+          2.524925,
+          2.98195
+        ]
+      ]
+    },
+    {
+      "id": "VO-CY016B1-01",
+      "batch": 9,
+      "file_duration": 1.3799999999999955,
+      "signal_intervals": [
+        [
+          0.514225,
+          1.2035
+        ]
+      ]
+    },
+    {
+      "id": "VO-CY021A-01",
+      "batch": 12,
+      "file_duration": 6.299999999999983,
+      "signal_intervals": [
+        [
+          0.45055,
+          1.904275
+        ],
+        [
+          2.83685,
+          4.4361
+        ]
+      ]
+    },
+    {
+      "id": "VO-CY019-01",
+      "batch": 12,
+      "file_duration": 0.8000000000000114,
+      "signal_intervals": [
+        [
+          0,
+          0.57575
+        ]
+      ]
+    },
+    {
+      "id": "VO-CY020-01",
+      "batch": 13,
+      "file_duration": 2.639979000000011,
+      "signal_intervals": [
+        [
+          0.2331,
+          0.55655
+        ],
+        [
+          0.962825,
+          2.338725
+        ]
+      ]
+    },
+    {
+      "id": "VO-CY021-01",
+      "batch": 14,
+      "file_duration": 4.130000000000024,
+      "signal_intervals": [
+        [
+          0.23235,
+          0.889375
+        ],
+        [
+          2.746275,
+          3.82975
+        ]
+      ]
+    }
+  ]
+}

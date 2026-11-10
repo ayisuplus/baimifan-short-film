@@ -1,0 +1,298 @@
+{
+  "review_date": "2026-10-28",
+  "reviewer": "repair_candidates_audit 独立复核",
+  "scope": "作者否定整批后重开第20、21批；对照v025逐镜及第19末段、第22开头，不沿用旧局部通过结论。",
+  "source_of_truth": "后期/制作工作台-v025/工作台数据.json",
+  "method": {
+    "full_batch_visual_coverage": "20全5秒按5fps；21全11.3秒按4fps；20闭罩前1.6秒补10fps；21前4秒补8fps，并查看20@0.2及21@0.55原尺寸大帧。19末2.5秒5fps、22前3秒4fps。；云宫8.8/9.35秒原尺寸大帧及9–11秒8fps补查轴线、握扇和合扇时序。",
+    "limitations": "这是覆盖完整时段的密集静帧动作审查，未连续实时播放、未听审音频，也不等于口型或作者最终验收。",
+    "evidence_directory": "视频制作/Metaso-H3-v002/审查/五批重审20-21",
+    "current_21_detected_cuts_seconds": [
+      3.208333,
+      6.0,
+      9.291667
+    ],
+    "timeline_note": "原试镣镜实际延至3.208333，挤掉骑士约0.208秒；6秒、9.3秒边界为剪辑版重建。9.291667为24fps量化近似。"
+  },
+  "overall_decision": {
+    "batch20": "整批4秒弃用，必须重拍。不能裁掉开场后宣称完成闭罩保护因果。",
+    "batch21": "整批当前版不通过。前6秒必须重拍；云宫双人3.3秒可作为重组候选，末2秒合扇需本地动作/对白时序重排，再做整批连续视听。无证据要求为凑整批而全部再花费。",
+    "root_cause": "把已完成动作的代表状态图交给模型反推起始动作，并在同一调用混入三个地点、五类角色及不同道具。20无受缚人物起态，21无正确试镣接触起态和双翼路线图；文字否定不足以修复空间。",
+    "not_done": "未改队列、未提交付费、未生图、未改源片。"
+  },
+  "batches": [
+    {
+      "number": 20,
+      "id": "GB015-2",
+      "current_media": "视频制作/LibTV-H3-v001/产物/GB015-2-H3-v001.mp4",
+      "film_start": 229.062729,
+      "used_seconds": 4,
+      "shots": [
+        {
+          "id": "CY024K3",
+          "range": [
+            0,
+            4
+          ],
+          "verdict": "must_reshoot_entire_shot",
+          "observations": [
+            {
+              "range": [
+                0,
+                1.3
+              ],
+              "severity": "blocking",
+              "fact": "Claude双臂垂下站在空刑架右旁，架上腕扣悬空；她已像获救者自由站立，而不是五处受缚。这与19结尾及21开头都冲突。",
+              "evidence": "20-0.2.png"
+            },
+            {
+              "range": [
+                0,
+                1.3
+              ],
+              "severity": "blocking",
+              "fact": "19末Kimi在Claude左前、低姿护持；20开场变右旁，Kimi又用长弯刀/细长刀弧代替小圆暗月刃。没有交代绕行或换武器。"
+            },
+            {
+              "range": [
+                0.4,
+                1.4
+              ],
+              "severity": "blocking",
+              "fact": "琥珀光束先横贯中央人物区域，深靛罩从后方长起，约1.3秒仍敞口可见人，约1.4秒才不透明闭合。无法读成先闭罩截住第一轮来袭。",
+              "evidence": "20-0-1.5-dense.jpg"
+            },
+            {
+              "range": [
+                1.4,
+                4
+              ],
+              "severity": "context_only",
+              "fact": "不透明外罩和外侧命中可以读懂，但单独剪用会丢闭罩保护动作，也不能解释Claude前后从自由变回受缚；不作为本批完成稿复用。"
+            }
+          ],
+          "corrected_non_issue": "中央彩窗上半仍有破口；初看缩图认为窗复原是不准确的，大帧已纠正，不把此项列为错误。",
+          "reference_assessment": {
+            "existing": "镜头设计/图像/控水协作-v046/CY024K3-v046-r1.png",
+            "sha256": "57461e36c680a32904da2bc19ab781aca5230fe03f3a751f3ad7568b8285c1e4",
+            "finding": "现图是闭罩后命中终态，人物完全隐藏。它正确描述终态，却无法固定受缚、Kimi站位和起手武器；不得直接用作全动作固定首帧。",
+            "new_start_required": "以第19结尾位置为基线重建闭罩前首帧：Claude中央背贴同一刑架，双腕、腰、双踝闭扣、脚托固定；Kimi左前低姿，左手明月圆刃在外侧，右手暗月圆刃将抬起；两侧敌人已聚能但光束尚未离手；散柴在外圈；中央破窗、祭坛和敌我距离连续。"
+          },
+          "reshoot_plan": {
+            "batch_offset": 0,
+            "effective_seconds": 4,
+            "single_shot": true,
+            "minimal_video_inputs": [
+              {
+                "role": "first_frame",
+                "path": null,
+                "status": "需制作并审查新起态图；不是本次已生成文件"
+              }
+            ],
+            "optional_identity_refs": "固定首帧人物清晰时不再加四视图；仅人物细节确实不足才追加Kimi/Claude身份图，不上传相邻地点人物。",
+            "timing": "0–0.8秒Kimi在原位置抬右暗月圆刃，罩迅速从底边包围、闭合；0.8秒已完全不透明。1.0秒起已聚能的两侧教徒释放同一轮短促光束，1.1–2.1秒击中壳外并碎成火星。2.1–4秒壳保持完整、外侧余火散落，切罩内。",
+            "prompt": "一个连续4秒镜头，固定首帧的祭坛、人物位置及刑架。Claude始终五处受缚在刑架上，闭罩前不下架不走动。Kimi左前护住她，右手的小圆暗月刃向上划一次；左手明月圆刃留身体外侧。前0.8秒深靛壳从地面迅速完整闭合，罩住两人及刑架脚托，闭合后完全遮住内部。到1秒，两侧前景教徒才把已经聚好的琥珀光束短促射出；光束只在外壳止住并碎成火星。相机留在罩外，微微后退。最后完整壳体稳定，两边烧木始终在壳外。没有水流，没有人物穿透，没有武器变化，没有对白或字幕。",
+            "end_state_check": "可用原CY024K3终态图作为人工对照；如接口支持首尾帧，再考虑作为末帧输入，不将其混成第二个首态。",
+            "fallback_if_single_shot_fails": "按同一轴线拆1.5秒闭罩与2.5秒外壳受击，两段需各自正确首帧。避免重复完整4秒抽奖。此方案是备选，不现在并发提交两份。"
+          }
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "id": "GB016-1",
+      "current_media": "视频制作/Metaso-H3-v002/剪辑候选/GB016-1-v002.mp4",
+      "film_start": 233.062729,
+      "used_seconds": 11.3,
+      "shots": [
+        {
+          "id": "CY024K4",
+          "planned_range": [
+            0,
+            3
+          ],
+          "observed_range": [
+            0,
+            3.208333
+          ],
+          "verdict": "must_reshoot_entire_shot",
+          "observations": [
+            {
+              "range": [
+                0,
+                1.125
+              ],
+              "severity": "blocking",
+              "fact": "Kimi举短直匕首到Claude下颌/颈侧，实际从未触碰画面上方的腕镣。Claude张口吃痛因此被读作受刀威胁，不是锁扣反噬。",
+              "evidence": "21-0.55.png"
+            },
+            {
+              "range": [
+                1.125,
+                2.1
+              ],
+              "severity": "blocking",
+              "fact": "退回的是直匕首，随后又形变成圆月刃；道具连续性断裂。只保留撤回以后会完全丢掉不能强拆的因果。",
+              "evidence": "21-first-01-dense.jpg"
+            },
+            {
+              "range": [
+                0,
+                3.208333
+              ],
+              "severity": "verified_local_only",
+              "fact": "暗膜不透出外景；Claude双腕仍固定，未出现松绑动作。下半身不在画内，不能声称五处锁扣均被逐一视觉验收。"
+            }
+          ],
+          "reference_assessment": {
+            "existing": "镜头设计/图像/目光与入场-v048/CY024K4-v048-r1.png",
+            "sha256": "e3ef521890a01f0caa2951b28922d1a3d71b5b2d6109e22d7662420a301dcaf6",
+            "finding": "原图是正确撤刃后的状态，腕扣高在画面上缘。模型反推动作时把刀贴到了脸边。必须新做试镣之前且接触目标清楚的首帧。",
+            "new_start_required": "中近景略抬构图，将被试的那只腕扣、Kimi右手小圆暗月刃和Claude痛感可读的脸同框；刃尖距腕扣接缝几厘米，远离脸颈。Kimi左手明月刃保持低位外侧，后景只有暗膜。Claude仍五处受缚、正立脚托。"
+          },
+          "reshoot_plan": {
+            "batch_offset": 0,
+            "effective_seconds": 3,
+            "minimal_video_inputs": [
+              {
+                "role": "first_frame",
+                "path": null,
+                "status": "需新试镣起态图"
+              }
+            ],
+            "timing": "0–0.6秒圆暗刃轻触可见腕扣接缝；0.6–1秒小紫纹在锁扣闪一下，Claude皱眉；1–1.8秒Kimi立即撤到自身外髋，刃朝外下；1.8–3秒看锁扣、停手担忧。",
+            "prompt": "同一3秒中近景。以固定首帧为准，Kimi右手始终持同一枚小圆暗月刃，只向画面上方可见的Claude腕扣接缝轻触一次。刀与Claude脸颈保持明显距离。腕扣接触点闪很小的紫色反噬纹，Claude眉心收紧；Kimi立即撤回右手到自己外侧髋边，刃口朝外下，担忧地看腕扣并停手。全程腕扣闭合，Claude仍被固定在刑架，不解锁、不割绳、不再试第二次。背景不透明暗膜，人物呼吸。左手明月刃不换手、不化成直刀。不新增对白。",
+            "end_state_check": "原CY024K4撤刀图可作为最终站位对照，但不强求为了复刻构图而让角色扭身或把刀穿过身体。"
+          }
+        },
+        {
+          "id": "CY023A",
+          "planned_range": [
+            3,
+            6
+          ],
+          "observed_range": [
+            3.208333,
+            6
+          ],
+          "verdict": "must_reshoot_for_spatial_plan",
+          "observations": [
+            {
+              "severity": "blocking_for_planned_staging",
+              "fact": "骑士一直单列从门外向镜头左侧前进，未建立左右分流、门边固定岗哨、殿内中央空道。机位只看门外纵队，无法交代守两翼的结果。没有主角再次进门这个错误。"
+            }
+          ],
+          "reference_assessment": {
+            "existing": "镜头设计/图像/天瀑空间-v014/CY023A-v014-r3.png",
+            "sha256": "625078b21c6f10f30fe5b384601e45d29b7be779e9c1c8e76138f44b979c9fb7",
+            "finding": "现构图是侧门内看单列外来骑士，反复使用仍只会得到纵队。它本身未提供两翼空间。",
+            "new_start_required": "门内略高三分之四角度，门槛和左右柱廊入口、中央空道同时可见。两名岗哨靠门柱原地，四名增援已跨槛形成左右两对且面向各自侧廊；不让一条长队临时在3秒中完成复杂转弯。保持同一扇门与夜外景。"
+          },
+          "reshoot_plan": {
+            "batch_offset": 3,
+            "effective_seconds": 3,
+            "minimal_video_inputs": [
+              {
+                "role": "first_frame",
+                "path": null,
+                "status": "需两翼路线清楚的新首帧"
+              }
+            ],
+            "prompt": "同一3秒镜头。固定首帧中门边两名岗哨站定不动；已经跨过门槛的左右两对骑士各走两步进入自己那一侧柱廊并停稳，中央空道全程空着。镜头从门内略高三分之四角度微后移，保留两边柱廊入口和同一门槛，明确看见左右分流后的站位。仅白甲圣骑士，没有主角或新人物加入，不发生重进门、瞬移、穿柱。无对白。"
+          }
+        },
+        {
+          "id": "CY026A",
+          "planned_range": [
+            6,
+            9.3
+          ],
+          "verdict": "conditional_reuse_candidate_after_fresh_whole_batch_review",
+          "observations": [
+            "GPT左、Qwen右，Qwen持展开扇、GPT空手，朝向建立清楚。邀请期间扇未先合。当前空间与角色道具无必须再生的明确阻断。",
+            "本次未听原速v025声轨，口型和回闪是否被观众读懂仍需在重组版连续视听审；不能用静帧替代。"
+          ],
+          "reuse_candidate": {
+            "source": "视频制作/Metaso-H3-v002/产物/GB016-1-r002-part34.mp4",
+            "source_in": 0,
+            "source_out": 3.3,
+            "batch_offset": 6,
+            "target_duration": 3.3,
+            "sha256": "d18442161a55da79abea1bc0bd3c3aefc92a33fe4d7d8e599220ffb00318d781",
+            "adopted": false
+          },
+          "if_author_requests_retake": "只用同一云宫双人首帧，一镜3.3秒；GPT邀请，Qwen静听持开扇，不加骑士/Kimi/Claude参考；不再与教堂镜共一调用。"
+        },
+        {
+          "id": "CY026A1",
+          "planned_range": [
+            9.3,
+            11.3
+          ],
+          "verdict": "requires_local_timing_repair_then_conditional_reuse",
+          "observations": [
+            "Qwen衣袖和手部持同一扇，开扇到合扇动作只做一次，末态握持稳定。脸在画外，适合已选短答。未发现原先GPT持扇错位。",
+            "近景比前镜扇更大是景别变化，不能误判物体凭空变大；换双手辅助合拢是可成立动作，仍需连续播放检查切点。",
+            "补查时序：特写开扇保持约0.7秒，批内约10.75秒合定；原Qwen短答9.3–10.45秒已先说完，未达到先合扇落定再回应。v025台词本镜0秒入与先合后答本身有冲突。"
+          ],
+          "reuse_candidate": {
+            "source": "视频制作/Metaso-H3-v002/产物/GB016-1-r003-part4.mp4",
+            "source_in": 0,
+            "source_out": 2,
+            "batch_offset": 9.3,
+            "target_duration": 2,
+            "sha256": "7eea92ec071533192192c2769261d85f8a5485193126becbd6e764335ed310bb",
+            "adopted": false
+          },
+          "if_author_requests_retake": "从上一镜Qwen持开扇的手位制作对应特写首帧，一镜2秒只合一次；不使用已闭扇代表图作首帧，也不加GPT身份图。",
+          "timing_repair": {
+            "action": "把合扇动作压到特写前约0.4秒，随后播放完整原速短答；保留总2秒。只做本地重排，先验证源片后段自然持扇足够再定EDL，不复刻原错误时序。",
+            "proposed_voice_window": [
+              9.75,
+              10.9
+            ],
+            "voice_change": "相对v025仅入点后移0.45秒，不变速、不截字；必须同步试听台账，不声称仍完全沿用v025时码。",
+            "axis": "中景右侧Qwen面对左侧GPT；特写脸在画外，主持扇右手不换，左手加入辅助，未见明确越轴/换手阻断。"
+          }
+        }
+      ],
+      "dialogue_and_edit_contract": [
+        "前两镜无新台词，不能借口无台词随意删因果。保持0–3、3–6秒。",
+        "GPT原声保留6.1–7.92秒：センモン、人助けに付き合って。",
+        "Qwen完整原速短答：行きましょう。若严格执行先合扇后答，建议从原9.3–10.45调整到9.75–10.90，并把合扇压到9.3–9.7；变更应显式同步混音/台账。若保持原声入点，只能表述为边合扇边回答，不能宣称先合后答。",
+        "6秒进入稍早云宫回闪，切除教堂战斗环境的连续假象，按v025配乐/环境转场连续试听；不得仅凭新地点便声称时间信息清楚，也不未经确认新增字幕改稿。",
+        "第22批在11.3秒/全片244.362729秒切不同地点小屋，保持已经展开的书，不补走路转场。"
+      ]
+    }
+  ],
+  "adjacent_boundaries": {
+    "19_to_20": {
+      "media": "视频制作/Metaso-H3-v002/剪辑候选/GB015-1-v002.mp4",
+      "viewed_range": [
+        9.5,
+        12
+      ],
+      "finding": "Kimi左前低姿、Claude刑架上、教徒两侧聚能均已建立，20新首帧必须承接。此处只审末段，不声称19整批通过。"
+    },
+    "20_to_21": "外壳完全不透明后硬切暗膜内试镣；不要摄像机穿壳。新20绝不能先让Claude下架，否则21再受缚无法修复。",
+    "21_to_22": {
+      "media": "视频制作/LibTV-H3-v001/产物/GB016-2-H3-v001.mp4",
+      "viewed_range": [
+        0,
+        3
+      ],
+      "finding": "22开头GPT在Gemini桌边、书已展开，随后Gemini抬眼；地点切换成立。此处未核22全批或音频。"
+    }
+  },
+  "minimum_new_generation_plan": {
+    "required_action_units": 3,
+    "effective_seconds": 10,
+    "units": [
+      "20闭罩4秒",
+      "21试镣3秒",
+      "21两翼分流3秒"
+    ],
+    "note": "实际请求最短秒数、是否能用同一首帧约束及当前计费由主代理按服务能力决定；本审查不虚构API能力、不执行任务。先把三张正确首帧做成可审状态，动画通过后再重组全批。",
+    "prohibited_shortcut": "不把20后段壳体或21后撤刃尾段裁出拉长，冒充完整的保护和不能强拆因果。"
+  }
+}

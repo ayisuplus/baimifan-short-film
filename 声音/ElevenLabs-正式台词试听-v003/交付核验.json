@@ -1,0 +1,16 @@
+{
+  "roles": 11,
+  "audio_files": 24,
+  "new_audio_files": 21,
+  "claude_author_selected": 1,
+  "xiaoyu_retained": true,
+  "choice_api_read_ok": true,
+  "invalid_choice_rejected_without_write": true,
+  "all_audio_paths_exist": true,
+  "new_files_decode_verified": true,
+  "listen_review_complete": false,
+  "current_remaining_credits": 9206,
+  "this_turn_total_credits": 524,
+  "timeline_modified": false,
+  "video_exported": false
+}

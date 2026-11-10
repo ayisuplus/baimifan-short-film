@@ -1,0 +1,32 @@
+subject_definitions:
+<Subject 1>: Claude, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: DeepSeek, identity and outfit from four-view sheet <Picture 2>.
+<Picture 3>: [Shot 1] composition and state reference; not its first frame.
+<Picture 4>: [Shot 2] composition and state reference; not its first frame.
+<Picture 5>: [Shot 3] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. The wood rises to Claude's waist; the priest accepts the sole ritual torch and the child struggles up to bar the stairs.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Continue the log sounds into the final placement; only once the pile is complete do the cultists withdraw empty-handed. Use <Picture 3> for composition. The final black log is placed on the pile. From the low angle, thick timber covers Claude to her waist and abdomen, concealing the lower skirt and fixed footrest while her face, chest and restrained arms remain above it. The cultists withdraw with empty hands. None of the wood has ignited. In a low medium view of the altar, tilt slightly with the last log, then hold the pile's height against Claude's exposed bound upper body. The last log settles, footsteps withdraw, and a low wordless cultist chant begins.
+[Shot 2] At 00:03.000, Cut from the finished pile to the ritual handover at the stair foot; carry the low chant through, with his gaze rising after the grip is secure. Use <Picture 4> for composition. Claude's father, the high priest, stands at the lower end of the stairs in formal robes. A cultist hands him the sole short-handled ritual torch. He takes it firmly in his right hand and looks up toward Claude offscreen above while speaking. Its flame has a black core and thin dark-violet rim; fixed braziers and candles retain ordinary warm flames. In an upper-body medium close-up, make a short pan from the torch handover to the priest's rising gaze, retaining the flame cup in frame. Close flame sound over a low wordless chant; keep the priest's calm line clear. From 4.5 to 7 seconds, the High Priest (S1) speaks with matching lip movement: <d>[Japanese] 我が娘よ、神がお待ちだ。</d>.
+[Shot 3] At 00:08.000, Cut from the priest's gaze to the child rising after the previous kick; the offscreen command addresses her obstruction without a shove yet. Use <Picture 5> for composition. DeepSeek sees the torch taken, pushes against the floor with both hands and staggers upright. With her hat crooked and legs trembling, she moves to the center of the lower stairs and spreads both arms to block the way to Claude above. The priest orders her aside from offscreen. She stays upright and uses no magic. Rise slightly with DeepSeek struggling upright in a frontal full shot, then hold her outstretched arms against the distant altar pile. Clothing shifts and shaky breathing accompany the clear offscreen command; the chant remains subdued. From 8 to 8.8 seconds, the High Priest (S1) speaks outside the frame: <d>[Japanese] どけ。</d>.
+From 11 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 3s: Cut to the torch handover.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

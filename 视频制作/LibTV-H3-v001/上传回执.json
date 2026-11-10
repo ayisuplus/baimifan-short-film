@@ -1,0 +1,170 @@
+[
+  {
+    "slot": 1,
+    "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+    "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-v001-ref-be18a5ece8e73d478d0e2c69",
+    "resourceId": "res_57122eb9690e458e89c4f7ca34363a23",
+    "nodeId": "i-xeoryk3YD5",
+    "task_id": "cop_657137101280ded2bc0f0bce10722ed2",
+    "resource": {
+      "resource_id": "res_57122eb9690e458e89c4f7ca34363a23",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-v001-ref-be18a5ece8e73d478d0e2c69",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  {
+    "slot": 2,
+    "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+    "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-v001-ref-69dee6708e3a6fe26a212a17",
+    "resourceId": "res_4ef801f6396b4e88bf3ed69982bd41bb",
+    "nodeId": "i-MWcnjv1nW0",
+    "task_id": "cop_38147b9a3b935b8050caccc2679cec8f",
+    "resource": {
+      "resource_id": "res_4ef801f6396b4e88bf3ed69982bd41bb",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-v001-ref-69dee6708e3a6fe26a212a17",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  {
+    "slot": 3,
+    "path": "镜头设计/图像/独立镜头-v009/CY001-v009.png",
+    "sha256": "feea8b3a4ce433555d563cce0a0a06570564476ce026299bd9b9a570a8f80bc9",
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-v001-ref-feea8b3a4ce433555d563cce",
+    "resourceId": "res_7f37cb16794249bf86be382fc97de194",
+    "nodeId": "i-BXCvlyR9th",
+    "task_id": "cop_eae588fd69162823f60b9a0bf339be13",
+    "resource": {
+      "resource_id": "res_7f37cb16794249bf86be382fc97de194",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-v001-ref-feea8b3a4ce433555d563cce",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  {
+    "slot": 4,
+    "path": "镜头设计/图像/独立镜头-v009/CY002-v009.png",
+    "sha256": "4aafc4279ccfeee08d88d46c3efd1580ec6a60aa17b3893226212fbcec3fc0f0",
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-v001-ref-4aafc4279ccfeee08d88d46c",
+    "resourceId": "res_ebde1a663a9c4a9eb1a3b870ea023165",
+    "nodeId": "i-iLJ9wpHTSy",
+    "task_id": "cop_ceba0ce576203ecabb0ae74186c644df",
+    "resource": {
+      "resource_id": "res_ebde1a663a9c4a9eb1a3b870ea023165",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-v001-ref-4aafc4279ccfeee08d88d46c",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  {
+    "slot": 5,
+    "path": "镜头设计/图像/独立镜头-v009/CY003-v009.png",
+    "sha256": "561091394ef37afe751dcef3b645853bb2a4faea9139a1a23ff2696cc4ce3ffa",
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-v001-ref-561091394ef37afe751dcef3",
+    "resourceId": "res_9d88340d1e114e45a3c870d8ef8e8a29",
+    "nodeId": "i-5WfE7d6YZe",
+    "task_id": "cop_eb797d5095c8e2cd9bafe9125242a7ec",
+    "resource": {
+      "resource_id": "res_9d88340d1e114e45a3c870d8ef8e8a29",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-v001-ref-561091394ef37afe751dcef3",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  {
+    "slot": 6,
+    "path": "镜头设计/图像/独立镜头-v009/CY003A-v009.png",
+    "sha256": "fc58bde8a92c9bc0b5dcec1170c8fbd67dca2363fd8910c45592abdeebafc799",
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-v001-ref-fc58bde8a92c9bc0b5dcec11",
+    "resourceId": "res_9b8233c616894d7d92332b0aa4267fa5",
+    "nodeId": "i-ZmEeBErYN0",
+    "task_id": "cop_541a03a8d24fc38d6d4ae81123b63251",
+    "resource": {
+      "resource_id": "res_9b8233c616894d7d92332b0aa4267fa5",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-v001-ref-fc58bde8a92c9bc0b5dcec11",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  }
+]

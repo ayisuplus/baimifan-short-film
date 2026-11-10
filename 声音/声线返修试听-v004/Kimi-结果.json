@@ -1,0 +1,80 @@
+{
+  "role": "Kimi",
+  "status": "saved_pending_author_selection",
+  "input": "Kimi-输入.json",
+  "generation_route": "web_voice_design",
+  "download_route": "official_existing_preview_GET",
+  "registered": false,
+  "listening_approved": false,
+  "previews": [
+    {
+      "candidate": 1,
+      "generated_voice_id": "ZEK8c3CyXcZf6Vp8lTjM",
+      "file": "Kimi-1.mp3",
+      "sha256": "ed4ad7d1c3aed6eef26ed59c05693891dab655ba93d7b78c137124e32e8756e1",
+      "bytes": 972426,
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "40.515917"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    },
+    {
+      "candidate": 2,
+      "generated_voice_id": "9vxS45g9V4YndpSl5QXs",
+      "file": "Kimi-2.mp3",
+      "sha256": "9db458d51e12eac7cb3803a22012cdf658b006d34267efbcf4589ba50ef63af2",
+      "bytes": 928540,
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "38.687333"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    },
+    {
+      "candidate": 3,
+      "generated_voice_id": "CyqtUfkhfTXX0f12tQ1m",
+      "file": "Kimi-3.mp3",
+      "sha256": "c5f41188a4dd74487b32951d17d4e326b547ce417fe616da5c2a1011e96fa8ba",
+      "bytes": 880266,
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "36.675917"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    }
+  ]
+}

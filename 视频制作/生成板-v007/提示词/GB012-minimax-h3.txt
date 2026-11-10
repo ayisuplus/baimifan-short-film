@@ -1,0 +1,35 @@
+subject_definitions:
+<Subject 1>: DeepSeek, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: Claude, identity and outfit from four-view sheet <Picture 2>.
+<Picture 3>: [Shot 1] composition and state reference; not its first frame.
+<Picture 4>: [Shot 2] composition and state reference; not its first frame.
+<Picture 5>: [Shot 3] composition and state reference; not its first frame.
+<Picture 6>: [Shot 4] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. The robe slips free; the priest ascends with his back to camera, ignites the piled logs with the same black-flamed torch, and leaves Claude trapped in fire.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Continue the held grip directly; his forward step pulls the cloth free without another shove. Use <Picture 3> for composition. The priest steps toward the stairs with the same black-flamed torch in his right hand. His robe hem slips from DeepSeek's grasp, and her hand drops back toward the stone. She remains below while he continues upward. The high woodpile has not yet ignited, and fixed candles and braziers keep their ordinary warm flames. At floor level, follow the hem forward briefly, then stop on the falling hand as the priest moves toward the stairs. Taut fabric releases, fingertips brush stone, and the cultists' wordless chant briefly lowers.
+[Shot 2] At 00:02.000, Match the released robe into the rear view of his ascent in the same direction; show representative steps and omit the remaining long climb at the cut. Use <Picture 4> for composition. Seen from behind, the priest climbs toward the highest altar, his head, shoulders, pelvis and feet all facing Claude. He takes successive steps with his right-hand torch unchanged and his cloak trailing down his back. Claude remains upright above with timber covering her below the waist; DeepSeek stays offscreen at the bottom. The next cut omits the remaining ascent. Track a short distance behind him from a low position on the stair axis, keeping his back, right-hand torch and Claude above aligned; do not orbit. Heavy ascending footsteps, the torch's rushing flame and continuous wordless chanting.
+[Shot 3] At 00:05.000, Elliptically cut from the climb to the woodpile, matching the torch, right hand and black-violet flame; the logs ignite only on contact. Use <Picture 5> for composition. Only the priest's right hand and the same short-handled torch enter the close detail. He presses its black-core, dark-violet-edged flame against the lower side of the tall black logs. Tiny embers light the resin cracks and the same black fire spreads upward. He withdraws the torch. His return to the lower landing is omitted across the following cut while the woodpile continues to burn. In a close detail, tilt slightly with the right hand pressing the torch down, then follow the flame a short distance up the wood seams as the hand withdraws. Torch-to-wood contact, resin snaps and the black fire's low roar; retreating footsteps recede as his hand leaves.
+[Shot 4] At 00:09.000, Match the upward spread into the face-and-shoulder shot without reigniting the pile; omit the priest's retreat, with Kimi not yet present. Use <Picture 6> for composition. Black flames rise in front of and behind Claude, partially hiding her chest and shoulders. She strains in pain against taut wrist chains; charred damage appears at the sleeve edges. She remains bound to the cross, unable to free herself, as the fire continues around her. Hold a controlled face-and-shoulder close-up with small vertical corrections for her struggle, while foreground and rear flames create the enclosure. A sharp intake of breath, a strained wrist-chain ring and obstructed breathing, without additional screamed words.
+From 12 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 5s: Begin the kindling ignition shot.
+Japanese speech with lip sync; no audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

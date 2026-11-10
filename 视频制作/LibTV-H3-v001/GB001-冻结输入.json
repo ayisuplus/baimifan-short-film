@@ -1,0 +1,409 @@
+{
+  "project_id": "9714ed699fcf4599a57dfe75f38b9c22",
+  "authorization": "行，优先消耗我libtv里面的积分，能生成多少是多少，呃尽量都用MiniMax H3，因为它比较便宜",
+  "credit_balance_observed": 2019,
+  "params": {
+    "ratio": "16:9",
+    "resolution": "768P",
+    "duration": 15,
+    "count": 1
+  },
+  "model": "MiniMax-Hailuo-H3",
+  "batch": {
+    "id": "GB001",
+    "title": "初遇与递饭",
+    "shot_ids": [
+      "CY001",
+      "CY002",
+      "CY003",
+      "CY003A"
+    ],
+    "group_reason": "按完整新版语音与动作窗口合批；只在镜间且无连续对白跨越处切开。",
+    "handle_reason": "15秒请求内未用尾部仅延续末态，剪辑时去除。",
+    "status": "v025_inputs_prepared_not_submitted",
+    "parent_batch": "GB001",
+    "arc": "捧饭前行→被队伍挡住→视线相接→一次递碗→等待回应。",
+    "entry_bridge": "全片从阳光街市和捧饭脚步开始。",
+    "exit_bridge": "饭碗悬停无人接住，下一批切进Claude向下的眼睛，饭碗与鲸帽成为眼底倒影。",
+    "film_start": 0,
+    "film_end": 14.98,
+    "used_seconds": 14.98,
+    "handle_seconds": 0.02,
+    "references": [
+      {
+        "slot": 1,
+        "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+        "kind": "identity",
+        "person": "DeepSeek",
+        "name_en": "DeepSeek",
+        "asset_id": "CHAR-DEEPSEEK",
+        "status": "候选待作者审阅",
+        "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+        "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2"
+      },
+      {
+        "slot": 2,
+        "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+        "kind": "identity",
+        "person": "Claude",
+        "name_en": "Claude",
+        "asset_id": "CHAR-CLAUDE",
+        "status": "候选待作者审阅",
+        "limits": "侧背与下裙含补全，不作为精确工程正交图。受缚至离殿采用赤足，四视图鞋仅为日常服装参考。近景不为展示花饰而换侧；不新增另一朵花。",
+        "purpose": "Claude四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212"
+      },
+      {
+        "slot": 3,
+        "path": "镜头设计/图像/独立镜头-v009/CY001-v009.png",
+        "kind": "composition",
+        "shot_id": "CY001",
+        "purpose": "构图、空间与代表状态：阳光里的饭碗；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "feea8b3a4ce433555d563cce0a0a06570564476ce026299bd9b9a570a8f80bc9"
+      },
+      {
+        "slot": 4,
+        "path": "镜头设计/图像/独立镜头-v009/CY002-v009.png",
+        "kind": "composition",
+        "shot_id": "CY002",
+        "purpose": "构图、空间与代表状态：黑袍之间的回望；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "4aafc4279ccfeee08d88d46c3efd1580ec6a60aa17b3893226212fbcec3fc0f0"
+      },
+      {
+        "slot": 5,
+        "path": "镜头设计/图像/独立镜头-v009/CY003-v009.png",
+        "kind": "composition",
+        "shot_id": "CY003",
+        "purpose": "构图、空间与代表状态：第一次邀请；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "561091394ef37afe751dcef3b645853bb2a4faea9139a1a23ff2696cc4ce3ffa"
+      },
+      {
+        "slot": 6,
+        "path": "镜头设计/图像/独立镜头-v009/CY003A-v009.png",
+        "kind": "composition",
+        "shot_id": "CY003A",
+        "purpose": "构图、空间与代表状态：悬着的一碗饭；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "fc58bde8a92c9bc0b5dcec1170c8fbd67dca2363fd8910c45592abdeebafc799"
+      }
+    ],
+    "rows": [
+      {
+        "id": "CY001",
+        "title": "阳光里的饭碗",
+        "slot": 3,
+        "start": 0,
+        "end": 5,
+        "film_start": 0,
+        "film_end": 5,
+        "framing": "远景／小鱼视线高度，轻跟",
+        "camera": "眼高远景沿街侧向跟随；小鱼停步时随之减速，黑袍近景掠过形成视差。",
+        "transition": "直接从捧饭前行开始；停步抬眼后接她看见的人。",
+        "action": "跟随几步后停住，黑袍队伍横过她的去路。",
+        "entry": "小鱼捧饭穿过街市。",
+        "exit": "她停步望向队伍。",
+        "visible": [
+          "DeepSeek",
+          "教徒",
+          "街市行人"
+        ],
+        "offscreen": [],
+        "reflection": [],
+        "cast_note": "",
+        "effects": "街市叫卖、碗勺轻碰、脚步；不添加可辨的新叫卖台词。",
+        "bgm": "BGM-CY-MT-03",
+        "note": "",
+        "execution": "",
+        "states": []
+      },
+      {
+        "id": "CY002",
+        "title": "黑袍之间的回望",
+        "slot": 4,
+        "start": 5,
+        "end": 9,
+        "film_start": 5,
+        "film_end": 9,
+        "framing": "中近景／黑袍前景夹框，定镜",
+        "camera": "保持有意定镜；Claude转头，前景黑袍缓慢经过，眼神落定后留一拍。",
+        "transition": "承接小鱼右侧视线，切Claude中近景；脚步与衣料跨切点不断。",
+        "action": "她听到脚步，侧脸望向小鱼；留一拍目光。",
+        "entry": "Claude 被队伍包围。",
+        "exit": "两人视线接上。",
+        "visible": [
+          "Claude",
+          "教徒"
+        ],
+        "offscreen": [
+          "DeepSeek"
+        ],
+        "reflection": [],
+        "cast_note": "",
+        "effects": "叫卖声拉远、衣料摩擦贴近；脚步声连续，不添加新对白。",
+        "bgm": "BGM-CY-MT-03",
+        "note": "",
+        "execution": "",
+        "states": []
+      },
+      {
+        "id": "CY003",
+        "title": "第一次邀请",
+        "slot": 5,
+        "start": 9,
+        "end": 12.98,
+        "film_start": 9,
+        "film_end": 12.98,
+        "framing": "过肩中景／落在小鱼眼高",
+        "camera": "同轴过肩中景缓慢小幅前移，脸、碗和右缘Claude肩部同时保留。",
+        "transition": "眼神落定后反打小鱼；举碗一次，句尾碗已经到达两人之间。",
+        "action": "小鱼看看 Claude，再看看碗，举碗问出邀请；句尾切到悬停的饭碗。",
+        "entry": "小鱼停在队伍边。",
+        "exit": "碗仍在小鱼双手里。",
+        "visible": [
+          "DeepSeek",
+          "Claude",
+          "教徒"
+        ],
+        "offscreen": [],
+        "reflection": [],
+        "cast_note": "Claude过肩前景仅局部，不扩展成并排全身。",
+        "effects": "一句邀请完整说完； 小鱼在镜内0.8–3.88秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+        "bgm": "BGM-CY-MT-03",
+        "note": "",
+        "execution": "",
+        "states": []
+      },
+      {
+        "id": "CY003A",
+        "title": "悬着的一碗饭",
+        "slot": 6,
+        "start": 12.98,
+        "end": 14.98,
+        "film_start": 12.98,
+        "film_end": 14.98,
+        "framing": "手部与饭碗特写／保持小鱼左、Claude右",
+        "camera": "同碗沿高度与手位切近景；延续前移后柔和收停，两秒等待。",
+        "transition": "继承已经递出的饭碗，不从胸前重新举起；无人接碗。",
+        "action": "继承已经递出的饭碗，双手悬停，热气升起；右侧没有接碗手。",
+        "entry": "上一镜已建立两人位置，小鱼已问出邀请。",
+        "exit": "碗停在两人之间，邀请没有得到回应。",
+        "visible": [
+          "DeepSeek",
+          "Claude"
+        ],
+        "offscreen": [],
+        "reflection": [],
+        "cast_note": "只有小鱼的手与局部身体、Claude右缘裙装与橙发；Claude接碗手不入画。",
+        "effects": "细小碗响，市声稍远；保持两秒等待，不重放邀请。",
+        "bgm": "BGM-CY-MT-03",
+        "note": "",
+        "execution": "",
+        "states": []
+      }
+    ],
+    "dialogue": [
+      {
+        "shot_id": "CY003",
+        "start": 9.8,
+        "end": 12.88,
+        "speaker": "DeepSeek",
+        "text": "少し食べる？",
+        "offscreen": false,
+        "mode": "现场对白，口型匹配；仅说一次",
+        "source_text": "你要吃一点吗？",
+        "language": "Japanese",
+        "translation_status": "returned_japanese_natural_speed_timed_pending_listening",
+        "review": {
+          "batch_id": "GB001",
+          "cue_index": 0,
+          "shot_id": "CY003",
+          "speaker": "DeepSeek",
+          "listener": "Claude",
+          "intention": "把手里的饭分享给对方",
+          "delivery": "真诚地邀请，不催促",
+          "source_text": "你要吃一点吗？",
+          "start": 9.8,
+          "end": 12.88,
+          "duration": 3.08,
+          "film_start": 9.8,
+          "film_end": 12.88,
+          "offscreen": false,
+          "current_text": "少し食べる？",
+          "language": "Japanese",
+          "notes": [
+            "完整干声自然速度；保留原始词首、词尾及余白。"
+          ],
+          "issue_ids": []
+        },
+        "returned_audio": {
+          "cue_id": "VO-CY003-01",
+          "batch_id": "GB001",
+          "cue_index": 0,
+          "shot_id": "CY003",
+          "speaker": "小鱼",
+          "text": "少し食べる？",
+          "path": "后期/日语配音交接-v001/试音候选-v001/VO-CY003-01__Xiaoyu__ja__v001-trialA.wav",
+          "sha256": "d16b4d027f5979490b51df619ef2588d96299fa7780318465e9066dacfdea92c",
+          "file_seconds": 3.08,
+          "budget_seconds": 3.08,
+          "state": "v025_selected_voice_retimed",
+          "note": "本句完整新版干声仅混入一次；不变速、不截字。镜内剩余时间留给动作、反应与环境声。",
+          "master": null,
+          "timeline_start": 9.8,
+          "timeline_end": 12.88,
+          "visual_shots": [
+            "CY003"
+          ],
+          "mix_source": "dry_file",
+          "author_selection": {
+            "option_id": "opt-92e82118d3244084",
+            "path": "后期/日语配音交接-v001/试音候选-v001/VO-CY003-01__Xiaoyu__ja__v001-trialA.wav",
+            "sha256": "d16b4d027f5979490b51df619ef2588d96299fa7780318465e9066dacfdea92c",
+            "label": "v001 历史试音 · trialA",
+            "chosen_at": "2026-10-27T11:49:44.865390+00:00"
+          },
+          "alignment_only": false,
+          "delivery_status": "作者已选版本",
+          "transcript_verified": false
+        }
+      }
+    ],
+    "prompts": {
+      "seedance25": "生成15秒、16:9的视频。沿用本片当前哥特式异世界动画母版及逐镜参考，人物设计、服装本色、眼色与画风一致。\n整段事件：捧饭前行→被队伍挡住→视线相接→一次递碗→等待回应。\n\n参考素材按实际上传顺序对应 @图片N（在提交平台确认关联到对应素材）：\n@图片1：DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度。\n@图片2：Claude四方向设定：身份、服装与饰物位置；同一人物的多个角度。\n@图片3：构图、空间与代表状态：阳光里的饭碗；不是默认首帧。\n@图片4：构图、空间与代表状态：黑袍之间的回望；不是默认首帧。\n@图片5：构图、空间与代表状态：第一次邀请；不是默认首帧。\n@图片6：构图、空间与代表状态：悬着的一碗饭；不是默认首帧。\n四视图只约束同一人物的外观，不复制卡片布局或多个人物；动作、人数、受伤和服装阶段按镜头时间线。构图图不代替身份四视图。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\n参考冲突优先级及取用范围：四视图负责人物设计，构图图负责空间。已指出的参考冲突按动态要求纠正，不把代表终态误当起帧。\n空间、人物与道具连续性：同一动作跨切镜不重演；屏幕方向和道具持有关系连续。全片从阳光街市和捧饭脚步开始。\n\n0–5秒，参考@图片3。承接：直接从捧饭前行开始；停步抬眼后接她看见的人。 画内：DeepSeek、教徒、街市行人；倒影：无。 远景／小鱼视线高度，轻跟。运镜：眼高远景沿街侧向跟随；小鱼停步时随之减速，黑袍近景掠过形成视差。 动作：跟随几步后停住，黑袍队伍横过她的去路。 声音（细分秒数相对本镜起点）：街市叫卖、碗勺轻碰、脚步；不添加可辨的新叫卖台词。\n5–9秒，参考@图片4。承接：承接小鱼右侧视线，切Claude中近景；脚步与衣料跨切点不断。 画内：Claude、教徒；倒影：无。 中近景／黑袍前景夹框，定镜。运镜：保持有意定镜；Claude转头，前景黑袍缓慢经过，眼神落定后留一拍。 动作：她听到脚步，侧脸望向小鱼；留一拍目光。 声音（细分秒数相对本镜起点）：叫卖声拉远、衣料摩擦贴近；脚步声连续，不添加新对白。\n9–12.98秒，参考@图片5。承接：眼神落定后反打小鱼；举碗一次，句尾碗已经到达两人之间。 画内：DeepSeek、Claude、教徒；倒影：无。Claude过肩前景仅局部，不扩展成并排全身。 过肩中景／落在小鱼眼高。运镜：同轴过肩中景缓慢小幅前移，脸、碗和右缘Claude肩部同时保留。 动作：小鱼看看 Claude，再看看碗，举碗问出邀请；句尾切到悬停的饭碗。 声音（细分秒数相对本镜起点）：一句邀请完整说完； 小鱼在镜内0.8–3.88秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n12.98–14.98秒，参考@图片6。承接：继承已经递出的饭碗，不从胸前重新举起；无人接碗。 画内：DeepSeek、Claude；倒影：无。只有小鱼的手与局部身体、Claude右缘裙装与橙发；Claude接碗手不入画。 手部与饭碗特写／保持小鱼左、Claude右。运镜：同碗沿高度与手位切近景；延续前移后柔和收停，两秒等待。 动作：继承已经递出的饭碗，双手悬停，热气升起；右侧没有接碗手。 声音（细分秒数相对本镜起点）：细小碗响，市声稍远；保持两秒等待，不重放邀请。\n\n声音及跨镜承接：9.8–12.88秒，DeepSeek：『少し食べる？』。现场对白，口型匹配；仅说一次。\n63句完整新版日语干声各一次，语音自然原速，镜头迁就长句；短句后的动作/反应留白保留。只上传图片，配音与BGM后期替换。\n剪辑余量：14.98–15秒延续末镜终态与自然微动，不新增动作或对白；后期剪除该余量。\n不生成BGM、字幕、时码、镜号、参考编号或水印。\n\n所有可辨台词只说上述日语，不朗读中文原意。按指定日语生成对白及口型，无配音参考，不新增台词。只生成对白和环境动作音，不生成BGM。\n动作时间目标（配乐后期对齐；不生成音乐）：12.98秒：饭碗递出后切近景，不重递。\n对白窗口包含原声词尾与留白；自然念完即闭口，余下保持表演，不拖音填满窗口。",
+      "minimax-h3": "subject_definitions:\n<Picture 1>=DeepSeek四视图：同一人四角度，身份服饰保持\n<Picture 2>=Claude四视图：同一人四角度，身份服饰保持\n<Picture 3>=构图状态，非强制首帧\n<Picture 4>=构图状态，非强制首帧\n<Picture 5>=构图状态，非强制首帧\n<Picture 6>=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，15秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–5s <Picture 3>；画内:DeepSeek、教徒、街市行人。直接从捧饭前行开始；停步抬眼后接她看见的人。眼高远景沿街侧向跟随；小鱼停步时随之减速，黑袍近景掠过形成视差。跟随几步后停住，黑袍队伍横过她的去路。 声音:街市叫卖、碗勺轻碰、脚步；不添加可辨的新叫卖台词。\n[Shot 2] 5–9s <Picture 4>；画内:Claude、教徒。承接小鱼右侧视线，切Claude中近景；脚步与衣料跨切点不断。保持有意定镜；Claude转头，前景黑袍缓慢经过，眼神落定后留一拍。她听到脚步，侧脸望向小鱼；留一拍目光。 声音:叫卖声拉远、衣料摩擦贴近；脚步声连续，不添加新对白。\n[Shot 3] 9–12.98s <Picture 5>；画内:DeepSeek、Claude、教徒。眼神落定后反打小鱼；举碗一次，句尾碗已经到达两人之间。同轴过肩中景缓慢小幅前移，脸、碗和右缘Claude肩部同时保留。小鱼看看 Claude，再看看碗，举碗问出邀请；句尾切到悬停的饭碗。 人物:Claude过肩前景仅局部，不扩展成并排全身。 声音:一句邀请完整说完； 小鱼在镜内0.8–3.88秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 4] 12.98–14.98s <Picture 6>；画内:DeepSeek、Claude。继承已经递出的饭碗，不从胸前重新举起；无人接碗。同碗沿高度与手位切近景；延续前移后柔和收停，两秒等待。继承已经递出的饭碗，双手悬停，热气升起；右侧没有接碗手。 人物:只有小鱼的手与局部身体、Claude右缘裙装与橙发；Claude接碗手不入画。 声音:细小碗响，市声稍远；保持两秒等待，不重放邀请。\n9.8–12.88s DeepSeek 匹配口型:<d>[Japanese] 少し食べる？</d>；仅一次。\n14.98–15s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A"
+    },
+    "models": {
+      "seedance25": {
+        "issues": [
+          "自然原声与镜头时间已对位；逐字听审和动态口型未验收。",
+          "BGM已制作实际剪辑试听；乐句与情绪落点待听审。"
+        ],
+        "image_count": 6,
+        "max_images": 30,
+        "chars": 1749,
+        "capacity_ok": true
+      },
+      "minimax-h3": {
+        "issues": [
+          "自然原声与镜头时间已对位；逐字听审和动态口型未验收。",
+          "BGM已制作实际剪辑试听；乐句与情绪落点待听审。"
+        ],
+        "image_count": 6,
+        "max_images": 9,
+        "chars": 1366,
+        "capacity_ok": true
+      }
+    },
+    "rhythm": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 12.98,
+          "action_zh": "饭碗递出后切近景，不重递",
+          "action_en": "Match-cut to the offered bowl",
+          "music_intent": "轻落点：乐句轻收，不加打击音；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 22.54119,
+          "anchor_shot": "CY003A",
+          "film_time": 12.98,
+          "music_id": "BGM-CY-MT-03"
+        }
+      ]
+    },
+    "selected_model": "minimax-h3",
+    "selection_reason": "完整参考与提示词符合2026-10-26实时接口2000字符/9图限制；提交前重新确认接口。"
+  },
+  "references": [
+    {
+      "slot": 1,
+      "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+      "kind": "identity",
+      "person": "DeepSeek",
+      "name_en": "DeepSeek",
+      "asset_id": "CHAR-DEEPSEEK",
+      "status": "候选待作者审阅",
+      "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+      "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+      "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+      "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\图像\\四视图\\CHAR-DEEPSEEK-TURN-v003.png",
+      "file_size": 2011824,
+      "sha1": "8a9565aaf789aa5da11d5f56b43facbca40398ea"
+    },
+    {
+      "slot": 2,
+      "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+      "kind": "identity",
+      "person": "Claude",
+      "name_en": "Claude",
+      "asset_id": "CHAR-CLAUDE",
+      "status": "候选待作者审阅",
+      "limits": "侧背与下裙含补全，不作为精确工程正交图。受缚至离殿采用赤足，四视图鞋仅为日常服装参考。近景不为展示花饰而换侧；不新增另一朵花。",
+      "purpose": "Claude四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+      "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+      "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\图像\\四视图\\CHAR-CLAUDE-TURN-v001.png",
+      "file_size": 2194303,
+      "sha1": "2e11afbf566d3ad2ed6101a5de96852933b27306"
+    },
+    {
+      "slot": 3,
+      "path": "镜头设计/图像/独立镜头-v009/CY001-v009.png",
+      "kind": "composition",
+      "shot_id": "CY001",
+      "purpose": "构图、空间与代表状态：阳光里的饭碗；不是默认首帧",
+      "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+      "limits": "",
+      "sha256": "feea8b3a4ce433555d563cce0a0a06570564476ce026299bd9b9a570a8f80bc9",
+      "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\独立镜头-v009\\CY001-v009.png",
+      "file_size": 2802801,
+      "sha1": "884c05d29078afdc221fb4203a2286dd7c8aedaa"
+    },
+    {
+      "slot": 4,
+      "path": "镜头设计/图像/独立镜头-v009/CY002-v009.png",
+      "kind": "composition",
+      "shot_id": "CY002",
+      "purpose": "构图、空间与代表状态：黑袍之间的回望；不是默认首帧",
+      "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+      "limits": "",
+      "sha256": "4aafc4279ccfeee08d88d46c3efd1580ec6a60aa17b3893226212fbcec3fc0f0",
+      "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\独立镜头-v009\\CY002-v009.png",
+      "file_size": 2398108,
+      "sha1": "f9df6646e9dedd6e69b9a20b5658f638ccbea629"
+    },
+    {
+      "slot": 5,
+      "path": "镜头设计/图像/独立镜头-v009/CY003-v009.png",
+      "kind": "composition",
+      "shot_id": "CY003",
+      "purpose": "构图、空间与代表状态：第一次邀请；不是默认首帧",
+      "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+      "limits": "",
+      "sha256": "561091394ef37afe751dcef3b645853bb2a4faea9139a1a23ff2696cc4ce3ffa",
+      "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\独立镜头-v009\\CY003-v009.png",
+      "file_size": 2479493,
+      "sha1": "7e6fffe934aee23470c9b54c9281497165c595d3"
+    },
+    {
+      "slot": 6,
+      "path": "镜头设计/图像/独立镜头-v009/CY003A-v009.png",
+      "kind": "composition",
+      "shot_id": "CY003A",
+      "purpose": "构图、空间与代表状态：悬着的一碗饭；不是默认首帧",
+      "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+      "limits": "",
+      "sha256": "fc58bde8a92c9bc0b5dcec1170c8fbd67dca2363fd8910c45592abdeebafc799",
+      "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\独立镜头-v009\\CY003A-v009.png",
+      "file_size": 2414662,
+      "sha1": "e0798415453ba4ce1f4254ef67a15136231d9fe6"
+    }
+  ],
+  "status": "prepared_not_submitted"
+}

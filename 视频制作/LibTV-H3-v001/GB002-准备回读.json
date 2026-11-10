@@ -1,0 +1,169 @@
+{
+  "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+  "nodeId": "v-Gv7mUJTmcH",
+  "node": {
+    "id": "v-Gv7mUJTmcH",
+    "type": "video",
+    "data": {
+      "type": "video",
+      "name": "第2批 · 善意受阻与消息 · H3 v001",
+      "url": [],
+      "poster": "",
+      "action": "video_generate",
+      "generatorType": "default",
+      "params": {
+        "prompt": "subject_definitions:\n{{Image 2}}=Claude四视图：同一人四角度，身份服饰保持\n{{Image 1}}=DeepSeek四视图：同一人四角度，身份服饰保持\n{{Image 3}}=构图状态，非强制首帧\n{{Image 4}}=构图状态，非强制首帧\n{{Image 5}}=构图状态，非强制首帧\n{{Image 6}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，15秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–4.693s {{Image 3}}；画内:Claude。仅倒影:DeepSeek。从悬碗切到凝视饭碗的眼睛，市声保持同一空间并退远。单眼极近景有意锁定构图，让向下的眼神与鲸帽饭碗倒影承担变化，不推入瞳孔。低垂的眼睛望着小鱼；小小的鲸帽与饭碗映在眼底，停留四秒。 先接住孩子的善意，再欲言又止。说到‘我／私’自然停住，不补完整解释；切到教徒拍翻碗沿，以动作截断交流。嘴仍在单眼特写画外，不为说台词重构现有画面。 人物:仅Claude单眼，DeepSeek与饭碗只在眼底倒影，不增加实体宝宝。 声音:市声变得朦胧；Claude轻声说“谢谢你，但我……”，仍忧伤、不急着微笑。尾部接黑袍衣料及下一镜掀饭声。 Claude在镜内1.5–4.653秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 2] 4.693–6.693s {{Image 4}}；画内:DeepSeek、Claude、教徒。黑袍衣料先接入，再在手接触碗沿时响一次金属声；倒影中的碗接实体同一碗。贴近碗沿，沿一次拍击小幅随动后停住；后方Claude虚焦回望，背景摊位退暗。教徒猛地拍翻碗沿，米饭飞散；宝宝握住另一边，缩肩惊愕，Claude在后方担忧回望。 调度:拍击后倾饭状态，非硬首帧。手掌拍外碗沿，不伸进饭里；小鱼始终握住同一碗。白米饭单向落下，去掉混淆米粒的花瓣与金色飘粒。 注意:拍击后倾饭状态，非硬首帧。手掌拍外碗沿，不伸进饭里；小鱼始终握住同一碗。白米饭单向落下，去掉混淆米粒的花瓣与金色飘粒。 声音:掌击金属碗沿、米饭散落、宝宝短促吸气。\n[Shot 3] 6.693–12.693s {{Image 5}}；画内:DeepSeek。从撒饭明确省略追随队伍的路程，直接接宝宝已到教堂门前；教徒消息来自门内画外。背后远景沿宝宝走向短距离前随，到门前停住；保留教堂门纵深，不绕去拍教徒。宝宝低抱空碗跟到门前，听见教徒交代献祭消息。 人物:教徒交代来自画外/门内；Claude随队进入门内，不为说明补近景。 声音:近处教徒的一句交代越过台阶传到小鱼耳中；句尾合门声压住街市，下一场以急促脚步接入。 教徒在镜内0.4–5.4秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 4] 12.693–14.693s {{Image 6}}；画内:DeepSeek。门口转身接街边短程省略，空碗同一握法入镜；放稳才松手奔跑。侧面中景短摇跟随空碗落到矮桌，再随宝宝视线抬向宫殿方向，停住让她跑出构图。宝宝把只剩几粒饭的空碗放上矮桌，焦急望向宫殿，随后跑去求援。 声音:放碗轻响，离去脚步。\n1.5–4.653s Claude 画外连续，不让在画者代说:<d>[Japanese] ありがとう。でも、私……</d>；仅一次。\n7.093–12.093s 教徒 画外连续，不让在画者代说:<d>[Japanese] 今宵、クロードを火の供物に。</d>；仅一次。\n14.693–15s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+        "model": "MiniMax-Hailuo-H3",
+        "modeType": "mixed2video",
+        "count": 1,
+        "imageList": [
+          {
+            "nodeId": "i-JAT4Pva730",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png"
+          },
+          {
+            "nodeId": "i-uKDIVWmghN",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/88234e0405150bf25c82642dd7493f40996749c6.png"
+          },
+          {
+            "nodeId": "i-wzrqNs0Kgl",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/9ee6ec17f1ae89c1716662a90a1ab14c301b9e4b.png"
+          },
+          {
+            "nodeId": "i-hJQDHQ4o6A",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/8c6405e58a7b423b4d1bc14b067ee3dd12caa03a.png"
+          },
+          {
+            "nodeId": "i-u5fHF3yNUA",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d13ef07a286c18d354ca3face7d3f40741fd0ffa.png"
+          },
+          {
+            "nodeId": "i-O4bV9Vmysx",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/56a05adb8f5256e71889f0054d109ef795987f4d.png"
+          }
+        ],
+        "videoList": [],
+        "audioList": [],
+        "settings": {
+          "ratio": "16:9",
+          "resolution": "768P",
+          "duration": 15
+        },
+        "advancedSettings": {},
+        "textList": [],
+        "mixedList": [
+          {
+            "nodeId": "i-BXCvlyR9th",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/572cdf6415d4ea2deea7f6c54221333dcab7ccad.png",
+            "label": "CY001-v009",
+            "mediaType": "image"
+          },
+          {
+            "nodeId": "i-iLJ9wpHTSy",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/04e5405bb80b2a7855de096d6a7812297e968330.png",
+            "label": "CY002-v009",
+            "mediaType": "image"
+          },
+          {
+            "nodeId": "i-5WfE7d6YZe",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/af13319e4d379a4419a9b5a3e61e460da8e29910.png",
+            "label": "CY003-v009",
+            "mediaType": "image"
+          },
+          {
+            "nodeId": "i-ZmEeBErYN0",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/267f853a56d796b238b22959a04082c951de672c.png",
+            "label": "CY003A-v009",
+            "mediaType": "image"
+          },
+          {
+            "nodeId": "i-JAT4Pva730",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png",
+            "label": "CHAR-DEEPSEEK-TURN-v003 · H3留白适配",
+            "mediaType": "image"
+          },
+          {
+            "nodeId": "i-uKDIVWmghN",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/88234e0405150bf25c82642dd7493f40996749c6.png",
+            "label": "CHAR-CLAUDE-TURN-v001 · H3留白适配",
+            "mediaType": "image"
+          }
+        ],
+        "ratio": "16:9",
+        "resolution": "2K",
+        "duration": 5,
+        "imageListOrder": [
+          "i-JAT4Pva730",
+          "i-uKDIVWmghN",
+          "i-wzrqNs0Kgl",
+          "i-hJQDHQ4o6A",
+          "i-u5fHF3yNUA",
+          "i-O4bV9Vmysx"
+        ],
+        "mixedListOrder": [
+          "i-JAT4Pva730",
+          "i-uKDIVWmghN",
+          "i-wzrqNs0Kgl",
+          "i-hJQDHQ4o6A",
+          "i-u5fHF3yNUA",
+          "i-O4bV9Vmysx"
+        ]
+      },
+      "_updatedAtMs": 1793115195000,
+      "_lastAppliedFullyAtMs": 1793115195000,
+      "isStale": false,
+      "prevTaskInfo": {
+        "taskId": "20261027232703298009236",
+        "loading": false,
+        "status": 3,
+        "progressPercent": 100,
+        "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+        "tracking": {
+          "successEvent": "libtv.canvas.generator.success",
+          "failEvent": "libtv.canvas.generator.fail",
+          "commonParams": {
+            "billing_mode": "credits",
+            "queue_type": "normal",
+            "throttle_state": "none",
+            "generator_type": "视频生成器",
+            "function_name": "全能参考",
+            "model_name": "Minimax H3",
+            "model_version_id": "MiniMax-Hailuo-H3",
+            "node_uuid": "v-6NT74v07yC",
+            "entry_source": "canvas",
+            "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+            "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+          },
+          "submittedAtMs": 1793114866166
+        },
+        "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+        "recognizeAssetsOnly": false
+      }
+    },
+    "position": {
+      "x": 1662.5,
+      "y": 900
+    },
+    "measured": {
+      "width": 622,
+      "height": 350
+    },
+    "sourcePosition": "right",
+    "targetPosition": "left"
+  },
+  "canvasDataSource": "api",
+  "mediaPersistence": {
+    "source": "canvas.nodeList.data",
+    "nodes": [
+      {
+        "nodeId": "v-Gv7mUJTmcH",
+        "bindingStatus": "missing",
+        "persistedUrlCount": 0,
+        "persistedResourceIdCount": 0,
+        "readUrlCount": 0,
+        "urlsMaterializedForRead": false
+      }
+    ],
+    "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "role": "Gemini",
+  "voice_description": "Native Japanese, standard Japanese. An adult female adventurer in a dramatic fantasy anime. Bright, agile and confidently direct, with a clear forward voice and quick purposeful phrasing. Energetic but not shrill, friendly without sounding childish. Studio-quality recording.",
+  "text": "私も行く。\n私も行く。\n私も行く。\n私も行く。\n私も行く。\n私も行く。\n私も行く。\n私も行く。\n私も行く。\n私も行く。\n私も行く。\n私も行く。\n私も行く。\n私も行く。\n私も行く。\n私も行く。\n私も行く。",
+  "repeats": 17,
+  "lines": [
+    {
+      "id": "VO-CY026B-02",
+      "role": "Gemini",
+      "previous_batch": 22,
+      "previous_record_frame": 5875,
+      "previous_ja": "私も行く。",
+      "previous_zh": "我去。",
+      "previous_audio_duration_seconds": 1.2300000000000182,
+      "status": "retained_in_draft",
+      "ja": "私も行く。",
+      "zh_back_translation": "我也去。",
+      "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+      "reading_hints": {}
+    }
+  ],
+  "source_sha256": "f652eb4cb0f7759bcb90f84a1e2072367f00125d3bd7883bc5284ccc4c283477",
+  "status": "design_not_submitted_superseded_by_direct_tts",
+  "superseded_reason": "author requested direct synthesis for short dialogue"
+}

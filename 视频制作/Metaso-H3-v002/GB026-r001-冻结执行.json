@@ -1,0 +1,299 @@
+{
+  "batch": {
+    "batch_number": 36,
+    "batch_id": "GB026",
+    "attempt_id": "GB026-r001",
+    "title": "守门、胜负与取钥匙",
+    "shot_ids": [
+      "CY027D",
+      "CY027E2",
+      "CY027F",
+      "CY027F0"
+    ],
+    "film_start": 386.842729,
+    "used_seconds": 12,
+    "duration": 12,
+    "prompt": "subject_definitions:\nImage 1=Qwen四视图：同一人四角度，身份服饰保持\nImage 2=DeepSeek四视图：同一人四角度，身份服饰保持\nImage 3=圣骑士四视图：同一人四角度，身份服饰保持\nImage 4=ChatGPT四视图：同一人四角度，身份服饰保持\nImage 5=教主四视图：同一人四角度，身份服饰保持\nImage 6=构图状态，非强制首帧\nImage 7=构图状态，非强制首帧\nImage 8=构图状态，非强制首帧\nImage 9=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，12秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n附四视图的主要人物身份服饰保持；未附独立身份卡的背景人物按保留群像/分屏对应位置维持外观，不独立加近景。构图状态按动作连续变化。七位无独立身份卡同伴只按两张群像原有位置和服饰做转身迎敌或收势，不另创全身设计或单人特写；仍为八位下层同伴含抱着小鱼的千问。Perplexity在原有位置持杖。GPT与教主、千问与小鱼、骑士另有专门身份卡。Kimi与Claude仍在最高祭坛不透明暗罩内。\ndetailed_description:\n[Shot 1] 0–3s Image 6；画内:Qwen、Gemini、Grok、混元、Llama、智谱、Mistral、Perplexity、DeepSeek、圣骑士、教徒。承入口示警切同伴转身，前排迎向门口而非倒转冲祭坛；战声连接下一外景。长阶广角由内侧小幅横移，八人组成的防线依次遮挡显露；保持最上方暗罩与左右翼岗哨同框。听见入口示警，八位同伴在长阶下形成第二道防线，千问仍抱着小鱼。两翼骑士守住柱廊，前排迎向门外教徒。远处最高祭坛的不透明暗月罩持续存在，Kimi在内守着Claude，没有回到队伍；外景看不到二人与刑架。Perplexity持杖警戒，中央高窗破口保留，左右窗完整。 人物:八位下层同伴含Qwen，Qwen仍抱DeepSeek；Kimi与Claude被暗罩遮蔽。 声音:门口搏击、骑士无词示警与祭坛护罩轻鸣。\n[Shot 2] 3–6s Image 7；画内:环境。入口交战声接远景变远，几次爆闪后收声、雨渐停，切战后而非补打斗。外部高空斜俯大全景缓缓后退，把门口爆闪留在建筑尺度里；不绕到后殿制造另一战场。外景高俯拍，魔法爆闪集中正门和前中殿，带过对外院增援的阻击；后殿救援区不发生混战。 人物:教堂与空地大远景，仅闪光交代战斗，不增加可辨近景人物。 声音:数次短促魔法爆鸣、玻璃共振，尾声沉下。\n[Shot 3] 6–10s Image 8；画内:ChatGPT、教主、Qwen、Gemini、Grok、混元、Llama、智谱、Mistral、Perplexity、DeepSeek、教徒、圣骑士。由远处最后爆闪硬切战后安静，GPT已恢复人形，不再演变回；她看钥匙才切手部。沿原群像中景微微降低机位，保留前景倒地教主与GPT垂眼关系；讥笑停顿时镜头停住。战斗结束，雨渐停。ChatGPT已恢复人形，稳稳站在湿地，膜翼自然收拢，双臂松松交抱在身前。她略侧头、垂眼看向前景倒下的教主，眉梢轻抬，嘴角带一点冷淡的讥讽；视线落在敌人的脸上，不看镜头，也不提前弯腰取钥匙。教主与教徒倒地，八位同伴在下层收势，千问仍抱着小鱼；Kimi继续在最高祭坛守护Claude。停住这一眼后，GPT才松开双臂、转看腰间钥匙，接下一镜取钥匙。 人物:GPT已恢复人形；Kimi继续最高祭坛护罩内，Claude未解锁。 声音:低处滴水、湿衣轻响与风声，不新增嘲讽台词；不要扩展为Claude湿衣声。\n[Shot 4] 10–12s Image 9；画内:ChatGPT、教主。接GPT看向腰带的视线切手，扣环声对应真正脱离，带钥匙出画后省略登长阶。腰带和取钥匙手部近景轻跟钥匙向上离扣，再停在清楚齿形；不追完上阶。ChatGPT俯身，从倒地教主腰间的扣环上取下黑铁钥匙。钥匙离开腰带，齿形在冷月光里清楚一闪；她握住它，独自朝长阶走去。 人物:仅GPT取钥匙手与教主腰带局部。 声音:钥匙环、扣钩轻响、涉浅水脚步。\n12–12s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+        "kind": "identity",
+        "person": "Qwen",
+        "name_en": "Qwen",
+        "asset_id": "MULKZI2W5366M",
+        "status": "作者指定复用",
+        "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+        "purpose": "Qwen四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+        "original_slot": 1
+      },
+      {
+        "slot": 2,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+        "kind": "identity",
+        "person": "DeepSeek",
+        "name_en": "DeepSeek",
+        "asset_id": "CHAR-DEEPSEEK",
+        "status": "候选待作者审阅",
+        "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+        "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+        "original_slot": 9
+      },
+      {
+        "slot": 3,
+        "path": "资产/图像/CHAR-PALADIN-v001.png",
+        "kind": "identity",
+        "person": "圣骑士",
+        "name_en": "the palace paladins",
+        "asset_id": "CHAR-PALADIN",
+        "status": "候选待作者审阅",
+        "limits": "侧背结构是设计补全，不作为精确工程正交图。队伍枪距、披风碰撞与行进连续性待动态验证。",
+        "purpose": "圣骑士四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d",
+        "original_slot": 10
+      },
+      {
+        "slot": 4,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "ChatGPT",
+        "name_en": "ChatGPT",
+        "asset_id": "CHAR-GPT",
+        "status": "候选待作者审阅",
+        "limits": "两侧躯干略带斜角。开衩与腿饰以原图/正面图的角色右腿为准，不按对称读取；尾巴弯曲是姿态参考，侧背含补全。",
+        "purpose": "ChatGPT四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9",
+        "original_slot": 11
+      },
+      {
+        "slot": 5,
+        "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+        "kind": "identity",
+        "person": "教主",
+        "name_en": "the High Priest",
+        "asset_id": "CHAR-PRIEST",
+        "status": "生成前修正候选，待作者审阅",
+        "limits": "四幅全身正、朝左、背、朝右；侧背结构为基于原立绘的合理补全，待作者确认。",
+        "purpose": "教主四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+        "original_slot": 12
+      },
+      {
+        "slot": 6,
+        "path": "镜头设计/图像/目光与入场-v048/CY027D-v048-r1.png",
+        "kind": "composition",
+        "shot_id": "CY027D",
+        "purpose": "构图、空间与代表状态：八人守门，Kimi守祭坛；不是默认首帧",
+        "status": "v0.48朝向、反应、咏唱及局部色偏修订候选，待作者画面审阅",
+        "limits": "",
+        "sha256": "f97aef426d66c147f3161da161241371c7c2b91f82966231306c4793e9ccb527",
+        "original_slot": 13
+      },
+      {
+        "slot": 7,
+        "path": "镜头设计/图像/天瀑空间-v014/CY027E2-v014-r1.png",
+        "kind": "composition",
+        "shot_id": "CY027E2",
+        "purpose": "构图、空间与代表状态：窗内的战斗；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "923711e34169601b7ad49d588060cee76ed6631024f87ff128c083b04a73f280",
+        "original_slot": 14
+      },
+      {
+        "slot": 8,
+        "path": "镜头设计/图像/细节与显形-v052/CY027F-v052-r1.png",
+        "kind": "composition",
+        "shot_id": "CY027F",
+        "purpose": "构图、空间与代表状态：垂眼讥笑，胜负已分；不是默认首帧",
+        "status": "v0.52细节与显形修订候选，待作者审阅",
+        "limits": "",
+        "sha256": "a0731b7569df7466f1d8fceb8d43b8e7f177c4897b27f924a499400cdac824d8",
+        "original_slot": 15
+      },
+      {
+        "slot": 9,
+        "path": "镜头设计/图像/月刃救援-v041/CY027F0-v041-r1.png",
+        "kind": "composition",
+        "shot_id": "CY027F0",
+        "purpose": "构图、空间与代表状态：从教主腰间取下钥匙；不是默认首帧",
+        "status": "v0.41修订候选，待作者审阅",
+        "limits": "",
+        "sha256": "9ec53f027cd891e24c6a9d8a18487c1126bc1a4e29b8c63dc51f82390b6da548",
+        "original_slot": 16
+      }
+    ],
+    "estimated_credits": 145.2,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "七位无独立身份卡同伴只按两张群像原有位置和服饰做转身迎敌或收势，不另创全身设计或单人特写；仍为八位下层同伴含抱着小鱼的千问。Perplexity在原有位置持杖。GPT与教主、千问与小鱼、骑士另有专门身份卡。Kimi与Claude仍在最高祭坛不透明暗罩内。",
+    "reference_reduction": {
+      "batch_number": 36,
+      "batch_id": "GB026",
+      "original_reference_count": 16,
+      "new_reference_count": 9,
+      "keep_original_slots": [
+        1,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "old_to_new_slot": {
+        "1": 1,
+        "9": 2,
+        "10": 3,
+        "11": 4,
+        "12": 5,
+        "13": 6,
+        "14": 7,
+        "15": 8,
+        "16": 9
+      },
+      "drop": [
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图复用/C06_Gemini-角色设定卡.png",
+          "reason": "该同伴仅守门/收势群像背景，不出现独立近景；两张原13/15完整群像保留其服饰色块、站位与既有空间，删除独立设定卡不删除角色。"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/四视图复用/C09_Grok-角色设定卡.png",
+          "reason": "该同伴仅守门/收势群像背景，不出现独立近景；两张原13/15完整群像保留其服饰色块、站位与既有空间，删除独立设定卡不删除角色。"
+        },
+        {
+          "slot": 4,
+          "path": "资产/图像/四视图复用/C16_Tencent-Hunyuan-角色设定卡.png",
+          "reason": "该同伴仅守门/收势群像背景，不出现独立近景；两张原13/15完整群像保留其服饰色块、站位与既有空间，删除独立设定卡不删除角色。"
+        },
+        {
+          "slot": 5,
+          "path": "资产/图像/四视图复用/C10_Meta-角色设定卡.png",
+          "reason": "该同伴仅守门/收势群像背景，不出现独立近景；两张原13/15完整群像保留其服饰色块、站位与既有空间，删除独立设定卡不删除角色。"
+        },
+        {
+          "slot": 6,
+          "path": "资产/图像/四视图复用/C05_Zai-GLM-角色设定卡.png",
+          "reason": "该同伴仅守门/收势群像背景，不出现独立近景；两张原13/15完整群像保留其服饰色块、站位与既有空间，删除独立设定卡不删除角色。"
+        },
+        {
+          "slot": 7,
+          "path": "资产/图像/四视图复用/C08_Mistral-角色设定卡.png",
+          "reason": "该同伴仅守门/收势群像背景，不出现独立近景；两张原13/15完整群像保留其服饰色块、站位与既有空间，删除独立设定卡不删除角色。"
+        },
+        {
+          "slot": 8,
+          "path": "资产/图像/四视图复用/C07_Perplexity-角色设定卡.png",
+          "reason": "该同伴仅守门/收势群像背景，不出现独立近景；两张原13/15完整群像保留其服饰色块、站位与既有空间，删除独立设定卡不删除角色。"
+        }
+      ],
+      "visual_review": "目视全部参考拼图及完整源提示词，身份卡与群像/分屏重复用途已核对。",
+      "contact_sheet": "视频制作/Metaso-H3-v002/审查/36-GB026-全部参考.jpg",
+      "source_prompt": "视频制作/生成板-v025/提示词/GB026-minimax-h3.txt",
+      "source_prompt_characters": 2084,
+      "source_prompt_sha256": "83f98da8f7eb21b4e79d83b7cd29f00188ba9e870b6fd908068846808de7e6d8",
+      "prompt_complete_checks": {
+        "ends_with_non_diegetic_music_NA": true,
+        "shot_blocks": 4,
+        "within_metaso_10000": true
+      },
+      "no_composition_deleted": true,
+      "composition_reference_replacement": "所有构图/动作正文引用均有保留图；按old_to_new_slot重编号即可，不需要把删除构图改成文字。",
+      "required_prompt_scope": "七位无独立身份卡同伴只按两张群像原有位置和服饰做转身迎敌或收势，不另创全身设计或单人特写；仍为八位下层同伴含抱着小鱼的千问。Perplexity在原有位置持杖。GPT与教主、千问与小鱼、骑士另有专门身份卡。Kimi与Claude仍在最高祭坛不透明暗罩内。",
+      "prompt_change_instructions": [
+        "删除subject_definitions中被删身份卡对应行；不要删除人物名、镜头或任何对白。",
+        "保留图引用统一按映射转换为Image N，不可顺序替换导致编号串改；使用单次正则回调。",
+        "删除后的身份卡人物保留在画内名单/人数/动作中；按本条required_prompt_scope明确群像或分屏的局部身份用途。",
+        "retention_analysis不能继续笼统称全部身份均由四视图fully_preserved；改为主角四视图保持、背景或分屏角色由保留场景图约束。",
+        "原本构图图不替代身份的全局条款需改成仅对仍附身份卡角色适用，避免与本轮精简策略冲突。",
+        "日语对白、镜长、BGM空窗与动作切点保持；不因转H3截断完整提示词。"
+      ],
+      "review_risk": "群像中少数背景人物精确小饰物约束减弱，属于本轮删冗余卡的可见取舍；完整群像构图仍保留，不能承诺动态所有细节不漂移。"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "subject_definitions:\nImage 1=Qwen四视图：同一人四角度，身份服饰保持\nImage 2=DeepSeek四视图：同一人四角度，身份服饰保持\nImage 3=圣骑士四视图：同一人四角度，身份服饰保持\nImage 4=ChatGPT四视图：同一人四角度，身份服饰保持\nImage 5=教主四视图：同一人四角度，身份服饰保持\nImage 6=构图状态，非强制首帧\nImage 7=构图状态，非强制首帧\nImage 8=构图状态，非强制首帧\nImage 9=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，12秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n附四视图的主要人物身份服饰保持；未附独立身份卡的背景人物按保留群像/分屏对应位置维持外观，不独立加近景。构图状态按动作连续变化。七位无独立身份卡同伴只按两张群像原有位置和服饰做转身迎敌或收势，不另创全身设计或单人特写；仍为八位下层同伴含抱着小鱼的千问。Perplexity在原有位置持杖。GPT与教主、千问与小鱼、骑士另有专门身份卡。Kimi与Claude仍在最高祭坛不透明暗罩内。\ndetailed_description:\n[Shot 1] 0–3s Image 6；画内:Qwen、Gemini、Grok、混元、Llama、智谱、Mistral、Perplexity、DeepSeek、圣骑士、教徒。承入口示警切同伴转身，前排迎向门口而非倒转冲祭坛；战声连接下一外景。长阶广角由内侧小幅横移，八人组成的防线依次遮挡显露；保持最上方暗罩与左右翼岗哨同框。听见入口示警，八位同伴在长阶下形成第二道防线，千问仍抱着小鱼。两翼骑士守住柱廊，前排迎向门外教徒。远处最高祭坛的不透明暗月罩持续存在，Kimi在内守着Claude，没有回到队伍；外景看不到二人与刑架。Perplexity持杖警戒，中央高窗破口保留，左右窗完整。 人物:八位下层同伴含Qwen，Qwen仍抱DeepSeek；Kimi与Claude被暗罩遮蔽。 声音:门口搏击、骑士无词示警与祭坛护罩轻鸣。\n[Shot 2] 3–6s Image 7；画内:环境。入口交战声接远景变远，几次爆闪后收声、雨渐停，切战后而非补打斗。外部高空斜俯大全景缓缓后退，把门口爆闪留在建筑尺度里；不绕到后殿制造另一战场。外景高俯拍，魔法爆闪集中正门和前中殿，带过对外院增援的阻击；后殿救援区不发生混战。 人物:教堂与空地大远景，仅闪光交代战斗，不增加可辨近景人物。 声音:数次短促魔法爆鸣、玻璃共振，尾声沉下。\n[Shot 3] 6–10s Image 8；画内:ChatGPT、教主、Qwen、Gemini、Grok、混元、Llama、智谱、Mistral、Perplexity、DeepSeek、教徒、圣骑士。由远处最后爆闪硬切战后安静，GPT已恢复人形，不再演变回；她看钥匙才切手部。沿原群像中景微微降低机位，保留前景倒地教主与GPT垂眼关系；讥笑停顿时镜头停住。战斗结束，雨渐停。ChatGPT已恢复人形，稳稳站在湿地，膜翼自然收拢，双臂松松交抱在身前。她略侧头、垂眼看向前景倒下的教主，眉梢轻抬，嘴角带一点冷淡的讥讽；视线落在敌人的脸上，不看镜头，也不提前弯腰取钥匙。教主与教徒倒地，八位同伴在下层收势，千问仍抱着小鱼；Kimi继续在最高祭坛守护Claude。停住这一眼后，GPT才松开双臂、转看腰间钥匙，接下一镜取钥匙。 人物:GPT已恢复人形；Kimi继续最高祭坛护罩内，Claude未解锁。 声音:低处滴水、湿衣轻响与风声，不新增嘲讽台词；不要扩展为Claude湿衣声。\n[Shot 4] 10–12s Image 9；画内:ChatGPT、教主。接GPT看向腰带的视线切手，扣环声对应真正脱离，带钥匙出画后省略登长阶。腰带和取钥匙手部近景轻跟钥匙向上离扣，再停在清楚齿形；不追完上阶。ChatGPT俯身，从倒地教主腰间的扣环上取下黑铁钥匙。钥匙离开腰带，齿形在冷月光里清楚一闪；她握住它，独自朝长阶走去。 人物:仅GPT取钥匙手与教主腰带局部。 声音:钥匙环、扣钩轻响、涉浅水脚步。\n12–12s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115144282224386048"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141523506393088"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141532830461952"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141276083478528"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141373313343488"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115145679890341888"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115145690974052352"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115145701526921216"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115145710061281280"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 12,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "2026-10-28作者授权：参考图超限想办法砍不重要参考，该返修的都返修；沿用Metaso H3"
+}

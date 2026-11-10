@@ -1,0 +1,175 @@
+{
+  "batch": {
+    "batch_number": 28,
+    "batch_id": "GB020-1R2",
+    "title": "云腹聚水，倒悬之海",
+    "shot_ids": [
+      "CY024A6"
+    ],
+    "film_start": 299.922729,
+    "film_end": 311.272729,
+    "used_seconds": 11.35,
+    "original_duration": 15,
+    "duration": 12,
+    "prompt": "subject_definitions:\n<Picture 1>=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，12秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–11.35s <Picture 1>；画内:环境。水珠上升方向接云腹旋卷，水面中心收拢时切高空陡俯；长风跨镜不重启。地面低角大全景先保留完整教堂轮廓，再慢慢上摇让云中海占据上方；机位不上云。切到教堂外低处，从地面仰拍中殿上空。完整尖塔与屋顶轮廓压在下缘，层层深蓝云壁向中心旋卷，上浮水珠融入云腹；云褶之间托住连续的深蓝水面，银色月光沿涟漪流动，仿佛整片海悬于夜空。水只在高空汇聚，没有闪电或发光法环。云心正对中央中殿，后殿不在破坏区。镜末水面向中心收拢，为下一镜水龙下行蓄势。 调度:镜长11.35秒。高空长风与潮鸣压低，原云腹聚海与中心收拢不变。 GPT在镜内0–3.92秒说完同一句日语；GPT在镜内4.22–9.474秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。 人物:云海与完整教堂，不新增人形GPT在外景。 声音:高空长风与潮鸣压低，原云腹聚海与中心收拢不变。 GPT在镜内0–3.92秒说完同一句日语；GPT在镜内4.22–9.474秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0–3.92s ChatGPT 画外连续，不让在画者代说:<d>[Japanese] 厚き雲を岸に、風を導きに、</d>；仅一次。\n4.22–9.474s ChatGPT 画外连续，不让在画者代说:<d>[Japanese] 眠れる潮よ、うねり、押し寄せよ。</d>；仅一次。\n11.35–12s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "镜头设计/图像/结印盘龙-v050/CY024A6-v050-r1.png",
+        "kind": "composition",
+        "shot_id": "CY024A6",
+        "purpose": "构图、空间与代表状态：云腹聚水，倒悬之海；不是默认首帧",
+        "status": "v0.50结印盘龙修订，待作者视觉审阅",
+        "limits": "",
+        "sha256": "7d47a428f4731958e5ff81d617dcaf42ae7d40c2f5234d3aa312c32f0d9b70ae",
+        "source_path": "镜头设计/图像/结印盘龙-v050/CY024A6-v050-r1.png",
+        "source_sha256": "7d47a428f4731958e5ff81d617dcaf42ae7d40c2f5234d3aa312c32f0d9b70ae",
+        "sha1": "24d7b5b61b6036f54af3f7644e14a890c75e0ca0",
+        "file_size": 2845233,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\结印盘龙-v050\\CY024A6-v050-r1.png"
+      }
+    ],
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 12,
+      "count": 1
+    },
+    "estimated_credits": 168,
+    "estimate_basis": "15秒报价210，按秒计费推算，提交前以网页实价为准",
+    "budget_selected": true,
+    "status": "prepared_not_submitted",
+    "task_id": null,
+    "node_id": "v-dUnL78EAMC",
+    "display_name": "第28批 · 云腹聚水，倒悬之海 · H3 v001"
+  },
+  "request": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "node": "v-dUnL78EAMC",
+    "idempotencyKey": "bmf-h3-GB020-1R2-wire-full",
+    "model": "MiniMax-Hailuo-H3",
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 12,
+      "count": 1
+    },
+    "prompt": "subject_definitions:\n{{Node i-FVufvhUHZO}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，12秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–11.35s {{Node i-FVufvhUHZO}}；画内:环境。水珠上升方向接云腹旋卷，水面中心收拢时切高空陡俯；长风跨镜不重启。地面低角大全景先保留完整教堂轮廓，再慢慢上摇让云中海占据上方；机位不上云。切到教堂外低处，从地面仰拍中殿上空。完整尖塔与屋顶轮廓压在下缘，层层深蓝云壁向中心旋卷，上浮水珠融入云腹；云褶之间托住连续的深蓝水面，银色月光沿涟漪流动，仿佛整片海悬于夜空。水只在高空汇聚，没有闪电或发光法环。云心正对中央中殿，后殿不在破坏区。镜末水面向中心收拢，为下一镜水龙下行蓄势。 调度:镜长11.35秒。高空长风与潮鸣压低，原云腹聚海与中心收拢不变。 GPT在镜内0–3.92秒说完同一句日语；GPT在镜内4.22–9.474秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。 人物:云海与完整教堂，不新增人形GPT在外景。 声音:高空长风与潮鸣压低，原云腹聚海与中心收拢不变。 GPT在镜内0–3.92秒说完同一句日语；GPT在镜内4.22–9.474秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0–3.92s ChatGPT 画外连续，不让在画者代说:<d>[Japanese] 厚き雲を岸に、風を導きに、</d>；仅一次。\n4.22–9.474s ChatGPT 画外连续，不让在画者代说:<d>[Japanese] 眠れる潮よ、うねり、押し寄せよ。</d>；仅一次。\n11.35–12s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "leftEnsure": [
+      "i-FVufvhUHZO"
+    ],
+    "newName": "第28批 · 云腹聚水，倒悬之海 · H3 v001",
+    "run": false
+  },
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-dUnL78EAMC",
+    "node": {
+      "id": "v-dUnL78EAMC",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第28批 · 云腹聚水，倒悬之海 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Image 1}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，12秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–11.35s {{Image 1}}；画内:环境。水珠上升方向接云腹旋卷，水面中心收拢时切高空陡俯；长风跨镜不重启。地面低角大全景先保留完整教堂轮廓，再慢慢上摇让云中海占据上方；机位不上云。切到教堂外低处，从地面仰拍中殿上空。完整尖塔与屋顶轮廓压在下缘，层层深蓝云壁向中心旋卷，上浮水珠融入云腹；云褶之间托住连续的深蓝水面，银色月光沿涟漪流动，仿佛整片海悬于夜空。水只在高空汇聚，没有闪电或发光法环。云心正对中央中殿，后殿不在破坏区。镜末水面向中心收拢，为下一镜水龙下行蓄势。 调度:镜长11.35秒。高空长风与潮鸣压低，原云腹聚海与中心收拢不变。 GPT在镜内0–3.92秒说完同一句日语；GPT在镜内4.22–9.474秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。 人物:云海与完整教堂，不新增人形GPT在外景。 声音:高空长风与潮鸣压低，原云腹聚海与中心收拢不变。 GPT在镜内0–3.92秒说完同一句日语；GPT在镜内4.22–9.474秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0–3.92s ChatGPT 画外连续，不让在画者代说:<d>[Japanese] 厚き雲を岸に、風を導きに、</d>；仅一次。\n4.22–9.474s ChatGPT 画外连续，不让在画者代说:<d>[Japanese] 眠れる潮よ、うねり、押し寄せよ。</d>；仅一次。\n11.35–12s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-FVufvhUHZO",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/356bbc0f4958eaa7a376d48e72edf05be218041a.png"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 12
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-fPa6MMXkX6",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/439cc38f7000042998da1c832888db14d2ece6ea.png",
+              "label": "CY024A3-v030-r1",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-FVufvhUHZO"
+          ],
+          "mixedListOrder": [
+            "i-FVufvhUHZO"
+          ]
+        },
+        "_updatedAtMs": 1793121776000,
+        "_lastAppliedFullyAtMs": 1793121776000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        }
+      },
+      "position": {
+        "x": 3996,
+        "y": 2508
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-dUnL78EAMC",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

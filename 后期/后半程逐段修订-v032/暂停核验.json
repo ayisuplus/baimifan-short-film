@@ -1,0 +1,11 @@
+{
+  "time": "2026-10-30T17:16:08.697954",
+  "queue": {
+    "queue_running": [],
+    "queue_pending": []
+  },
+  "timeline_reload_matches": true,
+  "clips": 118,
+  "frames": 9059,
+  "gpu": "name, memory.used [MiB], memory.total [MiB]\nNVIDIA GeForce RTX 5090, 3818 MiB, 32607 MiB"
+}

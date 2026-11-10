@@ -1,0 +1,57 @@
+{
+  "batch": {
+    "batch_number": 31,
+    "batch_id": "GB022-1",
+    "attempt_id": "GB022-1-r004-part2",
+    "title": "居中结印，水龙盘身、解印，一指出击",
+    "shot_ids": [
+      "CY024A5B"
+    ],
+    "film_start": 340.442729,
+    "part_offset": 12.0,
+    "used_seconds": 1.5,
+    "duration": 4,
+    "prompt": "从给定第一帧原样开始，只让已有画面动起来，不重新设计角色或背景。单一连续镜头，无切镜，无字幕水印、无音乐、无新增人物。4秒。白衣女子从首帧胸前手印开始，0–0.3秒迅速解开双手，0.3–0.8秒右臂向前伸出，0.8–1.2秒食指明确向前发令，左手自然收回胸前；1.2–1.5秒保持指向，身后纯水浪头沿指向前移响应。1.5–4秒只是持续这一末态，没有第二次手势。水流材质与首帧完全一致，流动透明水和泡沫，不新增眼睛、发光眼点、鳞甲或动物皮肤。脸、白银衣服和龙角翼尾保持，无对白。",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/Metaso-H3-v002/审查/GB022-1-r002-part1-11.5.png",
+        "sha256": "51a79e3fdd82de19d62f9bf95f1c397facf586044738a226dd2aa73f9707d085",
+        "kind": "first_frame",
+        "role": "first_frame"
+      }
+    ],
+    "estimated_credits": 40.8,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "参考模式重复重构出错误元素；改用官方固定首帧模式，锁住已修正的画面元素。",
+    "repair_of": {
+      "attempt_id": "GB022-1-r003-part2",
+      "task_id": "2115148838250143744",
+      "local_path": "视频制作/Metaso-H3-v002/产物/GB022-1-r003-part2.mp4"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json",
+    "mode": "first_frame"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "从给定第一帧原样开始，只让已有画面动起来，不重新设计角色或背景。单一连续镜头，无切镜，无字幕水印、无音乐、无新增人物。4秒。白衣女子从首帧胸前手印开始，0–0.3秒迅速解开双手，0.3–0.8秒右臂向前伸出，0.8–1.2秒食指明确向前发令，左手自然收回胸前；1.2–1.5秒保持指向，身后纯水浪头沿指向前移响应。1.5–4秒只是持续这一末态，没有第二次手势。水流材质与首帧完全一致，流动透明水和泡沫，不新增眼睛、发光眼点、鳞甲或动物皮肤。脸、白银衣服和龙角翼尾保持，无对白。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115150913559781376"
+        },
+        "role": "first_frame"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 4,
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "2026-10-28作者授权：参考图超限想办法砍不重要参考，该返修的都返修；沿用Metaso H3"
+}

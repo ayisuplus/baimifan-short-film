@@ -1,0 +1,82 @@
+{
+  "version": "v034",
+  "previous_index": "镜头设计/生成记录/生成索引-v033.json",
+  "records": [
+    {
+      "shot_id": "CY024A11",
+      "attempt": 3,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-19e0e3b5-5a65-4241-b49c-cbcc4a1a00a8.png",
+      "destination": "镜头设计/图像/扇叶上行与换机位-v034/CY024A11-v034-r3.png",
+      "sha256": "9134ce615ae33a72a909d76ffa7d14cab3083dd7e71d1fc7ccd449801927d015",
+      "request": "镜头设计/生成记录/扇叶上行与换机位-v034/CY024A11-请求-v003.json",
+      "request_sha256": "d35eaf35aad7e7f1c91862eb9b08a4d6adc29236dae9f05f69c5f8e586946cad",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY024A11-v033-r3.png",
+          "sha256": "4b1acc80bb39f9e4df4da4107ffbf385dc3a14a38ca5b97c38d9c5ce7d2d9c5b"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY024A12",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-f2fad6f1-8e7c-4958-a1cb-e1ea1c827afb.png",
+      "destination": "镜头设计/图像/扇叶上行与换机位-v034/CY024A12-v034-r1.png",
+      "sha256": "fda3d7ed97c473642b5b0b29d9570a9efc76cd4d42e6cf7c58b3d20f557197a3",
+      "request": "镜头设计/生成记录/扇叶上行与换机位-v034/CY024A12-请求-v001.json",
+      "request_sha256": "70040a6e81f481c930f25c40f19ad2acc0f6d527d5b1d72d061eb76bfb2d9fa1",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY024A11-v033-r3.png",
+          "sha256": "4b1acc80bb39f9e4df4da4107ffbf385dc3a14a38ca5b97c38d9c5ce7d2d9c5b"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY024A11",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-672d5a38-cfbf-4f17-8c4c-fff2fb4002f3.png",
+      "destination": "镜头设计/图像/扇叶上行与换机位-v034/CY024A11-v034-r1.png",
+      "sha256": "212e3c1db2c6459e1dcebb4dcf87826f720f06ac88115c341d358d93166b7a35",
+      "request": "镜头设计/生成记录/扇叶上行与换机位-v034/CY024A11-请求-v001.json",
+      "request_sha256": "b28aa97348125ccd2d1bae2223b185653c7c6d8cc18f953ea50990ac9609373e",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY024A11-v033-r3.png",
+          "sha256": "4b1acc80bb39f9e4df4da4107ffbf385dc3a14a38ca5b97c38d9c5ce7d2d9c5b"
+        }
+      ],
+      "status": "superseded_camera_too_similar_to_profile"
+    },
+    {
+      "shot_id": "CY024A11",
+      "attempt": 2,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-a18d36c2-5cda-4091-9e73-f5347e3b68d7.png",
+      "destination": "镜头设计/图像/扇叶上行与换机位-v034/CY024A11-v034-r2.png",
+      "sha256": "93240dafe35f7078817ea0ce078c22db83b8ba31e760d44fe7a50d601f644c73",
+      "request": "镜头设计/生成记录/扇叶上行与换机位-v034/CY024A11-请求-v002.json",
+      "request_sha256": "3d51cf1a107a1fc282dac821ef84e2ecf3e4f478deb84b089b43fa9bbb83d325",
+      "inputs": [
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a162c1-6e38-7a10-aee7-5c8371c4830c/exec-672d5a38-cfbf-4f17-8c4c-fff2fb4002f3.png",
+          "sha256": "212e3c1db2c6459e1dcebb4dcf87826f720f06ac88115c341d358d93166b7a35"
+        }
+      ],
+      "status": "superseded_camera_too_similar_to_profile"
+    }
+  ],
+  "superseded": [
+    {
+      "shot_id": "CY024A11",
+      "path": "镜头设计/图像/展翼与扇叶-v033/CY024A11-v033-r3.png",
+      "reason": "作者否定：刃尖向下、飞行和碰撞角度重复；原件与旧索引保留。"
+    },
+    {
+      "shot_id": "CY024A12",
+      "path": "镜头设计/图像/展翼与扇叶-v033/CY024A12-v033-r1.png",
+      "reason": "作者否定：刃尖向下、飞行和碰撞角度重复；原件与旧索引保留。"
+    }
+  ]
+}

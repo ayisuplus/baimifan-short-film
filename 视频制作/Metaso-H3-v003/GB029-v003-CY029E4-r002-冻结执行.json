@@ -1,0 +1,56 @@
+{
+  "batch": {
+    "batch_number": 39,
+    "batch_id": "GB029",
+    "attempt_id": "GB029-v003-CY029E4-r002",
+    "title": "选择继续与凝种",
+    "shot_ids": [
+      "CY029E4"
+    ],
+    "film_start": 427.282729,
+    "part_offset": 8.44,
+    "used_seconds": 4.94,
+    "duration": 5,
+    "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。单镜，保持首帧构图、两人原抱姿、衣物、冷蓝月光及静止背景。小鱼抓住衣襟的手保持原位，只缓缓抬眼、略抬下巴，望向画面左侧高处，嘴闭合。千问保持抱稳姿势。3秒前完成，余时停留。",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/Metaso-H3-v003/修订参考/GB029-CY029E4-firstframe-r002.png",
+        "sha256": "fa665644c403216702bab60e545726b96aa7c60af54bbf398aca15bc04dfae4c",
+        "role": "first_frame"
+      }
+    ],
+    "estimated_credits": 51.0,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "上一候选新增背景火源/道具，弃用。改极简正向画面运动，不让VO咏唱内容触发场景重构。",
+    "repair_of": {
+      "attempt_id": "GB029-v003-CY029E4",
+      "task_id": "2115178778982014976",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB029-v003-CY029E4.mp4"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json",
+    "mode": "first_frame"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。单镜，保持首帧构图、两人原抱姿、衣物、冷蓝月光及静止背景。小鱼抓住衣襟的手保持原位，只缓缓抬眼、略抬下巴，望向画面左侧高处，嘴闭合。千问保持抱稳姿势。3秒前完成，余时停留。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115178765641773056"
+        },
+        "role": "first_frame"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 5,
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者要求修复第6、11、20、21、39批剧情与空间错误，沿用已授权Metaso H3积分；40仅必要接头。无充值。"
+}

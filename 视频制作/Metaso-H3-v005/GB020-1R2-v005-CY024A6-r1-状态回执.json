@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115303779859894272",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "日式动画电影高空聚水仰拍",
+    "status": "succeeded",
+    "created_at": 1793162696,
+    "updated_at": 1793162710,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115303779859894272/content?expires=1793767706&signature=529e9e6612251125371b00a2f1ab7f453d3764bd94f03a17dfd227f0d243088b"
+    },
+    "resolution": "768P",
+    "duration": 5,
+    "usage": {
+      "total_seconds": 5,
+      "input_seconds": 0,
+      "output_seconds": 5,
+      "input_image_count": 1
+    },
+    "ratio": "adaptive",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

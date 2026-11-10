@@ -1,0 +1,205 @@
+{
+  "batch_id": "GB010",
+  "node_id": "v-c6UWbUkN8X",
+  "quoted_credits": 196,
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-c6UWbUkN8X",
+    "node": {
+      "id": "v-c6UWbUkN8X",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第12批 · 铺柴与教主 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Mixed 2}} =Claude四视图：同一人四角度，身份服饰保持\n{{Mixed 3}} =教主四视图：同一人四角度，身份服饰保持\n{{Mixed 1}} =DeepSeek四视图：同一人四角度，身份服饰保持\n{{Mixed 4}} =构图状态，非强制首帧\n{{Mixed 5}} =构图状态，非强制首帧\n{{Mixed 6}} =构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，14秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–3s {{Mixed 4}} ；画内:Claude、教徒。连续木响接最后一根落下，铺柴告终才让教徒空手退开；不提前点燃。祭坛低位中景随最后一根木头小幅上摇，落定后停住呈现腰腹遮挡及露出的受缚双臂。最后一根乌烬木被放上去。低机位看，粗黑木堆一直压到Claude腰腹，把白裙下半部和固定脚托吞没；她的脸、胸口和受缚双臂还露在上方。教徒空手退下，所有柴尚未点燃。 声音:最后一根木头落定、退下脚步，教徒低沉吟唱渐起，不添加可辨歌词。\n[Shot 2] 3–10.9s {{Mixed 5}} ；画内:教主、教徒、Claude。从铺柴完成切长阶下端仪式交接；低沉吟唱同空间连续，接牢后才抬头说话。85mm压缩纵深感；从递火教徒肩侧贴近，先看右手接牢，随父亲目光短拉焦到高处受缚白色轮廓；不绕轴，不退成仪式群像。教主右手接牢唯一黑芯暗紫细边的仪式火把，目光从交接处转向高处受缚的Claude。教徒肩与递火手留在前景边缘；Claude直立在高处未燃柴堆后，双腕受缚。父亲冷静决断，不犹豫。固定火盆与蜡烛仍普通暖火。 调度:85mm压缩纵深感；从递火教徒肩侧贴近，先看右手接牢，随父亲目光短拉焦到高处受缚白色轮廓；不绕轴，不退成仪式群像。 接牢后的中间状态参考，非硬首帧。教主棕金眼，火把右持；远处Claude可辨但虚焦，不能当画外人物删掉。只一支火把，不改变杯口/黑金材质。 注意:接牢后的中间状态参考，非硬首帧。教主棕金眼，火把右持；远处Claude可辨但虚焦，不能当画外人物删掉。只一支火把，不改变杯口/黑金材质。 人物:教徒仅肩与手，Claude是高处虚焦受缚轮廓；教主面部与右手为主体。 声音: 教主／Claude的父亲在镜内1.5–7.8秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 3] 10.9–13.9s {{Mixed 6}} ；画内:DeepSeek、教主、Claude。承被踢倒后撑起；教主袍边压入右前景，原句让开来自画外嘴部，尚未推搡。50mm同轴侧后机位，略俯向小鱼；教主暗袍占画右前景，小鱼画左中景；轻随起身升高后收停。小鱼双手撑地、踉跄站起，在长阶下端张臂挡住教主去路。她位于画左，望向画右上方教主，腿微颤、眼含泪；右前景仅教主暗袍与身体边缘，不露嘴。高处Claude在弱焦背景；无魔法、尚未推搡。 调度:50mm同轴侧后机位，略俯向小鱼；教主暗袍占画右前景，小鱼画左中景；轻随起身升高后收停。 本图为起身后的张臂终态，不强制首帧。右侧暗袍为同一教主，画内只露局部，原句让开由画外嘴部发声。 注意:本图为起身后的张臂终态，不强制首帧。右侧暗袍为同一教主，画内只露局部，原句让开由画外嘴部发声。 人物:教主仅画右袍肩/侧身，不露脸或嘴；高处Claude虚焦且柴堆遮下半身。教主原句仍按画外方式，不让小鱼代说。 声音: 教主／Claude的父亲在镜内0–0.8秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n4.5–10.8s 教主 匹配口型:<d>[Japanese] 我が娘よ、神がお待ちだ。</d>；仅一次。\n10.9–11.7s 教主 画外连续，不让在画者代说:<d>[Japanese] どけ。</d>；仅一次。\n13.9–14s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png",
+              "label": "CHAR-DEEPSEEK-TURN-v003 · H3留白适配"
+            },
+            {
+              "nodeId": "i-uKDIVWmghN",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/88234e0405150bf25c82642dd7493f40996749c6.png",
+              "label": "CHAR-CLAUDE-TURN-v001 · H3留白适配"
+            },
+            {
+              "nodeId": "i-rFc0P8dawG",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/fa4f10b325b23f5ceaddd2850fbe68978ba0c04d.png",
+              "label": "CHAR-PRIEST-TURN-v001"
+            },
+            {
+              "nodeId": "i-LFiKbv0Wne",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/9191aa73375ba19b9824c7f4e79b4b4ada8e6a14.png",
+              "label": "CY018B-v040-r1"
+            },
+            {
+              "nodeId": "i-WGlrjQlMM9",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/0781d4423f21affd53a9b77380700650dc2c3826.png",
+              "label": "CY021A-v062-r2"
+            },
+            {
+              "nodeId": "i-kF0yeHStDu",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/091493bc495a33bfaa3b8eb002d83c4501d77e97.png",
+              "label": "CY019-v060-r1"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 14
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png",
+              "label": "CHAR-DEEPSEEK-TURN-v003 · H3留白适配",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-uKDIVWmghN",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/88234e0405150bf25c82642dd7493f40996749c6.png",
+              "label": "CHAR-CLAUDE-TURN-v001 · H3留白适配",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-rFc0P8dawG",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/fa4f10b325b23f5ceaddd2850fbe68978ba0c04d.png",
+              "label": "CHAR-PRIEST-TURN-v001",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-LFiKbv0Wne",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/9191aa73375ba19b9824c7f4e79b4b4ada8e6a14.png",
+              "label": "CY018B-v040-r1",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-WGlrjQlMM9",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/0781d4423f21affd53a9b77380700650dc2c3826.png",
+              "label": "CY021A-v062-r2",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-kF0yeHStDu",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/091493bc495a33bfaa3b8eb002d83c4501d77e97.png",
+              "label": "CY019-v060-r1",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-JAT4Pva730",
+            "i-uKDIVWmghN",
+            "i-rFc0P8dawG",
+            "i-LFiKbv0Wne",
+            "i-WGlrjQlMM9",
+            "i-kF0yeHStDu"
+          ],
+          "mixedListOrder": [
+            "i-JAT4Pva730",
+            "i-uKDIVWmghN",
+            "i-rFc0P8dawG",
+            "i-LFiKbv0Wne",
+            "i-WGlrjQlMM9",
+            "i-kF0yeHStDu"
+          ]
+        },
+        "_updatedAtMs": 1793120439000,
+        "_lastAppliedFullyAtMs": 1793120439000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        },
+        "taskInfo": {
+          "taskId": "20261028010403847759236",
+          "loading": true,
+          "status": 1,
+          "progressPercent": 0,
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-c6UWbUkN8X",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793120686250
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805"
+        }
+      },
+      "position": {
+        "x": 5592,
+        "y": 1896
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-c6UWbUkN8X",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

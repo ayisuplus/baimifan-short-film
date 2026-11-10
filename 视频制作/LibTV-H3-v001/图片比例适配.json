@@ -1,0 +1,107 @@
+[
+  {
+    "source": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+    "source_sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+    "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+    "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+    "sha1": "d9d76117c7724d34a366061d3bb38d3a2c70e2c6",
+    "file_size": 1868475,
+    "source_size": [
+      2169,
+      725
+    ],
+    "upload_size": [
+      2169,
+      868
+    ],
+    "offset": [
+      0,
+      71
+    ],
+    "source_pixels_preserved": true
+  },
+  {
+    "source": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+    "source_sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+    "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+    "sha256": "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a",
+    "sha1": "ecd80984142fead85bfab07ed28c0e7b9c8c05b2",
+    "file_size": 2016603,
+    "source_size": [
+      2200,
+      715
+    ],
+    "upload_size": [
+      2200,
+      880
+    ],
+    "offset": [
+      0,
+      82
+    ],
+    "source_pixels_preserved": true
+  },
+  {
+    "source": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+    "source_sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+    "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+    "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9",
+    "sha1": "ff68ef289edac6743d7e87bdfe142f00332d50ce",
+    "file_size": 2143481,
+    "source_size": [
+      2172,
+      724
+    ],
+    "upload_size": [
+      2172,
+      869
+    ],
+    "offset": [
+      0,
+      72
+    ],
+    "source_pixels_preserved": true
+  },
+  {
+    "source": "资产/图像/王宫内心戏-v001/CHAR-GPT-DEVIL-TURN-v003.png",
+    "source_sha256": "e44ded7f0a9e27a70ff2980d4d95a331882f929efe7394257daab0cc01910b15",
+    "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-DEVIL-TURN-v003-h3-pad.png",
+    "sha256": "c683f8e4c3f91038917435968f8d0455088ee5cdfdd16f339340695ec0967f8e",
+    "sha1": "36a122fd28dea654669c87c7e8191c557b06eaf6",
+    "file_size": 1890161,
+    "source_size": [
+      2172,
+      724
+    ],
+    "upload_size": [
+      2172,
+      869
+    ],
+    "offset": [
+      0,
+      72
+    ],
+    "source_pixels_preserved": true
+  },
+  {
+    "source": "资产/图像/王宫内心戏-v001/CHAR-GPT-ANGEL-TURN-v003.png",
+    "source_sha256": "8e5b7ef471ca677b2751891edd36282e0b2ad84d33cd03e132fdb98771a2ab4b",
+    "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-ANGEL-TURN-v003-h3-pad.png",
+    "sha256": "aca685ed9752371a5121c732d1bf40665c67bf5ae615d55cc6e4db06c65f7186",
+    "sha1": "7226f8dc9b2cf0772cc8a91de169c76381f945d8",
+    "file_size": 1861224,
+    "source_size": [
+      2172,
+      724
+    ],
+    "upload_size": [
+      2172,
+      869
+    ],
+    "offset": [
+      0,
+      72
+    ],
+    "source_pixels_preserved": true
+  }
+]

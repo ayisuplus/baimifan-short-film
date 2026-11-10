@@ -1,0 +1,1379 @@
+{
+  "plan": "镜头设计/shot-plan-v0.53r1.json",
+  "plan_sha256": "17711550adcaeae28713d21170bd84993adb14fe2cb52c90df9099c078964b95",
+  "shots": 132,
+  "seconds": 434.0,
+  "source_quotes_verified": 132,
+  "subtitle_count": 48,
+  "subtitle_overflow": 0,
+  "subtitle_reading_flags": [
+    {
+      "id": "CY024A9",
+      "text": "统御万千深流的",
+      "units_per_second": 7.0,
+      "note": "跨镜连读需要结合整句，非实际听审结论"
+    },
+    {
+      "id": "CY024A12",
+      "text": "统御万千深流的",
+      "units_per_second": 7.0,
+      "note": "跨镜连读需要结合整句，非实际听审结论"
+    }
+  ],
+  "voice_clips": [
+    {
+      "shot": "CY003",
+      "file": "镜头设计/临时声音/CY003-对白-v001.wav",
+      "duration": 1.747029,
+      "sha256": "d107473e729bac64938412812a5d072badfb588b86a6f324142c97ec5a6c0572"
+    },
+    {
+      "shot": "CY004",
+      "file": "镜头设计/临时声音/CY004-对白-v005.wav",
+      "duration": 2.6722,
+      "sha256": "a2f5feb56b70bd129accd2e71e008ad1af341da706e6eea78183d943d9dac30c"
+    },
+    {
+      "shot": "CY006",
+      "file": "镜头设计/临时声音/CY006-对白-v001.wav",
+      "duration": 4.50771,
+      "sha256": "d3e0c85e5293bfc6257ed3e80e017e473ef97207394b66d0e6ed77a1f58bd135"
+    },
+    {
+      "shot": "CY008",
+      "file": "镜头设计/临时声音/CY008-对白-v001.wav",
+      "duration": 2.124263,
+      "sha256": "a8feee3a666a8cd697467c8573024b916ce3fa30ac3dd9362c4419608b775032"
+    },
+    {
+      "shot": "CY009",
+      "file": "镜头设计/临时声音/CY009-对白-v001.wav",
+      "duration": 1.651565,
+      "sha256": "8666abf5b5acfa5eac05a251cdb55b4de1f438c88a0f7026fd771189041de28e"
+    },
+    {
+      "shot": "CY021A",
+      "file": "镜头设计/临时声音/CY014-对白-v001.wav",
+      "duration": 2.695102,
+      "sha256": "00177a430c4ae95de04f5e4a85cfe1b4b65ed23f4db82a58c8f0794acbc6768a"
+    },
+    {
+      "shot": "CY020",
+      "file": "镜头设计/临时声音/CY020-对白-v001.wav",
+      "duration": 1.444172,
+      "sha256": "bbeacf42cbf2b8c94e7236b885219c989d1b10696f94e7dad812af8bca62c49a"
+    },
+    {
+      "shot": "CY026A",
+      "file": "镜头设计/临时声音/CY026A-对白1-v003.wav",
+      "duration": 2.665306,
+      "sha256": "e0963d132a395f484b46debcdc36dfafb54830e0c565ec7d46bd4cc5a6ff5615"
+    },
+    {
+      "shot": "CY026A1",
+      "file": "镜头设计/临时声音/CY026A-对白2-v003.wav",
+      "duration": 1.174785,
+      "sha256": "3ed8763e23a0121effc76486a16bb6017c9fabc4a0477576cb8de9833460c793"
+    },
+    {
+      "shot": "CY026B",
+      "file": "镜头设计/临时声音/CY026B-对白1-v003.wav",
+      "duration": 1.372245,
+      "sha256": "2c3b4cf9659d8bd4b60e7a66c4e80f81783722e10eec76e62e00936fefe215c6"
+    },
+    {
+      "shot": "CY026B",
+      "file": "镜头设计/临时声音/CY026B-对白2-v003.wav",
+      "duration": 1.18644,
+      "sha256": "ea80c995ced6af6bcd1b886d529746102fba5f32c518d6e263e3567aff3c7a46"
+    },
+    {
+      "shot": "CY026C",
+      "file": "镜头设计/临时声音/CY026C-对白1-v003.wav",
+      "duration": 1.372245,
+      "sha256": "91242c8f2466a1074800c54b01172b3e7aa4e92dc56b7bb13974c68ed834e504"
+    },
+    {
+      "shot": "CY026C",
+      "file": "镜头设计/临时声音/CY026C-对白2-v003.wav",
+      "duration": 1.250748,
+      "sha256": "9ff3cd4225f7696e3b9152ae60a237712bc5588946fcd019d3a2dac42b907b35"
+    },
+    {
+      "shot": "CY026D1",
+      "file": "镜头设计/临时声音/CY026D-对白1-v003.wav",
+      "duration": 1.224082,
+      "sha256": "3c9f792f438ebf0fa75b13367aa96ec052d0dc85db45fc47ec1ab6d56568338e"
+    },
+    {
+      "shot": "CY026D",
+      "file": "镜头设计/临时声音/CY026D-对白2-v003.wav",
+      "duration": 1.048435,
+      "sha256": "2b4704e8383c132d65c9e2714b416d7e04f64467eade7ea8b9b691ec7d29221f"
+    },
+    {
+      "shot": "CY026E",
+      "file": "镜头设计/临时声音/CY026E-对白1-v003.wav",
+      "duration": 2.931066,
+      "sha256": "f582995f9d030b541c2172dacc534775333b40f1523811005f9a6c9e9f552428"
+    },
+    {
+      "shot": "CY027A",
+      "file": "镜头设计/临时声音/CY027A-对白1-v003.wav",
+      "duration": 2.523764,
+      "sha256": "418f0c72211d0cc9c6fcdaf88b8df12d4969cdba83d81de4ab264a930bad9974"
+    },
+    {
+      "shot": "CY027B",
+      "file": "镜头设计/临时声音/CY027B-对白1-v003.wav",
+      "duration": 1.192608,
+      "sha256": "0691f999ca2e41f65b369391922b1ce6cc57a1dff1a6606146f197e9f035e4a0"
+    },
+    {
+      "shot": "CY031A",
+      "file": "镜头设计/临时声音/CY032-对白-v001.wav",
+      "duration": 1.747029,
+      "sha256": "d107473e729bac64938412812a5d072badfb588b86a6f324142c97ec5a6c0572"
+    }
+  ],
+  "image_files": [
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY001-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "feea8b3a4ce433555d563cce0a0a06570564476ce026299bd9b9a570a8f80bc9"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY002-v009.png",
+      "size": [
+        1672,
+        940
+      ],
+      "sha256": "4aafc4279ccfeee08d88d46c3efd1580ec6a60aa17b3893226212fbcec3fc0f0"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY003-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "561091394ef37afe751dcef3b645853bb2a4faea9139a1a23ff2696cc4ce3ffa"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY003A-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "fc58bde8a92c9bc0b5dcec1170c8fbd67dca2363fd8910c45592abdeebafc799"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY003B-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "e24d24097de4468704c8fbb0cacdce5559cdcee35ecbe2a2f9e8fd7d44534f6a"
+    },
+    {
+      "path": "镜头设计/图像/动作收尾-v015/CY003C-v015-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "a74f4811bee9735b2213ccc4e8b38f6ba79cb1fa9807f7958f1378caa7a31984"
+    },
+    {
+      "path": "镜头设计/图像/动作收尾-v015/CY004-v015-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "a1f49923525741fb448f58adc0b23bb25b7794f90e23d47d0522ba9ce92c40f6"
+    },
+    {
+      "path": "镜头设计/图像/动作收尾-v015/CY004A-v015-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "76bbd39df1f4f7895d78d65bd49200a231f96921881bbf7dd95a2696211bea51"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY004B-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "0e7fe9582f776be32aad0aec4db4be0ab61e9cc947ee37c8d8df1ef655715960"
+    },
+    {
+      "path": "镜头设计/图像/王宫骑士-v010/CY004C-v010.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "4f6504a893a716cc0da74ab056de044a75bc93048030889248d3830207366647"
+    },
+    {
+      "path": "镜头设计/图像/王宫骑士-v010/CY004D-v010.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "96fa902f8db26753c855a980404635202893874357a1edbf0c3b3158409b533d"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY005-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "10b8c24d8833ad18517f09b0d718db7d4e04462fa21097238a87c2cd0451f8dc"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY006-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "c4fbf6a6a0a73fd0e763334f94283e2860755820fec7643d9e3ce987470c4f11"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY007-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "bdbb72df0ac10373b6dab55853a83b0680317e699d10dead6c4a68f173440c04"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY008-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "1d7683e2fcb7c8bd2a8efbe24c91ca1497ede408ff01a81e6f70025ac19417f1"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY009-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "9d2b9e94020935618565e137dc158cb3f6a7ec8a86ea8730b25aed34033cb4ae"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY010-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "3dfc1a3b48e356bda4e8b39aa9e22acc5efc08e80cb830d28bb639f84d8f53cf"
+    },
+    {
+      "path": "镜头设计/图像/末轮叙事优化-v035/CY009A-v035-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "eb5f37e0ee9273488ec02bcfa70925f6cbc6d13ae676772f874df8dd0978dbd1"
+    },
+    {
+      "path": "镜头设计/图像/空间因果-v011/CY010A-v011.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "4cd689d286a631f4b9c05b477ef32859da6e68d01e3f5fe74b63c711e55e5d2a"
+    },
+    {
+      "path": "镜头设计/图像/空间因果-v011/CY011-v011.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "08e2620b9f439e54e6b0d370b2f6afd387f172fdf97a1c53ae83672e4031c358"
+    },
+    {
+      "path": "镜头设计/图像/空间因果-v011/CY011A-v011.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "23e64f267b7757bff47657f0777a27ec8a96abfad2ba7680c5c139ca9b4edf1b"
+    },
+    {
+      "path": "镜头设计/图像/祭坛长椅连续性-v023/CY012-v023-r8.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "399c6ea538e210b44ca22eec0fdcf4f669edd0991160caa78f77548a14a9e7c9"
+    },
+    {
+      "path": "镜头设计/图像/天瀑空间-v014/CY013-v014-r3.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "8aa15353392208180c0a97cb8f31a2b598db9a6c81360ca77dca00e80273f35f"
+    },
+    {
+      "path": "镜头设计/图像/天瀑空间-v014/CY013A-v014-r3.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "d09dd015273c2fee89cc4afa22159b834bf3d69c31ee68f1abd7c3549b4726f9"
+    },
+    {
+      "path": "镜头设计/图像/连续性修复-v049/CY015-v049-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "7160d551c279fea70931c5fe2dc872d6875641ef9314f6bd2e8c5c0debda5341"
+    },
+    {
+      "path": "镜头设计/图像/连续性修复-v049/CY016-v049-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "48b837d56b40559bb0adb1c7b42bd11edee8629fe511c01e81cbe4aad4f0f5df"
+    },
+    {
+      "path": "镜头设计/图像/天瀑空间-v014/CY016A1-v014-r4.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "3a38c261e390b86f257ccb56a66ec40546e5af7d0ecd91966d6867e29ec55196"
+    },
+    {
+      "path": "镜头设计/图像/天瀑空间-v014/CY016A-v014-r5.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "6b10548b27d273ff6c20ca27a7b7bd576756c07e42a832a9dbeffda79b42d31a"
+    },
+    {
+      "path": "镜头设计/图像/天瀑空间-v014/CY016B-v014-r3.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "375dbb6fb97adfa490a26f8dd531396dfad9d7ef883b58f50ed70ce8874dfd67"
+    },
+    {
+      "path": "镜头设计/图像/天瀑空间-v014/CY016B1-v014-r3.png",
+      "size": [
+        1671,
+        941
+      ],
+      "sha256": "4264fd799dcd09769deab6e6954cda53c14108f85fb4dc1359a6b7e1e4e77263"
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY016C-v040-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "1632dfb3fc095275212842c5cde19a6c3d7d34b80152e566926f1cc2010916ac"
+    },
+    {
+      "path": "镜头设计/图像/连续性修复-v049/CY016D-v049-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "5dac72fd687f518a5a8e8329520a442cfc0204ad467b77b1987c358bcafa450a"
+    },
+    {
+      "path": "镜头设计/图像/连续性修复-v049/CY017-v049-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "0485d4876832d11dc33111d03e7b1999d527d2174cc91423a8e6fa0271ec9a0a"
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY017A-v040-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "2b207c2ae64f753c9eb115b00ecb1c66df590b10c77354f13c423e4963f081ee"
+    },
+    {
+      "path": "镜头设计/图像/细节与显形-v052/CY018-v052-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "139d224ae035eaae8aeee08016da79f2ce6982b570bd1a76f5edd9493eaf7230"
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY018B-v040-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "bf4763eb83a43992188a958c2e1239e03a52a7c6bb0c9f19cf88ddf46401cbe6"
+    },
+    {
+      "path": "镜头设计/图像/细节与显形-v052/CY021A-v052-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "a16bdb87274b9d16222eb170f95b2fc0e7b5cecca6006f7f94c852114c6fb4a7"
+    },
+    {
+      "path": "镜头设计/图像/连续性修复-v049/CY019-v049-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "63aae9b916403e96a7796c7f642ffa1e398bde4d76b702b65d2e0238300ac3bf"
+    },
+    {
+      "path": "镜头设计/图像/天瀑空间-v014/CY020-v014-r4.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "939e6566ac8060679a9ae17b973eaa0d07d65a4b57ecfd5be61b4a7d65eff6b6"
+    },
+    {
+      "path": "镜头设计/图像/细节与显形-v052/CY020B-v052-r2.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "685ba050ede53874124180e147ce978af3eafa6cc02e04569cb136430ef77efa"
+    },
+    {
+      "path": "镜头设计/图像/连续性修复-v049/CY020A-v049-r1.png",
+      "size": [
+        1671,
+        941
+      ],
+      "sha256": "25f43bee451dbe5ee1fd9f94621230602841733fe93d0dfabf8e59b7ae743c3f"
+    },
+    {
+      "path": "镜头设计/图像/连续性修复-v049/CY021-v049-r2.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "9cc362d9d140f525aa1e25008d0ca4a9247098570b2c6623185380d0ad218afe"
+    },
+    {
+      "path": "镜头设计/图像/动作收尾-v015/CY021B-v015-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "3e07b40030d09093c451ffd3bb464de88ceba84dda7ad593a1aeface4cb03481"
+    },
+    {
+      "path": "镜头设计/图像/细节与显形-v052/CY022A-v052-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "54becaffe4c1451db8e0406ef3fae3ff493f59007ef3d1614a05a1cfe8357145"
+    },
+    {
+      "path": "镜头设计/图像/细节与显形-v052/CY022A1-v052-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "af52f21feb359171dd4ff678821f3923b62b61b61a06a2901be5dfc7d7a53c4e"
+    },
+    {
+      "path": "镜头设计/图像/细节与显形-v052/CY022-v052-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "640095532214808eaaaa763ceddc022ebc69c53f8cf725a3a2aa5e19a2c569c1"
+    },
+    {
+      "path": "镜头设计/图像/火焰伤后与星火-v036/CY022B-v036-r2.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "724b7d2b253f178a17c8095c7dea3f8520ac1bf15aab286c27aa84ce95a3a6e5"
+    },
+    {
+      "path": "镜头设计/图像/火焰伤后与星火-v036/CY022B2-v036-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "2d47549f41bd9c4fb7637ecd6ac240a5286d1f502ec361d72aea4fb391007444"
+    },
+    {
+      "path": "镜头设计/图像/末轮叙事优化-v035/CY022B1-v035-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "b6dc0f3001d95affeeaca4dc3c376f70fba876397b2f55cb3ce4df7b46cee892"
+    },
+    {
+      "path": "镜头设计/图像/末轮叙事优化-v035/CY026-v035-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "e5ec5b2810b465a6519e546a8bc771a04b7ce5928413a906d638f7a75d3f3c3f"
+    },
+    {
+      "path": "镜头设计/图像/天瀑空间-v014/CY022C-v014-r3.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "d8a109fc20db99f6c25827c5984d49a0395baef52fe8930c1385850e5ba727b0"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY023-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "2368533dbd7c92fe50e6a375817829f6dc3dbabee5b0ffa31344330260fa0f94"
+    },
+    {
+      "path": "镜头设计/图像/目光与入场-v048/CY024-v048-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "b8a6dd3356348c52dd4f426e3b8973a8adf20417878a5718a83621e84c17be74"
+    },
+    {
+      "path": "镜头设计/图像/目光与入场-v048/CY024R-v048-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "8058a67fcf61ccb6b26b4c756173effc2994fd5bfd0005ae665aaf9e9094ef12"
+    },
+    {
+      "path": "镜头设计/图像/细节与显形-v052/CY024K00-v052-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "6e7a8fd33dbf634f53814a8a70fe40d9084f5473e749e45099edf7e76e795cd6"
+    },
+    {
+      "path": "镜头设计/图像/细节与显形-v052/CY024K0-v052-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "3a2a0e127a3c66669172c5bfb152daf66f978f26dd46a2ba60ee90f676deb688"
+    },
+    {
+      "path": "镜头设计/图像/暗月瞬临-v045/CY024K1-v045-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "3341f78639511130b7834f07b36d34dda06709161a2dff3b57fb87d2cf04f82e"
+    },
+    {
+      "path": "镜头设计/图像/暗月瞬临-v045/CY024K1A-v045-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "88599d40611961e3b3395b046244435ebd3f25401e69e77af171406ff03b8856"
+    },
+    {
+      "path": "镜头设计/图像/暗月瞬临-v045/CY024K2-v045-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "26268718c9c1cc60205640cae55c9d37d3965978385a387760f091a85b8a82c8"
+    },
+    {
+      "path": "镜头设计/图像/控水协作-v046/CY024K2A-v046-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "0de5c6eeec241854524933dc4dc16e681553e44be34d42b3abb63f5f27eabdbd"
+    },
+    {
+      "path": "镜头设计/图像/控水协作-v046/CY024K3-v046-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "57461e36c680a32904da2bc19ab781aca5230fe03f3a751f3ad7568b8285c1e4"
+    },
+    {
+      "path": "镜头设计/图像/目光与入场-v048/CY024K4-v048-r1.png",
+      "size": [
+        1670,
+        942
+      ],
+      "sha256": "e3ef521890a01f0caa2951b28922d1a3d71b5b2d6109e22d7662420a301dcaf6"
+    },
+    {
+      "path": "镜头设计/图像/天瀑空间-v014/CY023A-v014-r3.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "625078b21c6f10f30fe5b384601e45d29b7be779e9c1c8e76138f44b979c9fb7"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY026A-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "29a458b3796e581a939537030f3ce8a95161432175951f023b97fbbec867eff1"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY026A1-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "0c51706f021371af875bbc8254743d34d6fcc885f5e4deb1495f5ba4ae7f9cb2"
+    },
+    {
+      "path": "镜头设计/图像/展翼与扇叶-v033/CY026B-v033-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "1b41aa668b4b916d1ad6c83fa23e045d20cf4129cd6ad75b2ee56c24b1b997f4"
+    },
+    {
+      "path": "镜头设计/图像/动作收尾-v015/CY026C-v015-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "766127865341188fb1749763c8d93aa6f1846e1bd5ee52e091bbad111865d2f2"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY026D1-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "2daaf170012a5cfbede2ae4f35f31a4fb1b74bcac7f639142d20af6594a92f2f"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY026D-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "7c7113af601e76fd6b4dc554311b45bde7c18fe0a121159fcbc74a954561e323"
+    },
+    {
+      "path": "镜头设计/图像/S05D-应召分屏-v001.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "db7a626651b4caa696c5dc3d630adc9d4d21f92876c7544f260c85d533232156"
+    },
+    {
+      "path": "镜头设计/图像/目光与入场-v048/CY024A0-v048-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "1febea4f0ae7996dea7f423de62d33d234b95eb3d50a954385f773cde5230437"
+    },
+    {
+      "path": "镜头设计/图像/末轮叙事优化-v035/CY024A-v035-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "b5539825dbb96c2d741e62d6fd356e8849e5e65403e79d901f3d51f1a562085c"
+    },
+    {
+      "path": "镜头设计/图像/细节与显形-v052/CY024A9-v052-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "6bca6a86bcd94a0afbc2504fec0a774701f6a6cc4fafac910dfde91dd4d9f693"
+    },
+    {
+      "path": "镜头设计/图像/展翼与扇叶-v033/CY024A10-v033-r3.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "963255c4fe52fb0c45114d00a7a9febedf9f19362a44ba31ea905f1eb3b0e9cc"
+    },
+    {
+      "path": "镜头设计/图像/扇叶上行与换机位-v034/CY024A11-v034-r3.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "9134ce615ae33a72a909d76ffa7d14cab3083dd7e71d1fc7ccd449801927d015"
+    },
+    {
+      "path": "镜头设计/图像/扇叶上行与换机位-v034/CY024A12-v034-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "fda3d7ed97c473642b5b0b29d9570a9efc76cd4d42e6cf7c58b3d20f557197a3"
+    },
+    {
+      "path": "镜头设计/图像/目光与入场-v048/CY024A1-v048-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "b3cf735f3c15a4653287539da0afa463cbc1a1e159f9e568c172725affde02a1"
+    },
+    {
+      "path": "镜头设计/图像/目光与入场-v048/CY024A2-v048-r1.png",
+      "size": [
+        1670,
+        942
+      ],
+      "sha256": "bb96f43403bcdfc34dda83a6fd5042feffd229fd177693a4d9b68ec20e7c48d5"
+    },
+    {
+      "path": "镜头设计/图像/水珠与云顶-v030/CY024A3-v030-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "99412e6f86943a7dca59b5cb73445272b7582d8f82a08d2a6d43ab8b1a76614b"
+    },
+    {
+      "path": "镜头设计/图像/结印盘龙-v050/CY024A6-v050-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "7d47a428f4731958e5ff81d617dcaf42ae7d40c2f5234d3aa312c32f0d9b70ae"
+    },
+    {
+      "path": "镜头设计/图像/结印盘龙-v050/CY024A7-v050-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "386d1761cb45fa4021bf86413d03f774e6e68104cfbe9515f7bf8e8e4ccd3ff0"
+    },
+    {
+      "path": "镜头设计/图像/冲击机位-v051/CY024A5A-v051-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "57ab0e825709c6ca0a2374c40bc9c5756cb854297b2d9bf40310dd83e3169aaf"
+    },
+    {
+      "path": "镜头设计/图像/暗月瞬临-v045/CY024A4-v045-r3.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "09fa6831cbf4932b0636636dfddc49845ee1b67bedf2877e20e9ade483bba9ea"
+    },
+    {
+      "path": "镜头设计/图像/苍龙雷渊-v031/CY024A8-v031-r3.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "d6143562c83800a48ee206e4d6363ff14222aa56c74e07f18150f1df19ff7828"
+    },
+    {
+      "path": "镜头设计/图像/结印盘龙-v050/CY024A5-v050-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "6803e430ea8a1dac186112c7dcb7dfa5eb0381d22803705b0fac109fe03c8b0a"
+    },
+    {
+      "path": "镜头设计/图像/结印盘龙-v050/CY024A5B-v050-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "218648e0da3da70210e9b6f04aa358cc08baf74812e7af3fa8405508e0d263af"
+    },
+    {
+      "path": "镜头设计/图像/冲击机位-v051/CY024B-v051-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "30b4cf752dccdaec8d33a24e2d8a2e6db96a12e1784764e045eff5bf854781ca"
+    },
+    {
+      "path": "镜头设计/图像/细节与显形-v052/CY024B1-v052-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "f05297353919a61ef38beb10ed392456654f812ee21d87b1f2f300d8b0a9291f"
+    },
+    {
+      "path": "镜头设计/图像/细节与显形-v052/CY024B3-v052-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "8cdd21ab096300147a6289f16ea8589ac517ab47e94684dc1fbe605c1b4e9362"
+    },
+    {
+      "path": "镜头设计/图像/目光与入场-v048/CY024B3A-v048-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "514faf587a2e3dafb7023966eec417f0724713659eb8c537cc99a2b585ddc96f"
+    },
+    {
+      "path": "镜头设计/图像/暗月瞬临-v045/CY027-v045-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "f91785c1ac15cfbdc5af90fc70dfaf311b876ac385e56d78a35bce8bee938d33"
+    },
+    {
+      "path": "镜头设计/图像/暗月瞬临-v045/CY027A-v045-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "309c537c9b466ae68788b5595dc8ae56aec467339f57a30bad87044408539076"
+    },
+    {
+      "path": "镜头设计/图像/目光与入场-v048/CY027B-v048-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "7bd904d35e2e4dc881fb642a040afbebab3dd9aa9e66109cd9316e85a991a5b5"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY027B1-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "30ecd54a08d05ef6d2fa2d379c49d2b99ff8b181f48094b4c9765a5c82a1a479"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY027B2-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "f2af33a63f169727b29d468faefa5b8b2f845511deee7c88dda6dcb76331aa01"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY027B3-v009.png",
+      "size": [
+        1672,
+        940
+      ],
+      "sha256": "f834353c05e2d1642f16e9d1859c7ceb2bfc9d5270c055141a4f14ddc368f25e"
+    },
+    {
+      "path": "镜头设计/图像/天瀑空间-v014/CY027C-v014.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "99c01c10cbfa00cc3819d4a17fab3dbfa2952c905219ad9c818ba3853955e053"
+    },
+    {
+      "path": "镜头设计/图像/目光与入场-v048/CY025-v048-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "f05576c45ec4da41220460f5ddfe0cca6477699d2ade1e7d88dbb43f7ab900ea"
+    },
+    {
+      "path": "镜头设计/图像/熄烛月光-v012/CY027E-v012.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "bde230e5cb97fd364e20ce4925dbe98a8272b08ec9c422f74fbfd3ae71e026d2"
+    },
+    {
+      "path": "镜头设计/图像/熄烛月光-v012/CY027E1-v012.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "820fd1400170d86b400c66e3055b1cfd00970eb061a70460dadfccb04c4fd43d"
+    },
+    {
+      "path": "镜头设计/图像/末轮叙事优化-v035/CY027D0-v035-r2.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "84ff0d72046035d8398879d3d0de7646aa000c9232dbf45db09573139fd30907"
+    },
+    {
+      "path": "镜头设计/图像/目光与入场-v048/CY027D-v048-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "f97aef426d66c147f3161da161241371c7c2b91f82966231306c4793e9ccb527"
+    },
+    {
+      "path": "镜头设计/图像/天瀑空间-v014/CY027E2-v014-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "923711e34169601b7ad49d588060cee76ed6631024f87ff128c083b04a73f280"
+    },
+    {
+      "path": "镜头设计/图像/细节与显形-v052/CY027F-v052-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "a0731b7569df7466f1d8fceb8d43b8e7f177c4897b27f924a499400cdac824d8"
+    },
+    {
+      "path": "镜头设计/图像/月刃救援-v041/CY027F0-v041-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "9ec53f027cd891e24c6a9d8a18487c1126bc1a4e29b8c63dc51f82390b6da548"
+    },
+    {
+      "path": "镜头设计/图像/目光与入场-v048/CY027F2-v048-r1.png",
+      "size": [
+        1670,
+        942
+      ],
+      "sha256": "81e574d8d45c0f2b118be0041f192caf947dc81c757f24c52f6c50457cf7819d"
+    },
+    {
+      "path": "镜头设计/图像/火焰伤后与星火-v036/CY027F1-v036-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "0f885eaf7c57a4a0f0c6d19b2cdee7666a599fb6d7e399e92f74edc65f3456e3"
+    },
+    {
+      "path": "镜头设计/图像/目光与入场-v048/CY027G-v048-r1.png",
+      "size": [
+        1670,
+        942
+      ],
+      "sha256": "1a2eea63ed7e18bfbd3bdf489f275d3b95fd91163a6f3d98844fee56915a6a7b"
+    },
+    {
+      "path": "镜头设计/图像/目光与入场-v048/CY028A-v048-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "02236be584cb2307c450932230f9ae951ab0f052342f0048c5b907e2ba47cc76"
+    },
+    {
+      "path": "镜头设计/图像/目光与入场-v048/CY028A2-v048-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "2006931f94b084f74ff229869ad6da3363000546ef53b1b65a2adcfa85865413"
+    },
+    {
+      "path": "镜头设计/图像/余波与锁痕-v053/CY028B-v053-r1.png",
+      "size": [
+        1671,
+        941
+      ],
+      "sha256": "8d2abd371758be941744679399ce3cc6c563c809ce65c93f4bbe12319ec059f2"
+    },
+    {
+      "path": "镜头设计/图像/余波与锁痕-v053/CY028C-v053-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "bf2aae78b3b5c1936af01a43d2a0793cf781d3083c0f4b328c749d0a94cde275"
+    },
+    {
+      "path": "镜头设计/图像/头纱连续-v013/CY029-v013.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "1ee86672dd3ad67a1696b5c59c6d7425436b534f71a6e51d8c336a739b99a437"
+    },
+    {
+      "path": "镜头设计/图像/天瀑空间-v014/CY029E-v014-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "2c68c03900736e42ab352f93ff44a2253db4658af19ac5b51f41a417b6f47d1f"
+    },
+    {
+      "path": "镜头设计/图像/火焰伤后与星火-v036/CY029E1-v036-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "5f3812747ba948f49c63d6381b535ce796496dcbf71079a640bccd55c2b64607"
+    },
+    {
+      "path": "镜头设计/图像/末轮叙事优化-v035/CY029E2-v035-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "45a6465264e34b2d075454014017ece7ca7eb3c781e26ca7c10af7925258626e"
+    },
+    {
+      "path": "镜头设计/图像/火焰伤后与星火-v036/CY029E3-v036-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "1add6e04bd4c79f7ab4b29b61dfe5edca5be9573c9a7025e16a75a7e01bcea7b"
+    },
+    {
+      "path": "镜头设计/图像/目光与入场-v048/CY029E4-v048-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "8a4e846a6193fe0734c79dfc3c24edb75fa36f899f9e3893cc60b9515559a24b"
+    },
+    {
+      "path": "镜头设计/图像/火焰伤后与星火-v036/CY029B1-v036-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "5c1b217da403575f03a47b8675726604f9f5dfb2b7f523bc8d6bd2848cf70da5"
+    },
+    {
+      "path": "镜头设计/图像/火种主观-v027/CY029B2-v027-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "0dd08ca242baa694a272ecebac3759926d81108199d3e317dbf3a8bbcacefa34"
+    },
+    {
+      "path": "镜头设计/图像/火焰伤后与星火-v036/CY029B-v036-r1.png",
+      "size": [
+        1671,
+        941
+      ],
+      "sha256": "08798cb3d797ec539e7f250c2f24ae70d9555e97dc4848520c9f9685d15242f2"
+    },
+    {
+      "path": "镜头设计/图像/火焰伤后与星火-v036/CY029C-v036-r1.png",
+      "size": [
+        1671,
+        941
+      ],
+      "sha256": "13ac3aed77a8c45b87257dcb82dd49de1c1a86554a5ae6dd650bc84a1279ffac"
+    },
+    {
+      "path": "镜头设计/图像/火焰伤后与星火-v036/CY029D-v036-r1.png",
+      "size": [
+        1670,
+        942
+      ],
+      "sha256": "aad8e23c78d88b053b492afbbe4147e7e3e8c91f15b0ddefc64a7a34a44d540e"
+    },
+    {
+      "path": "镜头设计/图像/火焰伤后与星火-v036/CY028-v036-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "518dd09f75b2f8910e30f8742c7cc1a61d21dbc502e26dd86c8c1b57e8b8be7b"
+    },
+    {
+      "path": "镜头设计/图像/火焰伤后与星火-v036/CY029A-v036-r1.png",
+      "size": [
+        1671,
+        941
+      ],
+      "sha256": "93c6d6fca455d88b769773b3a8874b679500362317045062704fe31b2144f5a5"
+    },
+    {
+      "path": "镜头设计/图像/火焰伤后与星火-v036/CY030-v036-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "4b4969b67a24902301c26f4628fece7d79f6943145e4d3bf585f780258682b75"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY031-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "b96a52892235847d16d96908cc76ac433f8eddf5a62cf984932d3a3f08ee0e95"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY031A-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "9c0c5fd1542d56d6bd5daf86f56c35900e8d0f124ecf10491ce5c525869ec7d8"
+    },
+    {
+      "path": "镜头设计/图像/细节F-接勺握持-v002.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "d19d00ca7d0b68f3f107390adfeee6b904a87d11f53bbe420482f5becb28c775"
+    },
+    {
+      "path": "镜头设计/图像/独立镜头-v009/CY033-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "d503d8c10733930a551e5af5b6fc2fac0abb73c2e9a1df7aae667c501c5c78c6"
+    },
+    {
+      "path": "镜头设计/图像/长吟唱护盾与结尾-v029/CY034A-v029-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "618c7554631a9f03fb6abe13d3943204d2674a69fd378caf105a8176c61cccf8"
+    },
+    {
+      "path": "镜头设计/图像/长吟唱护盾与结尾-v029/CY034-v029-r1.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "656789f33489f19240985772e1eb5aa272267372f3d310e99f541475b4bc639a"
+    }
+  ],
+  "all_candidate_hashes_verified": 61,
+  "adopted_runs": [
+    {
+      "first_shot": "CY001",
+      "last_shot": "CY004A",
+      "start": 0,
+      "end": 28,
+      "shots": 8,
+      "music_id": "BGM-CY-MT-03",
+      "title": "魔法が存在する世界で",
+      "timeline_seconds": 28,
+      "source_seconds": 131.016871,
+      "shortfall_if_full_bed": 0
+    },
+    {
+      "first_shot": "CY004B",
+      "last_shot": "CY009A",
+      "start": 28,
+      "end": 67,
+      "shots": 10,
+      "music_id": "BGM-CY-KH-05",
+      "title": "To Jerusalem",
+      "timeline_seconds": 39,
+      "source_seconds": 96.277833,
+      "shortfall_if_full_bed": 0
+    },
+    {
+      "first_shot": "CY010A",
+      "last_shot": "CY016C",
+      "start": 67,
+      "end": 108,
+      "shots": 13,
+      "music_id": "BGM-CY-HP7-02",
+      "title": "Snape to Malfoy Manor",
+      "timeline_seconds": 41,
+      "source_seconds": 118.527667,
+      "shortfall_if_full_bed": 0
+    },
+    {
+      "first_shot": "CY016D",
+      "last_shot": "CY022B2",
+      "start": 108,
+      "end": 162,
+      "shots": 17,
+      "music_id": "BGM-CY-RZ-01",
+      "title": "沈黙のレクイエム",
+      "timeline_seconds": 54,
+      "source_seconds": 424.127833,
+      "shortfall_if_full_bed": 0
+    },
+    {
+      "first_shot": "CY022B1",
+      "last_shot": "CY024",
+      "start": 162,
+      "end": 175,
+      "shots": 5,
+      "music_id": "BGM-CY-FEAR-001",
+      "title": "Fear Brought Me This Far",
+      "timeline_seconds": 13,
+      "source_seconds": 139.551701,
+      "shortfall_if_full_bed": 0
+    },
+    {
+      "first_shot": "CY024R",
+      "last_shot": "CY024K4",
+      "start": 175,
+      "end": 204.0,
+      "shots": 9,
+      "music_id": "BGM-CY-FZ-02",
+      "title": "let the stars fall down",
+      "timeline_seconds": 29.0,
+      "source_seconds": 125.432834,
+      "shortfall_if_full_bed": 0
+    },
+    {
+      "first_shot": "CY023A",
+      "last_shot": "CY030",
+      "start": 204.0,
+      "end": 410.0,
+      "shots": 64,
+      "music_id": "BGM-CY-FEAR-001",
+      "title": "Fear Brought Me This Far",
+      "timeline_seconds": 206.0,
+      "source_seconds": 139.551701,
+      "shortfall_if_full_bed": 66.44829899999999
+    },
+    {
+      "first_shot": "CY031",
+      "last_shot": "CY034",
+      "start": 410.0,
+      "end": 434.0,
+      "shots": 6,
+      "music_id": "BGM-CY-TIME-001",
+      "title": "Time Flows Ever Onward",
+      "timeline_seconds": 24.0,
+      "source_seconds": 138.088844,
+      "shortfall_if_full_bed": 0
+    }
+  ],
+  "selected_music": [
+    {
+      "id": "BGM-CY-FEAR-001",
+      "title": "Fear Brought Me This Far",
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-FEAR-001.m4a",
+      "sha256": "3ea813e300f11b4426cc4a4fdc5d071cee307f4f1bc69f6484e1eefdc0b7dd74",
+      "duration": 139.551701,
+      "decode_ok": true,
+      "lufs": -14.56,
+      "true_peak_db": 0.24,
+      "loudness_range_lu": 18.5
+    },
+    {
+      "id": "BGM-CY-FZ-02",
+      "title": "let the stars fall down",
+      "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-02.m4a",
+      "sha256": "5d774ae5fcf881fabb4f748817851106a9d40d8b1245a13d8495d9f45fbaeed0",
+      "duration": 125.432834,
+      "decode_ok": true,
+      "lufs": -10.27,
+      "true_peak_db": 0.36,
+      "loudness_range_lu": 3.2
+    },
+    {
+      "id": "BGM-CY-HP7-02",
+      "title": "Snape to Malfoy Manor",
+      "path": "资产/声音/BGM/重选-v006/BGM-CY-HP7-02.m4a",
+      "sha256": "ea9165c4b1ba540803c7de7fb08b011aee084d696aadf2cb9962e7acd23a6fdb",
+      "duration": 118.527667,
+      "decode_ok": true,
+      "lufs": -16.39,
+      "true_peak_db": -0.28,
+      "loudness_range_lu": 9.6
+    },
+    {
+      "id": "BGM-CY-KH-05",
+      "title": "To Jerusalem",
+      "path": "资产/声音/BGM/重选-v004/BGM-CY-KH-05.m4a",
+      "sha256": "f0127de39de56e0557b030fa70344f99f96edda61040240e3eacb1d2b703fe5d",
+      "duration": 96.277833,
+      "decode_ok": true,
+      "lufs": -19.2,
+      "true_peak_db": -2.35,
+      "loudness_range_lu": 19.3
+    },
+    {
+      "id": "BGM-CY-MT-03",
+      "title": "魔法が存在する世界で",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-03.m4a",
+      "sha256": "6726d4d192ca25ee0921d7bf8255e7f9f4757f837c9537ecb76ec7d3386d8edb",
+      "duration": 131.016871,
+      "decode_ok": true,
+      "lufs": -9.9,
+      "true_peak_db": -0.08,
+      "loudness_range_lu": 12.6
+    },
+    {
+      "id": "BGM-CY-RZ-01",
+      "title": "沈黙のレクイエム",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-RZ-01.m4a",
+      "sha256": "15ff41df0917bd4415b7750ede29e192e647d93dc7a40d70f5daea5610c18fb9",
+      "duration": 424.127833,
+      "decode_ok": true,
+      "lufs": -15.27,
+      "true_peak_db": -0.09,
+      "loudness_range_lu": 14.5
+    },
+    {
+      "id": "BGM-CY-TIME-001",
+      "title": "Time Flows Ever Onward",
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-TIME-001.m4a",
+      "sha256": "72bd9d9171da81a356f365036769c9922ac30ca5ad90e0ce6f5331c0e9d059fc",
+      "duration": 138.088844,
+      "decode_ok": true,
+      "lufs": -19.39,
+      "true_peak_db": -0.48,
+      "loudness_range_lu": 13.8
+    }
+  ],
+  "full_music_listening": false,
+  "continuous_video_viewing": false,
+  "formal_mix": false,
+  "method": "Current files probed/hashed and selected audio fully decoded with FFmpeg loudness analysis; not listening approval"
+}

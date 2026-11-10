@@ -1,0 +1,68 @@
+{
+  "1": {
+    "inputs": {
+      "model": "bf16 (best quality)",
+      "dtype": "bf16",
+      "device": "cuda",
+      "attention": "sdpa",
+      "decode_mode": "eager",
+      "download_if_missing": false
+    },
+    "class_type": "BreezeTTS2LoadModel",
+    "_meta": {
+      "title": "Breeze TTS 2 · 已安装 BF16"
+    }
+  },
+  "2": {
+    "inputs": {
+      "text": "别担心，我会陪着你。我们一起把这个故事讲完。",
+      "reference_text": "你好，欢迎来到声音创作工作室。今天，让我们用自然清晰的中文，把文字变成有温度的声音。",
+      "instruction": "语气温柔而坚定，放慢一点，像在认真安慰面前的朋友。",
+      "cfg_scale": 4.0,
+      "stitch_reference": "none",
+      "max_new_tokens": 256,
+      "temperature": 0.9,
+      "top_k": 50,
+      "top_p": 1.0,
+      "repetition_penalty": 1.1,
+      "depth_temperature": 0.9,
+      "depth_top_k": 50,
+      "depth_top_p": 1.0,
+      "seed": 20261026,
+      "breeze_model": [
+        "1",
+        0
+      ],
+      "reference_audio": [
+        "4",
+        0
+      ]
+    },
+    "class_type": "BreezeTTS2VoiceDirection",
+    "_meta": {
+      "title": "03-克隆与情绪指导"
+    }
+  },
+  "3": {
+    "inputs": {
+      "filename_prefix": "audio/BreezeTTS2/voice-direction",
+      "audio": [
+        "2",
+        0
+      ]
+    },
+    "class_type": "SaveAudio",
+    "_meta": {
+      "title": "保存并试听 · 24kHz 无损 FLAC"
+    }
+  },
+  "4": {
+    "inputs": {
+      "audio": "breeze-tts2-reference.flac"
+    },
+    "class_type": "LoadAudio",
+    "_meta": {
+      "title": "替换为清晰的参考人声"
+    }
+  }
+}

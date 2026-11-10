@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115148813883596800",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "水龙破顶",
+    "status": "succeeded",
+    "created_at": 1793125749,
+    "updated_at": 1793125769,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115148813883596800/content?expires=1793730624&signature=0716493c54842b93592df522a835d146e22848201c4af1f4309f60dd4b0b221f"
+    },
+    "resolution": "768P",
+    "duration": 6,
+    "usage": {
+      "total_seconds": 6,
+      "input_seconds": 0,
+      "output_seconds": 6,
+      "input_image_count": 1
+    },
+    "ratio": "16:9",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

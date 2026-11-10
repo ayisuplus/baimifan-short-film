@@ -1,0 +1,74 @@
+{
+  "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+  "nodeId": "a-yq7w272cqtj8",
+  "node": {
+    "id": "a-yq7w272cqtj8",
+    "type": "audio",
+    "data": {
+      "taskInfo": {
+        "loading": false,
+        "progressPercent": 100,
+        "status": 2,
+        "taskId": "20261021124203771279236",
+        "taskParams": "",
+        "taskResult": "{\"images\":[],\"videos\":[],\"audios\":[{\"previewPath\":\"https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/audio/4a687bfc3acc4951adf244cb28598805/cb75816f8959eb2df8ad3e076c8a73747db531d03674cd7b2bbe90cf1b49097b.mp3\",\"originalPath\":\"sd-gen-save-img/genius_playground/audio/4a687bfc3acc4951adf244cb28598805/cb75816f8959eb2df8ad3e076c8a73747db531d03674cd7b2bbe90cf1b49097b.mp3\",\"storagePath\":\"sd-gen-save-img/genius_playground/audio/4a687bfc3acc4951adf244cb28598805/cb75816f8959eb2df8ad3e076c8a73747db531d03674cd7b2bbe90cf1b49097b.mp3\",\"resourceId\":\"res_e04bb2d0578547268580a4883cd3b088\"}]}",
+        "failedReason": "",
+        "outputMaterializedFromTaskResult": true
+      },
+      "type": "audio",
+      "url": [
+        "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/audio/4a687bfc3acc4951adf244cb28598805/cb75816f8959eb2df8ad3e076c8a73747db531d03674cd7b2bbe90cf1b49097b.mp3"
+      ],
+      "_audioMeta": {
+        "measuredAtMs": 1792557866942,
+        "lufs": -21.3
+      },
+      "action": "audio_generate",
+      "params": {
+        "advancedSettings": {
+          "voice_modify_sound_effects": "",
+          "voice_modify_timbre": 0,
+          "voice_setting_pitch": 0,
+          "voice_setting_speed": 1,
+          "voice_setting_voice_id": "Chinese (Mandarin)_Soft_Girl",
+          "voice_setting_vol": 1,
+          "voice_modify_intensity": 0,
+          "voice_modify_pitch": 0
+        },
+        "audioList": [],
+        "count": 1,
+        "modeType": "text2audio",
+        "textList": [],
+        "videoList": [],
+        "imageList": [],
+        "model": "speech-2.8-hd",
+        "prompt": "别碰她！",
+        "settings": {}
+      },
+      "resourceIds": [
+        "res_e04bb2d0578547268580a4883cd3b088"
+      ]
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "sourcePosition": "right",
+    "targetPosition": "left"
+  },
+  "canvasDataSource": "api",
+  "mediaPersistence": {
+    "source": "canvas.nodeList.data",
+    "nodes": [
+      {
+        "nodeId": "a-yq7w272cqtj8",
+        "bindingStatus": "present",
+        "persistedUrlCount": 1,
+        "persistedResourceIdCount": 1,
+        "readUrlCount": 1,
+        "urlsMaterializedForRead": false
+      }
+    ],
+    "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+  }
+}

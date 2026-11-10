@@ -1,0 +1,951 @@
+{
+  "version": "v003",
+  "model": "MiniMax-H3",
+  "resolution": "768P",
+  "ratio": "16:9",
+  "spending_ceiling_credits": 5806.1,
+  "observed_start_balance": 5806.1,
+  "authorization": "作者要求修复第6、11、20、21、39批剧情与空间错误，沿用已授权Metaso H3积分；40仅必要接头。无充值。",
+  "items": [
+    {
+      "batch_number": 6,
+      "batch_id": "GB005",
+      "attempt_id": "GB005-v003-CY009",
+      "title": "独自离去、搓手迟疑与起身目送",
+      "shot_ids": [
+        "CY009"
+      ],
+      "film_start": 69.592729,
+      "part_offset": 0,
+      "used_seconds": 5,
+      "duration": 5,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。5秒。鲸帽孩子已经背对远处软榻，朝镜头方向离开。她一边轻擦眼泪一边沿地面缓慢走近镜头，不回头、不转身、不走向软榻；相机缓缓后退保持孩子全身。远处白衣GPT始终横躺在同一榻上，头左脚右，只用眼睛跟随孩子，不起身。孩子0–1.7秒轻声说一次<d>[Japanese] じゃあ、自分で行く。</d>，随后嘴闭合，难过却坚持地走。宫殿台阶、软榻、窗格位置不变。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "镜头设计/图像/数学宫殿-v056/CY009.png",
+          "sha256": "50c30570f97b23d3209329d6b7985de58d8eb56a2fa05fbe30257c6235ca9ab0",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 51.0,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "原图已面向离开方向，取消额外转身；锁定背景GPT躺姿，孩子向近处退出。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB005"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T03:52:24+0800",
+      "task_id": "2115169775516835840",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB005-v003-CY009.mp4",
+      "sha256": "d5de5cfe00d7e90232a64fdec823b3b4136ba5acb6dce8d6c5ec5fe8ee77895a",
+      "bytes": 7923711
+    },
+    {
+      "batch_number": 6,
+      "batch_id": "GB005",
+      "attempt_id": "GB005-v003-CY010",
+      "title": "独自离去、搓手迟疑与起身目送",
+      "shot_ids": [
+        "CY010"
+      ],
+      "film_start": 69.592729,
+      "part_offset": 5,
+      "used_seconds": 3,
+      "duration": 4,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。4秒固定手部特写，前3秒用于剪辑。画面中已有且始终只有同一个人的两只手，白袖金镯与紫金软垫不变。0–1.6秒右拇指在左手背上缓慢揉动两下，幅度小；1.6–3秒双手停住，表现犹豫转为决心。3–4秒自然保持供剪辑余量。手不从画外进入，手不离开软垫，不增加第三只手，不出现脸或其他身体。不说话。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "镜头设计/图像/宫殿躺姿-v055/CY010-r2-搓手.png",
+          "sha256": "63d4ac1b354c7022f52a846530d4c8d0f0dd6ce3b60857dcaacb6f8ac6a64f6f",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "起态已经有双手，不再让手从画外进入；只保留犹豫的手部反应。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB005"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T03:52:46+0800",
+      "task_id": "2115169863961341952",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB005-v003-CY010.mp4",
+      "sha256": "270885787267aa5fc0b91e810d3142804947447962fc182f4d2a46fffee3ae9c",
+      "bytes": 3361477
+    },
+    {
+      "batch_number": 6,
+      "batch_id": "GB005",
+      "attempt_id": "GB005-v003-CY009A",
+      "title": "独自离去、搓手迟疑与起身目送",
+      "shot_ids": [
+        "CY009A"
+      ],
+      "film_start": 69.592729,
+      "part_offset": 8,
+      "used_seconds": 6,
+      "duration": 6,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。6秒肩后长轴镜头。白发GPT已停在近景左侧，摄影机紧贴她肩后，只有头后和肩膀局部，脸和下半身不进入画面。她安静注视远处鲸帽孩子。孩子背对镜头沿中轴一直走向已打开的远门，缓慢越过门槛进入云光，身形逐渐变小；不回头不突然跑回。GPT仅有轻微呼吸与发丝摆动，不再做起身、转身或追赶动作。相机固定，不展示榻前立起、不让王座或椅背长在门口，不新增人物。无对白。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "镜头设计/图像/数学宫殿-v056/CY009A.png",
+          "sha256": "44c7f45cb3ea56cd8da3857d0f6f419170c333f06f63588938a52ee7e3dc1fd6",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 61.2,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "用明确省略剪辑从手部切到已起身肩后，不强行在背面镜头生成躺到站的不可见过程。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB005"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T03:53:04+0800",
+      "task_id": "2115169939895283712",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB005-v003-CY009A.mp4",
+      "sha256": "dd5b61679949a4ecc8fe7ceb55e7e0fded9dcd4129ba97089c708a0a196f56e7",
+      "bytes": 6714186
+    },
+    {
+      "batch_number": 40,
+      "batch_id": "GB030-1",
+      "attempt_id": "GB030-1-v003-CY029B2",
+      "title": "放出一枚火种、火种主观逼近空架、触木后骤然燃起、收手后脱力、及时托住",
+      "shot_ids": [
+        "CY029B2"
+      ],
+      "film_start": 440.662729,
+      "part_offset": 4.36,
+      "used_seconds": 2,
+      "duration": 4,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。4秒的单镜，前2秒为完整有效动作。摄影机就是已经离手的一枚火种的主观视角，面前是同一空木刑架。0–1.6秒沿铁箍下方裸露木纹平稳直线前进，1.6–1.9秒轻微加速，木纹占比逐渐变大；1.9–2秒中心木纹接触点才闪一个小暖光。画面中央始终只有目标木纹，没有任何飞行火球、火种本体、手或人物，橙金色只在最外侧画边少量虚焦闪动，不遮挡中心，不呈现连续喷火。2–4秒只是同一点局部微亮供剪辑余量，不提前让整个刑架腾燃。镜头不翻滚不绕行。夜间教堂冷月照明，所有周围普通灯烛熄灭，空锁扣留在刑架。无对白。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "镜头设计/图像/火种主观-v027/CY029B2-v027-r1.png",
+          "sha256": "0dd08ca242baa694a272ecebac3759926d81108199d3e317dbf3a8bbcacefa34",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "39→40火种衔接：旧飞行镜中央火体与连续喷流会把同一小火种误读为第二次发射；重拍唯一主观推进。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB030-1"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T04:01:03+0800",
+      "task_id": "2115171949392617472",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB030-1-v003-CY029B2.mp4",
+      "sha256": "d691eeeb9c4073e1ec5502d832a8b0543097ecf36baf6c197cecd65db271bf00",
+      "bytes": 7856799
+    },
+    {
+      "batch_number": 20,
+      "batch_id": "GB015-2",
+      "attempt_id": "GB015-2-v003-CY024K3",
+      "title": "暗月闭合，截住教徒法术",
+      "shot_ids": [
+        "CY024K3"
+      ],
+      "film_start": 229.062729,
+      "part_offset": 0,
+      "used_seconds": 4,
+      "duration": 4,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。单一连续镜头，哥特动画母版，16:9。以唯一首帧锁定空间、角色和两枚小圆月刃。Claude从头到尾仍五处受缚在中央刑架上，脚在固定脚托；Kimi留在她左前护住她，绝不出现自由站立的Claude。0–0.8秒Kimi右手暗月圆刃向上划一次，深靛壳迅速从地面包围两人、刑架及脚托，0.8秒完整闭合且完全不透明。1.0秒起两侧教徒才把已聚能的琥珀法术短促射出，光束在壳外止住并碎成火星。2.1–4秒壳完整，外侧余火散落。镜头始终在罩外低机位微后退，燃木始终罩外。左明刃不换手、双刃不变形、无水流、无新人物、无字幕、无对白。可请求5秒，4–5秒只保完整壳体余量；必须从回片中取得先闭合后受击的完整4秒，不靠剪断因果凑时长。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v003/修订参考/CY024K3-闭罩前-r002.png",
+          "sha256": "c80a01b22b0c1add10dee90e819fbb34110919d0ac609e6eb7725937faa270eb",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "整批作者否定后：用新起态锁定正确的空间、道具与动作因果。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB015-2"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T04:08:38+0800",
+      "task_id": "2115173861685911552",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB015-2-v003-CY024K3.mp4",
+      "sha256": "9df445a043e535dd13bae68bbaebd8f79637df96bd60816d220d6467b1537187",
+      "bytes": 6137079
+    },
+    {
+      "batch_number": 21,
+      "batch_id": "GB016-1",
+      "attempt_id": "GB016-1-v003-CY024K4",
+      "title": "罩内试镣，见痛收刀、圣骑士鱼贯而入、云宫合扇、合扇就是回答",
+      "shot_ids": [
+        "CY024K4"
+      ],
+      "film_start": 233.062729,
+      "part_offset": 0,
+      "used_seconds": 3,
+      "duration": 4,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。单一3秒中近景，16:9。严格沿唯一首帧：画面左上是Claude高举的闭合腕扣，Kimi右手持小圆暗月刃，左手低位持明月刃。0–0.6秒暗月刃只移动几厘米，轻试左上腕扣的外侧接缝，动作始终在Claude面部轮廓的左上之外，刃尖永不进入她的脸颈线。0.6–1秒仅腕扣接触点闪一个小紫亮斑，Claude眉头短收。1–1.8秒Kimi立刻把右手向自己身体外侧撤下到髋边，刀口朝外下；不是经Claude脸颈撤刀。1.8–3秒她担忧看锁扣并停手，Claude自然呼吸。两枚武器始终是同一小圆月刃；不变直匕首、不换手、不重复试、不解开任何束缚。暗膜不透明，无其他人、无字幕、无新对白。额外余量只保持撤刃后自然反应。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v003/修订参考/CY024K4-试镣前-r001.png",
+          "sha256": "72141f96ee745934aa3df4bd1fbc0e0f1d29c7e5fd9e03a3db2dc44fec0702b0",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "整批作者否定后：用新起态锁定正确的空间、道具与动作因果。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB016-1"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T04:09:39+0800",
+      "task_id": "2115174112265822208",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB016-1-v003-CY024K4.mp4",
+      "sha256": "83c3f84d9a292c06ce529192bde6498170705645700045f86062f62d2ffaff43",
+      "bytes": 6152686
+    },
+    {
+      "batch_number": 21,
+      "batch_id": "GB016-1",
+      "attempt_id": "GB016-1-v003-CY023A",
+      "title": "罩内试镣，见痛收刀、圣骑士鱼贯而入、云宫合扇、合扇就是回答",
+      "shot_ids": [
+        "CY023A"
+      ],
+      "film_start": 233.062729,
+      "part_offset": 3,
+      "used_seconds": 3,
+      "duration": 4,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。单一3秒镜头，16:9。唯一首帧锁定门内空间与六名圣骑士：门边两名竖枪岗哨站定不动；左边两名已跨槛的增援沿左侧柱廊再走两步停稳，右边两名沿右侧柱廊再走两步停稳。四人始终各走自己一侧，不交叉、不返身、不从门外再复制队伍。中央石地通道全程空着。镜头留在门内轻微后退，同时保留门槛和左右柱廊入口，不穿过人物或门。白银甲与披风保持，门扇已打开且不动。没有主角、没有马、没有新人物、无对白字幕。额外余量保持两翼站稳。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v003/修订参考/CY023A-两翼分流前-r001.png",
+          "sha256": "0434e44dfb9c19a2fd3e8f0abffd7cdf97a6e1fc9cd2a06675261eee683f35be",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "整批作者否定后：用新起态锁定正确的空间、道具与动作因果。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB016-1"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T04:09:44+0800",
+      "task_id": "2115174134335201280",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB016-1-v003-CY023A.mp4",
+      "sha256": "1247d1603fd2293742aab29678f92336191ad99a4b9e598bca7041dd057816f4",
+      "bytes": 5729223
+    },
+    {
+      "batch_number": 39,
+      "batch_id": "GB029",
+      "attempt_id": "GB029-v003-CY029E2",
+      "title": "选择继续与凝种",
+      "shot_ids": [
+        "CY029E2"
+      ],
+      "film_start": 427.282729,
+      "part_offset": 2.7,
+      "used_seconds": 2.74,
+      "duration": 4,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。单镜地面低角度，父亲始终伏在原湿地。起始手臂朝前上方悬空伸出；听到画外Claude继续念咒，0.2–0.8秒动作突然僵住，目光从恳求转为惊惧，随后仅指尖失去力气下坠，手掌缓慢落低，2.5秒结束为半垂手而非攥拳。头胸不抬高，不跪起，不爬行，不做攻击动作，不说话。画外2.64秒原录音『まだ消えぬ温もりをたどり、』从本镜开始沿原时码播放，不把画外女声配到父亲嘴上。保持同一镜，不让地面出现火光。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v003/修订参考/GB029-CY029E2-firstframe-r001.png",
+          "sha256": "29e20d99724ee00e069623ab160f0a99e4795e6a30e053e8a5ed093a5d503d11",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "整段重拍：承接悬空伸手与左手扶腕的小火种，不沿用终态反推动作。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB029"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T04:28:01+0800",
+      "task_id": "2115178740059398144",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB029-v003-CY029E2.mp4",
+      "sha256": "d6f32250f09d18052583523bf3c8a2027c5d2954489b2ad81385a29d6af74c27",
+      "bytes": 5433054
+    },
+    {
+      "batch_number": 39,
+      "batch_id": "GB029",
+      "attempt_id": "GB029-v003-CY029E3",
+      "title": "选择继续与凝种",
+      "shot_ids": [
+        "CY029E3"
+      ],
+      "film_start": 427.282729,
+      "part_offset": 5.44,
+      "used_seconds": 3,
+      "duration": 4,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。仅两只手的单一特写。左手从头到尾扶稳同一右腕，右手只有疲惫的细小颤抖；指间同一枚小火种在0–1秒稍稳住，随后短火舌轻晃，亮度不爆发、体积不变大。3秒内不释放、不翻为掌心托球、不重新凝聚第二枚火、不出现第三只手。镜头极轻推进，手位及空刑架方向不换轴。画外原录音『この手のひらで、』在本镜0–1.73秒，画面不出现说话嘴。余1秒仅作自然余量。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v003/修订参考/GB029-CY029E3-firstframe-r001.png",
+          "sha256": "cc14b4d059a7829919ede42e7d17666b33d81b39937cb3752a00cceb92804728",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "整段重拍：承接悬空伸手与左手扶腕的小火种，不沿用终态反推动作。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB029"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T04:09:49+0800",
+      "task_id": "2115174154953089024",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB029-v003-CY029E3.mp4",
+      "sha256": "b578567618d219f3f7d7e5b515350f3c9a43c1dc3c187e44ff11cfaee1b3cc18",
+      "bytes": 3342396
+    },
+    {
+      "batch_number": 11,
+      "batch_id": "GB009",
+      "attempt_id": "GB009-v003-CY016D",
+      "title": "抓柴与受阻",
+      "shot_ids": [
+        "CY016D"
+      ],
+      "film_start": 129.572729,
+      "part_offset": 0,
+      "used_seconds": 2,
+      "duration": 4,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。4秒单镜，前2秒有效。孩子两脚牢牢踩地，双手已经抓住成人怀中同一根木头的外端，0–1秒轻轻向自己拉，成人抱木头的手保持不松，木头只轻晃；1–2秒形成僵持，孩子抬眼恳求，仍不放手。成人此镜不推人。背景唯一背影教徒朝高处祭坛继续走上一阶，绝不朝镜头下阶；最高处唯一橙发女子保持受缚不动。无对白，不生成门或新人物，不移动刑架。2–4秒保持同一僵持状态供余量。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v003/修订参考/CY016D-r001-上行抓木起态.png",
+          "sha256": "a8fd0e8d430662fb9fe19ddaf8bf0fef0ef5d1da29660847dea6773f46feaa20",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "背景搬柴者改为背影上阶，只有唯一远处受缚Claude；删除门闩字样引出的巨门。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB009"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T04:17:03+0800",
+      "task_id": "2115175975857872896",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB009-v003-CY016D.mp4",
+      "sha256": "ea61b88e01d5096cf87e7f8759c0075f2ce7372d14215a2c2cbff311c4867fc6",
+      "bytes": 4974652
+    },
+    {
+      "batch_number": 11,
+      "batch_id": "GB009",
+      "attempt_id": "GB009-v003-CY017",
+      "title": "抓柴与受阻",
+      "shot_ids": [
+        "CY017"
+      ],
+      "film_start": 129.572729,
+      "part_offset": 2,
+      "used_seconds": 5,
+      "duration": 5,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。5秒单镜。孩子双手抓住同一根未点燃的柴木，脚踩石地。黑金衣成人始终一臂抱稳木头，另一只悬空手先向下放到孩子肩侧，远离头脸；0.6–1.4秒只推肩侧一次。孩子重心向左后退，双手从木头松开，膝盖弯曲，在2.5秒前用一手撑地半跪稳住，不飞起、不翻滚、不出现受伤血迹。成人立即收回空手，抱着同一木头转向画面左后方的上行台阶，3–5秒背向镜头走上一阶去祭坛，孩子留在下层。背景搬柴者同样只上阶，不复制橙发女子。相机低位固定，人物手脚数量正确，无对白。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v003/修订参考/CY017-r001-推前抓木起态.png",
+          "sha256": "5a77306e64d99da798897de06b61475ffb43226f9ba1846343dcad0af9fc9d0e",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 51.0,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "从抓着同一木头的起势开始，保留一次推开→松手→半跪受力链；画外空手先落肩侧。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB009"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T04:17:08+0800",
+      "task_id": "2115175995013128192",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB009-v003-CY017.mp4",
+      "sha256": "e0040c35192c68b8a60f90ac5a4c9b727efd2fcf5c6ce099986d2ca154eae7b4",
+      "bytes": 8300139
+    },
+    {
+      "batch_number": 11,
+      "batch_id": "GB009",
+      "attempt_id": "GB009-v003-CY017A",
+      "title": "抓柴与受阻",
+      "shot_ids": [
+        "CY017A"
+      ],
+      "film_start": 129.572729,
+      "part_offset": 7,
+      "used_seconds": 2,
+      "duration": 4,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。4秒低位近景，前2秒有效。前景黑金衣教徒只把双手中的同一根未点燃柴木慢慢下放，0–1秒落稳在已有柴堆，1–1.7秒两只手松开并收回；1.7–4秒新木头安静留在堆上。右后教徒抱自己的木头等待，不同时加第二根。木头只有火盆反光，本身没有火焰或燃烧。后景白金裙和刑架不动，裙下固定脚托被柴堆遮挡，不露出自由走动的人。镜头固定，不拉出人脸，不复制人物，无对白。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "镜头设计/图像/火祭因果-v040/CY017A-v040-r1.png",
+          "sha256": "2b207c2ae64f753c9eb115b00ecb1c66df590b10c77354f13c423e4963f081ee",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "两秒只完成一次放木，取消多根累积复杂动作；刑架脚托仍被柴堆遮挡。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB009"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T04:17:13+0800",
+      "task_id": "2115176016338415616",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB009-v003-CY017A.mp4",
+      "sha256": "ee3fce258f467fd3e9a0e1fee142d42ee6c2dc648133ee920a392d4c3c9c3d6f",
+      "bytes": 6317100
+    },
+    {
+      "batch_number": 11,
+      "batch_id": "GB009",
+      "attempt_id": "GB009-v003-CY018",
+      "title": "抓柴与受阻",
+      "shot_ids": [
+        "CY018"
+      ],
+      "film_start": 129.572729,
+      "part_offset": 9,
+      "used_seconds": 4,
+      "duration": 4,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。4秒地面低机位单镜，孩子已经低跪，双臂抱住另一搬柴者的近侧小腿，后侧靴已经踩上高一阶。0–0.8秒孩子抱紧，成人近侧靴沿地面向外轻扫一次挣开孩子手臂，不踢头胸；0.8–2秒孩子松手，臀腿贴着地面向左后滑开一小段，以双手撑住自己，仍清醒。2–4秒成人收腿踏上更高一级，背向镜头离去，孩子留在下阶。明确只有同一成人的两条腿和孩子的两条腿，脚不穿过孩子身体；没有腾空、翻滚、血迹或新人物。无对白。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v003/修订参考/CY018-r001-抱腿起态.png",
+          "sha256": "b38ec35b7073c2666074b858a430e64de1e8609ed1834f48c87d9765005f7514",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "由低跪抱住另一搬柴者小腿起拍，保留一次挣脱和地面滑退，避免从跌倒终态反推踢人。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB009"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T04:17:18+0800",
+      "task_id": "2115176041362677760",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB009-v003-CY018.mp4",
+      "sha256": "0d2a7d8f9f12688203ac5294a611fe2f01dbc9f047e6c0f43351e51f2fa3fba6",
+      "bytes": 6563961
+    },
+    {
+      "batch_number": 39,
+      "batch_id": "GB029",
+      "attempt_id": "GB029-v003-CY029E1",
+      "title": "选择继续与凝种",
+      "shot_ids": [
+        "CY029E1"
+      ],
+      "film_start": 427.282729,
+      "part_offset": 0,
+      "used_seconds": 2.7,
+      "duration": 4,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。固定首帧起拍，只有Claude一人作为可辨人物。她身体停在祭坛最高平台，眼睛先离开前下方阶下父亲的方向，随即抬眼并向自己左后方很小幅回头，看向画面左侧空木刑架，目光落定，续念同一句咒语。转头0–0.8秒完成，不走动不重新站起；其后保持决心与虚弱呼吸，镜头仅轻微横移形成她与空刑架的视线关系，不切镜。0–2.37秒只说一次<d>[Japanese] 我が呼び声に応えよ。</d>，后续素材把呼吸自然延续作余量，不增加台词。禁止刑架或蜡烛点火、旁人入画、火种飞出、身体瞬移。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v003/修订参考/GB029-CY029E1-firstframe-r003.png",
+          "sha256": "f8fccaabe5aba99de034bafc248eedd18476de60521884a635bebc40712303b0",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "整批重拍，重新建立高祭坛和阶下柱边的视线关系；冷光、空刑架、唯一火种状态连续。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB029"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T04:27:53+0800",
+      "task_id": "2115178706573127680",
+      "reconciliation_note": "根据已受理回执恢复任务ID；未重新提交。",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB029-v003-CY029E1.mp4",
+      "sha256": "9b1bcfac52124a062299595db5f713459e33d6dc19987f18d55dee67c88d67d6",
+      "bytes": 5967092
+    },
+    {
+      "batch_number": 39,
+      "batch_id": "GB029",
+      "attempt_id": "GB029-v003-CY029E4",
+      "title": "选择继续与凝种",
+      "shot_ids": [
+        "CY029E4"
+      ],
+      "film_start": 427.282729,
+      "part_offset": 8.44,
+      "used_seconds": 4.94,
+      "duration": 5,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。5秒完整单镜。孩子被千问左臂一直抱稳，0–1.2秒手指把同一处衣襟轻轻攥紧；1.2–3秒眼睛和头略抬，望向已建立的高祭坛方向，3–4.94秒停留，眼中紧张转为明白，嘴闭合不说话。摄影机从衣襟和手微抬到眼睛，幅度小，不改变柱边站位和高低关系。千问不换抱手、不把孩子放地上，右手扇不进画。Claude画外原录音『もう一度、燃えよ——』只在本镜0–2.61秒，绝不对到孩子嘴。全程无火种飞入，无光落到孩子身上，无其他人物。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v003/修订参考/GB029-CY029E4-firstframe-r002.png",
+          "sha256": "fa665644c403216702bab60e545726b96aa7c60af54bbf398aca15bc04dfae4c",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 51.0,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "整批重拍，重新建立高祭坛和阶下柱边的视线关系；冷光、空刑架、唯一火种状态连续。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB029"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T04:28:10+0800",
+      "task_id": "2115178778982014976",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB029-v003-CY029E4.mp4",
+      "sha256": "4e751dacc49017f1ca72f84147260a0b5004b5c227afd0219bbd508a3f4236ec",
+      "bytes": 7954992
+    },
+    {
+      "batch_number": 40,
+      "batch_id": "GB030-1",
+      "attempt_id": "GB030-1-v003-CY029B1",
+      "title": "放出一枚火种、火种主观逼近空架、触木后骤然燃起、收手后脱力、及时托住",
+      "shot_ids": [
+        "CY029B1"
+      ],
+      "film_start": 440.662729,
+      "part_offset": 0,
+      "used_seconds": 4.36,
+      "duration": 5,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。首帧延续同一枚指间小火种和左手扶腕。画外0–0.99秒原录音『せいか。』，手仍稳住，术名后才慢慢向空刑架方向送出。0.99–3.8秒细微前伸，不重新凝聚或放大。3.8–4.1秒左手扶力松开，4.1–4.36秒右指轻开，仅这一枚小火种离指，留下清楚空气间隙，下一镜才沿火种视角到木面。手指到火种之间不拉出火线，不喷火，不点亮周围蜡烛。全程单镜，后0.64秒作余量，不加第二次施法。火种只沿画面左方飞离指尖，不向掌心或手背回流，不沿手臂燃烧。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v003/修订参考/CY029B1-承39末帧.png",
+          "sha256": "1e0cf4ab7a4538975406d9d0be475ccad2ad537f7ef276d472140476ad524926",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 51.0,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "承39新手部末帧，保持左手扶右腕及同一小火种；仅一次释放，下一镜直接主观推进。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB030-1"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T04:28:18+0800",
+      "task_id": "2115178805837225984",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB030-1-v003-CY029B1.mp4",
+      "sha256": "cd5ac5a25ed98d097cc979d66ccb968b3e835118070f03ff950bc87501fe9537",
+      "bytes": 6939778
+    },
+    {
+      "batch_number": 20,
+      "batch_id": "GB015-2",
+      "attempt_id": "GB015-2-v003-r002-close",
+      "title": "暗月闭合，截住教徒法术",
+      "shot_ids": [
+        "CY024K3"
+      ],
+      "film_start": 229.062729,
+      "part_offset": 0,
+      "used_seconds": 2,
+      "duration": 4,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。4秒单一连续镜头，只完成从首图到末图的闭罩动作。所有敌人保持首图掌心聚能，不释放任何攻击，不出现光束。Kimi在原地抬右手圆暗刃，浓厚的深靛色不透明暗幕从地面包起，像实体暗夜帷幕迅速向上合拢。结尾必须精确到末图完全遮住Kimi、Claude和整个刑架的暗色穹顶，表面厚实暗哑，完全看不见内部人物或木架。Claude全程固定刑架，敌人位置不动，相机固定。整镜没有攻击、没有闪爆、没有水流，不出现玻璃或透明罩。无对白。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v003/修订参考/CY024K3-闭罩前-r002.png",
+          "sha256": "c80a01b22b0c1add10dee90e819fbb34110919d0ac609e6eb7725937faa270eb",
+          "role": "first_frame"
+        },
+        {
+          "slot": 2,
+          "path": "视频制作/Metaso-H3-v003/修订参考/CY024K3-闭罩完全不透明终态-r001.png",
+          "sha256": "401c37b745307134666b7536faa93e788fdf8b4c8b020ae2275dd6df73d998db",
+          "role": "last_frame"
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "初次v003暗罩透明不合格；以正确起态和不透明终态双帧只拍闭罩，攻击另镜。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB015-2"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T04:48:07+0800",
+      "task_id": "2115183796436000768",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB015-2-v003-r002-close.mp4",
+      "sha256": "98615b3081d2e87ee1939404d8dcde691a3512574973c22e921f34831b7df59a",
+      "bytes": 5647518
+    },
+    {
+      "batch_number": 20,
+      "batch_id": "GB015-2",
+      "attempt_id": "GB015-2-v003-r002-impact",
+      "title": "暗月闭合，截住教徒法术",
+      "shot_ids": [
+        "CY024K3"
+      ],
+      "film_start": 229.062729,
+      "part_offset": 2,
+      "used_seconds": 2,
+      "duration": 4,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。4秒单一镜头，前2秒用于剪辑。首帧已经是完全不透明的深靛实体暗罩，覆盖两人和刑架，整个过程保持这一哑光不透明表面，任何时刻不可看见里面。0–0.3秒敌人掌心聚能，0.3–1.2秒两侧敌人各发一束短琥珀光束，光束只击中暗罩外表面并当场碎成小火星，绝不穿入壳体；1.2–4秒光束结束，外壳完好，余火星落下。相机固定，外侧木柴与敌人位置不变。壳内部完全黑暗不展示，不生玻璃泡泡、不新增人物。无对白。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v003/修订参考/CY024K3-闭罩完全不透明终态-r001.png",
+          "sha256": "401c37b745307134666b7536faa93e788fdf8b4c8b020ae2275dd6df73d998db",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "护罩已完整闭合的首态，单独生成外侧命中，保证先保护后攻击。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB015-2"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T04:48:10+0800",
+      "task_id": "2115183807880683520",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB015-2-v003-r002-impact.mp4",
+      "sha256": "ba6b671ca76a010f2a8debed749d552e00d2cae7657c297da4cbfc1adc55377f",
+      "bytes": 5514936
+    },
+    {
+      "batch_number": 40,
+      "batch_id": "GB030-1",
+      "attempt_id": "GB030-1-v003-CY029B2-r002",
+      "title": "放出一枚火种、火种主观逼近空架、触木后骤然燃起、收手后脱力、及时托住",
+      "shot_ids": [
+        "CY029B2"
+      ],
+      "film_start": 440.662729,
+      "part_offset": 4.36,
+      "used_seconds": 2,
+      "duration": 4,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。4秒单一连续环境特写。首帧只有空木架、空锁扣、冷蓝窗光和湿地。前2秒摄影机平稳直线前进，朝立柱铁箍下方同一块裸露木纹靠近，末尾木纹放大到占据画面，视线不偏离、不翻滚；2–4秒极慢靠近继续。所有画面物体保持静态，所有灯烛熄灭，无发光点，无火焰、暖色光、烟、火球、人物或手。只有相机运动与冷窗微光，不生成任何中心特效。无对白。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v003/修订参考/GB030-1-CY029B2-cold-pov-firstframe-r002.png",
+          "sha256": "b6878be69f86f0c09118ef2bc91b3578642c72c891082d584d89f1b49a15cca3",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "上一候选中央新增火体和远处蜡烛复燃；改用纯冷木纹首帧，只移动摄影机，腾燃留下一镜。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB030-1"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T04:48:20+0800",
+      "task_id": "2115183849555550208",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB030-1-v003-CY029B2-r002.mp4",
+      "sha256": "c1820ccfdeb63987f64d5a40e65149e745db4201407eff3757dcf152004fc656",
+      "bytes": 6851840
+    },
+    {
+      "batch_number": 39,
+      "batch_id": "GB029",
+      "attempt_id": "GB029-v003-CY029E1-r002",
+      "title": "选择继续与凝种",
+      "shot_ids": [
+        "CY029E1"
+      ],
+      "film_start": 427.282729,
+      "part_offset": 0,
+      "used_seconds": 2.7,
+      "duration": 4,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。单镜，保持首帧构图、原人物、冷蓝月光及静止背景。Claude身体停在原处，只把头从低垂状态微转向画左后方木架，目光落定。0–2.37秒嘴唇自然对应「我が呼び声に応えよ。」。2.7秒前完成，余时保持。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v003/修订参考/GB029-CY029E1-firstframe-r003.png",
+          "sha256": "f8fccaabe5aba99de034bafc248eedd18476de60521884a635bebc40712303b0",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "上一候选新增背景火源/道具，弃用。改极简正向画面运动，不让VO咏唱内容触发场景重构。",
+      "repair_of": {
+        "attempt_id": "GB029-v003-CY029E1",
+        "task_id": "2115178706573127680",
+        "local_path": "视频制作/Metaso-H3-v003/产物/GB029-v003-CY029E1.mp4"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T05:09:24+0800",
+      "task_id": "2115189152790274048",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB029-v003-CY029E1-r002.mp4",
+      "sha256": "1daaab2a9e84525bce273fd2b287f623fc6ad7764ef5f5e8b85d9187b3507522",
+      "bytes": 5640855
+    },
+    {
+      "batch_number": 39,
+      "batch_id": "GB029",
+      "attempt_id": "GB029-v003-CY029E2-r002",
+      "title": "选择继续与凝种",
+      "shot_ids": [
+        "CY029E2"
+      ],
+      "film_start": 427.282729,
+      "part_offset": 2.7,
+      "used_seconds": 2.74,
+      "duration": 4,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。单镜，保持首帧构图、原人物、冷蓝月光及静止背景。父亲维持原伏地姿势，悬空伸出的手停顿片刻，随后五指缓缓放松垂下。脸与身体留在原位，嘴闭合。2.7秒前完成，余时保持。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v003/修订参考/GB029-CY029E2-firstframe-r001.png",
+          "sha256": "29e20d99724ee00e069623ab160f0a99e4795e6a30e053e8a5ed093a5d503d11",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "上一候选新增背景火源/道具，弃用。改极简正向画面运动，不让VO咏唱内容触发场景重构。",
+      "repair_of": {
+        "attempt_id": "GB029-v003-CY029E2",
+        "task_id": "2115178740059398144",
+        "local_path": "视频制作/Metaso-H3-v003/产物/GB029-v003-CY029E2.mp4"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T05:09:27+0800",
+      "task_id": "2115189162136100864",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB029-v003-CY029E2-r002.mp4",
+      "sha256": "659869e7406dd5e786e58c0bd6c907d81ece19e46f9b502428b115e52f469669",
+      "bytes": 3935140
+    },
+    {
+      "batch_number": 39,
+      "batch_id": "GB029",
+      "attempt_id": "GB029-v003-CY029E4-r002",
+      "title": "选择继续与凝种",
+      "shot_ids": [
+        "CY029E4"
+      ],
+      "film_start": 427.282729,
+      "part_offset": 8.44,
+      "used_seconds": 4.94,
+      "duration": 5,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。单镜，保持首帧构图、两人原抱姿、衣物、冷蓝月光及静止背景。小鱼抓住衣襟的手保持原位，只缓缓抬眼、略抬下巴，望向画面左侧高处，嘴闭合。千问保持抱稳姿势。3秒前完成，余时停留。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v003/修订参考/GB029-CY029E4-firstframe-r002.png",
+          "sha256": "fa665644c403216702bab60e545726b96aa7c60af54bbf398aca15bc04dfae4c",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 51.0,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "上一候选新增背景火源/道具，弃用。改极简正向画面运动，不让VO咏唱内容触发场景重构。",
+      "repair_of": {
+        "attempt_id": "GB029-v003-CY029E4",
+        "task_id": "2115178778982014976",
+        "local_path": "视频制作/Metaso-H3-v003/产物/GB029-v003-CY029E4.mp4"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T05:09:30+0800",
+      "task_id": "2115189173030019072",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB029-v003-CY029E4-r002.mp4",
+      "sha256": "6dac34732ce41d6e5643301b1e133684021f3f04a14cfe68a540a68d87e07444",
+      "bytes": 6021318
+    },
+    {
+      "batch_number": 40,
+      "batch_id": "GB030-1",
+      "attempt_id": "GB030-1-v003-CY029B1-r002",
+      "title": "放出一枚火种、火种主观逼近空架、触木后骤然燃起、收手后脱力、及时托住",
+      "shot_ids": [
+        "CY029B1"
+      ],
+      "film_start": 440.662729,
+      "part_offset": 0,
+      "used_seconds": 4.36,
+      "duration": 5,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。单镜，保持首帧双手、衣袖、指端小亮点、冷蓝光线及静止背景。双手停在原处，仅右手指缓缓伸展。4.1秒时，指端既有的唯一小亮点沿画左方向离指，保持原大小；手留在原位。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v003/修订参考/CY029B1-承39末帧.png",
+          "sha256": "1e0cf4ab7a4538975406d9d0be475ccad2ad537f7ef276d472140476ad524926",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 51.0,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "上一候选新增背景火源/道具，弃用。改极简正向画面运动，不让VO咏唱内容触发场景重构。",
+      "repair_of": {
+        "attempt_id": "GB030-1-v003-CY029B1",
+        "task_id": "2115178805837225984",
+        "local_path": "视频制作/Metaso-H3-v003/产物/GB030-1-v003-CY029B1.mp4"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T05:09:32+0800",
+      "task_id": "2115189187785711616",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB030-1-v003-CY029B1-r002.mp4",
+      "sha256": "968bbbc5997a10f8faa59c7d1e39587c4b07dc039e22172d5ac29317ce996e76",
+      "bytes": 3709749
+    },
+    {
+      "batch_number": 11,
+      "batch_id": "GB009",
+      "attempt_id": "GB009-v003-CY017-r002",
+      "title": "抓柴与受阻",
+      "shot_ids": [
+        "CY017"
+      ],
+      "film_start": 129.572729,
+      "part_offset": 2,
+      "used_seconds": 5,
+      "duration": 5,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。固定首帧，固定低机位，5秒单镜。只有前景小鱼和抱木教徒，后方是空台阶。0–1秒教徒用空着的手从肩侧轻推小鱼一次，另一臂始终托同一根木。1–3秒小鱼被推得松开木头，退半步后半跪，一手撑地。3–5秒她留在原处，教徒携木向画面左侧移出，镜头留在孩子身上。上阶路程用下一镜省略，背景始终保持首帧建筑。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v003/修订参考/CY017-r002-净空推前起态.png",
+          "sha256": "e0697893645e9e5b5be14cf6da088fe66b74f11adce82b8ff4c3de4f039b86a5",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 51.0,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "推肩接触、松木、半跪撑地已发生，4.1667前无自由Claude；但3.25秒起背景明确又出现正面朝镜头的搬柴下行者，与上阶运木矛盾。4.5秒再出现自由白裙橙发人物。更早裁掉无法同时完整保留落地后状态并清除逆向人物。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB009"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T05:20:00+0800",
+      "task_id": "2115191818715848704",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB009-v003-CY017-r002.mp4",
+      "sha256": "2bc87c90768da8d34f2770c21ff2c058b438ae7e19b5b143e3fdfb678c7e3c64",
+      "bytes": 7598411
+    },
+    {
+      "batch_number": 11,
+      "batch_id": "GB009",
+      "attempt_id": "GB009-v003-CY018-r002",
+      "title": "抓柴与受阻",
+      "shot_ids": [
+        "CY018"
+      ],
+      "film_start": 129.572729,
+      "part_offset": 9,
+      "used_seconds": 4,
+      "duration": 4,
+      "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。固定首帧与贴地机位，4秒单镜。小鱼双手紧抱近侧小腿，不肯松手；教徒另一只靴稳踏高一级台阶。0–1.5秒被抱的小腿先屈膝抬起，靴底清楚离地十厘米，再向外轻甩一次。孩子的双手随腿移动后才失去抓握。1.5–2.5秒孩子松手，双掌向地面撑住，侧滑落回跪地。2.5–4秒教徒把这只靴踏上高阶离去，孩子留在阶下。只拍双腿与孩子，动作轻而清楚。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v003/修订参考/CY018-r001-抱腿起态.png",
+          "sha256": "b38ec35b7073c2666074b858a430e64de1e8609ed1834f48c87d9765005f7514",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "1.75/2.125秒孩子抱腿而近侧靴落地；2.375秒孩子先松手主动下扑；2.75秒近侧靴才开始抬起。当前并未形成靴先挣动→手失握→撑地的施力顺序，裁切与加速不能纠正因果。",
+      "repair_of": {
+        "author_rejected_version": "v002",
+        "batch_id": "GB009"
+      },
+      "source": "后期/制作工作台-v025/工作台数据.json",
+      "mode": "first_frame",
+      "submit_started": "2026-10-28T05:20:03+0800",
+      "task_id": "2115191833133903872",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB009-v003-CY018-r002.mp4",
+      "sha256": "73b607ca45682da5df4f58180cc1891e4f5ccb87c334dfdc29d50206f76939f2",
+      "bytes": 6525411
+    }
+  ],
+  "estimated_total_credits": 1111.8,
+  "observed_final_balance": 4694.3,
+  "actual_spent_credits": 1111.8,
+  "balance_evidence": "2026-10-28 内置浏览器Metaso账户页可见剩余额度4,694.3；未改账户设置。"
+}

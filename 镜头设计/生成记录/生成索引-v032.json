@@ -1,0 +1,119 @@
+{
+  "version": "v032",
+  "previous_index": "镜头设计/生成记录/生成索引-v031.json",
+  "records": [
+    {
+      "shot_id": "CY024A1",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-740e27e8-f9d2-4a14-8724-ff3201716a12.png",
+      "destination": "镜头设计/图像/月光救赎-v032/CY024A1-v032-r1.png",
+      "sha256": "b79103ebbf65f5625563c9a100bb6c3354ac82ae20d5b296f1cf483f2427291f",
+      "request": "镜头设计/生成记录/月光救赎-v032/CY024A1-请求-v001.json",
+      "request_sha256": "eb698aa566e8f7a7b5e188153128240a93d72385ba79073eb6f292ef3e5d919c",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/长吟唱护盾与结尾-v029/CY024A1-v029-r1.png",
+          "sha256": "5bf88f271f9c45b8d3b2e400a34c0d3814df8f47c3667f0c919e50d360b28bd7"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+          "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY024A2",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-99763ad9-e974-4e4d-b041-36b7718990f2.png",
+      "destination": "镜头设计/图像/月光救赎-v032/CY024A2-v032-r1.png",
+      "sha256": "2ab3925880321812a3d4013c809ddf8d0216c0161782d0b0b163cbe1d8a132a3",
+      "request": "镜头设计/生成记录/月光救赎-v032/CY024A2-请求-v001.json",
+      "request_sha256": "1d3e6bfd338bad63c0f67e85e0e3eebd2d6f7d571853a63029242fc130bd8542",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/长吟唱护盾与结尾-v029/CY024A2-v029-r1.png",
+          "sha256": "b0fda184f172b27b4a11de00ccbe3cca6d6e1735123cae674fbca96b04badd8e"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY024B",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-57383167-1772-423e-b5ec-7d424084fa46.png",
+      "destination": "镜头设计/图像/月光救赎-v032/CY024B-v032-r1.png",
+      "sha256": "b2d672257d83ca9b3bb5d24cc7ef9924b0a2fb41b25fff91095c14568894372c",
+      "request": "镜头设计/生成记录/月光救赎-v032/CY024B-请求-v001.json",
+      "request_sha256": "47293f1e3640eb7584c4974e9d65640a108b2c6edbb27e84554b232b1bafbac0",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/苍龙雷渊-v031/CY024B-v031-r1.png",
+          "sha256": "8437af8bf4c82e7a6767c2834de22e5b54cc271aaeceb1b4cd62143984f43e52"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY027D",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-6211865b-2e55-4651-9365-b6d78f403583.png",
+      "destination": "镜头设计/图像/月光救赎-v032/CY027D-v032-r1.png",
+      "sha256": "7bf47cf633c68ea23de004435830a087fa6c39958a84042d1f859d0ea98e547f",
+      "request": "镜头设计/生成记录/月光救赎-v032/CY027D-请求-v001.json",
+      "request_sha256": "7ddaf7496a19df863b834053c2927e73c8ee991d90a6df5ce0fdfecf043217ab",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/收工补镜-v016/CY027D-v016-r1.png",
+          "sha256": "d97656074d60af0a1f19dd8e629ea4407582c02ed30edb4da3e72d88ba6db1f2"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+          "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY027F1",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-094fb5b5-75a6-48e6-9505-10be82400822.png",
+      "destination": "镜头设计/图像/月光救赎-v032/CY027F1-v032-r1.png",
+      "sha256": "5150f096c0866dd2ffd1a97553fb016ccbb56a75fd7b809ab473da9db33c2aed",
+      "request": "镜头设计/生成记录/月光救赎-v032/CY027F1-请求-v001.json",
+      "request_sha256": "3700e20cc96f3f85bd78db78500d5321b3df3d599079355c3019e6ba6920a211",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/天瀑空间-v014/CY027F1-v014-r1.png",
+          "sha256": "08f943f52e547f4cadce903d34e0929f35b0e2acdee3b561bff44c021b9ebb5b"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+          "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY027G",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-d8e30634-84d1-4dca-abb4-5025add141c1.png",
+      "destination": "镜头设计/图像/月光救赎-v032/CY027G-v032-r1.png",
+      "sha256": "82c955db604b5d7bbdb841c5487b2e31a3988ebbf912800b3ce11cd4f947ec5a",
+      "request": "镜头设计/生成记录/月光救赎-v032/CY027G-请求-v001.json",
+      "request_sha256": "e47ff7af4d6d763f9cd8a4eaf6d720e7fcee17a36b5aae3200379e677ee4ef56",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/动作收尾-v015/CY027G-v015-r1.png",
+          "sha256": "160a296daf99fe1b880bc70c224d3b1a4996b33ee05e15c6edb0ea8b6c35e184"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+          "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    }
+  ],
+  "review": "镜头设计/生成记录/月光救赎-v032/复核记录.md"
+}

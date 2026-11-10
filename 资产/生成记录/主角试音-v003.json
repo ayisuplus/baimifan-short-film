@@ -1,0 +1,265 @@
+{
+  "engine": "VoxCPM2 local ComfyUI",
+  "endpoint": "http://127.0.0.1:8188",
+  "model_path": "G:/comfyui/ComfyUI/ComfyUI/models/tts/VoxCPM/VoxCPM2",
+  "hardware": {
+    "system": {
+      "os": "win32",
+      "ram_total": 203460149248,
+      "ram_free": 149504643072,
+      "comfyui_version": "0.39.0",
+      "required_frontend_version": "1.53.10",
+      "installed_templates_version": "0.11.76",
+      "required_templates_version": "0.11.76",
+      "comfy_package_versions": [
+        {
+          "name": "comfyui-frontend-package",
+          "installed": "1.53.10",
+          "required": "1.53.10"
+        },
+        {
+          "name": "comfyui-workflow-templates",
+          "installed": "0.11.76",
+          "required": "0.11.76"
+        },
+        {
+          "name": "comfyui-embedded-docs",
+          "installed": "0.5.13",
+          "required": "0.5.13"
+        },
+        {
+          "name": "comfy-kitchen",
+          "installed": "0.2.37",
+          "required": "0.2.37"
+        },
+        {
+          "name": "comfy-aimdo",
+          "installed": "0.5.5",
+          "required": "0.5.5"
+        }
+      ],
+      "python_version": "3.13.12 (main, Feb 12 2026, 00:38:53) [MSC v.1944 64 bit (AMD64)]",
+      "pytorch_version": "2.10.0+cu130",
+      "embedded_python": false,
+      "deploy_environment": "local-desktop2-standalone",
+      "argv": [
+        "main.py",
+        "--listen",
+        "127.0.0.1",
+        "--port",
+        "8188",
+        "--disable-auto-launch"
+      ]
+    },
+    "devices": [
+      {
+        "name": "cuda:0 NVIDIA GeForce RTX 5090 : cudaMallocAsync",
+        "type": "cuda",
+        "index": 0,
+        "vram_total": 34162016256,
+        "vram_free": 32308461568,
+        "torch_vram_total": 67108864,
+        "torch_vram_free": 49020928
+      }
+    ]
+  },
+  "transport_note": "MCP server_info/validate/launch returned generic errors. Used the same installed server through loopback HTTP; bypassed proxy for localhost only. Server /prompt validates inputs before enqueue.",
+  "reference_audio": "资产/声音/参考/DS-这个刀子真甜-参考-v001.wav",
+  "listening_status": "Claude v003 A/B均待作者听审；少女参考临时生成且未采用；其他角色沿用。",
+  "results": [
+    {
+      "role": "DeepSeek",
+      "shot_id": "CY003",
+      "text": "你要吃一点吗？",
+      "request": "资产/生成记录/VOICE-DS-v002-request.json",
+      "status": "generated_pending_listen",
+      "previous_path": "资产/声音/试音/VOICE-DS-v001.flac",
+      "sample_note": "v002 · 本地 VoxCPM2，使用作者指定博主的角色参考音频",
+      "reference_path": "资产/声音/参考/DS-这个刀子真甜-参考-v001.wav",
+      "prompt_id": "f1eec5e0-05fb-4822-a0e4-adbf979ff8f9",
+      "validation_errors": {},
+      "server_status": {
+        "status_str": "success",
+        "completed": true,
+        "messages": [
+          [
+            "execution_start",
+            {
+              "prompt_id": "f1eec5e0-05fb-4822-a0e4-adbf979ff8f9",
+              "timestamp": 1792555555285
+            }
+          ],
+          [
+            "execution_cached",
+            {
+              "nodes": [],
+              "prompt_id": "f1eec5e0-05fb-4822-a0e4-adbf979ff8f9",
+              "timestamp": 1792555555290
+            }
+          ],
+          [
+            "execution_success",
+            {
+              "prompt_id": "f1eec5e0-05fb-4822-a0e4-adbf979ff8f9",
+              "timestamp": 1792555560876
+            }
+          ]
+        ]
+      },
+      "path": "资产/声音/试音/VOICE-DS-v002.flac",
+      "sha256": "dce247b97b9f66b360bcd978f89b51b8ac5ff6287eaef0e5bd6c71382669f887",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "2.560000"
+        }
+      },
+      "native_output": {
+        "filename": "VOICE-DS-v002_00001.flac",
+        "subfolder": "audio\\chuanyun",
+        "type": "output"
+      }
+    },
+    {
+      "role": "Claude",
+      "shot_id": "CY020",
+      "text": "别碰她！",
+      "request": "资产/生成记录/VOICE-CLAUDE-v003-A-request.json",
+      "status": "generated_pending_listen",
+      "previous_path": "资产/声音/试音/VOICE-CLAUDE-v002.flac",
+      "sample_note": "A · v003 少女文字设计：清柔通透、轻盈自然；急切保护朋友。待听审。",
+      "reference_path": "资产/声音/试音/VOICE-CLAUDE-v003-ANCHOR.flac",
+      "prompt_id": "214acb6d-3826-4884-bc54-4b33c86fd463",
+      "validation_errors": {},
+      "server_status": {
+        "status_str": "success",
+        "completed": true,
+        "messages": [
+          [
+            "execution_start",
+            {
+              "prompt_id": "214acb6d-3826-4884-bc54-4b33c86fd463",
+              "timestamp": 1792556698609
+            }
+          ],
+          [
+            "execution_cached",
+            {
+              "nodes": [],
+              "prompt_id": "214acb6d-3826-4884-bc54-4b33c86fd463",
+              "timestamp": 1792556698610
+            }
+          ],
+          [
+            "execution_success",
+            {
+              "prompt_id": "214acb6d-3826-4884-bc54-4b33c86fd463",
+              "timestamp": 1792556702788
+            }
+          ]
+        ]
+      },
+      "path": "资产/声音/试音/VOICE-CLAUDE-v003-A.flac",
+      "sha256": "160dccddb0621eb371542f75e6d0565293a5a5c3f0e5a349914401ecfaa88b65",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "1.760000"
+        }
+      },
+      "native_output": {
+        "filename": "VOICE-CLAUDE-v003-A_00001.flac",
+        "subfolder": "audio\\chuanyun",
+        "type": "output"
+      },
+      "key": "A",
+      "voice_design": "十八岁少女声，清柔通透，轻盈自然的中高声区，清晰普通话。为保护朋友，着急而坚定地短促喝止，收住尾音。",
+      "node_errors": {},
+      "previous_label": "对照：v002 偏年长样本（作者否决）",
+      "reference_label": "B方案的临时少女参考 · 仅音色测试句，未采用，非剧本台词",
+      "alternatives": [
+        {
+          "label": "B · 同一句同参数，仅增加上述少女参考",
+          "path": "资产/声音/试音/VOICE-CLAUDE-v003-B.flac",
+          "sha256": "83b42c88c35565b9a9a05595958e83384e7f611a94b54bcd2ae2c81480e336b4"
+        }
+      ],
+      "workflow_review": "资产/生成记录/VoxCPM2-Claude工作流核对-v001.md"
+    },
+    {
+      "role": "ChatGPT",
+      "shot_id": "CY007",
+      "text": "我不能插手教会的仪式。",
+      "request": "资产/生成记录/VOICE-GPT-v001-request.json",
+      "status": "generated_pending_listen",
+      "prompt_id": "730b496d-fbe5-4efe-b726-4b2333e4a8fd",
+      "validation_errors": {},
+      "server_status": {
+        "status_str": "success",
+        "completed": true,
+        "messages": [
+          [
+            "execution_start",
+            {
+              "prompt_id": "730b496d-fbe5-4efe-b726-4b2333e4a8fd",
+              "timestamp": 1792553596546
+            }
+          ],
+          [
+            "execution_cached",
+            {
+              "nodes": [],
+              "prompt_id": "730b496d-fbe5-4efe-b726-4b2333e4a8fd",
+              "timestamp": 1792553596546
+            }
+          ],
+          [
+            "execution_success",
+            {
+              "prompt_id": "730b496d-fbe5-4efe-b726-4b2333e4a8fd",
+              "timestamp": 1792553601059
+            }
+          ]
+        ]
+      },
+      "path": "资产/声音/试音/VOICE-GPT-v001.flac",
+      "sha256": "8bceb14f3a2e375ea2117e60e43ba31b78b4a38cb8d37ad35d581f68cd632164",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "2.080000"
+        }
+      },
+      "native_output": {
+        "filename": "VOICE-GPT-v001_00001.flac",
+        "subfolder": "audio\\chuanyun",
+        "type": "output"
+      },
+      "sample_note": "沿用 v001 · 作者认为接近，尚未锁定"
+    }
+  ],
+  "reference_record": "资产/生成记录/DeepSeek-声音参考-v001.json",
+  "previous": "资产/生成记录/主角试音-v002.json",
+  "claude_run": "资产/生成记录/Claude-少女声线对照-v003.json"
+}

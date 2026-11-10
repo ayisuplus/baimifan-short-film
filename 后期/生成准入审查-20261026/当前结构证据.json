@@ -1,0 +1,724 @@
+{
+  "scope": "Read-only audit of present inputs, not author approval or dynamic validation",
+  "source": "镜头设计/shot-plan-v0.57.json",
+  "source_hash_matches": true,
+  "reference_occurrences": 251,
+  "reference_mismatches": [],
+  "review_hash_mismatches": [
+    "视频制作/生成板-v012/日语译配.json"
+  ],
+  "prompt_file_differences": [
+    "视频制作/生成板-v012/提示词/GB022-1-seedance25.txt",
+    "视频制作/生成板-v012/提示词/GB022-1-minimax-h3.txt",
+    "视频制作/生成板-v012/提示词/GB024-seedance25.txt"
+  ],
+  "html_batch_differences": [
+    "GB018",
+    "GB019",
+    "GB020-1",
+    "GB020-2",
+    "GB021",
+    "GB022-1",
+    "GB024"
+  ],
+  "batches": [
+    {
+      "id": "GB001",
+      "title": "初遇与递饭",
+      "references": 6,
+      "identity": 2,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY001",
+        "CY002",
+        "CY003",
+        "CY003A"
+      ]
+    },
+    {
+      "id": "GB002",
+      "title": "善意受阻与消息",
+      "references": 6,
+      "identity": 2,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY003B",
+        "CY003C",
+        "CY004",
+        "CY004A"
+      ]
+    },
+    {
+      "id": "GB003",
+      "title": "宫门放行与慵懒卧榻",
+      "references": 7,
+      "identity": 3,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY004B",
+        "CY004C",
+        "CY004D",
+        "CY005"
+      ]
+    },
+    {
+      "id": "GB004",
+      "title": "求救、拒绝与追问",
+      "references": 5,
+      "identity": 2,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY006",
+        "CY007",
+        "CY008"
+      ]
+    },
+    {
+      "id": "GB005",
+      "title": "独自离去、搓手迟疑与起身目送",
+      "references": 5,
+      "identity": 2,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY009",
+        "CY010",
+        "CY009A"
+      ]
+    },
+    {
+      "id": "GB006",
+      "title": "等待与钻洞",
+      "references": 6,
+      "identity": 2,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY010A",
+        "CY011",
+        "CY011A",
+        "CY012"
+      ]
+    },
+    {
+      "id": "GB007",
+      "title": "察觉与试锁",
+      "references": 6,
+      "identity": 2,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY013",
+        "CY013A",
+        "CY015",
+        "CY016"
+      ]
+    },
+    {
+      "id": "GB008",
+      "title": "劝离与脚步逼近",
+      "references": 7,
+      "identity": 2,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY016A1",
+        "CY016A",
+        "CY016B",
+        "CY016B1",
+        "CY016C"
+      ]
+    },
+    {
+      "id": "GB009",
+      "title": "抓柴与受阻",
+      "references": 6,
+      "identity": 2,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY016D",
+        "CY017",
+        "CY017A",
+        "CY018"
+      ]
+    },
+    {
+      "id": "GB010",
+      "title": "铺柴与教主",
+      "references": 5,
+      "identity": 2,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY018B",
+        "CY021A",
+        "CY019"
+      ]
+    },
+    {
+      "id": "GB011-1",
+      "title": "别碰她、静止对视，高低之间、失守落地",
+      "references": 5,
+      "identity": 2,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY020",
+        "CY020B",
+        "CY020A"
+      ]
+    },
+    {
+      "id": "GB011-2",
+      "title": "还想站起来、攥住袍尾",
+      "references": 3,
+      "identity": 1,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY021",
+        "CY021B"
+      ]
+    },
+    {
+      "id": "GB012",
+      "title": "登阶与点火",
+      "references": 6,
+      "identity": 2,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY022A",
+        "CY022A1",
+        "CY022",
+        "CY022B"
+      ]
+    },
+    {
+      "id": "GB013",
+      "title": "黑焰、列阵与破门",
+      "references": 8,
+      "identity": 3,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY022B2",
+        "CY022B1",
+        "CY026",
+        "CY022C",
+        "CY023"
+      ]
+    },
+    {
+      "id": "GB014",
+      "title": "正门吸引注意",
+      "references": 11,
+      "identity": 9,
+      "selected_model": "seedance25",
+      "shots": [
+        "CY024",
+        "CY024R"
+      ]
+    },
+    {
+      "id": "GB014A",
+      "title": "月光流入，背影显形与举刃",
+      "references": 5,
+      "identity": 1,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY024K00",
+        "CY024K0"
+      ]
+    },
+    {
+      "id": "GB015-1",
+      "title": "明刃破窗，玻璃迎面炸开、明刃钉柴，瞬移坐标亮起、循刃瞬临，爆气震开柴堆、震柴惊动教徒，转身施法",
+      "references": 6,
+      "identity": 2,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY024K1",
+        "CY024K1A",
+        "CY024K2",
+        "CY024K2A"
+      ]
+    },
+    {
+      "id": "GB015-2",
+      "title": "暗月闭合，截住教徒法术",
+      "references": 3,
+      "identity": 2,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY024K3"
+      ]
+    },
+    {
+      "id": "GB016-1",
+      "title": "罩内试镣，见痛收刀、圣骑士鱼贯而入、云宫合扇、合扇就是回答",
+      "references": 9,
+      "identity": 5,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY024K4",
+        "CY023A",
+        "CY026A",
+        "CY026A1"
+      ]
+    },
+    {
+      "id": "GB016-2",
+      "title": "小屋里的回应",
+      "references": 3,
+      "identity": 2,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY026B"
+      ]
+    },
+    {
+      "id": "GB017",
+      "title": "基地与月背约定",
+      "references": 6,
+      "identity": 3,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY026C",
+        "CY026D1",
+        "CY026D"
+      ]
+    },
+    {
+      "id": "GB018",
+      "title": "各路回应、抱紧宝宝与起咏",
+      "references": 11,
+      "identity": 8,
+      "selected_model": "seedance25",
+      "shots": [
+        "CY026E",
+        "CY024A0",
+        "CY024A"
+      ]
+    },
+    {
+      "id": "GB019",
+      "title": "截击与罩内安抚",
+      "references": 9,
+      "identity": 3,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY024A9",
+        "CY024A10",
+        "CY024A11",
+        "CY024A12",
+        "CY024A1",
+        "CY024A2"
+      ]
+    },
+    {
+      "id": "GB020-1",
+      "title": "水息上浮，合滴回弹、云腹聚水，倒悬之海",
+      "references": 2,
+      "identity": 0,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY024A3",
+        "CY024A6"
+      ]
+    },
+    {
+      "id": "GB020-2",
+      "title": "俯冲，水龙直下穹顶",
+      "references": 1,
+      "identity": 0,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY024A7"
+      ]
+    },
+    {
+      "id": "GB021",
+      "title": "破顶与双向反应",
+      "references": 5,
+      "identity": 2,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY024A5A",
+        "CY024A4",
+        "CY024A8"
+      ]
+    },
+    {
+      "id": "GB022-1",
+      "title": "居中结印，水龙盘身、解印，一指出击",
+      "references": 3,
+      "identity": 1,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY024A5",
+        "CY024A5B"
+      ]
+    },
+    {
+      "id": "GB022-2",
+      "title": "低机位撞盾，水首压境",
+      "references": 1,
+      "identity": 0,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY024B"
+      ]
+    },
+    {
+      "id": "GB023",
+      "title": "清场余波与降落",
+      "references": 7,
+      "identity": 3,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY024B1",
+        "CY024B3",
+        "CY024B3A",
+        "CY027"
+      ]
+    },
+    {
+      "id": "GB024",
+      "title": "对峙与变身腾空",
+      "references": 6,
+      "identity": 1,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY027A",
+        "CY027B",
+        "CY027B1",
+        "CY027B2",
+        "CY027B3"
+      ]
+    },
+    {
+      "id": "GB025",
+      "title": "天空省略与外敌逼近",
+      "references": 8,
+      "identity": 3,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY027C",
+        "CY025",
+        "CY027E",
+        "CY027E1",
+        "CY027D0"
+      ]
+    },
+    {
+      "id": "GB026",
+      "title": "守门、胜负与取钥匙",
+      "references": 15,
+      "identity": 11,
+      "selected_model": "seedance25",
+      "shots": [
+        "CY027D",
+        "CY027E2",
+        "CY027F",
+        "CY027F0"
+      ]
+    },
+    {
+      "id": "GB027",
+      "title": "撤罩、解锁与落脚",
+      "references": 7,
+      "identity": 3,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY027F2",
+        "CY027F1",
+        "CY027G",
+        "CY028A"
+      ]
+    },
+    {
+      "id": "GB028",
+      "title": "确认宝宝、初咏与父亲打断",
+      "references": 8,
+      "identity": 3,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY028A2",
+        "CY028B",
+        "CY028C",
+        "CY029",
+        "CY029E"
+      ]
+    },
+    {
+      "id": "GB029",
+      "title": "选择继续与凝种",
+      "references": 7,
+      "identity": 3,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY029E1",
+        "CY029E2",
+        "CY029E3",
+        "CY029E4"
+      ]
+    },
+    {
+      "id": "GB030-1",
+      "title": "放出一枚火种、火种主观逼近空架、触木后骤然燃起、收手后脱力、及时托住",
+      "references": 7,
+      "identity": 2,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY029B1",
+        "CY029B2",
+        "CY029B",
+        "CY029C",
+        "CY029D"
+      ]
+    },
+    {
+      "id": "GB030-2",
+      "title": "稳稳抱起",
+      "references": 3,
+      "identity": 2,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY028"
+      ]
+    },
+    {
+      "id": "GB031",
+      "title": "离殿与数日后",
+      "references": 16,
+      "identity": 13,
+      "selected_model": "seedance25",
+      "shots": [
+        "CY029A",
+        "CY030",
+        "CY031"
+      ]
+    },
+    {
+      "id": "GB032",
+      "title": "落座、接勺与热饮",
+      "references": 7,
+      "identity": 4,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY031A",
+        "CY032A",
+        "CY033"
+      ]
+    },
+    {
+      "id": "GB033",
+      "title": "第一口饭与安静收尾",
+      "references": 4,
+      "identity": 2,
+      "selected_model": "minimax-h3",
+      "shots": [
+        "CY034A",
+        "CY034"
+      ]
+    }
+  ],
+  "latest_shot_source": {
+    "path": "镜头设计/shot-plan-v0.58.json",
+    "sha256": "cd460936340ae1888b07dc5535fdbdc1c0fd449a3377fc1e937b7347459a11e1",
+    "count": 132,
+    "inner_shot_present": false,
+    "total_seconds": 450.9
+  },
+  "inner_duration": null,
+  "snapshot": {
+    "镜头设计/shot-plan-v0.57.json": "83d23bc169a8bcdc862aecf8bbd7306668800f2651ae6e86fe6c252811df3287",
+    "镜头设计/shot-plan-v0.58.json": "cd460936340ae1888b07dc5535fdbdc1c0fd449a3377fc1e937b7347459a11e1",
+    "镜头设计/王宫内心戏-已采用增补-v001.json": "9d32207f54b605af2a872b3e96e7454289f96d6e34c7704ee52837388baa8361",
+    "视频制作/生成板-v012/展开数据.json": "e6d290323f2e64a4aad36bdb327dd6893b0ee04b0d8245da5767115eab41c633",
+    "视频制作/生成板-v012/生成板.html": "75500d7fdfc126b83c8001f7c07ebf38fe28d0a5485a19cb3966030bd7865c64",
+    "视频制作/生成板-v012/日语音频映射.json": "f13226c9477e2191c8267c4ca41a9d8a5fe4fa3f78272e12980da65205e289df",
+    "后期/收尾修复-v001/实际BGM剪辑.json": "acecefaadcacda6a4a2ea55390c1e5e5ebd97369f6aea69efcace01c6f4b09cb"
+  },
+  "libtv_h3_prompt_check": {
+    "limit": 2000,
+    "source": "实时模型接口.json inputContract.promptSchema.maxLength",
+    "selected_h3_batches": 36,
+    "over_limit_count": 36,
+    "batches": [
+      {
+        "id": "GB001",
+        "chars": 3444,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB002",
+        "chars": 4992,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB003",
+        "chars": 5081,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB004",
+        "chars": 4641,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB005",
+        "chars": 5422,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB006",
+        "chars": 4972,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB007",
+        "chars": 5029,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB008",
+        "chars": 5799,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB009",
+        "chars": 4897,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB010",
+        "chars": 4273,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB011-1",
+        "chars": 4236,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB011-2",
+        "chars": 2837,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB012",
+        "chars": 5132,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB013",
+        "chars": 5779,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB014A",
+        "chars": 4499,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB015-1",
+        "chars": 4398,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB015-2",
+        "chars": 2146,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB016-1",
+        "chars": 5795,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB016-2",
+        "chars": 2253,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB017",
+        "chars": 4369,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB019",
+        "chars": 5842,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB020-1",
+        "chars": 3264,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB020-2",
+        "chars": 2165,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB021",
+        "chars": 5463,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB022-1",
+        "chars": 3640,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB022-2",
+        "chars": 2222,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB023",
+        "chars": 5830,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB024",
+        "chars": 5680,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB025",
+        "chars": 5731,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB027",
+        "chars": 5909,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB028",
+        "chars": 5543,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB029",
+        "chars": 6055,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB030-1",
+        "chars": 5690,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB030-2",
+        "chars": 2093,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB032",
+        "chars": 4708,
+        "over_libTV_2000": true
+      },
+      {
+        "id": "GB033",
+        "chars": 3464,
+        "over_libTV_2000": true
+      }
+    ],
+    "scope": "Current local exported text length; remote node binding may alter final length. Not a limit claim for other providers."
+  }
+}

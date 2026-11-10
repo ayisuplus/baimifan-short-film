@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115148330138132480",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "龙翼穿顶仰角一镜",
+    "status": "succeeded",
+    "created_at": 1793125634,
+    "updated_at": 1793125650,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115148330138132480/content?expires=1793730471&signature=774a0455fd31f312e0fa5e325e7a8c1386446b555703b819f018592c72292d48"
+    },
+    "resolution": "768P",
+    "duration": 4,
+    "usage": {
+      "total_seconds": 4,
+      "input_seconds": 0,
+      "output_seconds": 4,
+      "input_image_count": 2
+    },
+    "ratio": "16:9",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

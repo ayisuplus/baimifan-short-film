@@ -1,0 +1,39 @@
+{
+  "id": "BGM-CY-MT-04",
+  "bvid": "BV1JP4y1m78A",
+  "part": 4,
+  "title": "詠唱",
+  "display_title": "咏唱",
+  "work": "无职转生",
+  "composer": "藤澤慶昌",
+  "source_page_title": "03. 詠唱",
+  "cid": 40238842563,
+  "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=4",
+  "uploader": "L-2-C",
+  "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+  "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-04.m4a",
+  "bytes": 2713244,
+  "sha256": "6e9af8424d2548f828a78a2f10dd068b4869e45df4f151c9e9ceac9151b66123",
+  "duration": 104.041882,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "198330"
+      }
+    ],
+    "format": {
+      "duration": "104.041882"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

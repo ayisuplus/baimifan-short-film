@@ -1,0 +1,296 @@
+{
+  "version": "v041",
+  "previous_index": "镜头设计/生成记录/生成索引-v040.json",
+  "generated_images": 16,
+  "images": [
+    {
+      "id": "CY024",
+      "path": "镜头设计/图像/月刃救援-v041/CY024-v041-r1.png",
+      "sha256": "45af99e93e1d6e5de8920b4308c3ba89e728f63a91fcc8663ca74c52be8348ba",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/月刃救援-v041/第一批请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/天瀑空间-v014/CY024-v014-r3.png",
+          "sha256": "b0b86290ee0671bff0ad2e8a8e8a955eb0a6c1e0ed8789220145169c3838da1a"
+        }
+      ]
+    },
+    {
+      "id": "CY024K0",
+      "path": "镜头设计/图像/月刃救援-v041/CY024K0-v041-r2.png",
+      "sha256": "9b261154f8f49d441ce5b3056f08a21c56de9de941109fc63bdd2e34d4305f42",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/月刃救援-v041/护罩与试镣实际请求-站姿约束.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月刃救援-v041/CY024K0-v041-r1.png",
+          "sha256": "98bd3c91f9e92b393cd3e7be63a411d0fa0443484a79f03c8e5518e8acfcf68b"
+        }
+      ]
+    },
+    {
+      "id": "CY024K1",
+      "path": "镜头设计/图像/月刃救援-v041/CY024K1-v041-r1.png",
+      "sha256": "4bdd310a9a733e7d38216437de00d50dfaab642fdea2d00bf0b80c5a3681782d",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/月刃救援-v041/救援动作请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月刃救援-v041/KIMI双刃-v041-r3.png",
+          "sha256": "41e1cfdc7480ac646ee3970e9876b5c38cd6e6932180131acd55643b46bb0c9e"
+        },
+        {
+          "path": "镜头设计/图像/火祭因果-v040/CY018B-v040-r1.png",
+          "sha256": "bf4763eb83a43992188a958c2e1239e03a52a7c6bb0c9f19cf88ddf46401cbe6"
+        }
+      ]
+    },
+    {
+      "id": "CY024K2",
+      "path": "镜头设计/图像/月刃救援-v041/CY024K2-v041-r2.png",
+      "sha256": "ace7e452f03ac5530996994f467c21cad0b473d136f0749f97ff81c4bf8c3977",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/月刃救援-v041/护罩与试镣实际请求-站姿约束.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月刃救援-v041/CY024K2-v041-r1.png",
+          "sha256": "0682245215f6bd1ff899f9653cba35b2e361089db3c04bd71c2b08a6fbbf62ac"
+        }
+      ]
+    },
+    {
+      "id": "CY024K3",
+      "path": "镜头设计/图像/月刃救援-v041/CY024K3-v041-r3.png",
+      "sha256": "a01d4d80f0b330808ea7f155cda46adff8bb56da789c13219feb7f09eca563a4",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/月刃救援-v041/守护与承压请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月刃救援-v041/CY024K3-v041-r2.png",
+          "sha256": "80106b6c110083a8847adb623007f057309c83a2c284524ce550b4381bc3d00a"
+        }
+      ]
+    },
+    {
+      "id": "CY024K4",
+      "path": "镜头设计/图像/月刃救援-v041/CY024K4-v041-r2.png",
+      "sha256": "3e2dfeff0d01f7bc904882fff9bec4dabc9bd9467b9aa2de0e05adbcfdb8d829",
+      "size": [
+        1670,
+        942
+      ],
+      "request": "镜头设计/生成记录/月刃救援-v041/守护与承压请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月刃救援-v041/CY024K4-v041-r1.png",
+          "sha256": "a44b935c71f2adb2fb67181eead37928e30f4706f25061836e78a1960627cea6"
+        }
+      ]
+    },
+    {
+      "id": "CY024A1",
+      "path": "镜头设计/图像/月刃救援-v041/CY024A1-v041-r2.png",
+      "sha256": "925936733090c716e6cfe1374310e3c28897e8b104bafb528f6ba716155df404",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/月刃救援-v041/群像与战后衔接请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月刃救援-v041/CY024A1-v041-r1.png",
+          "sha256": "efe181a1e7151381faa63eddd037de9dbea931005ba3692e4af6758ca3faba51"
+        }
+      ]
+    },
+    {
+      "id": "CY024A2",
+      "path": "镜头设计/图像/月刃救援-v041/CY024A2-v041-r1.png",
+      "sha256": "0076db4da731d82133cd631e4ed157fb9270dbf1a06fd0518ac248a53eab8e1d",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/月刃救援-v041/末轮衔接修正请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/火焰伤后与星火-v036/CY024A2-v036-r2.png",
+          "sha256": "717cd9878c953e211fae89fa4c18719f08bd02eac0ad05ffbf331feb1d5af836"
+        }
+      ]
+    },
+    {
+      "id": "CY024A4",
+      "path": "镜头设计/图像/月刃救援-v041/CY024A4-v041-r2.png",
+      "sha256": "7bc0003475cc8318d53af62f94cb7417777c6cb7d15b42ca9cd04e9d3d4207a6",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/月刃救援-v041/固定脚托修正请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月刃救援-v041/CY024A4-v041-r1.png",
+          "sha256": "d5dd41fbdbda619f85f0b8f83c4de62f9579f2d626232891633d4ce3d86b4307"
+        },
+        {
+          "path": "镜头设计/图像/月刃救援-v041/CY024K3-v041-r3.png",
+          "sha256": "a01d4d80f0b330808ea7f155cda46adff8bb56da789c13219feb7f09eca563a4"
+        }
+      ]
+    },
+    {
+      "id": "CY024B",
+      "path": "镜头设计/图像/月刃救援-v041/CY024B-v041-r1.png",
+      "sha256": "ddecc25c5ed093b9142ef3b41ada5b1fba368559670df85298f24ae19a973b0c",
+      "size": [
+        1671,
+        941
+      ],
+      "request": "镜头设计/生成记录/月刃救援-v041/群像与战后衔接请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/蓄力与水雷-v038/CY024B-v038-r1.png",
+          "sha256": "a1f55d67a1bd5c90a4e8f5f132a490de742bfeb8c14896944e620d1c06d6a2b1"
+        },
+        {
+          "path": "镜头设计/图像/月刃救援-v041/KIMI双刃-v041-r3.png",
+          "sha256": "41e1cfdc7480ac646ee3970e9876b5c38cd6e6932180131acd55643b46bb0c9e"
+        }
+      ]
+    },
+    {
+      "id": "CY024B3",
+      "path": "镜头设计/图像/月刃救援-v041/CY024B3-v041-r1.png",
+      "sha256": "8dd5ee6566c42c050529d535753d38a361fd23a13caba6694954f0e24687c0b8",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/月刃救援-v041/守护与承压请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月刃救援-v041/KIMI双刃-v041-r3.png",
+          "sha256": "41e1cfdc7480ac646ee3970e9876b5c38cd6e6932180131acd55643b46bb0c9e"
+        },
+        {
+          "path": "镜头设计/图像/月刃救援-v041/CY024K3-v041-r2.png",
+          "sha256": "80106b6c110083a8847adb623007f057309c83a2c284524ce550b4381bc3d00a"
+        }
+      ]
+    },
+    {
+      "id": "CY027D",
+      "path": "镜头设计/图像/月刃救援-v041/CY027D-v041-r1.png",
+      "sha256": "85f622e73cd951e92a42b019838a371c337d01ea88d0f2a8cc407155b3b918bc",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/月刃救援-v041/群像与战后衔接请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月光救赎-v032/CY027D-v032-r1.png",
+          "sha256": "7bf47cf633c68ea23de004435830a087fa6c39958a84042d1f859d0ea98e547f"
+        }
+      ]
+    },
+    {
+      "id": "CY027F",
+      "path": "镜头设计/图像/月刃救援-v041/CY027F-v041-r1.png",
+      "sha256": "0abb6ce50b9373d4af7b2842ac31e147acf4c4fcc6ca7bdf59e8e5c7a203baf2",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/月刃救援-v041/第一批请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/展翼与扇叶-v033/CY027F-v033-r1.png",
+          "sha256": "a3024e1bfcca985079fdc397b38961d8f810ff0bbf84b2d08013d1559b1b2b50"
+        }
+      ]
+    },
+    {
+      "id": "CY027F0",
+      "path": "镜头设计/图像/月刃救援-v041/CY027F0-v041-r1.png",
+      "sha256": "9ec53f027cd891e24c6a9d8a18487c1126bc1a4e29b8c63dc51f82390b6da548",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/月刃救援-v041/群像与战后衔接请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月刃救援-v041/CY027F-v041-r1.png",
+          "sha256": "0abb6ce50b9373d4af7b2842ac31e147acf4c4fcc6ca7bdf59e8e5c7a203baf2"
+        }
+      ]
+    },
+    {
+      "id": "CY027F2",
+      "path": "镜头设计/图像/月刃救援-v041/CY027F2-v041-r2.png",
+      "sha256": "c70fa563c3c2d4443c2805341e118ac9b7eb7610c362352e0bbbe1c51c19f758",
+      "size": [
+        1670,
+        942
+      ],
+      "request": "镜头设计/生成记录/月刃救援-v041/末轮衔接修正请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月刃救援-v041/CY027F2-v041-r1.png",
+          "sha256": "ab55ea31a61dadfd115ae58c04665ad9c69185b45b331435e6d4b97b94761d5b"
+        },
+        {
+          "path": "镜头设计/图像/月刃救援-v041/CY027F0-v041-r1.png",
+          "sha256": "9ec53f027cd891e24c6a9d8a18487c1126bc1a4e29b8c63dc51f82390b6da548"
+        }
+      ]
+    },
+    {
+      "id": "CY028A",
+      "path": "镜头设计/图像/月刃救援-v041/CY028A-v041-r1.png",
+      "sha256": "301b6ea1f62739ebd6d8241ce3e30659e5e6f98ffed5853cc3ae71bac1e9f33b",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/月刃救援-v041/末轮衔接修正请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/火焰伤后与星火-v036/CY028A-v036-r1.png",
+          "sha256": "4d22352cafcb86b1a0fc014e6bce0e6158374685e4bd2d313387fecd8e3336ef"
+        },
+        {
+          "path": "镜头设计/图像/月刃救援-v041/KIMI双刃-v041-r3.png",
+          "sha256": "41e1cfdc7480ac646ee3970e9876b5c38cd6e6932180131acd55643b46bb0c9e"
+        }
+      ]
+    }
+  ],
+  "not_used": [
+    "KIMI双刃r1普通弯刀被否定",
+    "KIMI双刃r2尺寸过大，改r3",
+    "CY024K3r1错误坐姿；r2缺踝扣；改r3",
+    "CY024K4r1多余手臂，改r2",
+    "CY024K2r1火色错误，改r2",
+    "CY027F2r1腕位与钥匙错误，改r2",
+    "CY024A4r1独立凳腿错误，改r2固定脚托"
+  ]
+}

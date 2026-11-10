@@ -1,0 +1,139 @@
+{
+  "batch_id": "GB020-1",
+  "node_id": "v-ER1ssBW3lO",
+  "quoted_credits": 98,
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-ER1ssBW3lO",
+    "node": {
+      "id": "v-ER1ssBW3lO",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第27批 · 水息上浮，合滴回弹 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Mixed 1}} =构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，7秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–6.52s {{Mixed 1}} ；画内:环境。从罩内冷光切液面月光，以上升方向接天空水海，不把护罩当水源。微距随大滴缓慢上移，小幅拉焦接近的小滴，合并后回到大滴轮廓；不变成雨滴下落。大水珠晃动、拉长回弹，小滴向上靠近并融入；云影逐渐掩月，上浮方向引向下一镜云腹。 调度:镜长6.52秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 人物:纯水珠微距，GPT咏唱画外。 声音:仅视觉换镜，声音不重起。液桥轻响和高空长风，无雨雷电。 GPT在镜内0–6.44秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0–6.44s ChatGPT 画外连续，不让在画者代说:<d>[Japanese] 星々の下に浮かぶ、果てなき海へと集めよ。</d>；仅一次。\n6.52–7s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-fPa6MMXkX6",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/439cc38f7000042998da1c832888db14d2ece6ea.png",
+              "label": "CY024A3-v030-r1"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 7
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-fPa6MMXkX6",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/439cc38f7000042998da1c832888db14d2ece6ea.png",
+              "label": "CY024A3-v030-r1",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-fPa6MMXkX6"
+          ],
+          "mixedListOrder": [
+            "i-fPa6MMXkX6"
+          ]
+        },
+        "_updatedAtMs": 1793121776000,
+        "_lastAppliedFullyAtMs": 1793121776000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        },
+        "taskInfo": {
+          "loading": true,
+          "taskId": "20261028012303181309236",
+          "status": 0,
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-ER1ssBW3lO",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793121786764
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805"
+        }
+      },
+      "position": {
+        "x": 3996,
+        "y": 2058
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-ER1ssBW3lO",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-21",
+  "sources": [
+    {
+      "id": "BGM-HOBBITS-001",
+      "title": "Concerning Hobbits",
+      "source": "https://www.bilibili.com/video/BV1Ay4y1J7q6/?p=2",
+      "uploader": "xtrikil",
+      "upload_title": "【电影音乐】指环王1：护戒使者-原声合集 p02 02-Concerning Hobbits",
+      "view_count": 4488,
+      "retrieved_date": "2026-10-21",
+      "path": "资产/声音/BGM/B站-BV1Ay4y1J7q6_p2.m4a",
+      "sha256": "b75b107e45cfdf92e933da43ba1a47c8ef06232f426f6c1682d39b4e584fc2b7",
+      "bytes": 1472244,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "175.194331",
+          "bit_rate": "67227"
+        }
+      },
+      "decode_ok": true,
+      "heard": false
+    },
+    {
+      "id": "BGM-KNIFE-001",
+      "title": "A Knife in the Dark",
+      "source": "https://www.bilibili.com/video/BV1Ay4y1J7q6/?p=7",
+      "uploader": "xtrikil",
+      "upload_title": "【电影音乐】指环王1：护戒使者-原声合集 p07 07-A Knife in the Dark",
+      "view_count": 4488,
+      "retrieved_date": "2026-10-21",
+      "path": "资产/声音/BGM/B站-BV1Ay4y1J7q6_p7.m4a",
+      "sha256": "17ab943b84024b813042429ca45309649c6b19a3478ef8f342b9e62535f77cdc",
+      "bytes": 1802008,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "214.436054",
+          "bit_rate": "67227"
+        }
+      },
+      "decode_ok": true,
+      "heard": false
+    },
+    {
+      "id": "BGM-COURAGE-001",
+      "title": "Heart of Courage",
+      "source": "https://www.bilibili.com/video/BV1Eu4y1L7qz/",
+      "uploader": "星月辉",
+      "upload_title": "【无损Hi-Res】Heart of Courage(曾经的史诗配乐)",
+      "view_count": 45666,
+      "retrieved_date": "2026-10-21",
+      "path": "资产/声音/BGM/B站-BV1Eu4y1L7qz.m4a",
+      "sha256": "640f7efc2fa026af04632c8252bf874cc88e1b9496b50c2dcdad50c088b54c10",
+      "bytes": 3890154,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "117.546333",
+          "bit_rate": "264757"
+        }
+      },
+      "decode_ok": true,
+      "heard": false
+    }
+  ],
+  "search_status": "DeepSeek 401；沿作者已有授权用普通网页搜索定位B站。原页元信息和公开可下载音频已取得。",
+  "assessment": "三文件完整解码通过；未实际听审，不代表音质或剪辑适配已通过。"
+}

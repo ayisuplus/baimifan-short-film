@@ -1,0 +1,40 @@
+{
+  "id": "BGM-CY-LR3-09",
+  "bvid": "BV1az4y1272D",
+  "part": 9,
+  "title": "Cirith Ungol",
+  "display_title": "西力斯昂哥",
+  "work": "指环王3：王者归来",
+  "composer": "Howard Shore",
+  "source_page_title": "09-Cirith Ungol",
+  "navigation_translation": "中文名称用于导航，原曲名及分P标题保留。",
+  "cid": 300273078,
+  "source": "https://www.bilibili.com/video/BV1az4y1272D/?p=9",
+  "uploader": "xtrikil",
+  "video_title": "【电影音乐】指环王3：王者归来-原声合集",
+  "path": "资产/声音/BGM/重选-v005/BGM-CY-LR3-09.m4a",
+  "bytes": 878611,
+  "sha256": "cc508e0a812083b4ad7eca101f0959ebc05e03ff9815485718da868726bdf115",
+  "duration": 104.396689,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "66953"
+      }
+    ],
+    "format": {
+      "duration": "104.396689"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

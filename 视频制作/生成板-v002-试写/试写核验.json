@@ -1,0 +1,82 @@
+{
+  "status": "仅GB001研究试写，待作者审阅；其余32批未迁移",
+  "source": "镜头设计/shot-plan-v0.53r3.json",
+  "source_sha256": "cb027621570b008adb63c183c889f33ad8728f2263b29cfa7b0f54bf07df218c",
+  "request_seconds": 15,
+  "film_range": [
+    0,
+    14
+  ],
+  "discard_range": [
+    14,
+    15
+  ],
+  "shot_ids": [
+    "CY001",
+    "CY002",
+    "CY003",
+    "CY003A"
+  ],
+  "references": [
+    {
+      "slot": 1,
+      "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+      "purpose": "小鱼四视图 v003：身份、服装、头身比例；不含饭碗",
+      "usage": "普通参考图，非首尾帧",
+      "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+      "asset_id": "CHAR-DEEPSEEK",
+      "asset_status": "候选待作者审阅",
+      "asset_limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。"
+    },
+    {
+      "slot": 2,
+      "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+      "purpose": "Claude四视图 v001：身份、服装、左侧花饰与头纱",
+      "usage": "普通参考图，非首尾帧",
+      "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+      "asset_id": "CHAR-CLAUDE",
+      "asset_status": "候选待作者审阅",
+      "asset_limits": "侧背与下裙含补全，不作为精确工程正交图。受缚至离殿采用赤足，四视图鞋仅为日常服装参考。近景不为展示花饰而换侧；不新增另一朵花。"
+    },
+    {
+      "slot": 3,
+      "path": "镜头设计/图像/独立镜头-v009/CY001-v009.png",
+      "purpose": "第1镜：街市空间、日光和远景布局",
+      "usage": "普通参考图，非首尾帧",
+      "sha256": "feea8b3a4ce433555d563cce0a0a06570564476ce026299bd9b9a570a8f80bc9"
+    },
+    {
+      "slot": 4,
+      "path": "镜头设计/图像/独立镜头-v009/CY002-v009.png",
+      "purpose": "第2镜：黑袍夹框与Claude中近景",
+      "usage": "普通参考图，非首尾帧",
+      "sha256": "4aafc4279ccfeee08d88d46c3efd1580ec6a60aa17b3893226212fbcec3fc0f0"
+    },
+    {
+      "slot": 5,
+      "path": "镜头设计/图像/独立镜头-v009/CY003-v009.png",
+      "purpose": "第3镜：过肩关系；举碗为过程中的状态",
+      "usage": "普通参考图，非首尾帧",
+      "sha256": "561091394ef37afe751dcef3b645853bb2a4faea9139a1a23ff2696cc4ce3ffa"
+    },
+    {
+      "slot": 6,
+      "path": "镜头设计/图像/独立镜头-v009/CY003A-v009.png",
+      "purpose": "第4镜：双手、饭碗与无人接住的距离",
+      "usage": "普通参考图，非首尾帧",
+      "sha256": "fc58bde8a92c9bc0b5dcec1170c8fbd67dca2363fd8910c45592abdeebafc799"
+    }
+  ],
+  "prompt_chars": {
+    "seedance25": 1393,
+    "minimax-h3": 5636
+  },
+  "checks": [
+    "身份槽位绑定资产图册四视图，6份参考路径和哈希",
+    "两稿对白仅一次",
+    "14秒成片+1秒余量",
+    "H3六节顺序与7000字符内"
+  ],
+  "media_generation": "未上传、未调用模型、未生成或试听",
+  "remaining": "完整生成板编译器及其余批次尚未迁移；提示词格式与实生成质量需区分"
+}

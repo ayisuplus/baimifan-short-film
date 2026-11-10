@@ -1,0 +1,14 @@
+{
+  "tool": "create_node",
+  "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+  "idempotencyKey": "chuanyun-claude-v006-angry-20261021",
+  "nodeType": "audio",
+  "name": "CY020 Claude 愤怒少女试音 v006",
+  "prompt": "生气的、愤怒的少女说：“别碰她！”",
+  "params": {
+    "model": "seed-audio-1.0",
+    "modeType": "text2audio",
+    "language": "zh"
+  },
+  "run": true
+}

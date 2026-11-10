@@ -1,0 +1,369 @@
+{
+  "reviewer": "review_dragon",
+  "updated": "2026-10-30T22:45:30",
+  "scope": "093a-119 late keys, still-image review only; animation not yet reviewed",
+  "source_plans": [
+    "late-keys.json",
+    "../后半程逐段修订-v032/group-06.json",
+    "../后半程逐段修订-v032/group-07.json"
+  ],
+  "pass_ids": [
+    "093a",
+    "096",
+    "099",
+    "102",
+    "104"
+  ],
+  "revise_ids": [
+    "093b",
+    "093c",
+    "093d",
+    "093e",
+    "094",
+    "095",
+    "097",
+    "098",
+    "105",
+    "106"
+  ],
+  "records": [
+    {
+      "id": "093a",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\093a-key-r1_00001_.png",
+      "complete_file": true,
+      "visually_reviewed": true,
+      "status": "pass",
+      "observations": [
+        "实看原图：GPT 白袖由右侧提环，Kimi 星纹袖左侧摊掌，一把黑铁钥匙，二维硬阴影成立。",
+        "手部略有金属描边亮边，但没有塑料皮肤或 3D 场景。交接只做一次，闭指握稳后再松开。"
+      ],
+      "defects": [],
+      "correction_en": null
+    },
+    {
+      "id": "093b",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\093b-key-r1_00001_.png",
+      "complete_file": true,
+      "visually_reviewed": true,
+      "status": "revise",
+      "observations": [
+        "实看整幅 1312×736 原图。三人位置大致可用，GPT 露出的膜翼类型正确，但关键锁链/高台/照明状态未成立。"
+      ],
+      "defects": [
+        "Kimi 左后方多出大幅龙膜翼，身份穿帮。",
+        "Claude 两腕已经脱离闭锁，一手悬空、一手下垂，破坏先踝后腕。",
+        "祭架背后阶梯继续向上，位置不是最高祭台。",
+        "左右多支蜡烛明显点燃，洪水后暖火连续性错误。",
+        "衣发繁碎明暗与颗粒立体感过重，尚未达到前段简化二维赛璐璐。"
+      ],
+      "correction_en": "Redraw as clean hand-drawn 2D Japanese gothic anime with bold consistent ink contours, broad simple hair locks, flat color fills and two hard cel-shadow levels; simplify the dense lace texture, no painterly granular highlights or volumetric CGI shading. Keep exactly three people: Claude orange hair at center, GPT white horned dragon girl at viewer RIGHT, Kimi pale lavender hair and dark starry maid dress at viewer LEFT. Kimi has NO WINGS, NO HORNS and no tail: REMOVE the entire large membrane wing behind kneeling Kimi. Only GPT owns exactly two folded pale lavender membrane wings with clear finger ribs, behind her own back. Claude remains standing on the narrow wooden footrest with BOTH feet supported and BOTH ankle cuffs closed. BOTH her wrists are still physically inside CLOSED iron cuffs attached to the wooden horizontal crossbar, arms supported at either side of the crossbar; do not leave a hand floating free or hanging down. GPT already supports Claude upper back and waist. Kimi kneels holding the single black iron key next to the closed ankle cuff. This is the HIGHEST altar platform: replace all staircases BEHIND the three women and cross with a continuous flat rear wall and broken central gothic window; stairs descend ONLY in the lower foreground. Rear vault and side windows intact. Extinguish EVERY candle, no orange flames, only cool blue moonlight. Preserve Claude scorched torn white-orange clothing, damaged veil, flower on HER LEFT and black ribbon; do not repair the fabric. No protective dome and no extra people."
+    },
+    {
+      "id": "093c",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\093c-key-r1_00001_.png",
+      "complete_file": true,
+      "visually_reviewed": true,
+      "status": "revise",
+      "observations": [
+        "实看 1312×736 原始关键帧；未审动态。"
+      ],
+      "defects": [
+        "踝扣仍闭合与双脚接触成立；但脚托变成独立凳子，右上钥匙过大且拿钥匙的手没有 Kimi 袖口。",
+        "背景上行台阶和大量烛火不符合最高祭台/灭火状态。"
+      ],
+      "correction_en": "Clean traditional 2D gothic Japanese anime, confident consistent ink contours, broad hair locks, matte flat skin and only two hard-edged cel-shadow levels. Reduce granular lace highlights and fine reflective hair strands; retain all character identities and scorched costume damage. Reframe this into a TIGHT detail of ONLY Claude two bare feet, both CLOSED black ankle cuffs and the fixed narrow wooden footrest ATTACHED to the upright cross beam. The footrest is a simple horizontal plank bolted to the cross, NOT a freestanding chair or stool. Keep both soles physically resting on it. Remove the entire cathedral staircase/window/candle background; behind the ankles show only the dark cross beam and cool blue shadow. Replace the oversized dangling key and bare hand at top right with Kimi two small anatomically clear hands entering from frame LEFT, visible dark starry maid sleeve and white frilled cuff. One hand holds ONE SMALL black iron key by the bow, its shaft aligned toward the closed ankle lock; the other hand steadies the cuff. Key length less than ankle width. Keep both cuffs closed at start. No other feet, person, flames or flowers on the skirt hem."
+    },
+    {
+      "id": "093d",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\093d-key-r1_00001_.png",
+      "complete_file": true,
+      "visually_reviewed": true,
+      "status": "revise",
+      "observations": [
+        "实看 1312×736 原始关键帧；未审动态。"
+      ],
+      "defects": [
+        "最后一腕闭扣、GPT 扶上臂、Kimi 左侧位置基本成立。",
+        "Kimi 正在抓长链而非清楚持钥匙进锁；过宽构图保留后方上行阶、多破窗和明火。"
+      ],
+      "correction_en": "Clean traditional 2D gothic Japanese anime, confident consistent ink contours, broad hair locks, matte flat skin and only two hard-edged cel-shadow levels. Reduce granular lace highlights and fine reflective hair strands; retain all character identities and scorched costume damage. Crop and redraw as a tight waist-up three-person view focused on Claude FINAL CLOSED wrist cuff, eliminating ALL floor and staircase. Claude last raised wrist stays INSIDE the closed cuff attached to the crossbar; other wrist is already free at her side. Kimi at viewer LEFT holds ONE small black iron key inserted visibly into the final cuff lock, her second hand steadies the metal cuff, not merely pulling the hanging chain. GPT at viewer RIGHT is already supporting Claude upper back and upper arm; preserve her correct pale lavender membrane wing, never feathered. Kimi has no wings. Keep Claude tired face and charred lace. Background only a dim intact rear wall with a portion of the broken CENTRAL window; no side-window openings, no candles or flame. Retain visible empty opened waist chain hanging aside."
+    },
+    {
+      "id": "093e",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\093e-key-r1_00001_.png",
+      "complete_file": true,
+      "visually_reviewed": true,
+      "status": "revise",
+      "observations": [
+        "实看 1312×736 原始关键帧；未审动态。"
+      ],
+      "defects": [
+        "双脚站托、GPT 右侧扶持、Kimi 左侧后退符合起点。",
+        "整根祭架消失，脚托是独立小凳；后方继续上行台阶否定最高祭台，背景侧窗全损。"
+      ],
+      "correction_en": "Clean traditional 2D gothic Japanese anime, confident consistent ink contours, broad hair locks, matte flat skin and only two hard-edged cel-shadow levels. Reduce granular lace highlights and fine reflective hair strands; retain all character identities and scorched costume damage. Restore ONE wooden sacrificial cross directly BEHIND Claude, its upright rising behind her and its crossbar above her shoulders; all opened wrist cuffs and waist chains hang EMPTY from it. Replace the separate stool with a narrow wooden footrest bolted to this cross upright. Claude is completely free but BOTH bare feet still rest on that fixed footrest at start. Preserve GPT on viewer RIGHT firmly supporting Claude upper arm and waist/back, her feet grounded, two folded pale lavender membrane wings belonging only to GPT. Kimi remains at viewer LEFT stepped back with an opened cuff and chain, no wings. Place all three on ONE broad highest altar platform. Remove every staircase rising behind them: background is a continuous rear wall with ONE broken central window and INTACT side windows; steps descend only in lower foreground. All candles and lamps extinguished, no warm flames. Show enough flat platform just below the footrest for Claude to step onto."
+    },
+    {
+      "id": "094",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\094-key-r1_00001_.png",
+      "complete_file": true,
+      "visually_reviewed": true,
+      "status": "revise",
+      "observations": [
+        "实看 1312×736 原始关键帧；未审动态。"
+      ],
+      "defects": [
+        "Claude 疲惫低头、GPT 手掌包住上臂，接触和膜翼成立。",
+        "左侧蜡烛仍有明火，后方出现上行台阶；衣裙纹理过密，和较简洁二维关键帧不统一。"
+      ],
+      "correction_en": "Clean traditional 2D gothic Japanese anime, confident consistent ink contours, broad hair locks, matte flat skin and only two hard-edged cel-shadow levels. Reduce granular lace highlights and fine reflective hair strands; retain all character identities and scorched costume damage. Keep this EXACT intimate two-shot, face expressions, hand contact and framing: orange-haired Claude at left remains fatigued and GPT at right supports her upper arm securely. Keep the EMPTY wooden cross behind left, but remove the candle stand and its visible flame entirely. Replace the stair edges behind the cross with a plain flat dark rear altar wall; the pair stand on the highest platform. Simplify the lace into drawn grouped torn shapes with broad black scorch edges and flat shadow patches, without restoring the clothing. Simplify hair into broad outlined locks. GPT visible wing remains a pale lavender DRAGON MEMBRANE wing with finger ribs and smooth webbing. Do not change the grasp, add fingers, add people or introduce any warm light."
+    },
+    {
+      "id": "095",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\095-key-r1_00001_.png",
+      "complete_file": true,
+      "visually_reviewed": true,
+      "status": "revise",
+      "observations": [
+        "实看 1312×736 原始关键帧；未审动态。"
+      ],
+      "defects": [
+        "下垂疲惫眼神、橙发身份、左花及黑丝带成立。",
+        "祭架周围数支蜡烛有明火；后景亮碎窗与复杂亮边抢脸，发丝纹理过多。"
+      ],
+      "correction_en": "Clean traditional 2D gothic Japanese anime, confident consistent ink contours, broad hair locks, matte flat skin and only two hard-edged cel-shadow levels. Reduce granular lace highlights and fine reflective hair strands; retain all character identities and scorched costume damage. Preserve the EXACT Claude close-up pose, tired downward eyeline, amber eyes, orange flower on HER LEFT and black ribbon. Keep the EMPTY cross silhouette behind left. Remove EVERY candle flame and warm orange pixel; candle wicks are cold black. Simplify the distant background into a subdued cool dark rear wall and one softly painted central broken window, intact side window glazing without conspicuous jagged holes. Simplify her hair into broad outlined orange locks and reduce tiny hair highlights; use flat matte skin and crisp cel shadows. Her damaged veil and scorched neckline remain visibly damaged, never healed. No smile, bright blush, added hands or extra character."
+    },
+    {
+      "id": "096",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\096-key-r1_00001_.png",
+      "complete_file": true,
+      "visually_reviewed": true,
+      "status": "pass",
+      "observations": [
+        "实看通过。唯一蓝眼鲸帽小鱼，Qwen 左臂托抱，手抓衣服、头身比例和疲惫状态清楚；无明火。",
+        "人物平面硬边阴影成立，保留已采用方向允许的蕾丝/服装细节。背景湿反光不作为单独否决项。"
+      ],
+      "defects": [],
+      "correction_en": null
+    },
+    {
+      "id": "097",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\097-key-r1_00001_.png",
+      "complete_file": true,
+      "visually_reviewed": true,
+      "status": "revise",
+      "observations": [
+        "实看原始关键帧；主要人物二维风格不因纹理丰富而否决。"
+      ],
+      "defects": [
+        "手形、烧损衣袖与初始微光可保留；背景多支蜡烛仍燃烧，违反洪水后的光源因果。"
+      ],
+      "correction_en": "Preserve this exact drawn hand pose, fingers, faint wrist pressure marks and scorched lace costume. Make only local corrections: extinguish EVERY background candle so each wick is cold black with NO orange flame or warm halo. Keep only TWO OR THREE tiny dim orange-gold light motes close to the fingertips, not a flame or completed fire seed, remove other orange star glints. Keep the dark blue gothic interior and flat hand cel shadows. Do not add hands, repair the garment or alter the anatomy. Rich drawn lace details may remain; no plastic CGI shading."
+    },
+    {
+      "id": "098",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\098-key-r1_00001_.png",
+      "complete_file": true,
+      "visually_reviewed": true,
+      "status": "revise",
+      "observations": [
+        "实看原始关键帧；主要人物二维风格不因纹理丰富而否决。"
+      ],
+      "defects": [
+        "指尖出现两处成形小火舌，早于单枚火种；背景蜡烛仍有明火。宽远祭台与巨手透视不必要地干扰手腕细节。"
+      ],
+      "correction_en": "Preserve the existing right hand anatomy, faint red wrist pressure marks and scorched lace edge. Replace ALL small orange flames on the fingertips with just TWO tiny DIM separate orange-gold motes floating a few millimeters near the fingertips; no visible flame tongues or formed fire seed yet. Extinguish all candles. Reframe as a tight hand-and-wrist detail against a soft dark blue painted wall, removing the distant miniature cross, floor, stairs and elaborate candle altar from the background. Maintain the hand size and pose, five anatomically believable fingers; no second hand, glowing healing marks or repaired lace. Preserve clear ink and flat hard-edged cel shadows; rich drawn costume detail may remain."
+    },
+    {
+      "id": "099",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\099-key-r1_00001_.png",
+      "complete_file": true,
+      "visually_reviewed": true,
+      "status": "pass",
+      "observations": [
+        "实看通过。红发黑金教主一前臂撑地、另一手前伸，手指可辨、身体贴地；没有新人物或明火。",
+        "面部线条与硬边阴影可用，湿石反光不妨碍主要动作和身份。"
+      ],
+      "defects": [],
+      "correction_en": null
+    },
+    {
+      "id": "101",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\101-key-r1_00001_.png",
+      "complete_file": false,
+      "visually_reviewed": false,
+      "status": "not_generated",
+      "observations": [],
+      "defects": [],
+      "correction_en": null
+    },
+    {
+      "id": "100",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\100-key-r1_00001_.png",
+      "complete_file": false,
+      "visually_reviewed": false,
+      "status": "not_generated",
+      "observations": [],
+      "defects": [],
+      "correction_en": null
+    },
+    {
+      "id": "102",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\102-key-r1_00001_.png",
+      "complete_file": true,
+      "visually_reviewed": true,
+      "status": "pass",
+      "observations": [
+        "单枚橙金火种、右手指形、腕部压痕及烧损衣袖成立；左手未入画是可动画补全的起始状态，不要求静帧完成全部托腕动作。",
+        "原始关键帧已实际查看；只通过静帧，后续动画仍须审动作连续性。"
+      ],
+      "defects": [],
+      "correction_en": null
+    },
+    {
+      "id": "104",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\104-key-r1_00001_.png",
+      "complete_file": true,
+      "visually_reviewed": true,
+      "status": "pass",
+      "observations": [
+        "左手托右腕已成立，单枚火种位于指尖左方可发射，受力及两手指形可读；保留现有二维纹理。",
+        "原始关键帧已实际查看；只通过静帧，后续动画仍须审动作连续性。"
+      ],
+      "defects": [],
+      "correction_en": null
+    },
+    {
+      "id": "105",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\105-key-r1_00001_.png",
+      "complete_file": true,
+      "visually_reviewed": true,
+      "status": "revise",
+      "observations": [
+        "实看原始关键帧；初始姿态不要求提前完成动态动作。"
+      ],
+      "defects": [
+        "祭架前出现完整黑发女子，直接破坏空架主观落点，而且背景蜡烛仍有暖火。"
+      ],
+      "correction_en": "Traditional hand-drawn 2D Japanese gothic anime, stable ink lines, hard-edged flat cel shadows and matte skin; preserve the existing drawn lace and scorched fabric details. Remove the ENTIRE dark-haired woman including her face, hair, veil, dress, arms, body and every human silhouette. This shot contains ZERO people or hands. Reveal and redraw the EMPTY wooden cross she was obscuring. Tight frontal POV framing: the upright and horizontal crossbar fill most of the frame, with the bare wood immediately BELOW their dark iron joining brace centered as the clear target. Two opened wrist cuffs hang EMPTY at the sides. There is no person attached to or standing in front of the cross. Extinguish every background candle. No burning wood yet, no seed visible in the center, no floor fire; only a very faint warm tint at the extreme frame edges to suggest the approaching seed POV. Cold blue drawn cathedral wall behind, no glossy CGI floor. Preserve the wooden cross design and clean 2D lines."
+    },
+    {
+      "id": "106",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\106-key-r1_00001_.png",
+      "complete_file": true,
+      "visually_reviewed": true,
+      "status": "revise",
+      "observations": [
+        "实看原始关键帧；初始姿态不要求提前完成动态动作。"
+      ],
+      "defects": [
+        "空架左、人物右且安全距离清楚，膜翼和烧损衣服可用；架下两处明火落在地面/蜡烛上，正确木架起燃点缺失。"
+      ],
+      "correction_en": "Traditional hand-drawn 2D Japanese gothic anime, stable ink lines, hard-edged flat cel shadows and matte skin; preserve the existing drawn lace and scorched fabric details. Preserve the exact wide side composition: EMPTY wooden cross on screen LEFT, orange-haired Claude and pale horned membrane-wing GPT on screen RIGHT, clear safe distance between people and wood. Keep the present hand pose and all body anatomy; the hand may lower during the animation. Remove BOTH small orange flames near the base of the cross and remove every other floor/candle flame. Wet floor and fallen timber remain completely dark and extinguished. Add ONE tiny orange ignition mark ON THE WOODEN UPRIGHT immediately BELOW the iron brace joining upright and crossbar, not on the floor or stone pedestal. At this starting instant the cross is NOT yet engulfed in fire. No beam or flame stream connects Claude hand to the wood. Preserve the scorched torn outfit and tired faces. Only the empty wood will burn later, no burning person. Retain drawn gothic background, intact side walls, flat cel characters and existing membrane-wing anatomy."
+    },
+    {
+      "id": "107",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\107-key-r1_00001_.png",
+      "complete_file": false,
+      "visually_reviewed": false,
+      "status": "not_generated",
+      "observations": [],
+      "defects": [],
+      "correction_en": null
+    },
+    {
+      "id": "108",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\108-key-r1_00001_.png",
+      "complete_file": false,
+      "visually_reviewed": false,
+      "status": "not_generated",
+      "observations": [],
+      "defects": [],
+      "correction_en": null
+    },
+    {
+      "id": "112",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\112-key-r1_00001_.png",
+      "complete_file": false,
+      "visually_reviewed": false,
+      "status": "not_generated",
+      "observations": [],
+      "defects": [],
+      "correction_en": null
+    },
+    {
+      "id": "113",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\113-key-r1_00001_.png",
+      "complete_file": false,
+      "visually_reviewed": false,
+      "status": "not_generated",
+      "observations": [],
+      "defects": [],
+      "correction_en": null
+    },
+    {
+      "id": "114",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\114-key-r1_00001_.png",
+      "complete_file": false,
+      "visually_reviewed": false,
+      "status": "not_generated",
+      "observations": [],
+      "defects": [],
+      "correction_en": null
+    },
+    {
+      "id": "115",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\115-key-r1_00001_.png",
+      "complete_file": false,
+      "visually_reviewed": false,
+      "status": "not_generated",
+      "observations": [],
+      "defects": [],
+      "correction_en": null
+    },
+    {
+      "id": "116",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\116-key-r1_00001_.png",
+      "complete_file": false,
+      "visually_reviewed": false,
+      "status": "not_generated",
+      "observations": [],
+      "defects": [],
+      "correction_en": null
+    },
+    {
+      "id": "117",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\117-key-r1_00001_.png",
+      "complete_file": false,
+      "visually_reviewed": false,
+      "status": "not_generated",
+      "observations": [],
+      "defects": [],
+      "correction_en": null
+    },
+    {
+      "id": "118",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\118-key-r1_00001_.png",
+      "complete_file": false,
+      "visually_reviewed": false,
+      "status": "not_generated",
+      "observations": [],
+      "defects": [],
+      "correction_en": null
+    },
+    {
+      "id": "119",
+      "file": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\119-key-r1_00001_.png",
+      "complete_file": false,
+      "visually_reviewed": false,
+      "status": "not_generated",
+      "observations": [],
+      "defects": [],
+      "correction_en": null
+    }
+  ],
+  "other_reviewer_notes": {
+    "100": "由 main 处理 r2 平面湿地，不重复返修；非本 reviewer 实看通过。",
+    "101": "main 已通过，后期必须裁 x600,y0,w700,h400 去背景明火，只用脸/胸口；不得误用整幅。"
+  }
+}

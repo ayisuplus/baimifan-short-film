@@ -1,0 +1,277 @@
+{
+  "batch": {
+    "batch_number": 25,
+    "batch_id": "GB018",
+    "attempt_id": "GB018-r001",
+    "title": "各路回应、抱紧宝宝与起咏",
+    "shot_ids": [
+      "CY026E",
+      "CY024A0",
+      "CY024A"
+    ],
+    "film_start": 264.062729,
+    "used_seconds": 14.45,
+    "duration": 15,
+    "prompt": "subject_definitions:\nImage 1=智谱四视图：同一人四角度，身份服饰保持\nImage 2=Mistral四视图：同一人四角度，身份服饰保持\nImage 3=Perplexity四视图：同一人四角度，身份服饰保持\nImage 4=Qwen四视图：同一人四角度，身份服饰保持\nImage 5=DeepSeek四视图：同一人四角度，身份服饰保持\nImage 6=ChatGPT四视图：同一人四角度，身份服饰保持\nImage 7=构图状态，非强制首帧\nImage 8=构图状态，非强制首帧\nImage 9=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，15秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n附四视图的主要人物身份服饰保持；未附独立身份卡的背景人物按保留群像/分屏对应位置维持外观，不独立加近景。构图状态按动作连续变化。五格图中的混元、Llama同时作为本镜局部身份外观依据，保留原格内服饰、发色、脸型及空间；每人只在自己的格内做原定小动作。后三格智谱合书、Mistral提剑、Perplexity扶眼镜仍各保留完整身份卡。\ndetailed_description:\n[Shot 1] 0–4s Image 7；画内:混元、Llama、智谱、Mistral、Perplexity。承Kimi点头切第一格，再每0.6秒累积显露；最后保留五格，硬切回当前教堂双人近景。五格各自定住局部机位；横向显露来自剪辑遮罩而非摄影机横扫，不让角色跨格。混元抬眼、Llama放下揉眼的手、智谱合书、Mistral提剑、Perplexity扶眼镜；每0.6秒增加一格，已亮画面保留，最后全屏停留。 调度:镜长4秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 人物:五列逐一显露，同一角色一格，GPT仅画外点名。 声音:供能底声压低不抢字。 GPT在镜内0–3.38秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 2] 4–7.2s Image 8；画内:Qwen、DeepSeek。硬切回当前柱边；短句说完、宝宝抓稳再切展翼，翼膜声可提前轻入。从被抱小鱼鲸帽后肩、孩子眼高略仰65mm紧近景；千问脸在右上，孩子抓衣小手在下缘，背景虚化；末尾只轻随抬眼。千问在画外继续用左臂承托小鱼、右手低持合扇；镜内不露成人手臂和扇子。她微俯身看向小鱼，完整说抱紧我，小鱼抓紧衣襟靠近。末尾千问抬眼向GPT，镜头轻随，不拉成全身；孩子始终不落地。 调度:从被抱小鱼鲸帽后肩、孩子眼高略仰65mm紧近景；千问脸在右上，孩子抓衣小手在下缘，背景虚化；末尾只轻随抬眼。 成人双手、承托前臂和合扇均在画外；左抱右扇由连续调度维持，不因遮挡宣称手位已目视验收。本图为说话中的构图参考，不锁死首帧表情。 注意:成人双手、承托前臂和合扇均在画外；左抱右扇由连续调度维持，不因遮挡宣称手位已目视验收。本图为说话中的构图参考，不锁死首帧表情。 人物:仅千问头肩、孩子鲸帽后脑与抓衣小手；成人双手与合扇不入画。 声音:左臂抱稳、右手持扇。 千问在镜内0.1–1.414秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 3] 7.2–14.45s Image 9；画内:ChatGPT。从千问向上的目光切到被看的GPT；脚离地后不再切回起跳，悬停起咏接敌方抬眼。低位广景随双脚离地向上摇并小幅升机，翼展始终完整，悬停时机位减速，留下穹顶高度参照。GPT展开两片膜翼，下扇扬尘、双脚离地，避开吊灯升至穹顶下方；水珠在前中后景上浮，悬停后起咏。 调度:镜长7.25秒。展翼、振翼与离地按原动作。千问不重复说话。 GPT在镜内3.79–6.91秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。 声音:展翼、振翼与离地按原动作。千问不重复说话。 GPT在镜内3.79–6.91秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0–3.38s ChatGPT 画外连续，不让在画者代说:<d>[Japanese] コンゲン、ラマ……みんな来て。</d>；仅一次。\n4.1–5.414s 千问 匹配口型:<d>[Japanese] つかまって。</d>；仅一次。\n10.99–14.11s ChatGPT 匹配口型:<d>[Japanese] 蒼穹の果てに座し、</d>；仅一次。\n14.45–15s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "资产/图像/四视图复用/C05_Zai-GLM-角色设定卡.png",
+        "kind": "identity",
+        "person": "智谱",
+        "name_en": "Zhipu",
+        "asset_id": "MULKZI2WQUZ98",
+        "status": "作者指定复用",
+        "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+        "purpose": "智谱四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "3874fb8d6799fa7e3775dae95cc07f75b8a496e2806fec0a87092315df3043ef",
+        "original_slot": 3
+      },
+      {
+        "slot": 2,
+        "path": "资产/图像/四视图复用/C08_Mistral-角色设定卡.png",
+        "kind": "identity",
+        "person": "Mistral",
+        "name_en": "Mistral",
+        "asset_id": "MULKZI2WI4VGS",
+        "status": "作者指定复用",
+        "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+        "purpose": "Mistral四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "48c6bc8343fedc417437c1706a2ca19dec26ca2007406bd365f21c00d8ecde9b",
+        "original_slot": 4
+      },
+      {
+        "slot": 3,
+        "path": "资产/图像/四视图复用/C07_Perplexity-角色设定卡.png",
+        "kind": "identity",
+        "person": "Perplexity",
+        "name_en": "Perplexity",
+        "asset_id": "MULKZI2W3JZ5F",
+        "status": "作者指定复用",
+        "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+        "purpose": "Perplexity四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "23ed4cbde90f467ea97f50a77ecb6c9e212753ec191ddb7cab50cc638c7720f4",
+        "original_slot": 5
+      },
+      {
+        "slot": 4,
+        "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+        "kind": "identity",
+        "person": "Qwen",
+        "name_en": "Qwen",
+        "asset_id": "MULKZI2W5366M",
+        "status": "作者指定复用",
+        "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+        "purpose": "Qwen四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+        "original_slot": 6
+      },
+      {
+        "slot": 5,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+        "kind": "identity",
+        "person": "DeepSeek",
+        "name_en": "DeepSeek",
+        "asset_id": "CHAR-DEEPSEEK",
+        "status": "候选待作者审阅",
+        "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+        "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+        "original_slot": 7
+      },
+      {
+        "slot": 6,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "ChatGPT",
+        "name_en": "ChatGPT",
+        "asset_id": "CHAR-GPT",
+        "status": "候选待作者审阅",
+        "limits": "两侧躯干略带斜角。开衩与腿饰以原图/正面图的角色右腿为准，不按对称读取；尾巴弯曲是姿态参考，侧背含补全。",
+        "purpose": "ChatGPT四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9",
+        "original_slot": 8
+      },
+      {
+        "slot": 7,
+        "path": "镜头设计/图像/S05D-应召分屏-v001.png",
+        "kind": "composition",
+        "shot_id": "CY026E",
+        "purpose": "构图、空间与代表状态：各路回应；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "db7a626651b4caa696c5dc3d630adc9d4d21f92876c7544f260c85d533232156",
+        "original_slot": 9
+      },
+      {
+        "slot": 8,
+        "path": "镜头设计/图像/张力与机位-v060/CY024A0-v060-r2.png",
+        "kind": "composition",
+        "shot_id": "CY024A0",
+        "purpose": "构图、空间与代表状态：抱紧我；不是默认首帧",
+        "status": "机位光影修订候选，待作者审阅",
+        "limits": "",
+        "sha256": "6088c303b96ecae73362067edd642638989dc293b941da6a1fb32a7c013b0b1d",
+        "original_slot": 10
+      },
+      {
+        "slot": 9,
+        "path": "镜头设计/图像/末轮叙事优化-v035/CY024A-v035-r1.png",
+        "kind": "composition",
+        "shot_id": "CY024A",
+        "purpose": "构图、空间与代表状态：展翼离地，空中起咏；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "b5539825dbb96c2d741e62d6fd356e8849e5e65403e79d901f3d51f1a562085c",
+        "original_slot": 11
+      }
+    ],
+    "estimated_credits": 175.8,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "五格图中的混元、Llama同时作为本镜局部身份外观依据，保留原格内服饰、发色、脸型及空间；每人只在自己的格内做原定小动作。后三格智谱合书、Mistral提剑、Perplexity扶眼镜仍各保留完整身份卡。",
+    "reference_reduction": {
+      "batch_number": 25,
+      "batch_id": "GB018",
+      "original_reference_count": 11,
+      "new_reference_count": 9,
+      "keep_original_slots": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "old_to_new_slot": {
+        "3": 1,
+        "4": 2,
+        "5": 3,
+        "6": 4,
+        "7": 5,
+        "8": 6,
+        "9": 7,
+        "10": 8,
+        "11": 9
+      },
+      "drop": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图复用/C16_Tencent-Hunyuan-角色设定卡.png",
+          "reason": "五格原9清楚给出混元正面与当时服饰；本镜仅抬眼，既有分屏足以约束，独立全套卡冗余。"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图复用/C10_Meta-角色设定卡.png",
+          "reason": "五格原9清楚给出Llama正面与当时服饰；仅放下揉眼的手，不换服装或独立换视角。"
+        }
+      ],
+      "visual_review": "目视全部参考拼图及完整源提示词，身份卡与群像/分屏重复用途已核对。",
+      "contact_sheet": "视频制作/Metaso-H3-v002/审查/25-GB018-全部参考.jpg",
+      "source_prompt": "视频制作/生成板-v025/提示词/GB018-minimax-h3.txt",
+      "source_prompt_characters": 2133,
+      "source_prompt_sha256": "2ea9292f2bad90d9512cdf37d3d013ef0c926c97e2ab3d1410d0cabac9b510a9",
+      "prompt_complete_checks": {
+        "ends_with_non_diegetic_music_NA": true,
+        "shot_blocks": 3,
+        "within_metaso_10000": true
+      },
+      "no_composition_deleted": true,
+      "composition_reference_replacement": "所有构图/动作正文引用均有保留图；按old_to_new_slot重编号即可，不需要把删除构图改成文字。",
+      "required_prompt_scope": "五格图中的混元、Llama同时作为本镜局部身份外观依据，保留原格内服饰、发色、脸型及空间；每人只在自己的格内做原定小动作。后三格智谱合书、Mistral提剑、Perplexity扶眼镜仍各保留完整身份卡。",
+      "prompt_change_instructions": [
+        "删除subject_definitions中被删身份卡对应行；不要删除人物名、镜头或任何对白。",
+        "保留图引用统一按映射转换为Image N，不可顺序替换导致编号串改；使用单次正则回调。",
+        "删除后的身份卡人物保留在画内名单/人数/动作中；按本条required_prompt_scope明确群像或分屏的局部身份用途。",
+        "retention_analysis不能继续笼统称全部身份均由四视图fully_preserved；改为主角四视图保持、背景或分屏角色由保留场景图约束。",
+        "原本构图图不替代身份的全局条款需改成仅对仍附身份卡角色适用，避免与本轮精简策略冲突。",
+        "日语对白、镜长、BGM空窗与动作切点保持；不因转H3截断完整提示词。"
+      ],
+      "review_risk": "群像中少数背景人物精确小饰物约束减弱，属于本轮删冗余卡的可见取舍；完整群像构图仍保留，不能承诺动态所有细节不漂移。"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json",
+    "submit_started": "2026-10-28T02:15:37+0800",
+    "capacity_rejection": "Explicit 429; no task created. Wait for active tasks before retry."
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "subject_definitions:\nImage 1=智谱四视图：同一人四角度，身份服饰保持\nImage 2=Mistral四视图：同一人四角度，身份服饰保持\nImage 3=Perplexity四视图：同一人四角度，身份服饰保持\nImage 4=Qwen四视图：同一人四角度，身份服饰保持\nImage 5=DeepSeek四视图：同一人四角度，身份服饰保持\nImage 6=ChatGPT四视图：同一人四角度，身份服饰保持\nImage 7=构图状态，非强制首帧\nImage 8=构图状态，非强制首帧\nImage 9=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，15秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n附四视图的主要人物身份服饰保持；未附独立身份卡的背景人物按保留群像/分屏对应位置维持外观，不独立加近景。构图状态按动作连续变化。五格图中的混元、Llama同时作为本镜局部身份外观依据，保留原格内服饰、发色、脸型及空间；每人只在自己的格内做原定小动作。后三格智谱合书、Mistral提剑、Perplexity扶眼镜仍各保留完整身份卡。\ndetailed_description:\n[Shot 1] 0–4s Image 7；画内:混元、Llama、智谱、Mistral、Perplexity。承Kimi点头切第一格，再每0.6秒累积显露；最后保留五格，硬切回当前教堂双人近景。五格各自定住局部机位；横向显露来自剪辑遮罩而非摄影机横扫，不让角色跨格。混元抬眼、Llama放下揉眼的手、智谱合书、Mistral提剑、Perplexity扶眼镜；每0.6秒增加一格，已亮画面保留，最后全屏停留。 调度:镜长4秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 人物:五列逐一显露，同一角色一格，GPT仅画外点名。 声音:供能底声压低不抢字。 GPT在镜内0–3.38秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 2] 4–7.2s Image 8；画内:Qwen、DeepSeek。硬切回当前柱边；短句说完、宝宝抓稳再切展翼，翼膜声可提前轻入。从被抱小鱼鲸帽后肩、孩子眼高略仰65mm紧近景；千问脸在右上，孩子抓衣小手在下缘，背景虚化；末尾只轻随抬眼。千问在画外继续用左臂承托小鱼、右手低持合扇；镜内不露成人手臂和扇子。她微俯身看向小鱼，完整说抱紧我，小鱼抓紧衣襟靠近。末尾千问抬眼向GPT，镜头轻随，不拉成全身；孩子始终不落地。 调度:从被抱小鱼鲸帽后肩、孩子眼高略仰65mm紧近景；千问脸在右上，孩子抓衣小手在下缘，背景虚化；末尾只轻随抬眼。 成人双手、承托前臂和合扇均在画外；左抱右扇由连续调度维持，不因遮挡宣称手位已目视验收。本图为说话中的构图参考，不锁死首帧表情。 注意:成人双手、承托前臂和合扇均在画外；左抱右扇由连续调度维持，不因遮挡宣称手位已目视验收。本图为说话中的构图参考，不锁死首帧表情。 人物:仅千问头肩、孩子鲸帽后脑与抓衣小手；成人双手与合扇不入画。 声音:左臂抱稳、右手持扇。 千问在镜内0.1–1.414秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 3] 7.2–14.45s Image 9；画内:ChatGPT。从千问向上的目光切到被看的GPT；脚离地后不再切回起跳，悬停起咏接敌方抬眼。低位广景随双脚离地向上摇并小幅升机，翼展始终完整，悬停时机位减速，留下穹顶高度参照。GPT展开两片膜翼，下扇扬尘、双脚离地，避开吊灯升至穹顶下方；水珠在前中后景上浮，悬停后起咏。 调度:镜长7.25秒。展翼、振翼与离地按原动作。千问不重复说话。 GPT在镜内3.79–6.91秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。 声音:展翼、振翼与离地按原动作。千问不重复说话。 GPT在镜内3.79–6.91秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0–3.38s ChatGPT 画外连续，不让在画者代说:<d>[Japanese] コンゲン、ラマ……みんな来て。</d>；仅一次。\n4.1–5.414s 千问 匹配口型:<d>[Japanese] つかまって。</d>；仅一次。\n10.99–14.11s ChatGPT 匹配口型:<d>[Japanese] 蒼穹の果てに座し、</d>；仅一次。\n14.45–15s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115145378040438784"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115145327243747328"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115145336049688576"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115144282224386048"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141523506393088"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141276083478528"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115145388283191296"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115145395969257472"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115145406385545216"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 15,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "2026-10-28作者授权：参考图超限想办法砍不重要参考，该返修的都返修；沿用Metaso H3"
+}

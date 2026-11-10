@@ -1,0 +1,262 @@
+{
+  "model": "MiniMax-H3",
+  "resolution": "768P",
+  "ratio": "16:9",
+  "spending_ceiling_credits": 300,
+  "authorization": "作者继续要求定点修正并明确必须标准二维动漫、不得3D建模或漫剧；沿用授权Metaso H3，只有4个风格失败局部",
+  "items": [
+    {
+      "attempt_id": "GB006-v008-early-inside-2d-r1",
+      "batch_number": 7,
+      "batch_id": "GB006-inside-transition",
+      "duration": 4,
+      "mode": "reference_only",
+      "references": [
+        {
+          "path": "后期/截图定点修正-v004/证据/二维基准/B04-Xiaoyu-12s.png",
+          "role": "reference_image",
+          "sha256": "9060d7785ac5b10c16d8bbdaec5c0e9e8a18dd385481a1b66839b21d75caca44",
+          "purpose": "Image1：片中现有标准二维小鱼；唯一主风格、脸型、五官年龄、发束分组、鲸鱼帽与服装画法基准"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/early-hole-original.png",
+          "role": "reference_image",
+          "sha256": "28a7c3cf26b620dead361c6e1ec3ef7a432bee4758166f7b1128591d5c9e32fb",
+          "purpose": "Image2：仅石洞位置、大小、入内方向与蓝外暖内的空间参考；其材质和光照渲染不采用"
+        }
+      ],
+      "prompt": "标准二维手绘动漫动画，人物画法严格按Image1现有片中小鱼：稳定清楚的轮廓与内部线稿、经过设计的发束分组和色块投影，保留必要高光、腮红和冷暖光色。鲸鱼帽蓝白毛边、蓝白雪花衣裙、短腿毛边靴、宝宝脸型与比例均一致。二维动漫不是粗制简画，也不是把静态插画推拉做成漫剧。角色身体、衣褶和发束必须随动作真实变形与遮挡，眼神带出发现高坛的意图。\nImage2只说明石洞的尺度与入口位置；不要复制它的拟真石材表面、毛绒颗粒、连续圆润材料塑形或摄影质感。石墙、地面、帽绒均改为和Image1协调的绘制轮廓与色面。保持室外冷蓝、室内暖边光的方向，光色可以精致，角色呈明确手绘动画画法。场景为同一教堂侧墙洞口内侧，不新增场景或第二个小鱼。\n4秒连续单镜、16:9。摄影机固定在室内接近地面的三分之二侧位，墙洞始终在左后方，小鱼由左后向画面右前方进入。0–1秒为切入余量：头和双手已越过内侧石沿，帽子软侧鳍刚脱开石头，胸腹尚低伏，膝盖仍接近洞口。\n必须在1–3秒内完成可独立剪用的动作链：1–1.65秒两只手掌明确压住石地，手肘伸展，肩背与躯干前移，衣袖与帽沿跟随；1.65–2.15秒两膝滑出洞口落在内侧地面，臀部低稳，承重从石沿转到室内；2.15–3秒稳住重心，小幅抬起头，目光向画外右上方高坛，脸从紧绷变为警惕。头发与帽穗有克制跟随滞后，不是整个角色图层一起滑动。3–4秒仅保留抬眼后的静止呼吸，供剪辑，不把落地或抬头延迟到3秒之后。\n全程只有一个孩子。墙洞与人物行动方向不镜像、不越轴、不瞬移。地面与石沿有清楚接触，手掌不能穿模或悬空，膝盖不能漂浮。动作不成为蹦跳跑步，镜尾不站起来、不登阶。没有对白，没有说话口型、字幕、BGM或新增角色；只是嘴闭、压低呼吸，后期沿用既有声音。\n拒绝静态插画推拉、漫画分格、剪纸骨骼滑动、只动头发和镜头却不做承重动作。拒绝3D游戏模型、手办/玩偶质感、PBR材料、实拍毛绒与石材微表面、皮肤塑胶高光。细节丰富不能以建模感实现。",
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "change_reason": "作者纠正全片主画风为标准二维动漫；本轮v007 B07过渡动作成立但有玩偶/建模感，仅替换其2秒片段",
+      "acceptance": [
+        "Image1二维线色画法优先，Image2仅借空间",
+        "1–3秒中手掌承重、膝盖落地、抬眼依次完整发生",
+        "小鱼帽、蓝白衣裙、宝宝脸型和短腿不变",
+        "没有冻结画面推拉或整层平移冒充动作",
+        "无说话嘴形、无新增对白或人",
+        "墙洞左后、孩子朝右前方入内，方向固定"
+      ],
+      "edit_mapping": {
+        "replace_attempt": "GB006-v007-early-inside-bridge-r1",
+        "candidate_source_frames": [
+          24,
+          72
+        ],
+        "timeline_frames": [
+          2126,
+          2174
+        ],
+        "fps": 24,
+        "speed_percent": 100,
+        "timeline_delta_frames": 0,
+        "keep_following": {
+          "source": "视频制作/LibTV-H3-v001/产物/GB006-H3-v001.mp4",
+          "source_frames": [
+            264,
+            312
+          ],
+          "timeline_frames": [
+            2174,
+            2234
+          ],
+          "speed_percent": 80
+        },
+        "keep_next_clip": "B07_GB006_03",
+        "keep_next_timeline_frames": [
+          2234,
+          2306
+        ],
+        "voice_changes": [],
+        "total_timeline_frames": 11497,
+        "source_end_convention": "exclusive"
+      },
+      "submit_started": "2026-10-28T18:18:13+0800",
+      "task_id": "2115387663516774400",
+      "local_path": "视频制作/Metaso-H3-v008/产物/GB006-v008-early-inside-2d-r1.mp4",
+      "sha256": "cf675636e2388f7f642ef58368e272e7ff718b79c91b04cff152f2240cd7d537",
+      "bytes": 5738731,
+      "review_decision": "superseded_style_rework",
+      "review_reason": "原候选保留作历史；当前v005使用真正二维重绘输入生成的v009局部。不得根据旧提示词再执行。"
+    },
+    {
+      "attempt_id": "GB014-v008-group-2d-r1",
+      "batch_number": 17,
+      "batch_id": "GB014",
+      "duration": 5,
+      "timeline_replace_frames": [
+        4778,
+        4838
+      ],
+      "use_candidate_frames": [
+        24,
+        84
+      ],
+      "references": [
+        {
+          "path": "后期/截图定点修正-v004/证据/二维基准/adjacent-B24-3s.png",
+          "role": "reference_image",
+          "sha256": "482cfeaf13d5a2d72062016055b1b460a06fbac0a537edf61a438144f3171105",
+          "purpose": "唯一画风标准：原片GPT与Kimi手绘二维线条、离散明暗色块；不引用月球场景与坐姿"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/late-B17-group-original.png",
+          "role": "reference_image",
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB014-v002.mp4",
+          "source_second": 2.5,
+          "purpose": "群像身份、服装、持物、门口环境及原片渲染基准",
+          "reviewed_evidence": "后期/截图定点修正-v004/证据/late-B17-actualsource-2fps.jpg",
+          "sha256": "d45f1f8fe42b6ffafddaf80196924b91e40bb7dc1098a86900b3db5dc320e9ac"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/late-B17-GPT-selected.wav",
+          "role": "reference_audio",
+          "seconds": 5,
+          "purpose": "作者原选工作声音；只添加静音，不变速、不换音色、不重新合成",
+          "parts": [
+            {
+              "id": "VO-CY024-01",
+              "offset_seconds": 1.3333333333333333,
+              "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024-01-工作源.wav",
+              "speaker": "GPT",
+              "zh": "护住她们。",
+              "ja": "二人を守って。"
+            }
+          ],
+          "sha256": "84da49fe41e18be1fb3c332c321694fc1adad26c37044fda0ed127bf54028c5d"
+        }
+      ],
+      "prompt": "制作标准的二维手绘日本动漫电影动画，与Image1原片的二维人物画法一致。线条刻画脸、发束、衣褶和手指；皮肤使用干净底色及边界清楚的两到三层手绘阴影，高光为设计色块。背景为绘制的动画背景。必须排除3D建模、三维CG渲染、PBR塑料或蜡皮肤、连续光滑球面渐变、游戏过场感。不能做成漫剧、静态插画推拉、单图骨骼拉扯或只动嘴的纸片人。角色由关键姿势与自然中间动作连续表演，重心转移、预备、发力、惯性余势和头发衣摆跟随清楚；嘴型仍严格跟随已选Audio1真实发声与停顿。Image1只决定二维画法，不出现月球、岩石或坐姿；Image2只决定本镜人物、服装、道具和空间，彻底重绘成Image1那种二维动画，禁止继承Image2的建模表面。\n5秒门口入场。Image2的人物和武器都保留，门已被上一镜打碎，0秒起就敞开，不能重演开门。镜头低位稍偏侧，破木为前景，白发双角GPT在前，伙伴前中后三层错开。0–1秒GPT迈入；1–3.5秒是完整可剪用的命令与警戒：她踩稳脚，侧转头确认同伴并作一个简洁护卫手势；伙伴向两翼移动半步并抬起原有武器，姿态各有差别，不整排同步走秀。Audio1从0秒播放，只有GPT在约1.333秒说二人を守って。口部与眼神随短促坚决的表演变化，其他人闭嘴。3.5–5秒停在警戒姿态并保持呼吸、发梢和衣摆余势。面部和衣料必须是清楚手绘线稿与色块，不是游戏模型。无切镜、字幕、BGM或新增台词。",
+      "mode": "reference_with_selected_audio",
+      "estimated_credits": 51.0,
+      "status": "downloaded_candidate",
+      "change_reason": "作者明确排除3D建模感，按片中多数标准2D动漫纠偏；保留已修好的声音时码和因果",
+      "acceptance": [
+        "原片身份、服装、画风连续",
+        "原选声音与发声/闭口节奏匹配",
+        "动作因果和相邻镜头空间连续",
+        "use_candidate_frames可完整覆盖目标窗口，不借变速修嘴",
+        "保留既有音轨，不采用模型另造的人声"
+      ],
+      "submit_started": "2026-10-28T18:18:17+0800",
+      "task_id": "2115387679925547008",
+      "local_path": "视频制作/Metaso-H3-v008/产物/GB014-v008-group-2d-r1.mp4",
+      "sha256": "a6b45e791ed55588a84cdd7ea1312592c73e2ba7805adb2bf0049ca0d1f8a2c2",
+      "bytes": 5140607,
+      "review_decision": "superseded_style_rework",
+      "review_reason": "原候选保留作历史；当前v005使用真正二维重绘输入生成的v009局部。不得根据旧提示词再执行。"
+    },
+    {
+      "attempt_id": "GB018-v008-gpt-rise-2d-r1",
+      "batch_number": 25,
+      "batch_id": "GB018",
+      "duration": 8,
+      "timeline_replace_frames": [
+        6476,
+        6650
+      ],
+      "use_candidate_frames": [
+        0,
+        174
+      ],
+      "references": [
+        {
+          "path": "后期/截图定点修正-v004/证据/二维基准/adjacent-B24-3s.png",
+          "role": "reference_image",
+          "sha256": "482cfeaf13d5a2d72062016055b1b460a06fbac0a537edf61a438144f3171105",
+          "purpose": "唯一画风标准：原片GPT与Kimi手绘二维线条、离散明暗色块；不引用月球场景与坐姿"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/late-B25-GPT-wing-original.png",
+          "role": "reference_image",
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB018-v002.mp4",
+          "source_second": 8.5,
+          "purpose": "GPT脸、原白色衣裙、双角、两片膜翼、原教堂和原片渲染基准",
+          "reviewed_evidence": "后期/截图定点修正-v004/证据/late-B25-actualsource-2fps.jpg",
+          "sha256": "c8aa8b964eda275a2d1a9b83e7d06e0f967a891cd61fdade51e9a9addba73665"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/late-B25-GPT-selected.wav",
+          "role": "reference_audio",
+          "seconds": 8,
+          "purpose": "作者原选工作声音；只添加静音，不变速、不换音色、不重新合成",
+          "parts": [
+            {
+              "id": "VO-CY024A-01",
+              "offset_seconds": 3.7916666666666665,
+              "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024A-01-工作源.wav",
+              "speaker": "GPT",
+              "zh": "盘踞于苍穹尽头，",
+              "ja": "蒼穹の果てに座し、"
+            }
+          ],
+          "sha256": "d01404cb8b3ebf12468fe3e915d9a2c285dca48a82b23ca031d8bd2b8eb6858c"
+        }
+      ],
+      "prompt": "制作标准的二维手绘日本动漫电影动画，与Image1原片的二维人物画法一致。线条刻画脸、发束、衣褶和手指；皮肤使用干净底色及边界清楚的两到三层手绘阴影，高光为设计色块。背景为绘制的动画背景。必须排除3D建模、三维CG渲染、PBR塑料或蜡皮肤、连续光滑球面渐变、游戏过场感。不能做成漫剧、静态插画推拉、单图骨骼拉扯或只动嘴的纸片人。角色由关键姿势与自然中间动作连续表演，重心转移、预备、发力、惯性余势和头发衣摆跟随清楚；嘴型仍严格跟随已选Audio1真实发声与停顿。Image1只决定二维画法，不出现月球、岩石或坐姿；Image2只决定本镜人物、服装、道具和空间，彻底重绘成Image1那种二维动画，禁止继承Image2的建模表面。\n8秒GPT展翼并咏唱。Image2锁定白色衣裙、双角和两片薄膜龙翼；必须手绘重绘翼骨、膜面与全身，画出来的翼膜阴影不是3D透光材质。0秒从地面脚尖承重开始，0–1.5秒屈膝一点、翼根下压、双翼有力扇下、重心向上、脚尖离地，衣摆和发束延迟跟上，地面空气波用二维速度线和少量尘点表现。1.5–3.7秒同侧机位随人轻抬至三分之四中景，避免对称正面全身摆拍和吊灯穿身。她抬眼看向穹顶，3.791667秒起只按Audio1说蒼穹の果てに座し、，实际起止随原声，不在静音提前开口。说完闭口直到8秒，只有头发/衣摆继续运动，嘴不循环。前7.25秒须完整可用。不要像3D角色展示、不要摄影机环绕模型、不要动态漫画静图平移。保持原服装/身份，教堂场景不变，不增加其他人、字幕、音乐。",
+      "mode": "reference_with_selected_audio",
+      "estimated_credits": 81.6,
+      "status": "downloaded_candidate",
+      "change_reason": "作者明确排除3D建模感，按片中多数标准2D动漫纠偏；保留已修好的声音时码和因果",
+      "acceptance": [
+        "原片身份、服装、画风连续",
+        "原选声音与发声/闭口节奏匹配",
+        "动作因果和相邻镜头空间连续",
+        "use_candidate_frames可完整覆盖目标窗口，不借变速修嘴",
+        "保留既有音轨，不采用模型另造的人声"
+      ],
+      "submit_started": "2026-10-28T18:18:20+0800",
+      "task_id": "2115387686491860992",
+      "local_path": "视频制作/Metaso-H3-v008/产物/GB018-v008-gpt-rise-2d-r1.mp4",
+      "sha256": "b9f4ff306c9e4be10ef10711d94c33ec73b1e654b2ced44d2ac0191e0f9ae767",
+      "bytes": 8921809,
+      "review_decision": "superseded_style_rework",
+      "review_reason": "原候选保留作历史；当前v005使用真正二维重绘输入生成的v009局部。不得根据旧提示词再执行。"
+    },
+    {
+      "attempt_id": "GB027-v008-stair-eyeline-2d-r1",
+      "batch_number": 37,
+      "batch_id": "GB027-to-GB028",
+      "duration": 4,
+      "mode": "reference_with_selected_audio",
+      "status": "downloaded_candidate",
+      "estimated_credits": 40.8,
+      "references": [
+        {
+          "path": "后期/截图定点修正-v004/证据/二维基准/adjacent-B24-3s.png",
+          "role": "reference_image",
+          "sha256": "482cfeaf13d5a2d72062016055b1b460a06fbac0a537edf61a438144f3171105",
+          "purpose": "唯一画风标准：原片GPT与Kimi手绘二维线条、离散明暗色块；不引用月球场景与坐姿"
+        },
+        {
+          "path": "后期/截图定点修正-v004/证据/native-stair-bridge.png",
+          "role": "reference_image",
+          "sha256": "b1338c68d868abbd69bed75177e1e0276dbf9747303918b434ca694e6c1dec9e",
+          "purpose": "只用已建立的四人身份、扶持关系、上下台阶站位；建模质感必须改为二维手绘"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/bridge-Claude问孩子.wav",
+          "role": "reference_audio",
+          "purpose": "已选Claude问孩子原声，约1.51秒后闭口",
+          "sha256": "533d3dfeb73637d2b7a7477098f8ec93920fe16aecfbce14530daa8a21478885",
+          "seconds": 4
+        }
+      ],
+      "prompt": "制作标准的二维手绘日本动漫电影动画，与Image1原片的二维人物画法一致。线条刻画脸、发束、衣褶和手指；皮肤使用干净底色及边界清楚的两到三层手绘阴影，高光为设计色块。背景为绘制的动画背景。必须排除3D建模、三维CG渲染、PBR塑料或蜡皮肤、连续光滑球面渐变、游戏过场感。不能做成漫剧、静态插画推拉、单图骨骼拉扯或只动嘴的纸片人。角色由关键姿势与自然中间动作连续表演，重心转移、预备、发力、惯性余势和头发衣摆跟随清楚；嘴型仍严格跟随已选Audio1真实发声与停顿。Image1只决定二维画法，不出现月球、岩石或坐姿；Image2只决定本镜人物、服装、道具和空间，彻底重绘成Image1那种二维动画，禁止继承Image2的建模表面。\n4秒连续二维动漫过肩空间镜。Image2的构图关系保持：阶上近前景橙发Claude已经解锁，白发有翼GPT在她侧后扶住上臂；四级以上台阶下，紫发千问抱着蓝鲸帽小鱼。四个人各一，不增人物，衣裙原样，Claude焦边保留。角色的脸、头发、布料都像Image1一样由线条与色块绘制，不能用光滑三维模型。Claude先由撑住身体到轻轻转头低望孩子，GPT的手随其重心小幅调整支撑；千问抬眼，小鱼攥衣襟后把目光抬向阶上，表演先后有因果，不让四个人机械同时动。Audio1从0秒是Claude原有あの子は……，只有她发声；约1.51秒后闭口停住，GPT与另外两人全程不串嘴。摄影机固定过肩，不能只推拉一张插画当动画。前3.4167秒完整可用，最后保留动作余势。背景台阶是二维绘景，外形与高低不变；不发明光效、人物瞬移、字幕或BGM。",
+      "acceptance": [
+        "上下台阶距离清楚",
+        "Claude已解锁且被GPT扶持",
+        "千问怀抱小鱼身份准确",
+        "可剪前82帧，不重复旧小鱼反应"
+      ],
+      "change_reason": "作者明确排除3D建模感，按片中多数标准2D动漫纠偏；保留已修好的声音时码和因果",
+      "submit_started": "2026-10-28T18:18:24+0800",
+      "task_id": "2115387706563178496",
+      "local_path": "视频制作/Metaso-H3-v008/产物/GB027-v008-stair-eyeline-2d-r1.mp4",
+      "sha256": "2f7ddb77b7fa26a7842c0665f7253b1625ee8ae0cc3105e880f27635b6eee71c",
+      "bytes": 3079000,
+      "review_decision": "superseded_style_rework",
+      "review_reason": "原候选保留作历史；当前v005使用真正二维重绘输入生成的v009局部。不得根据旧提示词再执行。"
+    }
+  ]
+}

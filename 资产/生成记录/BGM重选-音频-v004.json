@@ -1,0 +1,327 @@
+{
+  "version": "v004",
+  "date": "2026-10-24",
+  "music": [
+    {
+      "id": "BGM-CY-TS-19",
+      "bvid": "BV1dV411Y7Ku",
+      "part": 19,
+      "title": "Blackheart",
+      "display_title": "黑心",
+      "work": "Two Steps From Hell",
+      "composer": "Two Steps From Hell",
+      "source_page_title": "Blackheart",
+      "navigation_translation": "中文名为导航释义，原名保留。",
+      "cid": 312510908,
+      "source": "https://www.bilibili.com/video/BV1dV411Y7Ku/?p=19",
+      "uploader": "xtrikil",
+      "video_title": "【史诗音乐】两步逃离地狱Two Step From Hell选集 1",
+      "path": "资产/声音/BGM/重选-v004/BGM-CY-TS-19.m4a",
+      "bytes": 4343207,
+      "sha256": "ec258a7a47e17a8a4a1fc3853cec4998a960d6c87edd96ea3e9ead2121ef30fa",
+      "duration": 268.09737,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "129007"
+          }
+        ],
+        "format": {
+          "duration": "268.097370"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-TS-01",
+      "bvid": "BV1dV411Y7Ku",
+      "part": 1,
+      "title": "Heart of Courage",
+      "display_title": "勇气之心",
+      "work": "Two Steps From Hell",
+      "composer": "Two Steps From Hell",
+      "source_page_title": "Heart of Courage",
+      "navigation_translation": "中文名为导航释义，原名保留。",
+      "cid": 312509970,
+      "source": "https://www.bilibili.com/video/BV1dV411Y7Ku/?p=1",
+      "uploader": "xtrikil",
+      "video_title": "【史诗音乐】两步逃离地狱Two Step From Hell选集 1",
+      "path": "资产/声音/BGM/重选-v004/BGM-CY-TS-01.m4a",
+      "bytes": 994453,
+      "sha256": "f3eb89235002f9d0060f6ab9721d7cc2c51c8b2c2b51c7431cadee76ff51188c",
+      "duration": 118.328662,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "67116"
+          }
+        ],
+        "format": {
+          "duration": "118.328662"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-TS-07",
+      "bvid": "BV1dV411Y7Ku",
+      "part": 7,
+      "title": "Archangel",
+      "display_title": "大天使",
+      "work": "Two Steps From Hell",
+      "composer": "Two Steps From Hell",
+      "source_page_title": "Archangel",
+      "navigation_translation": "中文名为导航释义，原名保留。",
+      "cid": 312510437,
+      "source": "https://www.bilibili.com/video/BV1dV411Y7Ku/?p=7",
+      "uploader": "xtrikil",
+      "video_title": "【史诗音乐】两步逃离地狱Two Step From Hell选集 1",
+      "path": "资产/声音/BGM/重选-v004/BGM-CY-TS-07.m4a",
+      "bytes": 2534406,
+      "sha256": "274d64993d93f8e3621dcf4a4fe30ec8802e2715b1c871362f2fe8d74e56d58e",
+      "duration": 156.386168,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "128959"
+          }
+        ],
+        "format": {
+          "duration": "156.386168"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-TS-05",
+      "bvid": "BV1dV411Y7Ku",
+      "part": 5,
+      "title": "Black Blade",
+      "display_title": "黑刃",
+      "work": "Two Steps From Hell",
+      "composer": "Two Steps From Hell",
+      "source_page_title": "Black Blade",
+      "navigation_translation": "中文名为导航释义，原名保留。",
+      "cid": 312510879,
+      "source": "https://www.bilibili.com/video/BV1dV411Y7Ku/?p=5",
+      "uploader": "xtrikil",
+      "video_title": "【史诗音乐】两步逃离地狱Two Step From Hell选集 1",
+      "path": "资产/声音/BGM/重选-v004/BGM-CY-TS-05.m4a",
+      "bytes": 1562640,
+      "sha256": "612332a1b6fb110614f8d6c0b1be3ca391352a8a9ed42e77fa77f8f664b958ee",
+      "duration": 186.08449,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "66977"
+          }
+        ],
+        "format": {
+          "duration": "186.084490"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-KH-09",
+      "bvid": "BV1jm4y1Z7Rb",
+      "part": 9,
+      "title": "The King",
+      "display_title": "国王",
+      "work": "天国王朝",
+      "composer": "Harry Gregson-Williams",
+      "source_page_title": "The King",
+      "navigation_translation": "中文名为导航释义，原名保留。",
+      "cid": 504349001,
+      "source": "https://www.bilibili.com/video/BV1jm4y1Z7Rb/?p=9",
+      "uploader": "xtrikil",
+      "video_title": "【电影音乐】天国王朝 - 原声合集",
+      "path": "资产/声音/BGM/重选-v004/BGM-CY-KH-09.m4a",
+      "bytes": 5711473,
+      "sha256": "5305d8091c95ff4122d102dffa005219fc50b61e2fc9fe43c6b0043468d94f93",
+      "duration": 344.0645,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bit_rate": "131957"
+          }
+        ],
+        "format": {
+          "duration": "344.064500"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-KH-05",
+      "bvid": "BV1jm4y1Z7Rb",
+      "part": 5,
+      "title": "To Jerusalem",
+      "display_title": "前往耶路撒冷",
+      "work": "天国王朝",
+      "composer": "Harry Gregson-Williams",
+      "source_page_title": "To Jerusalem",
+      "navigation_translation": "中文名为导航释义，原名保留。",
+      "cid": 504346785,
+      "source": "https://www.bilibili.com/video/BV1jm4y1Z7Rb/?p=5",
+      "uploader": "xtrikil",
+      "video_title": "【电影音乐】天国王朝 - 原声合集",
+      "path": "资产/声音/BGM/重选-v004/BGM-CY-KH-05.m4a",
+      "bytes": 1599656,
+      "sha256": "f0127de39de56e0557b030fa70344f99f96edda61040240e3eacb1d2b703fe5d",
+      "duration": 96.277833,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bit_rate": "131956"
+          }
+        ],
+        "format": {
+          "duration": "96.277833"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-KH-15",
+      "bvid": "BV1jm4y1Z7Rb",
+      "part": 15,
+      "title": "Wall Breached",
+      "display_title": "城墙失守",
+      "work": "天国王朝",
+      "composer": "Harry Gregson-Williams",
+      "source_page_title": "Wall Breached",
+      "navigation_translation": "中文名为导航释义，原名保留。",
+      "cid": 504349693,
+      "source": "https://www.bilibili.com/video/BV1jm4y1Z7Rb/?p=15",
+      "uploader": "xtrikil",
+      "video_title": "【电影音乐】天国王朝 - 原声合集",
+      "path": "资产/声音/BGM/重选-v004/BGM-CY-KH-15.m4a",
+      "bytes": 3694298,
+      "sha256": "b0261eacc6b4c3a4c31e1b5701e235b253a5df42e32b03e2ec4118305ddfa441",
+      "duration": 222.507167,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bit_rate": "131459"
+          }
+        ],
+        "format": {
+          "duration": "222.507167"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-AU-01",
+      "bvid": "BV1ytcpzxEDe",
+      "part": 1,
+      "title": "Breath and Life",
+      "display_title": "呼吸与生命",
+      "work": "Audiomachine",
+      "composer": "Audiomachine",
+      "source_page_title": "纯音乐【Breath and Life 】“一首听见生命脉动的史诗旋律”",
+      "navigation_translation": "中文名为导航释义，原名保留。",
+      "cid": 36052009055,
+      "source": "https://www.bilibili.com/video/BV1ytcpzxEDe/?p=1",
+      "uploader": "吾问落月",
+      "video_title": "纯音乐【Breath and Life 】“一首听见生命脉动的史诗旋律”",
+      "path": "资产/声音/BGM/重选-v004/BGM-CY-AU-01.m4a",
+      "bytes": 1856455,
+      "sha256": "f91957c1e20c61b09c3a17e9e5a164a4ca46d088eb3eccd1be11f61556036d80",
+      "duration": 108.202333,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bit_rate": "145970"
+          }
+        ],
+        "format": {
+          "duration": "108.202333"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    }
+  ],
+  "listening_status": "Technical decoding validated; shot assignments are audition hypotheses for author comparison."
+}

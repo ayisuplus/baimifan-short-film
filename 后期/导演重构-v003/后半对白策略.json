@@ -1,0 +1,230 @@
+{
+  "scope": "第33–44批全部登记对白窗口；没有对白的33/35/36/42/44不强造口型问题。",
+  "method": "根据当前实际snapshot声画时码，按v002计划源范围抽14组8fps联系表；37/39/43另查看原尺寸帧与嘴部细节。没有播放合成音频/没有听审/没有穷举日语音素。",
+  "current_timeline_seconds": 466.7916666666667,
+  "mandatory_regenerate_count": 0,
+  "mandatory_regenerate": [],
+  "conclusion": "本轮未证实任何必须付费重拍的说话人冲突；两项明确可后期修：B34音频后移与B37闭口正脸改闭口听者反应。其余逐句区分合理画外音与待听审，不把嘴不在画里当错误。",
+  "conditional_pickup_if_author_requires_speaker_face": [
+    {
+      "batch": 37,
+      "shot": "CY028A Claude那孩子半句",
+      "effective_seconds": 2.0,
+      "trigger": "若作者坚持该句必须见Claude正脸，不接受小鱼反应插入，则只补说话侧脸约2秒；不用再生成扶下6.2秒。",
+      "prompt_intent": "Claude仍由GPT扶稳，疲惫但轻微抬眼，轻说あの子は……，黑结头纱焦边连续，单一脸部动作，不走动。"
+    }
+  ],
+  "cues": [
+    {
+      "batch_number": 34,
+      "cue_id": "VO-CY027A-01",
+      "speaker": "教主／Claude的父亲",
+      "ja": "不干渉条約を破ったな。",
+      "current_start": 343.25,
+      "current_end": 346.03999999999996,
+      "decision": "keep",
+      "finding": "父亲是前景GPT肩后的说话人；实际可见父亲张口变化，没有另一角色代说。",
+      "evidence": "B34_father.jpg"
+    },
+    {
+      "batch_number": 34,
+      "cue_id": "VO-CY027B-01",
+      "speaker": "GPT",
+      "ja": "うるさい。",
+      "current_start": 348.25,
+      "current_end": 349.18,
+      "decision": "post",
+      "finding": "GPT近景开始约0.6秒主要闭口，源5.625附近才开始说；录音登记5.083批内起。建议仅原音频后移13帧，对齐开口，保持完整0.93秒原速。",
+      "evidence": "B34_GPT.jpg"
+    },
+    {
+      "batch_number": 37,
+      "cue_id": "VO-CY028A-01",
+      "speaker": "GPT",
+      "ja": "ゆっくりでいい。",
+      "current_start": 389.1666666666667,
+      "current_end": 390.74666666666667,
+      "decision": "vo_or_wide",
+      "finding": "扶下全景GPT在右边扶持，脸小、向下；不能确认音素但身份正确，可作为动作画面上的同场声音，不据无近口型强制补拍。",
+      "evidence": "B37_GPT.jpg"
+    },
+    {
+      "batch_number": 37,
+      "cue_id": "VO-CY028A-02",
+      "speaker": "Claude",
+      "ja": "あの子は……",
+      "current_start": 391.875,
+      "current_end": 393.385,
+      "decision": "post",
+      "finding": "Claude原尺寸脸在源2.8–4.2基本闭口，与其1.51秒台词不宜硬留正脸。仅换小鱼闭口反应1.51秒让Claude画外说，保已成功扶下动作。",
+      "evidence": "mouth-detail.jpg"
+    },
+    {
+      "batch_number": 38,
+      "cue_id": "VO-CY028A2-01",
+      "speaker": "GPT",
+      "ja": "無事よ。下で待ってる。",
+      "current_start": 395.2916666666667,
+      "current_end": 399.3616666666667,
+      "decision": "vo",
+      "finding": "GPT回应小鱼安全，画面为千问怀中小鱼反应，双方均未明显代说。合理画外回答，不应为了见口型改成千问说话。",
+      "evidence": "B38_GPT.jpg"
+    },
+    {
+      "batch_number": 38,
+      "cue_id": "VO-CY028B-01",
+      "speaker": "Claude",
+      "ja": "灰の中に眠る",
+      "current_start": 399.4583333333333,
+      "current_end": 401.30833333333334,
+      "decision": "vo",
+      "finding": "Claude手部特写承咏唱，人物面部不在画，无口型冲突。",
+      "evidence": "B38_hands.jpg"
+    },
+    {
+      "batch_number": 38,
+      "cue_id": "VO-CY028C-01",
+      "speaker": "Claude",
+      "ja": "かすかな光よ、",
+      "current_start": 401.7916666666667,
+      "current_end": 403.5116666666667,
+      "decision": "vo",
+      "finding": "手部微光继续承Claude咏唱，无口型冲突。",
+      "evidence": "B38_hands.jpg"
+    },
+    {
+      "batch_number": 38,
+      "cue_id": "VO-CY029-01",
+      "speaker": "教主／Claude的父亲",
+      "ja": "クロード……来なさい。",
+      "current_start": 403.8333333333333,
+      "current_end": 406.93333333333334,
+      "decision": "post_optional",
+      "finding": "父亲原片12.54–14.208有说话张合；后接GB029源2.75–4.18主要闭口听候。后半若听感像仍在说而嘴不动，可切Claude手部反应/重新对齐父亲段，非另一人抢词；不必整镜重生。",
+      "evidence": "B38_fatherA.jpg"
+    },
+    {
+      "batch_number": 39,
+      "cue_id": "VO-CY029E1-01",
+      "speaker": "Claude",
+      "ja": "我が呼び声に応えよ。",
+      "current_start": 408.1666666666667,
+      "current_end": 410.53664166666664,
+      "decision": "keep_pending_audition",
+      "finding": "Claude同人近景，原尺寸嘴微张且随抬头略变；不是全程明显闭唇，也没有别角代说。尚不足确认日语口型，不能把静微表演自动算必须重拍。",
+      "evidence": "mouth-detail.jpg"
+    },
+    {
+      "batch_number": 39,
+      "cue_id": "VO-CY029E2-01",
+      "speaker": "Claude",
+      "ja": "まだ消えぬ温もりをたどり、",
+      "current_start": 410.875,
+      "current_end": 413.51500000000004,
+      "decision": "vo",
+      "finding": "当前计划已用GB029源5.458333–8.458333手部拉到5.75秒；Claude声音画外，原父亲反应已移出本段，旧版父亲代说风险不能沿用。",
+      "evidence": "当前后期执行计划B39_GB029_02"
+    },
+    {
+      "batch_number": 39,
+      "cue_id": "VO-CY029E3-01",
+      "speaker": "Claude",
+      "ja": "この手のひらで、",
+      "current_start": 413.625,
+      "current_end": 415.355,
+      "decision": "vo",
+      "finding": "仍在同一手部火星段，声音属Claude合理；不需人物脸镜。",
+      "evidence": "当前后期执行计划B39_GB029_02"
+    },
+    {
+      "batch_number": 39,
+      "cue_id": "VO-CY029E4-01",
+      "speaker": "Claude",
+      "ja": "もう一度、燃えよ——",
+      "current_start": 416.625,
+      "current_end": 419.23499999999996,
+      "decision": "vo",
+      "finding": "小鱼看向画外，嘴保持闭合，Claude咏唱覆听者反应成立。",
+      "evidence": "B39_child.jpg"
+    },
+    {
+      "batch_number": 40,
+      "cue_id": "VO-CY029B1-01",
+      "speaker": "Claude",
+      "ja": "せいか。",
+      "current_start": 419.75,
+      "current_end": 420.74,
+      "decision": "vo",
+      "finding": "星火术名配Claude右指小火种，合法细部画外音，无可见错口型。",
+      "evidence": "B40_spell.jpg"
+    },
+    {
+      "batch_number": 41,
+      "cue_id": "VO-CY028-01",
+      "speaker": "GPT",
+      "ja": "行こう。",
+      "current_start": 433.9166666666667,
+      "current_end": 434.7966666666667,
+      "decision": "vo",
+      "finding": "起抱期间脸离画，GPT我们走配托抱动作能成立；这是构图取舍，不是说话角色错。可补回后续露脸作为可选美学优化，非必须。",
+      "evidence": "B41_GPT.jpg"
+    },
+    {
+      "batch_number": 43,
+      "cue_id": "VO-CY031A-01",
+      "speaker": "小鱼",
+      "ja": "少し食べる？",
+      "current_start": 448.125,
+      "current_end": 449.905,
+      "decision": "keep_pending_audition",
+      "finding": "小鱼向Claude递勺，源1.0–1.5张口、约1.75后闭口；身份与动作正确。须以实际语音有效发声段核前后留白，未听不能据整文件1.78秒判必重拍。",
+      "evidence": "mouth-detail.jpg"
+    },
+    {
+      "batch_number": 43,
+      "cue_id": "VO-CY031A-02",
+      "speaker": "Claude",
+      "ja": "うん。",
+      "current_start": 450.2083333333333,
+      "current_end": 450.9083333333333,
+      "decision": "keep_pending_audition",
+      "finding": "Claude侧头笑着回应うん，表情和本人一致，短肯定句可用；未验音素。",
+      "evidence": "mouth-detail.jpg"
+    }
+  ],
+  "executable_post_repairs": [
+    {
+      "batch": 34,
+      "type": "audio_offset_only",
+      "cue": "VO-CY027B-01",
+      "current_start": 348.25,
+      "proposed_start": 348.791667,
+      "proposed_end": 349.721667,
+      "offset_frames": 13,
+      "audio_rate": 1,
+      "picture_source": "视频制作/Metaso-H3-v002/剪辑候选/GB024-v002.mp4",
+      "picture_source_in": 4.916667,
+      "picture_source_out": 6.916667,
+      "picture_action": "保留近景；无需为了对口型改图像速度",
+      "limit": "可见开口区间对齐建议，不是音素听审。若源录音起首有静音，按有效起声再微调。"
+    },
+    {
+      "batch": 37,
+      "type": "picture_insert_reaction",
+      "current_start": 391.875,
+      "current_end": 393.385,
+      "replace_source": "视频制作/Metaso-H3-v004/产物/GB027-v004-CY028A-r1.mp4",
+      "replace_source_in": 2.791667,
+      "replace_source_out": 4.301667,
+      "source": "视频制作/Metaso-H3-v002/剪辑候选/GB028-v002.mp4",
+      "in": 0.625,
+      "out": 2.135,
+      "duration": 1.51,
+      "audio_action": "保Claude原句与原时码，声音画外；不改为小鱼声",
+      "picture_action": "仅这1.51秒插小鱼在千问怀中闭口倾听；前后扶下动作原样保留。",
+      "limit": "已实看0.625–2.135小鱼闭口，非开口代说。下一批也是此场反应，避免重复同样睁眼瞬间；可从后段闭口取替代，勿再次整批生成。"
+    }
+  ],
+  "evidence_root": "后期/导演重构-v003/证据/后半对白",
+  "bounds": "只写新审查与取证图片；不联网、不调用达芬奇、不生成、不导出成片。"
+}

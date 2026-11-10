@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CY009A",
+    "take": 1,
+    "destination": "镜头设计/图像/空间因果-v011/CY009A-v011.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-d450f2aa-12c4-4cdc-9a48-3b2f6dcd6e88.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY009A-请求-v001.json",
+    "sha256": "88bc3cd4c58198aecb8b955ed4b703e0898eff809e5b038602c5ed0b48861fe4",
+    "status": "superseded-preserved"
+  },
+  {
+    "id": "CY010A",
+    "take": 1,
+    "destination": "镜头设计/图像/空间因果-v011/CY010A-v011.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-35fb564f-fe09-459b-bda3-c656f1e8e139.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY010A-请求-v001.json",
+    "sha256": "4cd689d286a631f4b9c05b477ef32859da6e68d01e3f5fe74b63c711e55e5d2a",
+    "status": "candidate"
+  },
+  {
+    "id": "CY011",
+    "take": 1,
+    "destination": "镜头设计/图像/空间因果-v011/CY011-v011.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-63250c10-fc4a-4de6-a32b-53d359ff7b87.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY011-请求-v001.json",
+    "sha256": "08e2620b9f439e54e6b0d370b2f6afd387f172fdf97a1c53ae83672e4031c358",
+    "status": "candidate"
+  },
+  {
+    "id": "CY009A",
+    "take": 2,
+    "destination": "镜头设计/图像/空间因果-v011/CY009A-v011-r2.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-e7468bc2-4c67-488c-9bb0-6197e3fc7374.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY009A-请求-v002.json",
+    "sha256": "9072efae6af052158fe3415382904d231c26c4a04aeeea172bda90653fb20a61",
+    "status": "candidate"
+  },
+  {
+    "id": "CY011A",
+    "take": 1,
+    "destination": "镜头设计/图像/空间因果-v011/CY011A-v011.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-b5af394c-4a27-4a10-a12a-cba4d60576f0.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY011A-请求-v001.json",
+    "sha256": "23e64f267b7757bff47657f0777a27ec8a96abfad2ba7680c5c139ca9b4edf1b",
+    "status": "candidate"
+  },
+  {
+    "id": "CY016D",
+    "take": 1,
+    "destination": "镜头设计/图像/空间因果-v011/CY016D-v011.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-355f5777-5f0f-4672-aa6c-48c606fc5ef7.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY016D-请求-v001.json",
+    "sha256": "d2dd9a70c90b74762319b5490a3ad838e51ff91f8832462e71b212483fd71fab",
+    "status": "superseded-preserved"
+  },
+  {
+    "id": "CY017",
+    "take": 1,
+    "destination": "镜头设计/图像/空间因果-v011/CY017-v011.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-7056030b-a51c-477e-b38b-9a8456e55c1a.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY017-请求-v001.json",
+    "sha256": "c8a66400dc1b37c927b7750f7680d7f18dad5faa29d718d7fa836b85182ea9ce",
+    "status": "candidate"
+  },
+  {
+    "id": "CY018",
+    "take": 1,
+    "destination": "镜头设计/图像/空间因果-v011/CY018-v011.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-04c38bab-7ddb-40b3-ac31-1aa8e61731f0.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY018-请求-v001.json",
+    "sha256": "ef67ae84e4932f8afdc5c330d2e13b00efeca70026926d60ae44a304a3b892b0",
+    "status": "candidate"
+  },
+  {
+    "id": "CY020B",
+    "take": 1,
+    "destination": "镜头设计/图像/空间因果-v011/CY020B-v011.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-1c6c5be8-b748-4f9d-b5d3-c6911e70a02f.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY020B-请求-v001.json",
+    "sha256": "9c24657191259ec210be072c90979620f9dc1ca94224901df4a9d7f8179b89fe",
+    "status": "candidate"
+  },
+  {
+    "id": "CY024B",
+    "take": 1,
+    "destination": "镜头设计/图像/空间因果-v011/CY024B-v011.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-906d0644-ba5f-41ac-97c7-bfe407c5ebcf.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY024B-请求-v001.json",
+    "sha256": "d3791d50317ac223537d6ec47d785ea2954a81bb1a34fa9cfb5eccffdb71673c",
+    "status": "superseded-preserved"
+  },
+  {
+    "id": "CY012",
+    "take": 1,
+    "destination": "镜头设计/图像/空间因果-v011/CY012-v011.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-4e280007-6130-40e6-93b7-359539c8c6b5.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY012-请求-v001.json",
+    "sha256": "3e06afc58406467b847f000d3bacc86c809d522e15f4f03772d1b6507b75edde",
+    "status": "candidate"
+  },
+  {
+    "id": "CY019",
+    "take": 1,
+    "destination": "镜头设计/图像/空间因果-v011/CY019-v011.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-317e2cf6-011d-491f-be58-00b91d06ffbe.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY019-请求-v001.json",
+    "sha256": "ae6e83accfd3dc0caa70f080af8018ab852305bd08786b81ee6e8fddf321ce96",
+    "status": "candidate"
+  },
+  {
+    "id": "CY020A",
+    "take": 1,
+    "destination": "镜头设计/图像/空间因果-v011/CY020A-v011.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-bf9ce6f7-5daf-48e7-bf86-b91aa0c68a9b.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY020A-请求-v001.json",
+    "sha256": "b12bb4d5ac496ec6c8c7cd795fb5940448b6ce0f4e54c1bf762a7359dcbde4fd",
+    "status": "candidate"
+  },
+  {
+    "id": "CY022A",
+    "take": 1,
+    "destination": "镜头设计/图像/空间因果-v011/CY022A-v011.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-b257d745-3427-4319-a378-70cc2ef69ec2.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY022A-请求-v001.json",
+    "sha256": "0bc6b40559824da90f89f945c7eeb52697efbdc216b3d079bde862ded3523fa2",
+    "status": "candidate"
+  },
+  {
+    "id": "CY016D",
+    "take": 2,
+    "destination": "镜头设计/图像/空间因果-v011/CY016D-v011-r2.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-80f77474-2806-451f-ab27-13027bfe71f1.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY016D-请求-v002.json",
+    "sha256": "cf923741b71dd9f1ecd954a6adf99135439531518dfcc77ff086a1a004e44747",
+    "status": "candidate"
+  },
+  {
+    "id": "CY024B",
+    "take": 2,
+    "destination": "镜头设计/图像/空间因果-v011/CY024B-v011-r2.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-7e9802de-f962-4394-b54f-d117b818f7bc.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY024B-请求-v002.json",
+    "sha256": "35b4429d37695d0a25d352c53f11c1124686975497fe4a10ec1241048ec5229b",
+    "status": "superseded-preserved"
+  },
+  {
+    "id": "CY024B",
+    "take": 3,
+    "destination": "镜头设计/图像/空间因果-v011/CY024B-v011-r3.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-719d7dff-a048-4f9e-850d-d2f39fd4aebd.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY024B-请求-v003.json",
+    "sha256": "fa35e23ea9b5e0ac4828f7ff2699f90e14e150ff75c0c160312dcfc2b9ecc110",
+    "status": "candidate"
+  },
+  {
+    "id": "CY027",
+    "take": 1,
+    "destination": "镜头设计/图像/空间因果-v011/CY027-v011.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-986f4568-5a69-4fe3-bdf3-99e2baf2bb44.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY027-请求-v001.json",
+    "sha256": "f6b94aa3ac1c69c236ae83a02d0ac2ea403a92f5158710522c24b33919e8d735",
+    "status": "superseded-preserved"
+  },
+  {
+    "id": "CY027D",
+    "take": 1,
+    "destination": "镜头设计/图像/空间因果-v011/CY027D-v011.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-51143383-036a-4de9-a7f1-31e79d196d3d.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY027D-请求-v001.json",
+    "sha256": "bffeb82ce7ad7223b7db352560cd4dfb3e70c4190bf4d2aee26329fa84913628",
+    "status": "superseded-preserved"
+  },
+  {
+    "id": "CY027",
+    "take": 2,
+    "destination": "镜头设计/图像/空间因果-v011/CY027-v011-r2.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-a90d5e06-6dc1-4c81-99f2-14dbdac617b6.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY027-请求-v002.json",
+    "sha256": "c61285a3d0ca77089e4831608fc26f293855a390a814efe95f7daa5043b1bd2d",
+    "status": "superseded-preserved"
+  },
+  {
+    "id": "CY027A",
+    "take": 1,
+    "destination": "镜头设计/图像/空间因果-v011/CY027A-v011.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-9bbee547-a16f-4941-85d6-be9acfcc6ede.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY027A-请求-v001.json",
+    "sha256": "177bea6125ed2452e2560dd21e56fa9795277b093c9626ed367cb24206ac3167",
+    "status": "candidate"
+  },
+  {
+    "id": "CY027D",
+    "take": 2,
+    "destination": "镜头设计/图像/空间因果-v011/CY027D-v011-r2.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-2915b3e5-8831-4dd9-b6fe-74bfedcacad5.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY027D-请求-v002.json",
+    "sha256": "2dae81517346e0573e8cc77021311a618b6c7a1c423db65083bb060a727c9522",
+    "status": "superseded-preserved"
+  },
+  {
+    "id": "CY027",
+    "take": 3,
+    "destination": "镜头设计/图像/空间因果-v011/CY027-v011-r3.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-25e4a1b6-27c1-4daf-9f64-4246aeba7230.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY027-请求-v003.json",
+    "sha256": "5f3bbd1b5a464abc06a1c9a1593661af91e9c0159456f35bcb4864beebf4a1d5",
+    "status": "candidate"
+  },
+  {
+    "id": "CY027D",
+    "take": 3,
+    "destination": "镜头设计/图像/空间因果-v011/CY027D-v011-r3.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-4352d018-4c83-421d-8bbf-5bc8230473c8.png",
+    "request": "镜头设计/生成记录/空间因果-v011/CY027D-请求-v003.json",
+    "sha256": "155c59a4a36b989534eb01141a0a836839e0382c917194df203f4d5e64c1f222",
+    "status": "candidate"
+  }
+]

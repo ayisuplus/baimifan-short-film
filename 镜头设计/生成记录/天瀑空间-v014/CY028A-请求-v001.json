@@ -1,0 +1,13 @@
+{
+  "id": "CY028A",
+  "take": 1,
+  "destination": "镜头设计/图像/天瀑空间-v014/CY028A-v014-r1.png",
+  "request": "镜头设计/生成记录/天瀑空间-v014/CY028A-请求-v001.json",
+  "input": {
+    "prompt": "编辑图1。保持Claude赤足落在顶部平平台、GPT扶稳她的姿态、湿头纱和左鬓橙花。删除所有背景烛台及灯火；冷月光照明，不能新增台阶。 保持细腻哥特异世界动漫电影画风与原画幅，单幅无文字。",
+    "referenced_image_paths": [
+      "E:/projects/内容创作/穿云/镜头设计/图像/头纱连续-v013/CY028A-v013.png"
+    ],
+    "transparent_background": false
+  }
+}

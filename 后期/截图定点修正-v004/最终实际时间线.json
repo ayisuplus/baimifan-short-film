@@ -1,0 +1,2242 @@
+{
+  "result": {
+    "timeline": "v004_Screenshot_Targeted_Fixes",
+    "frames": 11497,
+    "video": [
+      {
+        "name": "B01_GB001_01",
+        "start": 0,
+        "end": 360,
+        "source_in": 0,
+        "source_out": 360,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB001-H3-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B02_GB002_01",
+        "start": 360,
+        "end": 472,
+        "source_in": 0,
+        "source_out": 112,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB002-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B02_GB002_02",
+        "start": 472,
+        "end": 502,
+        "source_in": 112,
+        "source_out": 156,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB002-H3-v001.mp4",
+        "speed": {
+          "Percentage": 146.66666666666666
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B02_GB002_03",
+        "start": 502,
+        "end": 682,
+        "source_in": 156,
+        "source_out": 336,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB002-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B03_GB003_01",
+        "start": 682,
+        "end": 946,
+        "source_in": 0,
+        "source_out": 264,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB003-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B04_GB004_01",
+        "start": 946,
+        "end": 1070,
+        "source_in": 0,
+        "source_out": 124,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB004-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B04_GB004_02",
+        "start": 1070,
+        "end": 1097,
+        "source_in": 71,
+        "source_out": 89,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB004-H3-v001.mp4",
+        "speed": {
+          "Percentage": 66.66666666666666
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B04_GB004_03",
+        "start": 1097,
+        "end": 1180,
+        "source_in": 151,
+        "source_out": 234,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB004-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B04_GB004_04",
+        "start": 1180,
+        "end": 1198,
+        "source_in": 252,
+        "source_out": 270,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB004-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B04_GB004_05",
+        "start": 1198,
+        "end": 1282,
+        "source_in": 270,
+        "source_out": 335,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB004-H3-v001.mp4",
+        "speed": {
+          "Percentage": 78.57142857142857
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B05_v004_1282_01",
+        "start": 1282,
+        "end": 1378,
+        "source_in": 0,
+        "source_out": 96,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB004M-v007-early-devil-audio-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B05_v004_1378_01",
+        "start": 1378,
+        "end": 1640,
+        "source_in": 0,
+        "source_out": 262,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB004M-v007-early-angel-audio-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B06_v004_1640_01",
+        "start": 1640,
+        "end": 1694,
+        "source_in": 0,
+        "source_out": 54,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB005-v007-early-decision-audio-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B06_v004_1640_02",
+        "start": 1694,
+        "end": 1760,
+        "source_in": 54,
+        "source_out": 120,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB005-v003.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B06_GB005_01_v004_keep",
+        "start": 1760,
+        "end": 1832,
+        "source_in": 120,
+        "source_out": 192,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB005-v003.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B06_GB005_02",
+        "start": 1832,
+        "end": 1910,
+        "source_in": 192,
+        "source_out": 270,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB005-v003.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B07_GB006_01",
+        "start": 1910,
+        "end": 2036,
+        "source_in": 0,
+        "source_out": 126,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB006-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B07_GB006_02",
+        "start": 2036,
+        "end": 2126,
+        "source_in": 150,
+        "source_out": 240,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB006-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B07_v004_2126_01",
+        "start": 2126,
+        "end": 2174,
+        "source_in": 24,
+        "source_out": 72,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB006-v007-early-inside-bridge-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B07_v004_2126_02",
+        "start": 2174,
+        "end": 2234,
+        "source_in": 264,
+        "source_out": 312,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB006-H3-v001.mp4",
+        "speed": {
+          "Percentage": 80
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B07_GB006_03",
+        "start": 2234,
+        "end": 2306,
+        "source_in": 12,
+        "source_out": 84,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v005\\产物\\GB006-v005-CY012-r3.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B08_GB007_01",
+        "start": 2306,
+        "end": 2426,
+        "source_in": 0,
+        "source_out": 120,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB007-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B08_GB007_02",
+        "start": 2426,
+        "end": 2474,
+        "source_in": 134,
+        "source_out": 182,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB007-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B08_GB007_03",
+        "start": 2474,
+        "end": 2522,
+        "source_in": 182,
+        "source_out": 230,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB007-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 2.25,
+          "ZoomY": 2.25,
+          "Pan": -513,
+          "Tilt": 461.25
+        }
+      },
+      {
+        "name": "B08_GB007_04",
+        "start": 2522,
+        "end": 2611,
+        "source_in": 240,
+        "source_out": 330,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB007-v002.mp4",
+        "speed": {
+          "Percentage": 102.24719101123596
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B09_GB008_01",
+        "start": 2611,
+        "end": 2767,
+        "source_in": 0,
+        "source_out": 156,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB008-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B09_GB008_02",
+        "start": 2767,
+        "end": 2824,
+        "source_in": 192,
+        "source_out": 249,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB008-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1.12,
+          "ZoomY": 1.12,
+          "Pan": 0,
+          "Tilt": -30
+        }
+      },
+      {
+        "name": "B09_GB008_03",
+        "start": 2824,
+        "end": 2908,
+        "source_in": 249,
+        "source_out": 297,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB008-H3-v001.mp4",
+        "speed": {
+          "Percentage": 57.14285714285714
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B09_GB008_04",
+        "start": 2908,
+        "end": 2947,
+        "source_in": 297,
+        "source_out": 336,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB008-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B10_GB008R2_01",
+        "start": 2947,
+        "end": 3043,
+        "source_in": 0,
+        "source_out": 96,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB008R2-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B10_v003_child_decision_01",
+        "start": 3043,
+        "end": 3103,
+        "source_in": 6,
+        "source_out": 66,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v006\\产物\\GB008R2-v006-CY016C-decision-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B10_GB008R2_02",
+        "start": 3103,
+        "end": 3175,
+        "source_in": 12,
+        "source_out": 84,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v005\\产物\\GB008R2-v005-CY016D-transition-r3.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B11_v003_acolyte_force_01",
+        "start": 3175,
+        "end": 3199,
+        "source_in": 12,
+        "source_out": 36,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v006\\产物\\GB009-v006-CY016D-force-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B11_v003_acolyte_force_02",
+        "start": 3199,
+        "end": 3289,
+        "source_in": 48,
+        "source_out": 138,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v006\\产物\\GB009-v006-CY016D-force-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B11_GB009_02",
+        "start": 3289,
+        "end": 3334,
+        "source_in": 171,
+        "source_out": 216,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB009-v003.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B11_GB009_03",
+        "start": 3334,
+        "end": 3358,
+        "source_in": 216,
+        "source_out": 240,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB009-v003.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B11_GB009_04",
+        "start": 3358,
+        "end": 3406,
+        "source_in": 264,
+        "source_out": 311,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB009-v003.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B12_GB010_01",
+        "start": 3406,
+        "end": 3478,
+        "source_in": 0,
+        "source_out": 72,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB010-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B12_v004_3478_01",
+        "start": 3478,
+        "end": 3594,
+        "source_in": 0,
+        "source_out": 116,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB010-v007-father-style-audio-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B12_v004_3478_02",
+        "start": 3594,
+        "end": 3622,
+        "source_in": 60,
+        "source_out": 74,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB010-v007-father-style-audio-r1.mp4",
+        "speed": {
+          "Percentage": 50
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B12_GB010_06",
+        "start": 3622,
+        "end": 3644,
+        "source_in": 312,
+        "source_out": 334,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB010-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B13_v004_3644_01",
+        "start": 3644,
+        "end": 3758,
+        "source_in": 0,
+        "source_out": 114,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB011-v007-Claude-style-audio-r2.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B13_GB011-1_01_v004_keep",
+        "start": 3758,
+        "end": 3818,
+        "source_in": 114,
+        "source_out": 174,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB011-1-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B13_v003_father_force_01",
+        "start": 3818,
+        "end": 3836,
+        "source_in": 0,
+        "source_out": 18,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v006\\产物\\GB011-1-v006-CY020A-force-r2.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B13_v003_father_force_02",
+        "start": 3836,
+        "end": 3866,
+        "source_in": 36,
+        "source_out": 66,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v006\\产物\\GB011-1-v006-CY020A-force-r2.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B13_v003_father_force_03",
+        "start": 3866,
+        "end": 3914,
+        "source_in": 66,
+        "source_out": 96,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v006\\产物\\GB011-1-v006-CY020A-force-r2.mp4",
+        "speed": {
+          "Percentage": 62.5
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B14_v004_3914_01",
+        "start": 3914,
+        "end": 4028,
+        "source_in": 114,
+        "source_out": 228,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB011-v007-Claude-style-audio-r2.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B14_v004_3914_02",
+        "start": 4028,
+        "end": 4058,
+        "source_in": 260,
+        "source_out": 275,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB011-v007-Claude-style-audio-r2.mp4",
+        "speed": {
+          "Percentage": 50
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B14_v003_father_refusal_01",
+        "start": 4058,
+        "end": 4130,
+        "source_in": 12,
+        "source_out": 84,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v006\\产物\\GB011-2-v006-CY021-father-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B15_GB012_01",
+        "start": 4130,
+        "end": 4418,
+        "source_in": 0,
+        "source_out": 288,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB012-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B16_GB013_01",
+        "start": 4418,
+        "end": 4706,
+        "source_in": 0,
+        "source_out": 288,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB013-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B16_GB013_02",
+        "start": 4706,
+        "end": 4778,
+        "source_in": 19,
+        "source_out": 91,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v005\\产物\\GB013-v005-CY023-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B17_v004_4778_01",
+        "start": 4778,
+        "end": 4838,
+        "source_in": 24,
+        "source_out": 84,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB014-v007-group-entry-style-audio-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B17_GB014_02",
+        "start": 4838,
+        "end": 4922,
+        "source_in": 72,
+        "source_out": 155,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB014-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B18_GB014A_01_v004_keep",
+        "start": 4922,
+        "end": 5018,
+        "source_in": 0,
+        "source_out": 96,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB014A-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B18_v004_5018_01",
+        "start": 5018,
+        "end": 5162,
+        "source_in": 0,
+        "source_out": 144,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB014A-v007-kimi-window-style-audio-r2.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B18_v004_5018_02",
+        "start": 5162,
+        "end": 5211,
+        "source_in": 95,
+        "source_out": 144,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB014A-v007-kimi-window-style-audio-r2.mp4",
+        "speed": {
+          "Percentage": 97.95918367346938
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 3,
+          "ZoomY": 3,
+          "Pan": -636,
+          "Tilt": -486
+        }
+      },
+      {
+        "name": "B18_v004_5018_03",
+        "start": 5211,
+        "end": 5229,
+        "source_in": 150,
+        "source_out": 168,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB014A-v007-kimi-window-style-audio-r2.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B19_GB015-1_01",
+        "start": 5229,
+        "end": 5277,
+        "source_in": 0,
+        "source_out": 48,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB015-1-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B19_GB015-1_02",
+        "start": 5277,
+        "end": 5337,
+        "source_in": 72,
+        "source_out": 132,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB015-1-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B19_GB015-1_03",
+        "start": 5337,
+        "end": 5391,
+        "source_in": 12,
+        "source_out": 66,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v005\\产物\\GB015-1-v005-CY024K2-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B19_GB015-1_04",
+        "start": 5391,
+        "end": 5418,
+        "source_in": 93,
+        "source_out": 120,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v005\\产物\\GB015-1-v005-CY024K2-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B19_GB015-1_05",
+        "start": 5418,
+        "end": 5466,
+        "source_in": 240,
+        "source_out": 287,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB015-1-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B20_v003_kimi_defense_01",
+        "start": 5466,
+        "end": 5514,
+        "source_in": 0,
+        "source_out": 48,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v006\\产物\\GB015-2-v006-CY024K3-defense-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B20_v003_kimi_defense_02",
+        "start": 5514,
+        "end": 5553,
+        "source_in": 63,
+        "source_out": 102,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v006\\产物\\GB015-2-v006-CY024K3-defense-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B20_v003_kimi_defense_03",
+        "start": 5553,
+        "end": 5571,
+        "source_in": 78,
+        "source_out": 95,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB015-2-v003.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B21_GB016-1_01",
+        "start": 5571,
+        "end": 5715,
+        "source_in": 0,
+        "source_out": 144,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB016-1-v003.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B21_GB016-1_02",
+        "start": 5715,
+        "end": 5842,
+        "source_in": 144,
+        "source_out": 270,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB016-1-v003.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B22_GB016-2_01",
+        "start": 5842,
+        "end": 5926,
+        "source_in": 0,
+        "source_out": 84,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB016-2-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B23_GB017_01",
+        "start": 5926,
+        "end": 6083,
+        "source_in": 0,
+        "source_out": 157,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB017-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B24_GB017R2_01",
+        "start": 6083,
+        "end": 6303,
+        "source_in": 34,
+        "source_out": 241,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB017R2-H3-v001.mp4",
+        "speed": {
+          "Percentage": 94.54545454545455
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B25_GB018_01",
+        "start": 6303,
+        "end": 6399,
+        "source_in": 54,
+        "source_out": 96,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB018-v002.mp4",
+        "speed": {
+          "Percentage": 43.75
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B25_GB018_02_v004_keep",
+        "start": 6399,
+        "end": 6476,
+        "source_in": 96,
+        "source_out": 173,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB018-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B25_v004_6476_01",
+        "start": 6476,
+        "end": 6536,
+        "source_in": 0,
+        "source_out": 60,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB018-v007-gpt-rise-style-audio-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B25_v004_6476_02",
+        "start": 6536,
+        "end": 6560,
+        "source_in": 60,
+        "source_out": 72,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB018-v007-gpt-rise-style-audio-r1.mp4",
+        "speed": {
+          "Percentage": 50
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B25_v004_6476_03",
+        "start": 6560,
+        "end": 6632,
+        "source_in": 72,
+        "source_out": 144,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB018-v007-gpt-rise-style-audio-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B25_v004_6476_04",
+        "start": 6632,
+        "end": 6650,
+        "source_in": 179,
+        "source_out": 191,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB018-v007-gpt-rise-style-audio-r1.mp4",
+        "speed": {
+          "Percentage": 66.66666666666666
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B26_v003_gpt_chant_01",
+        "start": 6650,
+        "end": 6704,
+        "source_in": 0,
+        "source_out": 54,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v006\\产物\\GB019-v006-CY024A9-caster-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B26_v003_gpt_chant_02",
+        "start": 6704,
+        "end": 6812,
+        "source_in": 0,
+        "source_out": 108,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB019-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B26_v003_gpt_chant_03",
+        "start": 6812,
+        "end": 7010,
+        "source_in": 162,
+        "source_out": 360,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v006\\产物\\GB019-v006-CY024A9-caster-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B27_GB020-1_01",
+        "start": 7010,
+        "end": 7167,
+        "source_in": 0,
+        "source_out": 107,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\声画重构-v002\\处理片段\\CY024A3-水滴合并反放.mp4",
+        "speed": {
+          "Percentage": 68.78980891719745
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B28_GB020-1R2_01",
+        "start": 7167,
+        "end": 7287,
+        "source_in": 96,
+        "source_out": 195,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB020-1R2-H3-v001.mp4",
+        "speed": {
+          "Percentage": 82.5
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B28_GB020-1R2_02",
+        "start": 7287,
+        "end": 7407,
+        "source_in": 0,
+        "source_out": 120,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v005\\产物\\GB020-1R2-v005-CY024A6-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B29_GB020-2_01",
+        "start": 7407,
+        "end": 7541,
+        "source_in": 0,
+        "source_out": 133,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB020-2-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B30_GB021_01",
+        "start": 7541,
+        "end": 7577,
+        "source_in": 0,
+        "source_out": 36,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB021-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B30_GB021_02",
+        "start": 7577,
+        "end": 7709,
+        "source_in": 0,
+        "source_out": 132,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v005\\产物\\GB021-v005-CY024A4-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B30_GB021_03",
+        "start": 7709,
+        "end": 7834,
+        "source_in": 153,
+        "source_out": 277,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB021-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B31_GB022-1_01",
+        "start": 7834,
+        "end": 8062,
+        "source_in": 0,
+        "source_out": 228,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB022-1-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B31_GB022-1_02",
+        "start": 8062,
+        "end": 8098,
+        "source_in": 288,
+        "source_out": 323,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB022-1-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B32_GB022-2_01",
+        "start": 8098,
+        "end": 8218,
+        "source_in": 0,
+        "source_out": 119,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB022-2-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B33_GB023_01",
+        "start": 8218,
+        "end": 8254,
+        "source_in": 0,
+        "source_out": 36,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v001\\产物\\GB023-Metaso-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B33_v003_retreating_water_01",
+        "start": 8254,
+        "end": 8290,
+        "source_in": 36,
+        "source_out": 72,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v001\\产物\\GB023-Metaso-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B33_v003_aftermath_space_01",
+        "start": 8290,
+        "end": 8374,
+        "source_in": 72,
+        "source_out": 132,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v001\\产物\\GB023-Metaso-H3-v001.mp4",
+        "speed": {
+          "Percentage": 71.42857142857143
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B33_GB023_02",
+        "start": 8374,
+        "end": 8530,
+        "source_in": 132,
+        "source_out": 288,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v001\\产物\\GB023-Metaso-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B34_GB024_01",
+        "start": 8530,
+        "end": 8864,
+        "source_in": 0,
+        "source_out": 333,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB024-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B35_GB025_01",
+        "start": 8864,
+        "end": 8912,
+        "source_in": 0,
+        "source_out": 48,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v001\\产物\\GB025-Metaso-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B35_GB025_02",
+        "start": 8912,
+        "end": 8960,
+        "source_in": 264,
+        "source_out": 312,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB029-v003.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B35_GB025_03",
+        "start": 8960,
+        "end": 9095,
+        "source_in": 166,
+        "source_out": 255,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v001\\产物\\GB025-Metaso-H3-v001.mp4",
+        "speed": {
+          "Percentage": 65.92592592592592
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B35_GB025_04",
+        "start": 9095,
+        "end": 9176,
+        "source_in": 255,
+        "source_out": 336,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v001\\产物\\GB025-Metaso-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B36_GB026_01",
+        "start": 9176,
+        "end": 9224,
+        "source_in": 0,
+        "source_out": 48,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB026-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B36_GB026_02",
+        "start": 9224,
+        "end": 9440,
+        "source_in": 72,
+        "source_out": 287,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB026-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B37_GB027_01",
+        "start": 9440,
+        "end": 9632,
+        "source_in": 0,
+        "source_out": 192,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB027-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B37_GB027_02",
+        "start": 9632,
+        "end": 9699,
+        "source_in": 0,
+        "source_out": 67,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v004\\产物\\GB027-v004-CY028A-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B37_v004_9699_01",
+        "start": 9699,
+        "end": 9781,
+        "source_in": 0,
+        "source_out": 82,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB027-v007-stair-eyeline-r1.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B38_GB028_01",
+        "start": 9781,
+        "end": 9937,
+        "source_in": 0,
+        "source_out": 156,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB028-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B38_GB028_02",
+        "start": 9937,
+        "end": 9978,
+        "source_in": 156,
+        "source_out": 197,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB028-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B38_GB028_03",
+        "start": 9978,
+        "end": 10026,
+        "source_in": 293,
+        "source_out": 340,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB028-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B38_GB028_04",
+        "start": 10026,
+        "end": 10090,
+        "source_in": 66,
+        "source_out": 130,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB029-v003.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B39_GB029_01",
+        "start": 10090,
+        "end": 10155,
+        "source_in": 0,
+        "source_out": 65,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB029-v003.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B39_GB029_02",
+        "start": 10155,
+        "end": 10293,
+        "source_in": 131,
+        "source_out": 202,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB029-v003.mp4",
+        "speed": {
+          "Percentage": 52.17391304347826
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B39_GB029_03",
+        "start": 10293,
+        "end": 10368,
+        "source_in": 203,
+        "source_out": 278,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB029-v003.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B40_GB030-1_01",
+        "start": 10368,
+        "end": 10689,
+        "source_in": 0,
+        "source_out": 320,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB030-1-v003.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B41_GB030-2_01",
+        "start": 10689,
+        "end": 10761,
+        "source_in": 12,
+        "source_out": 84,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v001\\产物\\GB030-2-Metaso-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B42_GB031_01",
+        "start": 10761,
+        "end": 10833,
+        "source_in": 0,
+        "source_out": 72,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB031-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B42_GB031_02",
+        "start": 10833,
+        "end": 10905,
+        "source_in": 72,
+        "source_out": 144,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB031-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B42_GB031_03",
+        "start": 10905,
+        "end": 11025,
+        "source_in": 216,
+        "source_out": 335,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB031-v002.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B43_GB032_01",
+        "start": 11025,
+        "end": 11133,
+        "source_in": 0,
+        "source_out": 108,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v001\\产物\\GB032-Metaso-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B43_GB032_02",
+        "start": 11133,
+        "end": 11179,
+        "source_in": 108,
+        "source_out": 154,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v001\\产物\\GB032-Metaso-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B43_GB032_03",
+        "start": 11179,
+        "end": 11244,
+        "source_in": 178,
+        "source_out": 242,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v001\\产物\\GB032-Metaso-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B44_GB033_01",
+        "start": 11244,
+        "end": 11347,
+        "source_in": 0,
+        "source_out": 103,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v001\\产物\\GB033-Metaso-H3-v001.mp4",
+        "speed": {
+          "Percentage": 100
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B44_GB033_02",
+        "start": 11347,
+        "end": 11497,
+        "source_in": 103,
+        "source_out": 224,
+        "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v001\\产物\\GB033-Metaso-H3-v001.mp4",
+        "speed": {
+          "Percentage": 80.78999999999999
+        },
+        "enabled": true,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      }
+    ],
+    "old_timeline": {
+      "name": "v003_Dramatic_Reconstruction",
+      "frames": 11497,
+      "clips": 113
+    },
+    "audio_tracks": [
+      {
+        "index": 1,
+        "name": "Dialogue_Selected",
+        "enabled": true,
+        "clips": 64
+      },
+      {
+        "index": 2,
+        "name": "Music_A",
+        "enabled": true,
+        "clips": 9
+      },
+      {
+        "index": 3,
+        "name": "Music_B",
+        "enabled": true,
+        "clips": 8
+      },
+      {
+        "index": 4,
+        "name": "Music_C",
+        "enabled": true,
+        "clips": 0
+      },
+      {
+        "index": 5,
+        "name": "Ambience",
+        "enabled": true,
+        "clips": 1
+      },
+      {
+        "index": 6,
+        "name": "Foley",
+        "enabled": true,
+        "clips": 1
+      },
+      {
+        "index": 7,
+        "name": "Action",
+        "enabled": true,
+        "clips": 1
+      },
+      {
+        "index": 8,
+        "name": "Magic",
+        "enabled": true,
+        "clips": 1
+      }
+    ],
+    "saved": true
+  }
+}

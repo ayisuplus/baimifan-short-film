@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115146635011612672",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "水龙俯冲启动镜",
+    "status": "succeeded",
+    "created_at": 1793125230,
+    "updated_at": 1793125246,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115146635011612672/content?expires=1793730047&signature=4e85ca68dc5357404a110a3fc9cce2c39fddf32d155d3938233d97b0f0ae01ff"
+    },
+    "resolution": "768P",
+    "duration": 4,
+    "usage": {
+      "total_seconds": 4,
+      "input_seconds": 0,
+      "output_seconds": 4,
+      "input_image_count": 2
+    },
+    "ratio": "16:9",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

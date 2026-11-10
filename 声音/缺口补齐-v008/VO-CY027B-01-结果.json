@@ -1,0 +1,45 @@
+{
+  "line_id": "VO-CY027B-01",
+  "role": "GPT",
+  "line": {
+    "id": "VO-CY027B-01",
+    "role": "GPT",
+    "previous_batch": 34,
+    "previous_record_frame": 8665,
+    "previous_ja": "うるさい。",
+    "previous_zh": "聒噪。",
+    "previous_audio_duration_seconds": 0.9299999999999878,
+    "status": "retained_in_draft",
+    "ja": "うるさい。",
+    "zh_back_translation": "吵死了。",
+    "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+    "reading_hints": {},
+    "voice_role": "GPT",
+    "performance_direction_v004": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+    "tts_reading_text": "うるさい。",
+    "voice_asset": "GPT",
+    "timeline_adopted": false,
+    "performance_acceptance": "逐句表演与准确性待验收；作者已确认声线",
+    "audio_state": "needs_recording"
+  },
+  "voice_id": "tsunTpzA4d2kBihHrZ2R",
+  "voice_source": "selected v004 candidate 1",
+  "body": {
+    "text": "うるさい。",
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "ja"
+  },
+  "status": "saved_pending_review",
+  "author_performance_accepted": false,
+  "request_id": "evEXJw2uWnSKhALRj2k0",
+  "character_cost_header": "5",
+  "file": "声音/缺口补齐-v008/VO-CY027B-01__GPT.mp3",
+  "bytes": 13835,
+  "sha256": "b97293f20e60d74c9055cfb4d62fa7b69c119588d28c6805b090108d989f4ca2",
+  "media": {
+    "format": {
+      "duration": "0.789478"
+    }
+  },
+  "decode_ok": true
+}

@@ -1,0 +1,17 @@
+{
+  "shots": 132,
+  "film_seconds": 435.5,
+  "old_film_seconds": 434,
+  "changed_duration": "CY024K00: 2.5 -> 4",
+  "other_131_durations_unchanged": true,
+  "dialogue_and_music_unchanged": true,
+  "source_passages_verified": 132,
+  "new_board_batches": 34,
+  "requested_seconds": 510,
+  "handle_seconds": 74.5,
+  "final_no_bgm": [
+    431.5,
+    435.5
+  ],
+  "status": "静帧与文字设计；动态未生成"
+}

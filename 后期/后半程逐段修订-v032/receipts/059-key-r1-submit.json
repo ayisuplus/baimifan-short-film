@@ -1,0 +1,21 @@
+{
+  "schema": "envelope/1",
+  "type": "envelope",
+  "ok": true,
+  "command": "run",
+  "version": "1.22.0",
+  "where": "local",
+  "data": {
+    "workflow": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\后半程逐段修订-v032\\workflows\\059-key-r1.api.json",
+    "status": "queued",
+    "prompt_id": "fc837666-28ef-42a2-8fa2-2eaacf7b4a13",
+    "client_id": "d65b73b5-41b5-4a5f-8742-bdc6dab78320",
+    "outputs": [],
+    "elapsed_seconds": null,
+    "host": "127.0.0.1",
+    "port": 8188,
+    "state_file": "C:\\Users\\36322\\.codex\\runtimes\\comfy-mcp\\local-state\\jobs\\fc837666-28ef-42a2-8fa2-2eaacf7b4a13.json",
+    "watcher_spawned": false
+  },
+  "error": null
+}

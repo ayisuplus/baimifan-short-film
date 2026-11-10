@@ -1,0 +1,107 @@
+{
+  "869d8ff1-c6f3-47c3-a9d0-73111b75d9e9": {
+    "prompt": [
+      0,
+      "869d8ff1-c6f3-47c3-a9d0-73111b75d9e9",
+      {
+        "1": {
+          "class_type": "BreezeTTS2LoadModel",
+          "inputs": {
+            "model": "bf16 (best quality)",
+            "dtype": "bf16",
+            "device": "cuda",
+            "attention": "sdpa",
+            "decode_mode": "eager",
+            "download_if_missing": false
+          }
+        },
+        "2": {
+          "class_type": "BreezeTTS2VoiceDesign",
+          "inputs": {
+            "breeze_model": [
+              "1",
+              0
+            ],
+            "text": "走吧。别怕，抱紧我。夜风虽凉，有我在，你不必独自面对。等这一切平息，我会带你平安回去。",
+            "instruction": "一位古风美人的声音，端雅、从容，温柔中有笃定的保护感。用自然清晰的普通话说话，像近距离安抚身边的人，不要播音腔或吟诗腔。",
+            "cfg_scale": 4.0,
+            "max_new_tokens": 256,
+            "temperature": 0.9,
+            "top_k": 50,
+            "top_p": 1.0,
+            "repetition_penalty": 1.1,
+            "depth_temperature": 0.9,
+            "depth_top_k": 50,
+            "depth_top_p": 1.0,
+            "seed": 20261029
+          }
+        },
+        "3": {
+          "class_type": "SaveAudio",
+          "inputs": {
+            "audio": [
+              "2",
+              0
+            ],
+            "filename_prefix": "audio/BreezeTTS2/WhiteRice-Qwen-v005/Chinese-Design"
+          }
+        }
+      },
+      {
+        "comfy_usage_source": "comfy-cli/comfy-mcp",
+        "client_id": "7ea529a8-1ecf-495e-ad95-0eff52b6c418",
+        "create_time": 1793260979453
+      },
+      [
+        "3"
+      ]
+    ],
+    "outputs": {
+      "3": {
+        "audio": [
+          {
+            "filename": "Chinese-Design_00001.flac",
+            "subfolder": "audio\\BreezeTTS2\\WhiteRice-Qwen-v005",
+            "type": "output"
+          }
+        ]
+      }
+    },
+    "status": {
+      "status_str": "success",
+      "completed": true,
+      "messages": [
+        [
+          "execution_start",
+          {
+            "prompt_id": "869d8ff1-c6f3-47c3-a9d0-73111b75d9e9",
+            "timestamp": 1793260979454
+          }
+        ],
+        [
+          "execution_cached",
+          {
+            "nodes": [],
+            "prompt_id": "869d8ff1-c6f3-47c3-a9d0-73111b75d9e9",
+            "timestamp": 1793260979455
+          }
+        ],
+        [
+          "execution_success",
+          {
+            "prompt_id": "869d8ff1-c6f3-47c3-a9d0-73111b75d9e9",
+            "timestamp": 1793261012745
+          }
+        ]
+      ]
+    },
+    "meta": {
+      "3": {
+        "node_id": "3",
+        "display_node": "3",
+        "parent_node": null,
+        "real_node_id": "3"
+      }
+    }
+  }
+}

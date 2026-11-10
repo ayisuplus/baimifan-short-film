@@ -1,0 +1,110 @@
+[
+  {
+    "shot_id": "CY003",
+    "speaker": "DeepSeek",
+    "original_text": "你要吃一点吗？",
+    "spoken_text": "你要吃一点吗？",
+    "pronunciation_note": "临时中文读稿将 Claude 读作克劳德，剧本对白原文不改。",
+    "voice": "Microsoft Yaoyao",
+    "rate": 1,
+    "file": "镜头设计/临时声音/CY003-对白-v001.wav",
+    "engine": "Windows System.Speech local",
+    "listening_status": "未完成实际听审；不是正式声线或表演"
+  },
+  {
+    "shot_id": "CY006",
+    "speaker": "DeepSeek",
+    "original_text": "他们今晚要烧死 Claude。你能救救她吗？",
+    "spoken_text": "他们今晚要烧死 克劳德。你能救救她吗？",
+    "pronunciation_note": "临时中文读稿将 Claude 读作克劳德，剧本对白原文不改。",
+    "voice": "Microsoft Yaoyao",
+    "rate": 1,
+    "file": "镜头设计/临时声音/CY006-对白-v001.wav",
+    "engine": "Windows System.Speech local",
+    "listening_status": "未完成实际听审；不是正式声线或表演"
+  },
+  {
+    "shot_id": "CY007",
+    "speaker": "ChatGPT",
+    "original_text": "我不能插手教会的仪式。",
+    "spoken_text": "我不能插手教会的仪式。",
+    "pronunciation_note": "临时中文读稿将 Claude 读作克劳德，剧本对白原文不改。",
+    "voice": "Microsoft Huihui Desktop",
+    "rate": 1,
+    "file": "镜头设计/临时声音/CY007-对白-v001.wav",
+    "engine": "Windows System.Speech local",
+    "listening_status": "未完成实际听审；不是正式声线或表演"
+  },
+  {
+    "shot_id": "CY008",
+    "speaker": "DeepSeek",
+    "original_text": "可是……她会死的。",
+    "spoken_text": "可是……她会死的。",
+    "pronunciation_note": "临时中文读稿将 Claude 读作克劳德，剧本对白原文不改。",
+    "voice": "Microsoft Yaoyao",
+    "rate": 1,
+    "file": "镜头设计/临时声音/CY008-对白-v001.wav",
+    "engine": "Windows System.Speech local",
+    "listening_status": "未完成实际听审；不是正式声线或表演"
+  },
+  {
+    "shot_id": "CY009",
+    "speaker": "DeepSeek",
+    "original_text": "那我自己去。",
+    "spoken_text": "那我自己去。",
+    "pronunciation_note": "临时中文读稿将 Claude 读作克劳德，剧本对白原文不改。",
+    "voice": "Microsoft Yaoyao",
+    "rate": 1,
+    "file": "镜头设计/临时声音/CY009-对白-v001.wav",
+    "engine": "Windows System.Speech local",
+    "listening_status": "未完成实际听审；不是正式声线或表演"
+  },
+  {
+    "shot_id": "CY014",
+    "speaker": "教主",
+    "original_text": "我的女儿，神明在等你。",
+    "spoken_text": "我的女儿，神明在等你。",
+    "pronunciation_note": "临时中文读稿将 Claude 读作克劳德，剧本对白原文不改。",
+    "voice": "Microsoft Kangkang",
+    "rate": 1,
+    "file": "镜头设计/临时声音/CY014-对白-v001.wav",
+    "engine": "Windows System.Speech local",
+    "listening_status": "未完成实际听审；不是正式声线或表演"
+  },
+  {
+    "shot_id": "CY020",
+    "speaker": "Claude",
+    "original_text": "别碰她！",
+    "spoken_text": "别碰她！",
+    "pronunciation_note": "临时中文读稿将 Claude 读作克劳德，剧本对白原文不改。",
+    "voice": "Microsoft Huihui",
+    "rate": 1,
+    "file": "镜头设计/临时声音/CY020-对白-v001.wav",
+    "engine": "Windows System.Speech local",
+    "listening_status": "未完成实际听审；不是正式声线或表演"
+  },
+  {
+    "shot_id": "CY029",
+    "speaker": "教主",
+    "original_text": "Claude！回来！",
+    "spoken_text": "克劳德！回来！",
+    "pronunciation_note": "临时中文读稿将 Claude 读作克劳德，剧本对白原文不改。",
+    "voice": "Microsoft Kangkang",
+    "rate": 1,
+    "file": "镜头设计/临时声音/CY029-对白-v001.wav",
+    "engine": "Windows System.Speech local",
+    "listening_status": "未完成实际听审；不是正式声线或表演"
+  },
+  {
+    "shot_id": "CY032",
+    "speaker": "DeepSeek",
+    "original_text": "你要吃一点吗？",
+    "spoken_text": "你要吃一点吗？",
+    "pronunciation_note": "临时中文读稿将 Claude 读作克劳德，剧本对白原文不改。",
+    "voice": "Microsoft Yaoyao",
+    "rate": 1,
+    "file": "镜头设计/临时声音/CY032-对白-v001.wav",
+    "engine": "Windows System.Speech local",
+    "listening_status": "未完成实际听审；不是正式声线或表演"
+  }
+]

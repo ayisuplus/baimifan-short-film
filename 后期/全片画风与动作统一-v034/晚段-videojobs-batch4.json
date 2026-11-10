@@ -1,0 +1,20 @@
+[
+  {
+    "name": "102-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\102-key-r1_00001_.png",
+    "key_review": "pass",
+    "prompt": "Traditional hand-drawn 2D Japanese gothic anime, stable ink lines, hard-edged flat cel shadows and matte skin; preserve the existing drawn lace and scorched fabric details. Keep the SAME single small orange-gold seed hovering near the right fingertip. Claude own LEFT hand enters gently from below the frame and supports the underside of her RIGHT wrist; the right hand trembles once, then steadies. The same tiny seed gathers a little more brightness and a short flame tip while remaining in place, matching the next shot. It is NOT released yet. Preserve pressure marks and scorched cuffs. Fixed detail camera, no extra seed, no second pair of hands, no finger melting, no healing light and no candle flames.",
+    "frames": 84,
+    "seed": 202610305702
+  },
+  {
+    "name": "104-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\104-key-r1_00001_.png",
+    "key_review": "pass",
+    "prompt": "Traditional hand-drawn 2D Japanese gothic anime, stable ink lines, hard-edged flat cel shadows and matte skin; preserve the existing drawn lace and scorched fabric details. Begin with the SAME single orange-gold seed hovering just left of Claude right fingertips and her LEFT hand already supporting her right wrist. She extends the right fingers a little and sends this one seed LEFTWARD through the open air. The clear gap increases to several finger widths and the seed exits the left edge. Her left hand then releases the wrist and both hands relax downward. Do not create a new seed, return it to the finger, create a continuous beam, ignite clothing or add hands. Fixed close camera, one release only.",
+    "frames": 60,
+    "seed": 202610305704
+  }
+]

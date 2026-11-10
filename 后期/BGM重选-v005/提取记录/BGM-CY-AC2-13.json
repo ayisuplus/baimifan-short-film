@@ -1,0 +1,40 @@
+{
+  "id": "BGM-CY-AC2-13",
+  "bvid": "BV1TQ4y1L7tR",
+  "part": 13,
+  "title": "Dreams of Venice",
+  "display_title": "威尼斯之梦",
+  "work": "刺客信条 II",
+  "composer": "Jesper Kyd",
+  "source_page_title": "【OST & 游戏原声带】歌名：《威尼斯之梦》（Dreams of Venice）",
+  "navigation_translation": "中文名称用于导航，原曲名及分P标题保留。",
+  "cid": 1415550581,
+  "source": "https://www.bilibili.com/video/BV1TQ4y1L7tR/?p=13",
+  "uploader": "南门梦灵",
+  "video_title": "【刺客信条OST】《刺客信条2》游戏原声音乐合集（OST+网络歌曲+游戏原声带）",
+  "path": "资产/声音/BGM/重选-v005/BGM-CY-AC2-13.m4a",
+  "bytes": 6270388,
+  "sha256": "a1641e789464ddc020f81484ad1f39fe7d58ac89fda493424b9e3ffe20f9c849",
+  "duration": 266.346333,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "bit_rate": "186755"
+      }
+    ],
+    "format": {
+      "duration": "266.346333"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

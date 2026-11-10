@@ -1,0 +1,36 @@
+subject_definitions:
+<Subject 1>: DeepSeek, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: the palace paladins, identity and outfit from four-view sheet <Picture 2>.
+<Subject 3>: ChatGPT, identity and outfit from four-view sheet <Picture 3>.
+<Picture 4>: [Shot 1] composition and state reference; not its first frame.
+<Picture 5>: [Shot 2] composition and state reference; not its first frame.
+<Picture 6>: [Shot 3] composition and state reference; not its first frame.
+<Picture 7>: [Shot 4] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. The empty-handed child is halted at the palace gate, admitted by GPT's offscreen command, and dwarfed by the empty throne hall.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Subject 3>: fully_preserved - identity and outfit design.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+<Picture 7>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Continue the previous running movement after an explicit travel ellipsis, entering on the final upper steps at dusk. Use <Picture 4> for composition. DeepSeek runs empty-handed up the last visible portion of the palace's long stairway. Purple banners hang beside the towering gate. She reaches the top before the guards; the earlier ascent is omitted across the cut. Track several steps along the upper portion of the exterior stairway, tilting slightly to retain the tall gate and purple banners. Running footsteps on stone against subdued dusk ambience.
+[Shot 2] At 00:02.000, Cut closer on the same running beat; the spears cross before the child brakes. Use <Picture 5> for composition. Two silver-armored paladins with closed helmets cross their long spears at the gate. DeepSeek stops abruptly before them and looks up, waiting for a response with both hands empty. The guards remain between her and the entrance. Use a low medium-wide frame containing both spears and the child; ease the camera to a stop with her and hold their scale contrast. Footsteps brake, armor plates settle and spear shafts move into the barrier.
+[Shot 3] At 00:05.000, Match the crossed spears; GPT's voice comes from the hall before the guards lift them and make way. Use <Picture 6> for composition. GPT speaks from offscreen while still reclining inside the hall. The guards lift their spears vertically and step aside; the empty-handed child crosses the threshold while they remain outside. Move slightly closer along the existing axis; advance gently only after the spears rise, following the child across the threshold without revealing GPT. The offscreen command remains clear; spear movement and light armor sounds follow it. From 5 to 7.4 seconds, ChatGPT (S1) speaks outside the frame: <d>[Japanese] 通してあげて。</d>.
+[Shot 4] At 00:08.000, After the threshold crossing, elliptically omit most of the hall transit. Enter this shot with the child already approaching the throne, showing only her last steps and stop without another internal cut. Use <Picture 7> for composition. After a travel ellipsis, DeepSeek completes only the last few steps to the head end of the raised daybed and looks up. GPT reclines head screen left, feet right, own right hand supporting cheek, own left hand loose on the front cushion. The wide symmetrical daybed stands crosswise at the short end wall, facing the entrance, never along a long side wall. Keep the child small in the enormous hall. Environment: a study table at the head end on screen left carries geometry sketches, compass, transparent polyhedron paperweight, tea cup and twisted-ribbon desk lamp; the foot-end ring instrument is on screen right. Gold dodecahedron opal lamps flank the clear aisle, with a few inclined ellipse-ring chandeliers high above. No candles or glowing frames. From the entrance axis, advance a short distance in a very wide shot, using floor and column parallax to reveal the empty hall; do not chase into a close-up. Quick steps and the child's breathing acquire the spacious echo of the empty hall.
+From 11 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 5s: GPT permits entry; guards begin clearing the way.
+Japanese speech with lip sync; no audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

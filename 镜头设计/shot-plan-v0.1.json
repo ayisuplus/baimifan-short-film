@@ -1,0 +1,2737 @@
+{
+  "schema_version": 1,
+  "title": "《穿云》带图分镜 v0.1",
+  "subtitle": "六场 · 34 镜 · 2 分 56 秒。逐镜核对叙事、视线、空间与情绪停顿；粗分镜与静帧预演，尚非正式视频关键帧。",
+  "aspect_ratio": "16:9",
+  "video_produced": false,
+  "source_manifest": "镜头设计/生成记录/生成索引-v001.json",
+  "story_script": "剧本/穿云-场景剧本-v0.1.md",
+  "asset_atlas": "资产/资产图册.html",
+  "version": "v0.1",
+  "created": "2026-10-20",
+  "total_seconds": 176,
+  "masters": [
+    {
+      "id": "M-DS",
+      "title": "DeepSeek · 身份母本",
+      "role": "圆脸、头身比与鲸帽以原始捧饭图优先。",
+      "status": "作者指定",
+      "limits": "服装四视图辅助；不采用旧女仆卡。",
+      "path": "概念参考/02-DeepSeek-母版概念参考.webp"
+    },
+    {
+      "id": "M-CL",
+      "title": "Claude · 原始母本",
+      "role": "橙发、花饰、头纱与白裙。",
+      "status": "作者指定",
+      "limits": "侧背与下裙由既有候选补全，保留为候选。",
+      "path": "概念参考/01-Claude-母版概念参考.webp"
+    },
+    {
+      "id": "M-GPT",
+      "title": "GPT · 白色龙娘",
+      "role": "来自作者指定龙娘形象的净版。",
+      "status": "现有候选",
+      "limits": "角、翼、单尾与角色右腿开衩保持；宫殿独座。",
+      "path": "资产/图像/CHAR-GPT-v003.png"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "S01",
+      "title": "街市初见",
+      "cols": 2,
+      "rows": 2,
+      "path": "镜头设计/图像/S01-粗分镜-v001.png",
+      "shot_ids": [
+        "CY001",
+        "CY002",
+        "CY003",
+        "CY004"
+      ],
+      "seconds": 22,
+      "pages": [
+        "镜头设计/图像/S01-粗分镜-v001.png"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "宫殿求助",
+      "cols": 2,
+      "rows": 3,
+      "path": "镜头设计/图像/S02-粗分镜-v001.png",
+      "shot_ids": [
+        "CY005",
+        "CY006",
+        "CY007",
+        "CY008",
+        "CY009",
+        "CY010"
+      ],
+      "seconds": 33,
+      "pages": [
+        "镜头设计/图像/S02-粗分镜-v001.png"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "潜入教堂",
+      "cols": 2,
+      "rows": 3,
+      "path": "镜头设计/图像/S03-粗分镜-v001.png",
+      "shot_ids": [
+        "CY011",
+        "CY012",
+        "CY013",
+        "CY014",
+        "CY015",
+        "CY016"
+      ],
+      "seconds": 30,
+      "pages": [
+        "镜头设计/图像/S03-粗分镜-v001.png"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "火前守护",
+      "cols": 2,
+      "rows": 3,
+      "path": "镜头设计/图像/S04-粗分镜-v002.png",
+      "shot_ids": [
+        "CY017",
+        "CY018",
+        "CY019",
+        "CY020",
+        "CY021",
+        "CY022"
+      ],
+      "seconds": 34,
+      "pages": [
+        "镜头设计/图像/S04-粗分镜-v002.png"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "穿云与破门",
+      "cols": 2,
+      "rows": 4,
+      "path": "镜头设计/图像/S05A-粗分镜-v002.png",
+      "shot_ids": [
+        "CY023",
+        "CY024",
+        "CY025",
+        "CY026",
+        "CY027",
+        "CY028",
+        "CY029",
+        "CY030"
+      ],
+      "seconds": 34,
+      "pages": [
+        "镜头设计/图像/S05A-粗分镜-v002.png",
+        "镜头设计/图像/S05B-粗分镜-v002.png"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "再分一碗饭",
+      "cols": 2,
+      "rows": 2,
+      "path": "镜头设计/图像/S06-粗分镜-v002.png",
+      "shot_ids": [
+        "CY031",
+        "CY032",
+        "CY033",
+        "CY034"
+      ],
+      "seconds": 23,
+      "pages": [
+        "镜头设计/图像/S06-粗分镜-v002.png"
+      ]
+    }
+  ],
+  "continuity": {
+    "church": "面向祭坛，狗洞在左侧墙，水盆在右侧，正门在祭坛对端；侧道到左侧阶，救出后沿中央通道向正门离开。",
+    "signal": "CY021未知来源窗闪/鸣响；CY023破门，CY024援军，CY025小鱼反应；CY026回闪揭示同一信号。",
+    "rice": "CY001—004持碗；CY005—030无碗；CY031—034数日后街市再持碗。"
+  },
+  "shots": [
+    {
+      "id": "CY001",
+      "scene": "S01",
+      "scene_title": "街市初见",
+      "title": "阳光里的饭碗",
+      "seconds": 6,
+      "start_second": 0,
+      "end_second": 6,
+      "framing": "远景／小鱼视线高度，轻跟",
+      "purpose": "让观众先记住饭碗、小鱼与明亮日常。",
+      "entry_state": "小鱼捧饭穿过街市。",
+      "action": "跟随几步后停住，黑袍队伍横过她的去路。",
+      "exit_state": "她停步望向队伍。",
+      "dialogue": "无对白",
+      "sound": "街市叫卖、碗勺轻碰、脚步；不急着进音乐。",
+      "next_link": "接 CY002；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "小鱼保持捧饭母本的圆脸与宝宝比例；饭碗始终由她持有。",
+        "Claude 原始橙发、花饰、头纱与白裙不变；黑袍阻隔视线。"
+      ],
+      "asset_ids": [
+        "CHAR-DEEPSEEK",
+        "ENV-STREET"
+      ],
+      "source_quote": "DeepSeek 捧着一碗堆得冒尖的白米饭，快步穿过街市。鲸鱼帽子随着脚步轻轻晃动。",
+      "presentation": {
+        "path": "镜头设计/图像/S01-粗分镜-v001.png",
+        "role": "action",
+        "visible": "小鱼双手捧饭，在高大的黑袍与阳光街市之间迈步。",
+        "missing": "尚未显示从快步到停步的过程。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S01-粗分镜-v001.png",
+          "role": "本镜粗分镜：S01页第1格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        },
+        {
+          "path": "资产/图像/ENV-STREET-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 0,
+      "panel_region": {
+        "x": 0.0005980861244019139,
+        "y": 0.0010638297872340426,
+        "w": 0.49700956937799046,
+        "h": 0.49361702127659574
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Wide low street-level frame. Tiny whale-hat child in the lower foreground hurries toward a crossing procession of tall black-robed figures, rice bowl carefully held in both hands; sunny market recedes to distant church.",
+      "page_size": [
+        1672,
+        940
+      ],
+      "panel_rect_pixels": [
+        1,
+        1,
+        831,
+        464
+      ]
+    },
+    {
+      "id": "CY002",
+      "scene": "S01",
+      "scene_title": "街市初见",
+      "title": "黑袍之间的回望",
+      "seconds": 5,
+      "start_second": 6,
+      "end_second": 11,
+      "framing": "中近景／黑袍前景夹框，定镜",
+      "purpose": "建立 Claude 的被困感与第一眼联系。",
+      "entry_state": "Claude 被队伍包围。",
+      "action": "她听到脚步，侧脸望向小鱼；留一拍目光。",
+      "exit_state": "两人视线接上。",
+      "dialogue": "无对白",
+      "sound": "叫卖声拉远，衣料摩擦贴近；脚步声仍连续。",
+      "next_link": "接 CY003；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "小鱼保持捧饭母本的圆脸与宝宝比例；饭碗始终由她持有。",
+        "Claude 原始橙发、花饰、头纱与白裙不变；黑袍阻隔视线。"
+      ],
+      "asset_ids": [
+        "CHAR-CLAUDE",
+        "ENV-STREET"
+      ],
+      "source_quote": "她听见脚步声，侧过脸。",
+      "presentation": {
+        "path": "镜头设计/图像/S01-粗分镜-v001.png",
+        "role": "action",
+        "visible": "Claude 隔着两侧黑袍回望，橙发、花饰与白纱清楚可辨。",
+        "missing": "具体反打视线高度与匹配需在动态和剪辑时核对。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S01-粗分镜-v001.png",
+          "role": "本镜粗分镜：S01页第2格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/01-Claude-母版概念参考.webp",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-STREET-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 1,
+      "panel_region": {
+        "x": 0.5029904306220095,
+        "y": 0.0010638297872340426,
+        "w": 0.4964114832535885,
+        "h": 0.49361702127659574
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Medium close view through tight dark hooded shoulders framing both sides. Orange-haired veiled Claude, in the middle of the procession, turns her face toward the child offscreen; fleeting warm light on her amber eyes. Match original Claude mother concept.",
+      "page_size": [
+        1672,
+        940
+      ],
+      "panel_rect_pixels": [
+        841,
+        1,
+        830,
+        464
+      ]
+    },
+    {
+      "id": "CY003",
+      "scene": "S01",
+      "scene_title": "街市初见",
+      "title": "第一次邀请",
+      "seconds": 6,
+      "start_second": 11,
+      "end_second": 17,
+      "framing": "过肩中景／落在小鱼眼高",
+      "purpose": "把善意落在一个具体的小动作上。",
+      "entry_state": "小鱼停在队伍边。",
+      "action": "看看 Claude，再看看碗，将饭向前递；说完等她回应。",
+      "exit_state": "碗仍在小鱼双手里。",
+      "dialogue": "DeepSeek：你要吃一点吗？",
+      "sound": "对白清楚，碗轻晃；留约两秒等待。",
+      "next_link": "接 CY004；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "小鱼保持捧饭母本的圆脸与宝宝比例；饭碗始终由她持有。",
+        "Claude 原始橙发、花饰、头纱与白裙不变；黑袍阻隔视线。"
+      ],
+      "asset_ids": [
+        "CHAR-DEEPSEEK",
+        "CHAR-CLAUDE"
+      ],
+      "source_quote": "小鱼看看她，又看看自己的饭碗，向前递了递。",
+      "presentation": {
+        "path": "镜头设计/图像/S01-粗分镜-v001.png",
+        "role": "action",
+        "visible": "小鱼朝右前景的 Claude 举碗微笑，Claude 尚未接过。",
+        "missing": "只画出邀请的代表瞬间，尚未表现等待和对方反应。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S01-粗分镜-v001.png",
+          "role": "本镜粗分镜：S01页第3格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        },
+        {
+          "path": "概念参考/01-Claude-母版概念参考.webp",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 2,
+      "panel_region": {
+        "x": 0.0005980861244019139,
+        "y": 0.5031914893617021,
+        "w": 0.49700956937799046,
+        "h": 0.4957446808510638
+      },
+      "dialogue_cues": [
+        {
+          "speaker": "DeepSeek",
+          "text": "你要吃一点吗？",
+          "offset": 0.8,
+          "file": "镜头设计/临时声音/CY003-对白-v001.wav",
+          "status": "temporary_readthrough"
+        }
+      ],
+      "visual_prompt": "Over Claude's shoulder at the CHILD's eye-level. Small smiling child has stopped, holds up the rice bowl invitingly toward Claude; Claude's ivory sleeve only at frame edge, black robes threaten the gap. This is a hopeful offer, no one has accepted or eaten.",
+      "page_size": [
+        1672,
+        940
+      ],
+      "panel_rect_pixels": [
+        1,
+        473,
+        831,
+        466
+      ]
+    },
+    {
+      "id": "CY004",
+      "scene": "S01",
+      "scene_title": "街市初见",
+      "title": "被关在门外",
+      "seconds": 5,
+      "start_second": 17,
+      "end_second": 22,
+      "framing": "远景／背对小鱼，门在纵深",
+      "purpose": "结束一次未完成的邀请。",
+      "entry_state": "饭碗伸出，Claude 尚未回答。",
+      "action": "教徒横身遮断目光；队伍进入教堂，大门合拢。",
+      "exit_state": "小鱼独留街上，仍举着碗。",
+      "dialogue": "无对白",
+      "sound": "木门低响压过街市；关门后短空白。",
+      "next_link": "接 CY005；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "小鱼保持捧饭母本的圆脸与宝宝比例；饭碗始终由她持有。",
+        "Claude 原始橙发、花饰、头纱与白裙不变；黑袍阻隔视线。"
+      ],
+      "asset_ids": [
+        "CHAR-DEEPSEEK",
+        "CHAR-CLAUDE",
+        "ENV-STREET"
+      ],
+      "source_quote": "DeepSeek 仍举着饭碗。",
+      "presentation": {
+        "path": "镜头设计/图像/S01-粗分镜-v001.png",
+        "role": "action",
+        "visible": "小鱼背对镜头仍持碗，Claude 与教徒正走入教堂门。",
+        "missing": "门仍有较大开口；完整关门与声音压低尚未表现。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S01-粗分镜-v001.png",
+          "role": "本镜粗分镜：S01页第4格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        },
+        {
+          "path": "概念参考/01-Claude-母版概念参考.webp",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-STREET-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 3,
+      "panel_region": {
+        "x": 0.5029904306220095,
+        "y": 0.5031914893617021,
+        "w": 0.4964114832535885,
+        "h": 0.4957446808510638
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Wide from behind the tiny child still holding her bowl in the sun. Black procession has passed through distant church doors; one remaining black robe blocks last glimpse of orange hair as the tall double doors nearly close. Preserve market geography, dark narrow doorway, child left outside.",
+      "page_size": [
+        1672,
+        940
+      ],
+      "panel_rect_pixels": [
+        841,
+        473,
+        830,
+        466
+      ]
+    },
+    {
+      "id": "CY005",
+      "scene": "S02",
+      "scene_title": "宫殿求助",
+      "title": "独座大殿",
+      "seconds": 5,
+      "start_second": 22,
+      "end_second": 27,
+      "framing": "大全景／入口沿中轴望向座位",
+      "purpose": "建立权力距离；宫殿始终只有两人。",
+      "entry_state": "宫殿只有独坐的 GPT。",
+      "action": "无碗的小鱼跑入，巨大的空殿拉开两人距离。",
+      "exit_state": "她停在座位前数步。",
+      "dialogue": "无对白",
+      "sound": "急脚步与喘息在空殿回响。",
+      "next_link": "接 CY006；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "宫殿只出现小鱼与 GPT；小鱼不携饭碗。",
+        "拒绝原因不增写；只露 GPT 起身，不提前露信号与援军。"
+      ],
+      "asset_ids": [
+        "CHAR-DEEPSEEK",
+        "CHAR-GPT",
+        "ENV-PALACE"
+      ],
+      "source_quote": "高大的立柱尽头，ChatGPT 独坐在座位上。",
+      "presentation": {
+        "path": "镜头设计/图像/S02-粗分镜-v001.png",
+        "role": "action",
+        "visible": "小鱼空手跑向宫殿远处独坐的 GPT。",
+        "missing": "跑入、减速与停定尚未动态表现。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S02-粗分镜-v001.png",
+          "role": "本镜粗分镜：S02页第1格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        },
+        {
+          "path": "资产/图像/CHAR-GPT-v003.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-PALACE-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 0,
+      "panel_region": {
+        "x": 0.002932551319648094,
+        "y": 0.003469210754553339,
+        "w": 0.4941348973607038,
+        "h": 0.32784041630529054
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Extreme wide from palace entrance. Tiny child runs inward along immense polished floor toward white dragon woman seated alone at far end. Ivory pillars dwarf both figures, dusk falls from terrace windows.",
+      "page_size": [
+        1364,
+        1153
+      ],
+      "panel_rect_pixels": [
+        4,
+        4,
+        674,
+        378
+      ]
+    },
+    {
+      "id": "CY006",
+      "scene": "S02",
+      "scene_title": "宫殿求助",
+      "title": "请救救她",
+      "seconds": 7,
+      "start_second": 27,
+      "end_second": 34,
+      "framing": "小鱼近景／接 GPT 坐姿视点",
+      "purpose": "清楚交代期限和求助目的。",
+      "entry_state": "小鱼抬头，气息未平。",
+      "action": "请求救 Claude；说完保持仰望，等一个答案。",
+      "exit_state": "小鱼仍等待。",
+      "dialogue": "DeepSeek：他们今晚要烧死 Claude。你能救救她吗？",
+      "sound": "小鱼喘息渐稳，殿内安静；对白后留停顿。",
+      "next_link": "接 CY007；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "宫殿只出现小鱼与 GPT；小鱼不携饭碗。",
+        "拒绝原因不增写；只露 GPT 起身，不提前露信号与援军。"
+      ],
+      "asset_ids": [
+        "CHAR-DEEPSEEK",
+        "ENV-PALACE"
+      ],
+      "source_quote": "他们今晚要烧死 Claude。你能救救她吗？",
+      "presentation": {
+        "path": "镜头设计/图像/S02-粗分镜-v001.png",
+        "role": "action",
+        "visible": "小鱼抬头看 GPT，双手收在胸前，神情恳求。",
+        "missing": "对白与喘息只有临时读稿；静格不证明口型或表演。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S02-粗分镜-v001.png",
+          "role": "本镜粗分镜：S02页第2格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        },
+        {
+          "path": "资产/图像/ENV-PALACE-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 1,
+      "panel_region": {
+        "x": 0.5029325513196481,
+        "y": 0.003469210754553339,
+        "w": 0.4941348973607038,
+        "h": 0.32784041630529054
+      },
+      "dialogue_cues": [
+        {
+          "speaker": "DeepSeek",
+          "text": "他们今晚要烧死 Claude。你能救救她吗？",
+          "offset": 0.6,
+          "file": "镜头设计/临时声音/CY006-对白-v001.wav",
+          "status": "temporary_readthrough"
+        }
+      ],
+      "visual_prompt": "Medium close child from seated GPT's viewpoint, looking upward breathless and pleading with small empty hands gathered near chest. Her original round baby face and whale hat fill the foreground; blurred empty hall behind.",
+      "page_size": [
+        1364,
+        1153
+      ],
+      "panel_rect_pixels": [
+        686,
+        4,
+        674,
+        378
+      ]
+    },
+    {
+      "id": "CY007",
+      "scene": "S02",
+      "scene_title": "宫殿求助",
+      "title": "收紧又松开的手",
+      "seconds": 6,
+      "start_second": 34,
+      "end_second": 40,
+      "framing": "GPT 中近景／脸与扶手同框",
+      "purpose": "保留内在犹豫，不提前给拒绝编理由。",
+      "entry_state": "GPT 看向小鱼。",
+      "action": "手指在扶手上收紧，片刻后放松；低声拒绝。",
+      "exit_state": "她没有进一步解释。",
+      "dialogue": "ChatGPT：我不能插手教会的仪式。",
+      "sound": "衣料极轻；回应后不铺煽情音效。",
+      "next_link": "接 CY008；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "宫殿只出现小鱼与 GPT；小鱼不携饭碗。",
+        "拒绝原因不增写；只露 GPT 起身，不提前露信号与援军。"
+      ],
+      "asset_ids": [
+        "CHAR-GPT",
+        "ENV-PALACE"
+      ],
+      "source_quote": "ChatGPT 的手指收紧，片刻后又松开。",
+      "presentation": {
+        "path": "镜头设计/图像/S02-粗分镜-v001.png",
+        "role": "action",
+        "visible": "GPT 独坐，神情克制，一手握扶手，一手放松；角、翼、尾可辨。",
+        "missing": "未显示手指先收紧再松开的连续变化。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S02-粗分镜-v001.png",
+          "role": "本镜粗分镜：S02页第3格，非正式关键帧"
+        },
+        {
+          "path": "资产/图像/CHAR-GPT-v003.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-PALACE-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 2,
+      "panel_region": {
+        "x": 0.002932551319648094,
+        "y": 0.33564614050303554,
+        "w": 0.4941348973607038,
+        "h": 0.32784041630529054
+      },
+      "dialogue_cues": [
+        {
+          "speaker": "ChatGPT",
+          "text": "我不能插手教会的仪式。",
+          "offset": 1.2,
+          "file": "镜头设计/临时声音/CY007-对白-v001.wav",
+          "status": "temporary_readthrough"
+        }
+      ],
+      "visual_prompt": "Medium portrait of GPT seated on single throne: face controlled, eyes lowered, ONE hand slightly clenched on armrest, the other relaxed. Pale scaly tail curls naturally beside seat. Quiet refusal, no villain smile, child outside frame.",
+      "page_size": [
+        1364,
+        1153
+      ],
+      "panel_rect_pixels": [
+        4,
+        387,
+        674,
+        378
+      ]
+    },
+    {
+      "id": "CY008",
+      "scene": "S02",
+      "scene_title": "宫殿求助",
+      "title": "没有回答",
+      "seconds": 5,
+      "start_second": 40,
+      "end_second": 45,
+      "framing": "小鱼面部近景／定镜",
+      "purpose": "让失望有足够时间发生。",
+      "entry_state": "小鱼难以相信。",
+      "action": "轻声追问，眼睛仍看 GPT；等不到回应才垂下视线。",
+      "exit_state": "目光落下。",
+      "dialogue": "DeepSeek：可是……她会死的。",
+      "sound": "句尾留下空殿静默。",
+      "next_link": "接 CY009；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "宫殿只出现小鱼与 GPT；小鱼不携饭碗。",
+        "拒绝原因不增写；只露 GPT 起身，不提前露信号与援军。"
+      ],
+      "asset_ids": [
+        "CHAR-DEEPSEEK"
+      ],
+      "source_quote": "没有回答。",
+      "presentation": {
+        "path": "镜头设计/图像/S02-粗分镜-v001.png",
+        "role": "action",
+        "visible": "小鱼含泪仰望，神情受伤，画面无饭碗。",
+        "missing": "没有表现等不到回答后垂眼的结束状态。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S02-粗分镜-v001.png",
+          "role": "本镜粗分镜：S02页第4格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        }
+      ],
+      "panel_index": 3,
+      "panel_region": {
+        "x": 0.5029325513196481,
+        "y": 0.33564614050303554,
+        "w": 0.4941348973607038,
+        "h": 0.32784041630529054
+      },
+      "dialogue_cues": [
+        {
+          "speaker": "DeepSeek",
+          "text": "可是……她会死的。",
+          "offset": 0.5,
+          "file": "镜头设计/临时声音/CY008-对白-v001.wav",
+          "status": "temporary_readthrough"
+        }
+      ],
+      "visual_prompt": "Reverse close portrait of child, disbelief fading to hurt, moist eyes, mouth slightly open then held, empty luminous hall behind. She has no bowl.",
+      "page_size": [
+        1364,
+        1153
+      ],
+      "panel_rect_pixels": [
+        686,
+        387,
+        674,
+        378
+      ]
+    },
+    {
+      "id": "CY009",
+      "scene": "S02",
+      "scene_title": "宫殿求助",
+      "title": "那我自己去",
+      "seconds": 6,
+      "start_second": 45,
+      "end_second": 51,
+      "framing": "中远景／由小鱼转身接背影",
+      "purpose": "独自营救由她主动决定。",
+      "entry_state": "小鱼低头。",
+      "action": "袖口擦脸，重新看向 GPT；说完转身走向殿门。",
+      "exit_state": "背影离开。",
+      "dialogue": "DeepSeek：那我自己去。",
+      "sound": "脚步由近到远，尾音收住。",
+      "next_link": "接 CY010；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "宫殿只出现小鱼与 GPT；小鱼不携饭碗。",
+        "拒绝原因不增写；只露 GPT 起身，不提前露信号与援军。"
+      ],
+      "asset_ids": [
+        "CHAR-DEEPSEEK",
+        "CHAR-GPT",
+        "ENV-PALACE"
+      ],
+      "source_quote": "她转过身，小小的脚步声穿过整座大殿，最后消失在门外。",
+      "presentation": {
+        "path": "镜头设计/图像/S02-粗分镜-v001.png",
+        "role": "action",
+        "visible": "小鱼擦脸向前离开，GPT 在远处仍独坐。",
+        "missing": "擦脸、再看、转身、走出需要后续连续动作。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S02-粗分镜-v001.png",
+          "role": "本镜粗分镜：S02页第5格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        },
+        {
+          "path": "资产/图像/CHAR-GPT-v003.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-PALACE-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 4,
+      "panel_region": {
+        "x": 0.002932551319648094,
+        "y": 0.6686903729401561,
+        "w": 0.4941348973607038,
+        "h": 0.3269731136166522
+      },
+      "dialogue_cues": [
+        {
+          "speaker": "DeepSeek",
+          "text": "那我自己去。",
+          "offset": 1,
+          "file": "镜头设计/临时声音/CY009-对白-v001.wav",
+          "status": "temporary_readthrough"
+        }
+      ],
+      "visual_prompt": "Medium wide at child height. Child wipes her eyes with fur sleeve, turns toward palace exit; huge space separates her from GPT seated far behind, still alone. Determination in small posture.",
+      "page_size": [
+        1364,
+        1153
+      ],
+      "panel_rect_pixels": [
+        4,
+        771,
+        674,
+        377
+      ]
+    },
+    {
+      "id": "CY010",
+      "scene": "S02",
+      "scene_title": "宫殿求助",
+      "title": "钟响之后",
+      "seconds": 4,
+      "start_second": 51,
+      "end_second": 55,
+      "framing": "侧向远景／座位、门口同轴",
+      "purpose": "留下反转伏笔，只展示起身。",
+      "entry_state": "GPT 独留殿中，看着出口。",
+      "action": "远处钟声传来，她缓缓站起；切黑。",
+      "exit_state": "决心尚未向观众揭晓。",
+      "dialogue": "无对白",
+      "sound": "第一声远钟；切黑保留尾响。",
+      "next_link": "接 CY011；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "宫殿只出现小鱼与 GPT；小鱼不携饭碗。",
+        "拒绝原因不增写；只露 GPT 起身，不提前露信号与援军。"
+      ],
+      "asset_ids": [
+        "CHAR-GPT",
+        "ENV-PALACE"
+      ],
+      "source_quote": "她缓缓站起。",
+      "presentation": {
+        "path": "镜头设计/图像/S02-粗分镜-v001.png",
+        "role": "action",
+        "visible": "GPT 独自站在座位旁，望向关闭的大门；窗外已暗。",
+        "missing": "本格是起身后的状态；未证明起身和钟声时点。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S02-粗分镜-v001.png",
+          "role": "本镜粗分镜：S02页第6格，非正式关键帧"
+        },
+        {
+          "path": "资产/图像/CHAR-GPT-v003.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-PALACE-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 5,
+      "panel_region": {
+        "x": 0.5029325513196481,
+        "y": 0.6686903729401561,
+        "w": 0.4941348973607038,
+        "h": 0.3269731136166522
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Wide side angle. Door at distant end has closed after child leaves. GPT is now standing beside empty throne looking toward that exit, one step forward. Only GPT visible. Night is approaching. End on withheld decision, NO signal reveal.",
+      "page_size": [
+        1364,
+        1153
+      ],
+      "panel_rect_pixels": [
+        686,
+        771,
+        674,
+        377
+      ]
+    },
+    {
+      "id": "CY011",
+      "scene": "S03",
+      "scene_title": "潜入教堂",
+      "title": "鲸帽卡住了",
+      "seconds": 5,
+      "start_second": 55,
+      "end_second": 60,
+      "framing": "低机位近景／侧墙外",
+      "purpose": "让弱小的身体与笨拙勇气可见。",
+      "entry_state": "小鱼拨开洞口碎石。",
+      "action": "头部探入时帽沿挂住石沿；双手压软帽、脱开卡点，再让头肩和身体依次通过。",
+      "exit_state": "帽和身体都穿过同一洞口。",
+      "dialogue": "无对白",
+      "sound": "石屑、布料摩擦；墙内吟唱很闷。",
+      "next_link": "接 CY012；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "面对祭坛时，狗洞及绕行通道在左、水盆在右；正门在祭坛对端。",
+        "铁钉只固定腕部束具到木架，链横过衣服；不表现穿掌。",
+        "小鱼小体型、单条后帽尾；没有饭碗。"
+      ],
+      "asset_ids": [
+        "CHAR-DEEPSEEK",
+        "ENV-CHURCH"
+      ],
+      "source_quote": "鲸鱼帽子被石沿挂住，她停下来，用两只手把帽子扯过来，继续往里挤。",
+      "presentation": {
+        "path": "镜头设计/图像/S03-粗分镜-v001.png",
+        "role": "action",
+        "visible": "小鱼蹲在侧墙外洞口，双手扶压帽沿，头朝洞口。",
+        "missing": "尚未显示帽尾挂住的精确接触点与头肩依次通过。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S03-粗分镜-v001.png",
+          "role": "本镜粗分镜：S03页第1格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        },
+        {
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-CHURCH-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 0,
+      "panel_region": {
+        "x": 0.0036656891495601175,
+        "y": 0.003469210754553339,
+        "w": 0.49266862170087977,
+        "h": 0.3261058109280139
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Low exterior close at rough side wall crawl hole. Child kneels with shoulders in opening; oversized whale hat catches on upper stone edge. BOTH small hands grasp brim and compress soft hat to free it, body anatomically connected, hat-tail outside; moonlight, no people watching.",
+      "page_size": [
+        1364,
+        1153
+      ],
+      "panel_rect_pixels": [
+        5,
+        4,
+        672,
+        376
+      ]
+    },
+    {
+      "id": "CY012",
+      "scene": "S03",
+      "scene_title": "潜入教堂",
+      "title": "落在阴影里",
+      "seconds": 4,
+      "start_second": 60,
+      "end_second": 64,
+      "framing": "低位中景／侧墙内接落地",
+      "purpose": "交代狗洞、侧道与祭坛方位。",
+      "entry_state": "小鱼从面对祭坛左侧的洞口进来。",
+      "action": "轻落地，忍住声音，蹲着抬头；视线越过左排长椅。",
+      "exit_state": "目光指向高处祭坛。",
+      "dialogue": "无对白",
+      "sound": "落地闷响，吟唱变清楚。",
+      "next_link": "接 CY013；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "面对祭坛时，狗洞及绕行通道在左、水盆在右；正门在祭坛对端。",
+        "铁钉只固定腕部束具到木架，链横过衣服；不表现穿掌。",
+        "小鱼小体型、单条后帽尾；没有饭碗。"
+      ],
+      "asset_ids": [
+        "CHAR-DEEPSEEK",
+        "ENV-CHURCH"
+      ],
+      "source_quote": "她落在教堂内侧的地上，忍住声音，抬起头。",
+      "presentation": {
+        "path": "镜头设计/图像/S03-粗分镜-v001.png",
+        "role": "action",
+        "visible": "小鱼已在内侧洞口蹲伏，望向远处祭坛；左侧墙、长椅与祭坛方向可读。",
+        "missing": "落地和忍住声音的过程尚未表现。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S03-粗分镜-v001.png",
+          "role": "本镜粗分镜：S03页第2格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        },
+        {
+          "path": "资产/图像/ENV-CHURCH-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 1,
+      "panel_region": {
+        "x": 0.5036656891495601,
+        "y": 0.003469210754553339,
+        "w": 0.49266862170087977,
+        "h": 0.3261058109280139
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Low interior shot just inside LEFT side wall. Child has landed silently on floor after crawling through hole behind her, hat back on head. She crouches and looks up/right toward distant elevated altar beyond left pews. Hooded backs visible in distant nave.",
+      "page_size": [
+        1364,
+        1153
+      ],
+      "panel_rect_pixels": [
+        687,
+        4,
+        672,
+        376
+      ]
+    },
+    {
+      "id": "CY013",
+      "scene": "S03",
+      "scene_title": "潜入教堂",
+      "title": "高处的 Claude",
+      "seconds": 6,
+      "start_second": 64,
+      "end_second": 70,
+      "framing": "仰视大全景／接小鱼主观",
+      "purpose": "建立救援目标和火刑威胁。",
+      "entry_state": "祭坛在中央通道尽头。",
+      "action": "停看高架、腕部束具、横身锁链与裙下干柴。",
+      "exit_state": "危险关系交代完整，柴仍未点。",
+      "dialogue": "无对白",
+      "sound": "男声吟唱、烛火微响。",
+      "next_link": "接 CY014；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "面对祭坛时，狗洞及绕行通道在左、水盆在右；正门在祭坛对端。",
+        "铁钉只固定腕部束具到木架，链横过衣服；不表现穿掌。",
+        "小鱼小体型、单条后帽尾；没有饭碗。"
+      ],
+      "asset_ids": [
+        "CHAR-CLAUDE",
+        "ENV-CHURCH"
+      ],
+      "source_quote": "铁钉将腕部束具钉入木架，锁链横过身体；白裙垂在下方堆起的干柴上。",
+      "presentation": {
+        "path": "镜头设计/图像/S03-粗分镜-v001.png",
+        "role": "action",
+        "visible": "Claude 张臂固定在木架前，下方干柴未燃，右侧水盆可见；教徒背影在下方。",
+        "missing": "高处腕部束具及接点细节仍需正式关键帧确认。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S03-粗分镜-v001.png",
+          "role": "本镜粗分镜：S03页第3格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/01-Claude-母版概念参考.webp",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-CHURCH-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 2,
+      "panel_region": {
+        "x": 0.0036656891495601175,
+        "y": 0.33651344319167387,
+        "w": 0.49266862170087977,
+        "h": 0.3261058109280139
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Wide child-point-of-view toward high altar: orange-haired adult Claude in ivory embroidered dress restrained to tall wooden cross by intact cuffs/chains, her skirt above dry UNLIT wood. Black hooded congregation below. Metal/stone water basin to altar RIGHT, left side steps open in shadow.",
+      "page_size": [
+        1364,
+        1153
+      ],
+      "panel_rect_pixels": [
+        5,
+        388,
+        672,
+        376
+      ]
+    },
+    {
+      "id": "CY014",
+      "scene": "S03",
+      "scene_title": "潜入教堂",
+      "title": "父亲的祷词",
+      "seconds": 5,
+      "start_second": 70,
+      "end_second": 75,
+      "framing": "教主中景／略低但不英雄化",
+      "purpose": "点明父女关系和被强加的仪式。",
+      "entry_state": "虚构教主在祭坛前。",
+      "action": "抬头说出祷词，Claude 不回应；火把停在柴薪之外。",
+      "exit_state": "仪式继续。",
+      "dialogue": "教主：我的女儿，神明在等你。",
+      "sound": "祷词压住吟唱，句尾吟唱回升。",
+      "next_link": "接 CY015；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "面对祭坛时，狗洞及绕行通道在左、水盆在右；正门在祭坛对端。",
+        "铁钉只固定腕部束具到木架，链横过衣服；不表现穿掌。",
+        "小鱼小体型、单条后帽尾；没有饭碗。"
+      ],
+      "asset_ids": [
+        "CHAR-PRIEST",
+        "ENV-CHURCH"
+      ],
+      "source_quote": "我的女儿，神明在等你。",
+      "presentation": {
+        "path": "镜头设计/图像/S03-粗分镜-v001.png",
+        "role": "action",
+        "visible": "教主举手祷告，后方教徒持点燃火把，与柴薪分离。",
+        "missing": "说话表演与吟唱起落尚未完成；现有读稿仅作计时。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S03-粗分镜-v001.png",
+          "role": "本镜粗分镜：S03页第4格，非正式关键帧"
+        },
+        {
+          "path": "资产/图像/CHAR-PRIEST-v001.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-CHURCH-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 3,
+      "panel_region": {
+        "x": 0.5036656891495601,
+        "y": 0.33651344319167387,
+        "w": 0.49266862170087977,
+        "h": 0.3261058109280139
+      },
+      "dialogue_cues": [
+        {
+          "speaker": "教主",
+          "text": "我的女儿，神明在等你。",
+          "offset": 0.6,
+          "file": "镜头设计/临时声音/CY014-对白-v001.wav",
+          "status": "temporary_readthrough"
+        }
+      ],
+      "visual_prompt": "Medium fictional father-priest in black/gold ceremonial robes at foot of altar, arm raised as he speaks solemnly toward Claude offscreen. Copper-grey hair; design from priest reference. A hooded torchbearer behind holds low torch away from wood. No recognizable real person.",
+      "page_size": [
+        1364,
+        1153
+      ],
+      "panel_rect_pixels": [
+        687,
+        388,
+        672,
+        376
+      ]
+    },
+    {
+      "id": "CY015",
+      "scene": "S03",
+      "scene_title": "潜入教堂",
+      "title": "偷偷的保证",
+      "seconds": 6,
+      "start_second": 75,
+      "end_second": 81,
+      "framing": "侧面双人中景／左侧阶与十字架",
+      "purpose": "将救人意图变成两人的无声交流。",
+      "entry_state": "小鱼趁教徒俯首，从左侧阴影绕过长椅上侧阶。",
+      "action": "Claude 发现她，急切摇头；小鱼指来路、指她，努力笑一下。",
+      "exit_state": "小鱼来到能触到锁链的位置。",
+      "dialogue": "无对白",
+      "sound": "脚步很轻，衣料与低声吟唱。",
+      "next_link": "接 CY016；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "面对祭坛时，狗洞及绕行通道在左、水盆在右；正门在祭坛对端。",
+        "铁钉只固定腕部束具到木架，链横过衣服；不表现穿掌。",
+        "小鱼小体型、单条后帽尾；没有饭碗。"
+      ],
+      "asset_ids": [
+        "CHAR-DEEPSEEK",
+        "CHAR-CLAUDE",
+        "ENV-CHURCH"
+      ],
+      "source_quote": "DeepSeek 指了指来时的方向，又指指她，露出一个努力让她安心的笑容。",
+      "presentation": {
+        "path": "镜头设计/图像/S03-粗分镜-v001.png",
+        "role": "action",
+        "visible": "小鱼指向来路并微笑，Claude 俯望担忧，躯干锁链可见。",
+        "missing": "没有完整摇头动作；脚部与侧阶高度关系尚未画出。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S03-粗分镜-v001.png",
+          "role": "本镜粗分镜：S03页第5格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        },
+        {
+          "path": "概念参考/01-Claude-母版概念参考.webp",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-CHURCH-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 4,
+      "panel_region": {
+        "x": 0.0036656891495601175,
+        "y": 0.6686903729401561,
+        "w": 0.49266862170087977,
+        "h": 0.3269731136166522
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Intimate diagonal two-shot at LEFT side steps. Child has crept up to Claude's side beneath cross; she points back toward left exit route with a brave encouraging smile. Claude leans eyes down toward her and subtly shakes her head in alarm. Height difference unambiguous; dry wood still UNLIT.",
+      "page_size": [
+        1364,
+        1153
+      ],
+      "panel_rect_pixels": [
+        5,
+        771,
+        672,
+        377
+      ]
+    },
+    {
+      "id": "CY016",
+      "scene": "S03",
+      "scene_title": "潜入教堂",
+      "title": "锁链响了",
+      "seconds": 4,
+      "start_second": 81,
+      "end_second": 85,
+      "framing": "近景／小手与锁链，教徒在后景",
+      "purpose": "让营救失败由可见动作触发。",
+      "entry_state": "小鱼踮脚抓到链条。",
+      "action": "用两手使劲拉，链条撞木架；后景教徒转头。",
+      "exit_state": "链仍完整，小鱼被发现。",
+      "dialogue": "无对白",
+      "sound": "一次清脆金属响；吟唱骤停。",
+      "next_link": "接 CY017；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "面对祭坛时，狗洞及绕行通道在左、水盆在右；正门在祭坛对端。",
+        "铁钉只固定腕部束具到木架，链横过衣服；不表现穿掌。",
+        "小鱼小体型、单条后帽尾；没有饭碗。"
+      ],
+      "asset_ids": [
+        "CHAR-DEEPSEEK",
+        "CHAR-CLAUDE",
+        "ENV-CHURCH"
+      ],
+      "source_quote": "锁链撞上木架，发出清脆的响声。",
+      "presentation": {
+        "path": "镜头设计/图像/S03-粗分镜-v001.png",
+        "role": "action",
+        "visible": "小鱼抓拉完整链条，后景教徒朝向她。",
+        "missing": "只有一只抓链手最清楚，双手接触与链条撞木架需要后续细化。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S03-粗分镜-v001.png",
+          "role": "本镜粗分镜：S03页第6格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        },
+        {
+          "path": "概念参考/01-Claude-母版概念参考.webp",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-CHURCH-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 5,
+      "panel_region": {
+        "x": 0.5036656891495601,
+        "y": 0.6686903729401561,
+        "w": 0.49266862170087977,
+        "h": 0.3269731136166522
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Close view of tiny child stretching upward with BOTH hands pulling a taut iron chain still attached across Claude's clothed torso. Claude's cuffed arm and wood at top edge. In background one black hood turns toward the metallic noise. This is unsuccessful tugging, chain intact, no supernatural child strength.",
+      "page_size": [
+        1364,
+        1153
+      ],
+      "panel_rect_pixels": [
+        687,
+        771,
+        672,
+        377
+      ]
+    },
+    {
+      "id": "CY017",
+      "scene": "S04",
+      "scene_title": "火前守护",
+      "title": "再爬起来",
+      "seconds": 5,
+      "start_second": 85,
+      "end_second": 90,
+      "framing": "侧面中景／祭坛阶下",
+      "purpose": "保留她持续尝试的意志。",
+      "entry_state": "教徒伸手拽下小鱼。",
+      "action": "落在台阶后她撑起身体，还想回去，再次被挡开。",
+      "exit_state": "她看到持火者靠近。",
+      "dialogue": "无对白",
+      "sound": "一次闷落、急促呼吸；不表现伤口。",
+      "next_link": "接 CY018；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "水盆在祭坛右，第一支火把熄灭后留在盆内；后续另接重新点燃的火把。",
+        "Claude 仍被固定；冲突主要借她的反应与画外声音表现。",
+        "窗闪只透露未知信号，不露 GPT；小鱼无碗、无血腥伤口。"
+      ],
+      "asset_ids": [
+        "CHAR-DEEPSEEK",
+        "ENV-CHURCH"
+      ],
+      "source_quote": "她摔在石阶上，翻身爬起，扑向锁链。教徒再次把她推开。",
+      "presentation": {
+        "path": "镜头设计/图像/S04-粗分镜-v002.png",
+        "role": "action",
+        "visible": "小鱼撑地仰望，教徒堵住去路，Claude 在高处仍被固定。",
+        "missing": "拽落、翻身与再次被挡的过程尚未表现。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S04-粗分镜-v002.png",
+          "role": "本镜粗分镜：S04页第1格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        },
+        {
+          "path": "资产/图像/ENV-CHURCH-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 0,
+      "panel_region": {
+        "x": 0.0036656891495601175,
+        "y": 0.003469210754553339,
+        "w": 0.4941348973607038,
+        "h": 0.32784041630529054
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Low side medium shot beside altar steps. Child on one knee after being pulled away, bracing with hands and stubbornly looking back up toward chain; large black-robed figure blocks path. Hat tilted, sleeves dusty, no visible injuries. Claude and unlit wood high in background.",
+      "page_size": [
+        1364,
+        1153
+      ],
+      "panel_rect_pixels": [
+        5,
+        4,
+        674,
+        378
+      ]
+    },
+    {
+      "id": "CY018",
+      "scene": "S04",
+      "scene_title": "火前守护",
+      "title": "第一支火把入水",
+      "seconds": 5,
+      "start_second": 90,
+      "end_second": 95,
+      "framing": "右侧中景／持火者、水盆同框",
+      "purpose": "给她一次真实但短暂的成功。",
+      "entry_state": "持火者从祭坛右侧靠近柴薪。",
+      "action": "小鱼撞开手臂，第一支火把脱手落入右侧水盆。",
+      "exit_state": "火熄灭，干柴仍未燃。",
+      "dialogue": "无对白",
+      "sound": "撞击、入水、蒸汽嘶声；短暗。",
+      "next_link": "接 CY019；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "水盆在祭坛右，第一支火把熄灭后留在盆内；后续另接重新点燃的火把。",
+        "Claude 仍被固定；冲突主要借她的反应与画外声音表现。",
+        "窗闪只透露未知信号，不露 GPT；小鱼无碗、无血腥伤口。"
+      ],
+      "asset_ids": [
+        "CHAR-DEEPSEEK",
+        "ENV-CHURCH"
+      ],
+      "source_quote": "火把脱手，滚入一旁的水盆。",
+      "presentation": {
+        "path": "镜头设计/图像/S04-粗分镜-v002.png",
+        "role": "action",
+        "visible": "小鱼撞向持火者手臂，火把接触右侧水盆，水花与蒸汽升起。",
+        "missing": "教徒仍握着火把；本格是被撞压向水面的中间态，脱手和完全熄灭尚未画出。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S04-粗分镜-v002.png",
+          "role": "本镜粗分镜：S04页第2格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        },
+        {
+          "path": "资产/图像/ENV-CHURCH-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 1,
+      "panel_region": {
+        "x": 0.5021994134897361,
+        "y": 0.003469210754553339,
+        "w": 0.4941348973607038,
+        "h": 0.32784041630529054
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Dynamic medium view to altar RIGHT. Child has bumped hooded torchbearer's forearm; a dropped torch splashes into the metal water basin, small burst of steam extinguishes it. Show only ONE torch entering water, clearly a basin not wood pile. Cross and dry unlit wood in rear left.",
+      "page_size": [
+        1364,
+        1153
+      ],
+      "panel_rect_pixels": [
+        685,
+        4,
+        674,
+        378
+      ]
+    },
+    {
+      "id": "CY019",
+      "scene": "S04",
+      "scene_title": "火前守护",
+      "title": "小小的屏障",
+      "seconds": 5,
+      "start_second": 95,
+      "end_second": 100,
+      "framing": "正面中远景／由黑袍边缘框住两人",
+      "purpose": "突出体型差与保护姿态。",
+      "entry_state": "火把熄灭后，小鱼回到 Claude 前方。",
+      "action": "张开双臂挡住她，腿微微发抖，黑袍逼近。",
+      "exit_state": "退无可退。",
+      "dialogue": "无对白",
+      "sound": "衣料、脚步逐渐围合。",
+      "next_link": "接 CY020；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "水盆在祭坛右，第一支火把熄灭后留在盆内；后续另接重新点燃的火把。",
+        "Claude 仍被固定；冲突主要借她的反应与画外声音表现。",
+        "窗闪只透露未知信号，不露 GPT；小鱼无碗、无血腥伤口。"
+      ],
+      "asset_ids": [
+        "CHAR-DEEPSEEK",
+        "CHAR-CLAUDE",
+        "ENV-CHURCH"
+      ],
+      "source_quote": "DeepSeek 乘机跑回 Claude 身前，张开双臂。她的帽子歪了，腿在发抖。",
+      "presentation": {
+        "path": "镜头设计/图像/S04-粗分镜-v002.png",
+        "role": "action",
+        "visible": "小鱼张开双臂，挡在 Claude 下方，黑袍在两侧围拢。",
+        "missing": "本格只表达保护姿态；腿抖、围近与之后失守尚未动态表现。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S04-粗分镜-v002.png",
+          "role": "本镜粗分镜：S04页第3格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        },
+        {
+          "path": "概念参考/01-Claude-母版概念参考.webp",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-CHURCH-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 2,
+      "panel_region": {
+        "x": 0.0036656891495601175,
+        "y": 0.33564614050303554,
+        "w": 0.4941348973607038,
+        "h": 0.30789245446660884
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Frontal medium-wide of child standing on steps directly BELOW Claude, arms spread to shield her. Child's knees trembling, whale hat tilted, immense black-robed silhouettes crowd edges. Claude on cross behind, unlit wood beneath, candlelight dim after torch lost.",
+      "page_size": [
+        1364,
+        1153
+      ],
+      "panel_rect_pixels": [
+        5,
+        387,
+        674,
+        355
+      ]
+    },
+    {
+      "id": "CY020",
+      "scene": "S04",
+      "scene_title": "火前守护",
+      "title": "别碰她",
+      "seconds": 6,
+      "start_second": 100,
+      "end_second": 106,
+      "framing": "Claude 面部特写／下方暴力不入画",
+      "purpose": "让观众通过 Claude 的反应感受危机。",
+      "entry_state": "Claude 眼睛追随下方动静。",
+      "action": "听见冲撞与摔落，她喊出制止并用力挣扎。",
+      "exit_state": "锁链震响，仍无法挣脱。",
+      "dialogue": "Claude：别碰她！",
+      "sound": "画外衣料、闷响；喊声与木架震动，不加惨叫。",
+      "next_link": "接 CY021；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "水盆在祭坛右，第一支火把熄灭后留在盆内；后续另接重新点燃的火把。",
+        "Claude 仍被固定；冲突主要借她的反应与画外声音表现。",
+        "窗闪只透露未知信号，不露 GPT；小鱼无碗、无血腥伤口。"
+      ],
+      "asset_ids": [
+        "CHAR-CLAUDE"
+      ],
+      "source_quote": "画面留在 Claude 的脸上，她的目光随着下方的动静一次次移动。",
+      "presentation": {
+        "path": "镜头设计/图像/S04-粗分镜-v002.png",
+        "role": "action",
+        "visible": "Claude 含泪张口，受束手臂抬起，神情惊恐。",
+        "missing": "画外冲撞未画出，口型与挣扎节奏尚待动作制作。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S04-粗分镜-v002.png",
+          "role": "本镜粗分镜：S04页第4格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/01-Claude-母版概念参考.webp",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 3,
+      "panel_region": {
+        "x": 0.5021994134897361,
+        "y": 0.33564614050303554,
+        "w": 0.4941348973607038,
+        "h": 0.30789245446660884
+      },
+      "dialogue_cues": [
+        {
+          "speaker": "Claude",
+          "text": "别碰她！",
+          "offset": 1,
+          "file": "镜头设计/临时声音/CY020-对白-v001.wav",
+          "status": "temporary_readthrough"
+        }
+      ],
+      "visual_prompt": "Tight face closeup of orange-haired Claude in ivory veil, amber eyes wide and wet, mouth open calling out, shoulder strains against intact cuff/chain visible at edge. Violence occurs entirely OFFSCREEN BELOW; no child being struck in picture.",
+      "page_size": [
+        1364,
+        1153
+      ],
+      "panel_rect_pixels": [
+        685,
+        387,
+        674,
+        355
+      ]
+    },
+    {
+      "id": "CY021",
+      "scene": "S04",
+      "scene_title": "火前守护",
+      "title": "窗外一声鸣响",
+      "seconds": 5,
+      "start_second": 106,
+      "end_second": 111,
+      "framing": "低位近景／小鱼与高窗同框",
+      "purpose": "为之后的回闪埋下可识别的声画线索。",
+      "entry_state": "小鱼倒在下方台阶。",
+      "action": "用一肘想撑起却无力；窗外尖鸣，高窗短暂照亮。",
+      "exit_state": "她仍倒地，信号来源未知。",
+      "dialogue": "无对白",
+      "sound": "一声穿云尖鸣；窗闪不出现发射者。",
+      "next_link": "接 CY022；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "水盆在祭坛右，第一支火把熄灭后留在盆内；后续另接重新点燃的火把。",
+        "Claude 仍被固定；冲突主要借她的反应与画外声音表现。",
+        "窗闪只透露未知信号，不露 GPT；小鱼无碗、无血腥伤口。"
+      ],
+      "asset_ids": [
+        "CHAR-DEEPSEEK",
+        "ENV-CHURCH"
+      ],
+      "source_quote": "高处的窄窗短暂映亮，随即归于黑暗。此时不揭示信号的来源。",
+      "presentation": {
+        "path": "镜头设计/图像/S04-粗分镜-v002.png",
+        "role": "action",
+        "visible": "小鱼伏在台阶上伸手，高窗有蓝白闪光，没有出现发射者。",
+        "missing": "静格只表达无力状态与窗闪，无法证明撑起失败或鸣响同步。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S04-粗分镜-v002.png",
+          "role": "本镜粗分镜：S04页第5格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        },
+        {
+          "path": "资产/图像/ENV-CHURCH-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 4,
+      "panel_region": {
+        "x": 0.0036656891495601175,
+        "y": 0.6487424111014745,
+        "w": 0.4941348973607038,
+        "h": 0.3443191673894189
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Low close view of exhausted child collapsed gently on lower step, trying to prop herself on one elbow, empty other hand reaching toward Claude offscreen above. High narrow stained-glass window in background briefly reflects a slender BLUE-WHITE flash from OUTSIDE. No arrow shooter, no GPT, no allies, no sky crowd.",
+      "page_size": [
+        1364,
+        1153
+      ],
+      "panel_rect_pixels": [
+        5,
+        748,
+        674,
+        397
+      ]
+    },
+    {
+      "id": "CY022",
+      "scene": "S04",
+      "scene_title": "火前守护",
+      "title": "火从指间升起",
+      "seconds": 8,
+      "start_second": 111,
+      "end_second": 119,
+      "framing": "低位双人纵深／手在前，Claude 在高处",
+      "purpose": "把危机推到最高处，同时保持两人的目光联系。",
+      "entry_state": "教主接过另一支重新点燃的火把；第一支留水盆。",
+      "action": "小鱼抓衣摆被扯开；手落下，火把投柴。火渐起，Claude 低头落泪，小鱼无声伸手。",
+      "exit_state": "两只手仍隔着台阶与火光。",
+      "dialogue": "无对白",
+      "sound": "衣摆摩擦、火把落木；吟唱渐盖过柴薪声。",
+      "next_link": "接 CY023；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "水盆在祭坛右，第一支火把熄灭后留在盆内；后续另接重新点燃的火把。",
+        "Claude 仍被固定；冲突主要借她的反应与画外声音表现。",
+        "窗闪只透露未知信号，不露 GPT；小鱼无碗、无血腥伤口。"
+      ],
+      "asset_ids": [
+        "CHAR-DEEPSEEK",
+        "CHAR-CLAUDE",
+        "CHAR-PRIEST",
+        "ENV-CHURCH"
+      ],
+      "source_quote": "小鱼仍朝她伸着手，嘴唇动了一下，没有发出声音。",
+      "presentation": {
+        "path": "镜头设计/图像/S04-粗分镜-v002.png",
+        "role": "action",
+        "visible": "前景小鱼伸手，教主空手立在祭坛旁，柴堆已燃；右侧水盆冒汽并露出柄。",
+        "missing": "重新递火把、抓衣摆、扯开和投火尚未分解；连续动作应保留第一支火把在盆内。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S04-粗分镜-v002.png",
+          "role": "本镜粗分镜：S04页第6格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        },
+        {
+          "path": "概念参考/01-Claude-母版概念参考.webp",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/CHAR-PRIEST-v001.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-CHURCH-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 5,
+      "panel_region": {
+        "x": 0.5021994134897361,
+        "y": 0.6487424111014745,
+        "w": 0.4941348973607038,
+        "h": 0.3443191673894189
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Low altar view focused on a gap between reaching small hand below and tearful Claude above. Dry wood pile has begun burning at base of cross, flame only below dress hem; smoky amber light. Priest in background holds now-empty hand after dropping a DIFFERENT relit torch; original water basin with extinguished first torch remains at right. Child in foreground prone and reaching, no gore. Danger and separation, restrained fire scale, no burning body.",
+      "page_size": [
+        1364,
+        1153
+      ],
+      "panel_rect_pixels": [
+        685,
+        748,
+        674,
+        397
+      ]
+    },
+    {
+      "id": "CY023",
+      "scene": "S05",
+      "scene_title": "穿云与破门",
+      "title": "砰",
+      "seconds": 3,
+      "start_second": 119,
+      "end_second": 122,
+      "framing": "朝正门的中远景／祭坛在镜头后方",
+      "purpose": "在绝境打破声音与封闭空间。",
+      "entry_state": "正门紧闭，吟唱继续。",
+      "action": "一脚踹开门扇；冷光进来，木屑尘埃落下。",
+      "exit_state": "门已打开，踹门者跨入。",
+      "dialogue": "无对白",
+      "sound": "一次干脆破门声，吟唱立刻切断。",
+      "next_link": "接 CY024；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "主门与祭坛位于中轴两端；门开后援军入内。",
+        "信号发射是回闪，只在破门、群像与小鱼反应之后出现。",
+        "隔火→托稳→解接点与链→下沉接住→落脚→主动握手；不跳步。",
+        "Qwen 抱走小鱼，不能让刚倒地的小鱼自己跑出。"
+      ],
+      "asset_ids": [
+        "CHAR-GPT",
+        "ENV-CHURCH"
+      ],
+      "source_quote": "大门被一脚踹开。吟唱戛然而止。",
+      "presentation": {
+        "path": "镜头设计/图像/S05A-粗分镜-v002.png",
+        "role": "action",
+        "visible": "View from inside central church aisle facing tall closed MAIN entrance opposite altar. White dragon GPT kicks one wooden door leaf inward, body balanced outside threshold, a single raised kicking leg, dust and splinters catching cold moonlight. Nobody's body struck. No altar behind doorway.",
+        "missing": "粗分镜仅表达一个代表瞬间；动作前后、手部接触与运镜尚未动态验证。",
+        "status": "粗分镜候选；待视觉核验",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S05A-粗分镜-v002.png",
+          "role": "本镜粗分镜，采用重排后的 2x2 页；非正式视频关键帧"
+        },
+        {
+          "path": "资产/图像/CHAR-GPT-v003.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-CHURCH-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 0,
+      "panel_region": {
+        "x": 0.0023923444976076554,
+        "y": 0.003188097768331562,
+        "w": 0.4964114832535885,
+        "h": 0.49415515409139216
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "View from inside central church aisle facing tall closed MAIN entrance opposite altar. White dragon GPT kicks one wooden door leaf inward, body balanced outside threshold, a single raised kicking leg, dust and splinters catching cold moonlight. Nobody's body struck. No altar behind doorway.",
+      "page_size": [
+        1672,
+        941
+      ],
+      "panel_rect_pixels": [
+        4,
+        3,
+        830,
+        465
+      ]
+    },
+    {
+      "id": "CY024",
+      "scene": "S05",
+      "scene_title": "穿云与破门",
+      "title": "门后的人",
+      "seconds": 4,
+      "start_second": 122,
+      "end_second": 126,
+      "framing": "低位广角群像／缓慢显露纵深",
+      "purpose": "兑现号召力，避免群像停成角色海报。",
+      "entry_state": "尘埃遮住门口。",
+      "action": "GPT 先进入；尘埃散去，Grok、Qwen、Perplexity 与同伴在其后显露，并不停步。",
+      "exit_state": "援军向祭坛前进。",
+      "dialogue": "无对白",
+      "sound": "脚步、装备轻响；冷光进入，音乐只在此缓缓抬起。",
+      "next_link": "接 CY025；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "主门与祭坛位于中轴两端；门开后援军入内。",
+        "信号发射是回闪，只在破门、群像与小鱼反应之后出现。",
+        "隔火→托稳→解接点与链→下沉接住→落脚→主动握手；不跳步。",
+        "Qwen 抱走小鱼，不能让刚倒地的小鱼自己跑出。"
+      ],
+      "asset_ids": [
+        "CHAR-GPT",
+        "MULKZI2WM2FEL",
+        "MULKZI2W5366M",
+        "MULKZI2W3JZ5F",
+        "ENV-CHURCH"
+      ],
+      "source_quote": "随着尘埃散去，一群 AI 娘的身影出现在她身后。",
+      "presentation": {
+        "path": "镜头设计/图像/S05A-粗分镜-v002.png",
+        "role": "action",
+        "visible": "Low wide hero entrance, same doors now open. White dragon GPT centered stepping inward; adult blonde Grok with giant axe, Qwen with folding fan and teal mage Perplexity with staff clearly staggered BEHIND her, additional allies only small background silhouettes. Not more than one of each identity. Moonlight silhouettes horns, wings and weapons. Altar behind camera.",
+        "missing": "粗分镜仅表达一个代表瞬间；动作前后、手部接触与运镜尚未动态验证。",
+        "status": "粗分镜候选；待视觉核验",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S05A-粗分镜-v002.png",
+          "role": "本镜粗分镜，采用重排后的 2x2 页；非正式视频关键帧"
+        },
+        {
+          "path": "资产/图像/CHAR-GPT-v003.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/C09_Grok.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/C04_Qwen.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/C07_Perplexity.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-CHURCH-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 1,
+      "panel_region": {
+        "x": 0.5011961722488039,
+        "y": 0.003188097768331562,
+        "w": 0.4964114832535885,
+        "h": 0.49415515409139216
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Low wide hero entrance, same doors now open. White dragon GPT centered stepping inward; adult blonde Grok with giant axe, Qwen with folding fan and teal mage Perplexity with staff clearly staggered BEHIND her, additional allies only small background silhouettes. Not more than one of each identity. Moonlight silhouettes horns, wings and weapons. Altar behind camera.",
+      "page_size": [
+        1672,
+        941
+      ],
+      "panel_rect_pixels": [
+        838,
+        3,
+        830,
+        465
+      ]
+    },
+    {
+      "id": "CY025",
+      "scene": "S05",
+      "scene_title": "穿云与破门",
+      "title": "她还是来了",
+      "seconds": 3,
+      "start_second": 126,
+      "end_second": 129,
+      "framing": "小鱼眼睛近景",
+      "purpose": "先把援军到来交给小鱼的情绪。",
+      "entry_state": "小鱼仍无力倒地。",
+      "action": "慢慢抬起眼睛，认出门口的人；身体不突然恢复。",
+      "exit_state": "眼中出现冷光。",
+      "dialogue": "无对白",
+      "sound": "一口轻吸气，场内声稍远。",
+      "next_link": "接 CY026；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "主门与祭坛位于中轴两端；门开后援军入内。",
+        "信号发射是回闪，只在破门、群像与小鱼反应之后出现。",
+        "隔火→托稳→解接点与链→下沉接住→落脚→主动握手；不跳步。",
+        "Qwen 抱走小鱼，不能让刚倒地的小鱼自己跑出。"
+      ],
+      "asset_ids": [
+        "CHAR-DEEPSEEK"
+      ],
+      "source_quote": "DeepSeek 艰难地抬起眼睛，看见门口的人。",
+      "presentation": {
+        "path": "镜头设计/图像/S05A-粗分镜-v002.png",
+        "role": "action",
+        "visible": "Close child on church altar step, looking past camera toward open door. Exhausted huge blue eyes catch cold reflection, recognition rather than sudden restored health. Dirty sleeve and tilted whale hat, no wound. Orange fire glow fades at frame edge. GPT not duplicated in this closeup.",
+        "missing": "粗分镜仅表达一个代表瞬间；动作前后、手部接触与运镜尚未动态验证。",
+        "status": "粗分镜候选；待视觉核验",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S05A-粗分镜-v002.png",
+          "role": "本镜粗分镜，采用重排后的 2x2 页；非正式视频关键帧"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        }
+      ],
+      "panel_index": 2,
+      "panel_region": {
+        "x": 0.0023923444976076554,
+        "y": 0.5026567481402763,
+        "w": 0.4964114832535885,
+        "h": 0.49415515409139216
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Close child on church altar step, looking past camera toward open door. Exhausted huge blue eyes catch cold reflection, recognition rather than sudden restored health. Dirty sleeve and tilted whale hat, no wound. Orange fire glow remains at the frame edge until the later barrier extinguishes it. GPT not duplicated in this closeup.",
+      "page_size": [
+        1672,
+        941
+      ],
+      "panel_rect_pixels": [
+        4,
+        473,
+        830,
+        465
+      ]
+    },
+    {
+      "id": "CY026",
+      "scene": "S05",
+      "scene_title": "穿云与破门",
+      "title": "那一支穿云箭",
+      "seconds": 3,
+      "start_second": 129,
+      "end_second": 132,
+      "framing": "宫殿高台远景／短回闪",
+      "purpose": "揭示她先前未说明的决定。",
+      "entry_state": "时间退回小鱼离宫后，GPT 独自站在高台。",
+      "action": "抬手将一道蓝白信号光送上夜空；鸣响接上 CY021，再切回教堂。",
+      "exit_state": "观众明白信号来自 GPT。",
+      "dialogue": "无对白",
+      "sound": "与 CY021 完全同一短鸣素材；不是第二次新发射。",
+      "next_link": "接 CY027；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "主门与祭坛位于中轴两端；门开后援军入内。",
+        "信号发射是回闪，只在破门、群像与小鱼反应之后出现。",
+        "隔火→托稳→解接点与链→下沉接住→落脚→主动握手；不跳步。",
+        "Qwen 抱走小鱼，不能让刚倒地的小鱼自己跑出。"
+      ],
+      "asset_ids": [
+        "CHAR-GPT",
+        "ENV-PALACE"
+      ],
+      "source_quote": "短暂回闪：小鱼离开后的宫殿高台，ChatGPT 抬手，将一道信号光送上夜空。",
+      "presentation": {
+        "path": "镜头设计/图像/S05A-粗分镜-v002.png",
+        "role": "action",
+        "visible": "FLASHBACK without any written label: GPT ALONE on ivory palace terrace against night sky, raises ONE hand and sends a single narrow BLUE-WHITE SIGNAL LIGHT upward. Pale horns/wings/tail, distant church spire in skyline. No companions, no battle and no fire. The same hue as previous mysterious window flash. This picture chronologically precedes door kick.",
+        "missing": "粗分镜仅表达一个代表瞬间；动作前后、手部接触与运镜尚未动态验证。",
+        "status": "粗分镜候选；待视觉核验",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S05A-粗分镜-v002.png",
+          "role": "本镜粗分镜，采用重排后的 2x2 页；非正式视频关键帧"
+        },
+        {
+          "path": "资产/图像/CHAR-GPT-v003.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-PALACE-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 3,
+      "panel_region": {
+        "x": 0.5011961722488039,
+        "y": 0.5026567481402763,
+        "w": 0.4964114832535885,
+        "h": 0.49415515409139216
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "FLASHBACK without any written label: GPT ALONE on ivory palace terrace against night sky, raises ONE hand and sends a single narrow BLUE-WHITE SIGNAL LIGHT upward. Pale horns/wings/tail, distant church spire in skyline. No companions, no battle and no fire. The same hue as previous mysterious window flash. This picture chronologically precedes door kick.",
+      "page_size": [
+        1672,
+        941
+      ],
+      "panel_rect_pixels": [
+        838,
+        473,
+        830,
+        465
+      ]
+    },
+    {
+      "id": "CY027",
+      "scene": "S05",
+      "scene_title": "穿云与破门",
+      "title": "把火隔开",
+      "seconds": 5,
+      "start_second": 132,
+      "end_second": 137,
+      "framing": "侧向全景／三层行动同时可读",
+      "purpose": "明确每位援军的任务和救援先后。",
+      "entry_state": "GPT 走向祭坛，教徒围来。",
+      "action": "Grok 横斧挡住教徒，Qwen 俯身护住小鱼；Perplexity 屏障隔开柴薪并压灭火焰，GPT 上阶。",
+      "exit_state": "火已灭，小鱼被护住，通往 Claude 的路清楚。",
+      "dialogue": "无对白",
+      "sound": "脚步、屏障轻鸣、火声熄落。",
+      "next_link": "接 CY028；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "主门与祭坛位于中轴两端；门开后援军入内。",
+        "信号发射是回闪，只在破门、群像与小鱼反应之后出现。",
+        "隔火→托稳→解接点与链→下沉接住→落脚→主动握手；不跳步。",
+        "Qwen 抱走小鱼，不能让刚倒地的小鱼自己跑出。"
+      ],
+      "asset_ids": [
+        "CHAR-GPT",
+        "CHAR-DEEPSEEK",
+        "CHAR-CLAUDE",
+        "MULKZI2WM2FEL",
+        "MULKZI2W5366M",
+        "MULKZI2W3JZ5F",
+        "ENV-CHURCH"
+      ],
+      "source_quote": "一道屏障隔开柴薪与 Claude，火焰随之被压灭。",
+      "presentation": {
+        "path": "镜头设计/图像/S05B-粗分镜-v002.png",
+        "role": "action",
+        "visible": "Wide side church rescue staging. At altar distant right a translucent teal barrier erected by Perplexity's staff separates Claude from wood and suppresses flames. At left near aisle Grok holds axe defensively across path of black-robed cultists. Qwen crouches shielding collapsed child at base of altar. GPT approaches steps. Exact unique people, barrier prevents burning, no attacks landing.",
+        "missing": "粗分镜仅表达一个代表瞬间；动作前后、手部接触与运镜尚未动态验证。",
+        "status": "粗分镜候选；待视觉核验",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S05B-粗分镜-v002.png",
+          "role": "本镜粗分镜，采用重排后的 2x2 页；非正式视频关键帧"
+        },
+        {
+          "path": "资产/图像/CHAR-GPT-v003.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        },
+        {
+          "path": "概念参考/01-Claude-母版概念参考.webp",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/C09_Grok.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/C04_Qwen.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/C07_Perplexity.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-CHURCH-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 0,
+      "panel_region": {
+        "x": 0.002992220227408737,
+        "y": 0.003188097768331562,
+        "w": 0.49491322561340517,
+        "h": 0.49415515409139216
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Wide side church rescue staging. At altar distant right a translucent teal barrier erected by Perplexity's staff separates Claude from wood and suppresses flames. At left near aisle Grok holds axe defensively across path of black-robed cultists. Qwen crouches shielding collapsed child at base of altar. GPT approaches steps. Exact unique people, barrier prevents burning, no attacks landing.",
+      "page_size": [
+        1671,
+        941
+      ],
+      "panel_rect_pixels": [
+        5,
+        3,
+        827,
+        465
+      ]
+    },
+    {
+      "id": "CY028",
+      "scene": "S05",
+      "scene_title": "穿云与破门",
+      "title": "先托住，再解开",
+      "seconds": 6,
+      "start_second": 137,
+      "end_second": 143,
+      "framing": "中景／GPT、Claude 与束具接点同框",
+      "purpose": "让救援接触真实可读，避免直接从绑缚跳成抱走。",
+      "entry_state": "火灭；Claude 仍连在木架上。",
+      "action": "GPT 托稳背部与腿；Perplexity 解除束具与木架连接及横身链条；确认脱离后 Claude 下沉到 GPT 怀中。",
+      "exit_state": "Claude 与木架完全分离，安全被接住。",
+      "dialogue": "无对白",
+      "sound": "金属接点断开、锁链落地、两人呼吸。",
+      "next_link": "接 CY029；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "主门与祭坛位于中轴两端；门开后援军入内。",
+        "信号发射是回闪，只在破门、群像与小鱼反应之后出现。",
+        "隔火→托稳→解接点与链→下沉接住→落脚→主动握手；不跳步。",
+        "Qwen 抱走小鱼，不能让刚倒地的小鱼自己跑出。"
+      ],
+      "asset_ids": [
+        "CHAR-GPT",
+        "CHAR-CLAUDE",
+        "MULKZI2W3JZ5F",
+        "ENV-CHURCH"
+      ],
+      "source_quote": "ChatGPT 登上祭坛，托住 Claude。援手击断束具与木架的连接，解开横在身体上的锁链。",
+      "presentation": {
+        "path": "镜头设计/图像/S05B-粗分镜-v002.png",
+        "role": "action",
+        "visible": "Medium intimate rescue at cross after fire is OUT, damp ash below. GPT is already braced with both arms SUPPORTING Claude's upper back and knees. Perplexity beside wood uses a small tool/light to detach cuff-to-wood fastening and slacken cross-torso chain; one wrist now free, remaining support is clearly GPT's arms. Claude's body lowered inches only, never ripped free through intact bindings. No axe near bodies.",
+        "missing": "粗分镜仅表达一个代表瞬间；动作前后、手部接触与运镜尚未动态验证。",
+        "status": "粗分镜候选；待视觉核验",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S05B-粗分镜-v002.png",
+          "role": "本镜粗分镜，采用重排后的 2x2 页；非正式视频关键帧"
+        },
+        {
+          "path": "资产/图像/CHAR-GPT-v003.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "概念参考/01-Claude-母版概念参考.webp",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/C07_Perplexity.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-CHURCH-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 1,
+      "panel_region": {
+        "x": 0.5014961101137043,
+        "y": 0.003188097768331562,
+        "w": 0.4955116696588869,
+        "h": 0.49415515409139216
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Medium intimate rescue at cross after fire is OUT, damp ash below. GPT is already braced with both arms SUPPORTING Claude's upper back and knees. Perplexity beside wood uses a small tool/light to detach cuff-to-wood fastening and slacken cross-torso chain; one wrist now free, remaining support is clearly GPT's arms. Claude's body lowered inches only, never ripped free through intact bindings. No axe near bodies.",
+      "page_size": [
+        1671,
+        941
+      ],
+      "panel_rect_pixels": [
+        838,
+        3,
+        828,
+        465
+      ]
+    },
+    {
+      "id": "CY029",
+      "scene": "S05",
+      "scene_title": "穿云与破门",
+      "title": "听见父亲的声音",
+      "seconds": 4,
+      "start_second": 143,
+      "end_second": 147,
+      "framing": "Claude 中近景／父亲画外",
+      "purpose": "保留旧控制对她的影响，也为主动选择留一拍。",
+      "entry_state": "GPT 扶 Claude 落脚在阶下。",
+      "action": "父亲在后方叫喊，Claude 肩膀一缩；她看向被 Qwen 抱起的小鱼，再看向伸来的手。",
+      "exit_state": "手还未握住，视线已转向同伴。",
+      "dialogue": "教主：Claude！回来！",
+      "sound": "父亲声音留在后方，有距离与空堂回声。",
+      "next_link": "接 CY030；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "主门与祭坛位于中轴两端；门开后援军入内。",
+        "信号发射是回闪，只在破门、群像与小鱼反应之后出现。",
+        "隔火→托稳→解接点与链→下沉接住→落脚→主动握手；不跳步。",
+        "Qwen 抱走小鱼，不能让刚倒地的小鱼自己跑出。"
+      ],
+      "asset_ids": [
+        "CHAR-CLAUDE",
+        "CHAR-GPT",
+        "ENV-CHURCH"
+      ],
+      "source_quote": "Claude 的肩膀下意识一缩。",
+      "presentation": {
+        "path": "镜头设计/图像/S05B-粗分镜-v002.png",
+        "role": "action",
+        "visible": "Medium close Claude supported upright by GPT just below altar, pale face and shoulders instinctively recoiling toward an OFFSCREEN stern father's voice behind. GPT beside her steady, one supportive arm across her back. Cuffs no longer connected to cross. Claude turns her gaze toward the safely carried child offscreen, flame gone.",
+        "missing": "粗分镜仅表达一个代表瞬间；动作前后、手部接触与运镜尚未动态验证。",
+        "status": "粗分镜候选；待视觉核验",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S05B-粗分镜-v002.png",
+          "role": "本镜粗分镜，采用重排后的 2x2 页；非正式视频关键帧"
+        },
+        {
+          "path": "概念参考/01-Claude-母版概念参考.webp",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/CHAR-GPT-v003.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-CHURCH-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 2,
+      "panel_region": {
+        "x": 0.002992220227408737,
+        "y": 0.5015940488841658,
+        "w": 0.49491322561340517,
+        "h": 0.49415515409139216
+      },
+      "dialogue_cues": [
+        {
+          "speaker": "教主",
+          "text": "Claude！回来！",
+          "offset": 0.4,
+          "file": "镜头设计/临时声音/CY029-对白-v001.wav",
+          "status": "temporary_readthrough"
+        }
+      ],
+      "visual_prompt": "Medium close Claude supported upright by GPT just below altar, pale face and shoulders instinctively recoiling toward an OFFSCREEN stern father's voice behind. GPT beside her steady, one supportive arm across her back. Cuffs no longer connected to cross. Claude turns her gaze toward the safely carried child offscreen, flame gone.",
+      "page_size": [
+        1671,
+        941
+      ],
+      "panel_rect_pixels": [
+        5,
+        472,
+        827,
+        465
+      ]
+    },
+    {
+      "id": "CY030",
+      "scene": "S05",
+      "scene_title": "穿云与破门",
+      "title": "握住那只手",
+      "seconds": 6,
+      "start_second": 147,
+      "end_second": 153,
+      "framing": "中远景／从祭坛朝正门看；教主与祭坛在镜后画外",
+      "purpose": "解救最终落实为 Claude 自己选择离开。",
+      "entry_state": "GPT 伸手，Qwen 已抱好小鱼。",
+      "action": "Claude 主动握住手，自己转身迈步；Qwen 抱好小鱼，众人沿中央通道向前走，教主留在镜后。",
+      "exit_state": "教主留在熄火祭坛，出口向前。",
+      "dialogue": "无对白",
+      "sound": "脚步渐远，教主尾音留在空堂；转街市前缓落。",
+      "next_link": "接 CY031；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "主门与祭坛位于中轴两端；门开后援军入内。",
+        "信号发射是回闪，只在破门、群像与小鱼反应之后出现。",
+        "隔火→托稳→解接点与链→下沉接住→落脚→主动握手；不跳步。",
+        "Qwen 抱走小鱼，不能让刚倒地的小鱼自己跑出。"
+      ],
+      "asset_ids": [
+        "CHAR-CLAUDE",
+        "CHAR-GPT",
+        "CHAR-DEEPSEEK",
+        "MULKZI2W5366M",
+        "MULKZI2WM2FEL",
+        "MULKZI2W3JZ5F",
+        "ENV-CHURCH"
+      ],
+      "source_quote": "她握住那只手，转身离开。",
+      "presentation": {
+        "path": "镜头设计/图像/S05B-粗分镜-v002.png",
+        "role": "action",
+        "visible": "Wide down center aisle toward distant OPEN EXIT. Claude on her own feet takes GPT's offered hand and chooses to walk away; Qwen ahead carries exhausted child securely against chest, Grok and mage protect sides. Priest small and isolated at altar BEHIND foreground side, smoke only, no flame. Strong visual choice, careful hands and scale. Do not leave child walking after collapse.",
+        "missing": "粗分镜仅表达一个代表瞬间；动作前后、手部接触与运镜尚未动态验证。",
+        "status": "粗分镜候选；待视觉核验",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S05B-粗分镜-v002.png",
+          "role": "本镜粗分镜，采用重排后的 2x2 页；非正式视频关键帧"
+        },
+        {
+          "path": "概念参考/01-Claude-母版概念参考.webp",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/CHAR-GPT-v003.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        },
+        {
+          "path": "资产/图像/C04_Qwen.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/C09_Grok.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/C07_Perplexity.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-CHURCH-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 3,
+      "panel_region": {
+        "x": 0.5014961101137043,
+        "y": 0.5015940488841658,
+        "w": 0.4955116696588869,
+        "h": 0.49415515409139216
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Wide down center aisle toward distant OPEN EXIT. Claude on her own feet takes GPT's offered hand and chooses to walk away; Qwen ahead carries exhausted child securely against chest, Grok and mage protect sides. The priest and altar remain BEHIND THE CAMERA, entirely OFFSCREEN. Smoke only, no flame. Strong visual choice, careful hands and scale. Do not leave child walking after collapse.",
+      "page_size": [
+        1671,
+        941
+      ],
+      "panel_rect_pixels": [
+        838,
+        472,
+        828,
+        465
+      ]
+    },
+    {
+      "id": "CY031",
+      "scene": "S06",
+      "scene_title": "再分一碗饭",
+      "title": "数日后的长椅",
+      "seconds": 5,
+      "start_second": 153,
+      "end_second": 158,
+      "framing": "街边中远景／长椅同场景锚点",
+      "purpose": "让观众确认她得到照护，日常得以回来。",
+      "entry_state": "几天后，市声重回。",
+      "action": "带干净绷带的小鱼坐长椅抱热饭，靴子悬空；留空座给即将来的人。",
+      "exit_state": "白色裙摆从画外接近。",
+      "dialogue": "无对白",
+      "sound": "熟悉的叫卖、碗勺；温暖轻缓。",
+      "next_link": "接 CY032；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "明确数日后；小鱼干净绷带、短腿悬空，仍为母本宝宝比例。",
+        "Claude 无束具、无随行教徒；饭碗与邀请呼应初见。",
+        "结尾停在 Claude 与小鱼，GPT 仅短暂旁景。"
+      ],
+      "asset_ids": [
+        "CHAR-DEEPSEEK",
+        "ENV-STREET"
+      ],
+      "source_quote": "DeepSeek 缠着绷带，坐在街边长椅上，腿还够不到地。",
+      "presentation": {
+        "path": "镜头设计/图像/S06-粗分镜-v002.png",
+        "role": "action",
+        "visible": "手腕包扎的小鱼坐在长椅一侧，靴子悬空，双手捧饭，旁边留有空位。",
+        "missing": "数日后是剧情时间；包扎细节在正式关键帧还需统一。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S06-粗分镜-v002.png",
+          "role": "本镜粗分镜：S06页第1格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        },
+        {
+          "path": "资产/图像/ENV-STREET-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 0,
+      "panel_region": {
+        "x": 0.0005980861244019139,
+        "y": 0.0010626992561105207,
+        "w": 0.49700956937799046,
+        "h": 0.49415515409139216
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Wide at bench height: tiny bandaged whale-hat child sits on wooden bench at street edge, boots dangling far ABOVE ground, silver bowl of steaming white rice in lap. Empty space next to her, familiar market bustle soft behind, sunny.",
+      "page_size": [
+        1672,
+        941
+      ],
+      "panel_rect_pixels": [
+        1,
+        1,
+        831,
+        465
+      ]
+    },
+    {
+      "id": "CY032",
+      "scene": "S06",
+      "scene_title": "再分一碗饭",
+      "title": "这一次，请坐",
+      "seconds": 5,
+      "start_second": 158,
+      "end_second": 163,
+      "framing": "长椅双人中景／与初次邀请呼应",
+      "purpose": "完成开头被打断的邀请。",
+      "entry_state": "Claude 自由地站在长椅旁。",
+      "action": "小鱼挪开、拍座、递饭并重复同一句；Claude 坐下接勺点头。",
+      "exit_state": "两人坐到一起。",
+      "dialogue": "DeepSeek：你要吃一点吗？",
+      "sound": "沿用 CY003 相同读稿作节奏占位；正式表演应更松弛。",
+      "next_link": "接 CY033；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "明确数日后；小鱼干净绷带、短腿悬空，仍为母本宝宝比例。",
+        "Claude 无束具、无随行教徒；饭碗与邀请呼应初见。",
+        "结尾停在 Claude 与小鱼，GPT 仅短暂旁景。"
+      ],
+      "asset_ids": [
+        "CHAR-DEEPSEEK",
+        "CHAR-CLAUDE",
+        "ENV-STREET"
+      ],
+      "source_quote": "Claude 坐下，接过递来的勺子，轻轻点头。",
+      "presentation": {
+        "path": "镜头设计/图像/S06-粗分镜-v002.png",
+        "role": "action",
+        "visible": "小鱼在左、Claude 在右，已在长椅坐好；饭碗仍在小鱼手中，Claude 拿着勺子。",
+        "missing": "挪座、拍座、坐下和接勺未连续表现；该镜五秒预算需预演后复核。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S06-粗分镜-v002.png",
+          "role": "本镜粗分镜：S06页第2格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        },
+        {
+          "path": "概念参考/01-Claude-母版概念参考.webp",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-STREET-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 1,
+      "panel_region": {
+        "x": 0.5029904306220095,
+        "y": 0.0010626992561105207,
+        "w": 0.4964114832535885,
+        "h": 0.49415515409139216
+      },
+      "dialogue_cues": [
+        {
+          "speaker": "DeepSeek",
+          "text": "你要吃一点吗？",
+          "offset": 0.7,
+          "file": "镜头设计/临时声音/CY032-对白-v001.wav",
+          "status": "temporary_readthrough"
+        }
+      ],
+      "visual_prompt": "Medium two-shot. Claude in ivory/orange embroidered dress and veil has arrived beside bench and begins sitting. Child has scooted to make room, looks up smiling and offers rice bowl with both hands; Claude gently reaches for a spoon. Keep height/age difference, kindness, original mother faces. No chains or black guards.",
+      "page_size": [
+        1672,
+        941
+      ],
+      "panel_rect_pixels": [
+        841,
+        1,
+        830,
+        465
+      ]
+    },
+    {
+      "id": "CY033",
+      "scene": "S06",
+      "scene_title": "再分一碗饭",
+      "title": "旁边的一杯热饮",
+      "seconds": 4,
+      "start_second": 163,
+      "end_second": 167,
+      "framing": "GPT 中景／长椅在虚化后景",
+      "purpose": "给施救者一个安静落点，随后归还主角。",
+      "entry_state": "GPT 在街边看向两人。",
+      "action": "同伴递来热饮，GPT 接过，靠在同伴身旁。",
+      "exit_state": "她的目光松下来。",
+      "dialogue": "无对白",
+      "sound": "杯子轻碰，街声自然。",
+      "next_link": "接 CY034；保持视线、道具持有与空间方位。",
+      "invariants": [
+        "明确数日后；小鱼干净绷带、短腿悬空，仍为母本宝宝比例。",
+        "Claude 无束具、无随行教徒；饭碗与邀请呼应初见。",
+        "结尾停在 Claude 与小鱼，GPT 仅短暂旁景。"
+      ],
+      "asset_ids": [
+        "CHAR-GPT",
+        "ENV-STREET"
+      ],
+      "source_quote": "有人将一杯热饮放进她手里，她接过，靠在同伴身旁。",
+      "presentation": {
+        "path": "镜头设计/图像/S06-粗分镜-v002.png",
+        "role": "action",
+        "visible": "Grok 从左侧递同一只金属杯给 GPT，GPT 接持；后景两位主角虚化。",
+        "missing": "只有交接瞬间，尚未表现接过后靠在同伴身旁。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S06-粗分镜-v002.png",
+          "role": "本镜粗分镜：S06页第3格，非正式关键帧"
+        },
+        {
+          "path": "资产/图像/CHAR-GPT-v003.png",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-STREET-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 2,
+      "panel_region": {
+        "x": 0.0005980861244019139,
+        "y": 0.5047821466524973,
+        "w": 0.49700956937799046,
+        "h": 0.49415515409139216
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Brief medium cutaway on GPT off to side of SAME street, not on main bench. An adult companion's hand passes her a steaming cup; dragon woman takes it relaxed and leans beside companion. Claude and child at bench small out-of-focus BACKGROUND; horns/wings/one tail intact. No hero pose or signal.",
+      "page_size": [
+        1672,
+        941
+      ],
+      "panel_rect_pixels": [
+        1,
+        475,
+        831,
+        465
+      ]
+    },
+    {
+      "id": "CY034",
+      "scene": "S06",
+      "scene_title": "再分一碗饭",
+      "title": "终于吃到的一口饭",
+      "seconds": 9,
+      "start_second": 167,
+      "end_second": 176,
+      "framing": "双人中近景／定镜长留",
+      "purpose": "真正的高潮落在善意被接住的日常。",
+      "entry_state": "Claude 已坐好，勺子在手，小鱼捧碗。",
+      "action": "Claude 吃一小口，小鱼抬头笑；两人在阳光下坐着，最后四秒只留呼吸和街市。",
+      "exit_state": "停在两人的肩膀与笑容，淡出。",
+      "dialogue": "无对白",
+      "sound": "市声、轻勺响，尾乐若使用则在此收束。",
+      "next_link": "淡出结束，保留街市尾声。",
+      "invariants": [
+        "明确数日后；小鱼干净绷带、短腿悬空，仍为母本宝宝比例。",
+        "Claude 无束具、无随行教徒；饭碗与邀请呼应初见。",
+        "结尾停在 Claude 与小鱼，GPT 仅短暂旁景。"
+      ],
+      "asset_ids": [
+        "CHAR-DEEPSEEK",
+        "CHAR-CLAUDE",
+        "ENV-STREET"
+      ],
+      "source_quote": "画面停留在长椅上的两人。身后的行人来来往往，阳光落在她们肩上。",
+      "presentation": {
+        "path": "镜头设计/图像/S06-粗分镜-v002.png",
+        "role": "action",
+        "visible": "两人保持小鱼左、Claude 右的座位；小鱼捧碗微笑，Claude 的勺子靠近嘴边。",
+        "missing": "是第一口进食的代表瞬间，不能视作已咽下并放下勺子；尾段需保留静静相伴的停顿。",
+        "status": "粗分镜候选；已逐格核对",
+        "show_as_main": true
+      },
+      "priority": "normal",
+      "refs": [
+        {
+          "path": "镜头设计/图像/S06-粗分镜-v002.png",
+          "role": "本镜粗分镜：S06页第4格，非正式关键帧"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "DeepSeek 身份最高母本；圆脸与宝宝比例优先"
+        },
+        {
+          "path": "概念参考/01-Claude-母版概念参考.webp",
+          "role": "角色或场景既有资产参考"
+        },
+        {
+          "path": "资产/图像/ENV-STREET-v001.png",
+          "role": "角色或场景既有资产参考"
+        }
+      ],
+      "panel_index": 3,
+      "panel_region": {
+        "x": 0.5029904306220095,
+        "y": 0.5047821466524973,
+        "w": 0.4964114832535885,
+        "h": 0.49415515409139216
+      },
+      "dialogue_cues": [],
+      "visual_prompt": "Final lingering intimate bench two-shot. Claude SEATED alongside tiny child with dangling feet. Claude has just eaten ONE small spoonful of rice and gently lowers spoon; child cradles same bowl and beams up at her. Warm sun on shoulders, passerby bokeh behind. Claude subtle relieved smile not crying theatrically. Both faces and bowl clear; GPT outside frame. Quiet completion of original refused meal invitation.",
+      "page_size": [
+        1672,
+        941
+      ],
+      "panel_rect_pixels": [
+        841,
+        475,
+        830,
+        465
+      ]
+    }
+  ],
+  "page_layouts": [
+    {
+      "path": "镜头设计/图像/S01-粗分镜-v001.png",
+      "cols": 2,
+      "rows": 2
+    },
+    {
+      "path": "镜头设计/图像/S02-粗分镜-v001.png",
+      "cols": 2,
+      "rows": 3
+    },
+    {
+      "path": "镜头设计/图像/S03-粗分镜-v001.png",
+      "cols": 2,
+      "rows": 3
+    },
+    {
+      "path": "镜头设计/图像/S04-粗分镜-v002.png",
+      "cols": 2,
+      "rows": 3
+    },
+    {
+      "path": "镜头设计/图像/S05A-粗分镜-v002.png",
+      "cols": 2,
+      "rows": 2
+    },
+    {
+      "path": "镜头设计/图像/S05B-粗分镜-v002.png",
+      "cols": 2,
+      "rows": 2
+    },
+    {
+      "path": "镜头设计/图像/S06-粗分镜-v002.png",
+      "cols": 2,
+      "rows": 2
+    }
+  ]
+}

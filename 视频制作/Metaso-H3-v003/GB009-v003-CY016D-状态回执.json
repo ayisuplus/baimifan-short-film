@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115175975857872896",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "孩子拉木僵持恳求",
+    "status": "succeeded",
+    "created_at": 1793132225,
+    "updated_at": 1793132241,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115175975857872896/content?expires=1793737400&signature=02fc42acd179335e4b74479d9331f9d8832c6fa62678f8e256fcf3c5b2d79ad4"
+    },
+    "resolution": "768P",
+    "duration": 4,
+    "usage": {
+      "total_seconds": 4,
+      "input_seconds": 0,
+      "output_seconds": 4,
+      "input_image_count": 1
+    },
+    "ratio": "adaptive",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "shots": 69,
+  "cuts": 68,
+  "seconds": 239,
+  "video_probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_type": "audio",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "239.000000"
+    }
+  },
+  "all_source_hashes_match": true,
+  "previous_v001_video_and_v005_plan_unchanged": true,
+  "local_link_count": 404,
+  "decode_ok": true,
+  "visual_review": "All 69 midpoint frames viewed in two contact sheets; new image pages and selected rescue windows independently inspected.",
+  "independent_review": "C two hands, B/E basin, F last cuff and platform, final D2 close-up accepted as static candidates.",
+  "browser_storyboard": "69 cards, 21 dialogue metadata, controls, split reveal and responsive checks passed; see 浏览器核验-v006.json.",
+  "preview_browser": "Not tested: in-app browser blocked file protocol; no bypass attempted.",
+  "actual_continuous_watch": "not performed",
+  "actual_audio_listening": "pending author audition",
+  "dynamic_motion": "not produced"
+}

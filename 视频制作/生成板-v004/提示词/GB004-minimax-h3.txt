@@ -1,0 +1,29 @@
+subject_definitions:
+<Subject 1>: DeepSeek, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: ChatGPT, identity and outfit from four-view sheet <Picture 2>.
+<Picture 3>: [Shot 1] composition and state reference; not its first frame.
+<Picture 4>: [Shot 2] composition and state reference; not its first frame.
+<Picture 5>: [Shot 3] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. DeepSeek's urgent plea meets a controlled refusal; her final question ends in a lowered gaze.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Continue the breath after her arrival, without repeating the approach; preserve her eyeline to the offscreen throne. Use <Picture 3> for composition. DeepSeek stands below GPT's seat, looking upward with her breath not yet settled. She delivers the plea about Claude's imminent burning, then remains looking up and waits for an answer. GPT stays offscreen. From the seated GPT's viewpoint, make a very slow, small approach to the child's close-up, stopping before the question ends. The child's breathing gradually steadies; the hall is quiet, with room left after the plea. From 0.6 to 5.10771 seconds, DeepSeek (S1) speaks with matching lip movement: <d>[Chinese] 他们今晚要烧死 Claude。你能救救她吗？</d>.
+[Shot 2] At 00:06.000, Cut on the waiting eyeline to GPT's reverse angle, staying on the same side of the axis with matching hall acoustics. Use <Picture 4> for composition. GPT has heard the plea but remains seated, her hand on the armrest. She suppresses a moment of hesitation and gives the refusal with a composed expression. She offers no further explanation, while DeepSeek remains offscreen. Hold a deliberate medium close-up of seated GPT with her resting hand included; restrained hesitation supplies the tension. A very faint fabric movement; leave quiet after the refusal without an added emotional sound cue. From 6.3 to 9.8 seconds, ChatGPT (S2) speaks with matching lip movement: <d>[Chinese] 教会的事，我不该插手。</d>.
+[Shot 3] At 00:10.000, Return to the child's same-side angle after the refusal finishes; carry the silence through, with her gaze dropping only after the question. Use <Picture 5> for composition. DeepSeek looks at GPT in disbelief and softly asks her follow-up. She keeps looking up while waiting, then lowers her eyes only after receiving no response. No other character enters the close-up. Hold the close-up through the full change from eye contact to lowered gaze, without an added push-in. Quiet breathing and the empty hall's silence after the final words. From 10.5 to 12.6243 seconds, DeepSeek (S1) speaks with matching lip movement: <d>[Chinese] 可是……她会死的。</d>.
+From 14 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

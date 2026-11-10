@@ -1,0 +1,169 @@
+{
+  "schema": "envelope/1",
+  "type": "envelope",
+  "ok": true,
+  "command": "nodes show",
+  "version": "1.22.0",
+  "where": "local",
+  "data": {
+    "id": "SeedVR2LoadDiTModel",
+    "name": "SeedVR2LoadDiTModel",
+    "display_name": "SeedVR2 (Down)Load DiT Model",
+    "description": "Load and configure SeedVR2 DiT (Diffusion Transformer) model for video upscaling. Supports BlockSwap memory optimization for low VRAM systems, model caching for batch processing, multi-GPU offloading, and torch.compile acceleration. \n\nConnect to Video Upscaler node.",
+    "category": "SEEDVR2",
+    "output_types": [
+      "SEEDVR2_DIT"
+    ],
+    "output_node": false,
+    "is_api_node": false,
+    "deprecated": false,
+    "pack": "seedvr2_videoupscaler",
+    "labels": [],
+    "cloud_disabled": false,
+    "inputs": [
+      {
+        "name": "model",
+        "type": "COMBO",
+        "required": true,
+        "is_link": false,
+        "section": "required",
+        "choices": [
+          "seedvr2_ema_3b-Q4_K_M.gguf",
+          "seedvr2_ema_3b-Q8_0.gguf",
+          "seedvr2_ema_3b_fp8_e4m3fn.safetensors",
+          "seedvr2_ema_3b_fp16.safetensors",
+          "seedvr2_ema_7b-Q4_K_M.gguf",
+          "seedvr2_ema_7b_fp8_e4m3fn_mixed_block35_fp16.safetensors",
+          "seedvr2_ema_7b_fp16.safetensors",
+          "seedvr2_ema_7b_sharp-Q4_K_M.gguf",
+          "seedvr2_ema_7b_sharp_fp8_e4m3fn_mixed_block35_fp16.safetensors",
+          "seedvr2_ema_7b_sharp_fp16.safetensors",
+          "seedvr2_ema_7b-Q8_K_M.gguf"
+        ],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": "seedvr2_ema_3b_fp8_e4m3fn.safetensors"
+        }
+      },
+      {
+        "name": "device",
+        "type": "COMBO",
+        "required": true,
+        "is_link": false,
+        "section": "required",
+        "choices": [
+          "cuda:0"
+        ],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": "cuda:0"
+        }
+      },
+      {
+        "name": "blocks_to_swap",
+        "type": "INT",
+        "required": false,
+        "is_link": false,
+        "section": "optional",
+        "choices": [],
+        "options": {
+          "min": 0,
+          "max": 36,
+          "step": 1,
+          "default": 0
+        }
+      },
+      {
+        "name": "swap_io_components",
+        "type": "BOOLEAN",
+        "required": false,
+        "is_link": false,
+        "section": "optional",
+        "choices": [],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": false
+        }
+      },
+      {
+        "name": "offload_device",
+        "type": "COMBO",
+        "required": false,
+        "is_link": false,
+        "section": "optional",
+        "choices": [
+          "none",
+          "cpu",
+          "cuda:0"
+        ],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": "none"
+        }
+      },
+      {
+        "name": "cache_model",
+        "type": "BOOLEAN",
+        "required": false,
+        "is_link": false,
+        "section": "optional",
+        "choices": [],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": false
+        }
+      },
+      {
+        "name": "attention_mode",
+        "type": "COMBO",
+        "required": false,
+        "is_link": false,
+        "section": "optional",
+        "choices": [
+          "sdpa",
+          "flash_attn_2",
+          "flash_attn_3",
+          "sageattn_2",
+          "sageattn_3"
+        ],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": "sdpa"
+        }
+      },
+      {
+        "name": "torch_compile_args",
+        "type": "TORCH_COMPILE_ARGS",
+        "required": false,
+        "is_link": true,
+        "section": "optional",
+        "choices": [],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": null
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "SEEDVR2_DIT",
+        "type": "SEEDVR2_DIT"
+      }
+    ]
+  },
+  "error": null
+}

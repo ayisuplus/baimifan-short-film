@@ -1,0 +1,147 @@
+{
+  "requested": "User needs GPU for another project; finish active inference then pause",
+  "time": "2026-10-30T17:01:46.632321",
+  "active": [
+    {
+      "id": "9dfca438-4ab0-4267-8636-17544a055888",
+      "job": "081-video-r1"
+    }
+  ],
+  "pending": [
+    {
+      "id": "22930bd8-ca4e-44c1-8375-65aa6ca091a3",
+      "job": "093a-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "78902024-8ae7-468d-8310-a322eae759b6",
+      "job": "093b-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "97366c78-1751-483e-973d-a5bc1883a83a",
+      "job": "093c-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "b70c7fb3-e861-4438-ab21-f7b1af8f9844",
+      "job": "093d-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "9c4021eb-d755-4559-831c-cfd022a16183",
+      "job": "093e-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "e64c8596-7817-4602-8418-ac6414d2f70e",
+      "job": "094-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "ce6a2f03-8a06-45fd-ba42-45184fb49b8b",
+      "job": "095-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "9dfda1df-266b-4267-ba52-6d05b56a5960",
+      "job": "096-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "2e156d49-5190-4215-ab17-6f7af12d6f35",
+      "job": "097-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "96c1a3f6-21d2-487f-ae62-871f9f2bbccb",
+      "job": "098-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "35abe478-cf41-439d-8dcc-1aa7891a3cf3",
+      "job": "099-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "115633bb-3424-40f4-a726-11522cc537d3",
+      "job": "101-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "95ade4a4-56bd-4de1-acc5-64f0be5a1fa5",
+      "job": "100-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "4026c4f7-3dd6-4fb8-89c9-08a324ab2470",
+      "job": "102-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "644fc998-0d40-4a50-a15a-824a9300305b",
+      "job": "104-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "ac38fe39-36a1-44fe-b6b9-a27f4136850d",
+      "job": "105-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "4b5ae058-f57f-4b37-a0a7-eed4cd8517f9",
+      "job": "106-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "50d2a552-7b2d-4a83-aa89-8c337c600ab8",
+      "job": "107-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "00f90b98-229f-4455-a5a4-f7c46dc6d9d2",
+      "job": "108-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "b954655a-a867-4cf6-b83e-48979f276171",
+      "job": "112-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "ed5b4b85-30af-4a90-a46a-a0fb7ab14398",
+      "job": "113-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "3a0418e1-7356-4700-b6cf-9db58cb60afd",
+      "job": "114-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "612e32fe-1e9b-4106-bacd-bf435f44c459",
+      "job": "115-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "395af329-f237-48af-8848-85c5bddb8bef",
+      "job": "116-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "b35cb7d4-b408-4423-9492-507b92cd6c31",
+      "job": "117-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "36e9b9cf-0aeb-4af8-97c5-df4fa0ef82f1",
+      "job": "118-key-r1",
+      "cancel_ok": true
+    },
+    {
+      "id": "fd91dd9b-8ffc-44ac-99f4-5b56c841a6de",
+      "job": "119-key-r1",
+      "cancel_ok": true
+    }
+  ]
+}

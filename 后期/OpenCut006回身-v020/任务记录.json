@@ -1,0 +1,28 @@
+{
+  "request": "006需要转身沿来路往入口走，不只是转头",
+  "job_id": "c6541d92-0967-4ff4-9514-2ae35fcd86d6",
+  "seed": 20261029024,
+  "expected_frames": 107,
+  "fps": 24,
+  "resolution": [
+    1344,
+    768
+  ],
+  "upscale": false,
+  "source_first_frame": "G:/comfyui/ComfyUI/ComfyUI/input/Baimifan_v019_reply_first.png",
+  "validation": "valid, zero errors, zero warnings",
+  "status": "r3 installed in OpenCut v020; author review pending",
+  "r1_review": "Rejected due to invented statue/throne. Back-view receding movement is now explicitly confirmed by author.",
+  "r2_job": "6a20f50e-a046-43b0-9882-7718ff186bdc",
+  "r2_seed": 20261029025,
+  "editor_copy": "http://127.0.0.1:8978/editor/c6047828-f087-4abf-a098-bfccefe62562",
+  "r2_review": "approaches foreground-left, but reveals invented background statue and does not retain dimming; not adopted",
+  "timeline_replacement_done": true,
+  "old_project_preserved": true,
+  "author_direction": "转成背影，朝画面里的入口走远",
+  "r3_job": "d3241d11-7eee-4cea-85cc-a962fa1471a9",
+  "r3_seed": 20261029026,
+  "r3_model": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+  "r3_review": "Reply, full back turn, receding toward pointed entrance; no statue or throne in travel direction in sampled frames. Entrance remains lit, dimming retained; 007 unchanged.",
+  "adopted_media": "006_小鱼背影回走入口_v020.mp4"
+}

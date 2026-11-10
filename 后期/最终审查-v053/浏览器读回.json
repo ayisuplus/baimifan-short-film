@@ -1,0 +1,545 @@
+{
+  "shot_options": [
+    {
+      "id": "CY001",
+      "label": "✓ CY001 · 00:00 · 阳光里的饭碗 · 存在魔法的世界 / 魔法が存在する世界で"
+    },
+    {
+      "id": "CY002",
+      "label": "✓ CY002 · 00:05 · 黑袍之间的回望 · 存在魔法的世界 / 魔法が存在する世界で"
+    },
+    {
+      "id": "CY003",
+      "label": "✓ CY003 · 00:09 · 第一次邀请 · 存在魔法的世界 / 魔法が存在する世界で"
+    },
+    {
+      "id": "CY003A",
+      "label": "✓ CY003A · 00:12 · 悬着的一碗饭 · 存在魔法的世界 / 魔法が存在する世界で"
+    },
+    {
+      "id": "CY003B",
+      "label": "✓ CY003B · 00:14 · 眼底的小小来客 · 存在魔法的世界 / 魔法が存在する世界で"
+    },
+    {
+      "id": "CY003C",
+      "label": "✓ CY003C · 00:18 · 白米饭被掀翻 · 存在魔法的世界 / 魔法が存在する世界で"
+    },
+    {
+      "id": "CY004",
+      "label": "✓ CY004 · 00:20 · 门内传出的火祭消息 · 存在魔法的世界 / 魔法が存在する世界で"
+    },
+    {
+      "id": "CY004A",
+      "label": "✓ CY004A · 00:26 · 放下饭碗 · 存在魔法的世界 / 魔法が存在する世界で"
+    },
+    {
+      "id": "CY004B",
+      "label": "✓ CY004B · 00:28 · 暮色里的长阶 · 前往耶路撒冷 / To Jerusalem"
+    },
+    {
+      "id": "CY004C",
+      "label": "✓ CY004C · 00:30 · 长枪拦路 · 前往耶路撒冷 / To Jerusalem"
+    },
+    {
+      "id": "CY004D",
+      "label": "✓ CY004D · 00:33 · 让她进来 · 前往耶路撒冷 / To Jerusalem"
+    },
+    {
+      "id": "CY005",
+      "label": "✓ CY005 · 00:36 · 独座大殿 · 前往耶路撒冷 / To Jerusalem"
+    },
+    {
+      "id": "CY006",
+      "label": "✓ CY006 · 00:39 · 请救救她 · 前往耶路撒冷 / To Jerusalem"
+    },
+    {
+      "id": "CY007",
+      "label": "✓ CY007 · 00:45 · 收住迟疑的拒绝 · 前往耶路撒冷 / To Jerusalem"
+    },
+    {
+      "id": "CY008",
+      "label": "✓ CY008 · 00:49 · 没有回答 · 前往耶路撒冷 / To Jerusalem"
+    },
+    {
+      "id": "CY009",
+      "label": "✓ CY009 · 00:53 · 那我自己去 · 前往耶路撒冷 / To Jerusalem"
+    },
+    {
+      "id": "CY010",
+      "label": "✓ CY010 · 00:58 · 扶手上的迟疑 · 前往耶路撒冷 / To Jerusalem"
+    },
+    {
+      "id": "CY009A",
+      "label": "✓ CY009A · 01:01 · 长殿尽头的蓝点 · 前往耶路撒冷 / To Jerusalem"
+    },
+    {
+      "id": "CY010A",
+      "label": "✓ CY010A · 01:07 · 等他们离开 · 斯内普前往马尔福庄园 / Snape to Malfoy Manor"
+    },
+    {
+      "id": "CY011",
+      "label": "✓ CY011 · 01:11 · 鲸帽卡住了 · 斯内普前往马尔福庄园 / Snape to Malfoy Manor"
+    },
+    {
+      "id": "CY011A",
+      "label": "✓ CY011A · 01:14 · 脱开石沿，挤进空堂 · 斯内普前往马尔福庄园 / Snape to Malfoy Manor"
+    },
+    {
+      "id": "CY012",
+      "label": "✓ CY012 · 01:16 · 空荡荡的教堂 · 斯内普前往马尔福庄园 / Snape to Malfoy Manor"
+    },
+    {
+      "id": "CY013",
+      "label": "✓ CY013 · 01:20 · 她发现了宝宝 · 斯内普前往马尔福庄园 / Snape to Malfoy Manor"
+    },
+    {
+      "id": "CY013A",
+      "label": "✓ CY013A · 01:23 · 赤足、脚托与踝链 · 斯内普前往马尔福庄园 / Snape to Malfoy Manor"
+    },
+    {
+      "id": "CY015",
+      "label": "✓ CY015 · 01:25 · 偷偷的保证 · 斯内普前往马尔福庄园 / Snape to Malfoy Manor"
+    },
+    {
+      "id": "CY016",
+      "label": "✓ CY016 · 01:29 · 试锁，再拉链 · 斯内普前往马尔福庄园 / Snape to Malfoy Manor"
+    },
+    {
+      "id": "CY016A1",
+      "label": "✓ CY016A1 · 01:34 · 烛泪又落下一滴 · 斯内普前往马尔福庄园 / Snape to Malfoy Manor"
+    },
+    {
+      "id": "CY016A",
+      "label": "✓ CY016A · 01:36 · 已经试了很久 · 斯内普前往马尔福庄园 / Snape to Malfoy Manor"
+    },
+    {
+      "id": "CY016B",
+      "label": "✓ CY016B · 01:40 · 停在锁扣上的手 · 斯内普前往马尔福庄园 / Snape to Malfoy Manor"
+    },
+    {
+      "id": "CY016B1",
+      "label": "✓ CY016B1 · 01:42 · 先听见，再看见 · 斯内普前往马尔福庄园 / Snape to Malfoy Manor"
+    },
+    {
+      "id": "CY016C",
+      "label": "✓ CY016C · 01:44 · 人手一木，返回教堂 · 斯内普前往马尔福庄园 / Snape to Malfoy Manor"
+    },
+    {
+      "id": "CY016D",
+      "label": "✓ CY016D · 01:48 · 抓住第一根木头 · 沉默的镇魂曲 / 沈黙のレクイエム"
+    },
+    {
+      "id": "CY017",
+      "label": "✓ CY017 · 01:50 · 被推开，还想阻止 · 沉默的镇魂曲 / 沈黙のレクイエム"
+    },
+    {
+      "id": "CY017A",
+      "label": "✓ CY017A · 01:55 · 一根接一根 · 沉默的镇魂曲 / 沈黙のレクイエム"
+    },
+    {
+      "id": "CY018",
+      "label": "✓ CY018 · 01:57 · 拦住下一个，又被踢开 · 沉默的镇魂曲 / 沈黙のレクイエム"
+    },
+    {
+      "id": "CY018B",
+      "label": "✓ CY018B · 02:01 · 柴堆吞没白裙 · 沉默的镇魂曲 / 沈黙のレクイエム"
+    },
+    {
+      "id": "CY021A",
+      "label": "✓ CY021A · 02:04 · 教主接过火把 · 沉默的镇魂曲 / 沈黙のレクイエム"
+    },
+    {
+      "id": "CY019",
+      "label": "✓ CY019 · 02:09 · 最后一次，张开双臂 · 沉默的镇魂曲 / 沈黙のレクイエム"
+    },
+    {
+      "id": "CY020",
+      "label": "✓ CY020 · 02:12 · 别碰她 · 沉默的镇魂曲 / 沈黙のレクイエム"
+    },
+    {
+      "id": "CY020B",
+      "label": "✓ CY020B · 02:17 · 静止对视，高低之间 · 沉默的镇魂曲 / 沈黙のレクイエム"
+    },
+    {
+      "id": "CY020A",
+      "label": "✓ CY020A · 02:20 · 失守落地 · 沉默的镇魂曲 / 沈黙のレクイエム"
+    },
+    {
+      "id": "CY021",
+      "label": "✓ CY021 · 02:22 · 还想站起来 · 沉默的镇魂曲 / 沈黙のレクイエム"
+    },
+    {
+      "id": "CY021B",
+      "label": "✓ CY021B · 02:24 · 攥住袍尾 · 沉默的镇魂曲 / 沈黙のレクイエム"
+    },
+    {
+      "id": "CY022A",
+      "label": "✓ CY022A · 02:26 · 衣摆从指间滑走 · 沉默的镇魂曲 / 沈黙のレクイエム"
+    },
+    {
+      "id": "CY022A1",
+      "label": "✓ CY022A1 · 02:28 · 一步一步登阶 · 沉默的镇魂曲 / 沈黙のレクイエム"
+    },
+    {
+      "id": "CY022",
+      "label": "✓ CY022 · 02:31 · 点燃高柴 · 沉默的镇魂曲 / 沈黙のレクイエム"
+    },
+    {
+      "id": "CY022B",
+      "label": "✓ CY022B · 02:35 · 火隙中的痛苦 · 沉默的镇魂曲 / 沈黙のレクイエム"
+    },
+    {
+      "id": "CY022B2",
+      "label": "✓ CY022B2 · 02:38 · 黑焰吞没祭坛 · 沉默的镇魂曲 / 沈黙のレクイエム"
+    },
+    {
+      "id": "CY022B1",
+      "label": "✓ CY022B1 · 02:42 · 甲靴越前，两翼列阵 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY026",
+      "label": "✓ CY026 · 02:45 · 裙摆先至，迈步向门 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY022C",
+      "label": "✓ CY022C · 02:48 · 破门前的静默 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY023",
+      "label": "✓ CY023 · 02:50 · 砰 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024",
+      "label": "✓ CY024 · 02:52 · 门后的人 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024R",
+      "label": "✓ CY024R · 02:55 · 教主回身，注意力转向正门 · 让群星陨落 / let the stars fall down"
+    },
+    {
+      "id": "CY024K00",
+      "label": "✓ CY024K00 · 02:58 · 窗外月光，全身显形 · 让群星陨落 / let the stars fall down"
+    },
+    {
+      "id": "CY024K0",
+      "label": "✓ CY024K0 · 03:01 · 窗外近景，举刃请门 · 让群星陨落 / let the stars fall down"
+    },
+    {
+      "id": "CY024K1",
+      "label": "✓ CY024K1 · 03:07 · 明刃破窗，玻璃迎面炸开 · 让群星陨落 / let the stars fall down"
+    },
+    {
+      "id": "CY024K1A",
+      "label": "✓ CY024K1A · 03:10 · 明刃钉柴，瞬移坐标亮起 · 让群星陨落 / let the stars fall down"
+    },
+    {
+      "id": "CY024K2",
+      "label": "✓ CY024K2 · 03:12 · 循刃瞬临，爆气震开柴堆 · 让群星陨落 / let the stars fall down"
+    },
+    {
+      "id": "CY024K2A",
+      "label": "✓ CY024K2A · 03:15 · 震柴惊动教徒，转身施法 · 让群星陨落 / let the stars fall down"
+    },
+    {
+      "id": "CY024K3",
+      "label": "✓ CY024K3 · 03:17 · 暗月闭合，截住教徒法术 · 让群星陨落 / let the stars fall down"
+    },
+    {
+      "id": "CY024K4",
+      "label": "✓ CY024K4 · 03:21 · 罩内试镣，见痛收刀 · 让群星陨落 / let the stars fall down"
+    },
+    {
+      "id": "CY023A",
+      "label": "✓ CY023A · 03:24 · 圣骑士鱼贯而入 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY026A",
+      "label": "✓ CY026A · 03:27 · 云宫合扇 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY026A1",
+      "label": "✓ CY026A1 · 03:30 · 合扇就是回答 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY026B",
+      "label": "✓ CY026B · 03:32 · 小屋里的回应 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY026C",
+      "label": "✓ CY026C · 03:36 · 发射塔下的点头 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY026D1",
+      "label": "✓ CY026D1 · 03:40 · 月背睁眼 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY026D",
+      "label": "✓ CY026D · 03:42 · 月背约定，两路救援 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY026E",
+      "label": "✓ CY026E · 03:49 · 各路回应 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024A0",
+      "label": "✓ CY024A0 · 03:53 · 抱紧我 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024A",
+      "label": "✓ CY024A · 03:55 · 展翼离地，空中起咏 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024A9",
+      "label": "✓ CY024A9 · 04:02 · 掌前爆发，暗金术矛 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024A10",
+      "label": "✓ CY024A10 · 04:03 · 开扇咔响，单叶解锁 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024A11",
+      "label": "✓ CY024A11 · 04:05 · 扇叶上行，刃尖侧前极特写 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024A12",
+      "label": "✓ CY024A12 · 04:07 · 侧面仰拍，半空截击 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024A1",
+      "label": "✓ CY024A1 · 04:08 · 抱住她，先让她缓一口气 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024A2",
+      "label": "✓ CY024A2 · 04:11 · 拭汗拨发，确认她的状态 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024A3",
+      "label": "✓ CY024A3 · 04:15 · 水息上浮，合滴回弹 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024A6",
+      "label": "✓ CY024A6 · 04:20 · 云腹聚水，倒悬之海 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024A7",
+      "label": "✓ CY024A7 · 04:26 · 俯冲，水龙直下穹顶 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024A5A",
+      "label": "✓ CY024A5A · 04:30 · 贴近破口，水首掠镜 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024A4",
+      "label": "✓ CY024A4 · 04:31 · 蹲下查看踝链 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024A8",
+      "label": "✓ CY024A8 · 04:35 · 教主追视入殿水龙 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024A5",
+      "label": "✓ CY024A5 · 04:39 · 居中结印，水龙盘身 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024A5B",
+      "label": "✓ CY024A5B · 04:47 · 解印，一指出击 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024B",
+      "label": "✓ CY024B · 04:49 · 低机位撞盾，水首压境 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024B1",
+      "label": "✓ CY024B1 · 04:54 · 汇流冲人，指尖抓空 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024B3",
+      "label": "✓ CY024B3 · 04:57 · 大招余波，浅水空殿 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY024B3A",
+      "label": "✓ CY024B3A · 05:00 · 余声渐远，靠肩安抚 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY027",
+      "label": "✓ CY027 · 05:02 · 退水降落，收翼走近 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY027A",
+      "label": "✓ CY027A · 05:06 · 互不干涉条约 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY027B",
+      "label": "✓ CY027B · 05:10 · 聒噪 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY027B1",
+      "label": "✓ CY027B1 · 05:12 · 白紫水龙显形 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY027B2",
+      "label": "✓ CY027B2 · 05:14 · 黑金鸦翼展开 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY027B3",
+      "label": "✓ CY027B3 · 05:16 · 穿过破顶腾空 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY027C",
+      "label": "✓ CY027C · 05:19 · 破口之上 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY025",
+      "label": "✓ CY025 · 05:21 · 她还是来了 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY027E",
+      "label": "✓ CY027E · 05:24 · 略去激战 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY027E1",
+      "label": "✓ CY027E1 · 05:28 · 雨滴落入大殿 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY027D0",
+      "label": "✓ CY027D0 · 05:30 · 外院教徒，围向正门 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY027D",
+      "label": "✓ CY027D · 05:33 · 八人守门，Kimi守祭坛 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY027E2",
+      "label": "✓ CY027E2 · 05:36 · 窗内的战斗 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY027F",
+      "label": "✓ CY027F · 05:39 · 垂眼讥笑，胜负已分 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY027F0",
+      "label": "✓ CY027F0 · 05:43 · 从教主腰间取下钥匙 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY027F2",
+      "label": "✓ CY027F2 · 05:45 · 暗月散尽，接过钥匙 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY027F1",
+      "label": "✓ CY027F1 · 05:48 · 用钥匙先解踝链 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY027G",
+      "label": "✓ CY027G · 05:50 · 先扶稳，再开最后腕扣 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY028A",
+      "label": "✓ CY028A · 05:53 · 解锁后扶稳 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY028A2",
+      "label": "✓ CY028A2 · 05:58 · 她在下面等你 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY028B",
+      "label": "✓ CY028B · 06:01 · 起咏，微光初聚 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY028C",
+      "label": "✓ CY028C · 06:03 · 锁痕与微光 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY029",
+      "label": "✓ CY029 · 06:05 · 听见父亲的声音 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY029E",
+      "label": "✓ CY029E · 06:09 · 无力挽留 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY029E1",
+      "label": "✓ CY029E1 · 06:11 · 停顿后，仍选择继续 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY029E2",
+      "label": "✓ CY029E2 · 06:15 · 教主听见她的选择 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY029E3",
+      "label": "✓ CY029E3 · 06:19 · 指间火种已经成形 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY029E4",
+      "label": "✓ CY029E4 · 06:22 · 小鱼攥紧衣襟 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY029B1",
+      "label": "✓ CY029B1 · 06:26 · 放出一枚火种 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY029B2",
+      "label": "✓ CY029B2 · 06:29 · 火种主观逼近空架 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY029B",
+      "label": "✓ CY029B · 06:31 · 触木后骤然燃起 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY029C",
+      "label": "✓ CY029C · 06:34 · 收手后脱力 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY029D",
+      "label": "✓ CY029D · 06:36 · 及时托住 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY028",
+      "label": "✓ CY028 · 06:38 · 稳稳抱起 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY029A",
+      "label": "✓ CY029A · 06:41 · 主动靠近 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY030",
+      "label": "✓ CY030 · 06:44 · 一同走出大殿 · Fear Brought Me This Far"
+    },
+    {
+      "id": "CY031",
+      "label": "✓ CY031 · 06:50 · 数日后的长椅 · Time Flows Ever Onward"
+    },
+    {
+      "id": "CY031A",
+      "label": "✓ CY031A · 06:55 · 为她留出的座位 · Time Flows Ever Onward"
+    },
+    {
+      "id": "CY032A",
+      "label": "✓ CY032A · 06:59 · 这次有人接住 · Time Flows Ever Onward"
+    },
+    {
+      "id": "CY033",
+      "label": "✓ CY033 · 07:01 · 旁边的一杯热饮 · Time Flows Ever Onward"
+    },
+    {
+      "id": "CY034A",
+      "label": "✓ CY034A · 07:05 · 第一口饭 · Time Flows Ever Onward"
+    },
+    {
+      "id": "CY034",
+      "label": "✓ CY034 · 07:07 · 阳光里坐一会儿 · Time Flows Ever Onward"
+    }
+  ],
+  "original_shot": "CY027F1",
+  "marks_readback": "132/132",
+  "play_started": true,
+  "seek_enabled": true,
+  "keyboard_seek_test": true,
+  "playing_continues_across_shot": true,
+  "paused_preserved_across_shot": true,
+  "final_audio_paused": true,
+  "notes": "功能验证不是实际听审；一次按钮点击未立即确认暂停，随后显式点暂停并独立核对，暂停后两次切镜均保持暂停。",
+  "final_page_title": "《穿云》带图分镜 v0.53r1 · 最终审查说明同步",
+  "final_marks": "132 / 132",
+  "project_title_match_count": 132,
+  "project_title_mismatch_count": 0
+}

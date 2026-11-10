@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-28",
+  "reviewer": "repair_candidates_audit",
+  "batch_number": 21,
+  "batch_id": "GB016-1",
+  "media": "视频制作/Metaso-H3-v003/剪辑候选/GB016-1-v003.mp4",
+  "media_sha256": "42c885212d37905d098162d491d42c21bad6564b4e592cf68840d627fd54805a",
+  "decision": "整批密帧视觉与登记时码复核未见新剧情/空间硬阻断；可供作者整批复看，不代表声音、口型或最终采用。",
+  "method": {
+    "coverage": "0–11.3秒全段4fps；8.9–片尾12fps补查合扇；9.7秒原尺寸大帧。当前源镜之前还做过8fps/6fps完整动作检查。",
+    "cut_detection": [
+      3,
+      6,
+      9.291667
+    ],
+    "duration": {
+      "video": 11.291667,
+      "audio": 11.3,
+      "container": 11.3
+    },
+    "audio_listened": false,
+    "realtime_continuous_playback": false,
+    "limitation": "密帧覆盖完整时间不等于实时连续观看；声音仅依据登记时码、采样数、原速标记与文件哈希核对，未实听。"
+  },
+  "shots": [
+    {
+      "id": "CY024K4",
+      "range": [
+        0,
+        3
+      ],
+      "verdict": "修复目标视觉成立",
+      "source_range": [
+        0.5,
+        4.25
+      ],
+      "speed": 1.25,
+      "observations": [
+        "暗月圆刃试探高举腕扣，紫斑出现于腕扣，随后撤离",
+        "没有旧版抵颈、匕首变圆刃、刀刃跨过Claude面部的错误",
+        "3秒切出前已撤离接缝，不再半途截动作",
+        "人物仍受缚，暗膜没有外景穿透"
+      ],
+      "remaining_deviation": "撤刀停于Kimi自身肩侧而非原文髋边。已离开Claude身体，不能强拆的因果可读，不构成本轮继续付费返修理由。"
+    },
+    {
+      "id": "CY023A",
+      "range": [
+        3,
+        6
+      ],
+      "verdict": "空间调度成立",
+      "observations": [
+        "两岗哨守门，左右两对分别走向两翼并停稳",
+        "中央通道完整留空，没有主角重进门",
+        "3秒硬切由近景转门内空间，不要求与护罩内部保持同机位"
+      ]
+    },
+    {
+      "id": "CY026A",
+      "range": [
+        6,
+        9.3
+      ],
+      "verdict": "角色轴线/道具归属成立",
+      "observations": [
+        "GPT在左、Qwen在右，两人面对面；Qwen持开扇、GPT空手",
+        "邀请阶段扇保持展开，未提前重演合扇",
+        "6秒明确换地点进入云宫；时间回闪的声音提示是否清楚仍需整批听审"
+      ],
+      "voice_registered_window": [
+        6.1,
+        7.92
+      ]
+    },
+    {
+      "id": "CY026A1",
+      "range": [
+        9.3,
+        11.3
+      ],
+      "verdict": "合扇到回答时序登记相容",
+      "observations": [
+        "9.291667秒实际切入手部特写；同一持扇人、衣袖和右手主握成立，左手辅助",
+        "扇只闭合一次，9.7秒原尺寸大帧已合拢稳定；没有开合重演",
+        "后段维持闭扇自然微动，未截在半合状态",
+        "近景无面部，未新增相反视线；景别变大不等于道具尺寸漂移"
+      ],
+      "voice_registered_window": [
+        9.75,
+        10.9000416667
+      ],
+      "closed_frame_evidence": "视频制作/Metaso-H3-v003/修订参考/审查-GB016-1-v003-9.7.png"
+    }
+  ],
+  "voice_timing_check": {
+    "file": "视频制作/Metaso-H3-v003/声音/GB016-1-合扇后回应.wav",
+    "sha256": "b746b93cb428f1a774851319197026da62a98045ee609fff87601b60ded3eba9",
+    "hash_verified": true,
+    "GPT": {
+      "source_samples": 87360,
+      "sample_rate": 48000,
+      "registered_start": 6.1,
+      "registered_end": 7.92,
+      "playback_rate": 1,
+      "source_trim": false
+    },
+    "Qwen": {
+      "source_samples": 55202,
+      "sample_rate": 48000,
+      "registered_start": 9.75,
+      "registered_end": 10.9000416667,
+      "shift_seconds": 0.45,
+      "playback_rate": 1,
+      "source_trim": false,
+      "tail_to_batch_end": 0.3999583333
+    },
+    "conclusion": "9.7秒扇已闭，登记9.75秒入声，时间顺序相容。这里验证的是登记与视觉，不把没有听过的AAC/WAV宣称听审通过。"
+  },
+  "boundary_limits": [
+    "第20批修订两段尚待回片，因此20闭罩→21罩内的最新真实衔接尚未复核。",
+    "第22批开头之前已审为GPT站Gemini桌边、书已展开；本轮未再次改动22。"
+  ],
+  "evidence": [
+    "视频制作/Metaso-H3-v003/修订参考/审查-GB016-1-v003-合成-01.jpg",
+    "视频制作/Metaso-H3-v003/修订参考/审查-GB016-1-v003-合成-02.jpg",
+    "视频制作/Metaso-H3-v003/修订参考/审查-GB016-1-v003-合成-03.jpg",
+    "视频制作/Metaso-H3-v003/修订参考/审查-GB016-1-v003-合扇-01.jpg",
+    "视频制作/Metaso-H3-v003/修订参考/审查-GB016-1-v003-合扇-02.jpg"
+  ],
+  "writes": "仅新增独立审查报告与检查抽帧；没有修改媒体、队列、声音和剪辑清单。"
+}

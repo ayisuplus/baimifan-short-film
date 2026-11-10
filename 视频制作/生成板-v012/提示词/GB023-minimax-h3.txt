@@ -1,0 +1,37 @@
+subject_definitions:
+<Subject 1>: Kimi, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: Claude, identity and outfit from four-view sheet <Picture 2>.
+<Subject 3>: ChatGPT, identity and outfit from four-view sheet <Picture 3>.
+<Picture 4>: [Shot 1] composition and state reference; not its first frame.
+<Picture 5>: [Shot 2] composition and state reference; not its first frame.
+<Picture 6>: [Shot 3] composition and state reference; not its first frame.
+<Picture 7>: [Shot 4] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. The lower surge disperses enemies, subsides around the opaque shield, then gives way to reassurance and GPT's landing.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Subject 3>: fully_preserved - identity and outfit design.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+<Picture 7>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Cut to the lower stairs on the same released surge; after the grip slips and the flow weakens, cut to the aftermath with decaying water sound. Use <Picture 4> for composition. On the lower outer steps, residual water pushes a foreground black-and-gold-robed cultist downstream as he twists and his fingers slip from a wet stone edge. Heavy water hides the waist and chest while the robe trails with it. Another figure loses footing sideways and a third reacts too late farther back. A dropped staff spins downstream. The upper shield is distant beside low shallow water, never surrounded by a high wall of surf. The force subsides. Track gently downstream near water level with the foreground grasping hand, keeping staggered figures at three depths; no airborne stunt tracking. Heavy nearby water slaps steps, a hand scrapes and slips, one wordless cry and a staff scraping water. Only light water sound at the upper shield.
+[Shot 2] At 00:03.000, Let the lower surge decay into shallow drainage before the shield view; show aftermath only, not a fresh impact wave. Use <Picture 5> for composition. The main dragon and attack surge have ended. An opaque, calm dark shield occupies the upper platform in the mid-background. Wet stone, thin ripples and low retreating water reach its base, with no artificial dry moat. Residual water drains unevenly down outer steps in small splashes. Ordinary lights are extinguished; the central rear window stays broken while side windows and the apse remain intact. The shield receives no water strike and its occupants remain invisible from outside. Ease backward from a high oblique left view, revealing drainage over step drops and shallow water around the shield without orbiting to see inside. The preceding heavy surf falls away rapidly, leaving shallow drips and the large hall's empty resonance.
+[Shot 3] At 00:06.000, Cut from outside shallows to the muted interior; continue the existing support rather than staging a new embrace. Use <Picture 6> for composition. With the external impact over, Claude leans tiredly toward Kimi. One empty hand supports the back of her head and the other arm steadies her shoulder, back and upper arm, their temples close. Claude stays upright and bound, wrists fixed to the crossbeam and ankles unchanged on the footrest. Kimi's blades remain stowed. The opaque interior is calm with no pressure dents, flashes or exterior view; Kimi is not straining against GPT's spell. End in quieter breathing. Hold the interior medium close-up on the supporting arms and temples, leaving locked wrists visible as breathing and hair movement express relaxation. Water sounds become distant through the membrane, with close gentle breathing. No new impact or shield-pressure roar.
+[Shot 4] At 00:08.000, Carry the residual water forward; sound the first close splash on toe contact, then follow the gaze toward the leader after landing and folding wings. Use <Picture 7> for composition. GPT remains airborne near the entrance after the water supply stops. She brakes with her wings, touches one shoe tip into shallow water, sets the other foot firmly, folds both wings and approaches the leader on his original landing. The highest altar remains entirely covered by the opaque shield, concealing Kimi, Claude and the cross. Preserve the central rear-window breach and intact side windows. End with GPT grounded, facing the leader across the short steps. From a low medium-wide view, tilt gently from the landing ripples to GPT as her wings fold, allowing her descent to supply the main movement. Low retreating water, a final wingbeat, a shoe-tip splash and wet footsteps. No extra dialogue.
+From 12 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 3s: Cut to the shallow-water aftermath.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

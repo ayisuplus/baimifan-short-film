@@ -1,0 +1,40 @@
+subject_definitions:
+<Subject 1>: Claude, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: ChatGPT, identity and outfit from four-view sheet <Picture 2>.
+<Picture 3>: [Shot 1] composition and state reference; not its first frame.
+<Picture 4>: [Shot 2] composition and state reference; not its first frame.
+<Picture 5>: [Shot 3] composition and state reference; not its first frame.
+<Picture 6>: [Shot 4] composition and state reference; not its first frame.
+<Picture 7>: [Shot 5] composition and state reference; not its first frame.
+<Picture 8>: [Shot 6] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. One ember ignites the empty cross; exhaustion leads into a single continuous catch and secure carry.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+<Picture 7>: weak_reference - shot layout; animate the specified action.
+<Picture 8>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Return to the already formed ember, then match its release. Use <Picture 3> for composition. Claude sends away the same complete ember, releases her left-hand support of her right wrist and relaxes her fingers. No new ember or continuous flame jet. Her scorched cuff remains. End with one ember moving toward the empty cross. Follow fingertips forward, stopping at the separating air gap. Tiny flame and breathing; no repeated formation sound. From 0 to 3 seconds, Claude (S1) speaks outside the frame: <d>[English] Ember.</d>.
+[Shot 2] At 00:03.000, Match the release direction; cut on contact. Use <Picture 4> for composition. From the ember's viewpoint, approach exposed wood below the beam-junction iron band. Grain and empty shackles enlarge. The ember itself never appears centrally; only blurred flame and heat distortion edge the frame. Contact produces one small flash. Move steadily toward the wood, accelerating briefly at the end; no roll or orbit. Close flame-passing sound; save ignition for the next shot.
+[Shot 3] At 00:05.000, Match the contact flash to one ignition burst. Use <Picture 5> for composition. Fire climbs the post and crossbeam, chains visible through gaps. Claude's hand is already lowered; no connecting flame stream. GPT remains beside her. Fire stays on the empty cross, never people or architecture. Ordinary lamps stay extinguished; Claude's burns persist. Tilt upward slightly with the climbing flame, keeping the empty cross readable. Short ignition roar, then burning wood and chain sounds.
+[Shot 4] At 00:08.000, Continue one rightward loss of balance into support. Use <Picture 6> for composition. The cross burns independently; Claude's casting hand is already down. Her knees soften and she tilts toward GPT on the right. She remains conscious and never reaches the ground. GPT starts reaching before the cut. Keep pallor and scorched clothes. Tilt slightly with weakening knees, stopping at GPT's reaching arms. Caught breath and sliding sleeve; no floor impact.
+[Shot 5] At 00:10.000, Match the ongoing rightward movement; one catch only. Use <Picture 7> for composition. GPT closes in, supports Claude's back with one arm and slides the other under her knees, beginning one continuous lift. Her weight transfers into support without dropping, kneeling or resetting upright. Preserve pallor and burns. End with back and knee support established, ready to settle. Track slightly with GPT, keeping both supporting arms visible. Rubbing fabric and a short breath; no fall impact.
+[Shot 6] At 00:12.000, Match the same lift closer; speak after weight settles. Use <Picture 8> for composition. Claude's weight settles safely into GPT's back-and-knee support. Bare feet hang free; she leans tiredly against GPT but remains conscious and can look up. Preserve pallor and scorched clothing. She stays carried through departure, never placed down or picked up again. Rise slightly with the carry, then settle; Claude left, GPT right. Quiet carrying fabric and breathing beneath the short line. From 12.8 to 14.6 seconds, ChatGPT (S2) speaks with matching lip movement: <d>[English] Let's go.</d>.
+
+overall_soundscape:
+Action targets: 5s: Cut to the spark igniting the wood; 8s: Claude weakens after withdrawing her hand.
+English speech with lip sync; no audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

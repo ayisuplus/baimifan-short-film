@@ -1,0 +1,45 @@
+{
+  "status": "candidate_edl_not_rendered",
+  "scope": "B8/B9局部声画调位，保持各批现有总长、原配音位置和音速；其它重拍按独立输入处理",
+  "timing": "全部源时码相对于条目source；record时码为该批局部秒；24fps帧号半开区间优先",
+  "limits": ["未实际听审，不保证逐音口型；这里只修可见发话起点与声源归属", "活动窗来自幅度阈值，呼吸也可能计入", "试剪后必须看相邻段动作是否倒退、裁切是否始终去掉非说话者嘴；未渲染不等于已通过"],
+  "items": [
+    {
+      "batch_number": 9,
+      "batch_id": "GB008",
+      "source": "视频制作/LibTV-H3-v001/产物/GB008-H3-v001.mp4",
+      "duration": 14,
+      "record_frames": 336,
+      "why": "原源孩子明显开口约8.2–8.375秒，而选声首活动窗位于批内6.718475–7.241325秒。把后面发话脸向前调，并让后半句接孩子试锁手部。Claude先前画外劝走和尾部快走保留。",
+      "segments": [
+        {"source_in_frame": 0, "source_out_frame": 156, "record_in_frame": 0, "record_out_frame": 156, "source_in": 0, "source_out": 6.5, "record_in": 0, "record_out": 6.5, "speed_percent": 100, "crop": null, "purpose": "烛泪、孩子低头听Claude劝走原样保留"},
+        {"source_in_frame": 192, "source_out_frame": 249, "record_in_frame": 156, "record_out_frame": 213, "source_in": 8, "source_out": 10.375, "record_in": 6.5, "record_out": 8.875, "speed_percent": 100, "crop": "可选1200:675:72:20，再放回原尺寸；约12%切近仅用于掩同机位跳步，需试看脸不裁断", "purpose": "孩子发话起点提早到首活动窗，先明确这是孩子回答"},
+        {"source_in_frame": 249, "source_out_frame": 297, "record_in_frame": 213, "record_out_frame": 297, "source_in": 10.375, "source_out": 12.375, "record_in": 8.875, "record_out": 12.375, "speed_percent": 57.142857, "crop": null, "purpose": "同一孩子手部试锁接后半句；2秒源慢放3.5秒保持整批14秒，手部精细用力适合慢一些，不冻结"},
+        {"source_in_frame": 297, "source_out_frame": 336, "record_in_frame": 297, "record_out_frame": 336, "source_in": 12.375, "source_out": 14, "record_in": 12.375, "record_out": 14, "speed_percent": 100, "crop": null, "purpose": "Claude警觉和快走原样，实际语音活动12.680892–13.370167在Claude脸已入画后"}
+      ],
+      "audio": "全部原选声位置保持。孩子VO从6.5秒起完整3.359958秒；Claude前句2秒起4.22秒、警告12.166666秒起1.38秒均不改。",
+      "acceptance": ["6.718秒首活动窗看到孩子开始发话", "8.875秒转手部是同一动作目标，不让手部声变成Claude发话", "手部慢放无强烈抽帧跳动；必要时帧混合，不能以冻结替代", "末尾警觉与下一批队伍出现仍顺序明确"],
+      "evidence": ["后期/声画重构-v002/证据/独立01-15/B09-reply-8fps.jpg", "后期/声画重构-v002/证据/独立01-15/B9-r3-full-2fps.jpg"],
+      "cut_verification": "源真实硬切由ffmpeg scene>0.25检测为2.041667、10.375、12.375秒，并与实看画面对应；不是用规划镜界推测"
+    },
+    {
+      "batch_number": 8,
+      "batch_id": "GB007",
+      "source": "视频制作/Metaso-H3-v002/剪辑候选/GB007-v002.mp4",
+      "duration": 12.708333333,
+      "record_frames": 305,
+      "why": "Claude问句第一信号窗批内5.301358–5.803433秒，而源嘴约5.875秒明显打开，约0.58秒落后。小鱼回答时背帽/小侧脸加上Claude脸占主导，不宜靠嘴型强行认证；改为孩子手/锁特写，可避免错归属。局部后期可先试，不必立刻补拍。",
+      "segments": [
+        {"source_in_frame": 0, "source_out_frame": 120, "record_in_frame": 0, "record_out_frame": 120, "source_in": 0, "source_out": 5, "record_in": 0, "record_out": 5, "speed_percent": 100, "crop": null, "purpose": "Claude发现和脚镣定位不改"},
+        {"source_in_frame": 134, "source_out_frame": 182, "record_in_frame": 120, "record_out_frame": 168, "source_in": 5.583333333, "source_out": 7.583333333, "record_in": 5, "record_out": 7, "speed_percent": 100, "crop": null, "purpose": "问句脸提早0.583333秒，使首活动窗落到开始张嘴；第一0.218秒仍可闭口"},
+        {"source_in_frame": 182, "source_out_frame": 230, "record_in_frame": 168, "record_out_frame": 216, "source_in": 7.583333333, "source_out": 9.583333333, "record_in": 7, "record_out": 9, "speed_percent": 100, "crop": "600:338:600:420，再放回原尺寸；仅孩子蓝袖双手和腰锁，排除Claude脸及左边孩子嘴", "purpose": "孩子回答转成她正在尝试的动作，避免Claude嘴在小鱼声下竞争归属；0.3536秒前静音自然承接伸手"},
+        {"source_in_frame": 240, "source_out_frame": 331, "record_in_frame": 216, "record_out_frame": 305, "source_in": 10, "source_out": 13.791666667, "record_in": 9, "record_out": 12.708333333, "speed_percent": 102.247191, "crop": null, "purpose": "接原真正的锁特写；去掉9.583–10秒重复手部，试锁几乎原速，消除旧129%匆忙感"}
+      ],
+      "audio": "ClaudeVO仍从批内5.083333秒起，文件1.62秒；小鱼VO仍从7秒起，文件1.5秒。完整原速，不调BGM整体边界。",
+      "acceptance": ["问句首活动不再明显闭嘴，第二活动仍大致可见开合；不承诺逐音", "7–9秒裁切整段无任何人物嘴，能看清蓝袖手正在碰锁", "两次手/锁镜切换不倒放、不重置手的接触", "9秒后的锁动作比原129%稳定，不额外加速"],
+      "evidence": ["后期/声画重构-v002/证据/独立01-15/B08-Claude-question-mouth-8fps.jpg", "后期/声画重构-v002/证据/独立01-15/B08-reply-full.png"],
+      "cut_verification": "源硬切实测3、5、10秒；裁切坐标按1344×768原尺寸帧设计，整段动态裁切需试剪确认"
+    }
+  ],
+  "other_batches": "B7/B10桥r1均未明确踏阶，不可因方向正确宣布补桥成功；等待锁起态r3。B11已可候选原速。B12/B14按各自声活动分句而非总文件时长匹配，B13补拍尚待主代理回片。"
+}

@@ -1,0 +1,183 @@
+{
+  "id": "8cd9895e-b8be-47ce-b51d-5e875db54a43",
+  "revision": 0,
+  "last_node_id": 5,
+  "last_link_id": 3,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "BreezeTTS2LoadModel",
+      "pos": [
+        30,
+        50
+      ],
+      "size": [
+        360,
+        250
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "breeze_model",
+          "type": "BREEZE_TTS2_MODEL",
+          "links": [
+            1
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "BreezeTTS2LoadModel"
+      },
+      "widgets_values": [
+        "bf16 (best quality)",
+        "bf16",
+        "cuda",
+        "sdpa",
+        "eager",
+        false
+      ],
+      "title": "Breeze TTS 2 · 已安装 BF16"
+    },
+    {
+      "id": 2,
+      "type": "BreezeTTS2VoiceDesign",
+      "pos": [
+        440,
+        50
+      ],
+      "size": [
+        540,
+        750
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "breeze_model",
+          "type": "BREEZE_TTS2_MODEL",
+          "link": 1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "links": [
+            2
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "BreezeTTS2VoiceDesign"
+      },
+      "widgets_values": [
+        "你好，欢迎来到声音创作工作室。今天，让我们用自然清晰的中文，把文字变成有温度的声音。",
+        "一位温暖亲切的成年女性，普通话清晰自然，语速适中，像与朋友轻松交谈。",
+        4.0,
+        256,
+        0.9,
+        50,
+        1.0,
+        1.1,
+        0.9,
+        50,
+        1.0,
+        20261026,
+        "fixed"
+      ],
+      "color": "#2a363b",
+      "bgcolor": "#3f5159",
+      "title": "01-中文配音与声音设计"
+    },
+    {
+      "id": 3,
+      "type": "SaveAudio",
+      "pos": [
+        1030,
+        50
+      ],
+      "size": [
+        380,
+        150
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "link": 2
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "SaveAudio"
+      },
+      "widgets_values": [
+        "audio/BreezeTTS2/voice-design"
+      ],
+      "title": "保存并试听 · 24kHz 无损 FLAC"
+    },
+    {
+      "id": 5,
+      "type": "MarkdownNote",
+      "pos": [
+        1030,
+        260
+      ],
+      "size": [
+        400,
+        430
+      ],
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "MarkdownNote"
+      },
+      "widgets_values": [
+        "# Breeze TTS 2\n\n填写 text 和 instruction，再点运行。instruction 与台词用同一种语言。\n\n官方语言：中文、英文；日语尚未验证。输出为 24kHz 单声道。\n\n默认最多约 20 秒。长台词可提高 max_new_tokens（每秒约 12.5），或分段。\n\n已装 BF16，不再自动下载；无需 Whisper。\n\n模型及本地输出限研究和非商业用途，商业使用需另外授权。"
+      ],
+      "color": "#222",
+      "bgcolor": "#000",
+      "title": "使用说明"
+    }
+  ],
+  "links": [
+    [
+      1,
+      1,
+      0,
+      2,
+      0,
+      "BREEZE_TTS2_MODEL"
+    ],
+    [
+      2,
+      2,
+      0,
+      3,
+      0,
+      "AUDIO"
+    ]
+  ],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.8,
+      "offset": [
+        20,
+        30
+      ]
+    }
+  },
+  "version": 0.4
+}

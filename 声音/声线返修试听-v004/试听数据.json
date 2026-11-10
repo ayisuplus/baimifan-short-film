@@ -1,0 +1,146 @@
+[
+  {
+    "role": "GPT",
+    "kind": "designed",
+    "note": "咏唱始终不对，没有那种动漫的热血的气",
+    "description": "新候选；包含本体咏唱、安抚、恶魔提醒、天使质问。最后两句必须仍像GPT本人。",
+    "previews": [
+      {
+        "candidate": 1,
+        "file": "GPT-1.mp3",
+        "seconds": 29.152625
+      },
+      {
+        "candidate": 2,
+        "file": "GPT-2.mp3",
+        "seconds": 27.088958
+      },
+      {
+        "candidate": 3,
+        "file": "GPT-3.mp3",
+        "seconds": 26.279167
+      }
+    ]
+  },
+  {
+    "role": "Kimi",
+    "kind": "designed",
+    "note": "不太行，我想要的是一种空灵清冷的少女，你这个不太像",
+    "description": "新候选；同一组四句正式台词重复三轮，只调整声线目标。",
+    "previews": [
+      {
+        "candidate": 1,
+        "file": "Kimi-1.mp3",
+        "seconds": 40.515917
+      },
+      {
+        "candidate": 2,
+        "file": "Kimi-2.mp3",
+        "seconds": 38.687333
+      },
+      {
+        "candidate": 3,
+        "file": "Kimi-3.mp3",
+        "seconds": 36.675917
+      }
+    ]
+  },
+  {
+    "role": "千问",
+    "kind": "direct",
+    "note": "千问设定是古风美人，我这边建议换个别的工具来生成吧，就用我们本地得breeze来设计",
+    "description": "最新决定：先用Breeze设计中文古风美人，再由IndexTTS克隆成日语。候选3是本轮新方案，候选1/2保留作旧参考对照。",
+    "previews": [
+      {
+        "candidate": 1,
+        "file": "千问-IndexTTS25-从容表演.wav",
+        "seconds": 2.0317460317460316,
+        "label": "千问-IndexTTS25-从容表演"
+      },
+      {
+        "candidate": 2,
+        "file": "千问-IndexTTS25-旧声线验证.wav",
+        "seconds": 3.030204081632653,
+        "label": "千问-IndexTTS25-旧声线验证"
+      },
+      {
+        "candidate": 3,
+        "file": "../千问跨语言试音-v005/千问-IndexTTS-日语克隆.wav",
+        "seconds": 1.915646,
+        "label": "新方案：Breeze中文设计 → IndexTTS日语"
+      }
+    ]
+  },
+  {
+    "role": "Grok",
+    "kind": "retained",
+    "note": "感觉还不如之前那个，我觉得之前那个还是对味一点，你这个变成小女孩",
+    "description": "依作者意见恢复旧版；正片本轮未动。",
+    "previews": [
+      {
+        "candidate": 1,
+        "file": "Grok-恢复旧版.wav",
+        "label": "原选声音"
+      }
+    ]
+  },
+  {
+    "role": "Claude",
+    "kind": "retained",
+    "note": "已确认声线，保留。",
+    "description": "此次不重复生成。",
+    "previews": [
+      {
+        "candidate": 1,
+        "file": "../ElevenLabs-正式台词试听-v003/../ElevenLabs-正式台词试听-v002/Claude-1.mp3",
+        "label": "已选声音"
+      }
+    ]
+  },
+  {
+    "role": "教主",
+    "kind": "retained",
+    "note": "已确认声线，保留。",
+    "description": "此次不重复生成。",
+    "previews": [
+      {
+        "candidate": 1,
+        "file": "../ElevenLabs-正式台词试听-v003/教主-1.mp3",
+        "label": "已选声音"
+      }
+    ]
+  },
+  {
+    "role": "Gemini",
+    "kind": "retained",
+    "note": "已确认声线，保留。",
+    "description": "此次不重复生成。",
+    "previews": [
+      {
+        "candidate": 1,
+        "file": "../ElevenLabs-正式台词试听-v003/Gemini-直配-oGnIkLaScZshfvIW8YvI.mp3",
+        "label": "已选声音"
+      }
+    ]
+  },
+  {
+    "role": "教徒",
+    "kind": "retained",
+    "note": "已确认声线，保留。",
+    "description": "此次不重复生成。",
+    "previews": [
+      {
+        "candidate": 1,
+        "file": "../ElevenLabs-正式台词试听-v003/教徒-直配-sBasCmUCkqdPXe3dC2X4.mp3",
+        "label": "已选声音"
+      }
+    ]
+  },
+  {
+    "role": "小鱼",
+    "kind": "retained",
+    "note": "暂时保留现有声音。",
+    "description": "未重新生成。",
+    "previews": []
+  }
+]

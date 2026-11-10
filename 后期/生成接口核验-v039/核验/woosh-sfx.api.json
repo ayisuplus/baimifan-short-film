@@ -1,0 +1,58 @@
+{
+  "40": {
+    "inputs": {
+      "model_name": "Woosh-Flow",
+      "model_type": "Flow"
+    },
+    "class_type": "WooshLoadFlow",
+    "_meta": {
+      "title": "Woosh 模型"
+    }
+  },
+  "41": {
+    "inputs": {
+      "mode": "T2A — text to audio (Flow/DFlow)"
+    },
+    "class_type": "WooshTextEncode",
+    "_meta": {
+      "title": "文字条件"
+    }
+  },
+  "39": {
+    "inputs": {
+      "prompt": "thunderstorm and rain",
+      "steps": 50,
+      "cfg": 4.5,
+      "seed": 1025217914,
+      "latent_frames": 501,
+      "subprocess": true,
+      "force_offload": false,
+      "gen_model": [
+        "40",
+        0
+      ],
+      "text_conditioning": [
+        "41",
+        0
+      ]
+    },
+    "class_type": "WooshSample",
+    "_meta": {
+      "title": "音效描述与生成"
+    }
+  },
+  "43": {
+    "inputs": {
+      "filename_prefix": "OpenCut/woosh-sfx/SaveAudioAdvanced",
+      "format": "flac",
+      "audio": [
+        "39",
+        1
+      ]
+    },
+    "class_type": "SaveAudioAdvanced",
+    "_meta": {
+      "title": "保存音效并试听"
+    }
+  }
+}

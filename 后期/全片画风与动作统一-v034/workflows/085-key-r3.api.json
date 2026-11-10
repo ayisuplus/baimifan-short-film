@@ -1,0 +1,114 @@
+{
+  "1": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "Baimifan_v034_085-key-r3.png"
+    }
+  },
+  "5": {
+    "class_type": "UNETLoader",
+    "inputs": {
+      "unet_name": "qwen_image_2.1_bf16.safetensors",
+      "weight_dtype": "fp8_e4m3fn"
+    }
+  },
+  "6": {
+    "class_type": "CLIPLoader",
+    "inputs": {
+      "clip_name": "qwen3vl_8b_fp8_scaled.safetensors",
+      "type": "qwen_image",
+      "device": "cpu"
+    }
+  },
+  "7": {
+    "class_type": "VAELoader",
+    "inputs": {
+      "vae_name": "qwen_image_2.1_vae_bf16.safetensors"
+    }
+  },
+  "8": {
+    "class_type": "QwenImage21Cache",
+    "inputs": {
+      "model": [
+        "5",
+        0
+      ],
+      "device": "cpu",
+      "dtype": "default"
+    }
+  },
+  "9": {
+    "class_type": "TextEncodeQwenImage21",
+    "inputs": {
+      "clip": [
+        "6",
+        0
+      ],
+      "vae": [
+        "7",
+        0
+      ],
+      "images.image_1": [
+        "1",
+        0
+      ],
+      "prompt": "Redraw this image as traditional hand-drawn Japanese gothic fantasy anime: clean dark ink contours, hard-edged two-tone cel shadows, matte skin and broad painted background shapes. Keep composition and story identities. No glossy 3D, PBR, photoreal reflections, text or captions. Repair three continuity errors precisely. 1: It is NIGHT. REBUILD all missing rear altar vault and side ceilings with dark intact gothic stone. Leave only ONE compact jagged opening in the CENTRAL NAVE vault, away from the rear altar; show dark navy night clouds through that single opening, never white daytime sky. Remove most wall rubble; columns and walls stand intact. 2: ALL visible lamps, candles and braziers are extinguished. Remove every orange flame on staircase posts and all warm light sources. Cool blue moonlight and simple painted wet-floor strokes only. 3: At lower RIGHT replace the purple-haired white-flower maid with QIANWEN: adult deep blue-violet-haired woman, two long front braids and a braided crown, a small ornate GOLD forehead ornament, dark navy/black GOLD-EMBROIDERED outer robe over pale white inner dress. NO white flower headband, no maid cap, no veil. She holds the small blue-whale-hatted child securely on her LEFT arm, with a closed ornate fan in her RIGHT hand. Keep them sheltered behind the side pillar. Keep the red-haired male priest farther away at foot of the high altar stairs, with no flower or veil. The opaque indigo dome is on the HIGHEST ALTAR. Keep only GPT pale gown hem and legs descending at foreground LEFT, feet not yet touching the wet floor. No duplicate GPT and no dragon in this frame.",
+      "negative_prompt": "3d, cgi, photorealism, glossy plastic skin, realistic hair strands, volumetric rendering, text, watermark",
+      "resolution": 992
+    }
+  },
+  "10": {
+    "class_type": "KSampler",
+    "inputs": {
+      "model": [
+        "8",
+        0
+      ],
+      "positive": [
+        "9",
+        0
+      ],
+      "negative": [
+        "9",
+        1
+      ],
+      "latent_image": [
+        "9",
+        2
+      ],
+      "seed": 202610303448,
+      "steps": 40,
+      "cfg": 1.0,
+      "sampler_name": "euler",
+      "scheduler": "simple",
+      "denoise": 1.0
+    }
+  },
+  "11": {
+    "class_type": "VAEDecodeTiled",
+    "inputs": {
+      "samples": [
+        "10",
+        0
+      ],
+      "vae": [
+        "7",
+        0
+      ],
+      "tile_size": 512,
+      "overlap": 64,
+      "temporal_size": 64,
+      "temporal_overlap": 8
+    }
+  },
+  "18": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "11",
+        0
+      ],
+      "filename_prefix": "Baimifan/v034/085-key-r3"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115189173030019072",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "小鱼抬眼望月",
+    "status": "succeeded",
+    "created_at": 1793135372,
+    "updated_at": 1793135390,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115189173030019072/content?expires=1793740507&signature=9878881864ae468eabc7fdf4921fdbbd3aa6bbdfa8c953f53ee4170200b16b01"
+    },
+    "resolution": "768P",
+    "duration": 5,
+    "usage": {
+      "total_seconds": 5,
+      "input_seconds": 0,
+      "output_seconds": 5,
+      "input_image_count": 1
+    },
+    "ratio": "adaptive",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

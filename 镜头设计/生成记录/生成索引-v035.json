@@ -1,0 +1,274 @@
+{
+  "version": "v035",
+  "previous_index": "镜头设计/生成记录/生成索引-v034.json",
+  "records": [
+    {
+      "shot_id": "CY009A",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-88738a5f-10a4-410e-beee-9e9fcaaffaa7.png",
+      "destination": "镜头设计/图像/末轮叙事优化-v035/CY009A-v035-r1.png",
+      "sha256": "eb5f37e0ee9273488ec02bcfa70925f6cbc6d13ae676772f874df8dd0978dbd1",
+      "request": "镜头设计/生成记录/末轮叙事优化-v035/CY009A-请求-v001.json",
+      "request_sha256": "bf696e30b68e128b8cc8287263baa1142e06f35007e08a2b93cc4ab53beba531",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/空间因果-v011/CY009A-v011-r2.png",
+          "sha256": "9072efae6af052158fe3415382904d231c26c4a04aeeea172bda90653fb20a61"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/独立镜头-v009/CY005-v009.png",
+          "sha256": "10b8c24d8833ad18517f09b0d718db7d4e04462fa21097238a87c2cd0451f8dc"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY022",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-b9ac9dff-735f-42fa-b9e3-60d7e0bb2ce6.png",
+      "destination": "镜头设计/图像/末轮叙事优化-v035/CY022-v035-r1.png",
+      "sha256": "69f17214132e672233816daf6ee2a4256047fb10133a7abfc3f6ca70fef4ff78",
+      "request": "镜头设计/生成记录/末轮叙事优化-v035/CY022-请求-v001.json",
+      "request_sha256": "17da1bf896b24c1c4287d58deb1a60c63995e2e3e6ef25a1f59048a06e2af7ea",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/动作收尾-v015/CY022-v015-r1.png",
+          "sha256": "3daa8ad384eda18ab31dd83021ec35d54d9414a3a0b29b3079c383194f8b1ace"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY022B",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-4d92b5f8-9e8d-474b-b0e2-4f906601521a.png",
+      "destination": "镜头设计/图像/末轮叙事优化-v035/CY022B-v035-r1.png",
+      "sha256": "87a8485bbe42461d1caffc1a79608ae748fc4cdc7457564696414f419267df6e",
+      "request": "镜头设计/生成记录/末轮叙事优化-v035/CY022B-请求-v001.json",
+      "request_sha256": "516c8119aea69bddb2a398edb5b5653697da0c232282d6ae62a650774fe3cf6c",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/月光救赎-v032/CY024A2-v032-r1.png",
+          "sha256": "2ab3925880321812a3d4013c809ddf8d0216c0161782d0b0b163cbe1d8a132a3"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY022B2",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-ac0d4fb6-abda-405a-952b-82f59075fa51.png",
+      "destination": "镜头设计/图像/末轮叙事优化-v035/CY022B2-v035-r1.png",
+      "sha256": "3338dc34e2f365c42943dd68fc5855a27448e6f2851611af29c1ad0915c1e418",
+      "request": "镜头设计/生成记录/末轮叙事优化-v035/CY022B2-请求-v001.json",
+      "request_sha256": "7dce343d86a34ae194837f3e892ec4c101e3ca11ff28c88c2125910e8d6e8861",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/祭坛长椅连续性-v023/CY022B2-v023-r2.png",
+          "sha256": "18f1a6717353667f904f4d860eddb818819cd2fbb24e97b98187b64de2e35b4c"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY024A2",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-286db17d-5b62-43f8-adf4-41120fa84817.png",
+      "destination": "镜头设计/图像/末轮叙事优化-v035/CY024A2-v035-r1.png",
+      "sha256": "d4dbc3031ce8149527d8fbf779d552c9ee942719f00549b439579d4df50c36df",
+      "request": "镜头设计/生成记录/末轮叙事优化-v035/CY024A2-请求-v001.json",
+      "request_sha256": "d9f3b5374cd36019908faea61aaf58fb4a207726cec3c0295fafed4b0a72081f",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/月光救赎-v032/CY024A2-v032-r1.png",
+          "sha256": "2ab3925880321812a3d4013c809ddf8d0216c0161782d0b0b163cbe1d8a132a3"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY024A4",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-0daafec7-5a03-43d5-947c-4bfee194aafc.png",
+      "destination": "镜头设计/图像/末轮叙事优化-v035/CY024A4-v035-r1.png",
+      "sha256": "82a995c002e65ce0b5e2495104abd4a65f7651c82bdfb87b1ed1a3bf9744c739",
+      "request": "镜头设计/生成记录/末轮叙事优化-v035/CY024A4-请求-v001.json",
+      "request_sha256": "7a8da385444b15205dfc4bbc6832469082375f74b5ed7a7d0baf1caa057ac4c9",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/月光救赎-v032/CY024A2-v032-r1.png",
+          "sha256": "2ab3925880321812a3d4013c809ddf8d0216c0161782d0b0b163cbe1d8a132a3"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY022B1",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-89b24399-a2a8-4ad0-8234-80154e302734.png",
+      "destination": "镜头设计/图像/末轮叙事优化-v035/CY022B1-v035-r1.png",
+      "sha256": "b6dc0f3001d95affeeaca4dc3c376f70fba876397b2f55cb3ce4df7b46cee892",
+      "request": "镜头设计/生成记录/末轮叙事优化-v035/CY022B1-请求-v001.json",
+      "request_sha256": "d3ccf295105801f4181c7d7e7b60b98474188ee971298b70bdc336fa06136a17",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY026-v033-r1.png",
+          "sha256": "77e01446dacedcb755b455190db5e58babf98ef3ef4f3ee12861c23aa09bb81a"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY026",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-6e8bf205-ce3e-420f-93d6-35447cefd132.png",
+      "destination": "镜头设计/图像/末轮叙事优化-v035/CY026-v035-r1.png",
+      "sha256": "e5ec5b2810b465a6519e546a8bc771a04b7ce5928413a906d638f7a75d3f3c3f",
+      "request": "镜头设计/生成记录/末轮叙事优化-v035/CY026-请求-v001.json",
+      "request_sha256": "505f01166e9083ba2663643274f662869fd9d577e5b2f0ad6dfd34b4c939ee01",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY026-v033-r1.png",
+          "sha256": "77e01446dacedcb755b455190db5e58babf98ef3ef4f3ee12861c23aa09bb81a"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY024A-v033-r2.png",
+          "sha256": "bbb8364c62470112819688949be621bc02ff6c3decac6592265e84bb19eb6367"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY024A",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-6b43cd2e-b86d-42f3-9456-e27fcbb32aaa.png",
+      "destination": "镜头设计/图像/末轮叙事优化-v035/CY024A-v035-r1.png",
+      "sha256": "b5539825dbb96c2d741e62d6fd356e8849e5e65403e79d901f3d51f1a562085c",
+      "request": "镜头设计/生成记录/末轮叙事优化-v035/CY024A-请求-v001.json",
+      "request_sha256": "9ad737c9900403e5b78f50b5336166428edbb3280d08d13a5f9a9fb5c0c392cd",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY024A-v033-r2.png",
+          "sha256": "bbb8364c62470112819688949be621bc02ff6c3decac6592265e84bb19eb6367"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY024B",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-1b6235bb-6f28-4b79-88cb-30826d0b2703.png",
+      "destination": "镜头设计/图像/末轮叙事优化-v035/CY024B-v035-r1.png",
+      "sha256": "ba51cf4c35cb8a02b823f26f413d4ce0774fe5a4506423d544eb11d32c7d4c8f",
+      "request": "镜头设计/生成记录/末轮叙事优化-v035/CY024B-请求-v001.json",
+      "request_sha256": "18f72f2994a71970decd74b11a862874e3d7b04eac8929c8ba7b4dad46350627",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY024B-v033-r2.png",
+          "sha256": "1164159739fc3582fe7e594819f7bde39daae31a3833cd027e52ac59b9c95fd5"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY027D0",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-3f9550a9-6d10-4ad1-bc65-4519775cc8e0.png",
+      "destination": "镜头设计/图像/末轮叙事优化-v035/CY027D0-v035-r1.png",
+      "sha256": "419994e0484fb7fbfd05c6d48abd1811e791fd10d1dc618ee560e02c5adedf06",
+      "request": "镜头设计/生成记录/末轮叙事优化-v035/CY027D0-请求-v001.json",
+      "request_sha256": "4d17c055dddf24c1c9bf30a3a13245206b36504f196d6c1314903a980057c21a",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY026-v033-r1.png",
+          "sha256": "77e01446dacedcb755b455190db5e58babf98ef3ef4f3ee12861c23aa09bb81a"
+        }
+      ],
+      "status": "rejected_wrong_opposite_cathedral"
+    },
+    {
+      "shot_id": "CY029E1",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-3362a9c9-f4df-4dcc-82d4-9ac93fa1b881.png",
+      "destination": "镜头设计/图像/末轮叙事优化-v035/CY029E1-v035-r1.png",
+      "sha256": "fe0f4c31f3982079f8e578811dd44c7940e9a0fdba66b2c111031075b57f5c34",
+      "request": "镜头设计/生成记录/末轮叙事优化-v035/CY029E1-请求-v001.json",
+      "request_sha256": "7680ef914993619d2b30054f053652eeb68fcf355df05fdf5298cb98db6a7564",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/月光救赎-v032/CY024A2-v032-r1.png",
+          "sha256": "2ab3925880321812a3d4013c809ddf8d0216c0161782d0b0b163cbe1d8a132a3"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火种慢镜-v026/CY029B1-v026-r2.png",
+          "sha256": "d0ee8df9b35d5ce8f393c6d9b8871b3662096f83101fa1c74c16f9baefaf5169"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY029E2",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-b67d291d-07f3-4306-a652-51089d0d3bc9.png",
+      "destination": "镜头设计/图像/末轮叙事优化-v035/CY029E2-v035-r1.png",
+      "sha256": "45a6465264e34b2d075454014017ece7ca7eb3c781e26ca7c10af7925258626e",
+      "request": "镜头设计/生成记录/末轮叙事优化-v035/CY029E2-请求-v001.json",
+      "request_sha256": "457d1d8a02866f848c67466645ada594bf5e014f94518dc76aab4d9290f528b1",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/天瀑空间-v014/CY029E-v014-r1.png",
+          "sha256": "2c68c03900736e42ab352f93ff44a2253db4658af19ac5b51f41a417b6f47d1f"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY029E3",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-7e4830d1-8353-4b11-aa3a-54af6bdd9bf7.png",
+      "destination": "镜头设计/图像/末轮叙事优化-v035/CY029E3-v035-r1.png",
+      "sha256": "472ade3a540d87051f2392dee0fe9f291b7a7762a6f48b5e2c483bed12090add",
+      "request": "镜头设计/生成记录/末轮叙事优化-v035/CY029E3-请求-v001.json",
+      "request_sha256": "dd0941e11dfa949de05f82fd5a7cc25a998079b2f9a3c49e98d38a3aa7848371",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火种慢镜-v026/CY029B1-v026-r2.png",
+          "sha256": "d0ee8df9b35d5ce8f393c6d9b8871b3662096f83101fa1c74c16f9baefaf5169"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY029E4",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-7786e818-e5bb-4ce8-a1db-09293950dc77.png",
+      "destination": "镜头设计/图像/末轮叙事优化-v035/CY029E4-v035-r1.png",
+      "sha256": "921ccc056004f550c368948e76e281f257c6bba8ca56e0ea53d3dc750001d8ae",
+      "request": "镜头设计/生成记录/末轮叙事优化-v035/CY029E4-请求-v001.json",
+      "request_sha256": "e53f2bca90609b7d67aa4352197c095645b9c9d244eaa5b228edc376482d77a5",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/战后对白与补镜-v025/CY028A2-v025-r1.png",
+          "sha256": "2e87649688f10d7ff09d16f07376bef028e757cef7b680156a7dfff69a0121e1"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY027D0",
+      "attempt": 2,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-853029ba-ebb1-4de6-95ee-d5063816b24b.png",
+      "destination": "镜头设计/图像/末轮叙事优化-v035/CY027D0-v035-r2.png",
+      "sha256": "84ff0d72046035d8398879d3d0de7646aa000c9232dbf45db09573139fd30907",
+      "request": "镜头设计/生成记录/末轮叙事优化-v035/CY027D0-请求-v002.json",
+      "request_sha256": "1e5f99455c850d4729582da0b4db77041b8c7c6dd95bf10f8a0f3dd6abfb2615",
+      "inputs": [
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a162c1-6e38-7a10-aee7-5c8371c4830c/exec-3f9550a9-6d10-4ad1-bc65-4519775cc8e0.png",
+          "sha256": "419994e0484fb7fbfd05c6d48abd1811e791fd10d1dc618ee560e02c5adedf06"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    }
+  ]
+}

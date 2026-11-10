@@ -1,0 +1,9 @@
+{
+  "name": "086b-video-r1",
+  "type": "video",
+  "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\086b-key-r1_00001_.png",
+  "key_review": "pass",
+  "prompt": "Animate this exact hand-drawn Japanese gothic anime frame. Preserve ink contours, hard-edged cel shadows, matte skin and painted architecture; no CGI, photoreal rendering, orbit, random zoom, extra limbs, costume change or unrelated cut. GPT takes one controlled breath, raises her chin and delivers a short firm reply. Her gaze stays on the priest; her expression tightens into resolve at the end. Fixed close view, a single restrained performance, no smiling turn to camera.",
+  "frames": 72,
+  "seed": 202610304901
+}

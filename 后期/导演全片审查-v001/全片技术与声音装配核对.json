@@ -1,0 +1,388 @@
+{
+  "total_batches": 44,
+  "planned_shots": 133,
+  "actual_sum_seconds": 503.666343,
+  "planned_sum_seconds": 490.022729,
+  "mix_composites": 22,
+  "native_audio_batches": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    9,
+    10,
+    12,
+    14,
+    15,
+    16,
+    22,
+    23,
+    24,
+    27,
+    28,
+    33,
+    35,
+    41,
+    43,
+    44
+  ],
+  "all_source_hashes_match": true,
+  "all_sheets_exist": true,
+  "audio_listened": false,
+  "rows": [
+    {
+      "batch": 1,
+      "batch_id": "GB001",
+      "actual_seconds": 15.083333,
+      "planned_seconds": 14.98,
+      "delta_seconds": 0.103333,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 2,
+      "batch_id": "GB002",
+      "actual_seconds": 15.083333,
+      "planned_seconds": 14.692729,
+      "delta_seconds": 0.390604,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 3,
+      "batch_id": "GB003",
+      "actual_seconds": 11.541667,
+      "planned_seconds": 11,
+      "delta_seconds": 0.541667,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 4,
+      "batch_id": "GB004",
+      "actual_seconds": 14.375,
+      "planned_seconds": 14,
+      "delta_seconds": 0.375,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 5,
+      "batch_id": "GB004M",
+      "actual_seconds": 15.083333,
+      "planned_seconds": 14.92,
+      "delta_seconds": 0.163333,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 6,
+      "batch_id": "GB005",
+      "actual_seconds": 14.0,
+      "planned_seconds": 14,
+      "delta_seconds": 0.0,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 7,
+      "batch_id": "GB006",
+      "actual_seconds": 13.666667,
+      "planned_seconds": 13,
+      "delta_seconds": 0.666667,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 8,
+      "batch_id": "GB007",
+      "actual_seconds": 15.0,
+      "planned_seconds": 15.0,
+      "delta_seconds": 0.0,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 9,
+      "batch_id": "GB008",
+      "actual_seconds": 14.375,
+      "planned_seconds": 13.98,
+      "delta_seconds": 0.395,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 10,
+      "batch_id": "GB008R2",
+      "actual_seconds": 5.166667,
+      "planned_seconds": 4,
+      "delta_seconds": 1.166667,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 11,
+      "batch_id": "GB009",
+      "actual_seconds": 13.0,
+      "planned_seconds": 13,
+      "delta_seconds": 0.0,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 12,
+      "batch_id": "GB010",
+      "actual_seconds": 14.375,
+      "planned_seconds": 13.9,
+      "delta_seconds": 0.475,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 13,
+      "batch_id": "GB011-1",
+      "actual_seconds": 10.0,
+      "planned_seconds": 10,
+      "delta_seconds": 0.0,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 14,
+      "batch_id": "GB011-2",
+      "actual_seconds": 6.583333,
+      "planned_seconds": 5.8,
+      "delta_seconds": 0.783333,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 15,
+      "batch_id": "GB012",
+      "actual_seconds": 12.25,
+      "planned_seconds": 12,
+      "delta_seconds": 0.25,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 16,
+      "batch_id": "GB013",
+      "actual_seconds": 14.375,
+      "planned_seconds": 14,
+      "delta_seconds": 0.375,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 17,
+      "batch_id": "GB014",
+      "actual_seconds": 6.5,
+      "planned_seconds": 6.5,
+      "delta_seconds": 0.0,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 18,
+      "batch_id": "GB014A",
+      "actual_seconds": 12.291667,
+      "planned_seconds": 12.29,
+      "delta_seconds": 0.001667,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 19,
+      "batch_id": "GB015-1",
+      "actual_seconds": 12.0,
+      "planned_seconds": 12.0,
+      "delta_seconds": 0.0,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 20,
+      "batch_id": "GB015-2",
+      "actual_seconds": 4.0,
+      "planned_seconds": 4,
+      "delta_seconds": 0.0,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 21,
+      "batch_id": "GB016-1",
+      "actual_seconds": 11.291667,
+      "planned_seconds": 11.3,
+      "delta_seconds": -0.008333,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 22,
+      "batch_id": "GB016-2",
+      "actual_seconds": 5.166667,
+      "planned_seconds": 4,
+      "delta_seconds": 1.166667,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 23,
+      "batch_id": "GB017",
+      "actual_seconds": 7.291667,
+      "planned_seconds": 6.54,
+      "delta_seconds": 0.751667,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 24,
+      "batch_id": "GB017R2",
+      "actual_seconds": 10.125,
+      "planned_seconds": 9.16,
+      "delta_seconds": 0.965,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 25,
+      "batch_id": "GB018",
+      "actual_seconds": 14.458333,
+      "planned_seconds": 14.45,
+      "delta_seconds": 0.008333,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 26,
+      "batch_id": "GB019",
+      "actual_seconds": 14.916667,
+      "planned_seconds": 14.89,
+      "delta_seconds": 0.026667,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 27,
+      "batch_id": "GB020-1",
+      "actual_seconds": 7.291667,
+      "planned_seconds": 6.52,
+      "delta_seconds": 0.771667,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 28,
+      "batch_id": "GB020-1R2",
+      "actual_seconds": 12.25,
+      "planned_seconds": 11.35,
+      "delta_seconds": 0.9,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 29,
+      "batch_id": "GB020-2",
+      "actual_seconds": 5.583333,
+      "planned_seconds": 5.59,
+      "delta_seconds": -0.006667,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 30,
+      "batch_id": "GB021",
+      "actual_seconds": 11.583333,
+      "planned_seconds": 11.58,
+      "delta_seconds": 0.003333,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 31,
+      "batch_id": "GB022-1",
+      "actual_seconds": 13.5,
+      "planned_seconds": 13.5,
+      "delta_seconds": 0.0,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 32,
+      "batch_id": "GB022-2",
+      "actual_seconds": 5.0,
+      "planned_seconds": 5,
+      "delta_seconds": 0.0,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 33,
+      "batch_id": "GB023",
+      "actual_seconds": 12.25,
+      "planned_seconds": 12,
+      "delta_seconds": 0.25,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 34,
+      "batch_id": "GB024",
+      "actual_seconds": 13.916667,
+      "planned_seconds": 13.9,
+      "delta_seconds": 0.016667,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 35,
+      "batch_id": "GB025",
+      "actual_seconds": 14.375,
+      "planned_seconds": 14,
+      "delta_seconds": 0.375,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 36,
+      "batch_id": "GB026",
+      "actual_seconds": 12.0,
+      "planned_seconds": 12,
+      "delta_seconds": 0.0,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 37,
+      "batch_id": "GB027",
+      "actual_seconds": 14.208008,
+      "planned_seconds": 14.2,
+      "delta_seconds": 0.008008,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 38,
+      "batch_id": "GB028",
+      "actual_seconds": 14.208333,
+      "planned_seconds": 14.24,
+      "delta_seconds": -0.031667,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 39,
+      "batch_id": "GB029",
+      "actual_seconds": 13.416667,
+      "planned_seconds": 13.38,
+      "delta_seconds": 0.036667,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 40,
+      "batch_id": "GB030-1",
+      "actual_seconds": 13.375,
+      "planned_seconds": 13.36,
+      "delta_seconds": 0.015,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 41,
+      "batch_id": "GB030-2",
+      "actual_seconds": 5.166667,
+      "planned_seconds": 3,
+      "delta_seconds": 2.166667,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 42,
+      "batch_id": "GB031",
+      "actual_seconds": 14.0,
+      "planned_seconds": 14,
+      "delta_seconds": 0.0,
+      "final_voice_mix": true
+    },
+    {
+      "batch": 43,
+      "batch_id": "GB032",
+      "actual_seconds": 10.125,
+      "planned_seconds": 10,
+      "delta_seconds": 0.125,
+      "final_voice_mix": false
+    },
+    {
+      "batch": 44,
+      "batch_id": "GB033",
+      "actual_seconds": 9.416667,
+      "planned_seconds": 9,
+      "delta_seconds": 0.416667,
+      "final_voice_mix": false
+    }
+  ]
+}

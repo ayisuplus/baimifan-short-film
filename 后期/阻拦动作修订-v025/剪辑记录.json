@@ -1,0 +1,20 @@
+{
+  "baseline_url": "http://127.0.0.1:8978/editor/1500f6fe-cacc-4a92-9bc2-9e640cfbad07",
+  "revision_url": "http://127.0.0.1:8978/editor/7eae0a10-425d-42a4-adf2-e0cb08b095b8",
+  "baseline_verified_unchanged_from_v022": true,
+  "fps": 24,
+  "030": {
+    "source": "030_B11_GB009_04.mp4",
+    "source_in": 0,
+    "source_out_exclusive": 30,
+    "old_frames": 48,
+    "new_frames": 30,
+    "removed_tail_frames": 18,
+    "timeline_start": 2446,
+    "timeline_end_exclusive": 2476,
+    "reason": "Keep grip release and palms landing; remove held-leg pause before cut to wood stack"
+  },
+  "other_clips_preserved": true,
+  "subtitles_voice_bgm_deferred": true,
+  "resolve_accessed": false
+}

@@ -1,0 +1,246 @@
+{
+  "scope": "069–085",
+  "reviewer": "review_water",
+  "rows": [
+    {
+      "id": "070",
+      "status": "trim",
+      "kind": "video",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\070-video-r1-no-upscale_00001_.mp4",
+      "usable_source_range_exclusive": [
+        0,
+        54
+      ],
+      "target_frames": 54,
+      "reason": "二维线条、两膜翼、单尾稳定；抬手动作有延续，尾部纯停留。",
+      "fix": "接069悬停状态，切到短攻击插镜，避免重复抬手。",
+      "review_method": "CPU decoded contact sheet at six-frame intervals plus full-size keyframes; not real-time playback or author acceptance"
+    },
+    {
+      "id": "071a",
+      "status": "trim",
+      "kind": "video",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\071a-video-r1-no-upscale_00001_.mp4",
+      "usable_source_range_exclusive": [
+        8,
+        32
+      ],
+      "target_frames": 24,
+      "reason": "有一次明确橙金释放，袖摆跟随；首帧已带能量，后半重复停姿。",
+      "fix": "以发射动作为切入，不保留42帧以后空手停顿。",
+      "review_method": "CPU decoded contact sheet at six-frame intervals plus full-size keyframes; not real-time playback or author acceptance"
+    },
+    {
+      "id": "071b",
+      "status": "trim",
+      "kind": "video",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\071b-video-r1-no-upscale_00001_.mp4",
+      "usable_source_range_exclusive": [
+        18,
+        60
+      ],
+      "target_frames": 36,
+      "reason": "光沿扇骨与扇叶流动可读；直到约60帧才剥离，后段脱出物过大且不够像单枚长叶。",
+      "fix": "在离扇动势开始时切到071c；不要保留60帧后大块扇面飞过镜头。此剪法需要接头确认；若仍读不清单叶离轴，再重生。",
+      "review_method": "CPU decoded contact sheet at six-frame intervals plus full-size keyframes; not real-time playback or author acceptance"
+    },
+    {
+      "id": "071c",
+      "status": "trim",
+      "kind": "video",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\071c-video-r1-no-upscale_00001_.mp4",
+      "usable_source_range_exclusive": [
+        0,
+        24
+      ],
+      "target_frames": 24,
+      "reason": "接触爆光明确，但首帧已经接触，30帧后橙黑射线不散且扇叶持续僵持，没有正确下落结果。",
+      "fix": "切在第一次白蓝撞击峰值，立即回GPT/罩内安全，避免把后半错当拦截完成。若要求明确落叶结果，补1条短下落反应。",
+      "review_method": "CPU decoded contact sheet at six-frame intervals plus full-size keyframes; not real-time playback or author acceptance"
+    },
+    {
+      "id": "072",
+      "status": "trim",
+      "kind": "video",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\072-video-r1-no-upscale_00001_.mp4",
+      "usable_source_range_exclusive": [
+        18,
+        84
+      ],
+      "target_frames": 66,
+      "reason": "手部聚水、抬眼与二维画风清楚，后段重复抬头停留。",
+      "fix": "以念咒/视线上移承接外景水滴；不必加大无动机推镜。",
+      "review_method": "CPU decoded contact sheet at six-frame intervals plus full-size keyframes; not real-time playback or author acceptance"
+    },
+    {
+      "id": "073",
+      "status": "pass",
+      "kind": "key",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\073-key-r2_00001_.png",
+      "usable_source_range_exclusive": null,
+      "target_frames": null,
+      "reason": "r2关键帧消除窗与长刀；两人关系、Claude腕踝约束、木十字架和脚托清楚，蓝罩不透明。",
+      "fix": "已列入water-approved-videojobs；仅允许一次承托与微弱呼吸，禁止解开束缚。",
+      "review_method": "CPU decoded contact sheet at six-frame intervals plus full-size keyframes; not real-time playback or author acceptance"
+    },
+    {
+      "id": "074",
+      "status": "trim",
+      "kind": "video",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\074-video-r1-no-upscale_00001_.mp4",
+      "usable_source_range_exclusive": [
+        12,
+        48
+      ],
+      "target_frames": 36,
+      "reason": "大水滴加速拉长并离开画面，有向天空带视线；0帧较像玻璃球，尾部等待较长。",
+      "fix": "用加速拉长段，切至云涡，少停留在玻璃球状静止首帧。",
+      "review_method": "CPU decoded contact sheet at six-frame intervals plus full-size keyframes; not real-time playback or author acceptance"
+    },
+    {
+      "id": "075",
+      "status": "revise",
+      "kind": "video",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\075-video-r1-no-upscale_00001_.mp4",
+      "usable_source_range_exclusive": null,
+      "target_frames": null,
+      "reason": "6帧后凭空出现橙发披风人物，18帧抬手指向云涡，造成另一个人施法的因果错误。",
+      "fix": "保留已通过的无人关键帧重生；water-repair-jobs中的075-video-r2严格无人、只动云。",
+      "review_method": "CPU decoded contact sheet at six-frame intervals plus full-size keyframes; not real-time playback or author acceptance"
+    },
+    {
+      "id": "077",
+      "status": "revise",
+      "kind": "video",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\077-video-r1-no-upscale_00001_.mp4",
+      "usable_source_range_exclusive": null,
+      "target_frames": null,
+      "reason": "整段是尖水舌/水柱，缺清晰龙头；右侧后殿像屋顶被剖开，暴露迷你室内，冲击后破坏范围继续扩张。",
+      "fix": "重做有明确龙头和完整后殿屋顶的关键帧，见077-key-r2。紧急备用仅36–56帧短切冲击，不能标完整通过。",
+      "review_method": "CPU decoded contact sheet at six-frame intervals plus full-size keyframes; not real-time playback or author acceptance"
+    },
+    {
+      "id": "078",
+      "status": "pass",
+      "kind": "key",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\078-key-r2_00001_.png",
+      "usable_source_range_exclusive": null,
+      "target_frames": null,
+      "reason": "r2关键帧右上多余天洞已修为连续拱顶；龙从唯一左上破口进入，方向可与外景接。",
+      "fix": "已列videojobs；短促头颈下冲，碎石只来自既有左上破口。",
+      "review_method": "CPU decoded contact sheet at six-frame intervals plus full-size keyframes; not real-time playback or author acceptance"
+    },
+    {
+      "id": "079",
+      "status": "trim",
+      "kind": "video",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\079-video-r1-no-upscale_00001_.mp4",
+      "usable_source_range_exclusive": [
+        0,
+        16
+      ],
+      "target_frames": 16,
+      "reason": "前16帧表情/抬眼可用；18帧后龙头出现在教主背后近肩，与下一镜正面盾面迎击方向冲突。",
+      "fix": "只保留抬眼反应，不用龙绕到背后的后段。",
+      "review_method": "CPU decoded contact sheet at six-frame intervals plus full-size keyframes; not real-time playback or author acceptance"
+    },
+    {
+      "id": "080",
+      "status": "revise",
+      "kind": "video",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\080-video-r1-no-upscale_00001_.mp4",
+      "usable_source_range_exclusive": null,
+      "target_frames": null,
+      "reason": "GPT从祈祷式双手到张开双臂，没有指向教主；龙绕镜头一整圈，发令→发射因果不清，运动拖沓。",
+      "fix": "用原二维key重做动画，右手指向屏左，龙头同向一次加速出画，见080-video-r2。",
+      "review_method": "CPU decoded contact sheet at six-frame intervals plus full-size keyframes; not real-time playback or author acceptance"
+    },
+    {
+      "id": "081",
+      "status": "trim",
+      "kind": "video",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\081-video-r1-no-upscale_00001_.mp4",
+      "usable_source_range_exclusive": [
+        6,
+        54
+      ],
+      "target_frames": 48,
+      "reason": "6–54帧下冲撞盾与水花爆发有力度；78帧后整个顶部大面积破裂落石，与只保留一个破口矛盾。",
+      "fix": "在水花压过盾缘的峰值切到082抓阶，舍掉后段全顶崩塌；不要慢放扩大CG感。",
+      "review_method": "CPU decoded contact sheet at six-frame intervals plus full-size keyframes; not real-time playback or author acceptance"
+    },
+    {
+      "id": "082",
+      "status": "pass",
+      "kind": "key",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\082-key-r2_00001_.png",
+      "usable_source_range_exclusive": null,
+      "target_frames": null,
+      "reason": "r2为黑兜帽深发男性，近景手掌/台阶可辨，远处高台蓝罩明确；火焰已无。",
+      "fix": "已列videojobs；一波水拉袍→握紧→水退，不要循环海浪。",
+      "review_method": "CPU decoded contact sheet at six-frame intervals plus full-size keyframes; not real-time playback or author acceptance"
+    },
+    {
+      "id": "083",
+      "status": "pass",
+      "kind": "key",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\083-key-r2_00001_.png",
+      "usable_source_range_exclusive": null,
+      "target_frames": null,
+      "reason": "r2恢复高祭台、前沿台阶与不透明罩的空间层级；水沿阶下泄，可解释罩内安全。",
+      "fix": "已列videojobs；轻微拉开交代层级，不能移动罩或让水逆流。",
+      "review_method": "CPU decoded contact sheet at six-frame intervals plus full-size keyframes; not real-time playback or author acceptance"
+    },
+    {
+      "id": "085",
+      "status": "revise",
+      "kind": "key",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\085-key-r2_00001_.png",
+      "usable_source_range_exclusive": null,
+      "target_frames": null,
+      "reason": "r2仍大面积开顶、亮蓝白天光、到处废墟；台阶至少4处小烛火未灭；右侧千问是白花发饰的浅紫女仆造型，与063/049金冠深蓝辫发及金纹外袍不同。",
+      "fix": "见085-key-r3修复屋顶/夜光/灭灯/千问身份；动态仍采用双脚承重后收翼。",
+      "review_method": "CPU decoded contact sheet at six-frame intervals plus full-size keyframes; not real-time playback or author acceptance"
+    },
+    {
+      "id": "069",
+      "status": "pass",
+      "kind": "existing_edit",
+      "source": "see v031 source index",
+      "usable_source_range_exclusive": null,
+      "target_frames": null,
+      "reason": "保留原镜，作为升空与夜光建立",
+      "fix": "",
+      "review_method": "CPU decoded contact sheet at six-frame intervals plus full-size keyframes; not real-time playback or author acceptance"
+    },
+    {
+      "id": "076",
+      "status": "trim",
+      "kind": "existing_edit",
+      "source": "see v031 source index",
+      "usable_source_range_exclusive": null,
+      "target_frames": null,
+      "reason": "删除与072重复的念咒反应",
+      "fix": "",
+      "review_method": "CPU decoded contact sheet at six-frame intervals plus full-size keyframes; not real-time playback or author acceptance"
+    },
+    {
+      "id": "084",
+      "status": "trim",
+      "kind": "existing_edit",
+      "source": "see v031 source index",
+      "usable_source_range_exclusive": null,
+      "target_frames": null,
+      "reason": "删除与073重复的罩内反应",
+      "fix": "",
+      "review_method": "CPU decoded contact sheet at six-frame intervals plus full-size keyframes; not real-time playback or author acceptance"
+    }
+  ],
+  "approved_video_jobs": "water-approved-videojobs.json",
+  "repair_jobs": "water-repair-jobs.json",
+  "notes": [
+    "No GPU used; no original files changed; no Resolve or ComfyUI jobs submitted.",
+    "All frame ranges are zero-based and end-exclusive.",
+    "Trim candidates require adjacent-shot playback; contact sheets cannot prove temporal smoothness."
+  ]
+}

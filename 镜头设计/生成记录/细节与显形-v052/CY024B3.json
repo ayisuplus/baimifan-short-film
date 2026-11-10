@@ -1,0 +1,19 @@
+{
+  "id": "CY024B3",
+  "input": {
+    "transparent_background": false,
+    "referenced_image_paths": [
+      "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/控水协作-v046/CY024B3-v046-r1.png"
+    ],
+    "prompt": "Recompose and correct this 16:9 anime frame of the SAME opaque deep-indigo protective dome on the cathedral altar platform. Critical author change: water NEXT TO DOME should be SMALL; floor may be WET, no artificially dry central lane needed. New camera a modest elevated three-quarter angle from left side aisle, 35mm, dome in upper-right midground rather than giant central ball. Preserve its established size relative to stone railing, dome fully opaque hides occupants, same calm dark lunar surface, not stretched egg. Show natural broad WET grey stone terrace with shallow silver-blue rippling water around dome base and across center, reflections, only ankle-deep or lower on open platform, no giant waves or vertical walls near dome. Several LOW irregular streams flow DOWN outside stair edges away from dome toward foreground, small foam at step drops, no perfectly symmetrical pair of tall whitewater banks. NO wave colliding into shield, no shield strain/glowing impact, no bending water magically around dry island. Depth from diagonal stairs and railings; far altar remains quiet. Same rear central blue stained-glass window has single existing irregular broken center with frame preserved; side windows intact and rear vault intact. All ordinary candles/braziers extinguished, soft moonlight, no fire. A few small charred wood fragments low in shallow runoff, no ruined furniture or floating pews. No people visible inside dome, no additional domes, water dragon or lightning, no symbols, text or panels. Calm aftermath image with believable water scale and gentle asymmetry, not symmetrical water palace."
+  },
+  "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-20be0f53-ad49-431d-81c4-8a4521b127e2.png",
+  "output": "镜头设计/图像/细节与显形-v052/CY024B3-v052-r1.png",
+  "sha256": "8cdd21ab096300147a6289f16ea8589ac517ab47e94684dc1fbe605c1b4e9362",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "engine": "built-in image_gen",
+  "status": "pending_author_visual_review"
+}

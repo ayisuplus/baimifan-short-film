@@ -1,0 +1,39 @@
+{
+  "id": "BGM-CY-MT-03",
+  "bvid": "BV1JP4y1m78A",
+  "part": 3,
+  "title": "魔法が存在する世界で",
+  "display_title": "存在魔法的世界",
+  "work": "无职转生",
+  "composer": "藤澤慶昌",
+  "source_page_title": "02. 魔法が存在する世界で",
+  "cid": 40238842218,
+  "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=3",
+  "uploader": "L-2-C",
+  "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+  "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-03.m4a",
+  "bytes": 2770650,
+  "sha256": "6726d4d192ca25ee0921d7bf8255e7f9f4757f837c9537ecb76ec7d3386d8edb",
+  "duration": 131.016871,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "144563"
+      }
+    ],
+    "format": {
+      "duration": "131.016871"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

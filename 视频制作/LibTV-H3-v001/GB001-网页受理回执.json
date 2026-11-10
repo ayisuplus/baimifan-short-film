@@ -1,0 +1,177 @@
+{
+  "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+  "nodeId": "v-6NT74v07yC",
+  "node": {
+    "id": "v-6NT74v07yC",
+    "type": "video",
+    "data": {
+      "type": "video",
+      "name": "第1批 · 初遇与递饭 · H3 v001",
+      "url": [],
+      "poster": "",
+      "action": "video_generate",
+      "generatorType": "default",
+      "params": {
+        "prompt": "subject_definitions:\n{{Mixed 2}} =DeepSeek四视图：同一人四角度，身份服饰保持\n{{Mixed 3}} =Claude四视图：同一人四角度，身份服饰保持\n{{Mixed 1}} =构图状态，非强制首帧\n{{Mixed 4}} =构图状态，非强制首帧\n{{Mixed 5}} =构图状态，非强制首帧\n{{Mixed 6}} =构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，15秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–5s {{Mixed 1}} ；画内:DeepSeek、教徒、街市行人。直接从捧饭前行开始；停步抬眼后接她看见的人。眼高远景沿街侧向跟随；小鱼停步时随之减速，黑袍近景掠过形成视差。跟随几步后停住，黑袍队伍横过她的去路。 声音:街市叫卖、碗勺轻碰、脚步；不添加可辨的新叫卖台词。\n[Shot 2] 5–9s {{Mixed 4}} ；画内:Claude、教徒。承接小鱼右侧视线，切Claude中近景；脚步与衣料跨切点不断。保持有意定镜；Claude转头，前景黑袍缓慢经过，眼神落定后留一拍。她听到脚步，侧脸望向小鱼；留一拍目光。 声音:叫卖声拉远、衣料摩擦贴近；脚步声连续，不添加新对白。\n[Shot 3] 9–12.98s {{Mixed 5}} ；画内:DeepSeek、Claude、教徒。眼神落定后反打小鱼；举碗一次，句尾碗已经到达两人之间。同轴过肩中景缓慢小幅前移，脸、碗和右缘Claude肩部同时保留。小鱼看看 Claude，再看看碗，举碗问出邀请；句尾切到悬停的饭碗。 人物:Claude过肩前景仅局部，不扩展成并排全身。 声音:一句邀请完整说完； 小鱼在镜内0.8–3.88秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 4] 12.98–14.98s {{Mixed 6}} ；画内:DeepSeek、Claude。继承已经递出的饭碗，不从胸前重新举起；无人接碗。同碗沿高度与手位切近景；延续前移后柔和收停，两秒等待。继承已经递出的饭碗，双手悬停，热气升起；右侧没有接碗手。 人物:只有小鱼的手与局部身体、Claude右缘裙装与橙发；Claude接碗手不入画。 声音:细小碗响，市声稍远；保持两秒等待，不重放邀请。\n9.8–12.88s DeepSeek 匹配口型:<d>[Japanese] 少し食べる？</d>；仅一次。\n14.98–15s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+        "model": "MiniMax-Hailuo-H3",
+        "modeType": "mixed2video",
+        "count": 1,
+        "imageList": [
+          {
+            "nodeId": "i-BXCvlyR9th",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/572cdf6415d4ea2deea7f6c54221333dcab7ccad.png",
+            "label": "CY001-v009"
+          },
+          {
+            "nodeId": "i-xeoryk3YD5",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/01eb956f89de45c0cbb7fe467e1c15c233c85814.png",
+            "label": "小鱼身份四视图 v003"
+          },
+          {
+            "nodeId": "i-MWcnjv1nW0",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/933ccbb6b4a5a23d46cd8a1264957d850e088288.png",
+            "label": "CHAR-CLAUDE-TURN-v001"
+          },
+          {
+            "nodeId": "i-iLJ9wpHTSy",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/04e5405bb80b2a7855de096d6a7812297e968330.png",
+            "label": "CY002-v009"
+          },
+          {
+            "nodeId": "i-5WfE7d6YZe",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/af13319e4d379a4419a9b5a3e61e460da8e29910.png",
+            "label": "CY003-v009"
+          },
+          {
+            "nodeId": "i-ZmEeBErYN0",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/267f853a56d796b238b22959a04082c951de672c.png",
+            "label": "CY003A-v009"
+          }
+        ],
+        "videoList": [],
+        "audioList": [],
+        "settings": {
+          "ratio": "16:9",
+          "resolution": "768P",
+          "duration": 15
+        },
+        "advancedSettings": {},
+        "textList": [],
+        "mixedList": [
+          {
+            "nodeId": "i-BXCvlyR9th",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/572cdf6415d4ea2deea7f6c54221333dcab7ccad.png",
+            "label": "CY001-v009",
+            "mediaType": "image"
+          },
+          {
+            "nodeId": "i-xeoryk3YD5",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/01eb956f89de45c0cbb7fe467e1c15c233c85814.png",
+            "label": "小鱼身份四视图 v003",
+            "mediaType": "image"
+          },
+          {
+            "nodeId": "i-MWcnjv1nW0",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/933ccbb6b4a5a23d46cd8a1264957d850e088288.png",
+            "label": "CHAR-CLAUDE-TURN-v001",
+            "mediaType": "image"
+          },
+          {
+            "nodeId": "i-iLJ9wpHTSy",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/04e5405bb80b2a7855de096d6a7812297e968330.png",
+            "label": "CY002-v009",
+            "mediaType": "image"
+          },
+          {
+            "nodeId": "i-5WfE7d6YZe",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/af13319e4d379a4419a9b5a3e61e460da8e29910.png",
+            "label": "CY003-v009",
+            "mediaType": "image"
+          },
+          {
+            "nodeId": "i-ZmEeBErYN0",
+            "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/267f853a56d796b238b22959a04082c951de672c.png",
+            "label": "CY003A-v009",
+            "mediaType": "image"
+          }
+        ],
+        "ratio": "16:9",
+        "resolution": "2K",
+        "duration": 5,
+        "imageListOrder": [
+          "i-BXCvlyR9th",
+          "i-xeoryk3YD5",
+          "i-MWcnjv1nW0",
+          "i-iLJ9wpHTSy",
+          "i-5WfE7d6YZe",
+          "i-ZmEeBErYN0"
+        ],
+        "mixedListOrder": [
+          "i-BXCvlyR9th",
+          "i-xeoryk3YD5",
+          "i-MWcnjv1nW0",
+          "i-iLJ9wpHTSy",
+          "i-5WfE7d6YZe",
+          "i-ZmEeBErYN0"
+        ]
+      },
+      "_updatedAtMs": 1793113742000,
+      "_lastAppliedFullyAtMs": 1793113742000,
+      "taskInfo": {
+        "loading": true,
+        "taskId": "20261027232703298009236",
+        "status": 0,
+        "tracking": {
+          "successEvent": "libtv.canvas.generator.success",
+          "failEvent": "libtv.canvas.generator.fail",
+          "commonParams": {
+            "billing_mode": "credits",
+            "queue_type": "normal",
+            "throttle_state": "none",
+            "generator_type": "视频生成器",
+            "function_name": "全能参考",
+            "model_name": "Minimax H3",
+            "model_version_id": "MiniMax-Hailuo-H3",
+            "node_uuid": "v-6NT74v07yC",
+            "entry_source": "canvas",
+            "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+            "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+          },
+          "submittedAtMs": 1793114866166
+        },
+        "ownerUserId": "4a687bfc3acc4951adf244cb28598805"
+      },
+      "isStale": false,
+      "prevTaskInfo": {
+        "loading": false,
+        "taskId": "",
+        "status": 0
+      }
+    },
+    "position": {
+      "x": 1662.5,
+      "y": -264
+    },
+    "measured": {
+      "width": 622,
+      "height": 350
+    },
+    "sourcePosition": "right",
+    "targetPosition": "left"
+  },
+  "canvasDataSource": "api",
+  "mediaPersistence": {
+    "source": "canvas.nodeList.data",
+    "nodes": [
+      {
+        "nodeId": "v-6NT74v07yC",
+        "bindingStatus": "missing",
+        "persistedUrlCount": 0,
+        "persistedResourceIdCount": 0,
+        "readUrlCount": 0,
+        "urlsMaterializedForRead": false
+      }
+    ],
+    "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+  }
+}

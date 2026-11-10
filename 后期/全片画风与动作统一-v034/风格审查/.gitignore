@@ -1,0 +1,3 @@
+# 接触表是可复现产物，不入库（8 张约 40MB）。
+# 重建：python make_style_sheets.py
+*.png

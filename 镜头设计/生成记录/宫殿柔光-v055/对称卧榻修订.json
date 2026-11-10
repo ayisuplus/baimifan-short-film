@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-26",
+  "engine": "built-in image_gen",
+  "input": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/宫殿柔光-v055/CY007-卧榻懒懒龙-候选.png",
+  "prompt": "Edit this existing film storyboard image. PRIMARY CHANGE: replace the asymmetrical sloping chaise-throne with a perfectly BILATERALLY SYMMETRICAL wide royal throne-daybed, while preserving the woman's asymmetric lazy sideways reclining pose. Furniture design: one wide continuous lavender cushioned seat, left and right armrests EXACTLY same height, shape, length and gold filigree, matching end posts, matched cushion/bolster placement at both ends, tall backrest with its highest Gothic crown/central arch EXACTLY AT THE CENTER of the entire throne, equal mirrored descending arches on both sides. No left-high/right-low chaise profile. The solid structural frame, front apron and legs have clear mirror symmetry about the throne's central vertical axis. Show both ends fully, camera centered frontal with level horizontal seat and no Dutch angle so symmetry is visibly assessable; landscape 16:9 composition. Keep ornate gold/ivory/lavender palace aesthetic, broad enough for her full lounging body and tail. SAME single white dragon woman, adult identity, lilac eyes, horns, white long hair, white elegant gown and accessories. She remains reclining head at screen-left, legs extended screen-right, propped on left-side cushions with cheek resting on hand, other hand resting loosely near front cushion. Her pose, hair and draped dress remain naturally asymmetrical; DO NOT mirror the woman or add a second person. Expression is languid, detached but attentive, half-lidded gaze toward unseen visitor, NOT laughing, sneering or mocking. Same TWO dragon wings attached behind shoulders, comfortably folded; same SINGLE normal-proportioned long white/lavender dragon tail with angular scale ridges and modest backward-swept dorsal fins, root behind hip and gently tapered length following her legs on cushion in a loose curve, no snake donut, no thickening, no intersecting furniture. Preserve softly luminous pastel windows, keep background/gold reflections subdued, avoid blown-white windows or glittery mirror floor. Keep original character colors and detailed anime rendering. One full scene image, no labels, no text, no watermark, no collage.",
+  "output": "镜头设计/图像/宫殿柔光-v055/CY007-对称卧榻懒懒龙-候选.png",
+  "generated_source": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-045620b8-cf4a-48ae-b3c5-fce3bb56c75e.png",
+  "status": "候选待作者审阅，未替换现行预演与生成板",
+  "review": "实看：冠顶位于中轴，左右扶手与端柱成对等高，靠背两侧向中央抬升；人物保持非对称侧躺，尾巴沿腿边延伸。装饰纹样并非逐像素镜像。",
+  "dramatic_intent": "王座庄严对称，人物慵懒疏离，后续主动救援形成行为反差。求助场保留克制，不新增嘲弄。现有台词与剧情未改写。",
+  "sha256": "94d03312e720de15f1db72a79fcb1adb7e72340ed7d497e56660888db1a0e6fb",
+  "dimensions": [
+    1672,
+    941
+  ]
+}

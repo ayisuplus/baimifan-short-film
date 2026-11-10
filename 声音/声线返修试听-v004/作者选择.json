@@ -1,0 +1,59 @@
+{
+  "GPT": {
+    "candidate": 1,
+    "note": "",
+    "status": "author_selected",
+    "time": "2026-10-29T15:58:53.068703+08:00",
+    "evidence": "author clicked review page",
+    "timeline_adopted": false,
+    "audio": "GPT-1.mp3"
+  },
+  "Kimi": {
+    "candidate": 1,
+    "note": "",
+    "status": "author_selected",
+    "time": "2026-10-29T16:32:12.847883+08:00",
+    "evidence": "author clicked review page",
+    "timeline_adopted": false,
+    "audio": "Kimi-1.mp3"
+  },
+  "千问": {
+    "candidate": 3,
+    "note": "这个得重新设计了，得先直接用 Eleven Labs 设计个专门的音色。",
+    "status": "author_selected",
+    "time": "2026-10-29T16:09:44.124001+08:00",
+    "evidence": "author clicked review page",
+    "timeline_adopted": false,
+    "audio": "../千问跨语言试音-v005/千问-IndexTTS-日语克隆.wav"
+  },
+  "Grok": {
+    "status": "retain_existing_voice",
+    "note": "",
+    "prior_author_note": "感觉还不如之前那个，我觉得之前那个还是对味一点，你这个变成小女孩"
+  },
+  "Claude": {
+    "status": "retain_existing_voice",
+    "note": "",
+    "prior_author_note": "已确认声线，保留。"
+  },
+  "教主": {
+    "status": "retain_existing_voice",
+    "note": "",
+    "prior_author_note": "已确认声线，保留。"
+  },
+  "Gemini": {
+    "status": "retain_existing_voice",
+    "note": "",
+    "prior_author_note": "已确认声线，保留。"
+  },
+  "教徒": {
+    "status": "retain_existing_voice",
+    "note": "",
+    "prior_author_note": "已确认声线，保留。"
+  },
+  "小鱼": {
+    "status": "retain_existing_voice",
+    "note": "",
+    "prior_author_note": "暂时保留现有声音。"
+  }
+}

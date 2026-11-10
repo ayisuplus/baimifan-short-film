@@ -1,0 +1,299 @@
+{
+  "batch": {
+    "batch_number": 5,
+    "batch_id": "GB004M",
+    "title": "协议与怜悯：内心争执",
+    "shot_ids": [
+      "CY008M"
+    ],
+    "film_start": 54.672729,
+    "film_end": 69.592729,
+    "used_seconds": 14.92,
+    "original_duration": 15,
+    "duration": 15,
+    "prompt": "subject_definitions:\n<Picture 1>=恶魔GPT四视图：同一人四角度，身份服饰保持\n<Picture 2>=天使GPT四视图：同一人四角度，身份服饰保持\n<Picture 3>=构图状态，非强制首帧\n<Picture 4>=状态参考\n<Picture 5>=状态参考\nsummary:\n[reference generation] 哥特异世界动画，16:9，15秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–14.92s <Picture 3>；画内:恶魔GPT、天使GPT、定格GPT底板。接小鱼担忧的反应，切回王座上的GPT；以现有反应图定格并逐渐虚化，前景两只分身显现后恶魔开始说话。<Picture 4>是分身已出现的表演状态，不作为凭空长出分身之前的起帧。王座反应近景，固定机位0–0.25秒王座本体与背景定格虚化，两只分身显现。0.25–3.83秒恶魔抱臂提醒，天使闭口听；3.83–4.03秒交接停顿；4.03–14.04秒天使先心疼看向小鱼画外位置，再焦急反驳，恶魔闭口听。余下至14.92秒两只分身闭口等待，本体不回答、不点头。 人物:成人本体已烘焙在冻结底板中，只复用像素、不重生成人身份；两只分身按各自四视图独立表演。 声音:内心段配乐与现实空间声收低；仅当前分身开口，另一只和本体闭口；不添加叹词或胜负结论。 恶魔GPT在镜内0.25–3.83秒说完同一句日语；天使GPT在镜内4.03–14.04秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。 同一镜连续状态:0s=<Picture 3>(王座定格底板),0.25s=<Picture 4>(恶魔提醒),14.04s=<Picture 5>(闭口等待)。\n0.25–3.83s 恶魔GPT 匹配口型:<d>[Japanese] 協定を忘れないで。教会のことに手を出しちゃだめ。</d>；仅一次。\n4.03–14.04s 天使GPT 匹配口型:<d>[Japanese] でも、この子を見てよ……あの人たち、正気なの？本当にクロードを焼き殺そうとしてるんだよ！</d>；仅一次。\n14.92–15s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-DEVIL-TURN-v003-h3-pad.png",
+        "kind": "identity",
+        "person": "恶魔GPT",
+        "name_en": "Devil GPT",
+        "asset_id": "CHAR-GPT-DEVIL-CHIBI",
+        "status": "作者已采用v003酒红配色",
+        "limits": "沿用已采用大头娃娃比例与酒红配色；侧背为一致性推演，不作工程尺寸。",
+        "purpose": "恶魔GPT四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "c683f8e4c3f91038917435968f8d0455088ee5cdfdd16f339340695ec0967f8e",
+        "source_path": "资产/图像/王宫内心戏-v001/CHAR-GPT-DEVIL-TURN-v003.png",
+        "source_sha256": "e44ded7f0a9e27a70ff2980d4d95a331882f929efe7394257daab0cc01910b15",
+        "sha1": "36a122fd28dea654669c87c7e8191c557b06eaf6",
+        "file_size": 1890161,
+        "width": 2172,
+        "height": 869,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-GPT-DEVIL-TURN-v003-h3-pad.png"
+      },
+      {
+        "slot": 2,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-ANGEL-TURN-v003-h3-pad.png",
+        "kind": "identity",
+        "person": "天使GPT",
+        "name_en": "Angel GPT",
+        "asset_id": "CHAR-GPT-ANGEL-CHIBI",
+        "status": "作者已采用v003（2026-10-26：最后那版本可以了）",
+        "limits": "采用v003大头娃娃比例；四视图同一人物，侧背为一致性推演，不作工程正交尺寸。",
+        "purpose": "天使GPT四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "aca685ed9752371a5121c732d1bf40665c67bf5ae615d55cc6e4db06c65f7186",
+        "source_path": "资产/图像/王宫内心戏-v001/CHAR-GPT-ANGEL-TURN-v003.png",
+        "source_sha256": "8e5b7ef471ca677b2751891edd36282e0b2ad84d33cd03e132fdb98771a2ab4b",
+        "sha1": "7226f8dc9b2cf0772cc8a91de169c76381f945d8",
+        "file_size": 1861224,
+        "width": 2172,
+        "height": 869,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-GPT-ANGEL-TURN-v003-h3-pad.png"
+      },
+      {
+        "slot": 3,
+        "path": "镜头设计/图像/数学宫殿-v056/CY007.png",
+        "kind": "composition",
+        "shot_id": "CY008M",
+        "purpose": "构图、空间与代表状态：协议与怜悯：内心争执；不是默认首帧",
+        "status": "既有王座底图",
+        "limits": "",
+        "sha256": "fdc72190014d8d66af8cc7d7efb8c02fca68616106e83a23823fb3f05b7d7dc7",
+        "source_path": "镜头设计/图像/数学宫殿-v056/CY007.png",
+        "source_sha256": "fdc72190014d8d66af8cc7d7efb8c02fca68616106e83a23823fb3f05b7d7dc7",
+        "sha1": "1f86be55c435cac59ccb306c9ba05eaa64e52ca0",
+        "file_size": 2475617,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\数学宫殿-v056\\CY007.png"
+      },
+      {
+        "slot": 4,
+        "path": "镜头设计/图像/王宫内心戏-v001/CY008M-S01-恶魔提醒.png",
+        "kind": "state",
+        "shot_id": "CY008M",
+        "purpose": "恶魔提醒：协议与怜悯：内心争执",
+        "status": "待作者审阅",
+        "limits": "",
+        "sha256": "b2c9a7e7c1c28212834d58fe64ff0a155ef2d2045b29349addcb4d4fe700c617",
+        "source_path": "镜头设计/图像/王宫内心戏-v001/CY008M-S01-恶魔提醒.png",
+        "source_sha256": "b2c9a7e7c1c28212834d58fe64ff0a155ef2d2045b29349addcb4d4fe700c617",
+        "sha1": "f09d1782201af282710adecf2e73baf8e7408b13",
+        "file_size": 2210950,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\王宫内心戏-v001\\CY008M-S01-恶魔提醒.png"
+      },
+      {
+        "slot": 5,
+        "path": "镜头设计/图像/王宫内心戏-v001/CY008M-S03-等待回答.png",
+        "kind": "state",
+        "shot_id": "CY008M",
+        "purpose": "闭口等待：协议与怜悯：内心争执",
+        "status": "待作者审阅",
+        "limits": "",
+        "sha256": "9876de5f18b9512da8138dd9d4dca8736735629eb2c41d882e2236c2f9e760bf",
+        "source_path": "镜头设计/图像/王宫内心戏-v001/CY008M-S03-等待回答.png",
+        "source_sha256": "9876de5f18b9512da8138dd9d4dca8736735629eb2c41d882e2236c2f9e760bf",
+        "sha1": "53c37607a120b2fc02e2c91136519c6789a07583",
+        "file_size": 2132843,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\王宫内心戏-v001\\CY008M-S03-等待回答.png"
+      }
+    ],
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 15,
+      "count": 1
+    },
+    "estimated_credits": 210,
+    "estimate_basis": "15秒报价210，按秒计费推算，提交前以网页实价为准",
+    "budget_selected": true,
+    "status": "prepared_not_submitted",
+    "task_id": null,
+    "node_id": "v-anqKtnd3Va",
+    "display_name": "第5批 · 协议与怜悯：内心争执 · H3 v001"
+  },
+  "request": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "node": "v-anqKtnd3Va",
+    "idempotencyKey": "bmf-h3-GB004M-wire-full",
+    "model": "MiniMax-Hailuo-H3",
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 15,
+      "count": 1
+    },
+    "prompt": "subject_definitions:\n{{Node i-f0XG6cTySz}}=恶魔GPT四视图：同一人四角度，身份服饰保持\n{{Node i-j1E9KFOPqH}}=天使GPT四视图：同一人四角度，身份服饰保持\n{{Node i-Zn7uPas6hO}}=构图状态，非强制首帧\n{{Node i-urFJ9nYSy2}}=状态参考\n{{Node i-5fZ6xiCeX2}}=状态参考\nsummary:\n[reference generation] 哥特异世界动画，16:9，15秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–14.92s {{Node i-Zn7uPas6hO}}；画内:恶魔GPT、天使GPT、定格GPT底板。接小鱼担忧的反应，切回王座上的GPT；以现有反应图定格并逐渐虚化，前景两只分身显现后恶魔开始说话。{{Node i-urFJ9nYSy2}}是分身已出现的表演状态，不作为凭空长出分身之前的起帧。王座反应近景，固定机位0–0.25秒王座本体与背景定格虚化，两只分身显现。0.25–3.83秒恶魔抱臂提醒，天使闭口听；3.83–4.03秒交接停顿；4.03–14.04秒天使先心疼看向小鱼画外位置，再焦急反驳，恶魔闭口听。余下至14.92秒两只分身闭口等待，本体不回答、不点头。 人物:成人本体已烘焙在冻结底板中，只复用像素、不重生成人身份；两只分身按各自四视图独立表演。 声音:内心段配乐与现实空间声收低；仅当前分身开口，另一只和本体闭口；不添加叹词或胜负结论。 恶魔GPT在镜内0.25–3.83秒说完同一句日语；天使GPT在镜内4.03–14.04秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。 同一镜连续状态:0s={{Node i-Zn7uPas6hO}}(王座定格底板),0.25s={{Node i-urFJ9nYSy2}}(恶魔提醒),14.04s={{Node i-5fZ6xiCeX2}}(闭口等待)。\n0.25–3.83s 恶魔GPT 匹配口型:<d>[Japanese] 協定を忘れないで。教会のことに手を出しちゃだめ。</d>；仅一次。\n4.03–14.04s 天使GPT 匹配口型:<d>[Japanese] でも、この子を見てよ……あの人たち、正気なの？本当にクロードを焼き殺そうとしてるんだよ！</d>；仅一次。\n14.92–15s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "leftEnsure": [
+      "i-f0XG6cTySz",
+      "i-j1E9KFOPqH",
+      "i-Zn7uPas6hO",
+      "i-urFJ9nYSy2",
+      "i-5fZ6xiCeX2"
+    ],
+    "newName": "第5批 · 协议与怜悯：内心争执 · H3 v001",
+    "run": false
+  },
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-anqKtnd3Va",
+    "node": {
+      "id": "v-anqKtnd3Va",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第5批 · 协议与怜悯：内心争执 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Image 2}}=恶魔GPT四视图：同一人四角度，身份服饰保持\n{{Image 3}}=天使GPT四视图：同一人四角度，身份服饰保持\n{{Image 1}}=构图状态，非强制首帧\n{{Image 4}}=状态参考\n{{Image 5}}=状态参考\nsummary:\n[reference generation] 哥特异世界动画，16:9，15秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–14.92s {{Image 1}}；画内:恶魔GPT、天使GPT、定格GPT底板。接小鱼担忧的反应，切回王座上的GPT；以现有反应图定格并逐渐虚化，前景两只分身显现后恶魔开始说话。{{Image 4}}是分身已出现的表演状态，不作为凭空长出分身之前的起帧。王座反应近景，固定机位0–0.25秒王座本体与背景定格虚化，两只分身显现。0.25–3.83秒恶魔抱臂提醒，天使闭口听；3.83–4.03秒交接停顿；4.03–14.04秒天使先心疼看向小鱼画外位置，再焦急反驳，恶魔闭口听。余下至14.92秒两只分身闭口等待，本体不回答、不点头。 人物:成人本体已烘焙在冻结底板中，只复用像素、不重生成人身份；两只分身按各自四视图独立表演。 声音:内心段配乐与现实空间声收低；仅当前分身开口，另一只和本体闭口；不添加叹词或胜负结论。 恶魔GPT在镜内0.25–3.83秒说完同一句日语；天使GPT在镜内4.03–14.04秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。 同一镜连续状态:0s={{Image 1}}(王座定格底板),0.25s={{Image 4}}(恶魔提醒),14.04s={{Image 5}}(闭口等待)。\n0.25–3.83s 恶魔GPT 匹配口型:<d>[Japanese] 協定を忘れないで。教会のことに手を出しちゃだめ。</d>；仅一次。\n4.03–14.04s 天使GPT 匹配口型:<d>[Japanese] でも、この子を見てよ……あの人たち、正気なの？本当にクロードを焼き殺そうとしてるんだよ！</d>；仅一次。\n14.92–15s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-Zn7uPas6hO",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/9ab76f0bff4a4d117fcba4f2661a76eeb3ca0d2e.png"
+            },
+            {
+              "nodeId": "i-f0XG6cTySz",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/e64183bba6fc2d0bd6928904b59ce80d2b91cf36.png"
+            },
+            {
+              "nodeId": "i-j1E9KFOPqH",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/57f9f2b47118e46a46136cb66a7ecef619b0b47d.png"
+            },
+            {
+              "nodeId": "i-urFJ9nYSy2",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d7b84126844f56625902ed2ccbc81137c9b57c8d.png"
+            },
+            {
+              "nodeId": "i-5fZ6xiCeX2",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/ae9f373520ff87459d34df8ad9a4645a0920686c.png"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 15
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png",
+              "label": "CHAR-DEEPSEEK-TURN-v003 · H3留白适配",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-07HfqKjhJ7",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d74110bde0f98a0b44ed3c518d48eaea282c1a87.png",
+              "label": "CHAR-GPT-TURN-v001-h3-pad",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-vKasYfL4rJ",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/530fc6f16be14afb9309fdc88c7a35fd56e3330b.png",
+              "label": "CY006",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-Zn7uPas6hO",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/9ab76f0bff4a4d117fcba4f2661a76eeb3ca0d2e.png",
+              "label": "CY007",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-bOy1FFeV5u",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/353a00fbaae2010e16ca9d55b3a33e78f81543ab.png",
+              "label": "CY008",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-Zn7uPas6hO",
+            "i-f0XG6cTySz",
+            "i-j1E9KFOPqH",
+            "i-urFJ9nYSy2",
+            "i-5fZ6xiCeX2"
+          ],
+          "mixedListOrder": [
+            "i-Zn7uPas6hO",
+            "i-f0XG6cTySz",
+            "i-j1E9KFOPqH",
+            "i-urFJ9nYSy2",
+            "i-5fZ6xiCeX2"
+          ]
+        },
+        "_updatedAtMs": 1793117692000,
+        "_lastAppliedFullyAtMs": 1793117692000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        }
+      },
+      "position": {
+        "x": 3744,
+        "y": 1128
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-anqKtnd3Va",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

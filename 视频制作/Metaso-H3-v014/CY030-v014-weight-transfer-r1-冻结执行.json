@@ -1,0 +1,47 @@
+{
+  "batch": {
+    "attempt_id": "CY030-v014-weight-transfer-r1",
+    "batch_number": 40,
+    "batch_id": "GB040",
+    "shot_id": "CY030-v014-weight-transfer-r1",
+    "duration": 5,
+    "prompt": "精细日式二维动画电影，保持参考的细线稿、赛璐璐阴影、脸部比例和原衣纹。不要3D建模、塑料皮肤、过度柔光或简化卡通。16:9，单镜，固定机位，无对白、字幕或音乐。参考图仅用于人物服装与最终横抱姿态。新镜开头必须是Claude双脚接地、身体疲软站着，GPT贴近扶住她肩背，不能从已经抱起开始。固定同侧斜前方中全景，必须看清两人全身及双脚。蓝窗、浅湿地、左后方燃烧的空木祭架位置不变。0至1秒GPT屈膝降重心，一只手臂稳托Claude肩背；Claude双脚仍接地。1至2秒GPT另一条前臂从Claude膝弯下穿入，掌心托住膝后；2至3秒GPT伸腿站起，肩背和膝弯同时受托，Claude的两只赤足此时才离地，裙摆离地后垂落；3至5秒站稳横抱，Claude疲惫靠在她身上，手自然垂落。维持参考的GPT白发龙角尖耳与折拢膜翼、Claude橙红长发白金焦边裙。两只承托手始终可追踪，不换抱，不瞬移，不自行跳起，不亲吻。用重心与衣裙余势呈现重量。",
+    "references": [
+      {
+        "path": "视频制作/Metaso-H3-v012/参考/carry-locked-design-2d.png",
+        "sha256": "769f74718ab4f6cf17d89ad8f670d6c0a828515e1f09eeb9dc4cff23b370bd87",
+        "role": "reference_image",
+        "purpose": "双方身份、服装、二维线条和结束抱稳姿态；不是开头姿态",
+        "visually_reviewed": true
+      }
+    ],
+    "estimated_credits": 51.0,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "现有两条素材都从已抱起开始，缺真实托背托膝离地动作",
+    "repair_of": "v010 church continuity review",
+    "quality_gate": "identity/style and full contact action independently inspected before adoption"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "精细日式二维动画电影，保持参考的细线稿、赛璐璐阴影、脸部比例和原衣纹。不要3D建模、塑料皮肤、过度柔光或简化卡通。16:9，单镜，固定机位，无对白、字幕或音乐。参考图仅用于人物服装与最终横抱姿态。新镜开头必须是Claude双脚接地、身体疲软站着，GPT贴近扶住她肩背，不能从已经抱起开始。固定同侧斜前方中全景，必须看清两人全身及双脚。蓝窗、浅湿地、左后方燃烧的空木祭架位置不变。0至1秒GPT屈膝降重心，一只手臂稳托Claude肩背；Claude双脚仍接地。1至2秒GPT另一条前臂从Claude膝弯下穿入，掌心托住膝后；2至3秒GPT伸腿站起，肩背和膝弯同时受托，Claude的两只赤足此时才离地，裙摆离地后垂落；3至5秒站稳横抱，Claude疲惫靠在她身上，手自然垂落。维持参考的GPT白发龙角尖耳与折拢膜翼、Claude橙红长发白金焦边裙。两只承托手始终可追踪，不换抱，不瞬移，不自行跳起，不亲吻。用重心与衣裙余势呈现重量。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115493045684219904"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 5,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者要求直接修复教堂段，密塔剩余额度优先，不足转本地ComfyUI；现余额971.3，经控制台实时核实。保留历史，不充值，不导出。"
+}

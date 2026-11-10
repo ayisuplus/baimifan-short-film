@@ -1,0 +1,30 @@
+{
+  "asset_id": "CHAR-GPT",
+  "version": "v003",
+  "date": "2026-10-20",
+  "engine": "built-in image_gen",
+  "actual_request": {
+    "prompt": "Use case: precise-object-edit. EDIT ONLY THE ORIGINAL USER SCREENSHOT supplied here into a clean full-body character reference illustration on a SOLID OPAQUE VERY LIGHT WARM GREY background. Do NOT create transparency or a cutout alpha channel. Retain the SAME ChatGPT white dragon girl, exact white/lavender long hair and face, violet eyes, asymmetric curved scaly white horns, pointed ears, white dragon wings, thick scaly tail, same adult proportions, exact white draped dress with lavender shadows and silver chains/tassels/knot emblems, the same hand pose and shoes. Preserve her face, garment silhouette and color placement faithfully, no redesign. Remove the overlaid GPT title, all surrounding Chinese commentary, small floating blue cloud and bottom video-player interface; this is removal of screenshot overlays, not removal of physical costume ornaments. Reconstruct the small bottom shoe and dress edge concealed by the interface conservatively. Present the entire figure with horns, hair, wing tips, tail tip, sleeves, hem and both shoes fully inside the frame with 5 percent clean background margin. Clean normal anime ink contours with softly shaded light fabric, no neon outlines, no colored spill or pixel noise. Background is a flat pale warm grey with a subtle grounding shadow, opaque across the full canvas. One figure only, no text of any kind, no diagram, palette, panel or watermark.",
+    "referenced_image_paths": [
+      "E:\\projects\\内容创作\\穿云\\概念参考\\04-ChatGPT-用户指定龙娘.png"
+    ],
+    "transparent_background": false
+  },
+  "references": [
+    {
+      "actual_input_path": "E:\\projects\\内容创作\\穿云\\概念参考\\04-ChatGPT-用户指定龙娘.png",
+      "project_path": "概念参考/04-ChatGPT-用户指定龙娘.png",
+      "sha256": "75daa70f00c98561b00bb7f43558141a5b15f78a19915fe23af6ccc0f7f6eb84"
+    }
+  ],
+  "output": "资产/图像/CHAR-GPT-v003.png",
+  "original_output": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-63f99ebd-6b6a-45f3-baa2-80b5337f9414.png",
+  "sha256": "58faf0fe4ba26c782b150dca19aebecd619f334a56de0899d8ad547ac3af16bb",
+  "image": {
+    "width": 949,
+    "height": 1658,
+    "mode": "RGB"
+  },
+  "status": "候选待作者审阅",
+  "evidence": "已实际查看生成图片；文件可解码、项目副本哈希与生成原件一致。不是动态或作者采用验收。"
+}

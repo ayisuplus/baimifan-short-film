@@ -1,0 +1,80 @@
+{
+  "role": "教主",
+  "status": "saved_pending_author_selection",
+  "input": "教主-输入.json",
+  "generation_route": "web_voice_design",
+  "download_route": "official_existing_preview_GET",
+  "registered": false,
+  "listening_approved": false,
+  "previews": [
+    {
+      "candidate": 1,
+      "generated_voice_id": "dG2Ghi7DvKFYZI7IILp4",
+      "file": "教主-1.mp3",
+      "sha256": "5bce59ca2d1e9e0b9c5076ac0d0dc6dfef40530bce58ebaddfeac4eba25fdcd0",
+      "bytes": 863338,
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "35.970583"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    },
+    {
+      "candidate": 2,
+      "generated_voice_id": "r9sfavqszqZVAw9VV5lu",
+      "file": "教主-2.mp3",
+      "sha256": "bb997408e028211f2ec445bc4345fcb852b16cdb1ecb1f162e316ddf6740c27c",
+      "bytes": 903462,
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "37.642417"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    },
+    {
+      "candidate": 3,
+      "generated_voice_id": "IoBU7Y96nGN5lwbJQCj3",
+      "file": "教主-3.mp3",
+      "sha256": "4073feaf4bf76f41df44dec3ecb68f2bbb4f4c3ce09242217099e61da677ab75",
+      "bytes": 878385,
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "36.597542"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    }
+  ]
+}

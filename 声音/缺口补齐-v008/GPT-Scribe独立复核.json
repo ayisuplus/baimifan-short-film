@@ -1,0 +1,660 @@
+{
+  "status": "completed",
+  "method": "ElevenLabs scribe_v2 unprompted Japanese on nine same-service generated GPT lines; no target transcript/keyterms",
+  "mapping": [
+    {
+      "id": "VO-CY004D-01",
+      "start": 0.0,
+      "end": 1.253875,
+      "sha256": "efc2bc954130a61a14c8a9abbd488d843a762a2b49858d2dc2680238c1e8cabd"
+    },
+    {
+      "id": "VO-CY007-01",
+      "start": 1.753875,
+      "end": 5.051125,
+      "sha256": "727f9f502f7942adaebfa6fbcda8760de8c00a040b92254d6aab465cf8818fd2"
+    },
+    {
+      "id": "VO-CY026A-01",
+      "start": 5.551125,
+      "end": 7.6409375,
+      "sha256": "7a318346b8138115e1eebffa6b835ba40cf83a3a5d31ef4d2484b68b1cca0758"
+    },
+    {
+      "id": "VO-CY026B-01",
+      "start": 8.1409375,
+      "end": 9.0233125,
+      "sha256": "2283b62f5790c4b11e1c3a11b4f89aa36f158bb2e600931bfd1a0fe5db370e35"
+    },
+    {
+      "id": "VO-CY026C-01",
+      "start": 9.5233125,
+      "end": 10.452125,
+      "sha256": "cbf714858bb6a09fc74356d49d7c4cfca95cb8bc78fef2f1efacbeaecf69d185"
+    },
+    {
+      "id": "VO-CY026D1-01",
+      "start": 10.952125,
+      "end": 12.5310625,
+      "sha256": "dfcbdff4b39bfeb710e6d68731252c464ad93088744040209b9916db75502607"
+    },
+    {
+      "id": "VO-CY026E-01",
+      "start": 13.0310625,
+      "end": 15.028,
+      "sha256": "f7e0c62f01d5474f9e686c33088c59643c63f74c46c5180b3a87b26b70b6bc45"
+    },
+    {
+      "id": "VO-CY027B-01",
+      "start": 15.528,
+      "end": 16.3175,
+      "sha256": "b97293f20e60d74c9055cfb4d62fa7b69c119588d28c6805b090108d989f4ca2"
+    },
+    {
+      "id": "VO-CY028-01",
+      "start": 16.8175,
+      "end": 17.607,
+      "sha256": "b05fb81e71cc4e7b4feda2811c8abd57a1f7305978f1594418e4167d72efd41b"
+    }
+  ],
+  "input_sha256": "2ac611a9874a5f66f3aee4c79c8cc26a7394211d26aa52afedc80e34a218c85a",
+  "documentation": "https://elevenlabs.io/docs/api-reference/speech-to-text/convert",
+  "http_status": 200,
+  "response": {
+    "language_code": "jpn",
+    "language_probability": 1.0,
+    "text": "通してあげて。教会には手を出さない。うん、そう約束したの。専門、荷造に付き合って。ジェミニ。グロック。君、クロドが見ない。コンゲン、ラマ、みんな来て。うるさい。行こう。",
+    "words": [
+      {
+        "text": "通",
+        "start": 0.26,
+        "end": 0.38,
+        "type": "word",
+        "logprob": -0.0003010773507412523
+      },
+      {
+        "text": "し",
+        "start": 0.38,
+        "end": 0.54,
+        "type": "word",
+        "logprob": -0.00016258825780823827
+      },
+      {
+        "text": "て",
+        "start": 0.54,
+        "end": 0.6,
+        "type": "word",
+        "logprob": -0.00016258825780823827
+      },
+      {
+        "text": "あ",
+        "start": 0.6,
+        "end": 0.68,
+        "type": "word",
+        "logprob": -0.0017074067145586014
+      },
+      {
+        "text": "げ",
+        "start": 0.68,
+        "end": 0.84,
+        "type": "word",
+        "logprob": -0.0017074067145586014
+      },
+      {
+        "text": "て",
+        "start": 0.84,
+        "end": 1.0,
+        "type": "word",
+        "logprob": -1.1920922133867862e-06
+      },
+      {
+        "text": "。",
+        "start": 1.0,
+        "end": 1.0,
+        "type": "word",
+        "logprob": -0.00048160876031033695
+      },
+      {
+        "text": "教",
+        "start": 1.9,
+        "end": 2.1,
+        "type": "word",
+        "logprob": -0.2500542402267456
+      },
+      {
+        "text": "会",
+        "start": 2.1,
+        "end": 2.26,
+        "type": "word",
+        "logprob": -0.2500542402267456
+      },
+      {
+        "text": "に",
+        "start": 2.26,
+        "end": 2.44,
+        "type": "word",
+        "logprob": -9.536738616588991e-07
+      },
+      {
+        "text": "は",
+        "start": 2.44,
+        "end": 2.56,
+        "type": "word",
+        "logprob": -9.536738616588991e-07
+      },
+      {
+        "text": "手",
+        "start": 2.56,
+        "end": 2.7,
+        "type": "word",
+        "logprob": -7.83174327807501e-05
+      },
+      {
+        "text": "を",
+        "start": 2.7,
+        "end": 2.82,
+        "type": "word",
+        "logprob": -2.50339189733495e-06
+      },
+      {
+        "text": "出",
+        "start": 2.82,
+        "end": 2.94,
+        "type": "word",
+        "logprob": -2.50339189733495e-06
+      },
+      {
+        "text": "さ",
+        "start": 2.94,
+        "end": 3.06,
+        "type": "word",
+        "logprob": -4.6491513785440475e-06
+      },
+      {
+        "text": "な",
+        "start": 3.06,
+        "end": 3.2,
+        "type": "word",
+        "logprob": -4.6491513785440475e-06
+      },
+      {
+        "text": "い",
+        "start": 3.2,
+        "end": 3.24,
+        "type": "word",
+        "logprob": -4.6491513785440475e-06
+      },
+      {
+        "text": "。",
+        "start": 3.24,
+        "end": 3.24,
+        "type": "word",
+        "logprob": -0.000380324519937858
+      },
+      {
+        "text": "う",
+        "start": 3.4,
+        "end": 3.46,
+        "type": "word",
+        "logprob": -0.004184063524007797
+      },
+      {
+        "text": "ん",
+        "start": 3.48,
+        "end": 3.7,
+        "type": "word",
+        "logprob": -0.004184063524007797
+      },
+      {
+        "text": "、",
+        "start": 3.7,
+        "end": 3.7,
+        "type": "word",
+        "logprob": -0.00018285033002030104
+      },
+      {
+        "text": "そ",
+        "start": 3.76,
+        "end": 3.84,
+        "type": "word",
+        "logprob": -5.364403477869928e-06
+      },
+      {
+        "text": "う",
+        "start": 3.84,
+        "end": 4.0,
+        "type": "word",
+        "logprob": -5.364403477869928e-06
+      },
+      {
+        "text": "約",
+        "start": 4.0,
+        "end": 4.22,
+        "type": "word",
+        "logprob": -0.0012175773736089468
+      },
+      {
+        "text": "束",
+        "start": 4.22,
+        "end": 4.46,
+        "type": "word",
+        "logprob": -0.0012175773736089468
+      },
+      {
+        "text": "し",
+        "start": 4.46,
+        "end": 4.62,
+        "type": "word",
+        "logprob": -6.842378934379667e-05
+      },
+      {
+        "text": "た",
+        "start": 4.62,
+        "end": 4.68,
+        "type": "word",
+        "logprob": -6.842378934379667e-05
+      },
+      {
+        "text": "の",
+        "start": 4.78,
+        "end": 4.8,
+        "type": "word",
+        "logprob": -2.50339189733495e-06
+      },
+      {
+        "text": "。",
+        "start": 4.8,
+        "end": 4.8,
+        "type": "word",
+        "logprob": -6.23445157543756e-05
+      },
+      {
+        "text": "専",
+        "start": 5.86,
+        "end": 5.96,
+        "type": "word",
+        "logprob": -0.06937862187623978
+      },
+      {
+        "text": "門",
+        "start": 5.96,
+        "end": 6.32,
+        "type": "word",
+        "logprob": -0.06937862187623978
+      },
+      {
+        "text": "、",
+        "start": 6.32,
+        "end": 6.32,
+        "type": "word",
+        "logprob": -0.12405945360660553
+      },
+      {
+        "text": "荷",
+        "start": 6.34,
+        "end": 6.52,
+        "type": "word",
+        "logprob": -1.9866586923599243
+      },
+      {
+        "text": "造",
+        "start": 6.52,
+        "end": 6.74,
+        "type": "word",
+        "logprob": -0.5746293663978577
+      },
+      {
+        "text": "に",
+        "start": 6.74,
+        "end": 6.88,
+        "type": "word",
+        "logprob": -1.4399815797805786
+      },
+      {
+        "text": "付",
+        "start": 6.9,
+        "end": 6.98,
+        "type": "word",
+        "logprob": -5.769562994828448e-05
+      },
+      {
+        "text": "き",
+        "start": 6.98,
+        "end": 7.1,
+        "type": "word",
+        "logprob": -5.769562994828448e-05
+      },
+      {
+        "text": "合",
+        "start": 7.1,
+        "end": 7.2,
+        "type": "word",
+        "logprob": -0.0004403813509270549
+      },
+      {
+        "text": "っ",
+        "start": 7.2,
+        "end": 7.38,
+        "type": "word",
+        "logprob": -2.3841855067985307e-07
+      },
+      {
+        "text": "て",
+        "start": 7.38,
+        "end": 7.4,
+        "type": "word",
+        "logprob": -2.3841855067985307e-07
+      },
+      {
+        "text": "。",
+        "start": 7.4,
+        "end": 7.4,
+        "type": "word",
+        "logprob": -6.4490144723095e-05
+      },
+      {
+        "text": "ジ",
+        "start": 8.36,
+        "end": 8.42,
+        "type": "word",
+        "logprob": -0.002166188322007656
+      },
+      {
+        "text": "ェ",
+        "start": 8.42,
+        "end": 8.52,
+        "type": "word",
+        "logprob": -0.002166188322007656
+      },
+      {
+        "text": "ミ",
+        "start": 8.52,
+        "end": 8.62,
+        "type": "word",
+        "logprob": -0.005273005459457636
+      },
+      {
+        "text": "ニ",
+        "start": 8.62,
+        "end": 8.76,
+        "type": "word",
+        "logprob": -0.005273005459457636
+      },
+      {
+        "text": "。",
+        "start": 8.76,
+        "end": 8.76,
+        "type": "word",
+        "logprob": -0.6326127648353577
+      },
+      {
+        "text": "グ",
+        "start": 9.74,
+        "end": 9.84,
+        "type": "word",
+        "logprob": -0.00021610308613162488
+      },
+      {
+        "text": "ロ",
+        "start": 9.84,
+        "end": 9.9,
+        "type": "word",
+        "logprob": -0.004293153528124094
+      },
+      {
+        "text": "ッ",
+        "start": 9.9,
+        "end": 10.06,
+        "type": "word",
+        "logprob": -0.004293153528124094
+      },
+      {
+        "text": "ク",
+        "start": 10.06,
+        "end": 10.22,
+        "type": "word",
+        "logprob": -0.004293153528124094
+      },
+      {
+        "text": "。",
+        "start": 10.22,
+        "end": 10.22,
+        "type": "word",
+        "logprob": -0.0031874587293714285
+      },
+      {
+        "text": "君",
+        "start": 11.14,
+        "end": 11.32,
+        "type": "word",
+        "logprob": -2.5748875486897305e-05
+      },
+      {
+        "text": "、",
+        "start": 11.32,
+        "end": 11.32,
+        "type": "word",
+        "logprob": -0.0006250573205761611
+      },
+      {
+        "text": "ク",
+        "start": 11.58,
+        "end": 11.66,
+        "type": "word",
+        "logprob": -0.08310506492853165
+      },
+      {
+        "text": "ロ",
+        "start": 11.66,
+        "end": 11.76,
+        "type": "word",
+        "logprob": -0.08310506492853165
+      },
+      {
+        "text": "ド",
+        "start": 11.76,
+        "end": 11.86,
+        "type": "word",
+        "logprob": -0.010377141647040844
+      },
+      {
+        "text": "が",
+        "start": 11.92,
+        "end": 11.98,
+        "type": "word",
+        "logprob": -0.016907010227441788
+      },
+      {
+        "text": "見",
+        "start": 11.98,
+        "end": 12.14,
+        "type": "word",
+        "logprob": -0.016907010227441788
+      },
+      {
+        "text": "な",
+        "start": 12.14,
+        "end": 12.2,
+        "type": "word",
+        "logprob": -0.0036466307938098907
+      },
+      {
+        "text": "い",
+        "start": 12.2,
+        "end": 12.26,
+        "type": "word",
+        "logprob": -0.0036466307938098907
+      },
+      {
+        "text": "。",
+        "start": 12.26,
+        "end": 12.26,
+        "type": "word",
+        "logprob": -5.125986263010418e-06
+      },
+      {
+        "text": "コ",
+        "start": 13.22,
+        "end": 13.28,
+        "type": "word",
+        "logprob": -0.01842479221522808
+      },
+      {
+        "text": "ン",
+        "start": 13.28,
+        "end": 13.42,
+        "type": "word",
+        "logprob": -0.01842479221522808
+      },
+      {
+        "text": "ゲ",
+        "start": 13.42,
+        "end": 13.52,
+        "type": "word",
+        "logprob": -0.005574158858507872
+      },
+      {
+        "text": "ン",
+        "start": 13.52,
+        "end": 13.64,
+        "type": "word",
+        "logprob": -0.005574158858507872
+      },
+      {
+        "text": "、",
+        "start": 13.64,
+        "end": 13.64,
+        "type": "word",
+        "logprob": -9.179073458653875e-06
+      },
+      {
+        "text": "ラ",
+        "start": 13.68,
+        "end": 13.82,
+        "type": "word",
+        "logprob": -0.00023803261865396053
+      },
+      {
+        "text": "マ",
+        "start": 13.82,
+        "end": 13.92,
+        "type": "word",
+        "logprob": -8.702239938429557e-06
+      },
+      {
+        "text": "、",
+        "start": 13.92,
+        "end": 13.92,
+        "type": "word",
+        "logprob": -2.3841574147809297e-05
+      },
+      {
+        "text": "み",
+        "start": 14.26,
+        "end": 14.32,
+        "type": "word",
+        "logprob": -9.894321920000948e-06
+      },
+      {
+        "text": "ん",
+        "start": 14.34,
+        "end": 14.42,
+        "type": "word",
+        "logprob": -9.894321920000948e-06
+      },
+      {
+        "text": "な",
+        "start": 14.42,
+        "end": 14.5,
+        "type": "word",
+        "logprob": -9.894321920000948e-06
+      },
+      {
+        "text": "来",
+        "start": 14.5,
+        "end": 14.6,
+        "type": "word",
+        "logprob": -2.312633478140924e-05
+      },
+      {
+        "text": "て",
+        "start": 14.72,
+        "end": 14.78,
+        "type": "word",
+        "logprob": -2.312633478140924e-05
+      },
+      {
+        "text": "。",
+        "start": 14.78,
+        "end": 14.78,
+        "type": "word",
+        "logprob": -1.311301275563892e-06
+      },
+      {
+        "text": "う",
+        "start": 15.58,
+        "end": 15.66,
+        "type": "word",
+        "logprob": -0.0015097183641046286
+      },
+      {
+        "text": "る",
+        "start": 15.66,
+        "end": 15.84,
+        "type": "word",
+        "logprob": -0.0015097183641046286
+      },
+      {
+        "text": "さ",
+        "start": 15.84,
+        "end": 15.96,
+        "type": "word",
+        "logprob": -7.748573807475623e-06
+      },
+      {
+        "text": "い",
+        "start": 16.02,
+        "end": 16.079,
+        "type": "word",
+        "logprob": -7.748573807475623e-06
+      },
+      {
+        "text": "。",
+        "start": 16.079,
+        "end": 16.079,
+        "type": "word",
+        "logprob": -2.0265558760002023e-06
+      },
+      {
+        "text": "行",
+        "start": 16.9,
+        "end": 17.08,
+        "type": "word",
+        "logprob": -0.00010656742961145937
+      },
+      {
+        "text": "こ",
+        "start": 17.08,
+        "end": 17.18,
+        "type": "word",
+        "logprob": -1.168244216387393e-05
+      },
+      {
+        "text": "う",
+        "start": 17.18,
+        "end": 17.3,
+        "type": "word",
+        "logprob": -1.168244216387393e-05
+      },
+      {
+        "text": "。",
+        "start": 17.3,
+        "end": 17.3,
+        "type": "word",
+        "logprob": -7.795983401592821e-05
+      }
+    ],
+    "transcription_id": "lsPV7BMoqzuAhyhdCRz3",
+    "audio_duration_secs": 18.107
+  }
+}

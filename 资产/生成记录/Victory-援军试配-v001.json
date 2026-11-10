@@ -1,0 +1,89 @@
+{
+  "title": "Victory · 援军登场试配 v001",
+  "path": "资产/声音/试配/Victory-援军登场-v001.mp4",
+  "audio_path": "资产/声音/试配/Victory-援军登场-v001.m4a",
+  "source_path": "资产/声音/参考/Victory-BV1Qs411J71S.m4a",
+  "source_url": "https://www.bilibili.com/video/BV1Qs411J71S/",
+  "official_source": "https://www.youtube.com/watch?v=hKRUPYrAQoE",
+  "source_kind": "公开转载；上传者 AG认证男妹妹，非官方发行账号；原官方 YouTube 获取遇登录验证，未绕过",
+  "source_range_seconds": [
+    127.28,
+    140.28
+  ],
+  "timeline_range_seconds": [
+    133,
+    146
+  ],
+  "shots": [
+    {
+      "id": "CY023",
+      "seconds": 2,
+      "image": "镜头设计/图像/S05A-粗分镜-v003.png",
+      "crop": [
+        4,
+        3,
+        830,
+        466
+      ]
+    },
+    {
+      "id": "CY024",
+      "seconds": 4,
+      "image": "镜头设计/图像/S05A-粗分镜-v003.png",
+      "crop": [
+        838,
+        3,
+        830,
+        466
+      ]
+    },
+    {
+      "id": "CY027",
+      "seconds": 4,
+      "image": "镜头设计/图像/S05B-粗分镜-v005.png",
+      "crop": [
+        4,
+        3,
+        828,
+        465
+      ]
+    },
+    {
+      "id": "CY025",
+      "seconds": 3,
+      "image": "镜头设计/图像/细节C-危局与回应-v001.png",
+      "crop": [
+        1,
+        474,
+        832,
+        466
+      ]
+    }
+  ],
+  "edit": "原分镜顺序与 2/4/4/3 秒时长不变；静帧硬切；音乐不变速不变调，音量0.55，末尾2秒淡出；无新增对白、拟音或动态动作",
+  "selection_evidence": "在源音频125–150秒测量短时RMS上升沿，127.34秒附近有强瞬态，提前60毫秒起剪。此为试切点，不将波形判断冒称主旋律或听审结果。",
+  "review_status": "文件解码已核验；乐句完整性、熟悉感、听感与画面同步冲击力待作者试听",
+  "rights": "仅本地试配候选；未取得公开发布用同步授权，不代表版权已清理",
+  "sha256": "b6b9de0d24d3bb916b97c9b9d542af677659fe8adac5181210810cf417c30687",
+  "source_sha256": "84527966e8feb71cb4d9bb37bf05cbaf60d83bd8aba2da925000176a43a84566",
+  "shot_plan_sha256": "4397e518afe2fb9b0ad8dd41fb3269b54fa27cbe3c4a4483913cbb1197b8c1f1",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "format": {
+      "duration": "13.000000"
+    }
+  }
+}

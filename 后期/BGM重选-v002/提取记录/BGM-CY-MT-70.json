@@ -1,0 +1,39 @@
+{
+  "id": "BGM-CY-MT-70",
+  "bvid": "BV1JP4y1m78A",
+  "part": 70,
+  "title": "秘密の作戦",
+  "display_title": "秘密行动",
+  "work": "无职转生",
+  "composer": "藤澤慶昌",
+  "source_page_title": "69. 秘密の作戦",
+  "cid": 40238973263,
+  "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=70",
+  "uploader": "L-2-C",
+  "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+  "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-70.m4a",
+  "bytes": 1846146,
+  "sha256": "a95af2721cd13cab2ec218f487962d5b5facf337ed270b341727083896231eb0",
+  "duration": 107.023878,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "103729"
+      }
+    ],
+    "format": {
+      "duration": "107.023878"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

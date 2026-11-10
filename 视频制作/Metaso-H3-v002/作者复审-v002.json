@@ -1,0 +1,13 @@
+{
+  "author_feedback": "这五批严重剧情或空间错误，复杂且各有错法；整批不通过。",
+  "batches": {
+    "GB005": 6,
+    "GB009": 11,
+    "GB015-2": 20,
+    "GB016-1": 21,
+    "GB029": 39
+  },
+  "status": "reopened_full_batch_review",
+  "generation_status": "no_active_tasks",
+  "prior_local_checks_are_not_batch_acceptance": true
+}

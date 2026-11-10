@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115145202742255616",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "哥特异世界教堂咏唱与父亲呼唤",
+    "status": "succeeded",
+    "created_at": 1793124889,
+    "updated_at": 1793124962,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115145202742255616/content?expires=1793729778&signature=95def2ca02463565b92ab33b630d84320e859e33e200cc2e47bff810a7e7ae5a"
+    },
+    "resolution": "768P",
+    "duration": 15,
+    "usage": {
+      "total_seconds": 15,
+      "input_seconds": 0,
+      "output_seconds": 15,
+      "input_image_count": 9
+    },
+    "ratio": "16:9",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

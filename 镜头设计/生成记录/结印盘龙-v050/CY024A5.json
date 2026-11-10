@@ -1,0 +1,20 @@
+{
+  "id": "CY024A5",
+  "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-a508fada-d8d5-47b4-b4cd-dce5622e2c3c.png",
+  "input": {
+    "transparent_background": false,
+    "referenced_image_paths": [
+      "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/水龙召临-v001/arrival-r2.png",
+      "E:/projects/内容创作/故事短片/穿云/资产/图像/CHAR-GPT-v003.png"
+    ],
+    "prompt": "Create ONE new 16:9 cinematic anime fantasy storyboard frame, a complete COMPOSITION AND POSE REDESIGN of image 1. Image 1 controls exact heroine face, pale silver hair, natural violet eyes, white horns, dark rose hair ornament, pale lavender batlike membrane wings, ornate white/silver gown and rich anime rendering, and transparent deep-blue water dragon material. Image 2 only supplies full-length costume silhouette, dress slit and shoes; use image 1's more detailed rendering. Main subject: the same adult dragon woman HOVERS UPRIGHT IN THE EXACT CENTER of the frame, feet not touching any surface, entire head-to-shoes figure visible with generous room. Regal calm intense concentration, eyes forward toward distant enemy, no blush. BOTH HANDS TOGETHER at chest forming a clearly legible compact NINJA-STYLE MAGIC HAND SEAL: fingers naturally interlaced below, paired index fingers held upright together, two hands and anatomically clear wrists, elbows relaxed outward symmetrically. No hand pointing, no arm extended, no glowing ball, not prayer palms, no sitting or kneeling. Two membrane wings spread behind, skirt/hair gently lifted. Around her is ONE enormous pure-water serpentine dragon in a WIDE LOOSE THREE-DIMENSIONAL COIL, surrounding her at a safe air distance like an open spiral: rear segment rises HIGH behind her wings, front segment passes LOW below knees in foreground; head appears at upper screen RIGHT beside her shoulder facing outward toward viewer-right enemy, slightly lowered three-quarter angle, NOT aimed at her. Her entire FACE, CHEST HAND SEAL and upper body remain unobstructed inside a spacious empty center. Not a flat circular halo, not a uniform donut or hose, not a tight cage. Show substantial depth with foreshortening, near body thicker/larger and distant body smaller, a natural torsion through the neck, varied body thickness and a tapered trailing tail. The dragon head must be more vivid and sculptural than reference: clearly separated brow, long muzzle and jaw, expressive but non-glowing dark blue eyes, slightly parted liquid jaws, swept-back curved crest horns and a streaming mane formed of water. Everything transparent deep cobalt/silver-blue liquid with visible broad rounded belly and refraction; no hard scales, no ice/crystal, no purple mane, no solid white horns, no extra limbs or heads. Restrained white foam on dorsal crest and motion edges, not all-over glitter. Gothic cathedral at night: tall pillars, blue stained glass, single central NAVE ROOF BREACH above allows silver moonlight; rear apse not in frame. No floor flood or enemy attack yet, only some suspended droplets and residual dust near breach. Powerful centered ritual tableau surrounded by a coiled living-looking WATER FORM. No magic rings, symbols, electricity, text, border or panels. Make hands, face and dragon head instantly readable; keep the existing heroine identity and colors exactly."
+  },
+  "output": "镜头设计/图像/结印盘龙-v050/CY024A5-v050-r1.png",
+  "sha256": "6803e430ea8a1dac186112c7dcb7dfa5eb0381d22803705b0fac109fe03c8b0a",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "engine": "built-in image_gen",
+  "status": "revised_storyboard_candidate_pending_author_visual_review"
+}

@@ -1,0 +1,81 @@
+{
+  "1": {
+    "inputs": {
+      "image": "c1f71b0b_000.png"
+    },
+    "class_type": "LoadImage",
+    "_meta": {
+      "title": "测试参考图"
+    }
+  },
+  "2": {
+    "inputs": {
+      "model_bundle": "VOSR2",
+      "precision": "auto",
+      "memory_policy": "auto",
+      "torch_compile": false,
+      "vae_encode_amp": false
+    },
+    "class_type": "TESpeedVOSR2Loader",
+    "_meta": {
+      "title": "VOSR2 本机已有模型"
+    }
+  },
+  "3": {
+    "inputs": {
+      "quality_profile": "manual",
+      "tile_strategy": "auto",
+      "tile_size": 512,
+      "tile_overlap": 32,
+      "vae_tile_size": 1024,
+      "vae_tile_overlap": 32,
+      "image_batch": 1,
+      "frame_batch": 1,
+      "dino_batch": 1,
+      "temporal_cache": false,
+      "cache_threshold": 0.003,
+      "cache_refresh": 4,
+      "memory_policy": "staged",
+      "color_alignment": "wavelet"
+    },
+    "class_type": "TESpeedVOSR2Settings",
+    "_meta": {
+      "title": "先验证模型与分块"
+    }
+  },
+  "4": {
+    "inputs": {
+      "scale": 2,
+      "seed": 20261006,
+      "model": [
+        "2",
+        0
+      ],
+      "images": [
+        "1",
+        0
+      ],
+      "settings": [
+        "3",
+        0
+      ]
+    },
+    "class_type": "TESpeedVOSR2Image",
+    "_meta": {
+      "title": "VOSR2 真正2倍，不预缩小"
+    }
+  },
+  "5": {
+    "inputs": {
+      "filename_prefix": "H3_Refine_VOSR2_Validation/vosr2_image",
+      "images": [
+        "4",
+        0
+      ]
+    },
+    "class_type": "SaveImage",
+    "_meta": {
+      "title": "保存超分验证图片"
+    }
+  }
+}

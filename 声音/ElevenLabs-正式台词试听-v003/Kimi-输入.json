@@ -1,0 +1,83 @@
+{
+  "role": "Kimi",
+  "voice_description": "Native Japanese, standard Japanese. An adult female character in a dramatic fantasy anime. Reserved, quietly confident and dependable. Understated conversational delivery, with crisp decisive phrasing when invoking magic. Keep the voice calm and focused without becoming emotionless. Studio-quality recording.",
+  "text": "月の裏に眠る、古き意志よ。\nこのやいばをしるべに、道を開け。\nつきかげわたり！\n任せて。\n月の裏に眠る、古き意志よ。\nこのやいばをしるべに、道を開け。\nつきかげわたり！\n任せて。\n月の裏に眠る、古き意志よ。\nこのやいばをしるべに、道を開け。\nつきかげわたり！\n任せて。",
+  "repeats": 3,
+  "lines": [
+    {
+      "id": "VO-CY024R-01",
+      "role": "Kimi",
+      "previous_batch": 17,
+      "previous_record_frame": 4852,
+      "previous_ja": "月の裏に潜む影よ、",
+      "previous_zh": "隐于月背的暗影啊，",
+      "previous_audio_duration_seconds": 2.2000000000000077,
+      "status": "revised_draft",
+      "ja": "月の裏に眠る、古き意志よ。",
+      "zh_back_translation": "沉睡于月背的古老意志啊。",
+      "direction": "先闻呼唤，后见后窗Kimi。向古老意志请求，不新增具名神祇；举刃起势与呼唤相接，不停步念一段说明。",
+      "reading_hints": {
+        "古き意志": "ふるきいし"
+      },
+      "revision_history": [
+        {
+          "version": "v0.66",
+          "ja": "月影よ。",
+          "zh_back_translation": "月影啊。",
+          "direction": "先呼唤，银光开始响应；从画外起声可以，但不能在起势前已完成全部术式。"
+        }
+      ]
+    },
+    {
+      "id": "VO-CY024K0-01",
+      "role": "Kimi",
+      "previous_batch": 18,
+      "previous_record_frame": 5018,
+      "previous_ja": "この刃の銀の光をたどり、",
+      "previous_zh": "请循此刃的银辉，",
+      "previous_audio_duration_seconds": 3.7000000000000077,
+      "status": "revised_draft",
+      "ja": "この刃を標に、道を開け。",
+      "zh_back_translation": "以这把刀为路标，开出一条路。",
+      "direction": "举刃蓄力，标读しるべ；动作明确把明刃作为位移坐标，不生成实体道路或独立传送门。",
+      "reading_hints": {
+        "刃": "やいば",
+        "標": "しるべ"
+      }
+    },
+    {
+      "id": "VO-CY024K1A-01",
+      "role": "Kimi",
+      "previous_batch": 19,
+      "previous_record_frame": 5301,
+      "previous_ja": "月影渡り！",
+      "previous_zh": "月影渡！",
+      "previous_audio_duration_seconds": 0.8799999999999955,
+      "status": "revised_draft",
+      "ja": "月影渡り！",
+      "zh_back_translation": "月影渡！",
+      "direction": "明刃破窗并钉稳后发令，紧接瞬移与回收；这里不是护罩的术名。",
+      "reading_hints": {
+        "月影渡り": "つきかげわたり"
+      }
+    },
+    {
+      "id": "VO-CY026D-02",
+      "role": "Kimi",
+      "previous_batch": 24,
+      "previous_record_frame": 6267,
+      "previous_ja": "彼女は任せて。",
+      "previous_zh": "她交给我。",
+      "previous_audio_duration_seconds": 1.3989500000000135,
+      "status": "revised_draft",
+      "ja": "任せて。",
+      "zh_back_translation": "交给我。",
+      "direction": "先由安眠接呼唤，连续看清睁眼、撑起身体、看向GPT，再简短回答；不跳过清醒过程，不重新闭眼睡回去。",
+      "reading_hints": {},
+      "previous_draft_ja": "彼女は任せて。",
+      "previous_draft_zh_back_translation": "她交给我。"
+    }
+  ],
+  "source_sha256": "f652eb4cb0f7759bcb90f84a1e2072367f00125d3bd7883bc5284ccc4c283477",
+  "status": "web_design_completed_previews_downloaded"
+}

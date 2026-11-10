@@ -1,0 +1,1820 @@
+{
+  "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9": {
+    "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+    "uri": "mm_file://2115141276083478528",
+    "receipt": {
+      "file": {
+        "bytes": 2143481,
+        "filename": "CHAR-GPT-TURN-v001-h3-pad.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141276083478528",
+        "duration_seconds": null,
+        "created_at": 1793123952
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "548f1584110f1b19e6d4fce590f74d65f8bf3e4a5e901e8c2a54f9cbbefa6769": {
+    "path": "镜头设计/图像/生成前修正-v059/CY024A5-v059.png",
+    "uri": "mm_file://2115141287488184320",
+    "receipt": {
+      "file": {
+        "bytes": 3511833,
+        "filename": "CY024A5-v059.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141287488184320",
+        "duration_seconds": null,
+        "created_at": 1793123955
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "737ce2e746a571795c849f9b8f69b6673988436217eb2da5c2f13259f79d865a": {
+    "path": "镜头设计/图像/生成前修正-v059/CY024A5B-r2-v059.png",
+    "uri": "mm_file://2115141297909981184",
+    "receipt": {
+      "file": {
+        "bytes": 3213130,
+        "filename": "CY024A5B-r2-v059.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141297909981184",
+        "duration_seconds": null,
+        "created_at": 1793123957
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031": {
+    "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+    "uri": "mm_file://2115141373313343488",
+    "receipt": {
+      "file": {
+        "bytes": 2283123,
+        "filename": "CHAR-PRIEST-TURN-v001.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141373313343488",
+        "duration_seconds": null,
+        "created_at": 1793123975
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "9d65c82ded1227c8300e19f5c5f9ba4d5a209ea920e452fc06b72a805f15b792": {
+    "path": "镜头设计/图像/生成前修正-v059/CY024B-v059.png",
+    "uri": "mm_file://2115141383434199040",
+    "receipt": {
+      "file": {
+        "bytes": 3055642,
+        "filename": "CY024B-v059.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141383434199040",
+        "duration_seconds": null,
+        "created_at": 1793123977
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc": {
+    "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+    "uri": "mm_file://2115141446306816000",
+    "receipt": {
+      "file": {
+        "bytes": 2823904,
+        "filename": "C03_Kimi-角色设定卡.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141446306816000",
+        "duration_seconds": null,
+        "created_at": 1793123993
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a": {
+    "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+    "uri": "mm_file://2115141454194728960",
+    "receipt": {
+      "file": {
+        "bytes": 2016603,
+        "filename": "CHAR-CLAUDE-TURN-v001-h3-pad.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141454194728960",
+        "duration_seconds": null,
+        "created_at": 1793123994
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "f05297353919a61ef38beb10ed392456654f812ee21d87b1f2f300d8b0a9291f": {
+    "path": "镜头设计/图像/细节与显形-v052/CY024B1-v052-r1.png",
+    "uri": "mm_file://2115141464376139776",
+    "receipt": {
+      "file": {
+        "bytes": 3282614,
+        "filename": "CY024B1-v052-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141464376139776",
+        "duration_seconds": null,
+        "created_at": 1793123997
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "8cdd21ab096300147a6289f16ea8589ac517ab47e94684dc1fbe605c1b4e9362": {
+    "path": "镜头设计/图像/细节与显形-v052/CY024B3-v052-r1.png",
+    "uri": "mm_file://2115141474970820608",
+    "receipt": {
+      "file": {
+        "bytes": 3334888,
+        "filename": "CY024B3-v052-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141474970820608",
+        "duration_seconds": null,
+        "created_at": 1793123999
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "514faf587a2e3dafb7023966eec417f0724713659eb8c537cc99a2b585ddc96f": {
+    "path": "镜头设计/图像/目光与入场-v048/CY024B3A-v048-r1.png",
+    "uri": "mm_file://2115141494695718912",
+    "receipt": {
+      "file": {
+        "bytes": 2709040,
+        "filename": "CY024B3A-v048-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141494695718912",
+        "duration_seconds": null,
+        "created_at": 1793124004
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "f91785c1ac15cfbdc5af90fc70dfaf311b876ac385e56d78a35bce8bee938d33": {
+    "path": "镜头设计/图像/暗月瞬临-v045/CY027-v045-r1.png",
+    "uri": "mm_file://2115141504360046592",
+    "receipt": {
+      "file": {
+        "bytes": 2849999,
+        "filename": "CY027-v045-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141504360046592",
+        "duration_seconds": null,
+        "created_at": 1793124006
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3": {
+    "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+    "uri": "mm_file://2115141523506393088",
+    "receipt": {
+      "file": {
+        "bytes": 1868475,
+        "filename": "CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141523506393088",
+        "duration_seconds": null,
+        "created_at": 1793124011
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d": {
+    "path": "资产/图像/CHAR-PALADIN-v001.png",
+    "uri": "mm_file://2115141532830461952",
+    "receipt": {
+      "file": {
+        "bytes": 2428509,
+        "filename": "CHAR-PALADIN-v001.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141532830461952",
+        "duration_seconds": null,
+        "created_at": 1793124013
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "99c01c10cbfa00cc3819d4a17fab3dbfa2952c905219ad9c818ba3853955e053": {
+    "path": "镜头设计/图像/天瀑空间-v014/CY027C-v014.png",
+    "uri": "mm_file://2115141543572205568",
+    "receipt": {
+      "file": {
+        "bytes": 2914762,
+        "filename": "CY027C-v014.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141543572205568",
+        "duration_seconds": null,
+        "created_at": 1793124016
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "f05576c45ec4da41220460f5ddfe0cca6477699d2ade1e7d88dbb43f7ab900ea": {
+    "path": "镜头设计/图像/目光与入场-v048/CY025-v048-r1.png",
+    "uri": "mm_file://2115141552535302144",
+    "receipt": {
+      "file": {
+        "bytes": 2348949,
+        "filename": "CY025-v048-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141552535302144",
+        "duration_seconds": null,
+        "created_at": 1793124018
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "bde230e5cb97fd364e20ce4925dbe98a8272b08ec9c422f74fbfd3ae71e026d2": {
+    "path": "镜头设计/图像/熄烛月光-v012/CY027E-v012.png",
+    "uri": "mm_file://2115141562914103296",
+    "receipt": {
+      "file": {
+        "bytes": 2872066,
+        "filename": "CY027E-v012.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141562914103296",
+        "duration_seconds": null,
+        "created_at": 1793124020
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "820fd1400170d86b400c66e3055b1cfd00970eb061a70460dadfccb04c4fd43d": {
+    "path": "镜头设计/图像/熄烛月光-v012/CY027E1-v012.png",
+    "uri": "mm_file://2115141574171615232",
+    "receipt": {
+      "file": {
+        "bytes": 3118410,
+        "filename": "CY027E1-v012.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141574171615232",
+        "duration_seconds": null,
+        "created_at": 1793124023
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "84ff0d72046035d8398879d3d0de7646aa000c9232dbf45db09573139fd30907": {
+    "path": "镜头设计/图像/末轮叙事优化-v035/CY027D0-v035-r2.png",
+    "uri": "mm_file://2115141586638925824",
+    "receipt": {
+      "file": {
+        "bytes": 3045291,
+        "filename": "CY027D0-v035-r2.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141586638925824",
+        "duration_seconds": null,
+        "created_at": 1793124026
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "518dd09f75b2f8910e30f8742c7cc1a61d21dbc502e26dd86c8c1b57e8b8be7b": {
+    "path": "镜头设计/图像/火焰伤后与星火-v036/CY028-v036-r1.png",
+    "uri": "mm_file://2115141610595868672",
+    "receipt": {
+      "file": {
+        "bytes": 2826124,
+        "filename": "CY028-v036-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141610595868672",
+        "duration_seconds": null,
+        "created_at": 1793124032
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "439924ef5fc8024902a10c55e6c67e3a750bda77ac891b38b139077061c06388": {
+    "path": "资产/图像/四视图复用/C09_Grok-角色设定卡.png",
+    "uri": "mm_file://2115141632609542144",
+    "receipt": {
+      "file": {
+        "bytes": 2723684,
+        "filename": "C09_Grok-角色设定卡.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141632609542144",
+        "duration_seconds": null,
+        "created_at": 1793124037
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "9c0c5fd1542d56d6bd5daf86f56c35900e8d0f124ecf10491ce5c525869ec7d8": {
+    "path": "镜头设计/图像/独立镜头-v009/CY031A-v009.png",
+    "uri": "mm_file://2115141642652934144",
+    "receipt": {
+      "file": {
+        "bytes": 3160326,
+        "filename": "CY031A-v009.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141642652934144",
+        "duration_seconds": null,
+        "created_at": 1793124039
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "d19d00ca7d0b68f3f107390adfeee6b904a87d11f53bbe420482f5becb28c775": {
+    "path": "镜头设计/图像/细节F-接勺握持-v002.png",
+    "uri": "mm_file://2115141649989824512",
+    "receipt": {
+      "file": {
+        "bytes": 2243810,
+        "filename": "细节F-接勺握持-v002.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141649989824512",
+        "duration_seconds": null,
+        "created_at": 1793124041
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "d503d8c10733930a551e5af5b6fc2fac0abb73c2e9a1df7aae667c501c5c78c6": {
+    "path": "镜头设计/图像/独立镜头-v009/CY033-v009.png",
+    "uri": "mm_file://2115141658993811456",
+    "receipt": {
+      "file": {
+        "bytes": 2793220,
+        "filename": "CY033-v009.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141658993811456",
+        "duration_seconds": null,
+        "created_at": 1793124043
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "618c7554631a9f03fb6abe13d3943204d2674a69fd378caf105a8176c61cccf8": {
+    "path": "镜头设计/图像/长吟唱护盾与结尾-v029/CY034A-v029-r1.png",
+    "uri": "mm_file://2115141682035220480",
+    "receipt": {
+      "file": {
+        "bytes": 2330583,
+        "filename": "CY034A-v029-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141682035220480",
+        "duration_seconds": null,
+        "created_at": 1793124049
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "656789f33489f19240985772e1eb5aa272267372f3d310e99f541475b4bc639a": {
+    "path": "镜头设计/图像/长吟唱护盾与结尾-v029/CY034-v029-r1.png",
+    "uri": "mm_file://2115141692761235456",
+    "receipt": {
+      "file": {
+        "bytes": 2812334,
+        "filename": "CY034-v029-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115141692761235456",
+        "duration_seconds": null,
+        "created_at": 1793124051
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "59d5dc2a16170d7cea96bf5d0da5b0c60984346bb8974ceda267c07504f41846": {
+    "path": "镜头设计/图像/月光流动-v054/背影-月光凝形.png",
+    "uri": "mm_file://2115144176196706304",
+    "receipt": {
+      "file": {
+        "bytes": 2625829,
+        "filename": "背影-月光凝形.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144176196706304",
+        "duration_seconds": null,
+        "created_at": 1793124643
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "f6f14eff9a70441915ba10ad0e822d58b31af725338e6dbd0aa1c4072bb432e7": {
+    "path": "镜头设计/图像/月光流动-v054/背影-月光流入.png",
+    "uri": "mm_file://2115144184566571008",
+    "receipt": {
+      "file": {
+        "bytes": 2577736,
+        "filename": "背影-月光流入.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144184566571008",
+        "duration_seconds": null,
+        "created_at": 1793124645
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "9f521982f15b2adc963a796aed8cea7711cec522ae06aff4fc8a5e8f344dd264": {
+    "path": "镜头设计/图像/月光流动-v054/背影-显形完成.png",
+    "uri": "mm_file://2115144193161879552",
+    "receipt": {
+      "file": {
+        "bytes": 2676849,
+        "filename": "背影-显形完成.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144193161879552",
+        "duration_seconds": null,
+        "created_at": 1793124647
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "3a2a0e127a3c66669172c5bfb152daf66f978f26dd46a2ba60ee90f676deb688": {
+    "path": "镜头设计/图像/细节与显形-v052/CY024K0-v052-r1.png",
+    "uri": "mm_file://2115144201862307840",
+    "receipt": {
+      "file": {
+        "bytes": 2684275,
+        "filename": "CY024K0-v052-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144201862307840",
+        "duration_seconds": null,
+        "created_at": 1793124649
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "3341f78639511130b7834f07b36d34dda06709161a2dff3b57fb87d2cf04f82e": {
+    "path": "镜头设计/图像/暗月瞬临-v045/CY024K1-v045-r1.png",
+    "uri": "mm_file://2115144224595042304",
+    "receipt": {
+      "file": {
+        "bytes": 2984857,
+        "filename": "CY024K1-v045-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144224595042304",
+        "duration_seconds": null,
+        "created_at": 1793124655
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "88599d40611961e3b3395b046244435ebd3f25401e69e77af171406ff03b8856": {
+    "path": "镜头设计/图像/暗月瞬临-v045/CY024K1A-v045-r1.png",
+    "uri": "mm_file://2115144233221152768",
+    "receipt": {
+      "file": {
+        "bytes": 2539686,
+        "filename": "CY024K1A-v045-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144233221152768",
+        "duration_seconds": null,
+        "created_at": 1793124657
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "26268718c9c1cc60205640cae55c9d37d3965978385a387760f091a85b8a82c8": {
+    "path": "镜头设计/图像/暗月瞬临-v045/CY024K2-v045-r1.png",
+    "uri": "mm_file://2115144244372238336",
+    "receipt": {
+      "file": {
+        "bytes": 3103476,
+        "filename": "CY024K2-v045-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144244372238336",
+        "duration_seconds": null,
+        "created_at": 1793124660
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "0de5c6eeec241854524933dc4dc16e681553e44be34d42b3abb63f5f27eabdbd": {
+    "path": "镜头设计/图像/控水协作-v046/CY024K2A-v046-r1.png",
+    "uri": "mm_file://2115144254234091520",
+    "receipt": {
+      "file": {
+        "bytes": 2696790,
+        "filename": "CY024K2A-v046-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144254234091520",
+        "duration_seconds": null,
+        "created_at": 1793124662
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25": {
+    "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+    "uri": "mm_file://2115144282224386048",
+    "receipt": {
+      "file": {
+        "bytes": 2717411,
+        "filename": "C04_Qwen-角色设定卡.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144282224386048",
+        "duration_seconds": null,
+        "created_at": 1793124669
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "6bca6a86bcd94a0afbc2504fec0a774701f6a6cc4fafac910dfde91dd4d9f693": {
+    "path": "镜头设计/图像/细节与显形-v052/CY024A9-v052-r1.png",
+    "uri": "mm_file://2115144290377326592",
+    "receipt": {
+      "file": {
+        "bytes": 2271940,
+        "filename": "CY024A9-v052-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144290377326592",
+        "duration_seconds": null,
+        "created_at": 1793124671
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "0579bb50c23171833b9ecefc4f0d5cd635e6704e50139e9eb9e388b053dc5eeb": {
+    "path": "镜头设计/图像/扇子法术-v061/CY024A10-v061-r1.png",
+    "uri": "mm_file://2115144297565446144",
+    "receipt": {
+      "file": {
+        "bytes": 2116994,
+        "filename": "CY024A10-v061-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144297565446144",
+        "duration_seconds": null,
+        "created_at": 1793124672
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "c8a40fed7ceb385600ae99f79fe35636bb8d6c224f03528329619400759f868d": {
+    "path": "镜头设计/图像/扇子法术-v061/CY024A11-v061-r1.png",
+    "uri": "mm_file://2115144304164659200",
+    "receipt": {
+      "file": {
+        "bytes": 1866806,
+        "filename": "CY024A11-v061-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144304164659200",
+        "duration_seconds": null,
+        "created_at": 1793124674
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "a1a3f5396ba7320021b177a6fba7fa8bb694993e13f4d1152a7275e2185d9962": {
+    "path": "镜头设计/图像/扇子法术-v061/CY024A12-v061-r1.png",
+    "uri": "mm_file://2115144310988529664",
+    "receipt": {
+      "file": {
+        "bytes": 2043445,
+        "filename": "CY024A12-v061-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144310988529664",
+        "duration_seconds": null,
+        "created_at": 1793124675
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "b3cf735f3c15a4653287539da0afa463cbc1a1e159f9e568c172725affde02a1": {
+    "path": "镜头设计/图像/目光与入场-v048/CY024A1-v048-r1.png",
+    "uri": "mm_file://2115144319331524608",
+    "receipt": {
+      "file": {
+        "bytes": 2527683,
+        "filename": "CY024A1-v048-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144319331524608",
+        "duration_seconds": null,
+        "created_at": 1793124677
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "03580a558fb2a675d198bbbe6d4d4a4379b1ae81c77c099631848fbf47fb7375": {
+    "path": "镜头设计/图像/生成前修正-v059/CY024A5A-v059.png",
+    "uri": "mm_file://2115144342125600768",
+    "receipt": {
+      "file": {
+        "bytes": 2677766,
+        "filename": "CY024A5A-v059.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144342125600768",
+        "duration_seconds": null,
+        "created_at": 1793124683
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "09fa6831cbf4932b0636636dfddc49845ee1b67bedf2877e20e9ade483bba9ea": {
+    "path": "镜头设计/图像/暗月瞬临-v045/CY024A4-v045-r3.png",
+    "uri": "mm_file://2115144351341010944",
+    "receipt": {
+      "file": {
+        "bytes": 2647666,
+        "filename": "CY024A4-v045-r3.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144351341010944",
+        "duration_seconds": null,
+        "created_at": 1793124685
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "d6143562c83800a48ee206e4d6363ff14222aa56c74e07f18150f1df19ff7828": {
+    "path": "镜头设计/图像/苍龙雷渊-v031/CY024A8-v031-r3.png",
+    "uri": "mm_file://2115144358238150656",
+    "receipt": {
+      "file": {
+        "bytes": 1971792,
+        "filename": "CY024A8-v031-r3.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144358238150656",
+        "duration_seconds": null,
+        "created_at": 1793124687
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "309c537c9b466ae68788b5595dc8ae56aec467339f57a30bad87044408539076": {
+    "path": "镜头设计/图像/暗月瞬临-v045/CY027A-v045-r1.png",
+    "uri": "mm_file://2115144380909940736",
+    "receipt": {
+      "file": {
+        "bytes": 2619252,
+        "filename": "CY027A-v045-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144380909940736",
+        "duration_seconds": null,
+        "created_at": 1793124692
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "7bd904d35e2e4dc881fb642a040afbebab3dd9aa9e66109cd9316e85a991a5b5": {
+    "path": "镜头设计/图像/目光与入场-v048/CY027B-v048-r1.png",
+    "uri": "mm_file://2115144388670840832",
+    "receipt": {
+      "file": {
+        "bytes": 2326416,
+        "filename": "CY027B-v048-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144388670840832",
+        "duration_seconds": null,
+        "created_at": 1793124694
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "c6b32c8a212491a13b3a74bc2ebde08704541168d516c50005a8ed9f5ed13df9": {
+    "path": "镜头设计/图像/关键动作-v062/CY027B1-v062-r1.png",
+    "uri": "mm_file://2115144399834640384",
+    "receipt": {
+      "file": {
+        "bytes": 3441069,
+        "filename": "CY027B1-v062-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144399834640384",
+        "duration_seconds": null,
+        "created_at": 1793124697
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "f2af33a63f169727b29d468faefa5b8b2f845511deee7c88dda6dcb76331aa01": {
+    "path": "镜头设计/图像/独立镜头-v009/CY027B2-v009.png",
+    "uri": "mm_file://2115144410514382848",
+    "receipt": {
+      "file": {
+        "bytes": 3256118,
+        "filename": "CY027B2-v009.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144410514382848",
+        "duration_seconds": null,
+        "created_at": 1793124699
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "f834353c05e2d1642f16e9d1859c7ceb2bfc9d5270c055141a4f14ddc368f25e": {
+    "path": "镜头设计/图像/独立镜头-v009/CY027B3-v009.png",
+    "uri": "mm_file://2115144422977495040",
+    "receipt": {
+      "file": {
+        "bytes": 3584576,
+        "filename": "CY027B3-v009.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144422977495040",
+        "duration_seconds": null,
+        "created_at": 1793124702
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "81e574d8d45c0f2b118be0041f192caf947dc81c757f24c52f6c50457cf7819d": {
+    "path": "镜头设计/图像/目光与入场-v048/CY027F2-v048-r1.png",
+    "uri": "mm_file://2115144445298270208",
+    "receipt": {
+      "file": {
+        "bytes": 2892089,
+        "filename": "CY027F2-v048-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144445298270208",
+        "duration_seconds": null,
+        "created_at": 1793124707
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "0f885eaf7c57a4a0f0c6d19b2cdee7666a599fb6d7e399e92f74edc65f3456e3": {
+    "path": "镜头设计/图像/火焰伤后与星火-v036/CY027F1-v036-r1.png",
+    "uri": "mm_file://2115144455593844736",
+    "receipt": {
+      "file": {
+        "bytes": 2696988,
+        "filename": "CY027F1-v036-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144455593844736",
+        "duration_seconds": null,
+        "created_at": 1793124710
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "1a2eea63ed7e18bfbd3bdf489f275d3b95fd91163a6f3d98844fee56915a6a7b": {
+    "path": "镜头设计/图像/目光与入场-v048/CY027G-v048-r1.png",
+    "uri": "mm_file://2115144465952071680",
+    "receipt": {
+      "file": {
+        "bytes": 2829351,
+        "filename": "CY027G-v048-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144465952071680",
+        "duration_seconds": null,
+        "created_at": 1793124712
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "66c1e6a1e927241ff33e2e5b8ba3290917711e12b62b95cc8c0803c6549f9497": {
+    "path": "镜头设计/图像/关键动作-v062/CY028A-v062-r1.png",
+    "uri": "mm_file://2115144476516343808",
+    "receipt": {
+      "file": {
+        "bytes": 2786738,
+        "filename": "CY028A-v062-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144476516343808",
+        "duration_seconds": null,
+        "created_at": 1793124715
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "02236be584cb2307c450932230f9ae951ab0f052342f0048c5b907e2ba47cc76": {
+    "path": "镜头设计/图像/目光与入场-v048/CY028A-v048-r1.png",
+    "uri": "mm_file://2115144488065363968",
+    "receipt": {
+      "file": {
+        "bytes": 3019111,
+        "filename": "CY028A-v048-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144488065363968",
+        "duration_seconds": null,
+        "created_at": 1793124718
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "2006931f94b084f74ff229869ad6da3363000546ef53b1b65a2adcfa85865413": {
+    "path": "镜头设计/图像/目光与入场-v048/CY028A2-v048-r1.png",
+    "uri": "mm_file://2115144515939393536",
+    "receipt": {
+      "file": {
+        "bytes": 2780492,
+        "filename": "CY028A2-v048-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144515939393536",
+        "duration_seconds": null,
+        "created_at": 1793124724
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "8d2abd371758be941744679399ce3cc6c563c809ce65c93f4bbe12319ec059f2": {
+    "path": "镜头设计/图像/余波与锁痕-v053/CY028B-v053-r1.png",
+    "uri": "mm_file://2115144523794800640",
+    "receipt": {
+      "file": {
+        "bytes": 2099653,
+        "filename": "CY028B-v053-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144523794800640",
+        "duration_seconds": null,
+        "created_at": 1793124726
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "bf2aae78b3b5c1936af01a43d2a0793cf781d3083c0f4b328c749d0a94cde275": {
+    "path": "镜头设计/图像/余波与锁痕-v053/CY028C-v053-r1.png",
+    "uri": "mm_file://2115144531040985088",
+    "receipt": {
+      "file": {
+        "bytes": 2057350,
+        "filename": "CY028C-v053-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144531040985088",
+        "duration_seconds": null,
+        "created_at": 1793124728
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "1ee86672dd3ad67a1696b5c59c6d7425436b534f71a6e51d8c336a739b99a437": {
+    "path": "镜头设计/图像/头纱连续-v013/CY029-v013.png",
+    "uri": "mm_file://2115144539365105664",
+    "receipt": {
+      "file": {
+        "bytes": 2343652,
+        "filename": "CY029-v013.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144539365105664",
+        "duration_seconds": null,
+        "created_at": 1793124730
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "2c68c03900736e42ab352f93ff44a2253db4658af19ac5b51f41a417b6f47d1f": {
+    "path": "镜头设计/图像/天瀑空间-v014/CY029E-v014-r1.png",
+    "uri": "mm_file://2115144548144046080",
+    "receipt": {
+      "file": {
+        "bytes": 2474537,
+        "filename": "CY029E-v014-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115144548144046080",
+        "duration_seconds": null,
+        "created_at": 1793124732
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "5f3812747ba948f49c63d6381b535ce796496dcbf71079a640bccd55c2b64607": {
+    "path": "镜头设计/图像/火焰伤后与星火-v036/CY029E1-v036-r1.png",
+    "uri": "mm_file://2115145214483292160",
+    "receipt": {
+      "file": {
+        "bytes": 2539967,
+        "filename": "CY029E1-v036-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145214483292160",
+        "duration_seconds": null,
+        "created_at": 1793124891
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "45a6465264e34b2d075454014017ece7ca7eb3c781e26ca7c10af7925258626e": {
+    "path": "镜头设计/图像/末轮叙事优化-v035/CY029E2-v035-r1.png",
+    "uri": "mm_file://2115145223151869952",
+    "receipt": {
+      "file": {
+        "bytes": 2601597,
+        "filename": "CY029E2-v035-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145223151869952",
+        "duration_seconds": null,
+        "created_at": 1793124893
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "1add6e04bd4c79f7ab4b29b61dfe5edca5be9573c9a7025e16a75a7e01bcea7b": {
+    "path": "镜头设计/图像/火焰伤后与星火-v036/CY029E3-v036-r1.png",
+    "uri": "mm_file://2115145230733336576",
+    "receipt": {
+      "file": {
+        "bytes": 2188728,
+        "filename": "CY029E3-v036-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145230733336576",
+        "duration_seconds": null,
+        "created_at": 1793124895
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "8a4e846a6193fe0734c79dfc3c24edb75fa36f899f9e3893cc60b9515559a24b": {
+    "path": "镜头设计/图像/目光与入场-v048/CY029E4-v048-r1.png",
+    "uri": "mm_file://2115145239405060096",
+    "receipt": {
+      "file": {
+        "bytes": 2629817,
+        "filename": "CY029E4-v048-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145239405060096",
+        "duration_seconds": null,
+        "created_at": 1793124897
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "5c1b217da403575f03a47b8675726604f9f5dfb2b7f523bc8d6bd2848cf70da5": {
+    "path": "镜头设计/图像/火焰伤后与星火-v036/CY029B1-v036-r1.png",
+    "uri": "mm_file://2115145258783531008",
+    "receipt": {
+      "file": {
+        "bytes": 2106359,
+        "filename": "CY029B1-v036-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145258783531008",
+        "duration_seconds": null,
+        "created_at": 1793124901
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "0dd08ca242baa694a272ecebac3759926d81108199d3e317dbf3a8bbcacefa34": {
+    "path": "镜头设计/图像/火种主观-v027/CY029B2-v027-r1.png",
+    "uri": "mm_file://2115145266897416192",
+    "receipt": {
+      "file": {
+        "bytes": 2290981,
+        "filename": "CY029B2-v027-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145266897416192",
+        "duration_seconds": null,
+        "created_at": 1793124903
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "08798cb3d797ec539e7f250c2f24ae70d9555e97dc4848520c9f9685d15242f2": {
+    "path": "镜头设计/图像/火焰伤后与星火-v036/CY029B-v036-r1.png",
+    "uri": "mm_file://2115145276398690304",
+    "receipt": {
+      "file": {
+        "bytes": 2834630,
+        "filename": "CY029B-v036-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145276398690304",
+        "duration_seconds": null,
+        "created_at": 1793124906
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "38e05ea54215ca5ced2c22e6bcbf1ece71627214adf2759461069ce2bcc1dcd1": {
+    "path": "镜头设计/图像/关键动作-v062/CY029C-v062-r3.png",
+    "uri": "mm_file://2115145286105096192",
+    "receipt": {
+      "file": {
+        "bytes": 2974814,
+        "filename": "CY029C-v062-r3.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145286105096192",
+        "duration_seconds": null,
+        "created_at": 1793124908
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "26b98e245d2de511a8e41d5a5ef6d532ff7b2e7c4e12d012f4a3394191663f30": {
+    "path": "镜头设计/图像/关键动作-v062/CY029D-v062-r2.png",
+    "uri": "mm_file://2115145295050108928",
+    "receipt": {
+      "file": {
+        "bytes": 2693314,
+        "filename": "CY029D-v062-r2.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145295050108928",
+        "duration_seconds": null,
+        "created_at": 1793124910
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "93b967c7dc79a90087885ddf096a8f6a3c2b531d562f930e3191de49deff8dab": {
+    "path": "资产/图像/四视图复用/C06_Gemini-角色设定卡.png",
+    "uri": "mm_file://2115145317409943552",
+    "receipt": {
+      "file": {
+        "bytes": 2783902,
+        "filename": "C06_Gemini-角色设定卡.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145317409943552",
+        "duration_seconds": null,
+        "created_at": 1793124915
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "48c6bc8343fedc417437c1706a2ca19dec26ca2007406bd365f21c00d8ecde9b": {
+    "path": "资产/图像/四视图复用/C08_Mistral-角色设定卡.png",
+    "uri": "mm_file://2115145327243747328",
+    "receipt": {
+      "file": {
+        "bytes": 2905218,
+        "filename": "C08_Mistral-角色设定卡.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145327243747328",
+        "duration_seconds": null,
+        "created_at": 1793124918
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "23ed4cbde90f467ea97f50a77ecb6c9e212753ec191ddb7cab50cc638c7720f4": {
+    "path": "资产/图像/四视图复用/C07_Perplexity-角色设定卡.png",
+    "uri": "mm_file://2115145336049688576",
+    "receipt": {
+      "file": {
+        "bytes": 2479600,
+        "filename": "C07_Perplexity-角色设定卡.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145336049688576",
+        "duration_seconds": null,
+        "created_at": 1793124920
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "b8a6dd3356348c52dd4f426e3b8973a8adf20417878a5718a83621e84c17be74": {
+    "path": "镜头设计/图像/目光与入场-v048/CY024-v048-r1.png",
+    "uri": "mm_file://2115145346356797440",
+    "receipt": {
+      "file": {
+        "bytes": 2880685,
+        "filename": "CY024-v048-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145346356797440",
+        "duration_seconds": null,
+        "created_at": 1793124922
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "8058a67fcf61ccb6b26b4c756173effc2994fd5bfd0005ae665aaf9e9094ef12": {
+    "path": "镜头设计/图像/目光与入场-v048/CY024R-v048-r1.png",
+    "uri": "mm_file://2115145354142212096",
+    "receipt": {
+      "file": {
+        "bytes": 2107580,
+        "filename": "CY024R-v048-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145354142212096",
+        "duration_seconds": null,
+        "created_at": 1793124924
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "3874fb8d6799fa7e3775dae95cc07f75b8a496e2806fec0a87092315df3043ef": {
+    "path": "资产/图像/四视图复用/C05_Zai-GLM-角色设定卡.png",
+    "uri": "mm_file://2115145378040438784",
+    "receipt": {
+      "file": {
+        "bytes": 2805909,
+        "filename": "C05_Zai-GLM-角色设定卡.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145378040438784",
+        "duration_seconds": null,
+        "created_at": 1793124930
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "db7a626651b4caa696c5dc3d630adc9d4d21f92876c7544f260c85d533232156": {
+    "path": "镜头设计/图像/S05D-应召分屏-v001.png",
+    "uri": "mm_file://2115145388283191296",
+    "receipt": {
+      "file": {
+        "bytes": 3002915,
+        "filename": "S05D-应召分屏-v001.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145388283191296",
+        "duration_seconds": null,
+        "created_at": 1793124932
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "6088c303b96ecae73362067edd642638989dc293b941da6a1fb32a7c013b0b1d": {
+    "path": "镜头设计/图像/张力与机位-v060/CY024A0-v060-r2.png",
+    "uri": "mm_file://2115145395969257472",
+    "receipt": {
+      "file": {
+        "bytes": 2226473,
+        "filename": "CY024A0-v060-r2.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145395969257472",
+        "duration_seconds": null,
+        "created_at": 1793124934
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "b5539825dbb96c2d741e62d6fd356e8849e5e65403e79d901f3d51f1a562085c": {
+    "path": "镜头设计/图像/末轮叙事优化-v035/CY024A-v035-r1.png",
+    "uri": "mm_file://2115145406385545216",
+    "receipt": {
+      "file": {
+        "bytes": 2856082,
+        "filename": "CY024A-v035-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145406385545216",
+        "duration_seconds": null,
+        "created_at": 1793124937
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "f97aef426d66c147f3161da161241371c7c2b91f82966231306c4793e9ccb527": {
+    "path": "镜头设计/图像/目光与入场-v048/CY027D-v048-r1.png",
+    "uri": "mm_file://2115145679890341888",
+    "receipt": {
+      "file": {
+        "bytes": 3086665,
+        "filename": "CY027D-v048-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145679890341888",
+        "duration_seconds": null,
+        "created_at": 1793125002
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "923711e34169601b7ad49d588060cee76ed6631024f87ff128c083b04a73f280": {
+    "path": "镜头设计/图像/天瀑空间-v014/CY027E2-v014-r1.png",
+    "uri": "mm_file://2115145690974052352",
+    "receipt": {
+      "file": {
+        "bytes": 3163462,
+        "filename": "CY027E2-v014-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145690974052352",
+        "duration_seconds": null,
+        "created_at": 1793125004
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "a0731b7569df7466f1d8fceb8d43b8e7f177c4897b27f924a499400cdac824d8": {
+    "path": "镜头设计/图像/细节与显形-v052/CY027F-v052-r1.png",
+    "uri": "mm_file://2115145701526921216",
+    "receipt": {
+      "file": {
+        "bytes": 2984768,
+        "filename": "CY027F-v052-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145701526921216",
+        "duration_seconds": null,
+        "created_at": 1793125007
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "9ec53f027cd891e24c6a9d8a18487c1126bc1a4e29b8c63dc51f82390b6da548": {
+    "path": "镜头设计/图像/月刃救援-v041/CY027F0-v041-r1.png",
+    "uri": "mm_file://2115145710061281280",
+    "receipt": {
+      "file": {
+        "bytes": 2431501,
+        "filename": "CY027F0-v041-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145710061281280",
+        "duration_seconds": null,
+        "created_at": 1793125009
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "93c6d6fca455d88b769773b3a8874b679500362317045062704fe31b2144f5a5": {
+    "path": "镜头设计/图像/火焰伤后与星火-v036/CY029A-v036-r1.png",
+    "uri": "mm_file://2115145733474803712",
+    "receipt": {
+      "file": {
+        "bytes": 3036831,
+        "filename": "CY029A-v036-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145733474803712",
+        "duration_seconds": null,
+        "created_at": 1793125015
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "4b4969b67a24902301c26f4628fece7d79f6943145e4d3bf585f780258682b75": {
+    "path": "镜头设计/图像/火焰伤后与星火-v036/CY030-v036-r1.png",
+    "uri": "mm_file://2115145742285070336",
+    "receipt": {
+      "file": {
+        "bytes": 2601987,
+        "filename": "CY030-v036-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145742285070336",
+        "duration_seconds": null,
+        "created_at": 1793125017
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "b96a52892235847d16d96908cc76ac433f8eddf5a62cf984932d3a3f08ee0e95": {
+    "path": "镜头设计/图像/独立镜头-v009/CY031-v009.png",
+    "uri": "mm_file://2115145752559149056",
+    "receipt": {
+      "file": {
+        "bytes": 2901142,
+        "filename": "CY031-v009.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145752559149056",
+        "duration_seconds": null,
+        "created_at": 1793125019
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "44c7f45cb3ea56cd8da3857d0f6f419170c333f06f63588938a52ee7e3dc1fd6": {
+    "path": "镜头设计/图像/数学宫殿-v056/CY009A.png",
+    "uri": "mm_file://2115145774780440576",
+    "receipt": {
+      "file": {
+        "bytes": 2341618,
+        "filename": "CY009A.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115145774780440576",
+        "duration_seconds": null,
+        "created_at": 1793125024
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "8aa15353392208180c0a97cb8f31a2b598db9a6c81360ca77dca00e80273f35f": {
+    "path": "镜头设计/图像/天瀑空间-v014/CY013-v014-r3.png",
+    "uri": "mm_file://2115146340872544256",
+    "receipt": {
+      "file": {
+        "bytes": 2776112,
+        "filename": "CY013-v014-r3.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115146340872544256",
+        "duration_seconds": null,
+        "created_at": 1793125159
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "d09dd015273c2fee89cc4afa22159b834bf3d69c31ee68f1abd7c3549b4726f9": {
+    "path": "镜头设计/图像/天瀑空间-v014/CY013A-v014-r3.png",
+    "uri": "mm_file://2115146349712044032",
+    "receipt": {
+      "file": {
+        "bytes": 2485055,
+        "filename": "CY013A-v014-r3.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115146349712044032",
+        "duration_seconds": null,
+        "created_at": 1793125162
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "536607737f05b3df218eaf4b574394580f2dbb68e04a19670799e56634c2bf6c": {
+    "path": "镜头设计/图像/空间张力-v063/CY015-v063-r1.png",
+    "uri": "mm_file://2115146358374195200",
+    "receipt": {
+      "file": {
+        "bytes": 2453044,
+        "filename": "CY015-v063-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115146358374195200",
+        "duration_seconds": null,
+        "created_at": 1793125164
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "f1c37a7b42ed2405c55465877a1290500a22edcde512254506cfc03ef0352004": {
+    "path": "镜头设计/图像/空间张力-v063/CY016-v063-r1.png",
+    "uri": "mm_file://2115146367735619584",
+    "receipt": {
+      "file": {
+        "bytes": 2404123,
+        "filename": "CY016-v063-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115146367735619584",
+        "duration_seconds": null,
+        "created_at": 1793125166
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "939e6566ac8060679a9ae17b973eaa0d07d65a4b57ecfd5be61b4a7d65eff6b6": {
+    "path": "镜头设计/图像/天瀑空间-v014/CY020-v014-r4.png",
+    "uri": "mm_file://2115146392618328064",
+    "receipt": {
+      "file": {
+        "bytes": 2500827,
+        "filename": "CY020-v014-r4.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115146392618328064",
+        "duration_seconds": null,
+        "created_at": 1793125172
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "5211c4758c0713a866e8c1d52d7a584258d78eac4948709d6b39096c4ddd63d6": {
+    "path": "镜头设计/图像/张力与机位-v060/CY020B-v060-r1.png",
+    "uri": "mm_file://2115146411971768320",
+    "receipt": {
+      "file": {
+        "bytes": 2289650,
+        "filename": "CY020B-v060-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115146411971768320",
+        "duration_seconds": null,
+        "created_at": 1793125176
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "00d5456695ccf047cbfa6f11137315237554efbec391fc55d5b75e05d86d552e": {
+    "path": "镜头设计/图像/张力与机位-v060/CY020A-v060-r1.png",
+    "uri": "mm_file://2115146418808614912",
+    "receipt": {
+      "file": {
+        "bytes": 2006828,
+        "filename": "CY020A-v060-r1.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115146418808614912",
+        "duration_seconds": null,
+        "created_at": 1793125178
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "29a458b3796e581a939537030f3ce8a95161432175951f023b97fbbec867eff1": {
+    "path": "镜头设计/图像/独立镜头-v009/CY026A-v009.png",
+    "uri": "mm_file://2115146442352156672",
+    "receipt": {
+      "file": {
+        "bytes": 3100801,
+        "filename": "CY026A-v009.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115146442352156672",
+        "duration_seconds": null,
+        "created_at": 1793125184
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "0c51706f021371af875bbc8254743d34d6fcc885f5e4deb1495f5ba4ae7f9cb2": {
+    "path": "镜头设计/图像/独立镜头-v009/CY026A1-v009.png",
+    "uri": "mm_file://2115146453035966464",
+    "receipt": {
+      "file": {
+        "bytes": 2798402,
+        "filename": "CY026A1-v009.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115146453035966464",
+        "duration_seconds": null,
+        "created_at": 1793125186
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "4142424dbf2bcbd3147701dc85b004eaf5e2da28f9f6755e77f8f5d08ca6b14d": {
+    "path": "镜头设计/图像/生成前修正-v059/CY024A7-r2-v059.png",
+    "uri": "mm_file://2115146607415844864",
+    "receipt": {
+      "file": {
+        "bytes": 3006008,
+        "filename": "CY024A7-r2-v059.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115146607415844864",
+        "duration_seconds": null,
+        "created_at": 1793125223
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "9eb6e84e1d3ec481cf4f1c121d7ec966a1bfda15b2aa4b2e782f601cc7e5075b": {
+    "path": "视频制作/Metaso-H3-v002/修订参考/CY024A7-纯流体-r003.png",
+    "uri": "mm_file://2115148802885476352",
+    "receipt": {
+      "file": {
+        "bytes": 3064106,
+        "filename": "CY024A7-纯流体-r003.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115148802885476352",
+        "duration_seconds": null,
+        "created_at": 1793125746
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "a624dc43fa0e3fd8da2bc6ffb3d9018f25c8ecfe3fd9d30c51b037ff520c1d5e": {
+    "path": "视频制作/Metaso-H3-v002/修订参考/CY024A5B-纯流体-r003.png",
+    "uri": "mm_file://2115148827270508544",
+    "receipt": {
+      "file": {
+        "bytes": 3213448,
+        "filename": "CY024A5B-纯流体-r003.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115148827270508544",
+        "duration_seconds": null,
+        "created_at": 1793125752
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "aa1a5ccb544f9a574e4aa54d7d70398eb96ddc7af037d8c2087d26d549fbc235": {
+    "path": "视频制作/Metaso-H3-v002/修订参考/water-start-固定首帧-r004.png",
+    "uri": "mm_file://2115150893525295104",
+    "receipt": {
+      "file": {
+        "bytes": 3134733,
+        "filename": "water-start-固定首帧-r004.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115150893525295104",
+        "duration_seconds": null,
+        "created_at": 1793126245
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "51a79e3fdd82de19d62f9bf95f1c397facf586044738a226dd2aa73f9707d085": {
+    "path": "视频制作/Metaso-H3-v002/审查/GB022-1-r002-part1-11.5.png",
+    "uri": "mm_file://2115150913559781376",
+    "receipt": {
+      "file": {
+        "bytes": 1635762,
+        "filename": "GB022-1-r002-part1-11.5.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115150913559781376",
+        "duration_seconds": null,
+        "created_at": 1793126250
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "91404d8fcfc145589c87935cc37109a3324daf80c172d550ab545cc030609edd": {
+    "path": "视频制作/Metaso-H3-v002/修订参考/rescue-key-固定首帧-r004.png",
+    "uri": "mm_file://2115150931927949312",
+    "receipt": {
+      "file": {
+        "bytes": 1974981,
+        "filename": "rescue-key-固定首帧-r004.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115150931927949312",
+        "duration_seconds": null,
+        "created_at": 1793126254
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "946ea6da4998ba53ea891aad3532b3d0023d03cc6e0fb1c4e9565cd90c3fbb15": {
+    "path": "视频制作/Metaso-H3-v002/修订参考/rescue-wrist-固定首帧-r004.png",
+    "uri": "mm_file://2115150953244450816",
+    "receipt": {
+      "file": {
+        "bytes": 2354857,
+        "filename": "rescue-wrist-固定首帧-r004.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115150953244450816",
+        "duration_seconds": null,
+        "created_at": 1793126259
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "9aa211216c0e38f5fb2603cab06a85fa5d527cb055c6fdfb82b105a5eecff20e": {
+    "path": "视频制作/Metaso-H3-v002/修订参考/rescue-step-固定首帧-r004.png",
+    "uri": "mm_file://2115151276373237760",
+    "receipt": {
+      "file": {
+        "bytes": 2652884,
+        "filename": "rescue-step-固定首帧-r004.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115151276373237760",
+        "duration_seconds": null,
+        "created_at": 1793126336
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  },
+  "ce6d64d09181a46c25e0df0956e95c75800e791a08b0dba64c2c98a93777aaac": {
+    "path": "视频制作/Metaso-H3-v002/审查/交钥匙-干净双手首帧-独立.png",
+    "uri": "mm_file://2115152141227323392",
+    "receipt": {
+      "file": {
+        "bytes": 113145,
+        "filename": "交钥匙-干净双手首帧-独立.png",
+        "purpose": "video_generation_input",
+        "file_id": "2115152141227323392",
+        "duration_seconds": null,
+        "created_at": 1793126542
+      },
+      "base_resp": {
+        "status_code": 0,
+        "status_msg": "success"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+subject_definitions:
+<Picture 1>: [Shot 1] composition and state reference; not its first frame.
+<Picture 2>: [Shot 2] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. Continue the actions below in their listed order, without restarting ongoing motion or speech.
+
+retention_analysis:
+<Picture 1>: weak_reference - shot layout; animate the specified action.
+<Picture 2>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Cut from the cool shield interior to moonlight on the liquid; its upward movement leads into the suspended sky-sea, without implying that the shield is the water source. Use <Picture 1> for composition. With the protective shield already established, exterior mist condenses into droplets. The large drop quivers, elongates and springs back as smaller drops rise and merge into it. Clouds increasingly obscure the moon. End with the merged drop still ascending toward the gathering cloud mass. Track upward slowly with the large droplet, briefly focusing on smaller approaching drops and returning to its outline after they merge; never turn the motion into falling rain. Soft liquid-bridge merging sounds and high wind; no rainfall, electricity or thunder. From 0 to 6.52 seconds, ChatGPT (S1) speaks outside the frame: <d>[Japanese] 星々の下に浮かぶ、果てなき海へと集めよ。<scenetrans></d>. Voice continues across the cut.
+[Shot 2] At 00:06.520, Continue the droplet ascent into converging clouds, cutting high overhead as the water gathers centrally; carry the wind across the cut. Use <Picture 2> for composition. From outside at ground level, keep the intact towers and nave roof along the lower edge. Layered deep-blue cloud walls curl inward above the central nave; rising droplets merge into a continuous dark-blue water surface suspended among the folds, with silver moonlight moving across ripples. Water gathers only high above, with no lightning or luminous magic circle. The apse remains outside the damage zone. End with the surface drawing inward to launch the descending water dragon. Start low with the intact cathedral silhouette, then tilt slowly upward as the suspended sea fills the upper frame; keep the camera on the ground. High wind and deep tidal resonance sit below the incantation. No lightning or thunder. From 6.52 to 9.34 seconds, ChatGPT (S1) speaks outside the frame: <d>[Japanese] <scenetrans>厚き雲を岸に、風を導きに、</d>. Voice continues across the cut. From 9.34 to 11.56 seconds, ChatGPT (S1) speaks outside the frame: <d>[Japanese] 眠れる潮よ、うねり、押し寄せよ。</d>.
+From 11.56 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

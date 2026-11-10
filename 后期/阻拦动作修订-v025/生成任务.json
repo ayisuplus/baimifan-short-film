@@ -1,0 +1,35 @@
+{
+  "runs": [
+    {
+      "prompt_id": "611aaaa3-ddeb-47b0-b10d-c57eeb0dd06f",
+      "workflow": "027-r1.api.json",
+      "valid": true,
+      "upscale": false,
+      "partner_nodes": [],
+      "decision": "rejected: head contact and small hop remain"
+    },
+    {
+      "prompt_id": "76045bf4-5482-4938-8a13-643b65763eaa",
+      "workflow": "027-r2.api.json",
+      "valid": true,
+      "upscale": false,
+      "partner_nodes": [],
+      "decision": "rejected: long forearm obscures face and contact remains ambiguous"
+    },
+    {
+      "prompt_id": "7d8a8e56-c2a3-49b5-830f-19182d230a49",
+      "workflow": "027-r3.api.json",
+      "valid": true,
+      "upscale": false,
+      "partner_nodes": [],
+      "status": "completed",
+      "decision": "adopted for OpenCut review",
+      "native_output": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v025/027-natural-fall-r3-no-upscale_00001_.mp4",
+      "frames": 90,
+      "fps": 24,
+      "width": 1344,
+      "height": 768,
+      "sha256": "2719b480a0b9d4e61d0eb0e907e08211445bb0df83ea41040fd466759ad45a95"
+    }
+  ]
+}

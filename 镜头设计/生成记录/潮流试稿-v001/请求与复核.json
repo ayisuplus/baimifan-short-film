@@ -1,0 +1,37 @@
+{
+  "version": "v001",
+  "date": "2026-10-25",
+  "shot": "CY024B",
+  "purpose": "作者要求先试一张翻卷空中潮流大景；只作造型候选，不替换当前分镜",
+  "engine": "built-in image_gen",
+  "input": {
+    "referenced_image_paths": [
+      "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/三点定流-v047/CY024B-v047-r2.png",
+      "E:/projects/内容创作/故事短片/穿云/参考/水魔法研究-v001/water-wheel.png"
+    ],
+    "transparent_background": false,
+    "prompt": "Create ONE 16:9 cinematic anime fantasy storyboard concept, an EDIT of reference image 1. Image 1 controls the exact white dragon-woman character design, costume, wings, gothic cathedral architecture, elevated camera from behind her, and the spatial arrangement of enemies and protected altar. Image 2 is ONLY a reference for elegant sweeping curved water shapes, readable blue surface bands and clustered white foam crests; do NOT import its character, sword, circular water-wheel, black outlines, typography or scene. Primary change: completely REMOVE all three straight vertical cylindrical waterfalls and the all-over bright foam/lightning texture in image 1. Replace them with a controlled airborne ocean surge: one massive broad thick sheet of silver-blue water descending on a graceful oblique S-shaped trajectory through the already broken central nave roof, its forward edge curling into a powerful breaking wave crest that presses down onto the small enemy leader's amber-gold shield at the central lower landing. It must have a real broad water surface, dark blue underside, translucent folds, an uneven curling lip and substantial volume; NOT a hose, pipe, beam, rope, thin ribbon, rigid arch or full circular ring. Two smaller, differently curved sweeping waves move through the left and right enemy aisles, directed away from the upper sanctuary; their wave fronts are low and broad, pushing black-gold robed cultists off balance without injury detail. This is a single late-action representative moment: central main wave has already impacted, left side wave is further advanced, right wave is just curling forward, so the three fronts are staggered rather than three identical synchronized shapes. One dominant main curve and two subordinate curves with quiet negative spaces between. Remove the uniform electric net and floating glitter: show broad continuous deep silver-blue water planes, long flow lines along curvature, bright cyan only on turning surfaces, clustered ivory-white foam ONLY on wave crests and actual impacts; just 2 or 3 fine violet lightning branches inside the main wave. Keep the scene legible, cinematic and dimensional with the original elaborate anime rendering and nighttime blue stained-glass light; no flat pasted graphic water. Keep foreground GPT hovering on the left with two pale lavender membrane wings, her long pale hair, horns, white scaled tail, ornate white-silver dress and jewelry. Improve her visible right arm to an elegant controlled down-and-out guiding gesture, wrist softly flexed and naturally articulated fingers guiding the final right wave, not a rigid pointing pistol. Her left hand stays near her torso maintaining the spell, may be partly occluded, no additional limbs. DO NOT let water originate from her hands or wings. Keep the far highest altar's small opaque dark-indigo protective dome entirely untouched and still, on visibly dry clear stone, with an obvious gap from all waves; no ring or vortex around it, no visible people or cross inside. Preserve central rear stained-glass window damage and intact side windows/rear vault. Show no burning candles, no new destruction to rear altar. No dragon heads or beasts, no magic circles, no aiming reticles, no newly added props, no text, captions, signatures, borders, prompt panel or multi-panel layout. The image should feel like a suspended sea gracefully folding into three controlled tides, enormous and heavy yet beautiful, with the architecture and tiny enemy figures establishing scale."
+  },
+  "source": "C:/Users/36322/.codex/generated_images/01a16925-a797-71a2-9c39-4f481f8b65a6/exec-a8685134-b2df-4567-a9c6-3ba805a07244.png",
+  "output": "镜头设计/图像/潮流试稿-v001/CY024B-tide-v001-r1.png",
+  "status": "candidate_pending_author_review",
+  "review": {
+    "actually_viewed": true,
+    "observations": [
+      "主水体改为具有连续蓝色腹面与翻卷浪冠的大弧形",
+      "紫电较少，暗金敌罩和远端暗月友罩分离",
+      "GPT右手改为自然下引姿势，现有角色与场景主要识别特征延续"
+    ],
+    "limitations": [
+      "侧浪有多段卷曲，仍不能凭这一张图确认三个目标先后次序",
+      "白沫细节仍偏密，后续可进一步收简",
+      "仅造型试稿，云端出水与后续退水动态尚未验证"
+    ],
+    "adoption": "未替换v0.49预演、未改剧本、BGM或时长"
+  },
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "265eb4383e3988eb3bb773059c4359a1ba37c89ca83d3859291bf25d62db417b"
+}

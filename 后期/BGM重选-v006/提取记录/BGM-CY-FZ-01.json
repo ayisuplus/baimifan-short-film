@@ -1,0 +1,40 @@
+{
+  "id": "BGM-CY-FZ-01",
+  "bvid": "BV1Vx411G7kG",
+  "part": 1,
+  "title": "Point Zero",
+  "display_title": "原点",
+  "work": "Fate/Zero",
+  "composer": "梶浦由記",
+  "source_page_title": "Point Zero",
+  "navigation_translation": "中文译名仅供本项目导航；保留原曲名与来源分P。",
+  "cid": 23944283,
+  "source": "https://www.bilibili.com/video/BV1Vx411G7kG/?p=1",
+  "uploader": "天使动漫",
+  "video_title": "【Fate/Zero】OST原声集完全版 / 音乐：梶浦由記",
+  "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-01.m4a",
+  "bytes": 1920692,
+  "sha256": "de9e41b5440db912541dda1471b8190b52ed883fcc9b4300738fbed395f4b178",
+  "duration": 228.761202,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "66985"
+      }
+    ],
+    "format": {
+      "duration": "228.761202"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

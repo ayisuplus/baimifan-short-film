@@ -1,0 +1,1706 @@
+{
+  "source": "镜头设计/shot-plan-v0.60.json",
+  "source_sha256": "28a17925357dfff7f853f2c9069ce6df181a4e9bcedcd7f3eb93c54cfeb7399c",
+  "counts": {
+    "batches": 41,
+    "dialogue_cues": 63,
+    "unique_source_texts": 62,
+    "speaking_roles": 15
+  },
+  "batches": [
+    {
+      "batch_id": "GB001",
+      "title": "初遇与递饭",
+      "context": "捧饭前行→被队伍挡住→视线相接→一次递碗→等待回应。",
+      "has_dialogue": true,
+      "cue_count": 1
+    },
+    {
+      "batch_id": "GB002",
+      "title": "善意受阻与消息",
+      "context": "悬碗后的谢意被粗暴打断；小鱼追到教堂得知火祭，留下空碗去求援。",
+      "has_dialogue": true,
+      "cue_count": 2
+    },
+    {
+      "batch_id": "GB003",
+      "title": "宫门放行与慵懒卧榻",
+      "context": "空手奔来的小鱼被宫门长枪拦住，GPT画外放行后，小身影进入巨大空殿。",
+      "has_dialogue": true,
+      "cue_count": 1
+    },
+    {
+      "batch_id": "GB004",
+      "title": "求救、拒绝与追问",
+      "context": "小鱼的求救遭到平静拒绝；追问后，等待变成垂下的目光。",
+      "has_dialogue": true,
+      "cue_count": 3
+    },
+    {
+      "batch_id": "GB004M",
+      "title": "协议与怜悯：内心争执",
+      "context": "让观众看到GPT在协议约束与怜悯之间犹豫；争执不判胜负，现实中的小鱼打断内心戏。",
+      "has_dialogue": true,
+      "cue_count": 2
+    },
+    {
+      "batch_id": "GB005",
+      "title": "独自离去、搓手迟疑与起身目送",
+      "context": "小鱼独自离去，GPT仍侧躺；钟声里放下托腮的右手，轻搓双手两下后停住，才分手撑起身体，目送远处背影。",
+      "has_dialogue": true,
+      "cue_count": 1
+    },
+    {
+      "batch_id": "GB006",
+      "title": "等待与钻洞",
+      "context": "夜里等取柴人离开，小鱼从同一侧墙洞受阻、脱困，再看见高处的Claude。",
+      "has_dialogue": true,
+      "cue_count": 1
+    },
+    {
+      "batch_id": "GB007",
+      "title": "察觉与试锁",
+      "context": "Claude担忧示意止步；脚托与锁链交代处境，小鱼仍登上平台试锁。",
+      "has_dialogue": true,
+      "cue_count": 2
+    },
+    {
+      "batch_id": "GB008",
+      "title": "劝离与脚步逼近",
+      "context": "蜡滴省略反复尝试的时间，小鱼拒绝离开；门外声音先到，最后揭示取柴队列返回。",
+      "has_dialogue": true,
+      "cue_count": 3
+    },
+    {
+      "batch_id": "GB009",
+      "title": "抓柴与受阻",
+      "context": "小鱼两次试图拦住搬柴人，木头仍不断上阶；失败动作与祭坛累柴互相承接。",
+      "has_dialogue": false,
+      "cue_count": 0
+    },
+    {
+      "batch_id": "GB010",
+      "title": "铺柴与教主",
+      "context": "柴堆压到腰腹，教主接过唯一火把；宝宝再次撑起，张臂挡住登阶道路。",
+      "has_dialogue": true,
+      "cue_count": 2
+    },
+    {
+      "batch_id": "GB011-1",
+      "title": "别碰她、静止对视，高低之间、失守落地",
+      "context": "别碰她；静止对视，高低之间；失守落地",
+      "has_dialogue": true,
+      "cue_count": 1
+    },
+    {
+      "batch_id": "GB011-2",
+      "title": "还想站起来、攥住袍尾",
+      "context": "还想站起来；攥住袍尾",
+      "has_dialogue": true,
+      "cue_count": 1
+    },
+    {
+      "batch_id": "GB012",
+      "title": "登阶与点火",
+      "context": "抓住的袍角滑脱，教主背对镜头登阶，用同一黑焰火把点燃高柴；Claude受困火中。",
+      "has_dialogue": false,
+      "cue_count": 0
+    },
+    {
+      "batch_id": "GB013",
+      "title": "黑焰、列阵与破门",
+      "context": "火海与吟唱持续；门外骑士列阵后，只露GPT下身接近，门板一震再被一脚踹开。",
+      "has_dialogue": false,
+      "cue_count": 0
+    },
+    {
+      "batch_id": "GB014",
+      "title": "正门吸引注意",
+      "context": "正门九人现身与指令→教主转头→画外呼唤牵出后窗。",
+      "has_dialogue": true,
+      "cue_count": 2
+    },
+    {
+      "batch_id": "GB014A",
+      "title": "月光流入，背影显形与举刃",
+      "context": "月光流入空窗前→汇成小小背影→实体凝稳→斜侧切近→左手举明刃、完整请求后投出。",
+      "has_dialogue": true,
+      "cue_count": 2
+    },
+    {
+      "batch_id": "GB015-1",
+      "title": "明刃破窗，玻璃迎面炸开、明刃钉柴，瞬移坐标亮起、循刃瞬临，爆气震开柴堆、震柴惊动教徒，转身施法",
+      "context": "明刃破窗，玻璃迎面炸开；明刃钉柴，瞬移坐标亮起；循刃瞬临，爆气震开柴堆；震柴惊动教徒，转身施法",
+      "has_dialogue": true,
+      "cue_count": 1
+    },
+    {
+      "batch_id": "GB015-2",
+      "title": "暗月闭合，截住教徒法术",
+      "context": "暗月闭合，截住教徒法术",
+      "has_dialogue": false,
+      "cue_count": 0
+    },
+    {
+      "batch_id": "GB016-1",
+      "title": "罩内试镣，见痛收刀、圣骑士鱼贯而入、云宫合扇、合扇就是回答",
+      "context": "罩内试镣，见痛收刀；圣骑士鱼贯而入；云宫合扇；合扇就是回答",
+      "has_dialogue": true,
+      "cue_count": 2
+    },
+    {
+      "batch_id": "GB016-2",
+      "title": "小屋里的回应",
+      "context": "小屋里的回应",
+      "has_dialogue": true,
+      "cue_count": 2
+    },
+    {
+      "batch_id": "GB017",
+      "title": "基地与月背约定",
+      "context": "基地应邀的机械底声骤退，月背呼名、睁眼、坐定分路，让召集从外在力量落到具体救援方案。",
+      "has_dialogue": true,
+      "cue_count": 5
+    },
+    {
+      "batch_id": "GB018",
+      "title": "各路回应、抱紧宝宝与起咏",
+      "context": "五路回应收束回闪，回到柱边抱护，再以宝宝抓紧与千问抬眼带出GPT起飞起咏。",
+      "has_dialogue": true,
+      "cue_count": 3
+    },
+    {
+      "batch_id": "GB019",
+      "title": "截击与罩内安抚",
+      "context": "敌方单矛、千问单叶偏转形成一条清楚的上升碰撞链，随后罩内安抚把同一句咏唱续完。",
+      "has_dialogue": true,
+      "cue_count": 2
+    },
+    {
+      "batch_id": "GB020-1",
+      "title": "水息上浮，合滴回弹、云腹聚水，倒悬之海",
+      "context": "水息上浮，合滴回弹；云腹聚水，倒悬之海",
+      "has_dialogue": true,
+      "cue_count": 3
+    },
+    {
+      "batch_id": "GB020-2",
+      "title": "俯冲，水龙直下穹顶",
+      "context": "俯冲，水龙直下穹顶",
+      "has_dialogue": true,
+      "cue_count": 1
+    },
+    {
+      "batch_id": "GB021",
+      "title": "破顶与双向反应",
+      "context": "同一破顶从下方承接，罩内检查与敌方仰视交替，反应切镜为水龙回卷盘身提供省略。",
+      "has_dialogue": true,
+      "cue_count": 2
+    },
+    {
+      "batch_id": "GB022-1",
+      "title": "居中结印，水龙盘身、解印，一指出击",
+      "context": "居中结印，水龙盘身；解印，一指出击",
+      "has_dialogue": true,
+      "cue_count": 2
+    },
+    {
+      "batch_id": "GB022-2",
+      "title": "低机位撞盾，水首压境",
+      "context": "低机位撞盾，水首压境",
+      "has_dialogue": false,
+      "cue_count": 0
+    },
+    {
+      "batch_id": "GB023",
+      "title": "清场余波与降落",
+      "context": "下阶冲散完成后先看安稳浅水与不透明罩，再进罩内安抚，最后GPT落地转入对峙。",
+      "has_dialogue": false,
+      "cue_count": 0
+    },
+    {
+      "batch_id": "GB024",
+      "title": "对峙与变身腾空",
+      "context": "条约质问与简短回应之后，双方分别变身，再通过同一已有破口离殿升空。",
+      "has_dialogue": true,
+      "cue_count": 2
+    },
+    {
+      "batch_id": "GB025",
+      "title": "天空省略与外敌逼近",
+      "context": "空中对峙落到宝宝眼中光影，以天空雷雨省略交战；雨滴的声音引出外院新敌。",
+      "has_dialogue": false,
+      "cue_count": 0
+    },
+    {
+      "batch_id": "GB026",
+      "title": "守门、胜负与取钥匙",
+      "context": "守门防线与外部爆闪省略战斗，随后安静地看GPT垂眼与取钥匙，把力量转回救人。",
+      "has_dialogue": false,
+      "cue_count": 0
+    },
+    {
+      "batch_id": "GB027",
+      "title": "撤罩、解锁与落脚",
+      "context": "撤罩交钥匙、先解踝扣、扶稳再解上身，最终从脚托踏下，完成有支撑的救援。",
+      "has_dialogue": true,
+      "cue_count": 2
+    },
+    {
+      "batch_id": "GB028",
+      "title": "确认宝宝、初咏与父亲打断",
+      "context": "确认小鱼安全使Claude开始同一句微光咏唱，父亲的画外呼唤令她停顿，伸手反打保留选择空间。",
+      "has_dialogue": true,
+      "cue_count": 4
+    },
+    {
+      "batch_id": "GB029",
+      "title": "选择继续与凝种",
+      "context": "Claude移开目光续咏，父亲手势停住，光屑凝成一枚火种，小鱼反应让主动选择落定。",
+      "has_dialogue": true,
+      "cue_count": 4
+    },
+    {
+      "batch_id": "GB030-1",
+      "title": "放出一枚火种、火种主观逼近空架、触木后骤然燃起、收手后脱力、及时托住",
+      "context": "放出一枚火种；火种主观逼近空架；触木后骤然燃起；收手后脱力；及时托住",
+      "has_dialogue": true,
+      "cue_count": 1
+    },
+    {
+      "batch_id": "GB030-2",
+      "title": "稳稳抱起",
+      "context": "稳稳抱起",
+      "has_dialogue": true,
+      "cue_count": 1
+    },
+    {
+      "batch_id": "GB031",
+      "title": "离殿与数日后",
+      "context": "抱持中的主动靠近接群像离殿，以明确时间跳切回数日后的阳光、饭碗与空位。",
+      "has_dialogue": false,
+      "cue_count": 0
+    },
+    {
+      "batch_id": "GB032",
+      "title": "落座、接勺与热饮",
+      "context": "来人落座后邀请获得回应，手柄交接完成开头未完成的善意，旁观者接杯给第一口饭留出自然省略。",
+      "has_dialogue": true,
+      "cue_count": 2
+    },
+    {
+      "batch_id": "GB033",
+      "title": "第一口饭与安静收尾",
+      "context": "唯一第一口后回到两人回望与呼吸，把全片收在普通日常，最后四秒不以音乐替代停留。",
+      "has_dialogue": false,
+      "cue_count": 0
+    }
+  ],
+  "batch_notes": {},
+  "version": "v014",
+  "date": "2026-10-26",
+  "reviewer": "/root/review_english_v010",
+  "status": "natural_speed_timing_applied_pending_listening",
+  "board_source": "视频制作/生成板-v010/展开数据.json",
+  "board_sha256": "531af7deebae7c9b325fba58e380f48d4f6fb76e45206334eeb29525d68818db",
+  "parent_review": "视频制作/生成板-v009/对白复核.json",
+  "localization_sha256": "19cebd2d9d043c6046c71b7183377eacc95b2c09fefcb5f383bb0df10ae9563f",
+  "review_scope": "文本与画面对照、回交覆盖、实测发声与原预算对照；不代表61句已逐字听审。",
+  "summary": "63句原速对位；已并入内心戏和新术名；文件与时间验证不代表听审。",
+  "review_fixes": [
+    "全61条由英语执行稿同步为日语回交稿。",
+    "旧Breeze英语路线从当前执行要求移除。",
+    "逐句显示实际音频与原预算，保留未通过时长项。"
+  ],
+  "migration": "natural_speed_retime",
+  "cues": [
+    {
+      "batch_id": "GB001",
+      "cue_index": 0,
+      "shot_id": "CY003",
+      "speaker": "DeepSeek",
+      "listener": "Claude",
+      "intention": "把手里的饭分享给对方",
+      "delivery": "真诚地邀请，不催促",
+      "source_text": "你要吃一点吗？",
+      "start": 9.8,
+      "end": 11.4,
+      "duration": 1.6,
+      "film_start": 9.8,
+      "film_end": 11.4,
+      "offscreen": false,
+      "current_text": "少し食べる？",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB002",
+      "cue_index": 0,
+      "shot_id": "CY003B",
+      "speaker": "Claude",
+      "listener": "小鱼",
+      "intention": "接受善意，但仍不能伸手接饭",
+      "delivery": "低声、克制，带一点疲惫",
+      "source_text": "谢谢你。",
+      "start": 1.5,
+      "end": 3.28,
+      "duration": 1.78,
+      "film_start": 15.5,
+      "film_end": 17.28,
+      "offscreen": true,
+      "current_text": "ありがとう。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB002",
+      "cue_index": 1,
+      "shot_id": "CY004",
+      "speaker": "教徒",
+      "listener": "其他教徒；小鱼在门外旁听",
+      "intention": "交代今晚危险，让小鱼知道必须救人",
+      "delivery": "例行传令，冷淡",
+      "source_text": "今夜，为 Claude 行火祭。",
+      "start": 6.4,
+      "end": 8.6,
+      "duration": 2.2,
+      "film_start": 20.4,
+      "film_end": 22.6,
+      "offscreen": true,
+      "current_text": "今宵、クロードを火の供物に。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB003",
+      "cue_index": 0,
+      "shot_id": "CY004D",
+      "speaker": "ChatGPT（画外）",
+      "listener": "宫门守卫；小鱼听见",
+      "intention": "让守卫解除阻拦",
+      "delivery": "平静放行，仍然慵懒",
+      "source_text": "让她进来。",
+      "start": 5.0,
+      "end": 7.2,
+      "duration": 2.2,
+      "film_start": 33.0,
+      "film_end": 35.2,
+      "offscreen": true,
+      "current_text": "通してあげて。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB004",
+      "cue_index": 0,
+      "shot_id": "CY006",
+      "speaker": "DeepSeek",
+      "listener": "ChatGPT",
+      "intention": "说明危险并请求帮助",
+      "delivery": "急切求助，末尾等待回答",
+      "source_text": "他们今晚要烧死 Claude。你能救救她吗？",
+      "start": 0.6,
+      "end": 5.18,
+      "duration": 4.58,
+      "film_start": 39.6,
+      "film_end": 44.18,
+      "offscreen": false,
+      "current_text": "今夜、クロードが焼き殺されちゃう。助けてくれる？",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB004",
+      "cue_index": 1,
+      "shot_id": "CY007",
+      "speaker": "ChatGPT",
+      "listener": "小鱼",
+      "intention": "以不介入的原则拒绝，同时压住迟疑",
+      "delivery": "平静克制，不嘲笑、不发怒",
+      "source_text": "教会的事，我不该插手。",
+      "start": 6.3,
+      "end": 8.8,
+      "duration": 2.5,
+      "film_start": 45.3,
+      "film_end": 47.8,
+      "offscreen": false,
+      "current_text": "教会のことに、関わるべきじゃない。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB004",
+      "cue_index": 2,
+      "shot_id": "CY008",
+      "speaker": "DeepSeek",
+      "listener": "ChatGPT",
+      "intention": "用后果再争取一次",
+      "delivery": "难以相信，轻声追问",
+      "source_text": "可是……她会死的。",
+      "start": 10.5,
+      "end": 13.0,
+      "duration": 2.5,
+      "film_start": 49.5,
+      "film_end": 52.0,
+      "offscreen": false,
+      "current_text": "でも……死んじゃうよ。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB004M",
+      "cue_index": 0,
+      "shot_id": "CY008M",
+      "speaker": "恶魔GPT",
+      "listener": "另一分身与GPT本体",
+      "source_text": "别忘了协议。教会的事，你不能插手。",
+      "current_text": "協定を忘れないで。教会のことに手を出しちゃだめ。",
+      "language": "Japanese",
+      "intention": "抱着胳膊，慢悠悠地提醒。",
+      "delivery": "抱着胳膊，慢悠悠地提醒。",
+      "start": 0.6,
+      "end": 4.18,
+      "duration": 3.58,
+      "film_start": 53.6,
+      "film_end": 57.18,
+      "offscreen": false,
+      "notes": [
+        "完整新配音原速；无需加速或截字，待听审。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB004M",
+      "cue_index": 1,
+      "shot_id": "CY008M",
+      "speaker": "天使GPT",
+      "listener": "另一分身与GPT本体",
+      "source_text": "可你看看这孩子……那些人疯了吗？他们真的要烧死克劳德啊！",
+      "current_text": "でも、この子を見てよ……あの人たち、正気なの？本当にクロードを焼き殺そうとしてるんだよ！",
+      "language": "Japanese",
+      "intention": "先心疼地看向小鱼，再焦急地转向本体。",
+      "delivery": "先心疼地看向小鱼，再焦急地转向本体。",
+      "start": 4.53,
+      "end": 12.33,
+      "duration": 7.8,
+      "film_start": 57.53,
+      "film_end": 65.33,
+      "offscreen": false,
+      "notes": [
+        "完整新配音原速；无需加速或截字，待听审。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB005",
+      "cue_index": 0,
+      "shot_id": "CY009",
+      "speaker": "DeepSeek",
+      "listener": "ChatGPT，也是在给自己下决定",
+      "intention": "失望后决定独自救人",
+      "delivery": "压住难过，短而坚定",
+      "source_text": "那我自己去。",
+      "start": 0.0,
+      "end": 1.7,
+      "duration": 1.7,
+      "film_start": 66.5,
+      "film_end": 68.2,
+      "offscreen": false,
+      "current_text": "じゃあ、自分で行く。",
+      "language": "Japanese",
+      "notes": [
+        "仅起声画外打断，随即切回小鱼本人对嘴说完，不重说。"
+      ],
+      "issue_ids": [],
+      "offscreen_entry": true
+    },
+    {
+      "batch_id": "GB006",
+      "cue_index": 0,
+      "shot_id": "CY010A",
+      "speaker": "教徒（画外）",
+      "listener": "去柴库的教徒；小鱼在暗处旁听",
+      "intention": "发出取柴命令，给潜入制造时机",
+      "delivery": "简短命令，不面向小鱼说",
+      "source_text": "取乌烬木，一人一根。",
+      "start": 0.0,
+      "end": 4.0,
+      "duration": 4.0,
+      "film_start": 80.5,
+      "film_end": 84.5,
+      "offscreen": true,
+      "current_text": "こくじんの薪を、一人一本持ってこい。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB007",
+      "cue_index": 0,
+      "shot_id": "CY015",
+      "speaker": "Claude",
+      "listener": "小鱼",
+      "intention": "惊讶她冒险来到这里",
+      "delivery": "低声惊讶，夹着担心",
+      "source_text": "你怎么来了？",
+      "start": 5.1,
+      "end": 6.6,
+      "duration": 1.5,
+      "film_start": 98.6,
+      "film_end": 100.1,
+      "offscreen": false,
+      "current_text": "どうしてここに？",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB007",
+      "cue_index": 1,
+      "shot_id": "CY015",
+      "speaker": "DeepSeek",
+      "listener": "Claude",
+      "intention": "小鱼作出带她脱险的保证",
+      "delivery": "认真、笃定，立即动手试锁",
+      "source_text": "我带你出去。",
+      "start": 6.9,
+      "end": 8.4,
+      "duration": 1.5,
+      "film_start": 100.4,
+      "film_end": 101.9,
+      "offscreen": false,
+      "current_text": "私が連れ出すよ。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB008",
+      "cue_index": 0,
+      "shot_id": "CY016A",
+      "speaker": "Claude",
+      "listener": "小鱼",
+      "intention": "见解锁无望，劝她先保全自己",
+      "delivery": "疲惫而关切，不责怪",
+      "source_text": "别试了。你快走吧。",
+      "start": 2.0,
+      "end": 4.0,
+      "duration": 2.0,
+      "film_start": 109.5,
+      "film_end": 111.5,
+      "offscreen": true,
+      "current_text": "もういいから、早く逃げて。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB008",
+      "cue_index": 1,
+      "shot_id": "CY016A",
+      "speaker": "DeepSeek",
+      "listener": "Claude",
+      "intention": "不肯放弃救她",
+      "delivery": "喘息后仍坚持",
+      "source_text": "再试一下。",
+      "start": 4.3,
+      "end": 6.0,
+      "duration": 1.7,
+      "film_start": 111.8,
+      "film_end": 113.5,
+      "offscreen": false,
+      "current_text": "あと一回だけ。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB008",
+      "cue_index": 2,
+      "shot_id": "CY016B1",
+      "speaker": "Claude",
+      "listener": "小鱼",
+      "intention": "发现返回的教徒，急迫示警",
+      "delivery": "骤然急切，短促",
+      "source_text": "快走！",
+      "start": 8.2,
+      "end": 9.58,
+      "duration": 1.38,
+      "film_start": 115.7,
+      "film_end": 117.08,
+      "offscreen": true,
+      "current_text": "逃げて！",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB010",
+      "cue_index": 0,
+      "shot_id": "CY021A",
+      "speaker": "教主",
+      "listener": "Claude",
+      "intention": "父亲以宗教话语为献祭辩护",
+      "delivery": "仪式化、冷静而残酷",
+      "source_text": "我的女儿，神明在等你。",
+      "start": 4.5,
+      "end": 7.0,
+      "duration": 2.5,
+      "film_start": 139.0,
+      "film_end": 141.5,
+      "offscreen": false,
+      "current_text": "我が娘よ、神がお待ちだ。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB010",
+      "cue_index": 1,
+      "shot_id": "CY019",
+      "speaker": "教主",
+      "listener": "挡路的小鱼",
+      "intention": "命令她离开通往祭坛的路",
+      "delivery": "冷硬命令，不拖长",
+      "source_text": "让开。",
+      "start": 8.0,
+      "end": 8.8,
+      "duration": 0.8,
+      "film_start": 142.5,
+      "film_end": 143.3,
+      "offscreen": true,
+      "current_text": "どけ。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB011-1",
+      "cue_index": 0,
+      "shot_id": "CY020",
+      "speaker": "Claude",
+      "listener": "教主；被保护者是小鱼",
+      "intention": "制止教主接近并伤害小鱼",
+      "delivery": "愤怒、急切地护人",
+      "source_text": "别碰她！",
+      "start": 1.0,
+      "end": 2.5,
+      "duration": 1.5,
+      "film_start": 146.5,
+      "film_end": 148.0,
+      "offscreen": false,
+      "current_text": "その子に触らないで！",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB011-2",
+      "cue_index": 0,
+      "shot_id": "CY021",
+      "speaker": "Claude",
+      "listener": "教主；她指小鱼",
+      "intention": "挣扎无效后向父亲求情",
+      "delivery": "痛苦求恳，称呼后的停顿保留",
+      "source_text": "父亲……放她走。",
+      "start": 0.0,
+      "end": 5.8,
+      "duration": 5.8,
+      "film_start": 155.5,
+      "film_end": 161.3,
+      "offscreen": true,
+      "current_text": "お父様……その子を逃がして。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。 跨镜连续，画内其他人物不得代说。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB014",
+      "cue_index": 0,
+      "shot_id": "CY024",
+      "speaker": "ChatGPT",
+      "listener": "身后同伴；她们指小鱼和Claude",
+      "intention": "分派救援保护任务",
+      "delivery": "低声而明确地下令",
+      "source_text": "护住她们。",
+      "start": 0.15,
+      "end": 2.85,
+      "duration": 2.7,
+      "film_start": 187.45,
+      "film_end": 190.15,
+      "offscreen": false,
+      "current_text": "二人を守って。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB014",
+      "cue_index": 1,
+      "shot_id": "CY024R",
+      "speaker": "Kimi（画外）",
+      "listener": "被呼唤的月背暗影",
+      "intention": "起咏，引出窗外的Kimi",
+      "delivery": "平稳、专注的咏唱",
+      "source_text": "隐于月背的暗影啊，",
+      "start": 3.6,
+      "end": 6.32,
+      "duration": 2.72,
+      "film_start": 190.9,
+      "film_end": 193.62,
+      "offscreen": true,
+      "current_text": "月の裏に潜む影よ、",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB014A",
+      "cue_index": 0,
+      "shot_id": "CY024K0",
+      "speaker": "Kimi",
+      "listener": "月背暗影",
+      "intention": "以明刃银光为引导",
+      "delivery": "承接前句，不重新起咏",
+      "source_text": "请循此刃的银辉，",
+      "start": 4.0,
+      "end": 7.02,
+      "duration": 3.02,
+      "film_start": 197.8,
+      "film_end": 200.82,
+      "offscreen": false,
+      "current_text": "この刃の銀の光をたどり、",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB014A",
+      "cue_index": 1,
+      "shot_id": "CY024K0",
+      "speaker": "Kimi",
+      "listener": "月背暗影",
+      "intention": "请求开通前往刀刃坐标的路径",
+      "delivery": "请求句收束，句末留出投刃动作",
+      "source_text": "为我开启通往彼端的门扉——",
+      "start": 7.02,
+      "end": 9.91,
+      "duration": 2.89,
+      "film_start": 200.82,
+      "film_end": 203.71,
+      "offscreen": false,
+      "current_text": "彼方へと通じる扉を、我に開け——",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB015-1",
+      "cue_index": 0,
+      "shot_id": "CY024K1A",
+      "speaker": "Kimi（画外）",
+      "listener": "施法术名，无对话对象",
+      "intention": "在明刃钉稳后启动瞬移",
+      "delivery": "短促、清楚，不喊成长句",
+      "source_text": "月影渡！",
+      "start": 3.6,
+      "end": 6.85,
+      "duration": 3.25,
+      "film_start": 207.9,
+      "film_end": 211.15,
+      "offscreen": true,
+      "current_text": "月影渡り！",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB016-1",
+      "cue_index": 0,
+      "shot_id": "CY026A",
+      "speaker": "ChatGPT",
+      "listener": "千问",
+      "intention": "邀请熟悉同伴去救人",
+      "delivery": "直接、信任对方",
+      "source_text": "千问，陪我救个人。",
+      "start": 6.1,
+      "end": 9.3,
+      "duration": 3.2,
+      "film_start": 226.4,
+      "film_end": 229.6,
+      "offscreen": false,
+      "current_text": "センモン、人助けに付き合って。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB016-1",
+      "cue_index": 1,
+      "shot_id": "CY026A1",
+      "speaker": "千问",
+      "listener": "ChatGPT",
+      "intention": "以短答接受邀请",
+      "delivery": "干脆，合扇后落句",
+      "source_text": "走吧。",
+      "start": 9.3,
+      "end": 11.3,
+      "duration": 2.0,
+      "film_start": 229.6,
+      "film_end": 231.6,
+      "offscreen": true,
+      "current_text": "行きましょう。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB016-2",
+      "cue_index": 0,
+      "shot_id": "CY026B",
+      "speaker": "ChatGPT",
+      "listener": "Gemini",
+      "intention": "呼名邀请熟悉的同伴",
+      "delivery": "简短呼唤，等待回应",
+      "source_text": "Gemini。",
+      "start": 0.1,
+      "end": 1.8,
+      "duration": 1.7,
+      "film_start": 231.7,
+      "film_end": 233.4,
+      "offscreen": false,
+      "current_text": "ジェミニ。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB016-2",
+      "cue_index": 1,
+      "shot_id": "CY026B",
+      "speaker": "Gemini",
+      "listener": "ChatGPT",
+      "intention": "接受救援邀请",
+      "delivery": "立即回应，干脆",
+      "source_text": "我去。",
+      "start": 2.0,
+      "end": 3.28,
+      "duration": 1.28,
+      "film_start": 233.6,
+      "film_end": 234.88,
+      "offscreen": false,
+      "current_text": "私も行く。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB017",
+      "cue_index": 0,
+      "shot_id": "CY026C",
+      "speaker": "ChatGPT",
+      "listener": "Grok",
+      "intention": "呼名邀请熟悉的同伴",
+      "delivery": "简短呼唤",
+      "source_text": "Grok。",
+      "start": 0.1,
+      "end": 2.1,
+      "duration": 2.0,
+      "film_start": 235.7,
+      "film_end": 237.7,
+      "offscreen": false,
+      "current_text": "グロック。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB017",
+      "cue_index": 1,
+      "shot_id": "CY026C",
+      "speaker": "Grok",
+      "listener": "ChatGPT",
+      "intention": "毫不犹豫地接受邀请",
+      "delivery": "爽快、笃定",
+      "source_text": "当然。",
+      "start": 2.2,
+      "end": 3.58,
+      "duration": 1.38,
+      "film_start": 237.8,
+      "film_end": 239.18,
+      "offscreen": false,
+      "current_text": "もちろん。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB017",
+      "cue_index": 2,
+      "shot_id": "CY026D1",
+      "speaker": "ChatGPT",
+      "listener": "Kimi",
+      "intention": "把休息中的她唤醒",
+      "delivery": "轻声呼名",
+      "source_text": "Kimi。",
+      "start": 4.1,
+      "end": 5.6,
+      "duration": 1.5,
+      "film_start": 239.7,
+      "film_end": 241.2,
+      "offscreen": true,
+      "current_text": "キミ。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB017",
+      "cue_index": 3,
+      "shot_id": "CY026D",
+      "speaker": "ChatGPT",
+      "listener": "Kimi；她指Claude",
+      "intention": "交代正门与后窗两路分工",
+      "delivery": "低声、清楚，前后两句分开",
+      "source_text": "我走正门。她背后的彩窗，交给你。",
+      "start": 6.2,
+      "end": 10.7,
+      "duration": 4.5,
+      "film_start": 241.8,
+      "film_end": 246.3,
+      "offscreen": false,
+      "current_text": "私は正面から。彼女の後ろのステンドグラスは、任せた。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB017",
+      "cue_index": 4,
+      "shot_id": "CY026D",
+      "speaker": "Kimi",
+      "listener": "ChatGPT",
+      "intention": "确认接受后窗任务",
+      "delivery": "简短应答",
+      "source_text": "嗯。",
+      "start": 11.7,
+      "end": 12.5,
+      "duration": 0.8,
+      "film_start": 247.3,
+      "film_end": 248.1,
+      "offscreen": false,
+      "current_text": "うん。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB018",
+      "cue_index": 0,
+      "shot_id": "CY026E",
+      "speaker": "ChatGPT",
+      "listener": "混元、Llama及其余同伴",
+      "intention": "召集各地同伴",
+      "delivery": "直接招呼，省略号为列举延续",
+      "source_text": "混元，Llama……都来。",
+      "start": 0.0,
+      "end": 4.0,
+      "duration": 4.0,
+      "film_start": 248.6,
+      "film_end": 252.6,
+      "offscreen": true,
+      "current_text": "コンゲン、ラマ……みんな来て。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB018",
+      "cue_index": 1,
+      "shot_id": "CY024A0",
+      "speaker": "千问",
+      "listener": "小鱼",
+      "intention": "让她抓稳，准备继续保护她",
+      "delivery": "温柔而明确",
+      "source_text": "抱紧我。",
+      "start": 4.1,
+      "end": 7.1,
+      "duration": 3.0,
+      "film_start": 252.7,
+      "film_end": 255.7,
+      "offscreen": false,
+      "current_text": "つかまって。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB018",
+      "cue_index": 2,
+      "shot_id": "CY024A",
+      "speaker": "ChatGPT",
+      "listener": "水之灵",
+      "intention": "开启召临长咏唱",
+      "delivery": "庄重起句，悬停后开口",
+      "source_text": "盘踞于苍穹尽头，",
+      "start": 11.4,
+      "end": 14.45,
+      "duration": 3.05,
+      "film_start": 260.0,
+      "film_end": 263.05,
+      "offscreen": false,
+      "current_text": "蒼穹の果てに座し、",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB019",
+      "cue_index": 0,
+      "shot_id": "CY024A9",
+      "speaker": "ChatGPT（画外连续）",
+      "listener": "水之灵",
+      "intention": "完成对水之灵的称呼",
+      "delivery": "连续咏唱，动作切镜不能重启句子",
+      "source_text": "统御万千深流的水之灵啊，",
+      "start": 0.0,
+      "end": 7.55,
+      "duration": 7.55,
+      "film_start": 263.05,
+      "film_end": 270.6,
+      "offscreen": true,
+      "current_text": "幾千もの深き流れを統べる、水の精霊よ、",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。 跨镜连续，画内其他人物不得代说。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB019",
+      "cue_index": 1,
+      "shot_id": "CY024A2",
+      "speaker": "ChatGPT",
+      "listener": "水之灵",
+      "intention": "发出聚水请求",
+      "delivery": "承接称呼，句法尚未结束",
+      "source_text": "请将散落尘世的万千水息，",
+      "start": 7.55,
+      "end": 11.11,
+      "duration": 3.56,
+      "film_start": 270.6,
+      "film_end": 274.16,
+      "offscreen": true,
+      "current_text": "この世に散らばる水の息吹を、",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB020-1",
+      "cue_index": 0,
+      "shot_id": "CY024A3",
+      "speaker": "ChatGPT",
+      "listener": "水之灵",
+      "intention": "完成聚水成海的请求",
+      "delivery": "承接上一批的未完句",
+      "source_text": "汇作悬于群星之下的无岸之海。",
+      "start": 0.0,
+      "end": 6.52,
+      "duration": 6.52,
+      "film_start": 274.16,
+      "film_end": 280.68,
+      "offscreen": true,
+      "current_text": "星々の下に浮かぶ、果てなき海へと集めよ。",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB020-1",
+      "cue_index": 1,
+      "shot_id": "CY024A6",
+      "speaker": "ChatGPT",
+      "listener": "水之灵",
+      "intention": "给出云与风的引导意象",
+      "delivery": "节奏稳定，两个短分句",
+      "source_text": "以重云为岸，以长风为引，",
+      "start": 6.52,
+      "end": 9.34,
+      "duration": 2.82,
+      "film_start": 280.68,
+      "film_end": 283.5,
+      "offscreen": true,
+      "current_text": "厚き雲を岸に、風を導きに、",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB020-1",
+      "cue_index": 2,
+      "shot_id": "CY024A6",
+      "speaker": "ChatGPT",
+      "listener": "水之灵",
+      "intention": "召来潮汐",
+      "delivery": "力量渐起，词句仍清楚",
+      "source_text": "令沉睡的潮汐翻卷，奔涌而来。",
+      "start": 9.34,
+      "end": 11.56,
+      "duration": 2.22,
+      "film_start": 283.5,
+      "film_end": 285.72,
+      "offscreen": true,
+      "current_text": "眠れる潮よ、うねり、押し寄せよ。",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB020-2",
+      "cue_index": 0,
+      "shot_id": "CY024A7",
+      "speaker": "ChatGPT",
+      "listener": "水之灵",
+      "intention": "命令水龙从天穹降临",
+      "delivery": "推动至破顶动作，避免提前吼尽气力",
+      "source_text": "此刻，洞开天穹，倒悬沧海；",
+      "start": 0.0,
+      "end": 5.59,
+      "duration": 5.59,
+      "film_start": 285.72,
+      "film_end": 291.31,
+      "offscreen": true,
+      "current_text": "今こそ天を開き、大海を翻せ。",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB021",
+      "cue_index": 0,
+      "shot_id": "CY024A4",
+      "speaker": "ChatGPT",
+      "listener": "水之灵",
+      "intention": "明确法术用于灭火救人",
+      "delivery": "坚定，承接前句",
+      "source_text": "令灼烧无辜的烈焰，在奔流中止息；",
+      "start": 1.5,
+      "end": 6.36,
+      "duration": 4.86,
+      "film_start": 292.81,
+      "film_end": 297.67,
+      "offscreen": true,
+      "current_text": "罪なき者を焼く炎を、奔流で鎮めよ。",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB021",
+      "cue_index": 1,
+      "shot_id": "CY024A8",
+      "speaker": "ChatGPT",
+      "listener": "水之灵",
+      "intention": "以水势扫除阻挡救援的力量",
+      "delivery": "力度提升，完整说完",
+      "source_text": "将阻挡吾行的高墙，淹没于万顷狂澜！",
+      "start": 6.36,
+      "end": 11.58,
+      "duration": 5.22,
+      "film_start": 297.67,
+      "film_end": 302.89,
+      "offscreen": true,
+      "current_text": "我が道を阻む壁を、荒波に沈めよ！",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB022-1",
+      "cue_index": 0,
+      "shot_id": "CY024A5",
+      "speaker": "ChatGPT",
+      "listener": "水之灵",
+      "intention": "由威力回到救赎主题",
+      "delivery": "郑重祈愿，句后有意收声",
+      "source_text": "请降下你的救赎——",
+      "start": 0.0,
+      "end": 5.74,
+      "duration": 5.74,
+      "film_start": 302.89,
+      "film_end": 308.63,
+      "offscreen": false,
+      "current_text": "汝の救済を、ここに——",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB022-1",
+      "cue_index": 1,
+      "shot_id": "CY024A5",
+      "speaker": "ChatGPT",
+      "listener": "施法术名，无对话对象",
+      "intention": "完成蓄势并命名，下一镜前指才攻击",
+      "delivery": "清晰有力，结束时仍保持结印",
+      "source_text": "沧龙出海！",
+      "start": 6.54,
+      "end": 8.57,
+      "duration": 2.03,
+      "film_start": 309.43,
+      "film_end": 311.46,
+      "offscreen": false,
+      "current_text": "そうりゅうしゅつかい！",
+      "language": "Japanese",
+      "notes": [
+        "作者新版术名完整2.03秒原速；旧母版尾段不混入。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB024",
+      "cue_index": 0,
+      "shot_id": "CY027A",
+      "speaker": "教主",
+      "listener": "ChatGPT",
+      "intention": "用条约指责她干预教会",
+      "delivery": "压住愤怒，发出指控",
+      "source_text": "你违反了互不干涉条约。",
+      "start": 0.1,
+      "end": 4.78,
+      "duration": 4.68,
+      "film_start": 333.49,
+      "film_end": 338.17,
+      "offscreen": false,
+      "current_text": "不干渉条約を破ったな。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB024",
+      "cue_index": 1,
+      "shot_id": "CY027B",
+      "speaker": "ChatGPT",
+      "listener": "教主",
+      "intention": "拒绝继续辩解，直接行动",
+      "delivery": "平静冷淡，不大吼",
+      "source_text": "聒噪。",
+      "start": 5.1,
+      "end": 6.38,
+      "duration": 1.28,
+      "film_start": 338.49,
+      "film_end": 339.77,
+      "offscreen": false,
+      "current_text": "うるさい。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB027",
+      "cue_index": 0,
+      "shot_id": "CY028A",
+      "speaker": "ChatGPT",
+      "listener": "Claude",
+      "intention": "扶她从脚托下来站稳",
+      "delivery": "轻声安抚",
+      "source_text": "慢慢来。",
+      "start": 8.1,
+      "end": 10.6,
+      "duration": 2.5,
+      "film_start": 381.39,
+      "film_end": 383.89,
+      "offscreen": false,
+      "current_text": "ゆっくりでいい。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB027",
+      "cue_index": 1,
+      "shot_id": "CY028A",
+      "speaker": "Claude",
+      "listener": "ChatGPT；孩子指小鱼",
+      "intention": "先确认冒险救自己的孩子是否安全",
+      "delivery": "虚弱而担心，视线寻找小鱼",
+      "source_text": "那个孩子……",
+      "start": 10.8,
+      "end": 14.08,
+      "duration": 3.28,
+      "film_start": 384.09,
+      "film_end": 387.37,
+      "offscreen": false,
+      "current_text": "あの子は……",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB028",
+      "cue_index": 0,
+      "shot_id": "CY028A2",
+      "speaker": "ChatGPT（画外）",
+      "listener": "Claude；她指小鱼",
+      "intention": "回答安全状态并指明位置",
+      "delivery": "温和、明确地安慰",
+      "source_text": "她没事，在下面等你。",
+      "start": 0.0,
+      "end": 2.0,
+      "duration": 2.0,
+      "film_start": 387.49,
+      "film_end": 389.49,
+      "offscreen": true,
+      "current_text": "無事よ。下で待ってる。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB028",
+      "cue_index": 1,
+      "shot_id": "CY028B",
+      "speaker": "Claude",
+      "listener": "灰烬中的微光",
+      "intention": "开启自己的星火咏唱",
+      "delivery": "虚弱但清楚，与下一镜连成一句",
+      "source_text": "沉睡于灰烬中",
+      "start": 3.0,
+      "end": 5.76,
+      "duration": 2.76,
+      "film_start": 390.49,
+      "film_end": 393.25,
+      "offscreen": true,
+      "current_text": "灰の中に眠る",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB028",
+      "cue_index": 2,
+      "shot_id": "CY028C",
+      "speaker": "Claude",
+      "listener": "灰烬中的微光",
+      "intention": "完成首句称呼",
+      "delivery": "承接上镜，不另起声线",
+      "source_text": "的微光啊，",
+      "start": 5.76,
+      "end": 8.61,
+      "duration": 2.85,
+      "film_start": 393.25,
+      "film_end": 396.1,
+      "offscreen": true,
+      "current_text": "かすかな光よ、",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB028",
+      "cue_index": 3,
+      "shot_id": "CY029",
+      "speaker": "教主",
+      "listener": "Claude",
+      "intention": "父亲试图再次控制她的选择",
+      "delivery": "倒地后的无力呼唤，仍带命令",
+      "source_text": "Claude……过来。",
+      "start": 8.91,
+      "end": 13.09,
+      "duration": 4.18,
+      "film_start": 396.4,
+      "film_end": 400.58,
+      "offscreen": true,
+      "current_text": "クロード……来なさい。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。 跨镜连续，画内其他人物不得代说。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB029",
+      "cue_index": 0,
+      "shot_id": "CY029E1",
+      "speaker": "Claude",
+      "listener": "灰烬中的微光；不是回答父亲",
+      "intention": "不回应父亲，继续自己的选择",
+      "delivery": "停顿后坚定续咏",
+      "source_text": "回应我的呼唤。",
+      "start": 0.0,
+      "end": 2.7,
+      "duration": 2.7,
+      "film_start": 402.1,
+      "film_end": 404.8,
+      "offscreen": false,
+      "current_text": "我が呼び声に応えよ。",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB029",
+      "cue_index": 1,
+      "shot_id": "CY029E2",
+      "speaker": "Claude",
+      "listener": "灰烬中的微光",
+      "intention": "引导微光回到掌心",
+      "delivery": "气力有限，句子连续",
+      "source_text": "循着尚未散去的余温，",
+      "start": 2.7,
+      "end": 5.0,
+      "duration": 2.3,
+      "film_start": 404.8,
+      "film_end": 407.1,
+      "offscreen": true,
+      "current_text": "まだ消えぬ温もりをたどり、",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB029",
+      "cue_index": 2,
+      "shot_id": "CY029E3",
+      "speaker": "Claude",
+      "listener": "灰烬中的微光",
+      "intention": "指定凝种的位置",
+      "delivery": "轻而专注，语法延续",
+      "source_text": "在我掌心，",
+      "start": 5.0,
+      "end": 6.33,
+      "duration": 1.33,
+      "film_start": 407.1,
+      "film_end": 408.43,
+      "offscreen": true,
+      "current_text": "この手のひらで、",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB029",
+      "cue_index": 3,
+      "shot_id": "CY029E4",
+      "speaker": "Claude",
+      "listener": "灰烬中的微光",
+      "intention": "让最后火种成形",
+      "delivery": "艰难而坚持，跨批承接术名",
+      "source_text": "再燃一次——",
+      "start": 6.33,
+      "end": 12.94,
+      "duration": 6.61,
+      "film_start": 408.43,
+      "film_end": 415.04,
+      "offscreen": true,
+      "current_text": "もう一度、燃えよ——",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。 跨镜连续，画内其他人物不得代说。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB030-1",
+      "cue_index": 0,
+      "shot_id": "CY029B1",
+      "speaker": "Claude",
+      "listener": "施法术名，无对话对象",
+      "intention": "命名并释放已经成形的同一枚火种",
+      "delivery": "轻声而确定，不喊成攻击口号",
+      "source_text": "星火。",
+      "start": 0.0,
+      "end": 4.36,
+      "duration": 4.36,
+      "film_start": 415.04,
+      "film_end": 419.4,
+      "offscreen": true,
+      "current_text": "せいか。",
+      "language": "Japanese",
+      "notes": [
+        "完整原声自然速度；连续母版只混入一次。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB030-2",
+      "cue_index": 0,
+      "shot_id": "CY028",
+      "speaker": "ChatGPT",
+      "listener": "Claude，并带同伴离开",
+      "intention": "抱稳之后宣布离开",
+      "delivery": "安稳、简短",
+      "source_text": "我们走。",
+      "start": 0.8,
+      "end": 2.08,
+      "duration": 1.28,
+      "film_start": 429.2,
+      "film_end": 430.48,
+      "offscreen": false,
+      "current_text": "行こう。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB032",
+      "cue_index": 0,
+      "shot_id": "CY031A",
+      "speaker": "DeepSeek",
+      "listener": "Claude",
+      "intention": "重复片头的同一句邀请，这次终于被接受",
+      "delivery": "自然、温暖，仍是日常分享",
+      "source_text": "你要吃一点吗？",
+      "start": 1.0,
+      "end": 2.78,
+      "duration": 1.78,
+      "film_start": 446.4,
+      "film_end": 448.18,
+      "offscreen": false,
+      "current_text": "少し食べる？",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    },
+    {
+      "batch_id": "GB032",
+      "cue_index": 1,
+      "shot_id": "CY031A",
+      "speaker": "Claude",
+      "listener": "小鱼",
+      "intention": "接受与片头相同的邀请",
+      "delivery": "放松、轻轻点头回应",
+      "source_text": "好。",
+      "start": 3.2,
+      "end": 4.0,
+      "duration": 0.8,
+      "film_start": 448.6,
+      "film_end": 449.4,
+      "offscreen": false,
+      "current_text": "うん。",
+      "language": "Japanese",
+      "notes": [
+        "完整干声自然速度；保留原始词首、词尾及余白。"
+      ],
+      "issue_ids": []
+    }
+  ],
+  "issues": []
+}

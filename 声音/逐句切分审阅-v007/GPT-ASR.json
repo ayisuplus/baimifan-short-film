@@ -1,0 +1,61 @@
+{
+  "source": "声音/正式配音准备-v006/已选原件/GPT.mp3",
+  "source_sha256": "435e183162ab22ac9e13d55775fd3bf434fefb55cff3a2e055f3386ef7d403fe",
+  "seconds": 29.1526875,
+  "model": "C:\\Users\\36322\\.cache\\huggingface\\hub\\models--openai--whisper-small\\snapshots\\973afd24965f72e36ca33b3055d56a652f456b4d",
+  "method": "offline Whisper-small; unprompted Japanese word timestamps; not human listening or performance approval",
+  "result": {
+    "text": "二人を守って 気を気水のぬしよう水よ蕎え 雲の上に海をなせ炎を沈ね 罪なき者に救いようそう流天系 ゆっくりでいい無よ。 下で待ってる。協定を忘れないで。 それで、見殺しにするの?",
+    "chunks": [
+      {
+        "text": "二人を守って",
+        "timestamp": [
+          0.0,
+          1.24
+        ]
+      },
+      {
+        "text": " 気を気水のぬしよう水よ蕎え",
+        "timestamp": [
+          1.24,
+          6.76
+        ]
+      },
+      {
+        "text": " 雲の上に海をなせ炎を沈ね",
+        "timestamp": [
+          6.76,
+          12.16
+        ]
+      },
+      {
+        "text": " 罪なき者に救いようそう流天系",
+        "timestamp": [
+          12.16,
+          17.86
+        ]
+      },
+      {
+        "text": " ゆっくりでいい無よ。",
+        "timestamp": [
+          17.86,
+          22.68
+        ]
+      },
+      {
+        "text": " 下で待ってる。協定を忘れないで。",
+        "timestamp": [
+          22.68,
+          27.02
+        ]
+      },
+      {
+        "text": " それで、見殺しにするの?",
+        "timestamp": [
+          27.02,
+          29.14
+        ]
+      }
+    ]
+  }
+}

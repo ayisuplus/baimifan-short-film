@@ -1,0 +1,165 @@
+{
+  "version": "v049",
+  "date": "2026-10-25",
+  "base": "镜头设计/shot-plan-v0.48r1.json",
+  "generator": "built-in image_gen",
+  "scope": "三项连续性修正，GPT大招仅讨论未实施",
+  "initial_batch_error": "CY016/CY016D首次并行尝试在输出安全审查报sexual/violence，未获得输出；缩小为纯道具/背景局部编辑后分别成功。首次失败归属不明，不伪造某镜失败结论。",
+  "items": [
+    {
+      "shot": "CY015",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-fb18fd9c-46be-4775-bb53-10e3f0159a8e.png",
+      "input": {
+        "referenced_image_paths": [
+          "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/天瀑空间-v014/CY015-v014-r4.png",
+          "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/天瀑空间-v014/CY013A-v014-r3.png",
+          "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/天瀑空间-v014/CY016B-v014-r3.png"
+        ],
+        "transparent_background": false,
+        "prompt": "Precise continuity correction for an existing anime film frame. Image 1 is the ONLY edit target: preserve its exact 16:9 composition, camera, characters, faces, clothes, poses, outstretched restrained arms, hands, chains, architecture, color and lighting. Image 2 is a reference ONLY for the low black firewood around the base of the fixed narrow FOOT SUPPORT, not a seat. Add those same low piles of unlit short black split logs around the foot support on its two sides and in front, below the bare toes, localized to the cross base; leave the blue girl's feet and standing area clear. Do not add tall wood or burning wood. Image 3 is reference ONLY for the closed waist PADLOCK: replace the long thin shield-shaped waist lock in image 1 with this same squat rectangular dark bronze padlock with a rounded shackle, ornate gold edging, and ONE large central classic keyhole. Scale lock naturally to the waist chain, closed, touched by the girl's existing hands; preserve hand anatomy and interaction. Keep all other pixels/composition as close as possible. One full-frame edited still, no collage, no captions, no text or prompt panel."
+      },
+      "filename": "CY015-v049-r1.png"
+    },
+    {
+      "shot": "CY016",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-29225efe-8232-439d-a5cb-1b3ddb2e077f.png",
+      "input": {
+        "referenced_image_paths": [
+          "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/天瀑空间-v014/CY016-v014-r4.png",
+          "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/天瀑空间-v014/CY016B-v014-r3.png"
+        ],
+        "transparent_background": false,
+        "prompt": "Edit ONLY the small metal prop near the center of image 1. Match the decorative padlock to the prop shown in reference image 2: squat rectangular dark bronze body, rounded shackle, gold decorative border, one central keyhole. Keep its existing chain attachment. All people and all other image content must stay exactly unchanged: do not redraw faces, bodies, expressions, clothing or hands. No new action, injury, nudity, violence or sexual content. No reframing, no text. One full-frame 16:9 image."
+      },
+      "filename": "CY016-v049-r1.png"
+    },
+    {
+      "shot": "CY016D",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-c8d8ec4a-6103-4f80-9a01-556c16645426.png",
+      "input": {
+        "referenced_image_paths": [
+          "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火祭因果-v040/CY016D-v040-r2.png",
+          "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/祭坛长椅连续性-v023/CY012-v023-r8.png"
+        ],
+        "transparent_background": false,
+        "prompt": "Edit ONLY the two hanging architectural lantern fixtures in image 1. Reference image 2 shows the correct fixture: ONE large open circular iron candle chandelier mounted high overhead on the central nave axis. Remove the two hanging enclosed cage lanterns in image 1, restore the background behind them, and add the single reference-style candle ring at the TOP EDGE, partially cropped to fit this existing camera; thin suspension chains continue upward outside frame. Preserve all people and their existing depiction exactly, do not modify any character, action, clothes, hands, faces, fire bowls, ground candles, architecture, other objects, composition, lighting or colors. This is a background lighting-fixture continuity edit only, no new action, harm, nudity, violence or sexual content. No text. One full 16:9 image."
+      },
+      "filename": "CY016D-v049-r1.png"
+    },
+    {
+      "shot": "CY017",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-cc3681c0-37c1-4edc-a2fc-498caac20b28.png",
+      "input": {
+        "referenced_image_paths": [
+          "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火祭因果-v040/CY017-v040-r1.png",
+          "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/祭坛长椅连续性-v023/CY012-v023-r8.png"
+        ],
+        "prompt": "Precise architectural fixture correction. Image 1 is the ONLY target. Image 2 is ONLY a fixture/placement reference for the same church: ONE high central open circular iron candle chandelier. In image 1 remove every enclosed hanging cage lantern and restore the existing background behind it. Place ONE matching thin open dark iron candle ring high above the nave centerline near the TOP EDGE, with small upright candles and fine suspension chains going offscreen above. Respect this camera's perspective and cropping: the upper part may be outside the frame; never lower the chandelier over people's heads or create two rings. Keep EVERY person, expression, face, hand, body pose, clothing, carried object, other props, fire bowls and ground candles absolutely unchanged. Keep original framing, stairs, windows, materials, lighting, colors. Background-fixture edit only, no new action, harm, nudity or sexual content. One full-frame 16:9 still, no text, no collage.",
+        "transparent_background": false
+      },
+      "filename": "CY017-v049-r1.png"
+    },
+    {
+      "shot": "CY018",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-fb168d4a-5387-44b0-9a69-6c8d1f368db2.png",
+      "input": {
+        "referenced_image_paths": [
+          "C:/Users/36322/.codex/generated_images/01a16925-a797-71a2-9c39-4f481f8b65a6/exec-7ce76003-b4e1-412e-83f6-dd90c0625abb.png"
+        ],
+        "transparent_background": false,
+        "prompt": "One tiny background continuity fix only: the circular chandelier is currently visually too low and overlaps the distant wooden cross/figure. Raise the SAME chandelier vertically mostly OUTSIDE the TOP of this existing image. Only a very thin short portion of its lowest curved iron rim may peek in at the top edge, wholly within the top 3 percent of frame; almost all candles and the rest of the ring are cropped OUT. Restore all windows/stone/background where the old low ring was. Leave a broad CLEAR GAP of background above the wooden cross. Do NOT move the camera, any person, face, hands, bodies, objects, logs, steps, flames, lighting or colors. Do not add any new fixture. This is solely relocating a background ceiling light outside the camera crop; all character depiction unchanged, no added action or harm. Same full-frame image, no text."
+      },
+      "filename": "CY018-v049-r2.png",
+      "previous": {
+        "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-7ce76003-b4e1-412e-83f6-dd90c0625abb.png",
+        "input": {
+          "referenced_image_paths": [
+            "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火祭因果-v040/CY018-v040-r1.png",
+            "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/祭坛长椅连续性-v023/CY012-v023-r8.png"
+          ],
+          "prompt": "Precise architectural fixture correction. Image 1 is the ONLY target. Image 2 is ONLY a fixture/placement reference for the same church: ONE high central open circular iron candle chandelier. In image 1 remove every enclosed hanging cage lantern and restore the existing background behind it. Place ONE matching thin open dark iron candle ring high above the nave centerline near the TOP EDGE, with small upright candles and fine suspension chains going offscreen above. Respect this camera's perspective and cropping: the upper part may be outside the frame; never lower the chandelier over people's heads or create two rings. Keep EVERY person, expression, face, hand, body pose, clothing, carried object, other props, fire bowls and ground candles absolutely unchanged. Keep original framing, stairs, windows, materials, lighting, colors. Background-fixture edit only, no new action, harm, nudity or sexual content. One full-frame 16:9 still, no text, no collage.",
+          "transparent_background": false
+        },
+        "filename": "CY018-v049-r1.png",
+        "reason": "烛环位置偏低，与后方十字架接近；抬高出上缘"
+      }
+    },
+    {
+      "shot": "CY019",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-a637af15-cbe7-4682-bdfe-0dd9e6577a83.png",
+      "input": {
+        "referenced_image_paths": [
+          "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火祭因果-v040/CY019-v040-r1.png",
+          "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/祭坛长椅连续性-v023/CY012-v023-r8.png"
+        ],
+        "prompt": "Precise architectural fixture correction. Image 1 is the ONLY target. Image 2 is ONLY a fixture/placement reference for the same church: ONE high central open circular iron candle chandelier. In image 1 remove every enclosed hanging cage lantern and restore the existing background behind it. Place ONE matching thin open dark iron candle ring high above the nave centerline near the TOP EDGE, with small upright candles and fine suspension chains going offscreen above. Respect this camera's perspective and cropping: the upper part may be outside the frame; never lower the chandelier over people's heads or create two rings. Keep EVERY person, expression, face, hand, body pose, clothing, carried object, other props, fire bowls and ground candles absolutely unchanged. Keep original framing, stairs, windows, materials, lighting, colors. Background-fixture edit only, no new action, harm, nudity or sexual content. One full-frame 16:9 still, no text, no collage.",
+        "transparent_background": false
+      },
+      "filename": "CY019-v049-r1.png"
+    },
+    {
+      "shot": "CY020A",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-8df11bb5-ec14-4c4b-8bdf-baba92fa2c87.png",
+      "input": {
+        "referenced_image_paths": [
+          "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火祭因果-v040/CY020A-v040-r1.png",
+          "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/祭坛长椅连续性-v023/CY012-v023-r8.png"
+        ],
+        "prompt": "Precise architectural fixture correction. Image 1 is the ONLY target. Image 2 is ONLY a fixture/placement reference for the same church: ONE high central open circular iron candle chandelier. In image 1 remove every enclosed hanging cage lantern and restore the existing background behind it. Place ONE matching thin open dark iron candle ring high above the nave centerline near the TOP EDGE, with small upright candles and fine suspension chains going offscreen above. Respect this camera's perspective and cropping: the upper part may be outside the frame; never lower the chandelier over people's heads or create two rings. Keep EVERY person, expression, face, hand, body pose, clothing, carried object, other props, fire bowls and ground candles absolutely unchanged. Keep original framing, stairs, windows, materials, lighting, colors. Background-fixture edit only, no new action, harm, nudity or sexual content. One full-frame 16:9 still, no text, no collage. Important spatial constraint: the chandelier's lowest edge must remain well ABOVE the top of the distant wooden cross, with a clear background gap. Most of the chandelier may be outside the TOP crop. Do not move or resize any person or the camera to make room.",
+        "transparent_background": false
+      },
+      "filename": "CY020A-v049-r1.png"
+    },
+    {
+      "shot": "CY021",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-cdd05be1-c293-4b7a-bd21-b20f5bd39da8.png",
+      "input": {
+        "referenced_image_paths": [
+          "C:/Users/36322/.codex/generated_images/01a16925-a797-71a2-9c39-4f481f8b65a6/exec-0189bedb-1f64-43fa-9a4d-0702eb160476.png"
+        ],
+        "transparent_background": false,
+        "prompt": "One tiny background continuity fix only: the circular chandelier is currently visually too low and overlaps the distant wooden cross/figure. Raise the SAME chandelier vertically mostly OUTSIDE the TOP of this existing image. Only a very thin short portion of its lowest curved iron rim may peek in at the top edge, wholly within the top 3 percent of frame; almost all candles and the rest of the ring are cropped OUT. Restore all windows/stone/background where the old low ring was. Leave a broad CLEAR GAP of background above the wooden cross. Do NOT move the camera, any person, face, hands, bodies, objects, logs, steps, flames, lighting or colors. Do not add any new fixture. This is solely relocating a background ceiling light outside the camera crop; all character depiction unchanged, no added action or harm. Same full-frame image, no text."
+      },
+      "filename": "CY021-v049-r2.png",
+      "previous": {
+        "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-0189bedb-1f64-43fa-9a4d-0702eb160476.png",
+        "input": {
+          "referenced_image_paths": [
+            "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火祭因果-v040/CY021-v040-r1.png",
+            "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/祭坛长椅连续性-v023/CY012-v023-r8.png"
+          ],
+          "prompt": "Precise architectural fixture correction. Image 1 is the ONLY target. Image 2 is ONLY a fixture/placement reference for the same church: ONE high central open circular iron candle chandelier. In image 1 remove every enclosed hanging cage lantern and restore the existing background behind it. Place ONE matching thin open dark iron candle ring high above the nave centerline near the TOP EDGE, with small upright candles and fine suspension chains going offscreen above. Respect this camera's perspective and cropping: the upper part may be outside the frame; never lower the chandelier over people's heads or create two rings. Keep EVERY person, expression, face, hand, body pose, clothing, carried object, other props, fire bowls and ground candles absolutely unchanged. Keep original framing, stairs, windows, materials, lighting, colors. Background-fixture edit only, no new action, harm, nudity or sexual content. One full-frame 16:9 still, no text, no collage. Important spatial constraint: the chandelier's lowest edge must remain well ABOVE the top of the distant wooden cross, with a clear background gap. Most of the chandelier may be outside the TOP crop. Do not move or resize any person or the camera to make room.",
+          "transparent_background": false
+        },
+        "filename": "CY021-v049-r1.png",
+        "reason": "烛环位置偏低，与后方十字架接近；抬高出上缘"
+      }
+    },
+    {
+      "shot": "CY022A",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-6e7777af-fff9-4499-ac4a-dc10b31c93be.png",
+      "input": {
+        "referenced_image_paths": [
+          "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火祭因果-v040/CY022A-v040-r1.png",
+          "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/祭坛长椅连续性-v023/CY012-v023-r8.png"
+        ],
+        "prompt": "Precise architectural fixture correction. Image 1 is the ONLY target. Image 2 is ONLY a fixture/placement reference for the same church: ONE high central open circular iron candle chandelier. In image 1 remove every enclosed hanging cage lantern and restore the existing background behind it. Place ONE matching thin open dark iron candle ring high above the nave centerline near the TOP EDGE, with small upright candles and fine suspension chains going offscreen above. Respect this camera's perspective and cropping: the upper part may be outside the frame; never lower the chandelier over people's heads or create two rings. Keep EVERY person, expression, face, hand, body pose, clothing, carried object, other props, fire bowls and ground candles absolutely unchanged. Keep original framing, stairs, windows, materials, lighting, colors. Background-fixture edit only, no new action, harm, nudity or sexual content. One full-frame 16:9 still, no text, no collage. Important spatial constraint: the chandelier's lowest edge must remain well ABOVE the top of the distant wooden cross, with a clear background gap. Most of the chandelier may be outside the TOP crop. Do not move or resize any person or the camera to make room.",
+        "transparent_background": false
+      },
+      "filename": "CY022A-v049-r1.png"
+    },
+    {
+      "shot": "CY022A1",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-cd2e27c3-57c6-4bdf-b72d-8600523f1340.png",
+      "input": {
+        "referenced_image_paths": [
+          "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/目光与入场-v048/CY022A1-v048-r1.png",
+          "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/祭坛长椅连续性-v023/CY012-v023-r8.png"
+        ],
+        "prompt": "Precise architectural fixture correction. Image 1 is the ONLY target. Image 2 is ONLY a fixture/placement reference for the same church: ONE high central open circular iron candle chandelier. In image 1 remove every enclosed hanging cage lantern and restore the existing background behind it. Place ONE matching thin open dark iron candle ring high above the nave centerline near the TOP EDGE, with small upright candles and fine suspension chains going offscreen above. Respect this camera's perspective and cropping: the upper part may be outside the frame; never lower the chandelier over people's heads or create two rings. Keep EVERY person, expression, face, hand, body pose, clothing, carried object, other props, fire bowls and ground candles absolutely unchanged. Keep original framing, stairs, windows, materials, lighting, colors. Background-fixture edit only, no new action, harm, nudity or sexual content. One full-frame 16:9 still, no text, no collage. Important spatial constraint: the chandelier's lowest edge must remain well ABOVE the top of the distant wooden cross, with a clear background gap. Most of the chandelier may be outside the TOP crop. Do not move or resize any person or the camera to make room.",
+        "transparent_background": false
+      },
+      "filename": "CY022A1-v049-r1.png"
+    }
+  ]
+}

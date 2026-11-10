@@ -1,0 +1,111 @@
+{
+  "status": "three_previews_saved_pending_author_selection",
+  "source": "剧本\\白米饭-日语对白-v0.69.json",
+  "source_sha256": "f652eb4cb0f7759bcb90f84a1e2072367f00125d3bd7883bc5284ccc4c283477",
+  "role": "Claude",
+  "voice_description": "Native Japanese, standard Japanese. An adult female character in a dramatic fantasy anime. A gentle, sincere voice with a resilient core. Quiet thanks sound intimate and natural; a plea for someone else carries emotional conviction. Clear spoken delivery that can grow into a determined magical invocation. Studio-quality recording.",
+  "text": "ありがとう……\nどうしてここに？\nもういいから、早く逃げて。\n逃げて！\nその子に触らないで！\nお父様……その子だけは、帰して。\nあの子は……\n灰に眠る、かすかな光よ。\nこの手に、やどれ。\nもう一度、もえよ――\nせいか。\nうん。",
+  "line_ids": [
+    "VO-CY003B-01",
+    "VO-CY015-01",
+    "VO-CY016A-01",
+    "VO-CY016B1-01",
+    "VO-CY020-01",
+    "VO-CY021-01",
+    "VO-CY028A-02",
+    "VO-CY028B-01",
+    "VO-CY029E1-01",
+    "VO-CY029E4-01",
+    "VO-CY029B1-01",
+    "VO-CY031A-02"
+  ],
+  "reading_substitutions": {
+    "宿れ": "やどれ",
+    "燃えよ": "もえよ",
+    "星火": "せいか"
+  },
+  "seed": 815536,
+  "loudness": 0.5,
+  "guidanceScale": 5,
+  "web_displayed_credits": 113,
+  "web_model": "not_exposed_not_assumed",
+  "generation_route": "ElevenLabs web Voice Design",
+  "download_route": "official existing preview GET stream; no new synthesis",
+  "previews": [
+    {
+      "index": 1,
+      "generated_voice_id": "4wi31aA0XL3Yknn9UT4M",
+      "file": "Claude-1.mp3",
+      "bytes": 638267,
+      "mime": "audio/mpeg",
+      "sha256": "13fed1a0af3a5d348dea33d014dec7206ef835c0fdc5ff888cee1aee41774cc8",
+      "adopted": false,
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "26.592625"
+        }
+      },
+      "decode_ok": true
+    },
+    {
+      "index": 2,
+      "generated_voice_id": "PzFMueJzG7GK8XwRDzXl",
+      "file": "Claude-2.mp3",
+      "bytes": 737950,
+      "mime": "audio/mpeg",
+      "sha256": "81709822912e6fc95b8924db7d49652c7824c9e006cb84b0b843e36035ac17e0",
+      "adopted": false,
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "30.746083"
+        }
+      },
+      "decode_ok": true
+    },
+    {
+      "index": 3,
+      "generated_voice_id": "udBHmU9WzIbPIzBDfZq4",
+      "file": "Claude-3.mp3",
+      "bytes": 789986,
+      "mime": "audio/mpeg",
+      "sha256": "d5aa55e8a133151ec4c07ba5967c27a287eb0a702318e21ecd27cffdd7ff0db5",
+      "adopted": false,
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "32.914250"
+        }
+      },
+      "decode_ok": true
+    }
+  ],
+  "registered_voice": false,
+  "timeline_modified": false,
+  "listening_approval": false
+}

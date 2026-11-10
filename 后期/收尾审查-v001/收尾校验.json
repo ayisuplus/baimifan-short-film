@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-26",
+  "board": "视频制作/生成板-v011/生成板.html",
+  "independent_reviews": [
+    "final_japanese_audio_audit",
+    "final_dialogue_continuity",
+    "final_bgm_audit"
+  ],
+  "all_61_returned_texts_match": true,
+  "all_68_prompt_files_japanese_dialogue": true,
+  "ui_audio_controls": 61,
+  "ui_margin_items_visible": true,
+  "http_pages": 3,
+  "sample_audio_range_status": 206,
+  "delivered_csv_unchanged": true,
+  "spoken_audio_word_review": false,
+  "continuous_mix_listening": false,
+  "video_generation_performed": false,
+  "submission_ready": false
+}

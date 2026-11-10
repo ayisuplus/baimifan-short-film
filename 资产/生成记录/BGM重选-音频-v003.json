@@ -1,0 +1,407 @@
+{
+  "version": "v003",
+  "date": "2026-10-24",
+  "music": [
+    {
+      "id": "BGM-CY-AM-01",
+      "bvid": "BV1HW41187A4",
+      "part": 1,
+      "title": "Lines for the Sadness",
+      "display_title": "悲伤的线条",
+      "work": "魔法使的新娘",
+      "composer": "松本淳一",
+      "source_page_title": "Lines for the Sadness",
+      "navigation_translation": "中文曲名为导航释义；原名保留。",
+      "cid": 28511838,
+      "source": "https://www.bilibili.com/video/BV1HW41187A4/?p=1",
+      "uploader": "天使动漫",
+      "video_title": "【魔法使的新娘】OST原声集正式版 插曲收录",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-AM-01.m4a",
+      "bytes": 3813237,
+      "sha256": "d772b01ed7839eb8976ea3988b59e8789b67f0bc818bd155bac39195140a21f8",
+      "duration": 229.6525,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bit_rate": "132010"
+          }
+        ],
+        "format": {
+          "duration": "229.652500"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-AM-30",
+      "bvid": "BV1HW41187A4",
+      "part": 30,
+      "title": "弓のアンソロジー",
+      "display_title": "弓弦选集",
+      "work": "魔法使的新娘",
+      "composer": "松本淳一",
+      "source_page_title": "弓のアンソロジー",
+      "navigation_translation": "中文曲名为导航释义；原名保留。",
+      "cid": 28511867,
+      "source": "https://www.bilibili.com/video/BV1HW41187A4/?p=30",
+      "uploader": "天使动漫",
+      "video_title": "【魔法使的新娘】OST原声集正式版 插曲收录",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-AM-30.m4a",
+      "bytes": 2857801,
+      "sha256": "d09265d9295415620f6dc2176b4e842623ec2cf98d07e1ce8530d5de7e3b4ffa",
+      "duration": 172.095167,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bit_rate": "131781"
+          }
+        ],
+        "format": {
+          "duration": "172.095167"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-AM-14",
+      "bvid": "BV1HW41187A4",
+      "part": 14,
+      "title": "Taboo Gimmick",
+      "display_title": "禁忌机关",
+      "work": "魔法使的新娘",
+      "composer": "松本淳一",
+      "source_page_title": "Taboo Gimmick",
+      "navigation_translation": "中文曲名为导航释义；原名保留。",
+      "cid": 28511851,
+      "source": "https://www.bilibili.com/video/BV1HW41187A4/?p=14",
+      "uploader": "天使动漫",
+      "video_title": "【魔法使的新娘】OST原声集正式版 插曲收录",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-AM-14.m4a",
+      "bytes": 2261203,
+      "sha256": "ad40424c66c19b99100850c7d214d509e97091c440a64466b2e829ab63f85b00",
+      "duration": 136.1485,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bit_rate": "131967"
+          }
+        ],
+        "format": {
+          "duration": "136.148500"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-AM-18",
+      "bvid": "BV1HW41187A4",
+      "part": 18,
+      "title": "In the Ancient Forest",
+      "display_title": "古老森林之中",
+      "work": "魔法使的新娘",
+      "composer": "松本淳一",
+      "source_page_title": "In the Ancient Forest",
+      "navigation_translation": "中文曲名为导航释义；原名保留。",
+      "cid": 28511855,
+      "source": "https://www.bilibili.com/video/BV1HW41187A4/?p=18",
+      "uploader": "天使动漫",
+      "video_title": "【魔法使的新娘】OST原声集正式版 插曲收录",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-AM-18.m4a",
+      "bytes": 1924890,
+      "sha256": "94cc204f00af594756ad703faf840a6c5abb5b7d97ab78a8abb1571c0b0d6005",
+      "duration": 115.881833,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bit_rate": "131959"
+          }
+        ],
+        "format": {
+          "duration": "115.881833"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-AM-26",
+      "bvid": "BV1HW41187A4",
+      "part": 26,
+      "title": "Black Windy Days",
+      "display_title": "黑风之日",
+      "work": "魔法使的新娘",
+      "composer": "松本淳一",
+      "source_page_title": "Black Windy Days",
+      "navigation_translation": "中文曲名为导航释义；原名保留。",
+      "cid": 28511863,
+      "source": "https://www.bilibili.com/video/BV1HW41187A4/?p=26",
+      "uploader": "天使动漫",
+      "video_title": "【魔法使的新娘】OST原声集正式版 插曲收录",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-AM-26.m4a",
+      "bytes": 2201260,
+      "sha256": "a876b4ab70681b94d0f9182b67f02e631af083145d29c64feb3e070040939286",
+      "duration": 132.521833,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bit_rate": "131814"
+          }
+        ],
+        "format": {
+          "duration": "132.521833"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-FR-13",
+      "bvid": "BV1U6BfBCE5o",
+      "part": 13,
+      "title": "Before the Light Fades",
+      "display_title": "在光芒消逝之前",
+      "work": "葬送的芙莉莲",
+      "composer": "Evan Call",
+      "source_page_title": "13.Before the Light Fades",
+      "navigation_translation": "中文曲名为导航释义；原名保留。",
+      "cid": 35547250939,
+      "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=13",
+      "uploader": "高速公路的残像",
+      "video_title": "《葬送的芙莉莲》原声带",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-FR-13.m4a",
+      "bytes": 1627525,
+      "sha256": "a0d1ea50fdc3a556164d6bf63255e5e9fd04033ba782e07b0c0e4c84ba83cb84",
+      "duration": 126.362766,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "95653"
+          }
+        ],
+        "format": {
+          "duration": "126.362766"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-FR-40",
+      "bvid": "BV1U6BfBCE5o",
+      "part": 40,
+      "title": "Deep in the Dungeon",
+      "display_title": "迷宫深处",
+      "work": "葬送的芙莉莲",
+      "composer": "Evan Call",
+      "source_page_title": "40.Deep in the Dungeon",
+      "navigation_translation": "中文曲名为导航释义；原名保留。",
+      "cid": 35569863708,
+      "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=40",
+      "uploader": "高速公路的残像",
+      "video_title": "《葬送的芙莉莲》原声带",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-FR-40.m4a",
+      "bytes": 1403052,
+      "sha256": "bcb4259f1baaf884b54ccabb88553365540e4b2d872eae5507bd580734021678",
+      "duration": 113.847211,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "92927"
+          }
+        ],
+        "format": {
+          "duration": "113.847211"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-FR-53",
+      "bvid": "BV1U6BfBCE5o",
+      "part": 53,
+      "title": "Knife to the Throat",
+      "display_title": "刀锋抵喉",
+      "work": "葬送的芙莉莲",
+      "composer": "Evan Call",
+      "source_page_title": "53.Knife to the Throat",
+      "navigation_translation": "中文曲名为导航释义；原名保留。",
+      "cid": 35577988950,
+      "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=53",
+      "uploader": "高速公路的残像",
+      "video_title": "《葬送的芙莉莲》原声带",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-FR-53.m4a",
+      "bytes": 1526882,
+      "sha256": "6f01b576c95a0fb75bc7e79503e6d0971acc96a71b8fd29f9f2f6f58a5fb9332",
+      "duration": 127.059365,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "98214"
+          }
+        ],
+        "format": {
+          "duration": "127.059365"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-RZ-01",
+      "bvid": "BV1Gs411W7UB",
+      "part": 1,
+      "title": "沈黙のレクイエム",
+      "display_title": "沉默的镇魂曲",
+      "work": "Re：从零开始的异世界生活",
+      "composer": "末廣健一郎",
+      "source_page_title": "",
+      "navigation_translation": "中文曲名为导航释义；原名保留。",
+      "cid": 11565122,
+      "source": "https://www.bilibili.com/video/BV1Gs411W7UB/?p=1",
+      "uploader": "达叔是逗比",
+      "video_title": "【末廣健一郎】沉默的镇魂曲-Elegy for Rem原版【ost】",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-RZ-01.m4a",
+      "bytes": 7039930,
+      "sha256": "15ff41df0917bd4415b7750ede29e192e647d93dc7a40d70f5daea5610c18fb9",
+      "duration": 424.127833,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bit_rate": "132087"
+          }
+        ],
+        "format": {
+          "duration": "424.127833"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-PN-01",
+      "bvid": "BV1wt411y7VQ",
+      "part": 1,
+      "title": "Long, Long Time Ago",
+      "display_title": "很久很久以前",
+      "work": "潘神的迷宫",
+      "composer": "Javier Navarrete",
+      "source_page_title": "《Long, Long Time Ago》优美的女生吟唱——2006潘神的迷宫-西班牙",
+      "navigation_translation": "中文曲名为导航释义；原名保留。",
+      "cid": 64124046,
+      "source": "https://www.bilibili.com/video/BV1wt411y7VQ/?p=1",
+      "uploader": "法尔梅大兄弟",
+      "video_title": "《Long, Long Time Ago》优美的女生吟唱——2006潘神的迷宫-西班牙",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-PN-01.m4a",
+      "bytes": 3077245,
+      "sha256": "1eec84fba62c85c869a158a73a96e071a1253f25bf5debcfe50c1cd61c286b87",
+      "duration": 189.631833,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bit_rate": "128638"
+          }
+        ],
+        "format": {
+          "duration": "189.631833"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    }
+  ],
+  "listening_status": "Technical decoding validated; shot assignments are audition hypotheses for author comparison."
+}

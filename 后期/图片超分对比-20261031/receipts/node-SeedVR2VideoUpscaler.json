@@ -1,0 +1,254 @@
+{
+  "schema": "envelope/1",
+  "type": "envelope",
+  "ok": true,
+  "command": "nodes show",
+  "version": "1.22.0",
+  "where": "local",
+  "data": {
+    "id": "SeedVR2VideoUpscaler",
+    "name": "SeedVR2VideoUpscaler",
+    "display_name": "SeedVR2 Video Upscaler (v2.5.24)",
+    "description": "SeedVR2 main upscaling node: processes video frames using DiT and VAE models with diffusion-based enhancement. Handles RGB/RGBA formats, maintains temporal consistency across frames, applies color correction, and manages VRAM through intelligent tensor offloading. \n\nRequires DiT and VAE model configurations.",
+    "category": "SEEDVR2",
+    "output_types": [
+      "IMAGE"
+    ],
+    "output_node": false,
+    "is_api_node": false,
+    "deprecated": false,
+    "pack": "seedvr2_videoupscaler",
+    "labels": [],
+    "cloud_disabled": false,
+    "inputs": [
+      {
+        "name": "image",
+        "type": "IMAGE",
+        "required": true,
+        "is_link": true,
+        "section": "required",
+        "choices": [],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": null
+        }
+      },
+      {
+        "name": "dit",
+        "type": "SEEDVR2_DIT",
+        "required": true,
+        "is_link": true,
+        "section": "required",
+        "choices": [],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": null
+        }
+      },
+      {
+        "name": "vae",
+        "type": "SEEDVR2_VAE",
+        "required": true,
+        "is_link": true,
+        "section": "required",
+        "choices": [],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": null
+        }
+      },
+      {
+        "name": "seed",
+        "type": "INT",
+        "required": true,
+        "is_link": false,
+        "section": "required",
+        "choices": [],
+        "options": {
+          "min": 0,
+          "max": 4294967295,
+          "step": 1,
+          "default": 42
+        }
+      },
+      {
+        "name": "resolution",
+        "type": "INT",
+        "required": true,
+        "is_link": false,
+        "section": "required",
+        "choices": [],
+        "options": {
+          "min": 16,
+          "max": 16384,
+          "step": 2,
+          "default": 1080
+        }
+      },
+      {
+        "name": "max_resolution",
+        "type": "INT",
+        "required": true,
+        "is_link": false,
+        "section": "required",
+        "choices": [],
+        "options": {
+          "min": 0,
+          "max": 16384,
+          "step": 2,
+          "default": 0
+        }
+      },
+      {
+        "name": "batch_size",
+        "type": "INT",
+        "required": true,
+        "is_link": false,
+        "section": "required",
+        "choices": [],
+        "options": {
+          "min": 1,
+          "max": 16384,
+          "step": 4,
+          "default": 5
+        }
+      },
+      {
+        "name": "uniform_batch_size",
+        "type": "BOOLEAN",
+        "required": true,
+        "is_link": false,
+        "section": "required",
+        "choices": [],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": false
+        }
+      },
+      {
+        "name": "color_correction",
+        "type": "COMBO",
+        "required": true,
+        "is_link": false,
+        "section": "required",
+        "choices": [
+          "lab",
+          "wavelet",
+          "wavelet_adaptive",
+          "hsv",
+          "adain",
+          "none"
+        ],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": "lab"
+        }
+      },
+      {
+        "name": "temporal_overlap",
+        "type": "INT",
+        "required": false,
+        "is_link": false,
+        "section": "optional",
+        "choices": [],
+        "options": {
+          "min": 0,
+          "max": 16,
+          "step": 1,
+          "default": 0
+        }
+      },
+      {
+        "name": "prepend_frames",
+        "type": "INT",
+        "required": false,
+        "is_link": false,
+        "section": "optional",
+        "choices": [],
+        "options": {
+          "min": 0,
+          "max": 32,
+          "step": 1,
+          "default": 0
+        }
+      },
+      {
+        "name": "input_noise_scale",
+        "type": "FLOAT",
+        "required": false,
+        "is_link": false,
+        "section": "optional",
+        "choices": [],
+        "options": {
+          "min": 0.0,
+          "max": 1.0,
+          "step": 0.001,
+          "default": 0.0
+        }
+      },
+      {
+        "name": "latent_noise_scale",
+        "type": "FLOAT",
+        "required": false,
+        "is_link": false,
+        "section": "optional",
+        "choices": [],
+        "options": {
+          "min": 0.0,
+          "max": 1.0,
+          "step": 0.001,
+          "default": 0.0
+        }
+      },
+      {
+        "name": "offload_device",
+        "type": "COMBO",
+        "required": false,
+        "is_link": false,
+        "section": "optional",
+        "choices": [
+          "none",
+          "cpu",
+          "cuda:0"
+        ],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": "cpu"
+        }
+      },
+      {
+        "name": "enable_debug",
+        "type": "BOOLEAN",
+        "required": false,
+        "is_link": false,
+        "section": "optional",
+        "choices": [],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": false
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "IMAGE",
+        "type": "IMAGE"
+      }
+    ]
+  },
+  "error": null
+}

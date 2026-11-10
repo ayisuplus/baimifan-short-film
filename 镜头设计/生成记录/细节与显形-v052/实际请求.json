@@ -1,0 +1,153 @@
+[
+  {
+    "id": "CY018",
+    "input": {
+      "transparent_background": false,
+      "referenced_image_paths": [
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/连续性修复-v049/CY018-v049-r2.png",
+        "E:/projects/内容创作/故事短片/穿云/概念参考/02-DeepSeek-母版概念参考.webp"
+      ],
+      "prompt": "Precise local color correction of image1, preserve ALL composition, child pose/expression, character proportions, clothing, hair, lighting, cultists, wood and cathedral. Change ONLY both irises of the little blue whale-hat girl: restore her clear natural BLUE irises like image2, medium cool blue outer iris with lighter blue lower iris, dark pupils and original white tear highlights. Currently magenta/purple irises are wrong. No purple, red, amber or pink iris. Do not change eye shape, eyebrows, crying expression, face or hair hue. Image2 is eye-color identity reference only; don't copy its scene or happy expression. No text."
+    },
+    "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-367a9ab5-aab2-405f-9ad3-38e590159029.png"
+  },
+  {
+    "id": "CY021A",
+    "input": {
+      "transparent_background": false,
+      "referenced_image_paths": [
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/动作收尾-v015/CY021A-v015-r1.png"
+      ],
+      "prompt": "Local edit of exactly this anime image. Keep both men's identity, poses, hands gripping the SINGLE torch, black-gold vestments, framing, cathedral, stained glass. Replace ONLY the orange/red/yellow flame atop the hand-held torch with supernatural BLACK FLAME: opaque ink-black tongues with charcoal inner wisps and extremely thin muted violet-silver edges separating it from background. Clear tapered licking FLAME silhouette rising from torch cup, NOT round smoke cloud, not extinguished torch, not purple fire. Remove torch-caused bright red/orange reflections on their near hands/faces and replace them with restrained neutral/cool edge light; retain original golden costume trim and existing room light. No new magic ring, text, changes to anatomy or extra torch."
+    },
+    "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-0108b224-45fb-4ce5-923b-1a28afff559a.png"
+  },
+  {
+    "id": "CY024K00",
+    "input": {
+      "transparent_background": false,
+      "referenced_image_paths": [
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/月刃救援-v041/KIMI双刃-v041-r3.png",
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/目光与入场-v048/CY024K0-v048-r1.png"
+      ],
+      "prompt": "ONE cinematic 16:9 anime keyframe, NEW exterior full-body entrance of Kimi materializing in moonlight OUTSIDE the cathedral's central rear stained-glass window. Image1 locks exact lavender long hair, subtle violet eyes, headpiece, navy-and-white moon/star gothic dress, corset, boots and SMALL rounded crescent moon blades: RIGHT hand dark blade, LEFT hand bright silver blade; about forearm size, no enormous swords. Image2 locks rear cathedral window tracery and blue glass design ONLY, but CAMERA MUST BE OUTSIDE, not looking through glass from church interior. Exterior side three-quarter view: Gothic apse wall and one intact blue pointed central window frame at screen RIGHT, Kimi full head-to-boots floating in moonlit air immediately outside it at screen center-left, body and attentive gaze facing RIGHT toward the window. Actual distant moon in open sky at LEFT behind her, moonlight rim along hair and shoulders. She has just condensed from shadow: fully legible face/torso/legs with a few restrained dissolving dark/silver wisps trailing behind hair and hem on left, not transparent body, not sparkly sticker halo. Feet unsupported in air, skirt and long hair lifted by cold wind, no wings, no standing on a glowing disk. Both arms naturally lowered holding small blades, bright blade not thrown yet. Strong full-body silhouette, monumental nearby stone buttress gives scale and depth, moon physically behind not ring around head. Elegant determined presence, no blush. Glass completely INTACT, no cracks, no person behind glass, no interior altar, no magic circle/portal, no opaque shield yet, no typography or panels. Same fine detailed anime rendering as reference1; night exterior blue-silver with minimal warm spill through glass."
+    },
+    "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-e8bf5667-2d0d-48c4-b4a5-73885f6f3749.png"
+  },
+  {
+    "id": "CY024A9",
+    "input": {
+      "transparent_background": false,
+      "referenced_image_paths": [
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY024A9-v033-r1.png"
+      ],
+      "prompt": "Re-stage this 16:9 anime attack shot to have force and compressed perspective while preserving SAME adult red-haired gray-templed leader, golden eyes, ornate black-gold robes and intact gothic nave. Low 28mm close-medium three-quarter, leader on lower RIGHT, thrusting his anatomically RIGHT palm sharply toward upper LEFT with clear shoulder-elbow-wrist force line, left arm held back for counterbalance, torso twists into strike, cloak trails back. Five anatomically coherent fingers on one forward hand, natural foreshortening not monster palm. Fierce concentrated brows, clenched jaw, eyes track target high to upper left. From forward palm launch ONE concentrated dark-gold pointed MAGIC LANCE with dense bright core and substantial amber pressure flare at origin, dark tapering edges and sharp speed streaks toward upper-left frame. Main lance only forearm-width, NOT gigantic full-screen beam, NOT many projectiles, no ring or runes. Large near-palm flash and cloth recoil communicate launch force; lance tapers narrower as it flies so a subsequent flying metal fan blade can DEFLECT this single bolt (not stop a continuous cannon). Attack travels lower right to upper left, same as original. Reduce empty architecture above, use dark pillars and intact blue glass as streaked depth context. No water, no skyhole yet, no new characters, no blood, no text. Crisp face and contact with launch hand, motion softness only cloak edge/background. Strong moment of release, not casually holding out hand."
+    },
+    "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-422a2310-7ca9-4e06-a549-1b6add5612aa.png"
+  },
+  {
+    "id": "CY024B3",
+    "input": {
+      "transparent_background": false,
+      "referenced_image_paths": [
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/控水协作-v046/CY024B3-v046-r1.png"
+      ],
+      "prompt": "Recompose and correct this 16:9 anime frame of the SAME opaque deep-indigo protective dome on the cathedral altar platform. Critical author change: water NEXT TO DOME should be SMALL; floor may be WET, no artificially dry central lane needed. New camera a modest elevated three-quarter angle from left side aisle, 35mm, dome in upper-right midground rather than giant central ball. Preserve its established size relative to stone railing, dome fully opaque hides occupants, same calm dark lunar surface, not stretched egg. Show natural broad WET grey stone terrace with shallow silver-blue rippling water around dome base and across center, reflections, only ankle-deep or lower on open platform, no giant waves or vertical walls near dome. Several LOW irregular streams flow DOWN outside stair edges away from dome toward foreground, small foam at step drops, no perfectly symmetrical pair of tall whitewater banks. NO wave colliding into shield, no shield strain/glowing impact, no bending water magically around dry island. Depth from diagonal stairs and railings; far altar remains quiet. Same rear central blue stained-glass window has single existing irregular broken center with frame preserved; side windows intact and rear vault intact. All ordinary candles/braziers extinguished, soft moonlight, no fire. A few small charred wood fragments low in shallow runoff, no ruined furniture or floating pews. No people visible inside dome, no additional domes, water dragon or lightning, no symbols, text or panels. Calm aftermath image with believable water scale and gentle asymmetry, not symmetrical water palace."
+    },
+    "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-20be0f53-ad49-431d-81c4-8a4521b127e2.png"
+  },
+  {
+    "id": "CY024B1",
+    "input": {
+      "transparent_background": false,
+      "referenced_image_paths": [
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/控水协作-v046/CY024B1-v046-r1.png"
+      ],
+      "prompt": "Re-stage this 16:9 anime flood action using same black-gold hooded cultists and cathedral side stair architecture. Need physical WATER PUSH, not five people evenly posing in foam. Camera low at stair-side rail, 28mm close action, slightly diagonal, current runs from upper RIGHT background to lower LEFT foreground. ONE nearest cultist occupies center-left leaning hard downstream with torso twisted, sleeve pulled by flow, one open reaching hand has JUST SLIPPED OFF wet stone edge, clear gap between fingertips and ledge. Body weight pulled low, waist/chest buried in ONE thick rounded advancing blue wave crest, not standing straight. Two other cultists at distinct distances and DIFFERENT poses: midground one loses footing sideways with shoulder rotated, background one turns and raises arm too late. Don't align them in a row. A single loose staff spins low on water surface along current. Large near wave takes lower third, dark translucent blue volume and selective white foam along breaking front, directional spray passes near lens, not uniform white static confetti. Fluid momentum through foreground/background scale and tugged robes, no flying bodies, no injury detail, no blood. This is the LOWER OUTER SIDE STAIR, not beside friendly dome: far upper altar may appear only tiny at upper-right edge with opaque indigo dome and LOW calm water around it, no huge waves at dome, no artificially dry central lane. Intact side blue windows, already broken central rear window if seen, lamps extinguished, moonlit night. No water dragon head, no electricity, no new characters or text. Keep coherent arms/hands, no duplicate limbs, forceful readable silhouette."
+    },
+    "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-7d10143d-a319-4ae5-b996-cd6e9a69608b.png"
+  },
+  {
+    "id": "CY027F",
+    "input": {
+      "transparent_background": false,
+      "referenced_image_paths": [
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/目光与入场-v048/CY027F-v048-r1.png"
+      ],
+      "prompt": "Localized character-pose edit of this exact 16:9 anime group scene. Preserve camera, all background companions with exact number, faces/colors/poses, carried small blue child, defeated red-haired black-gold leader lying foreground LEFT, floor/body positions, roof hole, architecture, white dragon heroine's identity/costume/colors and natural violet eyes. Change ONLY central standing white dragon woman's pose/expression to quietly MOCK and LOOK DOWN at defeated leader: rotate head 20 degrees toward viewer LEFT, chin slightly lowered and eyes aimed clearly down at leader's face on floor lower left, not viewer; one eyebrow subtly raised, restrained asymmetrical cold half-smile, no blush. Upright relaxed shoulders, stable contrapposto on both grounded shoes, hips not excessively cocked, anatomical legs straight natural. Fold both forearms loosely at waist/chest in a simple coherent crossed-arm pose (two arms only, hands neatly resting on opposite forearms), no pointing, no reaching/picking key yet, no attacking or foot on enemy. White/lavender membrane wings naturally folded behind her, not opened to fight. Outfit slit and hair ornaments unchanged. It is a brief superior look before next shot uncrosses to take key, not pity, friendly smile, romantic gaze or action lunge. Preserve all other image content as faithfully as possible, no text."
+    },
+    "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-05b00613-0ed9-47fd-855e-1b622d31dfc4.png"
+  },
+  {
+    "id": "CY024K0",
+    "input": {
+      "transparent_background": false,
+      "referenced_image_paths": [
+        "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-e8bf5667-2d0d-48c4-b4a5-73885f6f3749.png"
+      ],
+      "prompt": "Create the next shot of this exact Kimi exterior entrance, same anime design, face, hair, costume, moonlight, side of action axis, church window at RIGHT. 16:9 waist-up three-quarter SIDE medium close shot, CAMERA STILL OUTSIDE the intact central rear stained glass, NOT interior silhouette. Kimi at LEFT/CENTER faces RIGHT toward window, face clear, calm intent violet eyes tracking the glass and target beyond, no blush. Her LEFT hand raises the same SMALL BRIGHT SILVER rounded crescent blade to shoulder height near the glass, fingers anatomically grip its inner handle, bent elbow poised to throw forward-right. Her RIGHT hand keeps the DARK crescent lowered at hip, only lower edge may be visible. Bright blade is single compact forearm-sized curved ring with cutout, not a huge disk or separate halo. Long hair and navy cape flow LEFT on the same wind, natural hands and shoulders. A strip of intact blue glass and carved stone frame at far right establishes where she will throw; no cracks or glass fragments yet. Show shoulder lift and concentration before release, not second appearance, not already inside or holding a shield. Fewer floating particles, fine cinematic detailed anime shading, no glyphs, portal, text or split panel."
+    },
+    "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-6c7e7ce2-d3b2-4b76-ab43-ba187fe8837f.png"
+  },
+  {
+    "id": "CY022A",
+    "input": {
+      "transparent_background": false,
+      "referenced_image_paths": [
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/连续性修复-v049/CY022A-v049-r1.png",
+        "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-0108b224-45fb-4ce5-923b-1a28afff559a.png"
+      ],
+      "prompt": "Precise local continuity edit of IMAGE1. IMAGE2 supplies ONLY the BLACK FLAME look for the SINGLE HANDHELD ritual torch: ink-black tongues with fine muted violet edge. Replace orange/red/yellow flame ON THE HANDHELD TORCH ONLY with that same black flame. Keep exact torch metal design, hand, body positions, all characters, clothes, camera, stone steps, intact stained glass, chandelier, wood pile and lighting. ALL FIXED candles/braziers retain original ordinary orange flame, do not turn them black. The wood pile remains UNLIT, do not add fire there. Preserve Claude standing bound, not seated. Preserve the child's blue iris, do not turn eyes purple or red.No other changes, no extra torch, no text."
+    },
+    "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-1b8038ef-1194-424c-b383-53d7109f2be4.png"
+  },
+  {
+    "id": "CY022A1",
+    "input": {
+      "transparent_background": false,
+      "referenced_image_paths": [
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/连续性修复-v049/CY022A1-v049-r1.png",
+        "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-0108b224-45fb-4ce5-923b-1a28afff559a.png"
+      ],
+      "prompt": "Precise local continuity edit of IMAGE1. IMAGE2 supplies ONLY the BLACK FLAME look for the SINGLE HANDHELD ritual torch: ink-black tongues with fine muted violet edge. Replace orange/red/yellow flame ON THE HANDHELD TORCH ONLY with that same black flame. Keep exact torch metal design, hand, body positions, all characters, clothes, camera, stone steps, intact stained glass, chandelier, wood pile and lighting. ALL FIXED candles/braziers retain original ordinary orange flame, do not turn them black. The wood pile remains UNLIT, do not add fire there. Preserve Claude standing bound, not seated. No other changes, no extra torch, no text."
+    },
+    "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-78a6b04e-1c5b-4dad-9fcc-37db5ac62148.png"
+  },
+  {
+    "id": "CY022",
+    "input": {
+      "transparent_background": false,
+      "referenced_image_paths": [
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火祭因果-v040/CY022-v040-r1.png",
+        "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-0108b224-45fb-4ce5-923b-1a28afff559a.png"
+      ],
+      "prompt": "Precise local continuity edit of IMAGE1. IMAGE2 supplies ONLY the BLACK FLAME look for the SINGLE HANDHELD ritual torch: ink-black tongues with fine muted violet edge. Replace orange/red/yellow flame ON THE HANDHELD TORCH ONLY with that same black flame. Keep exact torch metal design, hand, body positions, all characters, clothes, camera, stone steps, intact stained glass, chandelier, wood pile and lighting. ALL FIXED candles/braziers retain original ordinary orange flame, do not turn them black. At the torch/wood contact also remove orange flame tongues and make black fire connect continuously into the existing black-purple wood fire. Tiny warm EMBER cracks in resin wood may remain, not orange fire. Preserve closeup hand anatomy, same right-hand grip and torch angle.No other changes, no extra torch, no text."
+    },
+    "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-ff316c7b-d59f-47cc-9fda-3023dcfa50c3.png"
+  },
+  {
+    "id": "CY020B",
+    "input": {
+      "transparent_background": false,
+      "referenced_image_paths": [
+        "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-b8d3873c-65c3-46ed-bd50-69ca7e39b810.png"
+      ],
+      "prompt": "Correct ONLY two continuity errors in this exact new static two-shot. Keep camera, adult's contemptuous down-look and girl's upward gaze, both characters and cathedral, absence of pushing. 1) Torch must be in leader's ANATOMICALLY RIGHT HAND, the hand presently hanging DOWN on VIEWER LEFT side of his body near image center. Put the single black-flame torch in THAT right hand with right elbow comfortably bent and torch upright at upper-center, flame well above child's head with a clear safe space. His anatomically LEFT arm on viewer RIGHT now holds NO torch and lowers naturally at his side. Exactly one torch and two anatomically connected arms/hands, don't duplicate hands. Don't change facial identity. 2) Restore girl's clothes to complete intact navy fabric with white fur trims, same embroidered pattern and dress silhouette: remove the newly invented tears/holes exposing skin on sleeve and skirt, only light dust and scuffs allowed. Her irises should stay clear BLUE, not purple. No physical contact, keep the child blocking and looking up, no red flame, no changes to other details."
+    },
+    "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-a08fdb9a-f250-4642-892f-dbd9a5bf8cf1.png",
+    "rev": 2,
+    "previous_candidate": {
+      "id": "CY020B",
+      "input": {
+        "transparent_background": false,
+        "referenced_image_paths": [
+          "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火祭因果-v040/CY020B-v040-r2.png",
+          "E:/projects/内容创作/故事短片/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/苍龙雷渊-v031/CY024A8-v031-r3.png"
+        ],
+        "prompt": "Redesign image1 into a STILL, emotionally tense two-shot, 16:9 same rich anime style, Gothic church at night. Reference1 owns setting and wardrobe, ref2 exact blue-haired blue-eyed whale-hat LITTLE child's scale and face, ref3 exact adult red-haired gray-templed leader face/black-gold costume. Natural 50mm side three-quarter medium-wide at child's head height, NO ultra-wide distorted limbs or sprawling cloak. Small girl stands firmly at lower LEFT, feet planted, arms held out modestly to block path, neck/chin tilted UP, eyes looking at tall leader's FACE. Leader stands upright on RIGHT one stair higher, shoulders relaxed, chin slightly raised yet EYES lowered directly toward girl, restrained contemptuous half-smirk, unmistakable mutual eyeline. Keep a small clear air gap between them: NO pushing, grabbing, kicking or contact; neither falls, no action blur. Leader holds ONE torch in his anatomically RIGHT hand outboard away from child, with opaque BLACK flame and thin muted violet edge, no orange fire in this torch; left arm relaxed at side. Use height difference and unwavering stare for tension, don't enlarge child to adult or stretch man's arm. Warm room fire may remain behind, blue stained glass, intact roof. Girl tears/disheveled outfit from previous scene maintained, no purple eyes. No new dialogue, graphic text, panels or split-screen."
+      },
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-b8d3873c-65c3-46ed-bd50-69ca7e39b810.png"
+    }
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-23",
+  "version": "v004",
+  "source_plan": "镜头设计/shot-plan-v0.39.json",
+  "shots": 115,
+  "seconds": 381,
+  "new_tracks": 25,
+  "current_accessible_candidates": 30,
+  "archived_tracks": 1,
+  "new_candidates_by_work": {
+    "无职转生": 15,
+    "纳尼亚传奇": 5,
+    "指环王": 5
+  },
+  "S01_S04_per_shot_candidates": {
+    "shots": 46,
+    "candidates_each": 3
+  },
+  "S02_S04_priority_shots": 38,
+  "S05_S06_previous_bindings_unchanged": 69,
+  "all_non_bgm_embedded_fields_unchanged": true,
+  "all_new_tracks_hash_and_decode_passed": true,
+  "independent_review": "review_previs_audio: source part/CID/URL/duration/hash and per-shot mapping passed; subsequent lazy preload/status code reviewed",
+  "browser": {
+    "initial_CY006_correct_three_candidates": true,
+    "MT39_playhead_advanced_seconds": 0.5884,
+    "adjacent_CY007_candidates_changed_without_stopping_music": true,
+    "S05_S06_original_candidates_shown": true,
+    "NA11_initial_buffering_did_not_advance": true,
+    "regression_fix": "BGM preload none set before src; loaded/buffering status added",
+    "final_lazy_loading_live_retest": "not completed: existing tab stopped responding to CDP; new tab navigation also timed out; local HTTP health returned 200 in 0.32s",
+    "blocked_preview_tab": 3
+  },
+  "actual_listening": "Not completed by agent; author audition choices only; no locked source in/out.",
+  "media_changes": "New public video AAC streams extracted unmodified; no new images, dialogue, SFX or video generation."
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "CY024A5A",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/三点定流-v047/CY024A5-v047-r1.png"
+    ],
+    "prompt": "Single widescreen polished cinematic anime frame. Reference image1 is exact character/pose source. Maintain white dragon woman silver-lilac hair, same facial identity, horns, silver rose ornaments, original ivory embroidered dress/jewelry, TWO pale lilac wings and ONE scaled tail. Two anatomically clear arms, five digits on each hand. Right INDEX FINGER alone extended; thumb gently tucked against naturally curled middle/ring/little fingers. Left hand stays open near sternum stabilizing the spell. She is airborne and looks intently where the index points. No palm push, no gun pose, no glowing targeting UI, no beam from finger, only a tiny water bead. No text, panels or watermark. NEXT moment after first central strike. Keep same front three-quarter camera axis, slightly wider medium shot. Her RIGHT arm now extends OUTWARD TO SCREEN LEFT, index finger points clearly diagonally down-left toward a NEW enemy target offscreen; wrist and elbow relaxed but deliberate. Her head and eyes turn screen-left to follow aiming direction. Keep right shoulder/upper arm/elbow/wrist visibly connected, do NOT swap to the left hand. Left hand remains close to sternum, not pointing. This should be visibly different from image1's down-right pointing. Original spell-charging orb is gone. Behind her at far screen-right a single out-of-focus vertical thick water column catches cool light, representing the first central strike already active; foreground remains dry floating droplets. Side stained glass intact, no new holes. Action is SECOND TARGET pointed toward one flanking cultist group. Preserve solemn confident precision."
+  },
+  {
+    "id": "CY024A5B",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/三点定流-v047/CY024A5-v047-r1.png"
+    ],
+    "prompt": "Single widescreen polished cinematic anime frame. Reference image1 is exact character/pose source. Maintain white dragon woman silver-lilac hair, same facial identity, horns, silver rose ornaments, original ivory embroidered dress/jewelry, TWO pale lilac wings and ONE scaled tail. Two anatomically clear arms, five digits on each hand. Right INDEX FINGER alone extended; thumb gently tucked against naturally curled middle/ring/little fingers. Left hand stays open near sternum stabilizing the spell. She is airborne and looks intently where the index points. No palm push, no gun pose, no glowing targeting UI, no beam from finger, only a tiny water bead. No text, panels or watermark. THIRD target selection. Maintain same front three-quarter camera axis, with a slightly tighter medium close-up emphasizing face, right forearm, index finger. Her right forearm now sweeps across toward FAR SCREEN RIGHT, index clearly points down-right but farther outward horizontally than image1; head and eyes turn distinctly right along finger direction, chin steady, composed decisive expression. Visible continuous anatomical right shoulder-to-elbow-to-wrist, no extra hands. Right wrist completes a small controlled tap, finger not shooting water. Left hand stays at sternum. Two separate soft out-of-focus pale-blue vertical water forms in the distant background indicate first and second strikes already active, while her head/hand remain visually dominant. No third column in this close-up; next wide frame will show it arriving. Background blue side stained glass intact. Preserve costume colors and original horn/rose sides."
+  },
+  {
+    "id": "CY024B",
+    "rev": 2,
+    "refs": [
+      "镜头设计/图像/三点定流-v047/CY024B-v047-r1.png",
+      "资产/图像/CHAR-CULTIST-v001.png"
+    ],
+    "prompt": "Precise local continuity edit of image1; image2 ONLY ordinary cultist costume reference. KEEP the exact three water pillars, relative thickness, positions, gold priest shield, undisturbed opaque indigo dome, clear central safe altar, cathedral windows, giant water scale, original dragon heroine body/wings/costume and camera. Change ONLY two things: (1) On dragon woman's outstretched RIGHT hand in left foreground, replace spread-palm gesture with ONE extended INDEX FINGER aimed diagonally toward far-right auxiliary pillar's landing zone, other three fingers naturally curled into palm and thumb gently resting, five digits only, believable foreshortening. No open splayed fingers. (2) The tiny people standing in foreground/lateral flood zones must be ordinary hooded CULTISTS in long dark black-gold robes matching image2, NOT silver-armored knights or blue-uniform troops. Reduce their uniform rows into a handful of irregular scattered figures clustered near left/right auxiliary landing zones, losing footing; no army parade formation. Do not place friendly knights or babies in water impacts. No new pillars, no changes to safe central dome, no extra window holes, no text."
+  }
+]

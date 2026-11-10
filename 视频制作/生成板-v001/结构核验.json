@@ -1,0 +1,14 @@
+{
+  "scope": "结构与来源检查；不证明动态、口型或听感",
+  "shots": 132,
+  "batches": 33,
+  "film_seconds": 434.0,
+  "request_seconds": 495,
+  "all_batches_15_seconds": true,
+  "all_shots_once_in_order": true,
+  "bridge_spoken_once": true,
+  "max_h3_chars": 3125,
+  "max_reference_images": 6,
+  "source_sha256": "cb027621570b008adb63c183c889f33ad8728f2263b29cfa7b0f54bf07df218c",
+  "status": "draft_not_submitted"
+}

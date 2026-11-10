@@ -1,0 +1,39 @@
+{
+  "id": "BGM-CY-NA-11",
+  "bvid": "BV1QT4y1M79V",
+  "part": 11,
+  "title": "The Stone Table",
+  "display_title": "石桌",
+  "work": "纳尼亚传奇：狮子、女巫和魔衣柜",
+  "composer": "Harry Gregson-Williams",
+  "source_page_title": "11 - The Stone Table",
+  "cid": 267028692,
+  "source": "https://www.bilibili.com/video/BV1QT4y1M79V/?p=11",
+  "uploader": "xtrikil",
+  "video_title": "【电影音乐】纳尼亚传奇：狮子、女巫和魔衣柜-原声合集",
+  "path": "资产/声音/BGM/重选-v002/BGM-CY-NA-11.m4a",
+  "bytes": 4088181,
+  "sha256": "41a3b0328f94c9a7f4f240327d8e18ed61ebdd7da41222e288d1b7590805d6a8",
+  "duration": 487.061542,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "67672"
+      }
+    ],
+    "format": {
+      "duration": "487.061542"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

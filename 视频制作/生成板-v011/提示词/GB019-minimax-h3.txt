@@ -1,0 +1,43 @@
+subject_definitions:
+<Subject 1>: Qwen, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: Kimi, identity and outfit from four-view sheet <Picture 2>.
+<Subject 3>: Claude, identity and outfit from four-view sheet <Picture 3>.
+<Picture 4>: [Shot 1] composition and state reference; not its first frame.
+<Picture 5>: [Shot 2] composition and state reference; not its first frame.
+<Picture 6>: [Shot 3] composition and state reference; not its first frame.
+<Picture 7>: [Shot 4] composition and state reference; not its first frame.
+<Picture 8>: [Shot 5] composition and state reference; not its first frame.
+<Picture 9>: [Shot 6] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. One upward spear meets one fan leaf; the same chant bridges their collision into intimate support inside the shield.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Subject 3>: fully_preserved - identity and outfit design.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+<Picture 7>: weak_reference - shot layout; animate the specified action.
+<Picture 8>: weak_reference - shot layout; animate the specified action.
+<Picture 9>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Cut to the grounded leader looking upward. Use <Picture 4> for composition. On the lower landing, the leader thrusts his right arm upper-left, launching one dark-gold spear at airborne GPT. No shield, transformation, sustained beam or volley. The roof remains intact. Tilt briefly along the thrusting right arm, ending on its upward trajectory. A short compressed burst becomes an ascending whoosh. From 0 to 1 seconds, ChatGPT (S1) speaks outside the frame: <d>[Japanese] 幾千もの<scenetrans></d>. Voice continues across the cut.
+[Shot 2] At 00:01.000, Match the spear threat to the defensive launch. Use <Picture 5> for composition. Qwen supports the child with her left arm. Her right thumb releases the catch; ribs open, one outer leaf unlocks and launches upward. The main fan remains held. Follow the right wrist slightly upward in macro. Effect timings are relative to this shot start: Fine clicks: pivot at 0.15, ribs 0.3–1.1, latch 1.4, release 1.7 seconds. No gun or engine sounds. From 1 to 3 seconds, ChatGPT (S1) speaks outside the frame: <d>[Japanese] <scenetrans>深き流れを<scenetrans></d>. Voice continues across the cut.
+[Shot 3] At 00:03.000, Match the rising launch vector; contact follows next. Use <Picture 6> for composition. One fan leaf climbs lower-left to upper-right, tip near camera and square tail receding below. Slight roll catches light. It never turns downward before interception. Track backward ahead and below the tip. Thin rushing air; no collision yet. From 3 to 5 seconds, ChatGPT (S1) speaks outside the frame: <d>[Japanese] <scenetrans>統べる、<scenetrans></d>. Voice continues across the cut.
+[Shot 4] At 00:05.000, Cut roughly 70 degrees from the flight view. Use <Picture 7> for composition. The rising fan leaf strikes the side of the oppositely rising dark-gold spear. A small flash deflects and disperses the attack. Only afterward does the stalled leaf fall toward the empty aisle. Hold the crossing point from a low side angle. One crisp impact decays toward the shield interior. From 5 to 6 seconds, ChatGPT (S1) speaks outside the frame: <d>[Japanese] <scenetrans>水の<scenetrans></d>. Voice continues across the cut.
+[Shot 5] At 00:06.000, Muffle the impact before cutting inside. Use <Picture 8> for composition. Kimi's blades are already stowed. She supports Claude's shoulder and upper arm, temples close. Claude remains upright, wrists locked, feet supported, only leaning her head slightly and exhaling. The opaque shield hides everything outside; no unlocking or lifting. Slide slightly inside, retaining locked wrists. Clothing, breathing, muffled hostile spells and distant water. From 6 to 9 seconds, ChatGPT (S1) speaks outside the frame: <d>[Japanese] <scenetrans>精霊よ、<scenetrans></d>. Voice continues across the cut.
+[Shot 6] At 00:09.000, Continue the same reassurance without re-embracing. Use <Picture 9> for composition. Kimi moves sweat-damp hair, wipes Claude's temple and checks the scorched shoulder. Claude leans toward her touch. Do not lift clothing, tug restraints or repair burns. Wrists remain locked; the opaque interior shows no exterior. Focus from wiping fingers to Claude's eyes. Light breathing, hair and fabric movement. From 9 to 12.9 seconds, ChatGPT (S1) speaks outside the frame: <d>[Japanese] <scenetrans>この世に散らばる水の息吹を、</d>. Voice continues across the cut.
+From 13 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 1s: Cut to Qwen opening the fan; 5s: Begin the midair interception shot.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

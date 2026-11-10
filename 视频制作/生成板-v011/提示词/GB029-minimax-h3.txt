@@ -1,0 +1,36 @@
+subject_definitions:
+<Subject 1>: Claude, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: DeepSeek, identity and outfit from four-view sheet <Picture 2>.
+<Subject 3>: Qwen, identity and outfit from four-view sheet <Picture 3>.
+<Picture 4>: [Shot 1] composition and state reference; not its first frame.
+<Picture 5>: [Shot 2] composition and state reference; not its first frame.
+<Picture 6>: [Shot 3] composition and state reference; not its first frame.
+<Picture 7>: [Shot 4] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. Claude resumes, her father's gesture stalls, one ember forms, and the child's reaction confirms her choice.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Subject 3>: fully_preserved - identity and outfit design.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+<Picture 7>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Cut from the reaching father to her deliberate gaze shift; the interruption is over and she resumes at the next sentence. Use <Picture 4> for composition. Claude turns her pale face and gaze away from her father toward the empty cross. She steadies her breath and continues the incantation rather than starting over. The faint energy in her hand has never gone out. Keep her tired physical state, unchanged burn damage and no blush. End with her choice clear while the same power continues gathering. Slide slightly with Claude averting her gaze in a face-and-shoulder close-up, giving her direction space before settling for the resumed chant. Breathing and sustained faint magic beneath the next phrase; no repeated opening invocation. From 0 to 4 seconds, Claude (S1) speaks with matching lip movement: <d>[Japanese] 我が呼び声に応えよ。<scenetrans></d>. Voice continues across the cut.
+[Shot 2] At 00:04.000, Carry Claude's continued chanting across the cut to her father's silent response, making her choice audible while he reacts. Use <Picture 5> for composition. Still on the floor, the leader realizes Claude has not returned her gaze or obeyed. His reaching hand freezes, then the fingers begin to fall; his expression shifts from an attempt to summon her to alarm and uncertainty. He does not speak or stand. Claude's voice continues offscreen and the established positions remain unchanged. From a different floor-level close angle, shift focus slowly from his halted hand to his eyes without raising the camera. Quiet surroundings with the chant continuing offscreen. From 4 to 8 seconds, Claude (S1) speaks outside the frame: <d>[Japanese] <scenetrans>まだ消えぬ温もりをたどり、<scenetrans></d>. Voice continues across the cut.
+[Shot 3] At 00:08.000, Contrast the father's arrested hand with Claude steadying her own; the sparks now become an ember that must not revert or form again. Use <Picture 6> for composition. The same energy continues gathering as Claude's right wrist trembles. Her left hand supports it, and one small orange-gold ember with a stable flame core now holds between the fingers. It remains attached to this moment of preparation, not yet released. Preserve restraint marks and scorched fabric, and pallor if the face enters. End with the ember formed and maintained. Hold the wrist insert and shift focus from the supporting left hand to the stable flame core between the right fingers, keeping both hands connected. A tiny flame sound under the continuing incantation. From 8 to 11 seconds, Claude (S1) speaks outside the frame: <d>[Japanese] <scenetrans>この手のひらで、<scenetrans></d>. Voice continues across the cut.
+[Shot 4] At 00:11.000, Cut from the ember to the rescued child as the chant continues offscreen; the empty cross is still unlit with no anticipatory warm flare. Use <Picture 7> for composition. DeepSeek remains in Qwen's arms and looks upward toward Claude. She tightens her grip on Qwen's clothing and presses her lips together while listening to Claude's tired but determined voice. Qwen's support stays secure. The already formed ember continues offscreen in Claude's fingers; it neither disappears nor flies during this reaction. End just before the spell is named. Make a small tilt toward the child's tightening grip and back to her upward gaze, retaining Qwen's stable left-arm support. A faint clothing grip beneath the offscreen chant. From 11 to 15 seconds, Claude (S1) speaks outside the frame: <d>[Japanese] <scenetrans>もう一度、燃えよ——</d>. Voice continues across the cut.
+
+overall_soundscape:
+Action targets: 0s: Claude chooses to continue the incantation.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

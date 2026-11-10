@@ -1,0 +1,290 @@
+{
+  "batch": {
+    "batch_number": 23,
+    "batch_id": "GB017",
+    "title": "发射塔下的点头、月背睁眼",
+    "shot_ids": [
+      "CY026C",
+      "CY026D1"
+    ],
+    "film_start": 248.362729,
+    "film_end": 254.902729,
+    "used_seconds": 6.54,
+    "original_duration": 15,
+    "duration": 7,
+    "prompt": "subject_definitions:\n<Picture 1>=ChatGPT四视图：同一人四角度，身份服饰保持\n<Picture 2>=Grok四视图：同一人四角度，身份服饰保持\n<Picture 3>=Kimi四视图：同一人四角度，身份服饰保持\n<Picture 4>=构图状态，非强制首帧\n<Picture 5>=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，7秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–4s <Picture 4>；画内:ChatGPT、Grok。承前一处邀约直接切到基地；回应后在呼名节奏上切静寂月面，机械底声立即退掉。以双人中景轻微横移到斧柄和Grok回应的同一侧，工业立柱产生视差；不绕过二人轴线。钢架发射塔、储罐和管线旁，GPT邀请Grok；Grok握斧回应。火箭停在发射架，尚未发射。 调度:镜长4秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 声音:基地低鸣托底；火箭仍未发射。 GPT在镜内0.1–1.14秒说完同一句日语；Grok在镜内1.44–2.42秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 2] 4–6.54s <Picture 5>；画内:Kimi。GPT呼名先入，切眼睛时仍同一次呼唤；睁眼后切宽，不再重复醒来。困眼极近特写定镜，让眼睑从闭到开承担变化，不用推镜制造醒来。月背的Kimi仍伏在月石边，听见GPT画外呼名，困倦的眼睛缓缓睁开。 轻声叫醒，但第二句带来紧迫感；Kimi听见Claude的名字才从困意转为清醒。 人物:Kimi双眼近特写，GPT呼名为画外声。 声音:GPT在画外轻唤“Kimi”，先于双人画面；月面无风声。 GPT在镜内0.1–2.44秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0.1–1.14s ChatGPT 匹配口型:<d>[Japanese] グロック。</d>；仅一次。\n1.44–2.42s Grok 匹配口型:<d>[Japanese] もちろん。</d>；仅一次。\n4.1–6.44s ChatGPT 画外连续，不让在画者代说:<d>[Japanese] キミ。クロードが危ない。</d>；仅一次。\n6.54–7s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "ChatGPT",
+        "name_en": "ChatGPT",
+        "asset_id": "CHAR-GPT",
+        "status": "候选待作者审阅",
+        "limits": "两侧躯干略带斜角。开衩与腿饰以原图/正面图的角色右腿为准，不按对称读取；尾巴弯曲是姿态参考，侧背含补全。",
+        "purpose": "ChatGPT四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9",
+        "source_path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+        "source_sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+        "sha1": "ff68ef289edac6743d7e87bdfe142f00332d50ce",
+        "file_size": 2143481,
+        "width": 2172,
+        "height": 869,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-GPT-TURN-v001-h3-pad.png"
+      },
+      {
+        "slot": 2,
+        "path": "资产/图像/四视图复用/C09_Grok-角色设定卡.png",
+        "kind": "identity",
+        "person": "Grok",
+        "name_en": "Grok",
+        "asset_id": "MULKZI2WM2FEL",
+        "status": "作者指定复用",
+        "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+        "purpose": "Grok四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "439924ef5fc8024902a10c55e6c67e3a750bda77ac891b38b139077061c06388",
+        "source_path": "资产/图像/四视图复用/C09_Grok-角色设定卡.png",
+        "source_sha256": "439924ef5fc8024902a10c55e6c67e3a750bda77ac891b38b139077061c06388",
+        "sha1": "0b03294fb77eff9adaca3a056af534a25eeb5a0c",
+        "file_size": 2723684,
+        "width": 1448,
+        "height": 1086,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\图像\\四视图复用\\C09_Grok-角色设定卡.png"
+      },
+      {
+        "slot": 3,
+        "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+        "kind": "identity",
+        "person": "Kimi",
+        "name_en": "Kimi",
+        "asset_id": "MULKZI2WMFNJE",
+        "status": "作者指定复用",
+        "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。 本片双持小圆月刃沿用r3附属参考；战后固定后腰再解锁，不更换已定服装。",
+        "purpose": "Kimi四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc",
+        "source_path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+        "source_sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc",
+        "sha1": "90740cd918a10c0f0f74eade89d78e208ada0a11",
+        "file_size": 2823904,
+        "width": 1448,
+        "height": 1086,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\图像\\四视图复用\\C03_Kimi-角色设定卡.png"
+      },
+      {
+        "slot": 4,
+        "path": "镜头设计/图像/动作收尾-v015/CY026C-v015-r1.png",
+        "kind": "composition",
+        "shot_id": "CY026C",
+        "purpose": "构图、空间与代表状态：发射塔下的点头；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "766127865341188fb1749763c8d93aa6f1846e1bd5ee52e091bbad111865d2f2",
+        "source_path": "镜头设计/图像/动作收尾-v015/CY026C-v015-r1.png",
+        "source_sha256": "766127865341188fb1749763c8d93aa6f1846e1bd5ee52e091bbad111865d2f2",
+        "sha1": "9787faa5dbf63054f5c0480bc46718579a721a95",
+        "file_size": 3095834,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\动作收尾-v015\\CY026C-v015-r1.png"
+      },
+      {
+        "slot": 5,
+        "path": "镜头设计/图像/独立镜头-v009/CY026D1-v009.png",
+        "kind": "composition",
+        "shot_id": "CY026D1",
+        "purpose": "构图、空间与代表状态：月背睁眼；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "2daaf170012a5cfbede2ae4f35f31a4fb1b74bcac7f639142d20af6594a92f2f",
+        "source_path": "镜头设计/图像/独立镜头-v009/CY026D1-v009.png",
+        "source_sha256": "2daaf170012a5cfbede2ae4f35f31a4fb1b74bcac7f639142d20af6594a92f2f",
+        "sha1": "c1018ad28240785b6cd7b17461aac9e1e054fdf6",
+        "file_size": 2589074,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\独立镜头-v009\\CY026D1-v009.png"
+      }
+    ],
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 7,
+      "count": 1
+    },
+    "estimated_credits": 98,
+    "estimate_basis": "15秒报价210，按秒计费推算，提交前以网页实价为准",
+    "budget_selected": true,
+    "status": "prepared_not_submitted",
+    "task_id": null,
+    "node_id": "v-kavvekQEZN",
+    "display_name": "第23批 · 发射塔下的点头、月背睁眼 · H3 v001"
+  },
+  "request": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "node": "v-kavvekQEZN",
+    "idempotencyKey": "bmf-h3-GB017-wire-full",
+    "model": "MiniMax-Hailuo-H3",
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 7,
+      "count": 1
+    },
+    "prompt": "subject_definitions:\n{{Node i-07HfqKjhJ7}}=ChatGPT四视图：同一人四角度，身份服饰保持\n{{Node i-fNFKWI1pkl}}=Grok四视图：同一人四角度，身份服饰保持\n{{Node i-6n1fSpOePV}}=Kimi四视图：同一人四角度，身份服饰保持\n{{Node i-LciS8viwzJ}}=构图状态，非强制首帧\n{{Node i-8kEhqD0ROf}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，7秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–4s {{Node i-LciS8viwzJ}}；画内:ChatGPT、Grok。承前一处邀约直接切到基地；回应后在呼名节奏上切静寂月面，机械底声立即退掉。以双人中景轻微横移到斧柄和Grok回应的同一侧，工业立柱产生视差；不绕过二人轴线。钢架发射塔、储罐和管线旁，GPT邀请Grok；Grok握斧回应。火箭停在发射架，尚未发射。 调度:镜长4秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 声音:基地低鸣托底；火箭仍未发射。 GPT在镜内0.1–1.14秒说完同一句日语；Grok在镜内1.44–2.42秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 2] 4–6.54s {{Node i-8kEhqD0ROf}}；画内:Kimi。GPT呼名先入，切眼睛时仍同一次呼唤；睁眼后切宽，不再重复醒来。困眼极近特写定镜，让眼睑从闭到开承担变化，不用推镜制造醒来。月背的Kimi仍伏在月石边，听见GPT画外呼名，困倦的眼睛缓缓睁开。 轻声叫醒，但第二句带来紧迫感；Kimi听见Claude的名字才从困意转为清醒。 人物:Kimi双眼近特写，GPT呼名为画外声。 声音:GPT在画外轻唤“Kimi”，先于双人画面；月面无风声。 GPT在镜内0.1–2.44秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0.1–1.14s ChatGPT 匹配口型:<d>[Japanese] グロック。</d>；仅一次。\n1.44–2.42s Grok 匹配口型:<d>[Japanese] もちろん。</d>；仅一次。\n4.1–6.44s ChatGPT 画外连续，不让在画者代说:<d>[Japanese] キミ。クロードが危ない。</d>；仅一次。\n6.54–7s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "leftEnsure": [
+      "i-07HfqKjhJ7",
+      "i-fNFKWI1pkl",
+      "i-6n1fSpOePV",
+      "i-LciS8viwzJ",
+      "i-8kEhqD0ROf"
+    ],
+    "newName": "第23批 · 发射塔下的点头、月背睁眼 · H3 v001",
+    "run": false
+  },
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-kavvekQEZN",
+    "node": {
+      "id": "v-kavvekQEZN",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第23批 · 发射塔下的点头、月背睁眼 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Image 1}}=ChatGPT四视图：同一人四角度，身份服饰保持\n{{Image 2}}=Grok四视图：同一人四角度，身份服饰保持\n{{Image 3}}=Kimi四视图：同一人四角度，身份服饰保持\n{{Image 4}}=构图状态，非强制首帧\n{{Image 5}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，7秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–4s {{Image 4}}；画内:ChatGPT、Grok。承前一处邀约直接切到基地；回应后在呼名节奏上切静寂月面，机械底声立即退掉。以双人中景轻微横移到斧柄和Grok回应的同一侧，工业立柱产生视差；不绕过二人轴线。钢架发射塔、储罐和管线旁，GPT邀请Grok；Grok握斧回应。火箭停在发射架，尚未发射。 调度:镜长4秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 声音:基地低鸣托底；火箭仍未发射。 GPT在镜内0.1–1.14秒说完同一句日语；Grok在镜内1.44–2.42秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 2] 4–6.54s {{Image 5}}；画内:Kimi。GPT呼名先入，切眼睛时仍同一次呼唤；睁眼后切宽，不再重复醒来。困眼极近特写定镜，让眼睑从闭到开承担变化，不用推镜制造醒来。月背的Kimi仍伏在月石边，听见GPT画外呼名，困倦的眼睛缓缓睁开。 轻声叫醒，但第二句带来紧迫感；Kimi听见Claude的名字才从困意转为清醒。 人物:Kimi双眼近特写，GPT呼名为画外声。 声音:GPT在画外轻唤“Kimi”，先于双人画面；月面无风声。 GPT在镜内0.1–2.44秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0.1–1.14s ChatGPT 匹配口型:<d>[Japanese] グロック。</d>；仅一次。\n1.44–2.42s Grok 匹配口型:<d>[Japanese] もちろん。</d>；仅一次。\n4.1–6.44s ChatGPT 画外连续，不让在画者代说:<d>[Japanese] キミ。クロードが危ない。</d>；仅一次。\n6.54–7s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-07HfqKjhJ7",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d74110bde0f98a0b44ed3c518d48eaea282c1a87.png"
+            },
+            {
+              "nodeId": "i-fNFKWI1pkl",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/38a307ff6ec596fc528ab5c3740b1979336eb9fa.png"
+            },
+            {
+              "nodeId": "i-6n1fSpOePV",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/c9c37061f22385d4bbf0fcbb7cd81f596fc6400c.png"
+            },
+            {
+              "nodeId": "i-LciS8viwzJ",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/4c09f5d6e1e8aacd9f7e9793bd20197e5bce0821.png"
+            },
+            {
+              "nodeId": "i-8kEhqD0ROf",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/6e403f34ec385130d14d610bd2a8a8899ea83737.png"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 7
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-07HfqKjhJ7",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d74110bde0f98a0b44ed3c518d48eaea282c1a87.png",
+              "label": "CHAR-GPT-TURN-v001-h3-pad",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-CecC9uRF7p",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/43474b657c35a7e84369b01ca148c2018c10a860.png",
+              "label": "C06_Gemini-角色设定卡",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-mPf36fwkVE",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/bbab327b27cca706524774d9b9160b81c3e4682a.png",
+              "label": "CY026B-v033-r1",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-07HfqKjhJ7",
+            "i-fNFKWI1pkl",
+            "i-6n1fSpOePV",
+            "i-LciS8viwzJ",
+            "i-8kEhqD0ROf"
+          ],
+          "mixedListOrder": [
+            "i-07HfqKjhJ7",
+            "i-fNFKWI1pkl",
+            "i-6n1fSpOePV",
+            "i-LciS8viwzJ",
+            "i-8kEhqD0ROf"
+          ]
+        },
+        "_updatedAtMs": 1793121636000,
+        "_lastAppliedFullyAtMs": 1793121636000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        }
+      },
+      "position": {
+        "x": 5592,
+        "y": 5496
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-kavvekQEZN",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

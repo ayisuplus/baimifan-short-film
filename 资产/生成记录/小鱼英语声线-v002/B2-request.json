@@ -1,0 +1,59 @@
+{
+  "prompt": {
+    "1": {
+      "class_type": "BreezeTTS2LoadModel",
+      "inputs": {
+        "model": "bf16 (best quality)",
+        "dtype": "bf16",
+        "device": "cuda",
+        "attention": "sdpa",
+        "decode_mode": "eager",
+        "download_if_missing": false
+      }
+    },
+    "2": {
+      "class_type": "BreezeTTS2VoiceDirection",
+      "inputs": {
+        "breeze_model": [
+          "1",
+          0
+        ],
+        "text": "Would you like some? One more try. I'll get you out of here.",
+        "reference_audio": [
+          "4",
+          0
+        ],
+        "reference_text": "Would you like some? One more try. I'll get you out of here.",
+        "instruction": "Keep the reference speaker's soft, rounded voice. Perform as an expressive girl character in an English-dubbed anime, with distinct emotional turns. 'Would you like some?' is eagerly hopeful, as she offers her bowl with shining eyes. 'One more try.' is a small, stubborn declaration. 'I'll get you out of here.' becomes warmly resolute: she really means this promise. Use animated changes in rhythm and emphasis, with crisp, expressive phrase endings. Brief pauses between sentences. Say only the provided text.",
+        "cfg_scale": 4.0,
+        "stitch_reference": "none",
+        "max_new_tokens": 256,
+        "temperature": 0.9,
+        "top_k": 50,
+        "top_p": 1.0,
+        "repetition_penalty": 1.1,
+        "depth_temperature": 0.9,
+        "depth_top_k": 50,
+        "depth_top_p": 1.0,
+        "seed": 20261027
+      }
+    },
+    "3": {
+      "class_type": "SaveAudio",
+      "inputs": {
+        "audio": [
+          "2",
+          0
+        ],
+        "filename_prefix": "audio/BreezeTTS2/WhiteRice-Xiaoyu-v002/B2"
+      }
+    },
+    "4": {
+      "class_type": "LoadAudio",
+      "inputs": {
+        "audio": "white-rice-xiaoyu-B-v001.flac"
+      }
+    }
+  },
+  "client_id": "white-rice-xiaoyu-anime-v002"
+}

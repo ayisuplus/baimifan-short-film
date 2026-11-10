@@ -1,0 +1,15 @@
+{
+  "name": "003a-video-r1",
+  "type": "video",
+  "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\003a-key-r1_00001_.png",
+  "key_review": "pass",
+  "frames": 151,
+  "target_frames": 151,
+  "source_shot": "003",
+  "source_window": [
+    0,
+    151
+  ],
+  "seed": 202610307300,
+  "prompt": "Animate the approved key as stable hand-drawn 2D cel anime, with matte shapes and ink contours. No CGI, shape morphing or extra cuts. Fixed child close-up. Xiaoyu looks up toward GPT offscreen and delivers her urgent plea with small mouth shapes, a trembling breath and one tiny tightening of the clasped hands. Preserve her eye line and position, no walking, no new gesture sequence. The worry increases gently and then holds for the cut to GPT. Hair tips sway only slightly. Do not introduce tears bursting, comic shaking, a loop or a camera cut. Preserve the reviewed key exact child/adult identity, muted palace lavender/amber palette and broad painted floor reflections. No new lights, gates, horns on child, feather wings on adult or changes to the couch silhouette."
+}

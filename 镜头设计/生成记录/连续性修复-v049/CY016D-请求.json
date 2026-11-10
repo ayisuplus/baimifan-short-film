@@ -1,0 +1,19 @@
+{
+  "engine": "built-in image_gen",
+  "date": "2026-10-25",
+  "shot": "CY016D",
+  "request": {
+    "referenced_image_paths": [
+      "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火祭因果-v040/CY016D-v040-r2.png",
+      "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/祭坛长椅连续性-v023/CY012-v023-r8.png"
+    ],
+    "transparent_background": false,
+    "prompt": "Edit ONLY the two hanging architectural lantern fixtures in image 1. Reference image 2 shows the correct fixture: ONE large open circular iron candle chandelier mounted high overhead on the central nave axis. Remove the two hanging enclosed cage lanterns in image 1, restore the background behind them, and add the single reference-style candle ring at the TOP EDGE, partially cropped to fit this existing camera; thin suspension chains continue upward outside frame. Preserve all people and their existing depiction exactly, do not modify any character, action, clothes, hands, faces, fire bowls, ground candles, architecture, other objects, composition, lighting or colors. This is a background lighting-fixture continuity edit only, no new action, harm, nudity, violence or sexual content. No text. One full 16:9 image."
+  },
+  "output": "镜头设计/图像/连续性修复-v049/CY016D-v049-r1.png",
+  "sha256": "5dac72fd687f518a5a8e8329520a442cfc0204ad467b77b1987c358bcafa450a",
+  "previous_request": "镜头设计/生成记录/火祭因果-v040/铺柴与最后阻拦请求.json",
+  "previous_image": "镜头设计/图像/火祭因果-v040/CY016D-v040-r2.png",
+  "previous_candidate": null,
+  "review": "technical and root visual inspection complete; independent review and author visual approval tracked separately"
+}

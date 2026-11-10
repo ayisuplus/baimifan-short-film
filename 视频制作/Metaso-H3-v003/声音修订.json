@@ -1,0 +1,36 @@
+{
+  "GB016-1": {
+    "path": "视频制作/Metaso-H3-v003/声音/GB016-1-合扇后回应.wav",
+    "source_start": 0,
+    "sha256": "b746b93cb428f1a774851319197026da62a98045ee609fff87601b60ded3eba9",
+    "events": [
+      {
+        "cue_id": "VO-CY026A-01",
+        "source": "后期/日语配音修正-v003/干声/VO-CY026A-01__GPT__ja__v003.wav",
+        "sha256": "e26ed0100a774f77e810e5997b213ce5ec636cc36ad185ba6e10cac4ad325fb5",
+        "source_samples": 87360,
+        "sample_rate": 48000,
+        "original_start": 239.162729,
+        "new_start": 239.162729,
+        "delta_seconds": 0,
+        "playback_rate": 1,
+        "source_trim": false
+      },
+      {
+        "cue_id": "VO-CY026A1-01",
+        "source": "后期/日语配音修正-v004/干声/VO-CY026A1-01__Qwen__ja__v004.wav",
+        "sha256": "7bb53bbb81db87fcd3adf22223d2e8c2119a1379b19a1d14b42d3fbcc4cd9977",
+        "source_samples": 55202,
+        "sample_rate": 48000,
+        "original_start": 242.362729,
+        "new_start": 242.812729,
+        "delta_seconds": 0.45,
+        "playback_rate": 1,
+        "source_trim": false
+      }
+    ],
+    "bgm_sha256": "75553a903f26c01e92d09109d583b5618bb12969ca9fbf67d3acf558e763001f",
+    "duration": 11.3,
+    "note": "沿用作者选声完整原速；千问短答仅后移0.45秒，在合扇后入声；BGM沿v025切片并重建-7dB对白避让，口型与完整听审待验。"
+  }
+}

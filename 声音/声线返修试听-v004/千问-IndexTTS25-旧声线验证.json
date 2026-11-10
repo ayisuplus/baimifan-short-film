@@ -1,0 +1,17 @@
+{
+  "engine": "IndexTTS-2.5",
+  "role": "千问",
+  "purpose": "日语链路验证；旧声线参考不是新设计采用",
+  "reference": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\切分输入\\VO-CY026A1-01__Qwen__ja__v004.wav",
+  "reference_sha256": "8f1e601533015a0ff2189c89167a8c7d8c6b83fab9dc1d50f8ad2f36df5c5bf4",
+  "text": "行きましょう。つかまって。",
+  "language": "JA",
+  "emotion_vector": null,
+  "seed": 20261029,
+  "seconds": 3.030204081632653,
+  "sample_rate": 22050,
+  "elapsed_seconds": 5.980012893676758,
+  "sha256": "5ca08ea00fd8bcfb9d3416649c6130a190dd5c2a7ce307a4f43ffd60a90ff5d9",
+  "listening_approved": false,
+  "file": "千问-IndexTTS25-旧声线验证.wav"
+}

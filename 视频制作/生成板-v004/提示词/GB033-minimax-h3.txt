@@ -1,0 +1,27 @@
+subject_definitions:
+<Subject 1>: Claude, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: DeepSeek, identity and outfit from four-view sheet <Picture 2>.
+<Picture 3>: [Shot 1] composition and state reference; not its first frame.
+<Picture 4>: [Shot 2] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. One first bite resolves into exchanged looks and breathing, ending in ordinary life with four music-free story seconds.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Cut from GPT's eased gaze to the only first bite; the spoon is already held and loaded, without repeating transfer or scooping. Use <Picture 3> for composition. Claude has already accepted the spoon and scooped a small portion while the bowl remained on DeepSeek's lap. The rice reaches her lips, they close gently and the now-empty spoon withdraws. Show only this one ordinary bite, without dwelling on chewing. End with the empty spoon clear of the mouth and beginning to lower. Hold the lower-face and hand close-up, focusing lightly from spoon tip to closing lips without pushing into the mouth or emphasizing chewing. Soft street ambience and very light utensil sound; do not amplify chewing.
+[Shot 2] At 00:02.000, Match the empty spoon lowering into the two-shot; no second bite. Hold after their exchanged look, leaving any final fade to the film end rather than the generation handle. Use <Picture 4> for composition. Claude has finished the first bite. She lowers the empty spoon toward her lap and does not scoop or eat again. DeepSeek looks up and smiles; Claude returns her gaze and slowly relaxes her mouth. The child keeps the same bowl secure. During the final four story seconds, only their breathing and the market remain, sunlight resting on their shoulders. Preserve the final composition through any extra handle; apply the intended end fade in editing. Hold the two-person medium close-up for the full beat, letting the lowered spoon, exchanged look and breathing finish it; no emotional push during the last four seconds. For the first three seconds, a small smile-laugh and breathing; for the final four story seconds, only breathing and street ambience, no dialogue and no BGM.
+From 9 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

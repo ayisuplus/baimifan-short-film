@@ -1,0 +1,156 @@
+{
+  "id": "v-rVdFbiB2Ip",
+  "type": "video",
+  "data": {
+    "type": "video",
+    "name": "第8批 · 察觉与试锁 · H3 v001",
+    "url": [],
+    "poster": "",
+    "action": "video_generate",
+    "generatorType": "default",
+    "params": {
+      "prompt": "subject_definitions:\n{{Mixed 2}} =Claude四视图：同一人四角度，身份服饰保持\n{{Mixed 1}} =DeepSeek四视图：同一人四角度，身份服饰保持\n{{Mixed 3}} =构图状态，非强制首帧\n{{Mixed 4}} =构图状态，非强制首帧\n{{Mixed 5}} =构图状态，非强制首帧\n{{Mixed 6}} =构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，15秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–3s {{Mixed 3}} ；画内:Claude。承前宝宝抬头方向作视线反打，轻响和烛火仍来自同一空堂。面肩近景随Claude低头轻俯，随即停住容纳一怔与摇头，不绕过刑架。Claude 低头看见远处的 DeepSeek，先是一怔，随即忧虑地轻轻摇头，示意她不要靠近。 声音:烛火与两人微弱呼吸，保持空堂安静。\n[Shot 2] 3–5s {{Mixed 4}} ；画内:Claude。从Claude向下的担忧落到束缚细节；同一静默连贯，不另加受刑动作。赤足细节近景沿脚踝至固定脚托短短下摇，收在脚托与两侧低柴的净距，避免误读为悬吊。Claude 赤足站在十字架竖柱固定的小木脚托上，脚踝各有锁链连向竖柱；脚托下方两侧只放低矮柴堆，裙摆与脚趾没有埋进木柴。 人物:仅赤足、踝链与局部裙摆。 声音:烛火、微弱呼吸和链条细响，不加吟唱。\n[Shot 3] 5–10s {{Mixed 5}} ；画内:DeepSeek、Claude。明确略去登阶路程，切到宝宝已在平台木架左侧；Claude的问句由面对她的关系发出。同侧近机位沿孩子仰视联系Claude，双方说话嘴可见；手够向腰锁，背景退暗，避免退成全身合照。小鱼抬头向Claude保证，踮脚伸手够腰锁。 调度:小鱼站最高平整台面木架左侧；Claude直立双腕受缚，双踝与脚托在画外仍保持。保证对白顺序与口型不变；无钥匙工具。 注意:小鱼站最高平整台面木架左侧；Claude直立双腕受缚，双踝与脚托在画外仍保持。保证对白顺序与口型不变；无钥匙工具。 声音:轻脚步、衣料和空堂回声；没有吟唱。DeepSeek：我带你出去。 Claude在镜内0.1–1.72秒说完同一句日语；小鱼在镜内2.02–3.52秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 4] 10–15s {{Mixed 6}} ；画内:DeepSeek、Claude。按上一镜双手刚够住锁扣起演；失败后才换抓横链，不从地面重够。贴近腰锁与双手，窄景深沿绷紧链条短移；先看掰锁失败，再看手转抓链，局部侧脸保留受力表情。DeepSeek 踮起脚试着掰锁，扣锁纹丝不动。她改为握紧腰前横链往外拉，锁链撞上木架，发出清脆的响声。 调度:掰锁转拉链中间状态，不是解锁成功。Claude只见躯干及局部受缚腕，脸/脚画外；锁和链均完整闭合，无钥匙工具。 注意:掰锁转拉链中间状态，不是解锁成功。Claude只见躯干及局部受缚腕，脸/脚画外；锁和链均完整闭合，无钥匙工具。 人物:Claude仅躯干及局部受缚腕，脸与脚画外；小鱼局部脸/双手。 声音:一次清脆金属锁链响及回声，随后安静，不提前接教徒声音。\n5.1–6.72s Claude 匹配口型:<d>[Japanese] どうしてここに？</d>；仅一次。\n7.02–8.52s DeepSeek 匹配口型:<d>[Japanese] 私が連れ出すよ。</d>；仅一次。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+      "model": "MiniMax-Hailuo-H3",
+      "modeType": "mixed2video",
+      "count": 1,
+      "imageList": [
+        {
+          "nodeId": "i-JAT4Pva730",
+          "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png",
+          "label": "CHAR-DEEPSEEK-TURN-v003 · H3留白适配"
+        },
+        {
+          "nodeId": "i-uKDIVWmghN",
+          "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/88234e0405150bf25c82642dd7493f40996749c6.png",
+          "label": "CHAR-CLAUDE-TURN-v001 · H3留白适配"
+        },
+        {
+          "nodeId": "i-90xm1nrhuA",
+          "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/41a6845ac0ab52902b19150fc9881234460ba81a.png",
+          "label": "CY013-v014-r3"
+        },
+        {
+          "nodeId": "i-7j7yRqb1sV",
+          "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/69a67e3c274ed2faf83b3d22627971a4096e4791.png",
+          "label": "CY013A-v014-r3"
+        },
+        {
+          "nodeId": "i-Nb1FdihTfo",
+          "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/51eeeb5474c7915828d769f7f4eff95b16bd8177.png",
+          "label": "CY015-v063-r1"
+        },
+        {
+          "nodeId": "i-seLAYyrn2x",
+          "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/7d01680976d40742bc5219ea69ab65d9194f748a.png",
+          "label": "CY016-v063-r1"
+        }
+      ],
+      "videoList": [],
+      "audioList": [],
+      "settings": {
+        "ratio": "16:9",
+        "resolution": "768P",
+        "duration": 15
+      },
+      "advancedSettings": {},
+      "textList": [],
+      "mixedList": [
+        {
+          "nodeId": "i-JAT4Pva730",
+          "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png",
+          "label": "CHAR-DEEPSEEK-TURN-v003 · H3留白适配",
+          "mediaType": "image"
+        },
+        {
+          "nodeId": "i-uKDIVWmghN",
+          "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/88234e0405150bf25c82642dd7493f40996749c6.png",
+          "label": "CHAR-CLAUDE-TURN-v001 · H3留白适配",
+          "mediaType": "image"
+        },
+        {
+          "nodeId": "i-90xm1nrhuA",
+          "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/41a6845ac0ab52902b19150fc9881234460ba81a.png",
+          "label": "CY013-v014-r3",
+          "mediaType": "image"
+        },
+        {
+          "nodeId": "i-7j7yRqb1sV",
+          "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/69a67e3c274ed2faf83b3d22627971a4096e4791.png",
+          "label": "CY013A-v014-r3",
+          "mediaType": "image"
+        },
+        {
+          "nodeId": "i-Nb1FdihTfo",
+          "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/51eeeb5474c7915828d769f7f4eff95b16bd8177.png",
+          "label": "CY015-v063-r1",
+          "mediaType": "image"
+        },
+        {
+          "nodeId": "i-seLAYyrn2x",
+          "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/7d01680976d40742bc5219ea69ab65d9194f748a.png",
+          "label": "CY016-v063-r1",
+          "mediaType": "image"
+        }
+      ],
+      "ratio": "16:9",
+      "resolution": "2K",
+      "duration": 5,
+      "imageListOrder": [
+        "i-JAT4Pva730",
+        "i-uKDIVWmghN",
+        "i-90xm1nrhuA",
+        "i-7j7yRqb1sV",
+        "i-Nb1FdihTfo",
+        "i-seLAYyrn2x"
+      ],
+      "mixedListOrder": [
+        "i-JAT4Pva730",
+        "i-uKDIVWmghN",
+        "i-90xm1nrhuA",
+        "i-7j7yRqb1sV",
+        "i-Nb1FdihTfo",
+        "i-seLAYyrn2x"
+      ]
+    },
+    "_updatedAtMs": 1793119668000,
+    "_lastAppliedFullyAtMs": 1793119668000,
+    "isStale": false,
+    "taskInfo": {
+      "taskId": "20261028004703676989236",
+      "loading": false,
+      "status": 3,
+      "progressPercent": 100,
+      "failedReason": "输入内容未通过安全审核，积分将会在2小时内返还，请修改描述或素材后重试",
+      "tracking": {
+        "successEvent": "libtv.canvas.generator.success",
+        "failEvent": "libtv.canvas.generator.fail",
+        "commonParams": {
+          "billing_mode": "credits",
+          "queue_type": "normal",
+          "throttle_state": "none",
+          "generator_type": "视频生成器",
+          "function_name": "全能参考",
+          "model_name": "Minimax H3",
+          "model_version_id": "MiniMax-Hailuo-H3",
+          "node_uuid": "v-rVdFbiB2Ip",
+          "entry_source": "canvas",
+          "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+          "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+        },
+        "submittedAtMs": 1793119656298
+      },
+      "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+      "recognizeAssetsOnly": false
+    }
+  },
+  "position": {
+    "x": 1080,
+    "y": 1986
+  },
+  "measured": {
+    "width": 622,
+    "height": 350
+  },
+  "sourcePosition": "right",
+  "targetPosition": "left"
+}

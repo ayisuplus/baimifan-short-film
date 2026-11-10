@@ -1,0 +1,38 @@
+{
+  "status": "作者已否定场景/画风一致性；原工程结构核验仅作技术记录，不代表视觉通过",
+  "timeline": "v005_2D_Anime_Fixes",
+  "frames": 11497,
+  "video_clips": 121,
+  "selected_voice_cues": 63,
+  "voice_pieces": 64,
+  "music_segments": 17,
+  "audio_items": 85,
+  "enabled_audio_tracks": 8,
+  "audio_exactly_matches_v004": true,
+  "replaced_style_windows": 4,
+  "replacement_segments": 7,
+  "video_decode": "4条v009完整解码及哈希通过",
+  "source_and_native_frames": "四处7段原速，源区间/位置/裁切值回读一致；其他段沿用原计划",
+  "author_b12_cut_preserved": true,
+  "old_timelines_preserved": [
+    "v003_Dramatic_Reconstruction",
+    "v004_Screenshot_2D_Style_Rework"
+  ],
+  "new_video_or_project_exported": false,
+  "cost_estimates": {
+    "v007": 887.4,
+    "v008": 214.2,
+    "v009": 214.2
+  },
+  "total_estimated_h3_credits": 1315.8,
+  "billing_verified": false,
+  "image_generation": "内置imagegen重绘4张关键帧；未纳入H3积分估算",
+  "remaining": [
+    "日语逐音素精度及全片连续听审未完成",
+    "展翼0.75秒翼膜插镜放大后略软；闭口尾有约10帧时间跳跃，待作者观感核验",
+    "只修作者截图范围及接点；其余同类问题待作者核定后再查"
+  ],
+  "preview_server": "8968未运行；此前启动被自动审批策略阻止，未另起服务绕过",
+  "historical_status_before_author_review": "截图范围二维纠偏及工程结构已核验，待作者核定",
+  "latest_review": "后期/参考一致性复核-v006/作者纠偏与试验.json"
+}

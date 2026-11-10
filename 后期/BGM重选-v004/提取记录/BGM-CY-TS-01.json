@@ -1,0 +1,40 @@
+{
+  "id": "BGM-CY-TS-01",
+  "bvid": "BV1dV411Y7Ku",
+  "part": 1,
+  "title": "Heart of Courage",
+  "display_title": "勇气之心",
+  "work": "Two Steps From Hell",
+  "composer": "Two Steps From Hell",
+  "source_page_title": "Heart of Courage",
+  "navigation_translation": "中文名为导航释义，原名保留。",
+  "cid": 312509970,
+  "source": "https://www.bilibili.com/video/BV1dV411Y7Ku/?p=1",
+  "uploader": "xtrikil",
+  "video_title": "【史诗音乐】两步逃离地狱Two Step From Hell选集 1",
+  "path": "资产/声音/BGM/重选-v004/BGM-CY-TS-01.m4a",
+  "bytes": 994453,
+  "sha256": "f3eb89235002f9d0060f6ab9721d7cc2c51c8b2c2b51c7431cadee76ff51188c",
+  "duration": 118.328662,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "67116"
+      }
+    ],
+    "format": {
+      "duration": "118.328662"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

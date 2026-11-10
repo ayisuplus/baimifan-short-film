@@ -1,0 +1,43 @@
+subject_definitions:
+<Subject 1>: Hunyuan, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: Llama, identity and outfit from four-view sheet <Picture 2>.
+<Subject 3>: Zhipu, identity and outfit from four-view sheet <Picture 3>.
+<Subject 4>: Mistral, identity and outfit from four-view sheet <Picture 4>.
+<Subject 5>: Perplexity, identity and outfit from four-view sheet <Picture 5>.
+<Subject 6>: Qwen, identity and outfit from four-view sheet <Picture 6>.
+<Subject 7>: DeepSeek, identity and outfit from four-view sheet <Picture 7>.
+<Subject 8>: ChatGPT, identity and outfit from four-view sheet <Picture 8>.
+<Picture 9>: [Shot 1] composition and state reference; not its first frame.
+<Picture 10>: [Shot 2] composition and state reference; not its first frame.
+<Picture 11>: [Shot 3] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. Five responses close the flashback; present-day reassurance and an upward eyeline lead into GPT's takeoff and chant.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Subject 3>: fully_preserved - identity and outfit design.
+<Subject 4>: fully_preserved - identity and outfit design.
+<Subject 5>: fully_preserved - identity and outfit design.
+<Subject 6>: fully_preserved - identity and outfit design.
+<Subject 7>: fully_preserved - identity and outfit design.
+<Subject 8>: fully_preserved - identity and outfit design.
+<Picture 9>: weak_reference - shot layout; animate the specified action.
+<Picture 10>: weak_reference - shot layout; animate the specified action.
+<Picture 11>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Cut from Kimi's nod to the first panel, add a panel every 0.6 seconds and retain those already visible; hold the full five-panel view before a hard cut back to the present cathedral. Use <Picture 9> for composition. Begin with Hunyuan's panel visible and the other four dark. Hunyuan raises her gaze, Llama lowers the hand rubbing her eyes, GLM closes her book, Mistral lifts her sword and Perplexity adjusts her glasses. Add one panel every 0.6 seconds while keeping the earlier panels visible, then hold all five. This is the end of the earlier summons montage, not simultaneous arrivals inside the church. Keep each of five panel cameras stable. Reveal panels editorially from left to right rather than panning one camera across them; characters never cross panels. Five light editorial accents accompany the reveals, with each location's ambience kept distinct. Do not add spoken replies. From 0.1 to 3.03107 seconds, ChatGPT (S1) speaks outside the frame: <d>[Japanese] コンゲン、ラマ……みんな来て。</d>.
+[Shot 2] At 00:04.000, Hard-cut back to the present beside the pillar. After the brief line and the child's grip, cut to the wings; a faint wing sound may lead the cut. Use <Picture 10> for composition. The flashback has ended. Qwen has already brought DeepSeek inside the right-hand pillar while Kimi's protection is active. Qwen supports the child securely with her LEFT arm and holds the closed fan low in her RIGHT hand. She lowers her eyes to reassure the child, who grips her clothing and leans closer; Qwen then looks up toward GPT. Keep these anatomical hands even if the composition reference is reversed. Use a small upward tilt in the close two-shot, following the child clutching the clothing and Qwen raising her eyes toward the offscreen height. Clothing tightens and a short breath accompanies the reassurance. Preserve the child's reaction after the line, then introduce a low wingbeat at the end. From 4.2 to 5.3 seconds, Qwen (S2) speaks with matching lip movement: <d>[Japanese] つかまって。</d>.
+[Shot 3] At 00:06.000, Cut along Qwen's upward eyeline to GPT. Do not restart the takeoff after the feet lift; hovering and the incantation lead into the enemy looking up. Use <Picture 11> for composition. GPT begins standing in the central aisle. She spreads both membranous wings, drives them downward to lift dust and rise off the floor, clears the hanging chandelier and hovers below the still-intact nave vault. Water droplets ascend at different depths. Only after stabilizing does she begin the incantation. No water dragon exists yet. From a low wide view, tilt up and rise slightly with the feet leaving the floor; keep both wings readable and ease to rest as GPT hovers beneath the vaulted roof. Effect timings are relative to this shot start: For the first 4.2 seconds use low wing-membrane vibration and air movement; then lower these under the opening incantation. Do not repeat Qwen's preceding line. From 10.2 to 12.9 seconds, ChatGPT (S1) speaks with matching lip movement: <d>[Japanese] 蒼穹の果てに座し、</d>.
+From 13 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 6s: Begin the wing-spread and lift-off shot.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

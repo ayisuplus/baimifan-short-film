@@ -1,0 +1,159 @@
+{
+  "changes": [
+    {
+      "field": ".continuity.wet_state",
+      "before": "中央中殿露天，后殿拱顶完整，十字架正后中央高窗被明刃击穿。入罩前的汗湿与衣发状态保留；GPT主动将洪流引离祭坛中央安全区，暗月罩隔绝教徒法术及外侧残焰。战后撤罩，潮湿殿内的水雾轻沾衣边，再接后续蒸干；所有烛火和散柴均已熄灭。",
+      "after": "中央中殿露天，后殿拱顶完整，十字架正后中央高窗被明刃击穿。入罩前的汗湿与衣发状态保留；GPT主动将洪流引离祭坛中央安全区，暗月罩隔绝教徒法术及外侧残焰。战后撤罩，衣物没有被水龙浇湿，不安排烘干；焦边与束缚压痕仍在；所有烛火和散柴均已熄灭。"
+    },
+    {
+      "field": ".continuity.lighting",
+      "before": "沧海天倾前六火盆、中央环形烛式吊灯、两后墙壁烛和两石座单烛发暖光。祭前低柴、回堂后高柴，到CY022才点燃。Kimi破柴后两侧与脚下散柴仍燃紫黑火；CY024B后所有普通灯火与残柴熄灭。冷月光照明，后殿拱顶完整；最后空刑架星火不重新点亮普通灯具。",
+      "after": "沧海天倾前六火盆、中央环形烛式吊灯、两后墙壁烛和两石座单烛发暖光。祭前低柴、回堂后高柴，到CY022才点燃。Kimi破柴后中央脚托周边已清空，燃烧的散柴均在暗罩外两侧；CY024B后所有普通灯火与残柴熄灭。冷月光照明，后殿拱顶完整；最后空刑架星火不重新点亮普通灯具。"
+    },
+    {
+      "field": ".continuity.water_impact_insert",
+      "before": "单一水龙撞教主金罩，龙首接触后才化浪，后随水身和余水分到两翼冲散教徒、灭残柴及普通灯火。B3两侧退水，B3A罩内安抚，B1教徒失足。后墙长椅固定。",
+      "after": "单一水龙撞教主金罩，龙首接触后才化浪，后随水身和余水分到两翼冲散教徒、灭残柴及普通灯火。B1洪流冲散教徒，冲击结束后B3浅水环境余波，再接B3A罩内安抚。后墙长椅固定。"
+    },
+    {
+      "field": ".continuity.altar_lighting_v023",
+      "before": "沧海天倾前六火盆、中央环形烛式吊灯、两后墙壁烛和两石座单烛发暖光。祭前低柴、回堂后高柴，到CY022才点燃。Kimi破柴后两侧与脚下散柴仍燃紫黑火；CY024B后所有普通灯火与残柴熄灭。冷月光照明，后殿拱顶完整；最后空刑架星火不重新点亮普通灯具。",
+      "after": "沧海天倾前六火盆、中央环形烛式吊灯、两后墙壁烛和两石座单烛发暖光。祭前低柴、回堂后高柴，到CY022才点燃。Kimi破柴后中央脚托周边已清空，燃烧的散柴均在暗罩外两侧；CY024B后所有普通灯火与残柴熄灭。冷月光照明，后殿拱顶完整；最后空刑架星火不重新点亮普通灯具。"
+    },
+    {
+      "field": ".shots[71].exit_state",
+      "before": "GPT已在主水幕侧前方高空悬停并开始咏唱；教主抬眼。",
+      "after": "GPT已在完整中殿穹顶下悬停并开始咏唱，水龙尚未形成；教主抬眼。"
+    },
+    {
+      "field": ".shots[109].next_link",
+      "before": "接 CY028B：解锁后确认小鱼安全，衣料仍湿且焦损。",
+      "after": "接 CY028B：解锁后确认小鱼安全，衣料没有挂水，固定焦损仍在。"
+    },
+    {
+      "field": ".shots[110].entry_state",
+      "before": "解锁后确认小鱼安全，衣料仍湿且焦损。",
+      "after": "解锁后确认小鱼安全，衣料没有挂水，固定焦损仍在。"
+    },
+    {
+      "field": ".shots[110].exit_state",
+      "before": "初蓄不熄灭，开句跨切裙边水汽。",
+      "after": "初蓄不熄灭，开句跨切同一右手腕部的锁痕与微光。"
+    },
+    {
+      "field": ".shots[114].invariants[5]",
+      "before": "Claude已解缚并蒸干衣料，虚弱状态延续。",
+      "after": "Claude已解缚，衣物没有被水龙浇湿，虚弱与焦损状态延续。"
+    },
+    {
+      "field": ".shots[115].invariants[5]",
+      "before": "Claude已解缚并蒸干衣料，虚弱状态延续。",
+      "after": "Claude已解缚，衣物没有被水龙浇湿，虚弱与焦损状态延续。"
+    },
+    {
+      "field": ".shots[116].invariants[5]",
+      "before": "Claude已解缚并蒸干衣料，虚弱状态延续。",
+      "after": "Claude已解缚，衣物没有被水龙浇湿，虚弱与焦损状态延续。"
+    },
+    {
+      "field": ".shots[117].invariants[5]",
+      "before": "Claude已解缚并蒸干衣料，虚弱状态延续。",
+      "after": "Claude已解缚，衣物没有被水龙浇湿，虚弱与焦损状态延续。"
+    },
+    {
+      "field": ".shots[118].invariants[7]",
+      "before": "人物头纱/衣料已经蒸干；火种触木前刑架不燃，普通灯具保持熄灭。",
+      "after": "人物头纱与衣料没有挂水，原有焦损保留；火种触木前刑架不燃，普通灯具保持熄灭。"
+    },
+    {
+      "field": ".shots[120].invariants[7]",
+      "before": "人物头纱/衣料已经蒸干；火种触木前刑架不燃，普通灯具保持熄灭。",
+      "after": "人物头纱与衣料没有挂水，原有焦损保留；火种触木前刑架不燃，普通灯具保持熄灭。"
+    },
+    {
+      "field": "audio.shot_overrides.CY028B.note",
+      "before": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "after": "Claude选择与离殿；CY029/CY029E父亲打断，停乐仍待精剪"
+    },
+    {
+      "field": "audio.shot_overrides.CY028C.note",
+      "before": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "after": "Claude选择与离殿；CY029/CY029E父亲打断，停乐仍待精剪"
+    },
+    {
+      "field": "audio.shot_overrides.CY029.note",
+      "before": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "after": "Claude选择与离殿；CY029/CY029E父亲打断，停乐仍待精剪"
+    },
+    {
+      "field": "audio.shot_overrides.CY029E.note",
+      "before": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "after": "Claude选择与离殿；CY029/CY029E父亲打断，停乐仍待精剪"
+    },
+    {
+      "field": "audio.shot_overrides.CY029E1.note",
+      "before": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "after": "Claude选择与离殿；CY029/CY029E父亲打断，停乐仍待精剪"
+    },
+    {
+      "field": "audio.shot_overrides.CY029E2.note",
+      "before": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "after": "Claude选择与离殿；CY029/CY029E父亲打断，停乐仍待精剪"
+    },
+    {
+      "field": "audio.shot_overrides.CY029E3.note",
+      "before": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "after": "Claude选择与离殿；CY029/CY029E父亲打断，停乐仍待精剪"
+    },
+    {
+      "field": "audio.shot_overrides.CY029E4.note",
+      "before": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "after": "Claude选择与离殿；CY029/CY029E父亲打断，停乐仍待精剪"
+    },
+    {
+      "field": "audio.shot_overrides.CY029B1.note",
+      "before": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "after": "Claude选择与离殿；CY029/CY029E父亲打断，停乐仍待精剪"
+    },
+    {
+      "field": "audio.shot_overrides.CY029B2.note",
+      "before": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "after": "Claude选择与离殿；CY029/CY029E父亲打断，停乐仍待精剪"
+    },
+    {
+      "field": "audio.shot_overrides.CY029B.note",
+      "before": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "after": "Claude选择与离殿；CY029/CY029E父亲打断，停乐仍待精剪"
+    },
+    {
+      "field": "audio.shot_overrides.CY029C.note",
+      "before": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "after": "Claude选择与离殿；CY029/CY029E父亲打断，停乐仍待精剪"
+    },
+    {
+      "field": "audio.shot_overrides.CY029D.note",
+      "before": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "after": "Claude选择与离殿；CY029/CY029E父亲打断，停乐仍待精剪"
+    },
+    {
+      "field": "audio.shot_overrides.CY028.note",
+      "before": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "after": "Claude选择与离殿；CY029/CY029E父亲打断，停乐仍待精剪"
+    },
+    {
+      "field": "audio.shot_overrides.CY029A.note",
+      "before": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "after": "Claude选择与离殿；CY029/CY029E父亲打断，停乐仍待精剪"
+    },
+    {
+      "field": "audio.shot_overrides.CY030.note",
+      "before": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪",
+      "after": "Claude选择与离殿；CY029/CY029E父亲打断，停乐仍待精剪"
+    }
+  ],
+  "count": 30,
+  "images": "unchanged",
+  "dialogue": "unchanged",
+  "timing": "unchanged",
+  "music": "unchanged"
+}

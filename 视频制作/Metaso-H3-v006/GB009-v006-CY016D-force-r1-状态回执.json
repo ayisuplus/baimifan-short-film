@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115326630083633152",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "小鱼拦木被推倒地",
+    "status": "succeeded",
+    "created_at": 1793168144,
+    "updated_at": 1793168178,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115326630083633152/content?expires=1793773337&signature=b60bbb23090222b094ce3fe223851a209eade90ba5af02b45a790bed1b8ea70b"
+    },
+    "resolution": "768P",
+    "duration": 6,
+    "usage": {
+      "total_seconds": 6,
+      "input_seconds": 0,
+      "output_seconds": 6,
+      "input_image_count": 1
+    },
+    "ratio": "adaptive",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "BGM-CY-FR-40",
+  "bvid": "BV1U6BfBCE5o",
+  "part": 40,
+  "title": "Deep in the Dungeon",
+  "display_title": "迷宫深处",
+  "work": "葬送的芙莉莲",
+  "composer": "Evan Call",
+  "source_page_title": "40.Deep in the Dungeon",
+  "navigation_translation": "中文曲名为导航释义；原名保留。",
+  "cid": 35569863708,
+  "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=40",
+  "uploader": "高速公路的残像",
+  "video_title": "《葬送的芙莉莲》原声带",
+  "path": "资产/声音/BGM/重选-v003/BGM-CY-FR-40.m4a",
+  "bytes": 1403052,
+  "sha256": "bcb4259f1baaf884b54ccabb88553365540e4b2d872eae5507bd580734021678",
+  "duration": 113.847211,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "92927"
+      }
+    ],
+    "format": {
+      "duration": "113.847211"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

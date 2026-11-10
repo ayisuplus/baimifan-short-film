@@ -1,0 +1,54 @@
+subject_definitions:
+<Subject 1>: Claude, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: ChatGPT, identity and outfit from four-view sheet <Picture 2>.
+<Subject 3>: DeepSeek, identity and outfit from four-view sheet <Picture 3>.
+<Subject 4>: Qwen, identity and outfit from four-view sheet <Picture 4>.
+<Subject 5>: Gemini, identity and outfit from four-view sheet <Picture 5>.
+<Subject 6>: Grok, identity and outfit from four-view sheet <Picture 6>.
+<Subject 7>: Hunyuan, identity and outfit from four-view sheet <Picture 7>.
+<Subject 8>: Llama, identity and outfit from four-view sheet <Picture 8>.
+<Subject 9>: Zhipu, identity and outfit from four-view sheet <Picture 9>.
+<Subject 10>: Mistral, identity and outfit from four-view sheet <Picture 10>.
+<Subject 11>: Perplexity, identity and outfit from four-view sheet <Picture 11>.
+<Subject 12>: Kimi, identity and outfit from four-view sheet <Picture 12>.
+<Subject 13>: the palace paladins, identity and outfit from four-view sheet <Picture 13>.
+<Picture 14>: [Shot 1] composition and state reference; not its first frame.
+<Picture 15>: [Shot 2] composition and state reference; not its first frame.
+<Picture 16>: [Shot 3] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. A voluntary lean in the carry leads to departure, then a clear time cut returns to sunshine, rice and an empty seat.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Subject 3>: fully_preserved - identity and outfit design.
+<Subject 4>: fully_preserved - identity and outfit design.
+<Subject 5>: fully_preserved - identity and outfit design.
+<Subject 6>: fully_preserved - identity and outfit design.
+<Subject 7>: fully_preserved - identity and outfit design.
+<Subject 8>: fully_preserved - identity and outfit design.
+<Subject 9>: fully_preserved - identity and outfit design.
+<Subject 10>: fully_preserved - identity and outfit design.
+<Subject 11>: fully_preserved - identity and outfit design.
+<Subject 12>: fully_preserved - identity and outfit design.
+<Subject 13>: fully_preserved - identity and outfit design.
+<Picture 14>: weak_reference - shot layout; animate the specified action.
+<Picture 15>: weak_reference - shot layout; animate the specified action.
+<Picture 16>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Continue from the secure carry into Claude's voluntary shoulder touch, not another catch; their turn leads into the lower-hall reunion. Use <Picture 14> for composition. Claude is already safely carried and conscious. She places a hand on GPT's shoulder and willingly leans closer. GPT maintains one arm behind her back and the other beneath her knees, turning toward the descending stairs from the top platform without putting her down. Preserve the existing burn damage and pallor. End with them oriented toward the exit; the descent can be omitted. Track gently with their turn in the carried close two-shot, preserving both supporting arms and facial relationship without crossing the axis. A soft sleeve brush and Claude's breathing becoming steadier.
+[Shot 2] At 00:03.000, Match the turn to the lower nave, omitting the stairs. Footsteps and the cross's fire recede before a clear temporal cut to the market. Use <Picture 15> for composition. After the omitted descent, GPT still carries Claude in the lower nave and joins Qwen carrying DeepSeek. Twelve core characters leave along the aisle in one group; the other companions distribute beside and behind them. Fallen enemies remain on the floor. Knights stay to secure the church's flanks and entrances and do not join the market ending. Claude's clothing remains scorched. End with the group departing, leading to several days later. Retreat slowly in a rear wide view to expand the hall around the twelve core characters, distinguishing the stationary flank knights without passing through anyone. Footsteps recede while drips and the empty cross's fire remain inside, softening before the street transition.
+[Shot 3] At 00:09.000, Make a clear several-days-later cut from the night church; street sound replaces hall ambience rather than suggesting continuous travel into daylight. Use <Picture 16> for composition. Several days have passed. DeepSeek sits alone on a bright market bench with hot rice in the bowl on her lap, her feet not reaching the ground and clothes clean. Keep the empty seat to her right clearly visible. Hearing approaching footsteps, she looks right toward the arrival. No one has sat in that space yet. End on the expectant look. Track slowly along the sunlit bench in a medium-wide view, preserving the empty place to the child's right and stopping as she turns to footsteps. Familiar market murmur and light bowl sounds; no new intelligible crowd lines.
+From 14 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 9s: Cut to the market days later.
+Japanese speech with lip sync; no audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

@@ -1,0 +1,282 @@
+{
+  "batch": {
+    "batch_number": 14,
+    "batch_id": "GB011-2",
+    "title": "还想站起来、攥住袍尾",
+    "shot_ids": [
+      "CY021",
+      "CY021B"
+    ],
+    "film_start": 166.472729,
+    "film_end": 172.272729,
+    "used_seconds": 5.8,
+    "original_duration": 15,
+    "duration": 6,
+    "prompt": "subject_definitions:\n<Picture 1>=DeepSeek四视图：同一人四角度，身份服饰保持\n<Picture 2>=教主四视图：同一人四角度，身份服饰保持\n<Picture 3>=构图状态，非强制首帧\n<Picture 4>=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，6秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–3.8s <Picture 3>；画内:DeepSeek、教主。动作匹配延续刚才撑地，完成一次失败；Claude求情来自高处画外而非宝宝口型。贴地近景从同一手肘支撑接起，微横移跟目光落到近旁袍尾，保持身体留地，不再下坠。宝宝在长阶下端撑地失败，望向身旁教主的袍尾。 调度:镜长3.8秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 本镜3.8秒接<Picture 4>两秒；延续唯一一次撑地失败，不再次摔倒。 注意:延续唯一一次撑地失败，不再次摔倒；Claude完整4.13秒求情画外连续，跨下一镜约0.33秒，宝宝不代说。维持现有构图与光源。 人物:教主仅身旁袍尾局部；Claude求情为画外声。 声音:急促喘息、衣料擦地。宝宝不代说、不张口同步。 Claude在镜内0–4.13秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 2] 3.8–5.8s <Picture 4>；画内:DeepSeek、教主。顺上一镜伸手方向切局部，手抵达同一条袍尾才抓紧，不重新伸第二次。小手与袍尾极近特写随指尖短横移，攥住后定住，让衣料由松到绷传递阻力。只见宝宝的袖口、前臂和小手攥住黑金袍尾；衣料绷紧，身体与头部在画外。 调度:镜长2秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 原“无对白”只表示画内人物不说话；承载同一条Claude画外对白余段。 注意: 与新对峙镜衔接：保留当前构图动作；后期轻收地面与金饰高光，人物肤色及原光源位置保持。 人物:只见小手、袖口与教主袍尾，两人头身画外。 声音:攥紧衣料与宝宝喘息；Claude求情承前连续至本镜末，不重说开头，没有穿云信号。\n0–4.13s Claude 画外连续，不让在画者代说:<d>[Japanese] お父様……その子を逃がして。</d>；仅一次。\n5.8–6s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+        "kind": "identity",
+        "person": "DeepSeek",
+        "name_en": "DeepSeek",
+        "asset_id": "CHAR-DEEPSEEK",
+        "status": "候选待作者审阅",
+        "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+        "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+        "source_path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+        "source_sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+        "sha1": "d9d76117c7724d34a366061d3bb38d3a2c70e2c6",
+        "file_size": 1868475,
+        "width": 2169,
+        "height": 868,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-DEEPSEEK-TURN-v003-h3-pad.png"
+      },
+      {
+        "slot": 2,
+        "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+        "kind": "identity",
+        "person": "教主",
+        "name_en": "the High Priest",
+        "asset_id": "CHAR-PRIEST",
+        "status": "生成前修正候选，待作者审阅",
+        "limits": "四幅全身正、朝左、背、朝右；侧背结构为基于原立绘的合理补全，待作者确认。",
+        "purpose": "教主四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+        "source_path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+        "source_sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+        "sha1": "34f6c0a8dc9ecb9773d855ad67bb2225c2b36a57",
+        "file_size": 2283123,
+        "width": 1774,
+        "height": 887,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\图像\\四视图\\CHAR-PRIEST-TURN-v001.png"
+      },
+      {
+        "slot": 3,
+        "path": "镜头设计/图像/连续性修复-v049/CY021-v049-r2.png",
+        "kind": "composition",
+        "shot_id": "CY021",
+        "purpose": "构图、空间与代表状态：还想站起来；不是默认首帧",
+        "status": "v0.49连续性局部修订，待作者视觉确认",
+        "limits": "",
+        "sha256": "9cc362d9d140f525aa1e25008d0ca4a9247098570b2c6623185380d0ad218afe",
+        "source_path": "镜头设计/图像/连续性修复-v049/CY021-v049-r2.png",
+        "source_sha256": "9cc362d9d140f525aa1e25008d0ca4a9247098570b2c6623185380d0ad218afe",
+        "sha1": "dfc41ae2e5fb5ad6eb7304e9ea9c40d4424a867f",
+        "file_size": 2558832,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\连续性修复-v049\\CY021-v049-r2.png"
+      },
+      {
+        "slot": 4,
+        "path": "镜头设计/图像/动作收尾-v015/CY021B-v015-r1.png",
+        "kind": "composition",
+        "shot_id": "CY021B",
+        "purpose": "构图、空间与代表状态：攥住袍尾；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "3e07b40030d09093c451ffd3bb464de88ceba84dda7ad593a1aeface4cb03481",
+        "source_path": "镜头设计/图像/动作收尾-v015/CY021B-v015-r1.png",
+        "source_sha256": "3e07b40030d09093c451ffd3bb464de88ceba84dda7ad593a1aeface4cb03481",
+        "sha1": "a0f3ccad1d172db88e58d229bad9b3df1f8f04a9",
+        "file_size": 2260710,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\动作收尾-v015\\CY021B-v015-r1.png"
+      }
+    ],
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 6,
+      "count": 1
+    },
+    "estimated_credits": 84,
+    "estimate_basis": "15秒报价210，按秒计费推算，提交前以网页实价为准",
+    "budget_selected": true,
+    "status": "prepared_not_submitted",
+    "task_id": null,
+    "node_id": "v-x3g6bvFxHP",
+    "display_name": "第14批 · 还想站起来、攥住袍尾 · H3 v001"
+  },
+  "request": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "node": "v-x3g6bvFxHP",
+    "idempotencyKey": "bmf-h3-GB011-2-wire-full",
+    "model": "MiniMax-Hailuo-H3",
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 6,
+      "count": 1
+    },
+    "prompt": "subject_definitions:\n{{Node i-JAT4Pva730}}=DeepSeek四视图：同一人四角度，身份服饰保持\n{{Node i-rFc0P8dawG}}=教主四视图：同一人四角度，身份服饰保持\n{{Node i-X5Q3MpJX9G}}=构图状态，非强制首帧\n{{Node i-iHjFB0bZxp}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，6秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–3.8s {{Node i-X5Q3MpJX9G}}；画内:DeepSeek、教主。动作匹配延续刚才撑地，完成一次失败；Claude求情来自高处画外而非宝宝口型。贴地近景从同一手肘支撑接起，微横移跟目光落到近旁袍尾，保持身体留地，不再下坠。宝宝在长阶下端撑地失败，望向身旁教主的袍尾。 调度:镜长3.8秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 本镜3.8秒接{{Node i-iHjFB0bZxp}}两秒；延续唯一一次撑地失败，不再次摔倒。 注意:延续唯一一次撑地失败，不再次摔倒；Claude完整4.13秒求情画外连续，跨下一镜约0.33秒，宝宝不代说。维持现有构图与光源。 人物:教主仅身旁袍尾局部；Claude求情为画外声。 声音:急促喘息、衣料擦地。宝宝不代说、不张口同步。 Claude在镜内0–4.13秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 2] 3.8–5.8s {{Node i-iHjFB0bZxp}}；画内:DeepSeek、教主。顺上一镜伸手方向切局部，手抵达同一条袍尾才抓紧，不重新伸第二次。小手与袍尾极近特写随指尖短横移，攥住后定住，让衣料由松到绷传递阻力。只见宝宝的袖口、前臂和小手攥住黑金袍尾；衣料绷紧，身体与头部在画外。 调度:镜长2秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 原“无对白”只表示画内人物不说话；承载同一条Claude画外对白余段。 注意: 与新对峙镜衔接：保留当前构图动作；后期轻收地面与金饰高光，人物肤色及原光源位置保持。 人物:只见小手、袖口与教主袍尾，两人头身画外。 声音:攥紧衣料与宝宝喘息；Claude求情承前连续至本镜末，不重说开头，没有穿云信号。\n0–4.13s Claude 画外连续，不让在画者代说:<d>[Japanese] お父様……その子を逃がして。</d>；仅一次。\n5.8–6s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "leftEnsure": [
+      "i-JAT4Pva730",
+      "i-rFc0P8dawG",
+      "i-X5Q3MpJX9G",
+      "i-iHjFB0bZxp"
+    ],
+    "newName": "第14批 · 还想站起来、攥住袍尾 · H3 v001",
+    "run": false
+  },
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-x3g6bvFxHP",
+    "node": {
+      "id": "v-x3g6bvFxHP",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第14批 · 还想站起来、攥住袍尾 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Image 1}}=DeepSeek四视图：同一人四角度，身份服饰保持\n{{Image 2}}=教主四视图：同一人四角度，身份服饰保持\n{{Image 3}}=构图状态，非强制首帧\n{{Image 4}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，6秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–3.8s {{Image 3}}；画内:DeepSeek、教主。动作匹配延续刚才撑地，完成一次失败；Claude求情来自高处画外而非宝宝口型。贴地近景从同一手肘支撑接起，微横移跟目光落到近旁袍尾，保持身体留地，不再下坠。宝宝在长阶下端撑地失败，望向身旁教主的袍尾。 调度:镜长3.8秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 本镜3.8秒接{{Image 4}}两秒；延续唯一一次撑地失败，不再次摔倒。 注意:延续唯一一次撑地失败，不再次摔倒；Claude完整4.13秒求情画外连续，跨下一镜约0.33秒，宝宝不代说。维持现有构图与光源。 人物:教主仅身旁袍尾局部；Claude求情为画外声。 声音:急促喘息、衣料擦地。宝宝不代说、不张口同步。 Claude在镜内0–4.13秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 2] 3.8–5.8s {{Image 4}}；画内:DeepSeek、教主。顺上一镜伸手方向切局部，手抵达同一条袍尾才抓紧，不重新伸第二次。小手与袍尾极近特写随指尖短横移，攥住后定住，让衣料由松到绷传递阻力。只见宝宝的袖口、前臂和小手攥住黑金袍尾；衣料绷紧，身体与头部在画外。 调度:镜长2秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 原“无对白”只表示画内人物不说话；承载同一条Claude画外对白余段。 注意: 与新对峙镜衔接：保留当前构图动作；后期轻收地面与金饰高光，人物肤色及原光源位置保持。 人物:只见小手、袖口与教主袍尾，两人头身画外。 声音:攥紧衣料与宝宝喘息；Claude求情承前连续至本镜末，不重说开头，没有穿云信号。\n0–4.13s Claude 画外连续，不让在画者代说:<d>[Japanese] お父様……その子を逃がして。</d>；仅一次。\n5.8–6s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png"
+            },
+            {
+              "nodeId": "i-rFc0P8dawG",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/fa4f10b325b23f5ceaddd2850fbe68978ba0c04d.png"
+            },
+            {
+              "nodeId": "i-X5Q3MpJX9G",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/267aee5e5ffc714646b82b96c8c1d3815e07d10e.png"
+            },
+            {
+              "nodeId": "i-iHjFB0bZxp",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/7c2b1a9a411c8da41b5b884ea8a91404303420fb.png"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 6
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png",
+              "label": "CHAR-DEEPSEEK-TURN-v003 · H3留白适配",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-uKDIVWmghN",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/88234e0405150bf25c82642dd7493f40996749c6.png",
+              "label": "CHAR-CLAUDE-TURN-v001 · H3留白适配",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-rFc0P8dawG",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/fa4f10b325b23f5ceaddd2850fbe68978ba0c04d.png",
+              "label": "CHAR-PRIEST-TURN-v001",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-Rfv7WXNC5h",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d6696d1b93f22e11951924a3fb1c677375fbc8ff.png",
+              "label": "CY020-v014-r4",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-ZpZLcMsUIu",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/713f97af832fc66727319a66afe6262443c51be9.png",
+              "label": "CY020B-v060-r1",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-1iatdrcZio",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/c76c01ca34eeea1dc9c3c0b57b9f91e7bc309da5.png",
+              "label": "CY020A-v060-r1",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-JAT4Pva730",
+            "i-rFc0P8dawG",
+            "i-X5Q3MpJX9G",
+            "i-iHjFB0bZxp"
+          ],
+          "mixedListOrder": [
+            "i-JAT4Pva730",
+            "i-rFc0P8dawG",
+            "i-X5Q3MpJX9G",
+            "i-iHjFB0bZxp"
+          ]
+        },
+        "_updatedAtMs": 1793120840000,
+        "_lastAppliedFullyAtMs": 1793120840000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        }
+      },
+      "position": {
+        "x": 5592,
+        "y": 2796
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-x3g6bvFxHP",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

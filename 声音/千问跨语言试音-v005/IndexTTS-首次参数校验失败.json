@@ -1,0 +1,15 @@
+{
+  "engine": "IndexTTS-2.5",
+  "api": "http://127.0.0.1:7860",
+  "endpoint": "/gen_single",
+  "reference": "千问-Breeze-中文原声.flac",
+  "reference_sha256": "9219b8dd3f4966d128e4db573e28963819d1729fbdb167fcd5b6272b67455565",
+  "text": "行きましょう。つかまって。",
+  "lang_choice": "JA",
+  "emo_control_method": "与音色参考音频相同",
+  "duration_factor": 1.0,
+  "emo_random": false,
+  "voice_approved": false,
+  "status": "client_validation_failed",
+  "failure": "gradio_client argument validation rejected missing emo_ref_path before submission"
+}

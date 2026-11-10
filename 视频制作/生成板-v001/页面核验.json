@@ -1,0 +1,10 @@
+{
+  "interface": "Codex内置浏览器",
+  "page_loaded": true,
+  "observed_batches": 33,
+  "observed_shots": 132,
+  "model_switch": "Seedance 2.5 -> MiniMax H3，完整提示词文本更新",
+  "copy_button": "显示已复制完整提示词",
+  "screenshot": "页面核验.png",
+  "limits": "未据此声称所有原图逐张实看、音频实听或动态通过"
+}

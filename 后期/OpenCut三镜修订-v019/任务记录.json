@@ -1,0 +1,22 @@
+{
+  "reply": "4e63dfab-3e0c-44fe-b924-310e04f445e7",
+  "native_resolution": [
+    1344,
+    768
+  ],
+  "fps": 24,
+  "upscale": false,
+  "paid_nodes": false,
+  "workflow_validation": "both valid, zero errors, zero warnings",
+  "walk": "8c02beb0-7333-4a2e-8588-68005bc8361b",
+  "reply_r2": "7ea2b9c2-3260-47e3-9559-d77e66d7b20b",
+  "reply_r2_status": "failed before sampling: task i2v supplied last_frame; not retried following user direction",
+  "direction": "User adopts emotional dimming; retain reply-r1; generate progressive lamp extinction while walking",
+  "walk_r2": "d1aca1fb-37bc-48f0-a6fd-7d096866c8cf",
+  "adopted": [
+    "reply-r1",
+    "walk-r2",
+    "exit-r1 trimmed to 78 frames"
+  ],
+  "exit_r1": "4a200678-c6f2-4bb4-b925-61f56fe5e7e9"
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "id": "042",
+    "group": 1,
+    "source_shot": "042",
+    "source_frame": 5,
+    "generate_frames": 72,
+    "target_frames": 42,
+    "camera": "低位中轴全景，轻推，先建立威胁距离",
+    "key_prompt": "Keep the low central-aisle wide composition and cathedral architecture. The small blue whale-hooded girl is on her hands and knees in the lower left foreground. The red-haired black-and-gold priest is farther away at the foot of the altar stairs, facing her. One hooded acolyte at the girl's left leans toward her shoulder, still separate from her. Other acolytes remain on both aisle edges. High altar black-cored violet fire stays at the distant altar, no orange fire on timber, no fire touching the child. Three pairs of small amber braziers stay beside the stairs. Preserve intact walls, roof and windows. Stylize the reflective stone as painted reflections, not a mirror CGI floor.",
+    "motion_prompt": "Low wide view down the cathedral aisle. The girl on the lower left presses her palms down and lifts her chest, bringing both knees under her body. The nearby hooded acolyte takes one short step toward her and reaches down toward her shoulder. The distant red-haired priest turns from his back-facing stance toward the kneeling girl, then takes one measured step down toward the foot of the stairs, watching her. The camera pushes forward only slightly to increase pressure without crossing the axis. Black-violet flames flicker at the distant altar; ordinary lamps remain small and amber. No one teleports, no new character enters, no roof damage. End as the girl is kneeling and the acolyte's hand reaches her near shoulder."
+  },
+  {
+    "id": "043",
+    "group": 1,
+    "source_shot": "043",
+    "source_frame": 0,
+    "generate_frames": 84,
+    "target_frames": 60,
+    "camera": "小鱼侧后低位近中景，轻抬随起身",
+    "key_prompt": "Preserve the exact child, red-haired priest, black-and-gold clothes and blue stained-glass cathedral of the source. Change the child's starting pose: she is KNEELING low at screen left, both knees on the stone floor, supported by her own legs, upper body upright. One black-robed acolyte at far left has ONE hand on her near upper shoulder, about to guide her upright, without holding her neck. The red-haired priest at screen right looks down at her, right palm raised with a small restrained amber orb; no beam released yet. Widen enough to show her knees and both feet and the guard's hand. Strong silhouette separation, no obstruction of the hand contact.",
+    "motion_prompt": "The small whale-hooded girl starts kneeling on the floor at screen left. The acolyte's hand rests on her near shoulder, pulls upward once while she places one foot flat and pushes herself into a small unsteady standing stance. Her two feet settle onto the floor before the acolyte holds her shoulder still. The priest remains on screen right, raises his palm toward her, and a small amber light gathers slowly. No attack beam yet. The child looks up frightened, then freezes. A very small camera tilt follows her rise, keeping the priest's hand and the child's shoulder in frame. A single physical action, not dangling the child in the air, no neck grip, no duplicate arms."
+  },
+  {
+    "id": "045",
+    "group": 1,
+    "source_shot": "045",
+    "source_frame": 0,
+    "generate_frames": 48,
+    "target_frames": 18,
+    "camera": "门槛低位固定，踢门冲击瞬间切入",
+    "key_prompt": "Keep the low threshold camera, original gothic wooden double doors and the white high-heeled shoe with silver anklet of GPT. Correct the start to the instant of contact: the sole of the shoe visibly presses against the inside edge of one wooden door leaf, the door is only slightly ajar and still fills most of the frame. Cold blue night beyond the narrow opening, restrained warm light inside. Simplified hand-drawn skin and fabric. No other bare legs or extra feet. Strong drawn contact shadow between shoe sole and door plank.",
+    "motion_prompt": "Low fixed camera at the threshold. The single white high-heeled shoe drives firmly against the wooden door leaf. On contact, the heavy door swings inward rapidly on its hinges, creating a widening opening to blue night. Small wood chips burst from the latch once. The leg follows through and withdraws; the heel lands firmly at the threshold. One decisive kick and settle, not repeated kicks, not a leg passing through the door. Keep the door attached to its hinge and preserve the opposite door leaf. Brief camera vibration only at impact, no orbit."
+  },
+  {
+    "id": "046",
+    "group": 1,
+    "source_shot": "046",
+    "source_frame": 0,
+    "generate_frames": 48,
+    "target_frames": 18,
+    "camera": "GPT侧面短促出手，固定同侧",
+    "key_prompt": "Preserve the exact side view of the white-lilac-haired horned GPT facing screen right and her pale dress. Her arm is extended to the right, fingers naturally preparing a water spell. Keep matte anime skin and distinct flat hair locks, no realistic individual strands. Keep warm dark cathedral and blue windows consistent with previous scene, no daylight. No water torrent yet, just three small drawn blue water streaks at her hand. The face remains stern and focused.",
+    "motion_prompt": "Fixed side view. GPT gives one sharp forward palm thrust toward screen right; a compact narrow blue-white water strike shoots from her hand to the right immediately after the thrust. Her wrist stops, sleeve and hair continue briefly from inertia and then settle. She does not walk or change identity. Draw the water as clear cel-shaded blue shapes with white contour accents, not photorealistic fluid. Brief decisive action, no preparation loop, no camera movement."
+  },
+  {
+    "id": "047",
+    "group": 1,
+    "source_shot": "043",
+    "source_frame": 0,
+    "generate_frames": 60,
+    "target_frames": 30,
+    "camera": "孩子侧后中景，攻击/拦截/孩子同框",
+    "key_prompt": "Preserve the same red-haired priest at screen RIGHT and the small blue whale-hooded girl restrained by an acolyte at LOWER LEFT. Widen the shot to show EMPTY SPACE ABOVE THE GIRL. Her entire head and hat stay in the LOWER HALF of the frame. The priest stands on the right with palm directed diagonally left-down. A detached amber projectile is in midair at center-right. A NARROW BLUE WATER STRIKE visibly ENTERS FROM THE UPPER LEFT FRAME EDGE, travels across the EMPTY UPPER THIRD well ABOVE the girl's head, and bends slightly downward toward the amber projectile at center-right. The entire visible water path must be in unobstructed air, not behind or across the girl's head. The water must clearly originate OFF SCREEN LEFT, never from the child. Leave a full head width of air between the child and the intended collision. No impact yet. All three characters, shoulder grip and trajectories remain readable. Same blue night cathedral and muted amber lights; no extra caster in frame.",
+    "motion_prompt": "The amber projectile travels from the priest at screen right toward the girl at screen left. Before it reaches the girl, the narrow blue water strike enters from screen left and collides with the amber projectile in CLEAR EMPTY AIR to the right of her silhouette, at least one head width away. On contact both attacks break into a compact splash of blue water and fading amber fragments. The girl flinches once with eyes closed; the acolyte recoils and starts loosening his hand. Her body is never struck or obscured by the collision, the splash stays local, the altar fire remains burning. Fixed camera, one collision only, strong drawn impact silhouette then fast dissipation.",
+    "key_revision": 2
+  },
+  {
+    "id": "049",
+    "group": 1,
+    "source_shot": "049",
+    "source_frame": 0,
+    "generate_frames": 120,
+    "target_frames": 96,
+    "camera": "同侧中景向右短跟，直到退柱后停止",
+    "key_prompt": "Preserve the exact blue-violet braided adult Qianwen and blue whale-hooded child from the source, with original outfits and folded fan. Re-stage the moment just after the guard releases the child: the child is at screen CENTER LEFT, off balance taking a step away from a black-robed acolyte whose empty hand is visible at the FAR LEFT edge. Qianwen enters from screen RIGHT, low in a half crouch, her LEFT forearm already reaching firmly behind the child's back and under the near arm; her RIGHT hand holds the folded fan close to her own body. Put the thick stone refuge pillar at the RIGHT edge, with open floor between child and pillar. The child is not standing calmly posing beside her. The small child is about half the adult's height, not an infant. Clear feet and support contacts, blue night glass and muted amber candle light; no daytime lighting. CRITICAL ANATOMICAL HANDEDNESS: Qianwen faces the camera. Her RIGHT hand is on the VIEWER LEFT and holds the closed fan next to her RIGHT hip on VIEWER LEFT. Her LEFT arm is on VIEWER RIGHT and supports the girl on VIEWER RIGHT of her torso. Place the girl immediately to the VIEWER RIGHT of Qianwen, between Qianwen and the refuge pillar. Qianwen twists left to scoop the child. Do not put the fan in the viewer-right hand. Keep the guard well behind them to far left.",
+    "motion_prompt": "Qianwen immediately draws the unsteady girl from center left toward screen right, away from the acolyte's EMPTY withdrawn hand at the far left. The girl takes two short stumbling steps with Qianwen supporting her back. Qianwen bends her knees, slides her left arm beneath the child's thighs and scoops her up against her left side in ONE continuous motion; the child's feet leave the floor only after the arm supports her weight. Qianwen keeps the folded fan in her right hand. She takes two quick sidesteps right and retreats behind the thick right-side pillar. The camera makes a small rightward follow, then stops as the pillar shields them. The guard stays behind and does not chase through them. No teleport, no child standing still before the rescue, no extra limbs, no dropped fan, no reverse walking left. End with child safely supported in left arm, both partially sheltered by the right pillar.",
+    "key_revision": 2
+  },
+  {
+    "id": "050",
+    "group": 1,
+    "source_shot": "050",
+    "source_frame": 0,
+    "generate_frames": 60,
+    "target_frames": 36,
+    "camera": "教主肩上反应短镜，静止机位",
+    "key_prompt": "Keep the red-haired priest turning from side view toward the doorway off screen left, with exact black-gold high collar and one background hooded acolyte. Restrained warm rim light and dark blue stained-glass. Simplify hair to confident broad locks, facial shading to hard-edged drawn shapes, ornament into readable ink lines. Preserve his stern surprise and slight brow tension, not exaggerated rage. No 3D sculpted hair or photoreal metal.",
+    "motion_prompt": "Fixed tight medium close shot. The red-haired priest sharply turns his head toward the doorway off screen left, his brow tightens and his lips press together in a brief startled reaction. His shoulders follow slightly and stop; the robe collar and hair settle. Keep the reaction short and purposeful, no repeated head turning, no prolonged stare into the camera. End with his eyes fixed left toward the rescuers."
+  }
+]

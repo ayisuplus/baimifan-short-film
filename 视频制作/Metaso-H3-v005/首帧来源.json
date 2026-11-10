@@ -1,0 +1,18 @@
+[
+  {
+    "path": "视频制作\\Metaso-H3-v005\\参考\\CY012-上阶首帧-v003.png",
+    "original_output": "C:\\Users\\36322\\.codex\\generated_images\\01a17883-69dd-74f1-8f13-bbde7422c943\\exec-c6697402-de24-4430-91e7-7492c34b6d76.png",
+    "sha256": "d7126b00a9e12ef983927989acd5a467acb17da1d99c9ec2d3315e576ba3b98f",
+    "tool": "built-in imagegen",
+    "role": "corrected first frame for H3 r3 stair pickup",
+    "design_summary": "以小鱼现有角色外观和教堂场景约束短腿、蓝色毛边鞋及实际台阶接触；此处是设计摘要，不伪称原始逐字提示词。"
+  },
+  {
+    "path": "视频制作\\Metaso-H3-v005\\参考\\CY016D-下阶首帧-v003.png",
+    "original_output": "C:\\Users\\36322\\.codex\\generated_images\\01a17883-69dd-74f1-8f13-bbde7422c943\\exec-864de577-0845-4055-967f-40ad387beb0f.png",
+    "sha256": "00637b4984f6b97f5a55a8cd5ec97a68025dd5793c8d5096507300edc8f5429e",
+    "tool": "built-in imagegen",
+    "role": "corrected first frame for H3 r3 stair pickup",
+    "design_summary": "以小鱼现有角色外观和教堂场景约束短腿、蓝色毛边鞋及实际台阶接触；此处是设计摘要，不伪称原始逐字提示词。"
+  }
+]

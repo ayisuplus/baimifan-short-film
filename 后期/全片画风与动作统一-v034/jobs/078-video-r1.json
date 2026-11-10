@@ -1,0 +1,9 @@
+{
+  "name": "078-video-r1",
+  "type": "video",
+  "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\078-key-r2_00001_.png",
+  "key_review": "pass",
+  "prompt": "Animate this exact hand-drawn Japanese gothic 2D anime image. Keep strong ink outlines, hard-edged two-tone cel shadows, matte skin, broad connected hair locks and painted backgrounds in every frame. No photorealistic fluid, PBR, plastic skin, 3D animation, random cuts, camera orbit, changing identities, extra people or extra limbs. The existing blue water dragon continues downward from the single opening at upper left. Its head and neck sweep into the central nave, a few loose stones fall behind. Camera tilts down slightly following its head. The repaired upper right ceiling remains solid and intact; no new impact or opening, no entire cathedral collapse. Preserve the exact starting spatial layout and architecture. No newly lit candles, no extra roof destruction.  The head leads the heavy neck down with a crisp short downward acceleration; maintain ONE jagged opening at upper left, solid vaulted ceiling at upper right, and intact side windows. Debris falls only from that existing left opening. Small transient impact shake only; no sustained oscillation.",
+  "frames": 48,
+  "seed": 202610303441
+}

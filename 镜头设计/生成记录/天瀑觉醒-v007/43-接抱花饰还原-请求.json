@@ -1,0 +1,14 @@
+{
+  "key": "43-接抱花饰还原",
+  "name": "Claude-力竭接抱-四格-v003.png",
+  "refs": [
+    "镜头设计/图像/Claude-力竭接抱-四格-v002.png",
+    "镜头设计/图像/Claude-觉醒与焚架-四格-v002.png"
+  ],
+  "prompt": "局部修改图1四格中Claude的头饰：橙发少女现在是白色小花簇，改为图2左下近景的同一朵橙金大花及黑色细垂饰，四格都保持此头饰。只改Claude头花，白发GPT的紫白玫瑰不动。图1所有人物脸、手臂、脱力接抱动作、地面和镜头构图完全保持。不要重画其他内容，不加字。",
+  "referenced_image_paths": [
+    "E:/projects/内容创作/穿云/镜头设计/图像/Claude-力竭接抱-四格-v002.png",
+    "E:/projects/内容创作/穿云/镜头设计/图像/Claude-觉醒与焚架-四格-v002.png"
+  ],
+  "transparent_background": false
+}

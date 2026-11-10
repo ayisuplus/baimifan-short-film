@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115145365725437952",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "哥特异世界九人入殿与教主对峙",
+    "status": "succeeded",
+    "created_at": 1793124927,
+    "updated_at": 1793124968,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115145365725437952/content?expires=1793729783&signature=ffba4fcc5be2887d4b31430ef485f45ff1edf0a98eb4e348d8d4898bd13eaf01"
+    },
+    "resolution": "768P",
+    "duration": 7,
+    "usage": {
+      "total_seconds": 7,
+      "input_seconds": 0,
+      "output_seconds": 7,
+      "input_image_count": 9
+    },
+    "ratio": "16:9",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

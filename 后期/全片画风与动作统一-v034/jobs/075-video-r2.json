@@ -1,0 +1,9 @@
+{
+  "name": "075-video-r2",
+  "type": "video",
+  "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\075-key-r1_00001_.png",
+  "key_review": "pass",
+  "frames": 84,
+  "seed": 202610303445,
+  "prompt": "Animate this exact hand-drawn Japanese gothic 2D anime image. Keep strong ink outlines, hard-edged two-tone cel shadows, matte skin, broad connected hair locks and painted backgrounds in every frame. No photorealistic fluid, PBR, plastic skin, 3D animation, random cuts, camera orbit, changing identities, extra people or extra limbs. This is an EMPTY exterior establishing view looking upward past cathedral spires. There are ZERO characters anywhere in the shot: no human head, no hair, no hood, no arms, no hands, no person entering the foreground. The same intact gothic spires remain fixed as scale references. Only layered dark clouds accelerate inward around a deep sky vortex. Thin blue streams converge and the center emits a concentrated blue glow near the end. A brief inward acceleration builds tension; end before any water dragon appears. Fixed low camera with no rotation or new architecture. The water is summoned by GPT INSIDE the cathedral, so no outside caster exists."
+}

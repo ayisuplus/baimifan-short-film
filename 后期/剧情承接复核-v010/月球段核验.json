@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-29",
+  "project": "《白米饭》",
+  "timeline": "v008_Local_Continuity_Fixes",
+  "method": "Resolve read-only API plus sampled source frames; no timeline changes",
+  "fps": 24,
+  "clips": [
+    {
+      "name": "B23_GB017_01",
+      "record_start": 5926,
+      "record_end": 6083,
+      "source_start": 0,
+      "source_end_api": 157,
+      "source": "视频制作/LibTV-H3-v001/产物/GB017-H3-v001.mp4"
+    },
+    {
+      "name": "B24_GB017R2_01",
+      "record_start": 6083,
+      "record_end": 6303,
+      "source_start": 34,
+      "source_end_api": 241,
+      "source": "视频制作/LibTV-H3-v001/产物/GB017R2-H3-v001.mp4"
+    }
+  ],
+  "observation": "B23后段可见Kimi伏卧闭眼到半睁眼；B24源片开头含抬起过程，当前从34帧约1.42秒处剪入。不能称睡醒素材全部消失，需连续检查并重组反应。",
+  "contact_sheet": "Kimi月球段-源帧与剪入点.jpg",
+  "no_generation": true,
+  "timeline_unchanged": true,
+  "limitation": "源帧抽查不是连续播放或最终声画验收。"
+}

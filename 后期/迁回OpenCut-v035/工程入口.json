@@ -1,0 +1,27 @@
+{
+  "project": "restored-ad3867fc-177c-4371-bb51-7ed75d686e30",
+  "name": "白米饭 · 全片画面 v035",
+  "url": "http://127.0.0.1:8978/editor/restored-ad3867fc-177c-4371-bb51-7ed75d686e30",
+  "source": "DaVinci Resolve / 《白米饭》 / v033_OpenCut_Picture_Return",
+  "timeline_clips": 118,
+  "timeline_frames": 9059,
+  "fps": 24,
+  "resolution": [
+    1344,
+    768
+  ],
+  "picture_only": true,
+  "reload_verified": true,
+  "final_browser_backup_id": "a9b143e7-9e7f-4025-b7f0-4600befc4d49",
+  "complete_backup_directory": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\迁回OpenCut-v035\\完整工程备份\\a9b143e7-9e7f-4025-b7f0-4600befc4d49",
+  "backup_bytes": 381417681,
+  "backup_files": 228,
+  "timeline_matches_live_source_snapshot": true,
+  "source_media_sha256_unchanged": true,
+  "all_media_roundtrip_sha256_equal": true,
+  "native_working_directory": "E:\\projects\\媒体后期\\OpenCut-classic\\.local\\project-backups\\restored\\restored-ad3867fc-177c-4371-bb51-7ed75d686e30",
+  "script_pages": 7,
+  "asset_count": 28,
+  "script_bindings": "Existing reference manuscript retained; formal edit segments not inferred as CY shot bindings.",
+  "generation_started": false
+}

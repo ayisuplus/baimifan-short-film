@@ -1,0 +1,68 @@
+[
+  {
+    "name": "015a-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\015a-key-r1_00001_.png",
+    "key_review": "pass",
+    "frames": 72,
+    "target_frames": 72,
+    "seed": 202610307400,
+    "prompt": "Animate the approved key as hand-drawn 2D cel anime, preserving exact identities, props, positions, ink contours and hard-edged shadows. No CGI, extra body parts or unrelated cut. Fixed intimate close-up. Bound Claude takes one shallow breath, lowers her eyes briefly and raises them toward the approaching child, keeping her exhausted face restrained. Hair and veil shift slightly. Both arms stay fixed on the cross; no large struggle, no smile, no new cut. End while still facing the child. Keep both wrist cuffs firmly closed and attached to the horizontal crossbar, left orange flower and black ribbon unchanged. Her body cannot move off the cross.",
+    "execution_status": "prepared_only_user_GPU_pause_no_submission"
+  },
+  {
+    "name": "015b-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\015b-key-r1_00001_.png",
+    "key_review": "pass",
+    "frames": 48,
+    "target_frames": 48,
+    "seed": 202610307401,
+    "prompt": "Animate the approved key as hand-drawn 2D cel anime, preserving exact identities, props, positions, ink contours and hard-edged shadows. No CGI, extra body parts or unrelated cut. Locked close insert on two cuffed bare ankles and the footrest. One very small involuntary ankle shift tensions the existing chains, then settles. All cuffs stay locked and chains remain connected. No camera pan, added flame, release or new feet. A short factual insert, not a dramatic repeated struggle. Both soles remain supported by the wooden footrest throughout; toes do not float off the board. Keep both ankle cuffs CLOSED and the two existing chains connected to the same wooden structure. The existing low timber stays unlit and motionless; do not grow a new pyre or add flames.",
+    "execution_status": "prepared_only_user_GPU_pause_no_submission"
+  },
+  {
+    "name": "016-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\016-key-r1_00001_.png",
+    "key_review": "pass",
+    "frames": 48,
+    "target_frames": 48,
+    "seed": 202610307402,
+    "prompt": "Animate the approved key as hand-drawn 2D cel anime, preserving exact identities, props, positions, ink contours and hard-edged shadows. No CGI, extra body parts or unrelated cut. Fixed two-shot. Xiaoyu takes the final tiny step closer and raises both hands toward the waist padlock. Claude lowers her gaze to the child, shoulders and wrists still held by the cross. Stop just as the child reaches the lock; no unlocked chain, no standing recovery. Single quiet movement. Xiaoyu remains at the LEFT below Claude waist height, same child scale. Raise only her own two hands toward the existing closed waist lock. Both Claude wrist cuffs remain closed and attached; no removal of any restraint.",
+    "execution_status": "prepared_only_user_GPU_pause_no_submission"
+  },
+  {
+    "name": "017-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\017-key-r1_00001_.png",
+    "key_review": "pass",
+    "frames": 48,
+    "target_frames": 48,
+    "seed": 202610307403,
+    "prompt": "Animate the approved key as hand-drawn 2D cel anime, preserving exact identities, props, positions, ink contours and hard-edged shadows. No CGI, extra body parts or unrelated cut. Locked close view. Xiaoyu grips the closed padlock with both hands and tugs once. The heavy chain becomes taut then settles, while the lock stays firmly closed. Hands do not slide through metal, fingers retain contact. No key or magical effect. Keep the action short and legible. Preserve two small hands and the single closed padlock; fingers keep a clear surface grip without passing through the metal. Both ends of the U-shaped shackle remain inserted in the lock body and the waist chain never disconnects.",
+    "execution_status": "prepared_only_user_GPU_pause_no_submission"
+  },
+  {
+    "name": "018-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\018-key-r1_00001_.png",
+    "key_review": "pass",
+    "frames": 82,
+    "target_frames": 82,
+    "seed": 202610307404,
+    "prompt": "Animate the approved key as hand-drawn 2D cel anime, preserving exact identities, props, positions, ink contours and hard-edged shadows. No CGI, extra body parts or unrelated cut. Side close view. Xiaoyu leans close to inspect the keyhole, shifts her fingers on the same closed lock, then gives one frustrated short pull and stops. The waist chain stays connected and locked; Claude stays bound. Keep the camera fixed and the same screen direction. No repeated rocking. Preserve the single closed padlock, continuous waist chain and two small hands, same left-facing child profile. Both ends of the shackle stay in the lock body. Chain never unlocks or breaks; tiny movement only, no loop of repeated attempts.",
+    "execution_status": "prepared_only_user_GPU_pause_no_submission"
+  },
+  {
+    "name": "021-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\021-key-r1_00001_.png",
+    "key_review": "pass",
+    "frames": 84,
+    "target_frames": 84,
+    "seed": 202610307405,
+    "prompt": "Animate the approved frame as hand-drawn 2D cel anime with stable ink lines and hard shadows. Locked macro insert: the child's fingertips make one last tiny attempt at the solid latch, then suddenly STOP when she hears approaching footsteps off screen. Hold both hands motionless on the still-closed lock for the final beat, preparing the next reaction shot. No key appears, no lock opens, chain remains unbroken. No camera motion or repeated pulling. Keep the U-shaped shackle CLOSED throughout. Child fingertips stop on the failed lock after hearing approaching footsteps, preparing Claude next reaction. No key appears and the hands never release the lock triumphantly.",
+    "execution_status": "prepared_only_user_GPU_pause_no_submission"
+  }
+]

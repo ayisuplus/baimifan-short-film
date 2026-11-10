@@ -1,0 +1,56 @@
+{
+  "batch": {
+    "batch_number": 39,
+    "batch_id": "GB029",
+    "attempt_id": "GB029-v003-CY029E2-r002",
+    "title": "选择继续与凝种",
+    "shot_ids": [
+      "CY029E2"
+    ],
+    "film_start": 427.282729,
+    "part_offset": 2.7,
+    "used_seconds": 2.74,
+    "duration": 4,
+    "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。单镜，保持首帧构图、原人物、冷蓝月光及静止背景。父亲维持原伏地姿势，悬空伸出的手停顿片刻，随后五指缓缓放松垂下。脸与身体留在原位，嘴闭合。2.7秒前完成，余时保持。",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/Metaso-H3-v003/修订参考/GB029-CY029E2-firstframe-r001.png",
+        "sha256": "29e20d99724ee00e069623ab160f0a99e4795e6a30e053e8a5ed093a5d503d11",
+        "role": "first_frame"
+      }
+    ],
+    "estimated_credits": 40.8,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "上一候选新增背景火源/道具，弃用。改极简正向画面运动，不让VO咏唱内容触发场景重构。",
+    "repair_of": {
+      "attempt_id": "GB029-v003-CY029E2",
+      "task_id": "2115178740059398144",
+      "local_path": "视频制作/Metaso-H3-v003/产物/GB029-v003-CY029E2.mp4"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json",
+    "mode": "first_frame"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。单镜，保持首帧构图、原人物、冷蓝月光及静止背景。父亲维持原伏地姿势，悬空伸出的手停顿片刻，随后五指缓缓放松垂下。脸与身体留在原位，嘴闭合。2.7秒前完成，余时保持。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115178728454811648"
+        },
+        "role": "first_frame"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 4,
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者要求修复第6、11、20、21、39批剧情与空间错误，沿用已授权Metaso H3积分；40仅必要接头。无充值。"
+}

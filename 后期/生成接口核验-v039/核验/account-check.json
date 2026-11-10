@@ -1,0 +1,6 @@
+{
+  "status": "ready",
+  "api_type": "SHARED",
+  "check": "account_status_only",
+  "model_execution_verified": false
+}

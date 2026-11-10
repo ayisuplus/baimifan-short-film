@@ -1,0 +1,39 @@
+{
+  "id": "BGM-CY-MT-69",
+  "bvid": "BV1JP4y1m78A",
+  "part": 69,
+  "title": "シーローン王宮",
+  "display_title": "西隆王宫",
+  "work": "无职转生",
+  "composer": "藤澤慶昌",
+  "source_page_title": "68. シーローン王宮",
+  "cid": 40238973113,
+  "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=69",
+  "uploader": "L-2-C",
+  "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+  "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-69.m4a",
+  "bytes": 2497469,
+  "sha256": "4c1f76b5547131f578c15a41c2373151395bda63f547aee9e92dd2a22f72b8d1",
+  "duration": 111.025873,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "142110"
+      }
+    ],
+    "format": {
+      "duration": "111.025873"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

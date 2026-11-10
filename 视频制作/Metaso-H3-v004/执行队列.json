@@ -1,0 +1,46 @@
+{
+  "version": "v004",
+  "model": "MiniMax-H3",
+  "resolution": "768P",
+  "ratio": "16:9",
+  "spending_ceiling_credits": 150,
+  "authorization": "用户2026-10-28明确授权按导演审查先后期，修不好只补对应镜头；本轮仅CY028A。最多两次有明确改动的H3试验，不整批重做。",
+  "items": [
+    {
+      "batch_number": 37,
+      "batch_id": "GB027",
+      "attempt_id": "GB027-v004-CY028A-r1",
+      "title": "扶下单镜服装连续性补拍",
+      "shot_ids": [
+        "CY028A"
+      ],
+      "duration": 7,
+      "used_seconds": 6.208333333333333,
+      "prompt": "严格从这张首帧原样继续，单一连续7秒动漫电影镜头。只拍解锁后的扶下，不能重做解锁、不能换服装。首帧左侧Kimi手中是已打开的空腕扣，Claude手腕已自由、双踝也已自由，双赤足仍踩木脚托。右侧白银衣GPT始终扶住Claude的上臂与背、承担她的重量。0–0.5秒Claude缓缓落下伸向横木的自由左臂，Kimi带着空扣退开半步。0.5–2.5秒Claude在GPT扶持下从脚托谨慎迈下，两只赤足先后落到湿石地面并站稳，不能跳、不能跌落、不能悬浮。GPT折翼扶稳，不公主抱。2.5–3秒摄影机沿同侧缓慢收近到胸上双人近景，保留扶上臂的手和Claude视线。3–6.2秒Claude疲惫地朝阶下画外寻找小鱼；6.2–7秒保持。\n服装连续性是最高优先：Claude始终穿首帧同一件烧损白金裙，领口同一条黑色丝带蝴蝶结、头后同一白纱、露肩与蕾丝袖、袖口和裙层不规则黑色焦损，全部一直保留；不能变成完整干净高领裙，不能让焦边消失或恢复衣服，不能移除黑结与头纱。三个角色身份、发色、服装、相对位置始终一致。只用冷月光，所有普通烛火、柴火、衣物均熄灭，无暖光无火苗。\nGPT在0.1–1.68秒轻声说一次<d>[Japanese] ゆっくりでいい。</d>。Claude在2.8–4.31秒说一次<d>[Japanese] あの子は……</d>。其余时间闭口表演，不代说，不续写。无音乐、无字幕、无水印，无新增人物、道具或镜头。",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/Metaso-H3-v004/参考/CY028A-连续首帧.png",
+          "sha256": "f3cdc47cec543365293155b415e35ac39c85faaf90f858e9055ce39c0687e549",
+          "role": "first_frame"
+        }
+      ],
+      "estimated_credits": 71.4,
+      "status": "adopted_in_post_candidate",
+      "accepted": true,
+      "change_reason": "达芬奇脚步/面部裁切试修仍暴露高领、黑结和头纱消失，独立复核确认裁切不能保留必要人物关系。只补CY028A，前8秒解锁保留。",
+      "repair_of": {
+        "version": "v002",
+        "batch_id": "GB027",
+        "trial": "后期/导演后期修正-v001/测试回片/B37_post_trial_r1.mp4"
+      },
+      "submit_started": "2026-10-28T11:34:04+0800",
+      "task_id": "2115285960321859584",
+      "local_path": "视频制作/Metaso-H3-v004/产物/GB027-v004-CY028A-r1.mp4",
+      "sha256": "95cc7af3ce49e3c1e469523a86a231fff591684c750b096220cb84f8fcddc7e5",
+      "bytes": 7621483,
+      "acceptance_scope": "画面主审和独立复核通过；取0–149帧接旧批前8秒。未验口型、未实听，不代表发行验收。",
+      "actual_charge_verified": false
+    }
+  ]
+}

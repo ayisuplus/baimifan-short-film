@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115146427864379392",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "肩后对视后单手推倒落地",
+    "status": "succeeded",
+    "created_at": 1793125181,
+    "updated_at": 1793125205,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115146427864379392/content?expires=1793730013&signature=723334bda3a51625f093c52bb66427c9025e03fa5ad4948b81173007250de59d"
+    },
+    "resolution": "768P",
+    "duration": 5,
+    "usage": {
+      "total_seconds": 5,
+      "input_seconds": 0,
+      "output_seconds": 5,
+      "input_image_count": 4
+    },
+    "ratio": "16:9",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

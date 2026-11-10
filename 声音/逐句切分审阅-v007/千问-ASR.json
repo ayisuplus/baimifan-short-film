@@ -1,0 +1,26 @@
+{
+  "source": "声音/正式配音准备-v006/已选原件/千问.wav",
+  "source_sha256": "26fe1ffa5489adf22cd3692c5aa661f35f4fb55186bc884cabcffbebb19f9b48",
+  "seconds": 1.9156875,
+  "model": "C:\\Users\\36322\\.cache\\huggingface\\hub\\models--openai--whisper-small\\snapshots\\973afd24965f72e36ca33b3055d56a652f456b4d",
+  "method": "offline Whisper-small; unprompted Japanese word timestamps; not human listening or performance approval",
+  "result": {
+    "text": "行きましょう 捕まって",
+    "chunks": [
+      {
+        "text": "行きましょう",
+        "timestamp": [
+          0.0,
+          0.52
+        ]
+      },
+      {
+        "text": " 捕まって",
+        "timestamp": [
+          0.52,
+          1.76
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "shots": 94,
+  "seconds": 304,
+  "new_shot": "CY028A2",
+  "revised_image": "CY029B",
+  "old_images_preserved": 92,
+  "old_duration_changed": {
+    "CY028A": [
+      3,
+      5
+    ]
+  },
+  "locked_original_files_verified": 98,
+  "local_links_verified": 530,
+  "source_passages_verified": 94,
+  "old_priest_audio_disabled": true,
+  "new_voice_produced": false,
+  "video_produced": false
+}

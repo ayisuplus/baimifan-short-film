@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-28",
+  "reviewer": "repair_candidates_audit",
+  "batch_number": 20,
+  "batch_id": "GB015-2",
+  "media": "视频制作/Metaso-H3-v003/剪辑候选/GB015-2-v003.mp4",
+  "sha256": "d4a18713bc48edc12dd1213f35db82102db1eef9612085e3ad4c30be4ee04f6b",
+  "hash_verified": true,
+  "container_duration": 4,
+  "video_duration": 4,
+  "audio_duration": 4,
+  "decision": "本轮整批剧情/空间/遮挡/攻击先后视觉阻断已修；可交作者整段复看，无新增付费返修依据。不是完整音画听审或作者最终采用。",
+  "method": {
+    "coverage": "全4秒8fps密帧；1.65–2.316秒以24fps查看两段切口；0.6和3.8秒原尺寸大帧。另查看第19批11.8秒尾帧及第21批首帧。",
+    "realtime_continuous_playback": false,
+    "audio_listened": false,
+    "limitation": "覆盖完整时间的密帧审查；未实听音频，不把4秒音轨存在当作声音验收。"
+  },
+  "segments": [
+    {
+      "range": [
+        0,
+        2
+      ],
+      "source": "视频制作/Metaso-H3-v003/产物/GB015-2-v003-r002-close.mp4",
+      "source_range": [
+        0,
+        4.458333
+      ],
+      "target_duration": 2,
+      "observations": [
+        "Claude在中央刑架双臂固定、脚托明确，未出现站到空架旁或突然解缚",
+        "Kimi左前低姿护住，右手暗月圆刃抬起，未变成长剑/直匕首",
+        "教徒两侧仅聚能，没有早发光束横穿人物区域",
+        "深靛不透明表面从下方升起，表面所到之处遮住人物；约1.3–1.5秒已形成完整壳体",
+        "后段壳体遮住两人及整个刑架，不透出角色轮廓"
+      ]
+    },
+    {
+      "range": [
+        2,
+        4
+      ],
+      "source": "视频制作/Metaso-H3-v003/产物/GB015-2-v003-r002-impact.mp4",
+      "source_range": [
+        0,
+        2.5
+      ],
+      "target_duration": 2,
+      "observations": [
+        "开段即为已闭不透明壳；与前段机位、敌人站位及壳形态连续，没有壳重开",
+        "约2.6秒才见发射光束，攻击命中顺序落在闭罩之后",
+        "光束止于罩外亮点并碎成火星；3.8秒大帧没有内部人物、刑架或透明窗口",
+        "燃木留在外侧，壳体持续完整，最后可切罩内"
+      ]
+    }
+  ],
+  "boundaries": [
+    {
+      "from": "第19批 GB015-1-v002",
+      "to": "第20批 GB015-2-v003",
+      "evidence": "视频制作/Metaso-H3-v003/修订参考/审查-19接20-末帧.png",
+      "decision": "衔接成立",
+      "detail": "Kimi左前、Claude后方刑架、左右教徒及中央破窗连续。20稍宽构图是切镜，不造成轴线反转或位置交换。"
+    },
+    {
+      "at": 2,
+      "decision": "两次生成拼接无明确空间跳变",
+      "detail": "24fps切口观察中壳已完整不透明；敌人左右、手杖方向、窗与壳底位置连续。没有先开放壳再忽然遮住内部。"
+    },
+    {
+      "from": "第20批末",
+      "to": "第21批 GB016-1-v003 首",
+      "evidence": "视频制作/Metaso-H3-v003/修订参考/审查-20接21-首帧.png",
+      "decision": "内外空间切换成立",
+      "detail": "完整外壳硬切不透明内膜；Claude仍受缚，Kimi接近同一腕扣，没有相机穿壳、壳透明化或获救后重新受缚。"
+    }
+  ],
+  "evidence": [
+    "视频制作/Metaso-H3-v003/修订参考/审查-GB015-2-v003-全段-01.jpg",
+    "视频制作/Metaso-H3-v003/修订参考/审查-GB015-2-v003-全段-02.jpg",
+    "视频制作/Metaso-H3-v003/修订参考/审查-GB015-2-v003-切点.jpg",
+    "视频制作/Metaso-H3-v003/修订参考/审查-20-0.6.png",
+    "视频制作/Metaso-H3-v003/修订参考/审查-20-3.8.png"
+  ],
+  "writes": "仅独立报告与审查抽帧；未修改媒体、声音、主队列或剪辑清单。"
+}

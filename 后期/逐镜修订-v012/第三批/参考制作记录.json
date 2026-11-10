@@ -1,0 +1,49 @@
+[
+  {
+    "output": "内殿冷暗参考-r1.png",
+    "sha256": "e048304f7eedf5bc4390cdbe94d9348ce4544319f49340d835638ff27264c6b5",
+    "inputs": [
+      {
+        "path": "镜头设计/图像/数学宫殿-v056/CY005.png",
+        "sha256": "4f1a2922a595a3936b912115b40655f0c6e49e17035dde6ac3a7d69b95fda5c9"
+      }
+    ],
+    "method": "built-in imagegen",
+    "instruction_summary": "保留原宫殿空间与人物，改为蓝紫暗夜、局部烛光，消除夕阳及满地金白反光",
+    "visual_review": "已实看实际输入和输出，作为制作参考采用；不是作者最终审美认可"
+  },
+  {
+    "output": "宫门竖枪首帧-r1.png",
+    "sha256": "9a5dcc60a305d8753a389a9a9dd6fb60edd0d051ca7ae5b0bf566b7e766ec861",
+    "inputs": [
+      {
+        "path": "镜头设计/图像/空间张力-v063/CY004B-v063-r1.png",
+        "sha256": "7532f97f0d412d7002e0e2acbbd28364f8765340249994e5fe85e2ac84163765"
+      },
+      {
+        "path": "资产/图像/CHAR-PALADIN-v001.png",
+        "sha256": "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d"
+      },
+      {
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+        "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3"
+      }
+    ],
+    "method": "built-in imagegen",
+    "instruction_summary": "原始场景与人物设定生成靠近宫门的首帧，明确两位守卫从首帧持竖枪",
+    "visual_review": "已实看实际输入和输出，作为制作参考采用；不是作者最终审美认可"
+  },
+  {
+    "output": "宫门低位拦截参考-r1.png",
+    "sha256": "a7b14ae4294d440deb936b88d6e2aa402c4ae3049bbedbd32e817b2fdceb0132",
+    "inputs": [
+      {
+        "path": "后期/逐镜修订-v012/第三批/宫门竖枪首帧-r1.png",
+        "sha256": "9a5dcc60a305d8753a389a9a9dd6fb60edd0d051ca7ae5b0bf566b7e766ec861"
+      }
+    ],
+    "method": "built-in imagegen",
+    "instruction_summary": "同机位同站位低位枪杆交叉，孩子身前实际拦路；不使用失败视频作为参考",
+    "visual_review": "已实看实际输入和输出，作为制作参考采用；不是作者最终审美认可"
+  }
+]

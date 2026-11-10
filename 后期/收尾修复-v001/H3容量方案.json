@@ -1,0 +1,348 @@
+{
+  "date": "2026-10-26",
+  "scope": "capacity_review_of_v011_not_submission_validation",
+  "source": "视频制作/生成板-v011/展开数据.json",
+  "source_sha256": "72b22672f60c6899610a10ff86804821c55d3b77ca978587789b5149b4cbfc88",
+  "decision": "preserve_batches_and_all_identity_references_select_existing_seedance25_template",
+  "no_media_generated": true,
+  "main_plan_modified": false,
+  "limits_evidence": {
+    "path": ".agents/skills/generation-board/references/model-contracts.md",
+    "document_check_date": "2026-10-25",
+    "live_web_revalidation_this_turn": false,
+    "h3_max_images": 9,
+    "h3_max_chars": 7000,
+    "h3_duration_seconds": {
+      "min": 4,
+      "max": 15,
+      "integer": true
+    },
+    "seedance_max_images_basis": "v011 per-model execution metadata",
+    "recheck_actual_endpoint_before_submission": true
+  },
+  "batches": [
+    {
+      "source_batch_id": "GB014",
+      "shot_ids": [
+        "CY024",
+        "CY024R"
+      ],
+      "source_used_seconds": 6.5,
+      "reference_count": 11,
+      "selected_model_recommendation": "seedance25",
+      "selection_scope": "execution_plan_only_no_generation",
+      "seedance_image_capacity": {
+        "limit": 30,
+        "status": "pass_reference_capacity_only"
+      },
+      "h3_image_capacity": {
+        "limit": 9,
+        "status": "unsupported_reference_capacity"
+      },
+      "h3_source_chars": 4255,
+      "h3_char_limit": 7000,
+      "preserve_identity_references": true,
+      "recalculate_after_timing_revision": true
+    },
+    {
+      "source_batch_id": "GB016",
+      "shot_ids": [
+        "CY024K4",
+        "CY023A",
+        "CY026A",
+        "CY026A1",
+        "CY026B"
+      ],
+      "source_used_seconds": 15,
+      "reference_count": 11,
+      "selected_model_recommendation": "seedance25",
+      "selection_scope": "execution_plan_only_no_generation",
+      "seedance_image_capacity": {
+        "limit": 30,
+        "status": "pass_reference_capacity_only"
+      },
+      "h3_image_capacity": {
+        "limit": 9,
+        "status": "unsupported_reference_capacity"
+      },
+      "h3_source_chars": 6990,
+      "h3_char_limit": 7000,
+      "preserve_identity_references": true,
+      "recalculate_after_timing_revision": true
+    },
+    {
+      "source_batch_id": "GB018",
+      "shot_ids": [
+        "CY026E",
+        "CY024A0",
+        "CY024A"
+      ],
+      "source_used_seconds": 13,
+      "reference_count": 11,
+      "selected_model_recommendation": "seedance25",
+      "selection_scope": "execution_plan_only_no_generation",
+      "seedance_image_capacity": {
+        "limit": 30,
+        "status": "pass_reference_capacity_only"
+      },
+      "h3_image_capacity": {
+        "limit": 9,
+        "status": "unsupported_reference_capacity"
+      },
+      "h3_source_chars": 5539,
+      "h3_char_limit": 7000,
+      "preserve_identity_references": true,
+      "recalculate_after_timing_revision": true
+    },
+    {
+      "source_batch_id": "GB026",
+      "shot_ids": [
+        "CY027D",
+        "CY027E2",
+        "CY027F",
+        "CY027F0"
+      ],
+      "source_used_seconds": 12,
+      "reference_count": 15,
+      "selected_model_recommendation": "seedance25",
+      "selection_scope": "execution_plan_only_no_generation",
+      "seedance_image_capacity": {
+        "limit": 30,
+        "status": "pass_reference_capacity_only"
+      },
+      "h3_image_capacity": {
+        "limit": 9,
+        "status": "unsupported_reference_capacity"
+      },
+      "h3_source_chars": 6230,
+      "h3_char_limit": 7000,
+      "preserve_identity_references": true,
+      "recalculate_after_timing_revision": true
+    },
+    {
+      "source_batch_id": "GB031",
+      "shot_ids": [
+        "CY029A",
+        "CY030",
+        "CY031"
+      ],
+      "source_used_seconds": 14,
+      "reference_count": 16,
+      "selected_model_recommendation": "seedance25",
+      "selection_scope": "execution_plan_only_no_generation",
+      "seedance_image_capacity": {
+        "limit": 30,
+        "status": "pass_reference_capacity_only"
+      },
+      "h3_image_capacity": {
+        "limit": 9,
+        "status": "unsupported_reference_capacity"
+      },
+      "h3_source_chars": 5830,
+      "h3_char_limit": 7000,
+      "preserve_identity_references": true,
+      "recalculate_after_timing_revision": true
+    }
+  ],
+  "hard_single_shot_conflicts": [
+    {
+      "shot_id": "CY024",
+      "known_identity_images": 9,
+      "composition_images": 1,
+      "minimum_known_images": 10
+    },
+    {
+      "shot_id": "CY027D",
+      "known_identity_images": 10,
+      "composition_images": 1,
+      "minimum_known_images": 11
+    },
+    {
+      "shot_id": "CY027F",
+      "known_identity_images": 11,
+      "composition_images": 1,
+      "minimum_known_images": 12,
+      "additional_missing_identity": "教主"
+    },
+    {
+      "shot_id": "CY030",
+      "known_identity_images": 13,
+      "composition_images": 1,
+      "minimum_known_images": 14,
+      "additional_missing_identity": "教主"
+    }
+  ],
+  "h3_split_alternatives_not_selected": [
+    {
+      "source_batch_id": "GB016",
+      "parts": [
+        {
+          "shot_ids": [
+            "CY024K4",
+            "CY023A"
+          ],
+          "source_used_seconds": 6,
+          "identity_images": 3,
+          "composition_images": 2,
+          "image_count": 5
+        },
+        {
+          "shot_ids": [
+            "CY026A",
+            "CY026A1",
+            "CY026B"
+          ],
+          "source_used_seconds": 9,
+          "identity_images": 3,
+          "composition_images": 3,
+          "image_count": 6
+        }
+      ]
+    },
+    {
+      "source_batch_id": "GB018",
+      "parts": [
+        {
+          "shot_ids": [
+            "CY026E"
+          ],
+          "source_used_seconds": 4,
+          "identity_images": 5,
+          "composition_images": 1,
+          "image_count": 6
+        },
+        {
+          "shot_ids": [
+            "CY024A0",
+            "CY024A"
+          ],
+          "source_used_seconds": 9,
+          "identity_images": 3,
+          "composition_images": 2,
+          "image_count": 5
+        }
+      ]
+    }
+  ],
+  "alternative_duration_policy": {
+    "request_seconds": 15,
+    "source_used_seconds_are_not_final": true,
+    "recalculate_from_final_voice_timing": true,
+    "new_prompts_not_compiled_or_validated": true
+  },
+  "identity_gap": {
+    "character": "教主",
+    "plan_kind": "missing",
+    "existing_asset": "资产/图像/CHAR-PRIEST-v001.png",
+    "existing_asset_exists": true,
+    "existing_asset_kind": "three_quarter_full_body_plus_small_portrait_not_turnaround",
+    "existing_record": "资产/生成记录/CHAR-PRIEST-v001.json",
+    "existing_record_status": "候选待作者审阅",
+    "affected_visual_shots": [
+      {
+        "source_batch_id": "GB010",
+        "shot_id": "CY021A"
+      },
+      {
+        "source_batch_id": "GB011",
+        "shot_id": "CY020B"
+      },
+      {
+        "source_batch_id": "GB011",
+        "shot_id": "CY020A"
+      },
+      {
+        "source_batch_id": "GB011",
+        "shot_id": "CY021"
+      },
+      {
+        "source_batch_id": "GB011",
+        "shot_id": "CY021B"
+      },
+      {
+        "source_batch_id": "GB012",
+        "shot_id": "CY022A"
+      },
+      {
+        "source_batch_id": "GB012",
+        "shot_id": "CY022A1"
+      },
+      {
+        "source_batch_id": "GB012",
+        "shot_id": "CY022"
+      },
+      {
+        "source_batch_id": "GB013",
+        "shot_id": "CY022B2"
+      },
+      {
+        "source_batch_id": "GB014",
+        "shot_id": "CY024R"
+      },
+      {
+        "source_batch_id": "GB019",
+        "shot_id": "CY024A9"
+      },
+      {
+        "source_batch_id": "GB021",
+        "shot_id": "CY024A8"
+      },
+      {
+        "source_batch_id": "GB022",
+        "shot_id": "CY024B"
+      },
+      {
+        "source_batch_id": "GB023",
+        "shot_id": "CY027"
+      },
+      {
+        "source_batch_id": "GB024",
+        "shot_id": "CY027A"
+      },
+      {
+        "source_batch_id": "GB024",
+        "shot_id": "CY027B2"
+      },
+      {
+        "source_batch_id": "GB024",
+        "shot_id": "CY027B3"
+      },
+      {
+        "source_batch_id": "GB025",
+        "shot_id": "CY027C"
+      },
+      {
+        "source_batch_id": "GB026",
+        "shot_id": "CY027F"
+      },
+      {
+        "source_batch_id": "GB026",
+        "shot_id": "CY027F0"
+      },
+      {
+        "source_batch_id": "GB028",
+        "shot_id": "CY029"
+      },
+      {
+        "source_batch_id": "GB028",
+        "shot_id": "CY029E"
+      },
+      {
+        "source_batch_id": "GB029",
+        "shot_id": "CY029E2"
+      },
+      {
+        "source_batch_id": "GB031",
+        "shot_id": "CY030"
+      }
+    ],
+    "not_filled_by_capacity_selection": true
+  },
+  "guards": [
+    "Do not mark H3 capacity as passed on Seedance-selected batches.",
+    "Do not turn named background companions into unidentified extras.",
+    "Do not replace four-view identities with composition art or composite contact sheets.",
+    "Do not claim capacity-only pass means submission-ready.",
+    "Do not freeze old timing after voice-duration repair."
+  ]
+}

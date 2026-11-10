@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-28",
+  "reviewer": "repair_candidates_audit",
+  "status": "3张修订起态候选；非作者采用，未上传或调用付费视频",
+  "skill": "C:/Users/36322/.codex/skills/.system/imagegen/SKILL.md",
+  "method": "内置imagegen逐镜独立编辑；实看原图、19尾帧及所有生成输出。复制到项目，保留历史候选。未改主执行队列。",
+  "dimensions_note": "三张推荐图均为工具实际返回1672×941，约16:9（与精确16:9仅0.052%差异）。未擅自裁切/拉伸；视频服务输出仍应设16:9。",
+  "scope_boundary": "静帧能检查起态身份/空间/道具，不能保证视频闭罩先后、手部动作、无漂移或声音。须回片整镜连续审查。",
+  "items": [
+    {
+      "batch": 20,
+      "batch_id": "GB015-2",
+      "shot_id": "CY024K3",
+      "batch_offset": 0,
+      "effective_seconds": 4,
+      "recommended_path": "视频制作/Metaso-H3-v003/修订参考/CY024K3-闭罩前-r002.png",
+      "sha256": "c80a01b22b0c1add10dee90e819fbb34110919d0ac609e6eb7725937faa270eb",
+      "width": 1672,
+      "height": 941,
+      "video_inputs": [
+        {
+          "role": "first_frame",
+          "path": "视频制作/Metaso-H3-v003/修订参考/CY024K3-闭罩前-r002.png"
+        }
+      ],
+      "review": {
+        "decision": "起态候选可进入视频输入复核",
+        "verified": [
+          "Claude在中央刑架，双腕固定、腰带固定、脚踝黑扣与脚托存在，双臂未垂下",
+          "Kimi仍在Claude左前低姿，两枚小圆月刃：右暗刃朝画面左侧、左明刃画面右侧",
+          "左右前景教徒掌心/杖头聚能，尚无发射光束",
+          "罩尚未出现；燃木主要在中央净区两侧；中央破窗保持",
+          "第19尾帧至本图空间轴线与角色前后层次连续"
+        ],
+        "watch_on_video": [
+          "Claude全程不离架",
+          "圆刃不变成长剑/匕首",
+          "先完整闭罩，再让光束抵达外壳",
+          "闭罩后人物、刑架全部不可见；不能从背后长出一片仍开口的壳"
+        ]
+      },
+      "video_prompt": "单一连续镜头，哥特动画母版，16:9。以唯一首帧锁定空间、角色和两枚小圆月刃。Claude从头到尾仍五处受缚在中央刑架上，脚在固定脚托；Kimi留在她左前护住她，绝不出现自由站立的Claude。0–0.8秒Kimi右手暗月圆刃向上划一次，深靛壳迅速从地面包围两人、刑架及脚托，0.8秒完整闭合且完全不透明。1.0秒起两侧教徒才把已聚能的琥珀法术短促射出，光束在壳外止住并碎成火星。2.1–4秒壳完整，外侧余火散落。镜头始终在罩外低机位微后退，燃木始终罩外。左明刃不换手、双刃不变形、无水流、无新人物、无字幕、无对白。可请求5秒，4–5秒只保完整壳体余量；必须从回片中取得先闭合后受击的完整4秒，不靠剪断因果凑时长。",
+      "generation": [
+        {
+          "file": "视频制作/Metaso-H3-v003/修订参考/CY024K3-闭罩前-r001.png",
+          "generated_source": "C:/Users/36322/.codex/generated_images/01a17e8c-06eb-7720-a4d9-40e4b354bdc0/exec-6f8da565-e7db-431a-a927-ec5eb93f0dcd.png",
+          "references": [
+            "视频制作/Metaso-H3-v003/修订参考/GB015-1-邻镜尾帧-11.75.png",
+            "镜头设计/图像/控水协作-v046/CY024K3-v046-r1.png"
+          ],
+          "prompt": "Use case: precise-object-edit. Create ONE cinematic 16:9 film keyframe, a corrected STARTING FRAME before a defensive action. Image 1 is the exact preceding shot for location, character positions and enemies; image 2 is the desired later shield appearance, NOT the starting state. Preserve the lavish gothic anime film style, costume colors, blue stained-glass cathedral and orange candle/fire light. Keep the same screen direction as image 1: orange-haired Claude is upright bound to the central wooden cross behind Kimi. Claude's two wrists are locked against the crossbar, a waist restraint holds her body against the upright, both ankles are individually locked just above a fixed footrest. Arms raised and attached to the cross; barefoot on the footrest, no separate standing person. Kimi remains in the left foreground of Claude, low protective stance but centered enough for a shield to enclose both; her RIGHT hand holds the SMALL BLACK CIRCULAR CRESCENT MOON BLADE low outside her right hip about to lift it, her LEFT hand holds the matching SMALL WHITE GOLD CIRCULAR MOON BLADE outside her other side. The dark blade is a palm-sized ring/crescent weapon, absolutely not a dagger, sword or long sickle. On both edges of the frame keep at least one black-and-gold cultist's spell hand or staff and leave a clear open corridor between them and the central pair. Amber magic gathers ONLY on palms/staff tips, NO outgoing beam yet. No dome or shell exists yet. Burning wood piles stay on the outside edges of a clean stone area around Kimi, Claude and the cross. Central window is already broken with the same large vertical hole; side windows intact. Use a stable low medium-wide viewpoint matching image 1, make the wrist bindings/footrest and tiny moon weapons readable. No new characters, no water, no lettering or captions. This is a tense moment BEFORE the shield closes, not an attack impact or a montage. Preserve character identities and precise prop ownership.",
+          "status": "内容起态成立但工具返回7:4，保留未作为推荐"
+        },
+        {
+          "file": "视频制作/Metaso-H3-v003/修订参考/CY024K3-闭罩前-r002.png",
+          "generated_source": "C:/Users/36322/.codex/generated_images/01a17e8c-06eb-7720-a4d9-40e4b354bdc0/exec-79e0f7ad-8504-4052-877b-cabdde29f5e9.png",
+          "references": [
+            "视频制作/Metaso-H3-v003/修订参考/CY024K3-闭罩前-r001.png"
+          ],
+          "prompt": "Edit this existing film keyframe with one targeted correction only: make it a 16:9 WIDESCREEN image, expand very slightly on the left and right rather than cropping any character or cross. Target 1792x1008 composition / exact 16:9 ratio. Preserve ALL scene content, character faces/costumes, light, existing positions, five Claude restraints, footrest, Kimi's two small circular moon blades, empty central space, broken central stained window, and gathering amber light at cultist hands/staff ends. No beam, no shield, no water. Claude must remain firmly bound to the cross: both wrists against crossbar, closed waist strap, both individual ankle cuffs directly above fixed footrest. Kimi stays low in front-left. No narrative or pose changes. High-quality same gothic anime illustration; no text.",
+          "status": "改为约16:9，重新检查起态未改变"
+        }
+      ]
+    },
+    {
+      "batch": 21,
+      "batch_id": "GB016-1",
+      "shot_id": "CY024K4",
+      "batch_offset": 0,
+      "effective_seconds": 3,
+      "recommended_path": "视频制作/Metaso-H3-v003/修订参考/CY024K4-试镣前-r001.png",
+      "sha256": "72141f96ee745934aa3df4bd1fbc0e0f1d29c7e5fd9e03a3db2dc44fec0702b0",
+      "width": 1672,
+      "height": 941,
+      "video_inputs": [
+        {
+          "role": "first_frame",
+          "path": "视频制作/Metaso-H3-v003/修订参考/CY024K4-试镣前-r001.png"
+        }
+      ],
+      "review": {
+        "decision": "起态候选可进入视频输入复核",
+        "verified": [
+          "闭合腕扣位于左上，暗月圆刃尖已在其外下侧；刃与Claude脸颈明显分离",
+          "Kimi目光朝腕扣，另一枚白金圆刃在低位",
+          "腕扣仍固定横梁；背景只有不透明暗膜，没有教堂漏出",
+          "没有反噬发光特效，适合从轻触开始；Claude保留疲惫表情"
+        ],
+        "limits": [
+          "近景不展示腰踝，五处锁扣的持续闭合需同20及后续回片核对",
+          "刀尖距离腕扣较近，视频应从微小触碰起，不让刀再大幅绕到脸旁"
+        ]
+      },
+      "video_prompt": "单一3秒中近景，16:9。严格沿唯一首帧：画面左上是Claude高举的闭合腕扣，Kimi右手持小圆暗月刃，左手低位持明月刃。0–0.6秒暗月刃只移动几厘米，轻试左上腕扣的外侧接缝，动作始终在Claude面部轮廓的左上之外，刃尖永不进入她的脸颈线。0.6–1秒仅腕扣接触点闪一个小紫亮斑，Claude眉头短收。1–1.8秒Kimi立刻把右手向自己身体外侧撤下到髋边，刀口朝外下；不是经Claude脸颈撤刀。1.8–3秒她担忧看锁扣并停手，Claude自然呼吸。两枚武器始终是同一小圆月刃；不变直匕首、不换手、不重复试、不解开任何束缚。暗膜不透明，无其他人、无字幕、无新对白。额外余量只保持撤刃后自然反应。",
+      "generation": [
+        {
+          "file": "视频制作/Metaso-H3-v003/修订参考/CY024K4-试镣前-r001.png",
+          "generated_source": "C:/Users/36322/.codex/generated_images/01a17e8c-06eb-7720-a4d9-40e4b354bdc0/exec-255787c1-9add-423b-adfd-cf0b7f3fab7f.png",
+          "references": [
+            "镜头设计/图像/目光与入场-v048/CY024K4-v048-r1.png"
+          ],
+          "prompt": "Use case: precise-object-edit, identity-preserving cinematic keyframe. Make ONE 16:9 landscape frame (exact widescreen aspect ratio) from this image for the START of a rescue attempt. Keep the original gothic anime rendering, Kimi pale lavender hair and dark moon dress, Claude orange hair/flower and scorched white dress, the same cross and fully opaque dark indigo dome interior. Change CAMERA AND ARM ACTION only: tighter upper-body framing raised slightly toward Claude's raised wrist on SCREEN LEFT (Claude's right wrist). Put the closed black wrist cuff and its seam very clearly in the UPPER LEFT THIRD, Claude's face in the RIGHT THIRD, and Kimi's concerned face in the LOWER LEFT. Kimi extends her OWN RIGHT ARM upwards to this SCREEN-LEFT wrist cuff. Her RIGHT HAND unmistakably holds the same SMALL BLACK AND GOLD CIRCULAR CRESCENT MOON BLADE, not a straight dagger. Its small tip stops 3 centimeters BELOW AND TO THE LEFT of the cuff's outer seam, about to delicately test metal. The blade, hand and movement path must be entirely OUTSIDE Claude's face/neck silhouette, with clear negative space between the blade and Claude's cheek/neck. The blade is high near the wrist at the far left, NOT anywhere near chin, throat, hair or chest. Contact has NOT occurred yet: no glowing curse flare, no pain scream; Claude looks exhausted, Kimi focused on cuff. Claude's wrist remains locked against the crossbar; her other raised arm remains restrained and continues to screen right. Cross is a stable wooden cross behind her, no released restraints. Kimi's LEFT hand holds the pale gold-white small round moon blade LOW outside her body, can be partly outside bottom crop; do not swap hands. Do not detach or transform weapons. Background only dark opaque inner membrane, no cathedral, window, candle or outside person. Natural anatomy, exactly two people, no extra fingers, no duplicate arms. No text, arrows, labels or montage. This precise starting relationship must make the next tiny contact with the cuff obvious."
+        }
+      ]
+    },
+    {
+      "batch": 21,
+      "batch_id": "GB016-1",
+      "shot_id": "CY023A",
+      "batch_offset": 3,
+      "effective_seconds": 3,
+      "recommended_path": "视频制作/Metaso-H3-v003/修订参考/CY023A-两翼分流前-r001.png",
+      "sha256": "0434e44dfb9c19a2fd3e8f0abffd7cdf97a6e1fc9cd2a06675261eee683f35be",
+      "width": 1672,
+      "height": 941,
+      "video_inputs": [
+        {
+          "role": "first_frame",
+          "path": "视频制作/Metaso-H3-v003/修订参考/CY023A-两翼分流前-r001.png"
+        }
+      ],
+      "review": {
+        "decision": "起态候选可进入视频输入复核",
+        "verified": [
+          "六名骑士：两名门边竖枪岗哨、左侧两名和右侧两名增援",
+          "中央通道空着，左右分流者身体朝各自外侧",
+          "门内机位、门槛、左右柱廊与月夜外景可辨",
+          "不含任何主角，没有跨镜全角色参考干扰"
+        ],
+        "adaptation": "为降低3秒复杂步行失败，起态已跨过门槛并分成左右两对；仅完成向各自侧廊走两步停稳。人物从外进入门槛的过程以此前入殿情境和当前门槛位置交代，不再另演一遍长队。"
+      },
+      "video_prompt": "单一3秒镜头，16:9。唯一首帧锁定门内空间与六名圣骑士：门边两名竖枪岗哨站定不动；左边两名已跨槛的增援沿左侧柱廊再走两步停稳，右边两名沿右侧柱廊再走两步停稳。四人始终各走自己一侧，不交叉、不返身、不从门外再复制队伍。中央石地通道全程空着。镜头留在门内轻微后退，同时保留门槛和左右柱廊入口，不穿过人物或门。白银甲与披风保持，门扇已打开且不动。没有主角、没有马、没有新人物、无对白字幕。额外余量保持两翼站稳。",
+      "generation": [
+        {
+          "file": "视频制作/Metaso-H3-v003/修订参考/CY023A-两翼分流前-r001.png",
+          "generated_source": "C:/Users/36322/.codex/generated_images/01a17e8c-06eb-7720-a4d9-40e4b354bdc0/exec-0410f61e-3d05-4a4c-8371-3c835561dac9.png",
+          "references": [
+            "镜头设计/图像/天瀑空间-v014/CY023A-v014-r3.png"
+          ],
+          "prompt": "Use case: identity-preserving scene restaging. Create ONE exact 16:9 landscape cinematic keyframe. Image 1 is reference for this cathedral's breached wooden double doorway, night city outside, WHITE SILVER FULL-PLATE PALADIN design, spear shapes and anime rendering. Redesign the CAMERA and STAGING to make a simple next movement possible. Camera is INSIDE the cathedral, slightly elevated 3/4 view looking toward the open doors from several meters inside, wide enough to show the entire door threshold, BOTH left and right interior side-aisle entrances with tall stone columns, and a broad EMPTY CENTRAL STONE AISLE leading from the bottom center through the door. Exactly SIX identical-uniform but separate adult armored paladins, no horses. TWO gate sentries stand stationary one tight beside each doorpost with vertical spears. FOUR reinforcements have JUST stepped over the threshold and are ALREADY divided into two pairs: two on the left half turning and facing left toward the left-side column aisle; two on the right half turning and facing right toward the right-side column aisle. Their bodies and feet unmistakably point outward toward their respective aisle, not toward the camera and not back out the door. Central floor corridor remains EMPTY and clearly continuous; no knight blocks its center. Space between each pair and the respective inner columns allows two steps of movement into the side aisle. Show each full body and readable feet/ground contact. Avoid a long single-file parade, avoid forcing all six into one diagonal line, avoid an overhead diagram. Maintain dramatic perspective, moonlit blue outside, subtle warm church candle light inside, detailed white-silver armor and flowing ivory cloaks, same gothic fantasy anime film style. The original gate is ALREADY forced open with modest wood splinters around the edges, door leaves and threshold stay fixed. Exterior is night, same city spires beyond. No named protagonists, no extra characters, no text, arrows, signage, watermarks or montage. The central empty corridor and two distinct side paths are the purpose of this composition."
+        }
+      ]
+    }
+  ]
+}

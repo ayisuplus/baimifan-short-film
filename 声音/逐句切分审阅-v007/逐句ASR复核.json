@@ -1,0 +1,413 @@
+{
+  "method": "offline Whisper-small, short-clip transcription without text prompting; not listening approval",
+  "lines": [
+    {
+      "id": "VO-CY003B-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY003B-01__Claude__take1.wav",
+      "sha256": "e3d322f324b32abc2820ff0ffbe556a12b6451897c3978b7b02c4700d0d17b12",
+      "expected_reading_text": "ありがとう……",
+      "asr_text": "ありがとう"
+    },
+    {
+      "id": "VO-CY015-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY015-01__Claude__take1.wav",
+      "sha256": "a64e44c3a45bd7937ad950e29f0c091d24008dffef3d515af3fb4b44187646c6",
+      "expected_reading_text": "どうしてここに？",
+      "asr_text": "どうしてここに"
+    },
+    {
+      "id": "VO-CY016A-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY016A-01__Claude__take1.wav",
+      "sha256": "6cb3e0b9e6a922f237b49414d207f71cfe1152c04cb9286599e1aae9d88b509f",
+      "expected_reading_text": "もういいから、早く逃げて。",
+      "asr_text": "もういいから早く逃げて"
+    },
+    {
+      "id": "VO-CY016B1-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY016B1-01__Claude__take1.wav",
+      "sha256": "df86ea961db4fad0682a98af237dc88fa41eaa6d6897ffc70fb5c6ceb6b1dc9c",
+      "expected_reading_text": "逃げて！",
+      "asr_text": "逃げて"
+    },
+    {
+      "id": "VO-CY020-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY020-01__Claude__take1.wav",
+      "sha256": "236c491495c2ae1819902de96ba29b4b4b8c4890e500d9fa10bb02a5d918112a",
+      "expected_reading_text": "その子に触らないで！",
+      "asr_text": "その子に触らないで"
+    },
+    {
+      "id": "VO-CY021-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY021-01__Claude__take1.wav",
+      "sha256": "64d2943a2e59d3ea9892bfeefa2a34449e1be520e9587f46cdc884ff9bb3781a",
+      "expected_reading_text": "お父様……その子だけは、帰して。",
+      "asr_text": "お父様その子だけは返して"
+    },
+    {
+      "id": "VO-CY028A-02",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY028A-02__Claude__take1.wav",
+      "sha256": "42eaf3d4d659eaa039c0b8c7bbc13aa5b8fe9d9177d7ecc0bda3b4fa9e113864",
+      "expected_reading_text": "あの子は……",
+      "asr_text": "あの子は…"
+    },
+    {
+      "id": "VO-CY028B-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY028B-01__Claude__take1.wav",
+      "sha256": "603606aa66b08d2c9d2e05879b5ef51ebf42360ef05b5a6c961cba0344ebef4c",
+      "expected_reading_text": "灰に眠る、かすかな光よ。",
+      "asr_text": "はしにめむるかすかな光を"
+    },
+    {
+      "id": "VO-CY029E1-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY029E1-01__Claude__take1.wav",
+      "sha256": "9df456b54d32ba2782a4de82028689f4ebd0664414a2d99e375b216077cde3ea",
+      "expected_reading_text": "この手に、やどれ。",
+      "asr_text": "この手に宿れ"
+    },
+    {
+      "id": "VO-CY029E4-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY029E4-01__Claude__take1.wav",
+      "sha256": "f7d34a514bb42c3df274005f2bf9d5e3b883bbf9707e58db3f1a89dc4ce9adfc",
+      "expected_reading_text": "もう一度、もえよ――",
+      "asr_text": "もう一度、燃えよ。"
+    },
+    {
+      "id": "VO-CY029B1-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY029B1-01__Claude__take1.wav",
+      "sha256": "3176d1f5ce69db5de33cdfaed00070cbac0e8832f091a0f0c6d9dfa28c90c136",
+      "expected_reading_text": "せいか。",
+      "asr_text": "せいか。"
+    },
+    {
+      "id": "VO-CY031A-02",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY031A-02__Claude__take1.wav",
+      "sha256": "18c25e509f35b11940a8d1ef6631bb94f9cbc2bb66f556882dc129d06ca09002",
+      "expected_reading_text": "うん。",
+      "asr_text": "ふぅ"
+    },
+    {
+      "id": "VO-CY024-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY024-01__GPT__take1.wav",
+      "sha256": "e30c7356d0283743f096553d6f92752a880778421e737e54c493e1aa561d59e4",
+      "expected_reading_text": "二人を守って。",
+      "asr_text": "二人を守って"
+    },
+    {
+      "id": "VO-CY024A-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY024A-01__GPT__take1.wav",
+      "sha256": "7a4a13cbe112c254392171db8193b45b3d6b9c457e71b8476c878d0efb6de9d8",
+      "expected_reading_text": "きよき水のぬしよ。",
+      "asr_text": "木を木水の主を"
+    },
+    {
+      "id": "VO-CY024A2-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY024A2-01__GPT__take1.wav",
+      "sha256": "9acaf9ec86f47777b32593e344e2634169df2cefbc4b959b0db0d7c12ae032e2",
+      "expected_reading_text": "水よ、集え。",
+      "asr_text": "水よ つぞえ"
+    },
+    {
+      "id": "VO-CY024A3-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY024A3-01__GPT__take1.wav",
+      "sha256": "0e5a7404abacf382ce6ede703993bd86fe9789c0d7c408793b82e0014056156a",
+      "expected_reading_text": "雲の上に、海をなせ。",
+      "asr_text": "雲の上に海を舐す"
+    },
+    {
+      "id": "VO-CY024A4-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY024A4-01__GPT__take1.wav",
+      "sha256": "763b8013eb7c7749bdc03481b1048a341b109ecc8a92b7699d1788308482a98f",
+      "expected_reading_text": "炎を鎮め、",
+      "asr_text": "炎を沈ね"
+    },
+    {
+      "id": "VO-CY024A5-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY024A5-01__GPT__take1.wav",
+      "sha256": "d4646847cb1959b5fd0dd903ee4925d895bde8dd991a07e6eece6a95baf06909",
+      "expected_reading_text": "罪なき者に、救いを――",
+      "asr_text": "罪無き者に救いを。"
+    },
+    {
+      "id": "VO-CY024A5-02",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY024A5-02__GPT__take1.wav",
+      "sha256": "1a07d6f497c20c20bf667309501fb70b8ff313e5aa7d90e9d5a4cbea8db6c935",
+      "expected_reading_text": "そうりゅうてんけい！",
+      "asr_text": "そう、流点系!"
+    },
+    {
+      "id": "VO-CY028A-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY028A-01__GPT__take1.wav",
+      "sha256": "7cb605c68b30b5e71f06efb43c119ef1e5c13b5791e656ca83e52106ea695140",
+      "expected_reading_text": "ゆっくりでいい。",
+      "asr_text": "ゆっくりでいい"
+    },
+    {
+      "id": "VO-CY028A2-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY028A2-01__GPT__take1.wav",
+      "sha256": "5acf50043b06441e919bfdc590303a4232c0440a52322e16316838fe910b0185",
+      "expected_reading_text": "無事よ。下で待ってる。",
+      "asr_text": "無事よ 下で待ってる"
+    },
+    {
+      "id": "VO-CY008M-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY008M-01__GPT__take1.wav",
+      "sha256": "01e4863279a5f93a2e7acaa91884b2a87f587476445ba4b6720ccb1edecfff30",
+      "expected_reading_text": "協定を忘れないで。",
+      "asr_text": "協定を忘れないで"
+    },
+    {
+      "id": "VO-CY008M-02",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY008M-02__GPT__take1.wav",
+      "sha256": "1c72c10a08e51a37ddedabe5107e48d5ec43c770b23a60f386b3e8ab1c2649c2",
+      "expected_reading_text": "それで、見殺しにするの？",
+      "asr_text": "それで、見殺しにするの?"
+    },
+    {
+      "id": "VO-CY024R-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY024R-01__Kimi__take1.wav",
+      "sha256": "6b99ae65684afaa2f814fe5edc7e8bb18bfaabf8e7e02e9e9fb6f7660a755119",
+      "expected_reading_text": "月の裏に眠る、ふるきいしよ。",
+      "asr_text": "月の裏に眠る古き石を"
+    },
+    {
+      "id": "VO-CY024K0-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY024K0-01__Kimi__take1.wav",
+      "sha256": "6ea25ee7544571ab6c0d9f177d3b0f8a9bbe7633d7ac7487470a7285dc9e1b48",
+      "expected_reading_text": "このやいばをしるべに、道を開け。",
+      "asr_text": "この刃をしるべに道を開け"
+    },
+    {
+      "id": "VO-CY024K1A-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY024K1A-01__Kimi__take1.wav",
+      "sha256": "357cb4415328186c3329bb5a8418c4f654798afee2f1457b63df867752f559e0",
+      "expected_reading_text": "つきかげわたり！",
+      "asr_text": "月かに渡り"
+    },
+    {
+      "id": "VO-CY026D-02",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY026D-02__Kimi__take1.wav",
+      "sha256": "1f7b0a8f85b0730fd2ff8c99b0bd3548819b922001081169b2d96d3f75c026ad",
+      "expected_reading_text": "任せて。",
+      "asr_text": "任せて"
+    },
+    {
+      "id": "VO-CY024R-01",
+      "take": 2,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY024R-01__Kimi__take2.wav",
+      "sha256": "0245b88bd77323d32f74d90e61625742416f7ae870c5daebdedfdae2953c3130",
+      "expected_reading_text": "月の裏に眠る、ふるきいしよ。",
+      "asr_text": "月の裏に眠る古き石を"
+    },
+    {
+      "id": "VO-CY024K0-01",
+      "take": 2,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY024K0-01__Kimi__take2.wav",
+      "sha256": "6c77f5fc9ba9f932b3db81f1a2eaacf82a601bf4c7dc9ec7420c48426310dce8",
+      "expected_reading_text": "このやいばをしるべに、道を開け。",
+      "asr_text": "この刃をしるべに道を開け"
+    },
+    {
+      "id": "VO-CY024K1A-01",
+      "take": 2,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY024K1A-01__Kimi__take2.wav",
+      "sha256": "f8dd2d509beeee49fe804e2089b0d7090b1be3ec55c95ce07e050fb2fb524ea8",
+      "expected_reading_text": "つきかげわたり！",
+      "asr_text": "月かに渡り"
+    },
+    {
+      "id": "VO-CY026D-02",
+      "take": 2,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY026D-02__Kimi__take2.wav",
+      "sha256": "cb14cf8cb9ea9d9239e0678036c8fa964ef6b961cc8e46c33a55bb386a446607",
+      "expected_reading_text": "任せて。",
+      "asr_text": "任せて"
+    },
+    {
+      "id": "VO-CY024R-01",
+      "take": 3,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY024R-01__Kimi__take3.wav",
+      "sha256": "49111630cf065db3b28e13350fc6d2a9034507693e3196714cf6904abf778bf2",
+      "expected_reading_text": "月の裏に眠る、ふるきいしよ。",
+      "asr_text": "月の裏に眠る 古き石よ"
+    },
+    {
+      "id": "VO-CY024K0-01",
+      "take": 3,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY024K0-01__Kimi__take3.wav",
+      "sha256": "9cb396cf7d2a0fa8100440b4ef594a4fbfea977d9764b066daba80741707f661",
+      "expected_reading_text": "このやいばをしるべに、道を開け。",
+      "asr_text": "この刃をしるべに道を開け"
+    },
+    {
+      "id": "VO-CY024K1A-01",
+      "take": 3,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY024K1A-01__Kimi__take3.wav",
+      "sha256": "e8bb1a009eafc70878fd48a7ab603f4cd08aa8b701956238b055c252fef162e4",
+      "expected_reading_text": "つきかげわたり！",
+      "asr_text": "付き金渡り"
+    },
+    {
+      "id": "VO-CY026D-02",
+      "take": 3,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY026D-02__Kimi__take3.wav",
+      "sha256": "66cb9ca26a84e5daab2d3fcce2cf1fc31dd333bc3696fa56a585125c2b8a76cb",
+      "expected_reading_text": "任せて。",
+      "asr_text": "任せて"
+    },
+    {
+      "id": "VO-CY021A-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY021A-01__教主__take1.wav",
+      "sha256": "78caefd284f16730383877a9bd1461a637fb8068b2b39852db7e6eeb486dc5dd",
+      "expected_reading_text": "我が娘よ、神がお待ちだ。",
+      "asr_text": "我が娘よ 神がお持ちだ"
+    },
+    {
+      "id": "VO-CY019-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY019-01__教主__take1.wav",
+      "sha256": "d04da00de20bae1ee4bae6b8d0958473459ff1007d13fcbf0d51c397eb278d2e",
+      "expected_reading_text": "どけ。",
+      "asr_text": "ドーク"
+    },
+    {
+      "id": "VO-CY027A-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY027A-01__教主__take1.wav",
+      "sha256": "2f854381d3a31b6cf9bd72469ba5635d9594dfd8e525b0cbdcff31918640a7f1",
+      "expected_reading_text": "不干渉条約を破ったな。",
+      "asr_text": "不感症条約を破ったな"
+    },
+    {
+      "id": "VO-CY029-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY029-01__教主__take1.wav",
+      "sha256": "fd7e6c0861abec13759fe20dc0a967fdb92619764d33a8dc412dbfc3059ac593",
+      "expected_reading_text": "クロード……来なさい。",
+      "asr_text": "クロードを…来なさい"
+    },
+    {
+      "id": "VO-CY021A-01",
+      "take": 2,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY021A-01__教主__take2.wav",
+      "sha256": "00384b2471fc8cea19be51f0753f82f7a20b885270d3d00c490457b63b05fa98",
+      "expected_reading_text": "我が娘よ、神がお待ちだ。",
+      "asr_text": "我が娘を 神がお待ちだ"
+    },
+    {
+      "id": "VO-CY019-01",
+      "take": 2,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY019-01__教主__take2.wav",
+      "sha256": "3d6897614ca22a5f7cafe439679f38bcdc84a9af54a3bca628eec4e3b4c02cff",
+      "expected_reading_text": "どけ。",
+      "asr_text": "どっか"
+    },
+    {
+      "id": "VO-CY027A-01",
+      "take": 2,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY027A-01__教主__take2.wav",
+      "sha256": "01d3d1f99ebc508556d8ef450e4026f8c9a79851d024ac40d6192a5fe85f2c31",
+      "expected_reading_text": "不干渉条約を破ったな。",
+      "asr_text": "不感症状役を破ったな"
+    },
+    {
+      "id": "VO-CY029-01",
+      "take": 2,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY029-01__教主__take2.wav",
+      "sha256": "57516808ecfb29a8f8abf494d3d5ab997bdbda1218fa27498d9514bddf2597e5",
+      "expected_reading_text": "クロード……来なさい。",
+      "asr_text": "クロードを…来なさい"
+    },
+    {
+      "id": "VO-CY021A-01",
+      "take": 3,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY021A-01__教主__take3.wav",
+      "sha256": "1c442c9c64115556801b349581f94b7e3013c748fcc8225fd2791eccdb60a2d0",
+      "expected_reading_text": "我が娘よ、神がお待ちだ。",
+      "asr_text": "我が娘よ 神がお待ちだ"
+    },
+    {
+      "id": "VO-CY019-01",
+      "take": 3,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY019-01__教主__take3.wav",
+      "sha256": "430bc5f80e6eb35e57e597fe704f439b609222536e8ee27bdcd61ae315ae9b13",
+      "expected_reading_text": "どけ。",
+      "asr_text": "どこ?"
+    },
+    {
+      "id": "VO-CY027A-01",
+      "take": 3,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY027A-01__教主__take3.wav",
+      "sha256": "12c90510165314a2c12ca75a3408778a70bb401882aa82a5a3b93a55b8754338",
+      "expected_reading_text": "不干渉条約を破ったな。",
+      "asr_text": "不感症条約を破ったな"
+    },
+    {
+      "id": "VO-CY029-01",
+      "take": 3,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY029-01__教主__take3.wav",
+      "sha256": "b1f3ddecf662b681134614d74cdb67a7a2144d737b5e2bf0b90faa1c8c4d1a19",
+      "expected_reading_text": "クロード……来なさい。",
+      "asr_text": "クロードを…来なさい"
+    },
+    {
+      "id": "VO-CY026A1-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY026A1-01__千问__take1.wav",
+      "sha256": "132d8f0ada6437319a274486a9503772653b700ffeed1d8cabf2528fd409769c",
+      "expected_reading_text": "行きましょう。",
+      "asr_text": "行きましょう。"
+    },
+    {
+      "id": "VO-CY024A0-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY024A0-01__千问__take1.wav",
+      "sha256": "a05640784f030875e41f0cb87e8f1a680107f20a1442d3516eec2a487525e83a",
+      "expected_reading_text": "つかまって。",
+      "asr_text": "捕まって"
+    },
+    {
+      "id": "VO-CY004-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY004-01__教徒__take1.wav",
+      "sha256": "30d066ed616ff601270f7ce7adbbc9f0e01186bd8d33850aeb59917b7fbfbe06",
+      "expected_reading_text": "クロードを中へ。いけにえのぎの支度をしろ。",
+      "asr_text": "クロードを仲へ イケニエノギの支度をしろ"
+    },
+    {
+      "id": "VO-CY010A-01",
+      "take": 1,
+      "file": "声音/逐句切分审阅-v007/逐句候选/VO-CY010A-01__教徒__take1.wav",
+      "sha256": "5d96c2ecc0cbcd6ea8cb511877177d3a02d746842d1d2c5ceb3ef27b74b949a3",
+      "expected_reading_text": "こくじんの薪を、一人一本持ってこい。",
+      "asr_text": "黒人の巻を一人一本持ってこい"
+    }
+  ]
+}

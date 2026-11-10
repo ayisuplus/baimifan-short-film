@@ -1,0 +1,38 @@
+[
+  {
+    "id": "CY024A0-r2",
+    "inputs": [
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/生成前修正-v059/CY024A0-v059.png",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/目光与入场-v048/CY024A0-v048-r1.png"
+    ],
+    "prompt": "Perform a surgical continuity repair on IMAGE 1, which is the base frame. Do NOT mirror it. Keep the CHILD on viewer RIGHT supported by Qwen's anatomical LEFT arm. Keep CLOSED FAN on viewer LEFT held in Qwen's anatomical RIGHT hand. Preserve their exact faces, gazes, embrace, identity, anatomy, clothing, lighting and camera. Repair just two wrong laterality details: (1) Qwen's single long braid must hang over HER LEFT SHOULDER, i.e. viewer RIGHT, as in character card IMAGE 2. It can fall partly behind the child on viewer RIGHT. Remove the incorrect braid on viewer LEFT, replace that area with appropriate loose hair and dress; never add a second braid. Preserve the small purple floral head ornament on viewer LEFT as in IMAGE 2. (2) Restore cathedral background orientation from IMAGE 3: the massive close dark carved column must be on the RIGHT edge, luminous lancet stained-glass windows on the LEFT and center. Image 3 is only the background spatial reference, do NOT restore its incorrect child/fan position or incorrect ornament side. No global horizontal flip. No new people, objects or captions. Output a single complete 16:9 frame.",
+    "output": "C:\\Users\\36322\\.codex\\generated_images\\01a17883-69dd-74f1-8f13-bbde7422c943\\exec-aafd915c-8a11-4b44-a523-d98adde96cde.png"
+  },
+  {
+    "id": "CY020B",
+    "inputs": [
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/细节与显形-v052/CY020B-v052-r2.png",
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/细节与显形-v052/CY022-v052-r1.png"
+    ],
+    "prompt": "Edit IMAGE 1 in place. Change ONLY the handheld ceremonial torch to match the actual torch design in IMAGE 2. It is a SHORT hand torch with a dark black-metal thick handle, modest gold bands, and a BLACK IRON OPENWORK CAGE/BASKET HEAD with angular pointed ribs and fine gold filigree; black-purple magical flame burns from the cage. NOT a long staff or scepter, NOT a round gold goblet. Keep the priest's hand and exact grip location, pose, body, face/hair/clothing, camera, all other people, church, background and lighting untouched. Replace old cup head locally with matching dark cage torch head, shorten the shaft so only a small handle stub extends below his gripping fist; restore the original robe/background behind the removed long shaft. Keep flame black-purple with no new fire elsewhere. Preserve original 16:9 framing and all narrative composition. No text, no comparison panels.",
+    "output": "C:\\Users\\36322\\.codex\\generated_images\\01a17883-69dd-74f1-8f13-bbde7422c943\\exec-4047df15-b0cb-4034-9456-5fb5b01697b0.png"
+  },
+  {
+    "id": "CY022A",
+    "inputs": [
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/细节与显形-v052/CY022A-v052-r1.png",
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/细节与显形-v052/CY022-v052-r1.png"
+    ],
+    "prompt": "Edit IMAGE 1 in place. Change ONLY the handheld ceremonial torch to match the actual torch design in IMAGE 2. It is a SHORT hand torch with a dark black-metal thick handle, modest gold bands, and a BLACK IRON OPENWORK CAGE/BASKET HEAD with angular pointed ribs and fine gold filigree; black-purple magical flame burns from the cage. NOT a long staff or scepter, NOT a round gold goblet. Keep the priest's hand and exact grip location, pose, body, face/hair/clothing, camera, all other people, church, background and lighting untouched. Replace old cup head locally with matching dark cage torch head, shorten the shaft so only a small handle stub extends below his gripping fist; restore the original robe/background behind the removed long shaft. Keep flame black-purple with no new fire elsewhere. Preserve original 16:9 framing and all narrative composition. No text, no comparison panels.",
+    "output": "C:\\Users\\36322\\.codex\\generated_images\\01a17883-69dd-74f1-8f13-bbde7422c943\\exec-ccfbcf34-4ba2-4639-8e57-8b73149b1c19.png"
+  },
+  {
+    "id": "CY024A0-r3",
+    "inputs": [
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/生成前修正-v059/CY024A0-v059.png"
+    ],
+    "prompt": "Use the attached image as the exact base. Make ONE tiny local hairstyle edit ONLY. The long single braid currently hanging on the LEFT side of the IMAGE is on the wrong shoulder. Remove that visible left-side braid and its lower braid-end bow/flower only; fill that narrow area naturally with loose lavender hair and the existing dress. The correct single braid is on Qwen's LEFT ANATOMICAL shoulder, on the RIGHT side of the IMAGE, behind the child's body; show at most a small braided segment emerging below her right-side hair near the child, mostly occluded by the child. Do not invent a second braid. ABSOLUTELY KEEP the child's entire body on the RIGHT of this image, keep the closed fan and gripping hand at the LEFT of this image, keep the woman's left forearm cradling the child on image RIGHT. Do not change any face, gaze, pose, arm, child, fan, head ornament, camera or background. Keep all pixels outside the narrow hair/old braid region as close to the source as possible. Do NOT horizontally flip anything. No repositioning characters. No new framing. Output the same full 16:9 scene.",
+    "output": "C:\\Users\\36322\\.codex\\generated_images\\01a17883-69dd-74f1-8f13-bbde7422c943\\exec-b6345e8d-a06e-4a13-b062-40f4f2ab7660.png"
+  }
+]

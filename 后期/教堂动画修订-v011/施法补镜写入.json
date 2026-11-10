@@ -1,0 +1,49 @@
+{
+  "changes": [
+    {
+      "record": 6273,
+      "frames": 54,
+      "old": {
+        "name": "B26_v011_6273_3",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v006\\产物\\GB019-v006-CY024A9-caster-r1.mp4"
+      },
+      "new_source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v014\\产物\\CY024A-v014-caster-2d-sync-r1.mp4",
+      "source_start": 0,
+      "source_end": 54,
+      "speed": {
+        "Percentage": 100.0
+      }
+    },
+    {
+      "record": 6447,
+      "frames": 72,
+      "old": {
+        "name": "B26_v011_6447_5",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v006\\产物\\GB019-v006-CY024A9-caster-r1.mp4"
+      },
+      "new_source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v014\\产物\\CY024A-v014-caster-2d-sync-r1.mp4",
+      "source_start": 56,
+      "source_end": 125,
+      "speed": {
+        "Percentage": 95.83333333333336
+      }
+    },
+    {
+      "record": 6723,
+      "frames": 42,
+      "old": {
+        "name": "B26_v011_6723_9",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v006\\产物\\GB019-v006-CY024A9-caster-r1.mp4"
+      },
+      "new_source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v014\\产物\\CY024A-v014-caster-2d-sync-r1.mp4",
+      "source_start": 126,
+      "source_end": 168,
+      "speed": {
+        "Percentage": 100.0
+      }
+    }
+  ],
+  "audio_and_subtitles_unchanged": true,
+  "saved": true,
+  "exported": false
+}

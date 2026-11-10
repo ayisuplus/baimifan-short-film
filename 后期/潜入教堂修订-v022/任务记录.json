@@ -1,0 +1,80 @@
+{
+  "jobs": {
+    "010r1": "a6c738c8-3cf7-4767-8a00-ca1b48d71be7",
+    "011r1": "156f22ff-aaf9-488f-a822-63e1fef01322",
+    "012r1": "40c13303-9b40-49de-8707-2f9b038f9532",
+    "010tail": "a1ffbae1-750a-4e4e-88d2-dacef949874b",
+    "012r2": "dba3e1ce-ed7d-46a6-bda4-40a73237faf0"
+  },
+  "upscale": false,
+  "editor": "http://127.0.0.1:8978/editor/1500f6fe-cacc-4a92-9bc2-9e640cfbad07",
+  "base": "http://127.0.0.1:8978/editor/c6047828-f087-4abf-a098-bfccefe62562",
+  "trim_011_frames": 12,
+  "trim_014_frames": 24,
+  "validation": "all three valid, 0 errors, 0 warnings",
+  "status": "installed_reload_verified",
+  "frames": 9242,
+  "segments": 118,
+  "author_review_pending": true,
+  "rejected": [
+    "012r1"
+  ],
+  "adopted": [
+    "010r1+010tail",
+    "011r1",
+    "012r2"
+  ],
+  "files": [
+    {
+      "file": "010_教徒退场通道清空_v022.mp4",
+      "sha256": "9700c30c3c909ccf7b3c71b5e3c765010fb0e0fa475e991ce28727d07bd41430",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 1344,
+            "height": 768,
+            "r_frame_rate": "24/1",
+            "nb_frames": "126"
+          }
+        ]
+      }
+    },
+    {
+      "file": "011_钻洞脱困_v022.mp4",
+      "sha256": "91978317e1a7e3879a652f8cb49598a29c4ce66d826277d60cd683a2844dd5c8",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 1344,
+            "height": 768,
+            "r_frame_rate": "24/1",
+            "nb_frames": "78"
+          }
+        ]
+      }
+    },
+    {
+      "file": "012_继续爬入同画风_v022.mp4",
+      "sha256": "c552576b162ddc962c10bfdf40a410097073f96033c9c8cf1f7ba3645d2e22ab",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 1344,
+            "height": 768,
+            "r_frame_rate": "24/1",
+            "nb_frames": "48"
+          }
+        ]
+      }
+    }
+  ]
+}

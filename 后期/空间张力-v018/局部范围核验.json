@@ -1,0 +1,14 @@
+{
+  "unaffected_batches_identical": 37,
+  "unchanged_shots": 124,
+  "protected_shot": "CY017A",
+  "references_verified": true,
+  "selected_model_capacity_verified": true,
+  "changed_batches": [
+    "GB002",
+    "GB003",
+    "GB007",
+    "GB009"
+  ],
+  "video_generated": false
+}

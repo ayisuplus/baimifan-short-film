@@ -1,0 +1,89 @@
+{
+  "adopted": [
+    {
+      "shot": "037",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v030\\037-2d-i2v-r1-no-upscale_00001_.mp4",
+      "source_start": 5,
+      "source_end_exclusive": 73,
+      "frames": 68,
+      "speed": 1.0,
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\小鱼脱手与二维统一-v030\\037_小鱼推离撑地_二维_v030.mp4"
+    },
+    {
+      "shot": "041a",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v030\\041a-2d-i2v-r1-no-upscale_00001_.mp4",
+      "source_start": 5,
+      "source_end_exclusive": 73,
+      "frames": 68,
+      "speed": 1.0,
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\小鱼脱手与二维统一-v030\\041a-采用片段.mp4"
+    },
+    {
+      "shot": "041b",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v030\\041b-2d-i2v-r1-no-upscale_00001_.mp4",
+      "source_start": 20,
+      "source_end_exclusive": 90,
+      "frames": 70,
+      "speed": 1.0,
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\小鱼脱手与二维统一-v030\\041b-采用片段.mp4"
+    },
+    {
+      "shot": "041c",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v030\\041c-2d-i2v-r1-no-upscale_00001_.mp4",
+      "source_start": 0,
+      "source_end_exclusive": 107,
+      "frames": 84,
+      "speed": 1.2738095238095237,
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\小鱼脱手与二维统一-v030\\041c-采用片段.mp4"
+    },
+    {
+      "shot": "041d",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v030\\041d-2d-i2v-r1-no-upscale_00001_.mp4",
+      "source_start": 7,
+      "source_end_exclusive": 73,
+      "frames": 66,
+      "speed": 1.0,
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\小鱼脱手与二维统一-v030\\041d-采用片段.mp4"
+    }
+  ],
+  "final_checks": [
+    {
+      "file": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\小鱼脱手与二维统一-v030\\037_小鱼推离撑地_二维_v030.mp4",
+      "sha256": "09c5a6a5d6fd5da0f49eae324419df99aa8fc7717b4c2d9e5bac89686e92723f",
+      "frames": 68,
+      "duration": "2.833333",
+      "resolution": [
+        1344,
+        768
+      ],
+      "fps": "24/1",
+      "audio": false
+    },
+    {
+      "file": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\小鱼脱手与二维统一-v030\\041_小鱼脱手与点火_二维_v030.mp4",
+      "sha256": "88e57580364f438f7d659ac067c734ebc56cfb5c071eca1917ca7c7583f64ae1",
+      "frames": 288,
+      "duration": "12.000000",
+      "resolution": [
+        1344,
+        768
+      ],
+      "fps": "24/1",
+      "audio": false
+    }
+  ],
+  "041_parts_frames": [
+    68,
+    70,
+    84,
+    66
+  ],
+  "041_cuts_local": [
+    0,
+    68,
+    138,
+    222,
+    288
+  ],
+  "upscale": false
+}

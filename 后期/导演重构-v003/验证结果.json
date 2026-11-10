@@ -1,0 +1,30 @@
+{
+  "timeline": "v003_Dramatic_Reconstruction",
+  "frames": 11497,
+  "seconds": 479.0416666666667,
+  "picture_segments": 113,
+  "batches": 44,
+  "voice_pieces": 64,
+  "unique_selected_lines": 63,
+  "music_cues": 17,
+  "sound_events": 126,
+  "tracks": 8,
+  "all_tracks_enabled": true,
+  "native_picture_audio_conform": true,
+  "voice_original_speed_except_four_gpt_chant_lines": true,
+  "author_b12_trim_preserved": true,
+  "new_tasks": 9,
+  "adopted_retake_sources": 8,
+  "rejected_retake_sources": 1,
+  "estimated_credits": 591.6,
+  "actual_billing_verified": false,
+  "peak_after_shared_gain": 0.5622031149186101,
+  "no_new_video_or_project_exports": true,
+  "verification_stills": "仅工程预览裁切静帧，不是视频导出",
+  "remaining": [
+    "全片连续听审",
+    "逐音素口型验收",
+    "表演张力与构图最终作者核验",
+    "角色跨句音色与响度精修"
+  ]
+}

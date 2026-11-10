@@ -1,0 +1,149 @@
+{
+  "review_passed": true,
+  "video": [
+    {
+      "path": "后期/逐镜修订-v012/第三批/长阶恢复/长阶原片取景-48帧.mp4",
+      "sha256": "ef69ceea6464ebc27a2270f877e8e282a1c2960231d521c32b9ca981fc9befb1",
+      "in": 0,
+      "out": 48,
+      "frames": 48,
+      "speed": 100
+    },
+    {
+      "path": "视频制作/Metaso-H3-v015/产物/GB003-v015-guards-night-r2.mp4",
+      "sha256": "ca8eefb0338f2e21264b388b0acce557f32bc30cd0c3cf8328c594651e2878c7",
+      "in": 24,
+      "out": 144,
+      "frames": 120,
+      "speed": 100
+    },
+    {
+      "path": "视频制作/Metaso-H3-v015/产物/GB003-v015-guards-night-r2.mp4",
+      "sha256": "ca8eefb0338f2e21264b388b0acce557f32bc30cd0c3cf8328c594651e2878c7",
+      "in": 168,
+      "out": 234,
+      "frames": 66,
+      "speed": 100
+    },
+    {
+      "path": "视频制作/Metaso-H3-v015/产物/GB003-v015-guards-night-r2.mp4",
+      "sha256": "ca8eefb0338f2e21264b388b0acce557f32bc30cd0c3cf8328c594651e2878c7",
+      "in": 247,
+      "out": 277,
+      "frames": 30,
+      "speed": 100
+    }
+  ],
+  "foley": {
+    "path": "后期/逐镜修订-v012/第三批/长阶恢复/声音/Foley-v012-B03.wav",
+    "sha256": "e9d08b794d3a8c2e7e2bcb3b28a8af3c4d4809263e7c1db5f593980c7610ce62",
+    "changed_frames": [
+      682,
+      946
+    ],
+    "outside_interval_pcm_exact": true,
+    "events": [
+      {
+        "id": "SFX-176",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-176-音效工作段.wav",
+        "relative_seconds": 0.25,
+        "duration": 0.26,
+        "incremental_gain_db": -4
+      },
+      {
+        "id": "SFX-177",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-177-音效工作段.wav",
+        "relative_seconds": 0.65,
+        "duration": 0.26,
+        "incremental_gain_db": -4
+      },
+      {
+        "id": "SFX-176",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-176-音效工作段.wav",
+        "relative_seconds": 1.05,
+        "duration": 0.26,
+        "incremental_gain_db": -4
+      },
+      {
+        "id": "SFX-177",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-177-音效工作段.wav",
+        "relative_seconds": 1.5,
+        "duration": 0.26,
+        "incremental_gain_db": -4
+      },
+      {
+        "id": "SFX-009",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-009-音效工作段.wav",
+        "relative_seconds": 3.1,
+        "duration": 1.4,
+        "incremental_gain_db": -2
+      },
+      {
+        "id": "SFX-009",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-009-音效工作段.wav",
+        "relative_seconds": 7.25,
+        "duration": 0.9,
+        "incremental_gain_db": -4
+      },
+      {
+        "id": "SFX-176",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-176-音效工作段.wav",
+        "relative_seconds": 8.5,
+        "duration": 0.26,
+        "incremental_gain_db": -3
+      },
+      {
+        "id": "SFX-177",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-177-音效工作段.wav",
+        "relative_seconds": 8.9,
+        "duration": 0.26,
+        "incremental_gain_db": -3
+      },
+      {
+        "id": "SFX-176",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-176-音效工作段.wav",
+        "relative_seconds": 9.35,
+        "duration": 0.26,
+        "incremental_gain_db": -4
+      },
+      {
+        "id": "SFX-177",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-177-音效工作段.wav",
+        "relative_seconds": 9.85,
+        "duration": 0.26,
+        "incremental_gain_db": -4
+      },
+      {
+        "id": "SFX-176",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-176-音效工作段.wav",
+        "relative_seconds": 10.25,
+        "duration": 0.26,
+        "incremental_gain_db": -4
+      },
+      {
+        "id": "SFX-177",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-177-音效工作段.wav",
+        "relative_seconds": 10.65,
+        "duration": 0.26,
+        "incremental_gain_db": -5
+      }
+    ]
+  },
+  "source_restore": {
+    "source": "视频制作/LibTV-H3-v001/产物/GB003-H3-v001.mp4",
+    "source_frames": [
+      0,
+      48
+    ],
+    "crop": [
+      500,
+      288,
+      840,
+      480
+    ],
+    "reason": "恢复原登长阶素材，宫门留画外避免空门穿帮"
+  },
+  "bgm_unchanged": true,
+  "subtitles_unchanged": true,
+  "author_final_accepted": false
+}

@@ -1,0 +1,30 @@
+src/actions/keybindings/persistence.ts(2,10): error TS2724: '"@/actions/keybinding"' has no exported member named 'isShortcutKey'. Did you mean 'ShortcutKey'?
+src/actions/keybindings/persistence.ts(4,10): error TS2724: '"@/actions"' has no exported member named 'isActionWithOptionalArgs'. Did you mean 'TActionWithOptionalArgs'?
+src/actions/keybindings/persistence.ts(67,19): error TS2345: Argument of type 'string' is not assignable to parameter of type 'ShortcutKey'.
+src/actions/keybindings/persistence.ts(116,14): error TS2345: Argument of type 'string' is not assignable to parameter of type 'ShortcutKey'.
+src/app/api/director/media/[key]/route.ts(65,5): error TS2352: Conversion of type 'ReadableStream<any>' to type 'ReadableStream<Uint8Array<ArrayBufferLike>>' may be a mistake because neither type sufficiently overlaps with the other. If this was intentional, convert the expression to 'unknown' first.
+  Types of property 'getReader' are incompatible.
+    Type '{ (options: { mode: "byob"; }): ReadableStreamBYOBReader; (): ReadableStreamDefaultReader<any>; (options?: ReadableStreamGetReaderOptions | undefined): ReadableStreamReader<...>; }' is not comparable to type '{ (options: { mode: "byob"; }): ReadableStreamBYOBReader; (): ReadableStreamDefaultReader<Uint8Array<ArrayBufferLike>>; (options?: ReadableStreamGetReaderOptions | undefined): ReadableStreamReader<...>; }'.
+      Target signature provides too few arguments. Expected 1 or more, but got 0.
+src/services/storage/migrations/runner.ts(43,3): error TS2554: Expected 1 arguments, but got 3.
+src/services/storage/migrations/runner.ts(98,41): error TS2554: Expected 1 arguments, but got 2.
+src/services/storage/migrations/v1-to-v2.ts(126,3): error TS2554: Expected 1 arguments, but got 3.
+src/services/storage/migrations/v1-to-v2.ts(135,4): error TS2554: Expected 1 arguments, but got 3.
+src/services/storage/migrations/v1-to-v2.ts(162,3): error TS2554: Expected 1 arguments, but got 3.
+src/stickers/providers/index.ts(22,42): error TS2554: Expected 1 arguments, but got 2.
+src/timeline/__tests__/update-pipeline.test.ts(69,40): error TS2769: No overload matches this call.
+  Overload 1 of 2, '(expected: MediaTime): void', gave the following error.
+    Argument of type 'number' is not assignable to parameter of type 'MediaTime'.
+      Type 'number' is not assignable to type '{ readonly __mediaTime: unique symbol; }'.
+  Overload 2 of 2, '(expected: NoInfer<MediaTime>): void', gave the following error.
+    Argument of type 'number' is not assignable to parameter of type 'MediaTime'.
+      Type 'number' is not assignable to type '{ readonly __mediaTime: unique symbol; }'.
+src/timeline/placement/__tests__/resolve.test.ts(646,5): error TS2769: No overload matches this call.
+  Overload 1 of 2, '(expected: PlacementResult | null): void', gave the following error.
+    Type 'number' is not assignable to type 'MediaTime'.
+      Type 'number' is not assignable to type '{ readonly __mediaTime: unique symbol; }'.
+  Overload 2 of 2, '(expected: NoInfer<PlacementResult | null>): void', gave the following error.
+    Argument of type '{ kind: "existingTrack"; trackId: string; trackIndex: number; trackType: "video"; adjustedStartTime: number; }' is not assignable to parameter of type 'PlacementResult | null'.
+      Types of property 'adjustedStartTime' are incompatible.
+        Type 'number' is not assignable to type 'MediaTime'.
+          Type 'number' is not assignable to type '{ readonly __mediaTime: unique symbol; }'.

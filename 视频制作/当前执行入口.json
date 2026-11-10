@@ -1,0 +1,30 @@
+{
+  "current_provider": "Metaso",
+  "entry": "Metaso-H3-v003/生成进度.html",
+  "current_queue": "Metaso-H3-v003/执行队列.json",
+  "historical_queues": [
+    "LibTV-H3-v001/H3节约余量执行队列.json",
+    "Metaso-H3-v001/执行队列.json",
+    "Metaso-H3-v002/执行队列.json"
+  ],
+  "completed_unique_batches": 44,
+  "revised_edited_batches": 20,
+  "running": 0,
+  "note": "五批整段修订及第40批必要接头已形成候选。作者对v002的否定记录保留；v003未代作者最终采用。25任务全部下载，无在途任务，不按旧队列重复提交。",
+  "author_rejected_batches": [
+    6,
+    11,
+    20,
+    21,
+    39
+  ],
+  "status": "five_batches_repaired_candidates_pending_author_review",
+  "current_repair_batches": [
+    6,
+    11,
+    20,
+    21,
+    39
+  ],
+  "connector_batch": 40
+}

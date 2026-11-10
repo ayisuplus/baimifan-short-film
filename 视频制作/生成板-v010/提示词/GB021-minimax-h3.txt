@@ -1,0 +1,32 @@
+subject_definitions:
+<Subject 1>: Kimi, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: Claude, identity and outfit from four-view sheet <Picture 2>.
+<Picture 3>: [Shot 1] composition and state reference; not its first frame.
+<Picture 4>: [Shot 2] composition and state reference; not its first frame.
+<Picture 5>: [Shot 3] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. The same breach continues from below; protected inspection and the enemy reaction cover the dragon's turn into a coil.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Match the same roof crack and contact point from below; stone gives way before the thick water body passes. Reaction cuts then omit the coiling movement. Use <Picture 3> for composition. The same central-nave breach has just opened. From its lower edge, the dragon's head rushes from upper-left distance to lower-right foreground; muzzle and jaw enlarge and pass while its long neck narrows back into the opening. Preserve the brow and one eye as a near arch fragment crosses the foreground and smaller rubble follows. Motion blur belongs mostly to rubble and background. The dragon turns outside GPT's position after entering; debris falls into an empty side aisle, avoiding the chandelier and allies. The apse is untouched and no second hole appears. The following reactions cover its turn into a coil around GPT. Place an 18mm ultra-wide camera just below the breach and off the dragon's axis, letting the head grow rapidly and pass nearby; use one brief proximity jolt without a whip-pan. A close crisp stone crack leads a low roof-breaking impact, nearby rubble scrapes recede and water rushes past. No dialogue or thunder in this shot.
+[Shot 2] At 00:01.500, Muffle the roof roar on entering the shield and follow the hand approaching the ankle lock; GPT continues offscreen and neither visible character speaks her line. Use <Picture 4> for composition. The roof above the central nave is breached, but the dark shield is calm and Kimi's blades are stowed. Kimi kneels beside the footrest, lightly supporting Claude's shin above an ankle cuff with one empty hand while inspecting the outer chain and lock with the other. Claude's bare feet remain firmly on the narrow fixed support, ankles still locked and legs vertical. Do not pull hard or unlock anything. Preserve the white-and-gold clothing and existing burns. Inside is clear stone floor with no burning wood, window view or exterior window light. Kimi prepares to rise and wait for the key. Tilt down gently with Kimi kneeling inside, settling on her face, hands, ankle restraints and fixed footrest together; never reveal the exterior through the shield. Roof-breaking reverberation becomes muted outside; small chain noises and breathing inside. The highest altar receives no water impact. GPT's incantation is offscreen. From 1.5 to 5.4 seconds, ChatGPT (S1) speaks outside the frame: <d>[English] Quench the flames that burn the innocent;</d>.
+[Shot 3] At 00:05.500, Cut from the interior inspection to the leader reacting to the sound; bridge the coiling-water resonance without showing another roof break. Use <Picture 5> for composition. The leader stays on the lower central landing. Hearing the breach, he raises his gaze to track the dragon now inside and brings his other hand up defensively. Moving silver-blue light crosses his face from the body above, while the not-yet-extinguished brazier still contributes warm side light. The roof stays outside this close frame. His robes remain dry, his dark-gold shield has not yet opened, and GPT continues forming the hand seal while the dragon coils behind and around her during these reaction cuts. In the leader's close-up, tilt only slightly with his rising gaze and keep the roof offscreen; moving silver-blue reflections reveal the passing dragon. The roof-impact tail decays into a thick coiling-water resonance and cloth movement. GPT's offscreen chant continues. From 5.5 to 9.4 seconds, ChatGPT (S1) speaks outside the frame: <d>[English] drown the walls before me in raging waves!</d>.
+From 9.5 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 0s: Water dragon breaches the roof past the camera.
+English speech with lip sync; no audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

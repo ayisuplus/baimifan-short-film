@@ -1,0 +1,487 @@
+{
+  "version": "v033",
+  "previous_index": "镜头设计/生成记录/生成索引-v032.json",
+  "records": [
+    {
+      "shot_id": "CY024A",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-f8aa0b24-927f-4fb3-826a-766a5d46830b.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY024A-v033-r1.png",
+      "sha256": "3e73e934e1c445768f5065e1d833a884ea141887db7d19ff27cdf042587f2445",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY024A-请求-v001.json",
+      "request_sha256": "ecbd115feb963b336eec34aa3cc92d5cc51a041d822a20d2371dae4832c0264d",
+      "inputs": [
+        {
+          "path": "E:\\projects\\内容创作\\故事短片\\穿云\\资产\\图像\\四视图\\CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc"
+        },
+        {
+          "path": "E:\\projects\\内容创作\\故事短片\\穿云\\镜头设计\\图像\\天瀑空间-v014\\CY024A-v014-r3.png",
+          "sha256": "3ab80ceb85b95ffc675794d72a2c46de96aadd00d25dfd8226a356796085c8b7"
+        }
+      ],
+      "status": "superseded_extra_candles"
+    },
+    {
+      "shot_id": "CY024A10",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-b4a691e3-0ab8-426d-b2ba-7e14dc94fc13.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY024A10-v033-r1.png",
+      "sha256": "9d9c453c86b3822d8b84ec9a01c797daf3bc7c4374eb6b7cd7716d6c55015da9",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY024A10-请求-v001.json",
+      "request_sha256": "a73e93c9d530a1b1ecbc22ecfd340ed9f3717f4a0331e485783e47e1f4e959b7",
+      "inputs": [
+        {
+          "path": "E:\\projects\\内容创作\\故事短片\\穿云\\资产\\图像\\四视图复用\\C04_Qwen-角色设定卡.png",
+          "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25"
+        },
+        {
+          "path": "E:\\projects\\内容创作\\故事短片\\穿云\\镜头设计\\图像\\战后对白与补镜-v025\\CY028A2-v025-r1.png",
+          "sha256": "2e87649688f10d7ff09d16f07376bef028e757cef7b680156a7dfff69a0121e1"
+        }
+      ],
+      "status": "rejected_whole_fan_projectile"
+    },
+    {
+      "shot_id": "CY024A11",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-43334da8-28f4-42bd-92e7-588fc2d4bdac.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY024A11-v033-r1.png",
+      "sha256": "64e2d8ffee8594591ddd5be03296b06bda3f0126a4ee5f30c42f8de5730fde8c",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY024A11-请求-v001.json",
+      "request_sha256": "9e3e32b1ddfc1a97c0a9ac0c9f88b829f09247857ea75beec96fd676cb5edf29",
+      "inputs": [
+        {
+          "path": "E:\\projects\\内容创作\\故事短片\\穿云\\资产\\图像\\四视图复用\\C04_Qwen-角色设定卡.png",
+          "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25"
+        }
+      ],
+      "status": "rejected_whole_fan_projectile"
+    },
+    {
+      "shot_id": "CY024A5",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-9c1b8e22-55d0-47ca-a8c1-4cd66bbff963.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY024A5-v033-r1.png",
+      "sha256": "3ead19fee4d51841b781a095101a97089f9d487414b92f82847a052a79d3f633",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY024A5-请求-v001.json",
+      "request_sha256": "01035d165753872437b8be2e521c390bd37ff12e7801fa8454b7318cdf9bad35",
+      "inputs": [
+        {
+          "path": "E:\\projects\\内容创作\\故事短片\\穿云\\资产\\图像\\四视图\\CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc"
+        },
+        {
+          "path": "E:\\projects\\内容创作\\故事短片\\穿云\\镜头设计\\图像\\天瀑空间-v014\\CY024A-v014-r3.png",
+          "sha256": "3ab80ceb85b95ffc675794d72a2c46de96aadd00d25dfd8226a356796085c8b7"
+        }
+      ],
+      "status": "superseded_extra_candles"
+    },
+    {
+      "shot_id": "CY024A9",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-af94af89-6bf8-43e3-b37a-d3d432d6679a.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY024A9-v033-r1.png",
+      "sha256": "fdd9fd5597414849bdbf764716f191191739d10f6ecbf4a677a17a6d075fc526",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY024A9-请求-v001.json",
+      "request_sha256": "2030afa91bc4bb9da5b2cb4aa76e39d5e8601e8d281e52fbc86d29f7869012ee",
+      "inputs": [
+        {
+          "path": "E:\\projects\\内容创作\\故事短片\\穿云\\镜头设计\\图像\\苍龙雷渊-v031\\CY024A8-v031-r3.png",
+          "sha256": "d6143562c83800a48ee206e4d6363ff14222aa56c74e07f18150f1df19ff7828"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY024B",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-8baf1d51-d173-49b6-a1d8-5f4ec92f75cb.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY024B-v033-r1.png",
+      "sha256": "d28183db6cbd32c3cbc9b990d46bf876ec09fb2ebbe744cc416ec508b0e49cd6",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY024B-请求-v001.json",
+      "request_sha256": "35e3bfebf76b591ea99f79a9ab8cc47385d6618a542c6496877c09f171262bba",
+      "inputs": [
+        {
+          "path": "E:\\projects\\内容创作\\故事短片\\穿云\\资产\\图像\\四视图\\CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc"
+        },
+        {
+          "path": "E:\\projects\\内容创作\\故事短片\\穿云\\镜头设计\\图像\\月光救赎-v032\\CY024B-v032-r1.png",
+          "sha256": "b2d672257d83ca9b3bb5d24cc7ef9924b0a2fb41b25fff91095c14568894372c"
+        }
+      ],
+      "status": "superseded_extra_candles"
+    },
+    {
+      "shot_id": "CY027",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-df839d4a-b2f6-4007-aecb-a7f856985789.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY027-v033-r1.png",
+      "sha256": "46d06991f697142c3bae729c9c00b7b366b5815a56927e004896715851ec0e74",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY027-请求-v001.json",
+      "request_sha256": "9e0ffc5c2c2f77ef9f90be150648b5062b685c7f22ac095f8dd6fc0c57fd120c",
+      "inputs": [
+        {
+          "path": "E:\\projects\\内容创作\\故事短片\\穿云\\镜头设计\\图像\\天瀑空间-v014\\CY027-v014-r4.png",
+          "sha256": "378815b5c6d49d6c229a0478b133acb01e6534cb88aeaee548c468281da7e228"
+        },
+        {
+          "path": "E:\\projects\\内容创作\\故事短片\\穿云\\资产\\图像\\四视图\\CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY026",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-3d928840-4ceb-4c16-b343-1ecf1a146052.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY026-v033-r1.png",
+      "sha256": "77e01446dacedcb755b455190db5e58babf98ef3ef4f3ee12861c23aa09bb81a",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY026-请求-v001.json",
+      "request_sha256": "cdeced23e72796e71f9f9fe073a81aebef8ab949d8d34cd3b11fc9b2686a14dc",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/王宫骑士-v010/CY026-v010.png",
+          "sha256": "29b725b7830d4334c714aa0dd9bfd45bbd8bd6bf96c5be60ac8eed78b29629f5"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY026B",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-371aee7c-dc9d-4188-b409-7e2d74086038.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY026B-v033-r1.png",
+      "sha256": "1b41aa668b4b916d1ad6c83fa23e045d20cf4129cd6ad75b2ee56c24b1b997f4",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY026B-请求-v001.json",
+      "request_sha256": "37fd1fffe79fd080f92b0e1ab8de1b191ebfb3250aeac5f85e8e3ea203c5fbbf",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/独立镜头-v009/CY026B-v009.png",
+          "sha256": "9cf2f09a2dc3f28926b62814c5c3bf0f50e4df0c3198f2569b75714404723a00"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY027F",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-a71e3040-9644-4b86-920c-fe94509da777.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY027F-v033-r1.png",
+      "sha256": "a3024e1bfcca985079fdc397b38961d8f810ff0bbf84b2d08013d1559b1b2b50",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY027F-请求-v001.json",
+      "request_sha256": "02525036495fb54553bb706d61c46e8451da03f60a62b9d158c575cc3e327619",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/天瀑空间-v014/CY027F-v014-r1.png",
+          "sha256": "13586f36431c9a06046931ae5608e4158a618345bcc0ebb008829e3efc402ac3"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY027G",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-3652fa32-eebc-4f66-a8b2-8e4c52323810.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY027G-v033-r1.png",
+      "sha256": "21688eebe259b7b6ef9f27f3e9bd04fe0b0dd0f284263d28c11e5983edfcb5cf",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY027G-请求-v001.json",
+      "request_sha256": "e28eff1072ae25f16c314b5131418967b60676c69536991a945e103932eafc38",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/月光救赎-v032/CY027G-v032-r1.png",
+          "sha256": "82c955db604b5d7bbdb841c5487b2e31a3988ebbf912800b3ce11cd4f947ec5a"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY028A",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-a522bddb-b290-4ff6-b035-d915f403f613.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY028A-v033-r1.png",
+      "sha256": "40901659d90578fc07c4f9d6917d7d3e17d5c39f7e267d9e086a0ee7b5c92468",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY028A-请求-v001.json",
+      "request_sha256": "f6b8d352eb5e69aa245b1d907c5f28ada47c6616b156e6bedebcd53928606a99",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/动作收尾-v015/CY028A-v015-r1.png",
+          "sha256": "1b1882ee88ed77d1bd849dcd612b60fbef4d5fa7c77488da100b984f96a58c0c"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/月光救赎-v032/CY027G-v032-r1.png",
+          "sha256": "82c955db604b5d7bbdb841c5487b2e31a3988ebbf912800b3ce11cd4f947ec5a"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY029B",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-acafdbf0-8004-4a84-8994-826c2933b745.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY029B-v033-r1.png",
+      "sha256": "03742336821b249a714294dde878ec3114e921e26319b63cedb965f9358f0b52",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY029B-请求-v001.json",
+      "request_sha256": "6f1fc922297b542767036413348560e0dbe97f1143dd1e72c0af1097c05202b9",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火种慢镜-v026/CY029B-v026-r1.png",
+          "sha256": "1c042e1d3a5e9bcd31a8a322960b18aa554a05f930dd6794ce21bbcb0cbf2d3d"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY029C",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-67560164-d56a-49e1-b213-c973ef3557c2.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY029C-v033-r1.png",
+      "sha256": "13589b7901889a310498cfa9ded6c3a0f713d897c9e9dc1e93e51dcafebab920",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY029C-请求-v001.json",
+      "request_sha256": "8aaa57d81aeeb7e50b31d3aeb40f3a5f076603d069e05bcb4cbbf6c371cf0223",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/动作收尾-v015/CY029C-v015-r1.png",
+          "sha256": "802fd64fa2fac1fea0c43176e3ea8e859e009fef8cbe72b9986aaf4467f7c09a"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY029D",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-f01dcb1c-47a9-486c-a04e-c7fab6748678.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY029D-v033-r1.png",
+      "sha256": "2b665770e00e70ae1a16eb9dffe9bfc5234dd002fe005aa850afd458a26f2725",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY029D-请求-v001.json",
+      "request_sha256": "8b77f0d191b3e722216e4ba2e4b939f5b7b898f031a07597c582c45d12a3847e",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/动作收尾-v015/CY029D-v015-r1.png",
+          "sha256": "845031e01bb622ec0c6bb783d9023f167c05140d733e684baa1f9ebfac84040b"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY028",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-35ac4ba9-3e76-492c-875d-bc153fbf93a3.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY028-v033-r1.png",
+      "sha256": "97bd996facbd4c268f891748b9d4ceb556e5ce1c5b7c84d608110aed709b9c28",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY028-请求-v001.json",
+      "request_sha256": "cee76debef114fcce6517f8d8fb55657c0687eae4f3ba1d36d8809d9e640d9f5",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/动作收尾-v015/CY028-v015-r1.png",
+          "sha256": "091ae63f33596f43a24183f3ba47a3ce409c7b63acc3beb34b22d570f79703aa"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY030",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-48200258-af2a-4ebe-847b-aea44fb88baf.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY030-v033-r1.png",
+      "sha256": "0294ab192fcf6600b4d762836fef71ce2b344557dc9578054810c4147273e1e0",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY030-请求-v001.json",
+      "request_sha256": "554905eb422d0d2fa5a435de88f76c90a29f916985da5740f7f7a93bef65e732",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/天瀑空间-v014/CY030-v014-r1.png",
+          "sha256": "aebe40ffb7c3bb769fcc22e6faa729d7fa5e47d1e91dc3e91423e5a08cff2025"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+          "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY024A",
+      "attempt": 2,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-d0a66e95-8034-4e0a-be89-79d9ba98186e.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY024A-v033-r2.png",
+      "sha256": "bbb8364c62470112819688949be621bc02ff6c3decac6592265e84bb19eb6367",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY024A-请求-v002.json",
+      "request_sha256": "d8473ad59a81d04ec12f85fb5846bcafe940fff85057269b7fdc15f0ca253a93",
+      "inputs": [
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a162c1-6e38-7a10-aee7-5c8371c4830c/exec-f8aa0b24-927f-4fb3-826a-766a5d46830b.png",
+          "sha256": "3e73e934e1c445768f5065e1d833a884ea141887db7d19ff27cdf042587f2445"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY024A5",
+      "attempt": 2,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-bb378ed6-ff29-4795-ada3-97ced6b7210c.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY024A5-v033-r2.png",
+      "sha256": "049f555d32688908cbd15349b52142b2ff377b93616a4f303b4aa29ed36febe2",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY024A5-请求-v002.json",
+      "request_sha256": "257a4399b0f479c0fda4ee8958a3cebbbc3d87da6861ddd2a719306bda9ca690",
+      "inputs": [
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a162c1-6e38-7a10-aee7-5c8371c4830c/exec-9c1b8e22-55d0-47ca-a8c1-4cd66bbff963.png",
+          "sha256": "3ead19fee4d51841b781a095101a97089f9d487414b92f82847a052a79d3f633"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY024B",
+      "attempt": 2,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-0ad6041f-df7a-4deb-9a3b-f2a0706791ea.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY024B-v033-r2.png",
+      "sha256": "1164159739fc3582fe7e594819f7bde39daae31a3833cd027e52ac59b9c95fd5",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY024B-请求-v002.json",
+      "request_sha256": "39478ac6d77fbd74d5934472abbe5698e667c217158eb5576b7bab564143f920",
+      "inputs": [
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a162c1-6e38-7a10-aee7-5c8371c4830c/exec-8baf1d51-d173-49b6-a1d8-5f4ec92f75cb.png",
+          "sha256": "d28183db6cbd32c3cbc9b990d46bf876ec09fb2ebbe744cc416ec508b0e49cd6"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY024A10",
+      "attempt": 2,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-31740d45-75b3-4745-acb0-81df49c12ed4.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY024A10-v033-r2.png",
+      "sha256": "127d2ff55400cb354ad8267056379e4d08713625c7c3a7408da7c85978a5f64f",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY024A10-请求-v002.json",
+      "request_sha256": "4aa4a039ff09d1e718cc97cecc331554c146fe59b1b1e8775a81ac97bd1fbed7",
+      "inputs": [
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a162c1-6e38-7a10-aee7-5c8371c4830c/exec-b4a691e3-0ab8-426d-b2ba-7e14dc94fc13.png",
+          "sha256": "9d9c453c86b3822d8b84ec9a01c797daf3bc7c4374eb6b7cd7716d6c55015da9"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+          "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25"
+        }
+      ],
+      "status": "rejected_author_prefers_fan_opening_macro"
+    },
+    {
+      "shot_id": "CY024A11",
+      "attempt": 2,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-0d7c610e-c901-4699-b0b2-5fa9ca5efbe6.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY024A11-v033-r2.png",
+      "sha256": "17eeef546d1955f960821ffb457f427c7b2c801f02c843ba180f8efbe75378cb",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY024A11-请求-v002.json",
+      "request_sha256": "5baaa568060d8b66ccfe8c3616a2655a5255e3e0ee2cff77d08d7a74dd88b6a9",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+          "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25"
+        },
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a162c1-6e38-7a10-aee7-5c8371c4830c/exec-af94af89-6bf8-43e3-b37a-d3d432d6679a.png",
+          "sha256": "fdd9fd5597414849bdbf764716f191191739d10f6ecbf4a677a17a6d075fc526"
+        }
+      ],
+      "status": "rejected_author_requests_isolated_flight"
+    },
+    {
+      "shot_id": "CY024A10",
+      "attempt": 3,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-446b3629-dcdd-4b2d-82e0-cafb725524c5.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY024A10-v033-r3.png",
+      "sha256": "963255c4fe52fb0c45114d00a7a9febedf9f19362a44ba31ea905f1eb3b0e9cc",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY024A10-请求-v003.json",
+      "request_sha256": "b5d50b3d6c691bc3fa75df9cb21dbc49551bfcc17ba13f3536180e823c8ef4df",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY024A10-v033-r2.png",
+          "sha256": "127d2ff55400cb354ad8267056379e4d08713625c7c3a7408da7c85978a5f64f"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+          "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY024A11",
+      "attempt": 3,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-1d64b8a6-769f-498d-bd00-e7c79f466d0b.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY024A11-v033-r3.png",
+      "sha256": "4b1acc80bb39f9e4df4da4107ffbf385dc3a14a38ca5b97c38d9c5ce7d2d9c5b",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY024A11-请求-v003.json",
+      "request_sha256": "dbfc27590635a52f8a5fc4fbafdf9f3ee221b4d72fe65d9fe12ad08146a5f49e",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY024A11-v033-r2.png",
+          "sha256": "17eeef546d1955f960821ffb457f427c7b2c801f02c843ba180f8efbe75378cb"
+        },
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY024A10-v033-r3.png",
+          "sha256": "963255c4fe52fb0c45114d00a7a9febedf9f19362a44ba31ea905f1eb3b0e9cc"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    },
+    {
+      "shot_id": "CY024A12",
+      "attempt": 1,
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a162c1-6e38-7a10-aee7-5c8371c4830c\\exec-ec41be73-5d27-4120-96c0-15f8d64073f6.png",
+      "destination": "镜头设计/图像/展翼与扇叶-v033/CY024A12-v033-r1.png",
+      "sha256": "7a414e771abd4d905b31220cf08ce95ba91e93bed4307dcb66c0df50e9ed2916",
+      "request": "镜头设计/生成记录/展翼与扇面-v033/CY024A12-请求-v001.json",
+      "request_sha256": "0c095c968e787547e146ce8eb719df0c1a2affa400ce2a940baa38aa92ed78ae",
+      "inputs": [
+        {
+          "path": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/展翼与扇叶-v033/CY024A11-v033-r2.png",
+          "sha256": "17eeef546d1955f960821ffb457f427c7b2c801f02c843ba180f8efbe75378cb"
+        }
+      ],
+      "status": "candidate_pending_author_review"
+    }
+  ],
+  "review": "镜头设计/生成记录/展翼与扇面-v033/复核记录.md"
+}

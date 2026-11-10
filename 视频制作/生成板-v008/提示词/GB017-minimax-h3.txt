@@ -1,0 +1,33 @@
+subject_definitions:
+<Subject 1>: ChatGPT, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: Grok, identity and outfit from four-view sheet <Picture 2>.
+<Subject 3>: Kimi, identity and outfit from four-view sheet <Picture 3>.
+<Picture 4>: [Shot 1] composition and state reference; not its first frame.
+<Picture 5>: [Shot 2] composition and state reference; not its first frame.
+<Picture 6>: [Shot 3] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. Industrial agreement gives way to lunar quiet, awakening and a concrete split-entry plan.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Subject 3>: fully_preserved - identity and outfit design.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Cut directly from the preceding invitation to the launch base; after the reply, cut on the next name to the quiet lunar setting and remove the machinery bed. Use <Picture 4> for composition. Grok leans on her axe beneath a stationary rocket; GPT has already arrived through the portal. Beside steel gantries, tanks and pipes, GPT invites her and Grok tightens her existing grip to answer. The rocket remains on its pad and does not launch. End with Grok committed, without changing hands or repeating her response. Make a short lateral track in the medium two-shot, revealing Grok's grip and response through parallax against the launch gantry without crossing their axis. Low industrial machinery supports the two short lines, then falls away promptly at the cut to the lunar far side. From 0.1 to 1.47225 seconds, ChatGPT (S1) speaks with matching lip movement: <d>[Japanese] グロック。</d>. From 1.9 to 3.15075 seconds, Grok (S2) speaks with matching lip movement: <d>[Japanese] もちろん。</d>.
+[Shot 2] At 00:04.000, Lead with GPT calling the name offscreen; the eye cut retains this single call. Cut wider after the eyes open without a second awakening. Use <Picture 5> for composition. Kimi is still resting against the moon rock while GPT remains offscreen. Hearing her name, she slowly opens her sleepy eyes. End with her awake and preparing to sit up; the following cut may omit the actual rise. Hold an extreme close-up of the sleepy eyes so the eyelids opening carry the change rather than a camera push. A quiet lunar setting with no wind. GPT's offscreen call is clearly heard once. From 4.1 to 5.32408 seconds, ChatGPT (S1) speaks outside the frame: <d>[Japanese] キミ。</d>.
+[Shot 3] At 00:06.000, Match the awakened eyeline to Kimi already seated upright, omitting the rise; cut to the other locations only after her nod settles. Use <Picture 6> for composition. Kimi is already awake and seated beside the lunar rock. The wider view reveals GPT leaning toward her. GPT quietly gives the split-entry plan, and Kimi nods her agreement to enter through the stained-glass window behind Claude. Do not replay waking or sitting up. Slide a small distance sideways in the medium two-shot to reveal GPT leaning toward Kimi, then settle for the route instructions and nod. No lunar wind. Keep the route instructions clear and preserve the short response near the end. From 6.2 to 11.5 seconds, ChatGPT (S1) speaks with matching lip movement: <d>[Japanese] 私は正面から。彼女の後ろのステンドグラスは、任せた。</d>. From 11.7 to 12.7 seconds, Kimi (S3) speaks with matching lip movement: <d>[Japanese] うん。</d>.
+From 13 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 6s: Cut to the two-route rescue agreement.
+Japanese speech with lip sync; no audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

@@ -1,0 +1,49 @@
+{
+  "24": {
+    "class_type": "VoxCPM_TTS",
+    "inputs": {
+      "model_name": "VoxCPM2",
+      "lora_name": "None",
+      "text": "你要吃一点吗？",
+      "voice_design": "保持参考角色的圆润Q版音色和软糯口腔共鸣。对面前饥饿的陌生人分享一口饭，轻声询问，真诚自然，说话而非唱歌。",
+      "cfg": 2.0,
+      "steps": 10,
+      "normalize_text": false,
+      "seed": 20261021,
+      "force_offload": true,
+      "device": "cuda",
+      "dtype": "bf16",
+      "voice_config": [
+        "22",
+        0
+      ]
+    }
+  },
+  "1": {
+    "class_type": "SaveAudio",
+    "inputs": {
+      "audio": [
+        "24",
+        0
+      ],
+      "filename_prefix": "audio/chuanyun/VOICE-DS-v002"
+    }
+  },
+  "2": {
+    "class_type": "LoadAudio",
+    "inputs": {
+      "audio": "chuanyun_DS_creator_ref_v001.wav"
+    }
+  },
+  "22": {
+    "class_type": "VoxCPM_VoiceCloning",
+    "inputs": {
+      "reference_audio": [
+        "2",
+        0
+      ],
+      "trim_silence": false,
+      "prompt_text": ""
+    }
+  }
+}

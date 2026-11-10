@@ -1,0 +1,358 @@
+{
+  "batch": {
+    "batch_number": 3,
+    "batch_id": "GB003",
+    "title": "宫门放行与慵懒卧榻",
+    "shot_ids": [
+      "CY004B",
+      "CY004C",
+      "CY004D",
+      "CY005"
+    ],
+    "film_start": 29.672729,
+    "film_end": 40.672729,
+    "used_seconds": 11,
+    "original_duration": 15,
+    "duration": 11,
+    "prompt": "subject_definitions:\n<Picture 1>=DeepSeek四视图：同一人四角度，身份服饰保持\n<Picture 2>=圣骑士四视图：同一人四角度，身份服饰保持\n<Picture 3>=ChatGPT四视图：同一人四角度，身份服饰保持\n<Picture 4>=构图状态，非强制首帧\n<Picture 5>=构图状态，非强制首帧\n<Picture 6>=构图状态，非强制首帧\n<Picture 7>=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，11秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–2s <Picture 4>；画内:DeepSeek。接前批跑出街边，明确略去路程；切入暮色长阶上段的最后几步。低位偏左远景，石阶与栏杆斜向向右上收束；只轻跟小鱼跑上一小段，切宫门省略剩余路程。日落后蓝紫暮色里，小鱼空手跑上宫殿外长阶的一小段；多段台阶伸向高门，两旁紫旗与局部暖灯保持。随后切到已抵宫门，省略剩余登阶路程。 调度:保持2秒，不能高速跑完整条长阶。太阳已落到地平线下，冷天光主导，暖色仅灯具和宫门内部；不是新造长街。 注意:保持2秒，不能高速跑完整条长阶。太阳已落到地平线下，冷天光主导，暖色仅灯具和宫门内部；不是新造长街。 声音:长阶脚步与暮色环境底声。\n[Shot 2] 2–5s <Picture 5>；画内:DeepSeek、圣骑士。省略剩余登阶路程，切到小鱼已跑至宫门前急停；暮色与上镜一致。沿用原宫门机位与交叉枪构图，仅统一日落后的冷蓝紫天光；宫门内与灯具保留局部暖色。两名封闭头盔圣骑士交叉长枪，小鱼急停，空手抬头望向守卫。 调度:仅光线连续性修订。无可见太阳与金色直射，门外冷、门内暖；两骑士封闭头盔，枪仍交叉。 注意:仅光线连续性修订。无可见太阳与金色直射，门外冷、门内暖；两骑士封闭头盔，枪仍交叉。 声音:脚步、甲片、长枪拦路动作声。\n[Shot 3] 5–8s <Picture 6>；画内:DeepSeek、圣骑士。交叉枪位完整承前，GPT声音先从殿内传出，再收枪让路。沿用原开门放行构图及运镜，门外冷蓝紫暮色，门内仍为暖烛光。GPT仍侧躺在殿内卧榻上，画外平静发声放行，骑士收枪竖直、让开通道；小鱼空手跨过门槛。 调度:仅光线连续性修订。保持原开门、收枪、孩子进门动作；室内暖光是烛光，不回到夕阳直射。 注意:仅光线连续性修订。保持原开门、收枪、孩子进门动作；室内暖光是烛光，不回到夕阳直射。 人物:GPT声音来自殿内，不在宫门实体出镜。 声音:GPT画外‘让她进来’； GPT在镜内0–2.2秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 4] 8–11s <Picture 7>；画内:DeepSeek、ChatGPT。在跨门槛后明确省略大段空殿跑程，切入大厅时宝宝已经接近王座，只完成最后几步和停下，不在本镜内再加切镜。入口中轴大全景缓推少许，保留前景小鱼与殿尾横向卧榻；跑程已跨切省略，不追成近景。跨门后的大段跑程在切点省略，小鱼入镜时已接近高台，只完成最后几步，在卧榻头肩一端的台阶下停住并抬头。GPT头在画面左、脚在右，自身右手托腮、左手搭座垫前缘，懒懒侧躺；双翼舒展有支撑，单尾沿腿边自然延伸。 环境：左侧卧榻头端小几放几何手稿、圆规、透明多面体压纸、茶杯与扭转带小灯，右侧脚端陈列环仪；两侧十二面体柔光灯、高处椭圆环吊灯，中央台阶与通道留空。 注意:大殿图用于空间与卧榻姿态，非强制首帧；大段跑程已跨切省略，三秒只完成最后几步。 当前背景采用数学宫殿灯具；按本镜实际视野显示，不挪摆件、不新增人物。 人物:GPT在远处横向卧榻侧躺，头左脚右；跑程跨切省略，构图参考不是强制首帧。 声音:急脚步与喘息在空殿回响。\n5–7.2s ChatGPT（画外） 画外连续，不让在画者代说:<d>[Japanese] 通してあげて。</d>；仅一次。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+        "kind": "identity",
+        "person": "DeepSeek",
+        "name_en": "DeepSeek",
+        "asset_id": "CHAR-DEEPSEEK",
+        "status": "候选待作者审阅",
+        "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+        "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+        "source_path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+        "source_sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+        "sha1": "d9d76117c7724d34a366061d3bb38d3a2c70e2c6",
+        "file_size": 1868475,
+        "width": 2169,
+        "height": 868,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-DEEPSEEK-TURN-v003-h3-pad.png"
+      },
+      {
+        "slot": 2,
+        "path": "资产/图像/CHAR-PALADIN-v001.png",
+        "kind": "identity",
+        "person": "圣骑士",
+        "name_en": "the palace paladins",
+        "asset_id": "CHAR-PALADIN",
+        "status": "候选待作者审阅",
+        "limits": "侧背结构是设计补全，不作为精确工程正交图。队伍枪距、披风碰撞与行进连续性待动态验证。",
+        "purpose": "圣骑士四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d",
+        "source_path": "资产/图像/CHAR-PALADIN-v001.png",
+        "source_sha256": "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d",
+        "sha1": "8c06ab19982eec42c5594e272e81b2a8deb88052",
+        "file_size": 2428509,
+        "width": 1774,
+        "height": 887,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\图像\\CHAR-PALADIN-v001.png"
+      },
+      {
+        "slot": 3,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "ChatGPT",
+        "name_en": "ChatGPT",
+        "asset_id": "CHAR-GPT",
+        "status": "候选待作者审阅",
+        "limits": "两侧躯干略带斜角。开衩与腿饰以原图/正面图的角色右腿为准，不按对称读取；尾巴弯曲是姿态参考，侧背含补全。",
+        "purpose": "ChatGPT四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9",
+        "source_path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+        "source_sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+        "sha1": "ff68ef289edac6743d7e87bdfe142f00332d50ce",
+        "file_size": 2143481,
+        "width": 2172,
+        "height": 869,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-GPT-TURN-v001-h3-pad.png"
+      },
+      {
+        "slot": 4,
+        "path": "镜头设计/图像/空间张力-v063/CY004B-v063-r1.png",
+        "kind": "composition",
+        "shot_id": "CY004B",
+        "purpose": "构图、空间与代表状态：暮色里的长阶；不是默认首帧",
+        "status": "v063空间与张力修订候选，待作者审阅",
+        "limits": "",
+        "sha256": "7532f97f0d412d7002e0e2acbbd28364f8765340249994e5fe85e2ac84163765",
+        "source_path": "镜头设计/图像/空间张力-v063/CY004B-v063-r1.png",
+        "source_sha256": "7532f97f0d412d7002e0e2acbbd28364f8765340249994e5fe85e2ac84163765",
+        "sha1": "b86d74d2a98986905c2223d5544ef5a5c988ac7a",
+        "file_size": 2734797,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\空间张力-v063\\CY004B-v063-r1.png"
+      },
+      {
+        "slot": 5,
+        "path": "镜头设计/图像/空间张力-v063/CY004C-v063-r1.png",
+        "kind": "composition",
+        "shot_id": "CY004C",
+        "purpose": "构图、空间与代表状态：长枪拦路；不是默认首帧",
+        "status": "v063空间与张力修订候选，待作者审阅",
+        "limits": "",
+        "sha256": "24380275c46ffb8fc7162bd547dc91cebed2c201ef5e46b7166b3b49c755946e",
+        "source_path": "镜头设计/图像/空间张力-v063/CY004C-v063-r1.png",
+        "source_sha256": "24380275c46ffb8fc7162bd547dc91cebed2c201ef5e46b7166b3b49c755946e",
+        "sha1": "c7c0cbcb053fc44232cbeb0ab7f9c4649da4574b",
+        "file_size": 2950723,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\空间张力-v063\\CY004C-v063-r1.png"
+      },
+      {
+        "slot": 6,
+        "path": "镜头设计/图像/空间张力-v063/CY004D-v063-r1.png",
+        "kind": "composition",
+        "shot_id": "CY004D",
+        "purpose": "构图、空间与代表状态：让她进来；不是默认首帧",
+        "status": "v063空间与张力修订候选，待作者审阅",
+        "limits": "",
+        "sha256": "fbf95430ebe93e19426129eec05b3131977ae5b9427fd389b8e277577e1e7ca9",
+        "source_path": "镜头设计/图像/空间张力-v063/CY004D-v063-r1.png",
+        "source_sha256": "fbf95430ebe93e19426129eec05b3131977ae5b9427fd389b8e277577e1e7ca9",
+        "sha1": "6e76bc2fe50759e9810beb72e51ba7628186e786",
+        "file_size": 2876020,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\空间张力-v063\\CY004D-v063-r1.png"
+      },
+      {
+        "slot": 7,
+        "path": "镜头设计/图像/数学宫殿-v056/CY005.png",
+        "kind": "composition",
+        "shot_id": "CY005",
+        "purpose": "构图、空间与代表状态：空殿中的慵懒龙；不是默认首帧",
+        "status": "数学宫殿方向作者认可；本轮新静帧待作者审阅",
+        "limits": "",
+        "sha256": "4f1a2922a595a3936b912115b40655f0c6e49e17035dde6ac3a7d69b95fda5c9",
+        "source_path": "镜头设计/图像/数学宫殿-v056/CY005.png",
+        "source_sha256": "4f1a2922a595a3936b912115b40655f0c6e49e17035dde6ac3a7d69b95fda5c9",
+        "sha1": "bf8bcbcb0fe2ddaf3e97b229498e126c188cf824",
+        "file_size": 2667015,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\数学宫殿-v056\\CY005.png"
+      }
+    ],
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 11,
+      "count": 1
+    },
+    "estimated_credits": 154,
+    "estimate_basis": "15秒报价210，按秒计费推算，提交前以网页实价为准",
+    "budget_selected": true,
+    "status": "prepared_not_submitted",
+    "task_id": null,
+    "node_id": "v-r3gqLtruuN",
+    "display_name": "第3批 · 宫门放行与慵懒卧榻 · H3 v001"
+  },
+  "request": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "node": "v-r3gqLtruuN",
+    "idempotencyKey": "bmf-h3-GB003-wire-full",
+    "model": "MiniMax-Hailuo-H3",
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 11,
+      "count": 1
+    },
+    "prompt": "subject_definitions:\n{{Node i-JAT4Pva730}}=DeepSeek四视图：同一人四角度，身份服饰保持\n{{Node i-KjFmn9fH3P}}=圣骑士四视图：同一人四角度，身份服饰保持\n{{Node i-07HfqKjhJ7}}=ChatGPT四视图：同一人四角度，身份服饰保持\n{{Node i-pQMVuNWsVz}}=构图状态，非强制首帧\n{{Node i-OX1eJe82nB}}=构图状态，非强制首帧\n{{Node i-hgkw6jwYZf}}=构图状态，非强制首帧\n{{Node i-7QhqmMFTdU}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，11秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–2s {{Node i-pQMVuNWsVz}}；画内:DeepSeek。接前批跑出街边，明确略去路程；切入暮色长阶上段的最后几步。低位偏左远景，石阶与栏杆斜向向右上收束；只轻跟小鱼跑上一小段，切宫门省略剩余路程。日落后蓝紫暮色里，小鱼空手跑上宫殿外长阶的一小段；多段台阶伸向高门，两旁紫旗与局部暖灯保持。随后切到已抵宫门，省略剩余登阶路程。 调度:保持2秒，不能高速跑完整条长阶。太阳已落到地平线下，冷天光主导，暖色仅灯具和宫门内部；不是新造长街。 注意:保持2秒，不能高速跑完整条长阶。太阳已落到地平线下，冷天光主导，暖色仅灯具和宫门内部；不是新造长街。 声音:长阶脚步与暮色环境底声。\n[Shot 2] 2–5s {{Node i-OX1eJe82nB}}；画内:DeepSeek、圣骑士。省略剩余登阶路程，切到小鱼已跑至宫门前急停；暮色与上镜一致。沿用原宫门机位与交叉枪构图，仅统一日落后的冷蓝紫天光；宫门内与灯具保留局部暖色。两名封闭头盔圣骑士交叉长枪，小鱼急停，空手抬头望向守卫。 调度:仅光线连续性修订。无可见太阳与金色直射，门外冷、门内暖；两骑士封闭头盔，枪仍交叉。 注意:仅光线连续性修订。无可见太阳与金色直射，门外冷、门内暖；两骑士封闭头盔，枪仍交叉。 声音:脚步、甲片、长枪拦路动作声。\n[Shot 3] 5–8s {{Node i-hgkw6jwYZf}}；画内:DeepSeek、圣骑士。交叉枪位完整承前，GPT声音先从殿内传出，再收枪让路。沿用原开门放行构图及运镜，门外冷蓝紫暮色，门内仍为暖烛光。GPT仍侧躺在殿内卧榻上，画外平静发声放行，骑士收枪竖直、让开通道；小鱼空手跨过门槛。 调度:仅光线连续性修订。保持原开门、收枪、孩子进门动作；室内暖光是烛光，不回到夕阳直射。 注意:仅光线连续性修订。保持原开门、收枪、孩子进门动作；室内暖光是烛光，不回到夕阳直射。 人物:GPT声音来自殿内，不在宫门实体出镜。 声音:GPT画外‘让她进来’； GPT在镜内0–2.2秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 4] 8–11s {{Node i-7QhqmMFTdU}}；画内:DeepSeek、ChatGPT。在跨门槛后明确省略大段空殿跑程，切入大厅时宝宝已经接近王座，只完成最后几步和停下，不在本镜内再加切镜。入口中轴大全景缓推少许，保留前景小鱼与殿尾横向卧榻；跑程已跨切省略，不追成近景。跨门后的大段跑程在切点省略，小鱼入镜时已接近高台，只完成最后几步，在卧榻头肩一端的台阶下停住并抬头。GPT头在画面左、脚在右，自身右手托腮、左手搭座垫前缘，懒懒侧躺；双翼舒展有支撑，单尾沿腿边自然延伸。 环境：左侧卧榻头端小几放几何手稿、圆规、透明多面体压纸、茶杯与扭转带小灯，右侧脚端陈列环仪；两侧十二面体柔光灯、高处椭圆环吊灯，中央台阶与通道留空。 注意:大殿图用于空间与卧榻姿态，非强制首帧；大段跑程已跨切省略，三秒只完成最后几步。 当前背景采用数学宫殿灯具；按本镜实际视野显示，不挪摆件、不新增人物。 人物:GPT在远处横向卧榻侧躺，头左脚右；跑程跨切省略，构图参考不是强制首帧。 声音:急脚步与喘息在空殿回响。\n5–7.2s ChatGPT（画外） 画外连续，不让在画者代说:<d>[Japanese] 通してあげて。</d>；仅一次。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "leftEnsure": [
+      "i-JAT4Pva730",
+      "i-KjFmn9fH3P",
+      "i-07HfqKjhJ7",
+      "i-pQMVuNWsVz",
+      "i-OX1eJe82nB",
+      "i-hgkw6jwYZf",
+      "i-7QhqmMFTdU"
+    ],
+    "newName": "第3批 · 宫门放行与慵懒卧榻 · H3 v001",
+    "run": false
+  },
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-r3gqLtruuN",
+    "node": {
+      "id": "v-r3gqLtruuN",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第3批 · 宫门放行与慵懒卧榻 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Image 1}}=DeepSeek四视图：同一人四角度，身份服饰保持\n{{Image 2}}=圣骑士四视图：同一人四角度，身份服饰保持\n{{Image 3}}=ChatGPT四视图：同一人四角度，身份服饰保持\n{{Image 4}}=构图状态，非强制首帧\n{{Image 5}}=构图状态，非强制首帧\n{{Image 6}}=构图状态，非强制首帧\n{{Image 7}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，11秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–2s {{Image 4}}；画内:DeepSeek。接前批跑出街边，明确略去路程；切入暮色长阶上段的最后几步。低位偏左远景，石阶与栏杆斜向向右上收束；只轻跟小鱼跑上一小段，切宫门省略剩余路程。日落后蓝紫暮色里，小鱼空手跑上宫殿外长阶的一小段；多段台阶伸向高门，两旁紫旗与局部暖灯保持。随后切到已抵宫门，省略剩余登阶路程。 调度:保持2秒，不能高速跑完整条长阶。太阳已落到地平线下，冷天光主导，暖色仅灯具和宫门内部；不是新造长街。 注意:保持2秒，不能高速跑完整条长阶。太阳已落到地平线下，冷天光主导，暖色仅灯具和宫门内部；不是新造长街。 声音:长阶脚步与暮色环境底声。\n[Shot 2] 2–5s {{Image 5}}；画内:DeepSeek、圣骑士。省略剩余登阶路程，切到小鱼已跑至宫门前急停；暮色与上镜一致。沿用原宫门机位与交叉枪构图，仅统一日落后的冷蓝紫天光；宫门内与灯具保留局部暖色。两名封闭头盔圣骑士交叉长枪，小鱼急停，空手抬头望向守卫。 调度:仅光线连续性修订。无可见太阳与金色直射，门外冷、门内暖；两骑士封闭头盔，枪仍交叉。 注意:仅光线连续性修订。无可见太阳与金色直射，门外冷、门内暖；两骑士封闭头盔，枪仍交叉。 声音:脚步、甲片、长枪拦路动作声。\n[Shot 3] 5–8s {{Image 6}}；画内:DeepSeek、圣骑士。交叉枪位完整承前，GPT声音先从殿内传出，再收枪让路。沿用原开门放行构图及运镜，门外冷蓝紫暮色，门内仍为暖烛光。GPT仍侧躺在殿内卧榻上，画外平静发声放行，骑士收枪竖直、让开通道；小鱼空手跨过门槛。 调度:仅光线连续性修订。保持原开门、收枪、孩子进门动作；室内暖光是烛光，不回到夕阳直射。 注意:仅光线连续性修订。保持原开门、收枪、孩子进门动作；室内暖光是烛光，不回到夕阳直射。 人物:GPT声音来自殿内，不在宫门实体出镜。 声音:GPT画外‘让她进来’； GPT在镜内0–2.2秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 4] 8–11s {{Image 7}}；画内:DeepSeek、ChatGPT。在跨门槛后明确省略大段空殿跑程，切入大厅时宝宝已经接近王座，只完成最后几步和停下，不在本镜内再加切镜。入口中轴大全景缓推少许，保留前景小鱼与殿尾横向卧榻；跑程已跨切省略，不追成近景。跨门后的大段跑程在切点省略，小鱼入镜时已接近高台，只完成最后几步，在卧榻头肩一端的台阶下停住并抬头。GPT头在画面左、脚在右，自身右手托腮、左手搭座垫前缘，懒懒侧躺；双翼舒展有支撑，单尾沿腿边自然延伸。 环境：左侧卧榻头端小几放几何手稿、圆规、透明多面体压纸、茶杯与扭转带小灯，右侧脚端陈列环仪；两侧十二面体柔光灯、高处椭圆环吊灯，中央台阶与通道留空。 注意:大殿图用于空间与卧榻姿态，非强制首帧；大段跑程已跨切省略，三秒只完成最后几步。 当前背景采用数学宫殿灯具；按本镜实际视野显示，不挪摆件、不新增人物。 人物:GPT在远处横向卧榻侧躺，头左脚右；跑程跨切省略，构图参考不是强制首帧。 声音:急脚步与喘息在空殿回响。\n5–7.2s ChatGPT（画外） 画外连续，不让在画者代说:<d>[Japanese] 通してあげて。</d>；仅一次。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png"
+            },
+            {
+              "nodeId": "i-KjFmn9fH3P",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/461e6b5fb5c0520134c1af43198c6212fb916260.png"
+            },
+            {
+              "nodeId": "i-07HfqKjhJ7",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d74110bde0f98a0b44ed3c518d48eaea282c1a87.png"
+            },
+            {
+              "nodeId": "i-pQMVuNWsVz",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/1ad3a6559a88bad79511663f2f2a8b370172ba9e.png"
+            },
+            {
+              "nodeId": "i-OX1eJe82nB",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/89a7625f33a4a7cc421855271ed391d38dca4bd4.png"
+            },
+            {
+              "nodeId": "i-hgkw6jwYZf",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/e258279785f20597ae111a8af5f8e25d94d7560c.png"
+            },
+            {
+              "nodeId": "i-7QhqmMFTdU",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/f9f2f050711ff49c824a77d04669fbd166566072.png"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 11
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png",
+              "label": "CHAR-DEEPSEEK-TURN-v003 · H3留白适配",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-uKDIVWmghN",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/88234e0405150bf25c82642dd7493f40996749c6.png",
+              "label": "CHAR-CLAUDE-TURN-v001 · H3留白适配",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-wzrqNs0Kgl",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/9ee6ec17f1ae89c1716662a90a1ab14c301b9e4b.png",
+              "label": "CY003B-v009",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-hJQDHQ4o6A",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/8c6405e58a7b423b4d1bc14b067ee3dd12caa03a.png",
+              "label": "CY003C-v063-r1",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-u5fHF3yNUA",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d13ef07a286c18d354ca3face7d3f40741fd0ffa.png",
+              "label": "CY004-v015-r1",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-O4bV9Vmysx",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/56a05adb8f5256e71889f0054d109ef795987f4d.png",
+              "label": "CY004A-v015-r1",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-JAT4Pva730",
+            "i-KjFmn9fH3P",
+            "i-07HfqKjhJ7",
+            "i-pQMVuNWsVz",
+            "i-OX1eJe82nB",
+            "i-hgkw6jwYZf",
+            "i-7QhqmMFTdU"
+          ],
+          "mixedListOrder": [
+            "i-JAT4Pva730",
+            "i-KjFmn9fH3P",
+            "i-07HfqKjhJ7",
+            "i-pQMVuNWsVz",
+            "i-OX1eJe82nB",
+            "i-hgkw6jwYZf",
+            "i-7QhqmMFTdU"
+          ]
+        },
+        "_updatedAtMs": 1793115817000,
+        "_lastAppliedFullyAtMs": 1793115817000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        }
+      },
+      "position": {
+        "x": 1662.5,
+        "y": 1900
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-r3gqLtruuN",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

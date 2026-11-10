@@ -1,0 +1,57 @@
+{
+  "batch": {
+    "batch_number": 37,
+    "batch_id": "GB027",
+    "attempt_id": "GB027-r003-CY028A",
+    "title": "撤罩、解锁与落脚",
+    "shot_ids": [
+      "CY028A"
+    ],
+    "film_start": 406.842729,
+    "part_offset": 8,
+    "used_seconds": 6.2,
+    "duration": 7,
+    "prompt": "从给定第一帧原样开始，只让已有画面动起来，不重新设计角色或背景。单一连续镜头，无切镜，无字幕水印、无音乐、无新增人物。7秒，保持首帧无腕扣无踝扣、普通烛火柴火全熄灭的状态。白衣GPT持续扶住橙发Claude上臂与背。0–2.2秒Claude从小脚托谨慎迈下，赤足逐一落到湿石地面、承重站稳；GPT一直支撑，Kimi在左后方拿着已打开的空扣，不把扣放回Claude身上。2.2–2.7秒摄影机在同一侧平稳靠近到两人胸上近景。2.7–6.2秒Claude疲倦望向阶下画外寻找小鱼，GPT继续扶稳，6.2–7秒延续末态。不要公主抱，不重复迈下，不出现火焰和暖光。GPT在0.1–1.68秒自然说一次<d>[Japanese] ゆっくりでいい。</d>；Claude在2.8–4.31秒说一次<d>[Japanese] あの子は……</d>。其它时段闭口。",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/Metaso-H3-v002/修订参考/rescue-step-固定首帧-r004.png",
+        "sha256": "9aa211216c0e38f5fb2603cab06a85fa5d527cb055c6fdfb82b105a5eecff20e",
+        "kind": "first_frame",
+        "role": "first_frame"
+      }
+    ],
+    "change_reason": "参考模式重复重构出错误元素；改用官方固定首帧模式，锁住已修正的画面元素。",
+    "repair_of": {
+      "attempt_id": "GB027-r002-CY028A",
+      "task_id": "2115148574076891136",
+      "local_path": "视频制作/Metaso-H3-v002/产物/GB027-r002-CY028A.mp4"
+    },
+    "source": "新增问题返修-准备.json",
+    "status": "prepared",
+    "accepted": false,
+    "estimated_credits": 71.4,
+    "mode": "first_frame"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "从给定第一帧原样开始，只让已有画面动起来，不重新设计角色或背景。单一连续镜头，无切镜，无字幕水印、无音乐、无新增人物。7秒，保持首帧无腕扣无踝扣、普通烛火柴火全熄灭的状态。白衣GPT持续扶住橙发Claude上臂与背。0–2.2秒Claude从小脚托谨慎迈下，赤足逐一落到湿石地面、承重站稳；GPT一直支撑，Kimi在左后方拿着已打开的空扣，不把扣放回Claude身上。2.2–2.7秒摄影机在同一侧平稳靠近到两人胸上近景。2.7–6.2秒Claude疲倦望向阶下画外寻找小鱼，GPT继续扶稳，6.2–7秒延续末态。不要公主抱，不重复迈下，不出现火焰和暖光。GPT在0.1–1.68秒自然说一次<d>[Japanese] ゆっくりでいい。</d>；Claude在2.8–4.31秒说一次<d>[Japanese] あの子は……</d>。其它时段闭口。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115151276373237760"
+        },
+        "role": "first_frame"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 7,
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "2026-10-28作者授权：参考图超限想办法砍不重要参考，该返修的都返修；沿用Metaso H3"
+}

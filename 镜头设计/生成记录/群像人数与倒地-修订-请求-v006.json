@@ -1,0 +1,13 @@
+{
+  "id": "S05E-v004",
+  "output": "镜头设计/图像/S05E-对抗与战后-v004.png",
+  "reason": "群像首版p4漏Kimi，p6后排残留站立黑袍；定点修正。",
+  "request": {
+    "referenced_image_paths": [
+      "C:/Users/36322/.codex/generated_images/01a1587f-dadf-7201-b369-999281d55060/exec-616da8ec-7837-4c74-a738-30ba0bd5f8c6.png",
+      "C:/Users/36322/.codex/generated_images/01a1587f-dadf-7201-b369-999281d55060/exec-5895e6a1-b843-48f2-8dd5-0b76e82804dc.png"
+    ],
+    "transparent_background": false,
+    "prompt": "Perform two very precise local corrections to reference1 six-panel sheet. KEEP ALL six panels and same exact 2x3 layout with thin straight white gutters. Preserve all existing characters and compositions except these explicit small fixes. Reference2 is only for the missing Kimi identity (white-silver hair, navy and white star/crescent gown, black triangular K clip; she stands second from right in reference2's TOP RIGHT group). CORRECTION A: In reference1 PANEL4, middle right, there are only eight allied women. ADD ONE KIMI, white-silver hair, dark navy star cloak with white blouse, next to teal-haired Perplexity behind/beside purple cat-eared Gemini on the right. Do not replace/remove anyone. Nine allies must now be visible: left Hunyuan red scarf, Llama cream hair/white ears, GLM black hair/ears; center Qwen holding tiny blue whale child; right Grok blonde black/red dress, Mistral orange hair/red hat, Perplexity teal glasses, Gemini purple cat ears, plus new Kimi silver hair navy cloak. Claude remains on cross protected at rear. All background black cultists in PANEL4 are still hostile, keep them there. CORRECTION B: In PANEL6 BOTTOM RIGHT ONLY, erase EVERY UPRIGHT BLACK-HOODED BACKGROUND CULTIST. Currently black hooded figures are standing behind the allied women on both sides of the hall. Replace those upright enemy silhouettes with EMPTY CANDLELIT ARCHITECTURE, columns, altar furnishings or empty wooden pews. Every cultist in this aftermath must be on the floor. Preserve the existing prone golden-brown-haired priest and fallen cultists in FOREGROUND, preserve all nine distinct allied women and returning white dragon GPT and Qwen carrying the blue whale child. No random new person, no duplicate Kimi, no standing black-hooded person behind them. Keep intact roof/open moonlit door. The all-colored allies remain awake; ONLY enemies are defeated. DO NOT change any other panel, do not change any face/pose/costume unnecessarily, no text. Two fixes only: add missing Kimi to panel4, remove standing enemies from background of panel6."
+  }
+}

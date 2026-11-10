@@ -1,0 +1,38 @@
+{
+  "shots": 114,
+  "total_seconds": 379,
+  "star_incantation_seconds": 18,
+  "star_incantation_single_read": true,
+  "added_ids": [
+    "CY027D0",
+    "CY029E1",
+    "CY029E2",
+    "CY029E3",
+    "CY029E4"
+  ],
+  "changed_old_durations": {
+    "CY022B": [
+      2,
+      3
+    ],
+    "CY029B1": [
+      2,
+      3
+    ]
+  },
+  "old_order_preserved": true,
+  "gpt_chant_and_music_unchanged": true,
+  "fan_sequence_unchanged": true,
+  "existing_audio_unchanged": true,
+  "existing_audio_readable": 19,
+  "source_quotes_verified": 114,
+  "current_images": 15,
+  "attempts_preserved": 16,
+  "picture_lock_files_verified": 98,
+  "local_links_verified": 311,
+  "previous_version_content_unchanged": true,
+  "line_endings_normalized_for_git_comparison": true,
+  "video_produced": false,
+  "audio_produced": false,
+  "browser_playback": "not_verified"
+}

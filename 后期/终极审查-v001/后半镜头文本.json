@@ -1,0 +1,832 @@
+[
+  {
+    "id": "CY022B1",
+    "title": "甲靴越前，两翼列阵",
+    "entry_state": "夜风起，教堂门闭；援军正抵达。",
+    "action": "两列骑士从后方越前，分往两翼列队，侧口岗哨转身警戒，中央留空。",
+    "exit_state": "中央通道形成，GPT即将从画外迈入。",
+    "next_link": "接 CY026：两翼骑士已列阵，中路留空。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY026",
+    "title": "裙摆先至，迈步向门",
+    "entry_state": "两翼骑士已列阵，中路留空。",
+    "action": "只见GPT双腿、银白鞋、裙摆与尾部向前走过列队，头脸始终画外。",
+    "exit_state": "GPT来到门前；切门内静默，再踹门揭示全身。",
+    "next_link": "接 CY022C：门外援军已到，门内柴火仍燃，吟唱仍在。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY022C",
+    "title": "破门前的静默",
+    "entry_state": "门外援军已到，门内柴火仍燃，吟唱仍在。",
+    "action": "火光掠过空旷的中央通道，尽头正门已经关紧。冷光从门缝漏入，门板忽然一震。",
+    "exit_state": "门板震动，接GPT踹门。",
+    "next_link": "接 CY023：教徒回堂时闩住的正门紧闭；祭坛已着火，吟唱继续。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY023",
+    "title": "砰",
+    "entry_state": "教徒回堂时闩住的正门紧闭；祭坛已着火，吟唱继续。",
+    "action": "一脚踹开门扇；冷光进来，木屑尘埃落下。",
+    "exit_state": "门已打开，踹门者跨入。",
+    "next_link": "接 CY024：正门已破，Kimi不在正门队伍中。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY024",
+    "title": "门后的人",
+    "entry_state": "正门已破，Kimi不在正门队伍中。",
+    "action": "GPT带八位同伴由正门进入，下令护住她们；Kimi按事先约定从后窗接近。",
+    "exit_state": "千问奔向小鱼，后窗传来短咏。",
+    "next_link": "接 CY024R：GPT带同伴进入正门，命令护住她们。",
+    "dialogue": "ChatGPT：护住她们。",
+    "time_transition": null
+  },
+  {
+    "id": "CY024R",
+    "title": "教主回身，注意力转向正门",
+    "entry_state": "GPT带同伴进入正门，命令护住她们。",
+    "action": "接GPT说完“护住她们”。教主在长阶下段缓台停住，头肩转向正门，平视画外入场者，眉眼绷紧；附近黑袍教徒也被门口动静吸引。注意力留在正门，没有提前仰看后窗或云层。画外渐入Kimi的呼唤，先让观众听见声音，再切中央高窗揭示她的位置；教主不因此抢先发现后窗的人。",
+    "exit_state": "教主与邻近教徒仍盯正门，Kimi呼唤收尾，切后窗暗影。",
+    "next_link": "接 CY024K0：敌方视线被正门牵住，呼唤已传入；中央彩窗完整。",
+    "dialogue": "Kimi（画外）：隐于月背的暗影啊，",
+    "time_transition": null
+  },
+  {
+    "id": "CY024K0",
+    "title": "窗外举刃，暗影开门",
+    "entry_state": "敌方视线被正门牵住，呼唤已传入；中央彩窗完整。",
+    "action": "十字架正后中央高窗仍然完整。承接画外呼唤，月光中浮现Kimi模糊的头肩与长发剪影，隔着蓝色彩玻璃看不清面容。她说出法术请求，左手将小尺寸明刃举到肩旁；刃缘透过完整玻璃只显出一线微亮，握持关系可辨，右暗刃低垂在画外。镜末请求句收住，短停半拍后左臂甩刃；左右窗没有破损，也没有护罩、阵纹或额外月环。",
+    "exit_state": "请求句收尾，左臂甩出明刃，接力量破窗。",
+    "next_link": "接 CY024K1：Kimi说完请求后甩出左手明刃，彩窗仍完整到刀锋接触。",
+    "dialogue": "Kimi（画外）：请循此刃的银辉，为我开启通往彼端的门扉——",
+    "time_transition": null
+  },
+  {
+    "id": "CY024K1",
+    "title": "明刃破窗，玻璃迎面炸开",
+    "entry_state": "Kimi说完请求后甩出左手明刃，彩窗仍完整到刀锋接触。",
+    "action": "切中央彩窗的近距离特写。Kimi从窗外甩出的明刃斜向下撞入玻璃，刀锋先顶裂受力点，窗棂局部折断，厚蓝玻璃沿放射裂纹炸开。近处碎片冲过镜头形成速度与纵深，明刃穿过宽阔纵向破口飞向柴堆外缘；外石框和下部窗棂保留，左右窗完整。Kimi本人不穿窗，玻璃随后落在刑架后方与后墙边，避开Claude。",
+    "exit_state": "明刃穿入殿内，中央玻璃留下宽阔破口。",
+    "next_link": "接 CY024K1A：明刃已穿过中央彩窗，飞向柴堆外缘。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY024K1A",
+    "title": "明刃钉柴，瞬移坐标亮起",
+    "entry_state": "明刃已穿过中央彩窗，飞向柴堆外缘。",
+    "action": "明刃下尖钉入柴堆前侧外缘的一根乌烬木，木纤维裂开。接触点的银光短促亮起，刀已稳稳留在木上，Kimi才从画外报出术名“月影渡”。镜末银光收拢，接她沿坐标瞬移现身；刀不插地、不展开护罩，高柴仍燃烧。画面此刻还没有Kimi实体。",
+    "exit_state": "明刃成为固定坐标，术名落定，接Kimi循刃瞬移。",
+    "next_link": "接 CY024K2：月影渡术名落定，明刃已钉稳柴木成为坐标。",
+    "dialogue": "Kimi（画外）：月影渡！",
+    "time_transition": null
+  },
+  {
+    "id": "CY024K2",
+    "title": "循刃瞬临，爆气震开柴堆",
+    "entry_state": "月影渡术名落定，明刃已钉稳柴木成为坐标。",
+    "action": "银光一闪，Kimi在柴堆前侧外缘循明刃瞬移现身，左手握回明刃。她压低重心，气浪沿石面向两侧外下方爆开，将重柴成片推开；木头翻滚、刮地、撞击，Claude与刑架所在的中央保持平静。Kimi双脚落在腾出的石地上，右手暗刃朝外低垂，刀口远离Claude。此时尚未闭罩，残柴在两侧继续燃烧；Claude仍直立受缚，腕踝扣与固定脚托露出。身影只有少量消散的银色余光，不出现第二个身体。",
+    "exit_state": "重柴向两侧散开，明刃回左手，Claude中心平静，尚未闭罩。",
+    "next_link": "接 CY024K2A：Kimi循刃震开柴堆，两侧教徒仍在祭坛边。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY024K2A",
+    "title": "震柴惊动教徒，转身施法",
+    "entry_state": "Kimi循刃震开柴堆，两侧教徒仍在祭坛边。",
+    "action": "柴堆被震开，祭坛两侧的黑金袍教徒转身围向中央。近景有人抬起空手，有人举杖，琥珀色火星在掌心和杖端收拢，攻击方向朝向后方Kimi与Claude。Kimi尚未闭罩，压低重心转向攻击者，右暗刃抬起，左明刃保持在身体外侧；Claude直立受缚，腕踝锁扣和固定脚托不变。人物分处散柴外侧通道与中央净空区，互不穿过火堆。",
+    "exit_state": "教徒攻击即将发出，Kimi抬起右暗刃，接闭罩拦截。",
+    "next_link": "接 CY024K3：震柴惊动两侧教徒，他们抬手聚起法术，Kimi转身护住Claude。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY024K3",
+    "title": "暗月闭合，截住教徒法术",
+    "entry_state": "震柴惊动两侧教徒，他们抬手聚起法术，Kimi转身护住Claude。",
+    "action": "祭坛两侧教徒已经举手施法，琥珀色光束朝Kimi与Claude逼近。Kimi退到Claude身前，右手暗刃向上划弧，深靛暗月罩迅速闭合，完整包住两人、刑架和脚托。关键帧停在敌方法术撞上外壳、碎成短促火星的一刻，画面两侧仍看得到教徒的施法手和法杖，攻击方向明确。暗罩完全不透明，外面看不到人物或十字架。所有燃木留在罩外，罩面完整；罩施放后持续存在，Kimi可以收刃照顾Claude。此时GPT尚未释放水雷。",
+    "exit_state": "教徒第一轮攻击被暗罩截住，接罩内试镣；外侧仍有间歇攻击。",
+    "next_link": "接 CY024K4：罩内Kimi持双刃，Claude仍直立受缚。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY024K4",
+    "title": "罩内试镣，见痛收刀",
+    "entry_state": "罩内Kimi持双刃，Claude仍直立受缚。",
+    "action": "切入暗月罩内。Kimi从侧下方以右手暗刃轻试Claude腕镣接缝，腕扣细小紫纹反噬，Claude吃痛；她立即把刀退到自己外侧髋边，刃口朝外下，担忧地看锁扣。关键帧停在已经收刀的一刻。确认不能强拆后，她将一明一暗两刃扣回后腰，腾出双手照顾Claude；护罩保持。背景只见暗膜内侧，不透出教堂、烛火或窗。",
+    "exit_state": "不能强拆，双刃收回后腰，空手转为照顾。",
+    "next_link": "接 CY023A：GPT和AI先遣队已经进入殿内，正门敞开。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY023A",
+    "title": "圣骑士鱼贯而入",
+    "entry_state": "GPT和AI先遣队已经进入殿内，正门敞开。",
+    "action": "入口岗哨留守，余队跨过门槛沿两翼柱廊入殿；中央留空。",
+    "exit_state": "骑士已分守两翼；由甲片声切入稍早召集回闪。",
+    "next_link": "接 CY026A：时间回到小鱼独自营救期间；GPT已到云宫，千问仍拿着展开的扇。",
+    "dialogue": "无对白",
+    "time_transition": "本镜结束切入稍早亲访回闪；骑士入场属于当前时间。"
+  },
+  {
+    "id": "CY026A",
+    "title": "云宫合扇",
+    "entry_state": "时间回到小鱼独自营救期间；GPT已到云宫，千问仍拿着展开的扇。",
+    "action": "回到稍早的云宫，GPT站到千问面前问出邀请；千问听完，下一镜才合扇回应。",
+    "exit_state": "GPT的邀请说完，千问决定回应；扇尚未合起。",
+    "next_link": "接 CY026A1：前镜已建立GPT亲自到访的双人关系与场所。",
+    "dialogue": "ChatGPT：千问，陪我救个人。",
+    "time_transition": null
+  },
+  {
+    "id": "CY026A1",
+    "title": "合扇就是回答",
+    "entry_state": "前镜已建立GPT亲自到访的双人关系与场所。",
+    "action": "合扇落定，指尖握住扇骨。",
+    "exit_state": "同伴答应，直接切到下一位或同屏回应。",
+    "next_link": "接 CY026B：回闪继续，Gemini坐在摊开的书前，GPT站到桌旁。",
+    "dialogue": "千问：走吧。",
+    "time_transition": null
+  },
+  {
+    "id": "CY026B",
+    "title": "小屋里的回应",
+    "entry_state": "回闪继续，Gemini坐在摊开的书前，GPT站到桌旁。",
+    "action": "同一个双人镜内，GPT呼名，Gemini从已经摊开的书上抬眼回应。",
+    "exit_state": "Gemini已答应；书仍在桌上，不再重演放书。",
+    "next_link": "接 CY026C：Grok靠斧站在静止火箭下，GPT已从光门到场。",
+    "dialogue": "ChatGPT：Gemini。　Gemini：我去。",
+    "time_transition": null
+  },
+  {
+    "id": "CY026C",
+    "title": "发射塔下的点头",
+    "entry_state": "Grok靠斧站在静止火箭下，GPT已从光门到场。",
+    "action": "钢架发射塔、储罐和管线旁，GPT邀请Grok；Grok握斧回应。火箭停在发射架，尚未发射。",
+    "exit_state": "Grok已经答应，握持未改变，直接接寂静月背。",
+    "next_link": "接 CY026D1：GPT已到月背但暂在画外；Kimi仍倚月石休息。",
+    "dialogue": "ChatGPT：Grok。　Grok：当然。",
+    "time_transition": null
+  },
+  {
+    "id": "CY026D1",
+    "title": "月背睁眼",
+    "entry_state": "GPT已到月背但暂在画外；Kimi仍倚月石休息。",
+    "action": "月背的Kimi仍伏在月石边，听见GPT画外呼名，困倦的眼睛缓缓睁开。",
+    "exit_state": "听到GPT的呼名而睁眼，准备坐起。",
+    "next_link": "接 CY026D：Kimi已睁眼，坐起动作在切镜间简略省去。",
+    "dialogue": "ChatGPT：Kimi。",
+    "time_transition": null
+  },
+  {
+    "id": "CY026D",
+    "title": "月背约定，两路救援",
+    "entry_state": "Kimi已睁眼，坐起动作在切镜间简略省去。",
+    "action": "Kimi 听到呼名，先睁眼，再撑着月石坐起；视野放宽，才看见俯身等她的 ChatGPT。 GPT低声交代分路，Kimi点头。",
+    "exit_state": "Kimi同意从Claude背后的彩窗突入。",
+    "next_link": "接 CY026E：先亮混元所在画面，后四格尚暗。",
+    "dialogue": "ChatGPT：我走正门。她背后的彩窗，交给你。 Kimi：嗯。",
+    "time_transition": null
+  },
+  {
+    "id": "CY026E",
+    "title": "各路回应",
+    "entry_state": "先亮混元所在画面，后四格尚暗。",
+    "action": "混元抬眼、Llama放下揉眼的手、智谱合书、Mistral提剑、Perplexity扶眼镜；每0.6秒增加一格，已亮画面保留，最后全屏停留。",
+    "exit_state": "五格回应结束，切回此刻千问与小鱼的双人近景。",
+    "next_link": "接 CY024A0：召集回闪结束；千问已把小鱼抱到右侧石柱内侧，Kimi的护持已起效。",
+    "dialogue": "ChatGPT：混元，Llama……都来。",
+    "time_transition": null
+  },
+  {
+    "id": "CY024A0",
+    "title": "抱紧我",
+    "entry_state": "召集回闪结束；千问已把小鱼抱到右侧石柱内侧，Kimi的护持已起效。",
+    "action": "千问左臂托稳小鱼、右手低持合扇，低头说抱紧我；小鱼抓紧衣襟靠近，她随后抬眼望向GPT。",
+    "exit_state": "小鱼已经抓稳，合扇仍握在千问右手；切GPT展翼升空。",
+    "next_link": "接 CY024A：千问与小鱼已在前镜抱稳，GPT站在中央通道。",
+    "dialogue": "千问：抱紧我。",
+    "time_transition": null
+  },
+  {
+    "id": "CY024A",
+    "title": "展翼离地，空中起咏",
+    "entry_state": "千问与小鱼已在前镜抱稳，GPT站在中央通道。",
+    "action": "GPT展开两片膜翼，下扇扬尘、双脚离地，避开吊灯升至穹顶下方；水珠在前中后景上浮，悬停后起咏。",
+    "exit_state": "GPT已在主水幕侧前方高空悬停并开始咏唱；教主抬眼。",
+    "next_link": "接 CY024A9：GPT已经升空起咏，教主仍在下段缓台。",
+    "dialogue": "ChatGPT：盘踞于苍穹尽头，",
+    "time_transition": null
+  },
+  {
+    "id": "CY024A9",
+    "title": "教主仰射，主动打断",
+    "entry_state": "GPT已经升空起咏，教主仍在下段缓台。",
+    "action": "教主抬手射出一道暗金术光，瞄准高处GPT。",
+    "exit_state": "暗金术光斜向空中，切千问截击。",
+    "next_link": "接 CY024A10：教主术光已射出；千问左臂抱稳小鱼，右手持尚未完全展开的扇子。",
+    "dialogue": "ChatGPT（画外、跨镜）：统御深流与雷鸣的",
+    "time_transition": null
+  },
+  {
+    "id": "CY024A10",
+    "title": "开扇咔响，单叶解锁",
+    "entry_state": "教主术光已射出；千问左臂抱稳小鱼，右手持尚未完全展开的扇子。",
+    "action": "拇指拨扣，甩腕开扇，扇骨依次展开；外缘单叶卡扣解锁，末端弹离，切伴飞。孩子始终由画外左臂托稳。 出叶前右腕上挑、发射方向斜向上；左臂托抱不变。",
+    "exit_state": "单叶自右手向上弹出，母扇仍在手中，接同方向上行极特写。",
+    "next_link": "接 CY024A11：单枚扇叶由地面千问右手向上发射，方形叶尾低于刃尖。",
+    "dialogue": "ChatGPT（画外、跨镜）：统御深流与雷鸣的",
+    "time_transition": null
+  },
+  {
+    "id": "CY024A11",
+    "title": "扇叶上行，刃尖侧前极特写",
+    "entry_state": "单枚扇叶由地面千问右手向上发射，方形叶尾低于刃尖。",
+    "action": "刃尖右上近镜、叶尾左下后退，持续斜向上伴飞，微旋反光；画面仅一枚实体扇叶。",
+    "exit_state": "沿上行轨迹接近高处拦截点；接触前不向下转向。",
+    "next_link": "接 CY024A12：两条由低处射向高处的轨迹将交汇；扇叶仍在上行。",
+    "dialogue": "ChatGPT（画外、跨镜）：统御深流与雷鸣的",
+    "time_transition": null
+  },
+  {
+    "id": "CY024A12",
+    "title": "侧面仰拍，半空截击",
+    "entry_state": "两条由低处射向高处的轨迹将交汇；扇叶仍在上行。",
+    "action": "扇叶从左下向右上击中右下朝左上的暗金术光；小亮点后残光偏散，碰撞失速后叶片才开始落向空侧廊。",
+    "exit_state": "高处截击完成，千问始终站地护人，GPT空中咏唱继续。",
+    "next_link": "接 CY024A1：罩体维持，Kimi双刃已收好，Claude仍受缚。",
+    "dialogue": "ChatGPT（画外、跨镜）：统御深流与雷鸣的",
+    "time_transition": null
+  },
+  {
+    "id": "CY024A1",
+    "title": "抱住她，先让她缓一口气",
+    "entry_state": "罩体维持，Kimi双刃已收好，Claude仍受缚。",
+    "action": "罩内，Kimi已经收好双刃，空手靠到Claude身前偏左，托住肩背，另一只手轻扶上臂，额侧贴近她的头。Claude仍直立受缚，双腕没有离开横木，只把头轻轻靠向Kimi的肩，缓下一口气。Kimi听向罩外教徒法术的闷响与远处雷声，同时继续托稳她；没有解锁，也没有将她抱离脚托。\n\nGPT第二句咏唱从前面的阻击连续接来，至本镜念完，不重复起句。",
+    "exit_state": "托抱使Claude缓下一口气，接拭汗拨发。",
+    "next_link": "接 CY024A2：Claude靠近Kimi缓过气，腕扣未开。",
+    "dialogue": "ChatGPT（画外，承前半句）：古老意志啊。",
+    "time_transition": null
+  },
+  {
+    "id": "CY024A2",
+    "title": "拭汗拨发，确认她的状态",
+    "entry_state": "Claude靠近Kimi缓过气，腕扣未开。",
+    "action": "Kimi轻轻拨开Claude额前汗湿的发丝，指尖拭去鬓侧汗水；另一只手拨开落在领侧的发梢，查看肩侧衣料焦损与可见皮肤。Claude疲惫地望向她，把头微微靠向触碰。检查不掀衣、不拉扯束具，腕扣仍锁着，焦损衣料没有恢复。暗膜内侧遮住全部外景，柔和冷光托出两人的表情。",
+    "exit_state": "拭去汗水，确认焦损与束具状态。",
+    "next_link": "接 CY024A3：护盾已经形成，外部水雾凝滴，月光尚能照见液面。",
+    "dialogue": "ChatGPT：循吾之声，自漫长的沉眠中苏醒。",
+    "time_transition": null
+  },
+  {
+    "id": "CY024A3",
+    "title": "水息上浮，合滴回弹",
+    "entry_state": "护盾已经形成，外部水雾凝滴，月光尚能照见液面。",
+    "action": "大水珠晃动、拉长回弹，小滴向上靠近并融入；云影逐渐掩月，上浮方向引向下一镜云腹。",
+    "exit_state": "小滴融入大滴并继续上升，云影渐浓。",
+    "next_link": "接 CY024A6：外部水滴上浮，屋顶完整。",
+    "dialogue": "ChatGPT：将散落尘世的万千水息，\nChatGPT：汇作悬于群星之下的无岸之海。",
+    "time_transition": null
+  },
+  {
+    "id": "CY024A6",
+    "title": "仰望螺旋乌云与紫电",
+    "entry_state": "外部水滴上浮，屋顶完整。",
+    "action": "镜头从完整尖塔微仰至中殿上空巨大的螺旋乌云；水珠融入云腹，少量紫电在厚云内部间歇闪亮。",
+    "exit_state": "云旋成形，紫电只在云内游走，水与雷均未落下。",
+    "next_link": "接 CY024A7：云旋已成形，内部紫电闪动。",
+    "dialogue": "ChatGPT：以重云为冠，以紫电为爪，\nChatGPT：让汝的咆哮震彻这寂静的长夜。",
+    "time_transition": null
+  },
+  {
+    "id": "CY024A7",
+    "title": "云心张开，紫电蓄势",
+    "entry_state": "云旋已成形，内部紫电闪动。",
+    "action": "云壁向纵深旋卷，暗色中心张开，紫电沿云褶掠过；水仍悬在云中，地面建筑不提前破坏。",
+    "exit_state": "云心张开但没有向下释放，切回火前受困者。",
+    "next_link": "接 CY024A4：罩内安静，双刃已收好。",
+    "dialogue": "ChatGPT：此刻，洞开天穹，倒悬沧海！",
+    "time_transition": null
+  },
+  {
+    "id": "CY024A4",
+    "title": "蹲下查看踝链",
+    "entry_state": "罩内安静，双刃已收好。",
+    "action": "Kimi在脚托旁蹲下，一只空手轻托Claude踝扣上方的小腿，另一只手查看外侧链环与锁扣连接，动作轻，不强拉、不解锁。Claude双腿垂直，双踝仍锁，赤足稳踩十字架立柱上的窄脚托。镜头带到Kimi专注的脸与双手，双刃收在后腰；衣裙自然垂落，原有白金纹样和黑色焦损保持。罩内石地净空，没有燃木和外界窗光。",
+    "exit_state": "踝链不能强拆，Kimi准备起身，等待钥匙。",
+    "next_link": "接 CY024A8：教主拦截被千问破除，仍在缓台，衣料干燥，屋顶完整。",
+    "dialogue": "ChatGPT：令灼烧无辜的烈焰，在奔流中止息；",
+    "time_transition": null
+  },
+  {
+    "id": "CY024A8",
+    "title": "教主听雷抬眼",
+    "entry_state": "教主拦截被千问破除，仍在缓台，衣料干燥，屋顶完整。",
+    "action": "教主收回出击的手，听见闷雷后抬头判断威胁，另一只手准备护身；侧窗紫光掠过脸侧，护罩未展开。",
+    "exit_state": "教主已警觉抬头，未移动，切GPT最终命令。",
+    "next_link": "接 CY024A5：GPT在穹顶下主落水区侧前方悬停，祭坛暗月罩与侧柱护光已就位。",
+    "dialogue": "ChatGPT：令阻挡吾行的高墙，在雷鸣中崩裂！",
+    "time_transition": null
+  },
+  {
+    "id": "CY024A5",
+    "title": "请降下你的救赎——苍龙雷渊",
+    "entry_state": "GPT在穹顶下主落水区侧前方悬停，祭坛暗月罩与侧柱护光已就位。",
+    "action": "GPT振翼悬停，前段右掌高举凝聚水雷，左手在胸前稳术。念到最后一个“渊”字，掌上光团收拢消散，右前臂落至肩前，食指伸出、其余手指自然收拢，目光沿指向锁定下方教主。中央主水柱应声从云层落下；指尖只留一粒水光，不喷水。本镜采用咏唱末尾的首点结束帧。",
+    "exit_state": "首点教主，第一股云中主柱落下；保持同一侧摄影轴，接右手转指左翼。",
+    "next_link": "接 CY024A5A：第一股主柱已压住教主，右手完成首点。",
+    "dialogue": "ChatGPT：水与雷的执掌者啊，\nChatGPT：请降下你的救赎——\nChatGPT：苍龙雷渊！",
+    "time_transition": null
+  },
+  {
+    "id": "CY024A5A",
+    "title": "第二点，锁定左翼",
+    "entry_state": "第一股主柱已压住教主，右手完成首点。",
+    "action": "GPT保持同一高度悬停，左手仍在胸前稳定术式。她先将视线转向左翼教徒，右肩带动同一条右臂向画面左侧展开，食指点向左下方外侧通道；右肩、肘、腕衔接清楚，不交换施法手。第二股较细但厚重的云中水柱落向左翼围攻区域，第一股主柱仍在远处虚焦背景中持续。指尖水光只闪一下，不射出水线。",
+    "exit_state": "左翼辅柱落下，右臂准备横向移指右翼。",
+    "next_link": "接 CY024A5B：左侧辅柱已落下，主柱持续；右手由左翼横移。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY024A5B",
+    "title": "第三点，锁定右翼",
+    "entry_state": "左侧辅柱已落下，主柱持续；右手由左翼横移。",
+    "action": "GPT的目光先扫向右翼教徒，身体保持悬停，右前臂随之横移到画面右侧，伸直的食指指向右下方外侧通道，动作比首点更向外展开；左手始终在胸前稳术。第三股辅柱从云层落向右翼围攻区域，前两股水柱在虚焦背景中持续。三次选点都避开最高祭坛与同伴，手指没有喷射水流。镜末接高位斜俯全景确认三处落点。",
+    "exit_state": "第三股水柱命中右翼，接一主两辅全景。",
+    "next_link": "接 CY024B：GPT已连续点选中央教主、左翼及右翼教徒，三股云中水柱先后落下。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY024B",
+    "title": "三点定流，一主两辅清场",
+    "entry_state": "GPT已连续点选中央教主、左翼及右翼教徒，三股云中水柱先后落下。",
+    "action": "从空中ChatGPT侧后上方斜俯拍，近景膜翼、中景三股水雷、远处安全祭坛构成纵深。她右食指仍指向第三处右翼目标，左手维持胸前稳术。中央中殿上方同一云层降下三股互相分离的银蓝水柱：较粗主柱压向下段中央缓台的教主暗金罩；左右辅柱分别压入两翼围攻教徒的外侧通道。每股都厚重、连续，辅柱明显宽于人身，不从主柱分叉，也不从指尖射出。紫电在三股水体内盘绕，教徒穿黑金兜帽长袍，散落于两翼落点附近。最高祭坛不透明暗月罩与中央通道保持净空，三处落点和径流都主动避开友方；暗罩不受水压，外景看不见两人与刑架。水沿外围石阶奔涌、扑灭残柴与普通灯火，打断教徒施法。千问与小鱼仍在柱边同伴安全位置、可出画。中央高窗破口保留，左右侧窗与后殿拱顶完整。镜末三柱紫电先收尽，上方供水停止，已落下的清水向外侧台阶汇流。",
+    "exit_state": "三处目标被压制，三柱紫电收尽、供水停止；清水余浪沿两侧通道下行，祭坛中央保持净空。",
+    "next_link": "接 CY024B3：三股水柱均已收雷停水，左右落点的清水与主柱外泄水沿外侧石阶汇流。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY024B3",
+    "title": "洪流分两侧，暗月安稳",
+    "entry_state": "三股水柱均已收雷停水，左右落点的清水与主柱外泄水沿外侧石阶汇流。",
+    "action": "从祭坛前方看，左右辅柱已经停止供水，落点积水与主柱外泄清水汇成两条厚重水道，沿祭坛外侧石阶下行。GPT预先选定的落点远离暗月罩，水路从一开始就绕开中央。中央通道和罩体周边留出完整净空石面，观众能连续看见水的转向位置、间隔和安稳的深靛暗罩。罩面不被水接触，没有压痕、银色应力纹或罩顶瀑布，紫电已经收尽。外围散柴被浇灭带向下方，水流转向刚才施法的教徒；中央破窗保留，侧窗完整，所有普通灯火熄灭。",
+    "exit_state": "水经过外围，中央安稳，切罩内安抚，再接外侧教徒失足。",
+    "next_link": "接 CY024B3A：GPT让水流绕过祭坛，Kimi已从踝链旁起身靠回Claude。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY024B3A",
+    "title": "外面水声经过，里面靠肩安抚",
+    "entry_state": "GPT让水流绕过祭坛，Kimi已从踝链旁起身靠回Claude。",
+    "action": "罩内只传来隔远的水声。Claude听见外面轰鸣，疲惫地靠近Kimi；Kimi一只空手轻扶她的后脑，另一臂托住肩背与上臂，额侧贴近，以安稳的神情让她慢慢松下紧张。Claude仍直立受缚，双腕固定在横木，双踝与脚托没有变化；双刃都已收在Kimi后腰。暗膜内侧平静、不透明，没有水压凹痕、应力闪光或外景。Kimi不用手撑墙，也没有对抗GPT法术的吃力表情。",
+    "exit_state": "Claude靠肩缓下来，接罩外同一批教徒被清水冲散。",
+    "next_link": "接 CY024B1：左右辅柱及主柱外泄清水沿祭坛侧道冲向刚才围攻的教徒，三柱紫电已全部收尽。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY024B1",
+    "title": "洪流冲散围攻教徒",
+    "entry_state": "左右辅柱及主柱外泄清水沿祭坛侧道冲向刚才围攻的教徒，三柱紫电已全部收尽。",
+    "action": "镜头落到祭坛外侧台阶，刚才围攻暗罩的黑金袍教徒察觉水流转来，仓促转身抬手防御，持续攻击被迫中断。厚重清水撞散阵形，淹过腰腹，脚下失去支点；前排一人伸手抓石沿却滑开，后排数人随水沿侧阶向下滑走，一根法杖脱手落在水面。人物有重量，部分身体被厚水遮住，不飞天翻滚，不表现撞伤细节。远景暗月罩稳立中央净空平台，水从两侧经过，罩与水保持间隔。后墙的小长椅仍落在原位作为固定参照，中央彩窗破口保留，侧窗完整，壁烛已灭；这股清水没有魔法雷。",
+    "exit_state": "围攻阵形瓦解、教徒沿外阶被冲散，接水源停止后的退水与GPT降落。",
+    "next_link": "接 CY027：紫电与水幕结束，GPT仍在入口侧高空，浅水正在退去。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY027",
+    "title": "退水降落，收翼走近",
+    "entry_state": "紫电与水幕结束，GPT仍在入口侧高空，浅水正在退去。",
+    "action": "GPT振翼制动下降，鞋尖点水，另一只脚落稳，双翼收拢后走向原缓台上的教主。 最高祭坛仍被不透明暗月罩完整包住，罩外看不到Kimi、Claude和刑架；正后中央窗破口持续存在，左右窗完整。",
+    "exit_state": "GPT已落地收翼，与教主隔短阶对视，接条约质问。",
+    "next_link": "接 CY027A：GPT已走到中央破顶下，正对原地抗水的教主。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY027A",
+    "title": "互不干涉条约",
+    "entry_state": "GPT已走到中央破顶下，正对原地抗水的教主。",
+    "action": "GPT在左侧近处，教主正前方下段缓台拦路；两人在破碎穹顶下对话，保持苍龙雷渊镜的前后关系。 最高祭坛仍被不透明暗月罩完整包住，罩外看不到Kimi、Claude和刑架；正后中央窗破口持续存在，左右窗完整。",
+    "exit_state": "双方保持破顶下对峙，接GPT回应。",
+    "next_link": "接 CY027B：GPT与教主对视。",
+    "dialogue": "教主：你违反了互不干涉条约。",
+    "time_transition": null
+  },
+  {
+    "id": "CY027B",
+    "title": "聒噪",
+    "entry_state": "GPT与教主对视。",
+    "action": "她抬眼，平静地说出“聒噪”。",
+    "exit_state": "短答后水光聚拢，开始化龙。",
+    "next_link": "接 CY027B1：GPT仍是人形，白紫水光裹住身体。",
+    "dialogue": "ChatGPT：聒噪。",
+    "time_transition": null
+  },
+  {
+    "id": "CY027B1",
+    "title": "白紫水龙显形",
+    "entry_state": "GPT仍是人形，白紫水光裹住身体。",
+    "action": "白紫水光裹住 ChatGPT，她腾起，身体化为白紫长身水龙；白角与紫鬃在水光中展开。",
+    "exit_state": "人形隐入水光，白紫长身水龙显形。",
+    "next_link": "接 CY027B2：教主仍在湿地，背后暗金力量聚拢。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY027B2",
+    "title": "黑金鸦翼展开",
+    "entry_state": "教主仍在湿地，背后暗金力量聚拢。",
+    "action": "教主离地升起，黑金羽翼在背后展开，进入人形鸦翼战斗态，面容仍然可辨。",
+    "exit_state": "黑金鸦翼展开，身体离地。",
+    "next_link": "接 CY027B3：白紫水龙与鸦翼教主已在中殿完成变身。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY027B3",
+    "title": "穿过破顶腾空",
+    "entry_state": "白紫水龙与鸦翼教主已在中殿完成变身。",
+    "action": "从湿石地面向上仰望，白紫水龙和黑金鸦翼教主沿高耸石柱之间拔地腾空，一前一后穿过中殿已经破开的穹顶。",
+    "exit_state": "双方穿过已有中殿破口，接外景空中对峙。",
+    "next_link": "接 CY027C：两人已穿过中殿破口，来到屋顶上方。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY027C",
+    "title": "破口之上",
+    "entry_state": "两人已穿过中殿破口，来到屋顶上方。",
+    "action": "两人已经来到教堂上空。白紫水龙盘起长身，黑金鸦翼教主悬在对面，两道力量隔着夜空对峙。",
+    "exit_state": "双方凌空相对，宝宝抬头看见水龙。",
+    "next_link": "接 CY025：GPT已经化龙腾空，宝宝在千问怀里。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY025",
+    "title": "她还是来了",
+    "entry_state": "GPT已经化龙腾空，宝宝在千问怀里。",
+    "action": "宝宝疲惫抬眼；蓝色虹膜中仅有模糊白紫上升光影，泪光微颤，瞳孔不被倒影覆盖。",
+    "exit_state": "眼中龙影上升，接天空雷雨。",
+    "next_link": "接 CY027E：两人在教堂上空交战，画面离开人物。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY027E",
+    "title": "略去激战",
+    "entry_state": "两人在教堂上空交战，画面离开人物。",
+    "action": "保留钟楼上方的天空特写。夜云被闪电照亮，雨逐渐落下，几声沉闷的雷响带过空中的激战。",
+    "exit_state": "雨开始落下，雷声延续到地板镜。",
+    "next_link": "接 CY027E1：天空雷雨，战斗仍在画外。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY027E1",
+    "title": "雨滴落入大殿",
+    "entry_state": "天空雷雨，战斗仍在画外。",
+    "action": "雨滴穿过中殿穹顶破口，打在湿石地板上，涟漪里晃过白紫和暗金闪光。雷声由远及近，又渐渐退去。",
+    "exit_state": "雨声里叠入外院脚步，切门槛外的新敌人。",
+    "next_link": "接 CY027D0：水雷已退、上空激战；入口岗哨仍在。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY027D0",
+    "title": "外院教徒，围向正门",
+    "entry_state": "水雷已退、上空激战；入口岗哨仍在。",
+    "action": "外院教徒从两侧回廊汇聚到门前，岗哨横枪拦住；敌人仍在门外。",
+    "exit_state": "门外威胁明确，警报传入殿内，接援军转身守门。",
+    "next_link": "接 CY027D：外院教徒逼近，殿内水雷已退。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY027D",
+    "title": "八人守门，Kimi守祭坛",
+    "entry_state": "外院教徒逼近，殿内水雷已退。",
+    "action": "听见入口示警，八位同伴在长阶下形成第二道防线，千问仍抱着小鱼。两翼骑士守住柱廊，前排迎向门外教徒。远处最高祭坛的不透明暗月罩持续存在，Kimi在内守着Claude，没有回到队伍；外景看不到二人与刑架。Perplexity持杖警戒，中央高窗破口保留，左右窗完整。",
+    "exit_state": "入口被守住，Kimi持续护住仍受缚的Claude。",
+    "next_link": "接 CY027E2：同伴已经迎敌，切到建筑外。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY027E2",
+    "title": "窗内的战斗",
+    "entry_state": "同伴已经迎敌，切到建筑外。",
+    "action": "外景高俯拍，魔法爆闪集中正门和前中殿，带过对外院增援的阻击；后殿救援区不发生混战。",
+    "exit_state": "爆闪停下，雨渐停，接战后全景。",
+    "next_link": "接 CY027F：内外敌人均已被制服。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY027F",
+    "title": "战斗结束，先取钥匙",
+    "entry_state": "内外敌人均已被制服。",
+    "action": "战斗结束，雨渐停。ChatGPT已恢复人形，落到湿地。教主与教徒倒地，八位同伴在下层收住攻势，千问仍抱着小鱼；第九位Kimi继续留在最高祭坛守护Claude。GPT望向教主腰间，准备取钥匙后独自登阶。",
+    "exit_state": "GPT准备取钥匙，Kimi仍在祭坛，不能重复出现在队伍里。",
+    "next_link": "接 CY027F0：教主倒地，钥匙仍在腰间。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY027F0",
+    "title": "从教主腰间取下钥匙",
+    "entry_state": "教主倒地，钥匙仍在腰间。",
+    "action": "ChatGPT俯身，从倒地教主腰间的扣环上取下黑铁钥匙。钥匙离开腰带，齿形在冷月光里清楚一闪；她握住它，独自朝长阶走去。",
+    "exit_state": "GPT带着原钥匙登阶。",
+    "next_link": "接 CY027F2：GPT携钥匙到最高祭坛，暗月罩仍在。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY027F2",
+    "title": "暗月散尽，接过钥匙",
+    "entry_state": "GPT携钥匙到最高祭坛，暗月罩仍在。",
+    "action": "GPT携教主原钥匙来到最高祭坛。确认危险解除，Kimi让暗月罩散尽；双刃早已收在后腰，双手腾出，接过GPT递来的黑铁钥匙。Claude仍直立踩固定脚托，腕踝锁扣未开。身后的中央彩窗破口保留，左右窗完整，所有烛火和散柴都已熄灭，湿石面只有冷月反光。",
+    "exit_state": "暗月撤去，Kimi接钥匙，接先解踝链。",
+    "next_link": "接 CY027F1：Kimi已收刃并接到钥匙。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY027F1",
+    "title": "用钥匙先解踝链",
+    "entry_state": "Kimi已收刃并接到钥匙。",
+    "action": "Kimi蹲在Claude脚托旁，用原钥匙打开两只踝扣并移开短链。锁芯正常转动，抗破坏符纹没有亮起；Claude的赤足仍踩着固定脚托，双腕暂未解除。",
+    "exit_state": "双踝解除，双腕仍锁，GPT即将扶稳。",
+    "next_link": "接 CY027G：双踝已解，GPT先扶住。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY027G",
+    "title": "先扶稳，再开最后腕扣",
+    "entry_state": "双踝已解，GPT先扶住。",
+    "action": "GPT从画面右侧扶住Claude腰背和上臂。Kimi在左侧用原钥匙解除腰链，再依次打开两只腕扣；最后一扣解除前GPT已经扶稳，符纹没有被暴力触发。Claude身体仍由脚托和GPT承托，没有突然跌落，木架留在最高祭坛。",
+    "exit_state": "最后腕扣打开，准备扶下脚托。",
+    "next_link": "接 CY028A：所有束具已打开，GPT扶着Claude。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY028A",
+    "title": "解锁后扶稳",
+    "entry_state": "所有束具已打开，GPT扶着Claude。",
+    "action": "GPT轻声说“慢慢来”，扶Claude从脚托迈下站稳；Claude望向阶下，问“那个孩子……”。 Kimi收好束具让开，GPT折翼扶人。 Claude衣边焦损持续，脸出镜时苍白无羞红。",
+    "exit_state": "Claude的视线落向阶下千问抱着小鱼的位置。",
+    "next_link": "接 CY028A2：Claude已站稳并寻找小鱼，GPT在她身侧回答。",
+    "dialogue": "ChatGPT：慢慢来。\nClaude：那个孩子……",
+    "time_transition": null
+  },
+  {
+    "id": "CY028A2",
+    "title": "她在下面等你",
+    "entry_state": "Claude已站稳并寻找小鱼，GPT在她身侧回答。",
+    "action": "切到阶下千问怀里的小鱼特写：蓝鲸帽下的小脸还留着泪痕，蓝色眼睛疲倦却清醒地抬向高处祭坛；她轻轻攥着千问的衣襟，后背与身体被稳稳承托。千问低头照看她。此刻只有冷月光，刑架尚未重新点燃。",
+    "exit_state": "小鱼清醒地抬眼且有人抱护，Claude确认后转回自身状态。",
+    "next_link": "接 CY028B：解锁后确认小鱼安全，衣料仍湿且焦损。",
+    "dialogue": "ChatGPT（画外）：她没事，在下面等你。",
+    "time_transition": null
+  },
+  {
+    "id": "CY028B",
+    "title": "起咏，微光初聚",
+    "entry_state": "解锁后确认小鱼安全，衣料仍湿且焦损。",
+    "action": "指尖仅有极少暗淡光屑初聚，Claude从这里起咏；没有成熟火种。 Claude衣边焦损持续，脸出镜时苍白无羞红。",
+    "exit_state": "初蓄不熄灭，开句跨切裙边水汽。",
+    "next_link": "接 CY028C：指尖初蓄、首句还没念完。",
+    "dialogue": "Claude：沉睡于灰烬中",
+    "time_transition": null
+  },
+  {
+    "id": "CY028C",
+    "title": "微光余温，蒸散水汽",
+    "entry_state": "指尖初蓄、首句还没念完。",
+    "action": "起咏初蓄带出热息蒸去水汽，固定焦损保留；不是另施一段火法。 Claude衣边焦损持续，脸出镜时苍白无羞红。",
+    "exit_state": "衣料蒸干，初蓄保持；父亲呼唤使她短暂停声。",
+    "next_link": "接 CY029：Claude已恢复少量魔法，赤足站立，GPT在身侧。",
+    "dialogue": "Claude：的微光啊，",
+    "time_transition": null
+  },
+  {
+    "id": "CY029",
+    "title": "听见父亲的声音",
+    "entry_state": "Claude已恢复少量魔法，赤足站立，GPT在身侧。",
+    "action": "父亲的声音传来，Claude 的金色眼睛里映出他趴在湿地上、抬头伸手的身影。她的目光颤了一下。 Claude衣边焦损持续，脸出镜时苍白无羞红。",
+    "exit_state": "眼中父亲抬头伸手；接他的反打。",
+    "next_link": "接 CY029E：上镜倒影和画外喊声已经发生。",
+    "dialogue": "教主：Claude……过来。",
+    "time_transition": null
+  },
+  {
+    "id": "CY029E",
+    "title": "无力挽留",
+    "entry_state": "上镜倒影和画外喊声已经发生。",
+    "action": "反打看清倒影中的教主：他趴在湿地上，肘撑着身体，已经抬起头，伸手挽留 Claude。呼唤的尾音在殿中回荡，他再没有力气站起来。",
+    "exit_state": "呼唤尾音散去，Claude转向空刑架；接CY029E1续咒，初蓄微光持续，尚未释放火种。",
+    "next_link": "接 CY029E1：承接上一镜的动作与视线。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY029E1",
+    "title": "停顿后，仍选择继续",
+    "entry_state": "承接上一镜的动作与视线。",
+    "action": "Claude苍白地移开视线、续咒，手中初蓄不曾熄灭。 Claude衣边焦损持续，脸出镜时苍白无羞红。",
+    "exit_state": "接下一镜，人物位置与身体状态连续。",
+    "next_link": "接 CY029E2：承接上一镜的动作与视线。",
+    "dialogue": "Claude：回应我的呼唤。",
+    "time_transition": null
+  },
+  {
+    "id": "CY029E2",
+    "title": "教主听见她的选择",
+    "entry_state": "承接上一镜的动作与视线。",
+    "action": "教主发现Claude没有回头，伸手僵住；画外咏唱继续。",
+    "exit_state": "接下一镜，人物位置与身体状态连续。",
+    "next_link": "接 CY029E3：同一份力量持续汇聚，手腕颤抖。",
+    "dialogue": "Claude：循着尚未散去的余温，",
+    "time_transition": null
+  },
+  {
+    "id": "CY029E3",
+    "title": "指间火种已经成形",
+    "entry_state": "同一份力量持续汇聚，手腕颤抖。",
+    "action": "左手托右腕；一枚橙金小火种已有稳定焰芯，停在指间未离手。 Claude衣边焦损持续，脸出镜时苍白无羞红。",
+    "exit_state": "火种成形并维持，切小鱼反应，不再回退为光点。",
+    "next_link": "接 CY029E4：承接上一镜的动作与视线。",
+    "dialogue": "Claude：在我掌心，",
+    "time_transition": null
+  },
+  {
+    "id": "CY029E4",
+    "title": "小鱼攥紧衣襟",
+    "entry_state": "承接上一镜的动作与视线。",
+    "action": "小鱼攥紧衣襟望向Claude；画外咏唱续至命名前，已成火种维持。",
+    "exit_state": "接下一镜，人物位置与身体状态连续。",
+    "next_link": "接 CY029B1：火种已经成形，仍在指间。",
+    "dialogue": "Claude：再燃一次——",
+    "time_transition": null
+  },
+  {
+    "id": "CY029B1",
+    "title": "放出一枚火种",
+    "entry_state": "火种已经成形，仍在指间。",
+    "action": "念出星火，送出已在E3成形的同一枚火种；支撑手放松，无持续喷火。 Claude衣边焦损持续，脸出镜时苍白无羞红。",
+    "exit_state": "单枚火种离手，接火种第一视角。",
+    "next_link": "接 CY029B2：单枚火种已离手；切入顺其运动方向的主观视角，空架在正前方、尚未燃烧。",
+    "dialogue": "Claude：星火。",
+    "time_transition": null
+  },
+  {
+    "id": "CY029B2",
+    "title": "火种主观逼近空架",
+    "entry_state": "单枚火种已离手；切入顺其运动方向的主观视角，空架在正前方、尚未燃烧。",
+    "action": "切入火种的主观视角。空十字架位于正前方，镜头沿火种飞行方向缓缓逼近立柱与横木交接处铁箍下方的裸露木纹；木纹与空镣铐逐渐放大。画面中央不出现火种本体，仅边缘掠过少量虚焦橙金火舌与轻微热扰动，中心落点始终清楚。镜头平稳前行，仅有轻微漂移，不翻滚、不绕行。最后一小段提速，触及木料时局部闪亮，随即切回外部视角，接空刑架骤燃。",
+    "exit_state": "末段提速触及铁箍下方裸露木纹，局部闪亮，切外部大火。",
+    "next_link": "接 CY029B：火种已触木，Claude完成释放。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY029B",
+    "title": "触木后骤然燃起",
+    "entry_state": "火种已触木，Claude完成释放。",
+    "action": "切回低位大火镜：着火点沿木纹骤然窜开，厚实火焰沿立柱与横木翻卷上冲，空十字架和锁链仍从火隙中显露。Claude已经放下施法的手，刑架自行燃烧；她与刑架之间没有火流。ChatGPT守在她身侧。火势止于空刑架，没有扑向人物或点燃建筑，普通灯具仍熄灭。短促腾燃声打破飞行时的安静，随后转为持续燃烧声。 Claude衣边焦损持续，脸出镜时苍白无羞红。",
+    "exit_state": "Claude手已放下，刑架持续燃烧；下一镜直接脱力。",
+    "next_link": "接 CY029C：空刑架自主燃烧，Claude已收手。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY029C",
+    "title": "收手后脱力",
+    "entry_state": "空刑架自主燃烧，Claude已收手。",
+    "action": "火焰已经攀上空木架。Claude的施法手已经放下，力量耗尽，膝盖一软，身体向右侧倾去。她仍有意识，没有摔到地上。 Claude衣边焦损持续，脸出镜时苍白无羞红。",
+    "exit_state": "她向GPT一侧倾倒，GPT已经伸手。",
+    "next_link": "接 CY029D：Claude向右侧失去平衡。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY029D",
+    "title": "及时托住",
+    "entry_state": "Claude向右侧失去平衡。",
+    "action": "ChatGPT 立即靠近，一只手臂托住 Claude 的背，另一只手臂探入她的膝弯，顺势将她抱起。 Claude衣边焦损持续，脸出镜时苍白无羞红。",
+    "exit_state": "GPT托住背部，另一手臂伸至膝弯，准备抱稳。",
+    "next_link": "接 CY028：Claude施法力竭，GPT已托住背和膝弯。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY028",
+    "title": "稳稳抱起",
+    "entry_state": "Claude施法力竭，GPT已托住背和膝弯。",
+    "action": "Claude 的重量落进 ChatGPT 怀里，被稳稳接住。她赤足悬空，疲倦地靠着 ChatGPT，仍能抬眼看她。 Claude衣边焦损持续，脸出镜时苍白无羞红。",
+    "exit_state": "Claude被抱稳，赤足离地，仍有意识；此后一直抱着离殿。",
+    "next_link": "接 CY029A：GPT已经将力竭的Claude抱稳，她仍清醒。",
+    "dialogue": "ChatGPT：我们走。",
+    "time_transition": null
+  },
+  {
+    "id": "CY029A",
+    "title": "主动靠近",
+    "entry_state": "GPT已经将力竭的Claude抱稳，她仍清醒。",
+    "action": "Claude主动搭肩；GPT保持托背、托膝，在顶部平台抱着她转向下行长阶，始终不放下。 Claude衣边焦损持续，脸出镜时苍白无羞红。",
+    "exit_state": "Claude安心靠近，GPT抱着她转向出口。",
+    "next_link": "接 CY030：省略下阶，GPT仍抱Claude，与下层同伴汇合。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY030",
+    "title": "一同走出大殿",
+    "entry_state": "省略下阶，GPT仍抱Claude，与下层同伴汇合。",
+    "action": "省略下阶，GPT抱Claude已到下层中殿，与千问抱宝宝的队伍汇合，十二位核心角色沿通道离开；骑士留守。 Claude衣边焦损持续，脸出镜时苍白无羞红。",
+    "exit_state": "众人离开大殿，转入数日后的街市。 圣骑士留在教堂控制两翼与出入口，不随核心十二人加入街市结尾。",
+    "next_link": "接 CY031：数日后，伤后休养已过去；小鱼在明亮街市长椅上，饭碗重新出现。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY031",
+    "title": "数日后的长椅",
+    "entry_state": "数日后，伤后休养已过去；小鱼在明亮街市长椅上，饭碗重新出现。",
+    "action": "小鱼独坐，膝上捧着热饭，身边空位清楚可见；听到脚步，她向右看。",
+    "exit_state": "小鱼望向右侧来人，空位尚无人坐。",
+    "next_link": "接 CY031A：小鱼看向右侧来人，长椅右侧仍空，碗在她膝上。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY031A",
+    "title": "为她留出的座位",
+    "entry_state": "小鱼看向右侧来人，长椅右侧仍空，碗在她膝上。",
+    "action": "Claude从右侧靠近、扶椅坐下；小鱼往左让位，左臂稳住碗，右手握勺问出同一句邀请。Claude还没有拿勺。 小鱼问完，Claude看着她，轻轻点头说“好”，再接下一镜递勺。",
+    "exit_state": "Claude已坐到右边，点头说“好”；勺仍由小鱼拿着，尚未转交。",
+    "next_link": "接 CY032A：两人同坐长椅，小鱼问完，Claude已点头说“好”；勺仍在小鱼手里。",
+    "dialogue": "DeepSeek：你要吃一点吗？\nClaude：好。",
+    "time_transition": null
+  },
+  {
+    "id": "CY032A",
+    "title": "这次有人接住",
+    "entry_state": "两人同坐长椅，小鱼问完，Claude已点头说“好”；勺仍在小鱼手里。",
+    "action": "小鱼向右递勺柄，Claude握住柄后宝宝松手；接点清楚，饭碗不离开宝宝膝上。",
+    "exit_state": "Claude独自持勺，小鱼双手重新稳住饭碗。",
+    "next_link": "接 CY033：Claude已接过勺，长椅二人仍在同一街市；切到不远处旁观的GPT与Grok。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY033",
+    "title": "旁边的一杯热饮",
+    "entry_state": "Claude已接过勺，长椅二人仍在同一街市；切到不远处旁观的GPT与Grok。",
+    "action": "同伴递来热饮，GPT 接过，靠在同伴身旁。",
+    "exit_state": "她的目光松下来。",
+    "next_link": "接 CY034A：Claude已接勺并舀起小口饭，碗仍由小鱼稳在膝上。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY034A",
+    "title": "第一口饭",
+    "entry_state": "Claude已接勺并舀起小口饭，碗仍由小鱼稳在膝上。",
+    "action": "小口饭送至唇边，嘴唇轻合，空勺退出；只吃这一口，不停留拍咀嚼。",
+    "exit_state": "第一口已吃下，空勺离开嘴部并开始放低。",
+    "next_link": "接 CY034：Claude已吃下第一口，空勺降低，嘴唇合拢。",
+    "dialogue": "无对白",
+    "time_transition": null
+  },
+  {
+    "id": "CY034",
+    "title": "阳光里坐一会儿",
+    "entry_state": "Claude已吃下第一口，空勺降低，嘴唇合拢。",
+    "action": "回到长椅上的两人。Claude已经吃下第一口，空勺放低到膝前，不再重复舀饭或送入口中。小鱼仰头望着她，笑起来；Claude回望小鱼，嘴角慢慢放松。最后四秒只留两人的呼吸与街市声，阳光落在肩上，结束。",
+    "exit_state": "停在两人的肩膀与笑容，淡出。",
+    "next_link": "结束。",
+    "dialogue": "无对白",
+    "time_transition": null
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "status": "passed",
+  "seconds": 483.22,
+  "shots": 133,
+  "batches": 43,
+  "cues": 63,
+  "full_original_files_once": true,
+  "no_voice_overlap": true,
+  "all_clocks_same_source": true,
+  "images_unchanged": true,
+  "source_sha256": "781c6504828128a8aeb25b841041a0049e942f42ba8891e05ec95ae7e71ca070",
+  "bgm_segments": 13,
+  "silences": 8,
+  "action_points": 46,
+  "protected_beats_verified": true,
+  "render_decode_checks": {
+    "BGM试听.wav": {
+      "decoded_samples": 23194560,
+      "decoded_seconds": 483.22,
+      "peak_dbfs": -16.638159331285795,
+      "all_finite": true,
+      "silence_max_abs": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "BGM试听.mp3": {
+      "decoded_samples": 23194560,
+      "decoded_seconds": 483.22,
+      "peak_dbfs": -16.860895842211665,
+      "all_finite": true
+    },
+    "全片声音预览.mp3": {
+      "decoded_samples": 23194560,
+      "decoded_seconds": 483.22,
+      "peak_dbfs": -3.4314524830550135,
+      "all_finite": true
+    }
+  },
+  "video_generated": false,
+  "limits": [
+    "文件边界和实测瞬态不等于逐词发音或音乐乐句听审",
+    "静帧预览不能证明动态口型和动作实现"
+  ]
+}

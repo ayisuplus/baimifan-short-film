@@ -1,0 +1,400 @@
+{
+  "date": "2026-10-29",
+  "basis": "后期/局部收口-v008/后期执行计划.json",
+  "scope": "现有日语台词文本基线，不含作者下一轮改词、情绪标签、读音展开、试音、Voice Design、克隆、音效/BGM或账号已消耗额度",
+  "unique_lines": 63,
+  "timeline_voice_clips": 64,
+  "japanese_characters_including_punctuation": 722,
+  "chinese_translation_characters": 561,
+  "voice_clip_duration_seconds": 188.05742466666663,
+  "deduplication": "按对白id去重；VO-CY021A-01被剪成2片只计一次原文",
+  "estimate_assumption": "每输入字符1 credit的估算；实际模型、voice倍率与提交页为准，不包含免费重生成优惠",
+  "estimated_credits_by_full_pass": {
+    "1": 722,
+    "3": 2166,
+    "5": 3610,
+    "10": 7220
+  },
+  "account_balance_checked": false,
+  "generated": false,
+  "source_lines": [
+    {
+      "id": "VO-CY003-01",
+      "role": "小鱼",
+      "ja": "少し食べる？",
+      "characters": 6
+    },
+    {
+      "id": "VO-CY003B-01",
+      "role": "Claude",
+      "ja": "ありがとう。でも、私……",
+      "characters": 12
+    },
+    {
+      "id": "VO-CY004-01",
+      "role": "教徒",
+      "ja": "今宵、クロードを火の供物に。",
+      "characters": 14
+    },
+    {
+      "id": "VO-CY004D-01",
+      "role": "GPT",
+      "ja": "通してあげて。",
+      "characters": 7
+    },
+    {
+      "id": "VO-CY006-01",
+      "role": "小鱼",
+      "ja": "今夜、クロードが焼き殺されちゃう。助けてくれる？",
+      "characters": 24
+    },
+    {
+      "id": "VO-CY007-01",
+      "role": "GPT",
+      "ja": "教会のことに、関わるべきじゃない。",
+      "characters": 17
+    },
+    {
+      "id": "VO-CY008-01",
+      "role": "小鱼",
+      "ja": "でも……死んじゃうよ。",
+      "characters": 11
+    },
+    {
+      "id": "VO-CY008M-01",
+      "role": "恶魔GPT",
+      "ja": "協定を忘れないで。教会のことに手を出しちゃだめ。",
+      "characters": 24
+    },
+    {
+      "id": "VO-CY008M-02",
+      "role": "天使GPT",
+      "ja": "でも、この子を見てよ……あの人たち、正気なの？本当にクロードを焼き殺そうとしてるんだよ！",
+      "characters": 44
+    },
+    {
+      "id": "VO-CY009-01",
+      "role": "小鱼",
+      "ja": "じゃあ、自分で行く。",
+      "characters": 10
+    },
+    {
+      "id": "VO-CY010A-01",
+      "role": "教徒",
+      "ja": "こくじんの薪を、一人一本持ってこい。",
+      "characters": 18
+    },
+    {
+      "id": "VO-CY015-01",
+      "role": "Claude",
+      "ja": "どうしてここに？",
+      "characters": 8
+    },
+    {
+      "id": "VO-CY015-02",
+      "role": "小鱼",
+      "ja": "私が連れ出すよ。",
+      "characters": 8
+    },
+    {
+      "id": "VO-CY016A-01",
+      "role": "Claude",
+      "ja": "もういいから、早く逃げて。",
+      "characters": 13
+    },
+    {
+      "id": "VO-CY016A-02",
+      "role": "小鱼",
+      "ja": "あと一回だけ。",
+      "characters": 7
+    },
+    {
+      "id": "VO-CY016B1-01",
+      "role": "Claude",
+      "ja": "逃げて！",
+      "characters": 4
+    },
+    {
+      "id": "VO-CY021A-01",
+      "role": "教主／Claude的父亲",
+      "ja": "我が娘よ、神がお待ちだ。",
+      "characters": 12
+    },
+    {
+      "id": "VO-CY019-01",
+      "role": "教主／Claude的父亲",
+      "ja": "どけ。",
+      "characters": 3
+    },
+    {
+      "id": "VO-CY020-01",
+      "role": "Claude",
+      "ja": "その子に触らないで！",
+      "characters": 10
+    },
+    {
+      "id": "VO-CY021-01",
+      "role": "Claude",
+      "ja": "お父様……その子を逃がして。",
+      "characters": 14
+    },
+    {
+      "id": "VO-CY024-01",
+      "role": "GPT",
+      "ja": "二人を守って。",
+      "characters": 7
+    },
+    {
+      "id": "VO-CY024R-01",
+      "role": "Kimi",
+      "ja": "月の裏に潜む影よ、",
+      "characters": 9
+    },
+    {
+      "id": "VO-CY024K0-01",
+      "role": "Kimi",
+      "ja": "この刃の銀の光をたどり、",
+      "characters": 12
+    },
+    {
+      "id": "VO-CY024K0-02",
+      "role": "Kimi",
+      "ja": "彼方へと通じる扉を、我に開け——",
+      "characters": 16
+    },
+    {
+      "id": "VO-CY024K1A-01",
+      "role": "Kimi",
+      "ja": "月影渡り！",
+      "characters": 5
+    },
+    {
+      "id": "VO-CY026A-01",
+      "role": "GPT",
+      "ja": "センモン、人助けに付き合って。",
+      "characters": 15
+    },
+    {
+      "id": "VO-CY026A1-01",
+      "role": "千问",
+      "ja": "行きましょう。",
+      "characters": 7
+    },
+    {
+      "id": "VO-CY026B-01",
+      "role": "GPT",
+      "ja": "ジェミニ。",
+      "characters": 5
+    },
+    {
+      "id": "VO-CY026B-02",
+      "role": "Gemini",
+      "ja": "私も行く。",
+      "characters": 5
+    },
+    {
+      "id": "VO-CY026C-01",
+      "role": "GPT",
+      "ja": "グロック。",
+      "characters": 5
+    },
+    {
+      "id": "VO-CY026C-02",
+      "role": "Grok",
+      "ja": "もちろん。",
+      "characters": 5
+    },
+    {
+      "id": "VO-CY026D1-01",
+      "role": "GPT",
+      "ja": "キミ。クロードが危ない。",
+      "characters": 12
+    },
+    {
+      "id": "VO-CY026D-01",
+      "role": "GPT",
+      "ja": "正面で私が気を引く。祭壇の後ろのステンドグラスから入って、彼女を守って。",
+      "characters": 36
+    },
+    {
+      "id": "VO-CY026D-02",
+      "role": "Kimi",
+      "ja": "彼女は任せて。",
+      "characters": 7
+    },
+    {
+      "id": "VO-CY026E-01",
+      "role": "GPT",
+      "ja": "コンゲン、ラマ……みんな来て。",
+      "characters": 15
+    },
+    {
+      "id": "VO-CY024A0-01",
+      "role": "千问",
+      "ja": "つかまって。",
+      "characters": 6
+    },
+    {
+      "id": "VO-CY024A-01",
+      "role": "GPT",
+      "ja": "蒼穹の果てに座し、",
+      "characters": 9
+    },
+    {
+      "id": "VO-CY024A9-01",
+      "role": "GPT",
+      "ja": "幾千の深き流れを統べる、清き水の主よ、",
+      "characters": 19
+    },
+    {
+      "id": "VO-CY024A2-01",
+      "role": "GPT",
+      "ja": "この世に散らばる水の息吹を、",
+      "characters": 14
+    },
+    {
+      "id": "VO-CY024A3-01",
+      "role": "GPT",
+      "ja": "星々の下に浮かぶ、果てなき海へと集めよ。",
+      "characters": 20
+    },
+    {
+      "id": "VO-CY024A6-01",
+      "role": "GPT",
+      "ja": "厚き雲を岸に、風を導きに、",
+      "characters": 13
+    },
+    {
+      "id": "VO-CY024A6-02",
+      "role": "GPT",
+      "ja": "眠れる潮よ、うねり、押し寄せよ。",
+      "characters": 16
+    },
+    {
+      "id": "VO-CY024A7-01",
+      "role": "GPT",
+      "ja": "今こそ天を開き、大海を翻せ。",
+      "characters": 14
+    },
+    {
+      "id": "VO-CY024A4-01",
+      "role": "GPT",
+      "ja": "罪なき者を焼く炎を、奔流で鎮めよ。",
+      "characters": 17
+    },
+    {
+      "id": "VO-CY024A8-01",
+      "role": "GPT",
+      "ja": "我が道を阻む壁を、荒波に沈めよ！",
+      "characters": 16
+    },
+    {
+      "id": "VO-CY024A5-01",
+      "role": "GPT",
+      "ja": "清き水の主よ、汝の救済を、ここに——",
+      "characters": 18
+    },
+    {
+      "id": "VO-CY024A5-02",
+      "role": "GPT",
+      "ja": "そうりゅうてんけい！",
+      "characters": 10
+    },
+    {
+      "id": "VO-CY027A-01",
+      "role": "教主／Claude的父亲",
+      "ja": "不干渉条約を破ったな。",
+      "characters": 11
+    },
+    {
+      "id": "VO-CY027B-01",
+      "role": "GPT",
+      "ja": "うるさい。",
+      "characters": 5
+    },
+    {
+      "id": "VO-CY028A-01",
+      "role": "GPT",
+      "ja": "ゆっくりでいい。",
+      "characters": 8
+    },
+    {
+      "id": "VO-CY028A-02",
+      "role": "Claude",
+      "ja": "あの子は……",
+      "characters": 6
+    },
+    {
+      "id": "VO-CY028A2-01",
+      "role": "GPT",
+      "ja": "無事よ。下で待ってる。",
+      "characters": 11
+    },
+    {
+      "id": "VO-CY028B-01",
+      "role": "Claude",
+      "ja": "灰の中に眠る",
+      "characters": 6
+    },
+    {
+      "id": "VO-CY028C-01",
+      "role": "Claude",
+      "ja": "かすかな光よ、",
+      "characters": 7
+    },
+    {
+      "id": "VO-CY029-01",
+      "role": "教主／Claude的父亲",
+      "ja": "クロード……来なさい。",
+      "characters": 11
+    },
+    {
+      "id": "VO-CY029E1-01",
+      "role": "Claude",
+      "ja": "我が呼び声に応えよ。",
+      "characters": 10
+    },
+    {
+      "id": "VO-CY029E2-01",
+      "role": "Claude",
+      "ja": "まだ消えぬ温もりをたどり、",
+      "characters": 13
+    },
+    {
+      "id": "VO-CY029E3-01",
+      "role": "Claude",
+      "ja": "この手のひらで、",
+      "characters": 8
+    },
+    {
+      "id": "VO-CY029E4-01",
+      "role": "Claude",
+      "ja": "もう一度、燃えよ——",
+      "characters": 10
+    },
+    {
+      "id": "VO-CY029B1-01",
+      "role": "Claude",
+      "ja": "せいか。",
+      "characters": 4
+    },
+    {
+      "id": "VO-CY028-01",
+      "role": "GPT",
+      "ja": "行こう。",
+      "characters": 4
+    },
+    {
+      "id": "VO-CY031A-01",
+      "role": "小鱼",
+      "ja": "少し食べる？",
+      "characters": 6
+    },
+    {
+      "id": "VO-CY031A-02",
+      "role": "Claude",
+      "ja": "うん。",
+      "characters": 3
+    }
+  ]
+}

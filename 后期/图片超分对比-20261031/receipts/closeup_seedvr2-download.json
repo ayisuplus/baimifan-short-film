@@ -1,0 +1,1 @@
+{"schema": "envelope/1", "type": "envelope", "ok": true, "command": "download", "version": "1.22.0", "where": "local", "data": {"prompt_id": "c306b9e4-5f0a-433b-82a0-f2c23f4611d4", "urls": ["http://127.0.0.1:8188/view?filename=closeup_seedvr2_00001_.png&subfolder=Baimifan%5CUpscale_20261031&type=output"]}, "error": null}

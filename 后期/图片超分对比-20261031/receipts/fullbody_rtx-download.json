@@ -1,0 +1,1 @@
+{"schema": "envelope/1", "type": "envelope", "ok": true, "command": "download", "version": "1.22.0", "where": "local", "data": {"prompt_id": "b3f309d7-dd80-4331-ab8e-ac9c2a511b36", "urls": ["http://127.0.0.1:8188/view?filename=fullbody_rtx_00001_.png&subfolder=Baimifan%5CUpscale_20261031&type=output"]}, "error": null}

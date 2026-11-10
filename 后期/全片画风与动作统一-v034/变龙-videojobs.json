@@ -1,0 +1,56 @@
+[
+  {
+    "name": "086b-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\086b-key-r1_00001_.png",
+    "key_review": "pass",
+    "prompt": "Animate this exact hand-drawn Japanese gothic anime frame. Preserve ink contours, hard-edged cel shadows, matte skin and painted architecture; no CGI, photoreal rendering, orbit, random zoom, extra limbs, costume change or unrelated cut. GPT takes one controlled breath, raises her chin and delivers a short firm reply. Her gaze stays on the priest; her expression tightens into resolve at the end. Fixed close view, a single restrained performance, no smiling turn to camera.",
+    "frames": 72,
+    "seed": 202610304901
+  },
+  {
+    "name": "086d-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\086d-key-r1_00001_.png",
+    "key_review": "pass",
+    "prompt": "Animate this exact hand-drawn Japanese gothic anime frame. Preserve ink contours, hard-edged cel shadows, matte skin and painted architecture; no CGI, photoreal rendering, orbit, random zoom, extra limbs, costume change or unrelated cut. The red-haired priest compresses his grounded crouch for a brief anticipation, snaps his two BLACK feathered wings down once, and pushes off both boots from the wet floor. His robe trails down. A single strong upward takeoff; follow slightly up only after his boots leave the floor. Keep the restrained gold edge on the black wings. No extra wings or repeated jump.",
+    "frames": 60,
+    "seed": 202610304903
+  },
+  {
+    "name": "087-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\087-key-r1_00001_.png",
+    "key_review": "pass",
+    "prompt": "Animate this exact hand-drawn Japanese gothic anime frame. Preserve ink contours, hard-edged cel shadows, matte skin and painted architecture; no CGI, photoreal rendering, orbit, random zoom, extra limbs, costume change or unrelated cut. The white-violet dragon draws its head back briefly, then lunges toward the black-winged priest. He banks upward to meet it and both disappear into the dark cloud edge beyond the spires. Keep their starting sides and closing directions readable. Camera holds wide for scale, a short follow toward the cloud only, no orbit and no repeated circling.",
+    "frames": 72,
+    "seed": 202610304905
+  },
+  {
+    "name": "088-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\088-key-r1_00001_.png",
+    "key_review": "pass",
+    "prompt": "Animate this exact hand-drawn Japanese gothic anime frame. Preserve ink contours, hard-edged cel shadows, matte skin and painted architecture; no CGI, photoreal rendering, orbit, random zoom, extra limbs, costume change or unrelated cut. The tired child looks upward toward the roof opening and clutches Qianwen robe once. A faint white-violet flash crosses her eyes, then she tucks slightly closer into the supporting arm. Fixed close shot, tiny breathing, no repeated blink loop and no sudden smile.",
+    "frames": 72,
+    "seed": 202610304906
+  },
+  {
+    "name": "089-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\089-key-r1_00001_.png",
+    "key_review": "pass",
+    "prompt": "Animate this exact hand-drawn Japanese gothic anime frame. Preserve ink contours, hard-edged cel shadows, matte skin and painted architecture; no CGI, photoreal rendering, orbit, random zoom, extra limbs, costume change or unrelated cut. Begin by letting the visible white-violet lightning peak fade quickly into dark painted cloud layers. Hold a short dark beat, then one smaller irregular white-violet pulse travels behind the clouds and fades. Thin diagonal drawn rain begins. Fixed wide view of spires; no new creature, fire, blast ball, repeated explosion, camera orbit or pulsing loop. This is an ellipsis of the aerial battle, not a newly expanded fight.",
+    "frames": 96,
+    "seed": 202610304907
+  },
+  {
+    "name": "092b-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\092b-key-r1_00001_.png",
+    "key_review": "pass",
+    "prompt": "Animate this exact hand-drawn Japanese gothic anime frame. Preserve ink contours, hard-edged cel shadows, matte skin and painted architecture; no CGI, photoreal rendering, orbit, random zoom, extra limbs, costume change or unrelated cut. GPT stands beside the fallen priest in her single restored human form. She looks down at his face, holding one short cold assessing beat, then shifts her gaze to the belt. She bends one knee and lowers herself to reach toward his waist. Her two membranous wings fold closer to her back, one tail stays low and clear of him. End before the fingers touch the key, for a clean cut to the detail. Controlled low camera follows the descent slightly; no victory pose, smile, duplicate GPT or costume change.",
+    "frames": 84,
+    "seed": 202610304912
+  }
+]

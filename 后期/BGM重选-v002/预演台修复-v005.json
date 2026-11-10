@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-24",
+  "version": "v005",
+  "source_unchanged": {
+    "shot-data": true,
+    "music-data": true
+  },
+  "shots": 115,
+  "seconds": 381,
+  "range_checks": [
+    {
+      "range": "bytes=1000-1999",
+      "method": "GET",
+      "status": 206,
+      "content_range": "bytes 1000-1999/4088181",
+      "exact_bytes": true
+    },
+    {
+      "range": "bytes=-1024",
+      "method": "GET",
+      "status": 206,
+      "content_range": "bytes 4087157-4088180/4088181",
+      "exact_bytes": true
+    },
+    {
+      "range": "bytes=4088000-",
+      "method": "GET",
+      "status": 206,
+      "content_range": "bytes 4088000-4088180/4088181",
+      "exact_bytes": true
+    },
+    {
+      "range": "bytes=20-29",
+      "method": "HEAD",
+      "status": 206,
+      "content_range": "bytes 20-29/4088181",
+      "exact_bytes": true
+    },
+    {
+      "range": "beyond end",
+      "status": 416
+    }
+  ],
+  "browser": {
+    "actual_pointer_drag": {
+      "target_seconds": 237.6,
+      "later_seconds": 259.655401,
+      "paused": false
+    },
+    "paused_seek": {
+      "seconds": 48.7,
+      "paused": true
+    },
+    "quick_shot": {
+      "from": "CY022B2",
+      "to": "CY007",
+      "music_continues": "BGM-CY-NA-11",
+      "visible_candidates": 3
+    },
+    "track_change_layout": {
+      "shot": "CY022B2",
+      "scroll_y_before": 1322.7777099609375,
+      "scroll_y_after": 1322.7777099609375,
+      "panel_height_before": 930.1388549804688,
+      "panel_height_after": 930.1388549804688,
+      "image_unchanged": true
+    },
+    "track_resume": {
+      "music": "BGM-CY-NA-11",
+      "restored_clock_visible": "00:56 / 08:07"
+    },
+    "mobile": {
+      "viewport": 390,
+      "client_width": 375,
+      "scroll_width": 375
+    },
+    "selection_time_CY026B": "02:56",
+    "ended_track_return": {
+      "music": "BGM-CY-MT-89",
+      "first_ended_at": 120.727007,
+      "switch_to": "BGM-CY-LR-05",
+      "switch_back_playing_at": 8.949165,
+      "ended": false,
+      "paused": false
+    },
+    "console_errors_final": []
+  },
+  "review": "Independent read-only agent review completed; ended-track resume regression corrected and browser verified.",
+  "scope": "Playback behavior only; music aesthetic/adoption not reviewed.",
+  "screenshot": "后期/BGM重选-v002/预演台-快捷选择-v005.png"
+}

@@ -1,0 +1,45 @@
+{
+  "line_id": "VO-CY028-01",
+  "role": "GPT",
+  "line": {
+    "id": "VO-CY028-01",
+    "role": "GPT",
+    "previous_batch": 41,
+    "previous_record_frame": 10708,
+    "previous_ja": "行こう。",
+    "previous_zh": "我们走。",
+    "previous_audio_duration_seconds": 0.8800000000000333,
+    "status": "retained_in_draft",
+    "ja": "行こう。",
+    "zh_back_translation": "我们走。",
+    "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+    "reading_hints": {},
+    "voice_role": "GPT",
+    "performance_direction_v004": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+    "tts_reading_text": "行こう。",
+    "voice_asset": "GPT",
+    "timeline_adopted": false,
+    "performance_acceptance": "逐句表演与准确性待验收；作者已确认声线",
+    "audio_state": "needs_recording"
+  },
+  "voice_id": "tsunTpzA4d2kBihHrZ2R",
+  "voice_source": "selected v004 candidate 1",
+  "body": {
+    "text": "行こう。",
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "ja"
+  },
+  "status": "saved_pending_review",
+  "author_performance_accepted": false,
+  "request_id": "t9puHB4tu9u3FMGsOcfi",
+  "character_cost_header": "4",
+  "file": "声音/缺口补齐-v008/VO-CY028-01__GPT.mp3",
+  "bytes": 13835,
+  "sha256": "b05fb81e71cc4e7b4feda2811c8abd57a1f7305978f1594418e4167d72efd41b",
+  "media": {
+    "format": {
+      "duration": "0.789478"
+    }
+  },
+  "decode_ok": true
+}

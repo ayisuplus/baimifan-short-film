@@ -1,0 +1,47 @@
+{
+  "batch": {
+    "attempt_id": "CY022-v014-hand-release-r2",
+    "batch_number": 15,
+    "batch_id": "GB015",
+    "shot_id": "CY022-v014-hand-release-r2",
+    "duration": 4,
+    "prompt": "精细日式二维动画电影，保持参考的细线稿、赛璐璐阴影、脸部比例和原衣纹。不要3D建模、塑料皮肤、过度柔光或简化卡通。16:9，单镜，固定机位，无对白、字幕或音乐。只拍参考中教主正在施法的手及黑金袖口的极近特写。画面从肘部到指尖，脸、孩子、另一只手全部在画外。冷蓝教堂窗虚化。0至0.5秒，掌前已有小琥珀光核；0.5至1秒，手掌短促向画面左边推出，光核成为细直光束向左出画；1至2秒光束消失，手掌仍前伸，袖口随惯性摆动；2至4秒保留出掌后的余势。光始终来自唯一可见的同一只手，另一只手绝不入镜。光束水平直行，不向地面下落，不出现被击中的人物。",
+    "references": [
+      {
+        "path": "视频制作/Metaso-H3-v013/参考/CY022-R1-聚术首帧-r1.png",
+        "sha256": "02bf5eec8f727230ebd519daab95d30ef52dce789392bd3d46bcb4dd41ad8ee5",
+        "role": "reference_image",
+        "purpose": "原冻结图，只取教主袖口和正在发光的同一只手；小鱼不在新特写构图内",
+        "visually_reviewed": true
+      }
+    ],
+    "estimated_credits": 40.8,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "全景易换手，改唯一单手特写明确离掌，后接截击",
+    "repair_of": "v010 church continuity review",
+    "quality_gate": "identity/style and full contact action independently inspected before adoption"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "精细日式二维动画电影，保持参考的细线稿、赛璐璐阴影、脸部比例和原衣纹。不要3D建模、塑料皮肤、过度柔光或简化卡通。16:9，单镜，固定机位，无对白、字幕或音乐。只拍参考中教主正在施法的手及黑金袖口的极近特写。画面从肘部到指尖，脸、孩子、另一只手全部在画外。冷蓝教堂窗虚化。0至0.5秒，掌前已有小琥珀光核；0.5至1秒，手掌短促向画面左边推出，光核成为细直光束向左出画；1至2秒光束消失，手掌仍前伸，袖口随惯性摆动；2至4秒保留出掌后的余势。光始终来自唯一可见的同一只手，另一只手绝不入镜。光束水平直行，不向地面下落，不出现被击中的人物。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115678936394723328"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 4,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者要求直接修复教堂段，密塔剩余额度优先，不足转本地ComfyUI；现余额971.3，经控制台实时核实。保留历史，不充值，不导出。"
+}

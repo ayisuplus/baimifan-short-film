@@ -1,0 +1,45 @@
+{
+  "id": "BGM-CY-FZ-18",
+  "bvid": "BV1Vx411G7kG",
+  "part": 18,
+  "title": "assassin",
+  "display_title": "暗杀者",
+  "work": "Fate/Zero",
+  "composer": "梶浦由記",
+  "source_page_title": "assassin",
+  "navigation_translation": "中文译名仅供本项目导航；保留原曲名与来源分P。",
+  "cid": 23944304,
+  "source": "https://www.bilibili.com/video/BV1Vx411G7kG/?p=18",
+  "uploader": "天使动漫",
+  "video_title": "【Fate/Zero】OST原声集完全版 / 音乐：梶浦由記",
+  "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-18.m4a",
+  "bytes": 3923317,
+  "sha256": "95e3957446981e1c12ad849fbf06a6302804e68e509ad47c5f03d03012f2df35",
+  "duration": 160.425306,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "194216"
+      }
+    ],
+    "format": {
+      "duration": "160.425306"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "AAC stream copied from retained public muxed video with ffmpeg -vn -c:a copy; no re-encoding, cuts, pitch, speed or gain changes.",
+  "source_media": {
+    "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-18-source.mp4",
+    "bytes": 4327777,
+    "sha256": "aa762dff88497f0c70bc6a88cd574b61bcea6a4f08f133e021428b1a90b1e94a"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "source_preserved": "132镜顺序/时长/图片/历史提示词/生成请求与台词原词一致",
+  "coverage": 132,
+  "batches": 33,
+  "prompt_count": 66,
+  "negative_cases": [
+    "missing rejected",
+    "duplicate rejected",
+    "continuous line split rejected"
+  ],
+  "bridge_count": 1,
+  "no_media_generated": true
+}

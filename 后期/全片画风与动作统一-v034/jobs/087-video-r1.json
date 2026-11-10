@@ -1,0 +1,9 @@
+{
+  "name": "087-video-r1",
+  "type": "video",
+  "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\087-key-r1_00001_.png",
+  "key_review": "pass",
+  "prompt": "Animate this exact hand-drawn Japanese gothic anime frame. Preserve ink contours, hard-edged cel shadows, matte skin and painted architecture; no CGI, photoreal rendering, orbit, random zoom, extra limbs, costume change or unrelated cut. The white-violet dragon draws its head back briefly, then lunges toward the black-winged priest. He banks upward to meet it and both disappear into the dark cloud edge beyond the spires. Keep their starting sides and closing directions readable. Camera holds wide for scale, a short follow toward the cloud only, no orbit and no repeated circling.",
+  "frames": 72,
+  "seed": 202610304905
+}

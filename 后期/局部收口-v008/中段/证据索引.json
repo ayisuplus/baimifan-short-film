@@ -1,0 +1,23 @@
+[
+  {
+    "id": "B17-v010",
+    "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v010\\产物\\GB014-v010-original-shot-only-r1.mp4",
+    "sha256": "9e50e9d6ab729b3b16dd5481d19da5e9acba1425c142b47ca31b10966b680c59",
+    "sampled_frames": 120,
+    "fps": 24
+  },
+  {
+    "id": "B17-v011",
+    "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v011\\产物\\GB014-v011-original-2d-group-r1.mp4",
+    "sha256": "5299382340932ddcd6a6494a5669551f6fcb73168f48d14dc52bf5eb40b5d672",
+    "sampled_frames": 120,
+    "fps": 24
+  },
+  {
+    "id": "B26",
+    "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB019-v002.mp4",
+    "sha256": "829a7eb08090a01a840bfbf3e4694c1fb8e2065c6dda6e86e8cd773b47cf203d",
+    "sampled_frames": 108,
+    "fps": 24
+  }
+]

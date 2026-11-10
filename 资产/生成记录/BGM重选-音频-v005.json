@@ -1,0 +1,247 @@
+{
+  "version": "v005",
+  "date": "2026-10-24",
+  "music": [
+    {
+      "id": "BGM-CY-AC2-06",
+      "bvid": "BV1TQ4y1L7tR",
+      "part": 6,
+      "title": "Approaching Target 1",
+      "display_title": "接近目标 1",
+      "work": "刺客信条 II",
+      "composer": "Jesper Kyd",
+      "source_page_title": "【OST & 游戏原声带】歌名：《接近目标1》（Approaching Target 1)",
+      "navigation_translation": "中文名称用于导航，原曲名及分P标题保留。",
+      "cid": 1412447260,
+      "source": "https://www.bilibili.com/video/BV1TQ4y1L7tR/?p=6",
+      "uploader": "南门梦灵",
+      "video_title": "【刺客信条OST】《刺客信条2》游戏原声音乐合集（OST+网络歌曲+游戏原声带）",
+      "path": "资产/声音/BGM/重选-v005/BGM-CY-AC2-06.m4a",
+      "bytes": 4890421,
+      "sha256": "5a7b2330250000d22980440dfe350370af65a3c717182ee9710bc4a9023932ed",
+      "duration": 220.543667,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bit_rate": "157484"
+          }
+        ],
+        "format": {
+          "duration": "220.543667"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-AC2-28",
+      "bvid": "BV1TQ4y1L7tR",
+      "part": 28,
+      "title": "Night Mission in Venice",
+      "display_title": "威尼斯夜间任务",
+      "work": "刺客信条 II",
+      "composer": "Jesper Kyd",
+      "source_page_title": "【OST & 游戏原声带】歌名：《潜入黑夜-威尼斯》（Night Mission in Venice）",
+      "navigation_translation": "中文名称用于导航，原曲名及分P标题保留。",
+      "cid": 31793285184,
+      "source": "https://www.bilibili.com/video/BV1TQ4y1L7tR/?p=28",
+      "uploader": "南门梦灵",
+      "video_title": "【刺客信条OST】《刺客信条2》游戏原声音乐合集（OST+网络歌曲+游戏原声带）",
+      "path": "资产/声音/BGM/重选-v005/BGM-CY-AC2-28.m4a",
+      "bytes": 1396297,
+      "sha256": "6b70e2eb4df8724a372f7c1c706df0fc8c58d7175b977a43ce21e427e245ff90",
+      "duration": 134.527667,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bit_rate": "74356"
+          }
+        ],
+        "format": {
+          "duration": "134.527667"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-AC2-19",
+      "bvid": "BV1TQ4y1L7tR",
+      "part": 19,
+      "title": "Sanctuary",
+      "display_title": "庇护所",
+      "work": "刺客信条 II",
+      "composer": "Jesper Kyd",
+      "source_page_title": "【OST & 游戏原声带】歌名：《庇护所》（Sanctuary)",
+      "navigation_translation": "中文名称用于导航，原曲名及分P标题保留。",
+      "cid": 1421771017,
+      "source": "https://www.bilibili.com/video/BV1TQ4y1L7tR/?p=19",
+      "uploader": "南门梦灵",
+      "video_title": "【刺客信条OST】《刺客信条2》游戏原声音乐合集（OST+网络歌曲+游戏原声带）",
+      "path": "资产/声音/BGM/重选-v005/BGM-CY-AC2-19.m4a",
+      "bytes": 5984352,
+      "sha256": "ca19b1f6d65dcc12cb76d5f6c6788e9d3efc063cc1b5062b13b8d372e5c81319",
+      "duration": 248.277,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bit_rate": "164915"
+          }
+        ],
+        "format": {
+          "duration": "248.277000"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-AC2-13",
+      "bvid": "BV1TQ4y1L7tR",
+      "part": 13,
+      "title": "Dreams of Venice",
+      "display_title": "威尼斯之梦",
+      "work": "刺客信条 II",
+      "composer": "Jesper Kyd",
+      "source_page_title": "【OST & 游戏原声带】歌名：《威尼斯之梦》（Dreams of Venice）",
+      "navigation_translation": "中文名称用于导航，原曲名及分P标题保留。",
+      "cid": 1415550581,
+      "source": "https://www.bilibili.com/video/BV1TQ4y1L7tR/?p=13",
+      "uploader": "南门梦灵",
+      "video_title": "【刺客信条OST】《刺客信条2》游戏原声音乐合集（OST+网络歌曲+游戏原声带）",
+      "path": "资产/声音/BGM/重选-v005/BGM-CY-AC2-13.m4a",
+      "bytes": 6270388,
+      "sha256": "a1641e789464ddc020f81484ad1f39fe7d58ac89fda493424b9e3ffe20f9c849",
+      "duration": 266.346333,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bit_rate": "186755"
+          }
+        ],
+        "format": {
+          "duration": "266.346333"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-LR3-09",
+      "bvid": "BV1az4y1272D",
+      "part": 9,
+      "title": "Cirith Ungol",
+      "display_title": "西力斯昂哥",
+      "work": "指环王3：王者归来",
+      "composer": "Howard Shore",
+      "source_page_title": "09-Cirith Ungol",
+      "navigation_translation": "中文名称用于导航，原曲名及分P标题保留。",
+      "cid": 300273078,
+      "source": "https://www.bilibili.com/video/BV1az4y1272D/?p=9",
+      "uploader": "xtrikil",
+      "video_title": "【电影音乐】指环王3：王者归来-原声合集",
+      "path": "资产/声音/BGM/重选-v005/BGM-CY-LR3-09.m4a",
+      "bytes": 878611,
+      "sha256": "cc508e0a812083b4ad7eca101f0959ebc05e03ff9815485718da868726bdf115",
+      "duration": 104.396689,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "66953"
+          }
+        ],
+        "format": {
+          "duration": "104.396689"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-LR3-06",
+      "bvid": "BV1az4y1272D",
+      "part": 6,
+      "title": "Minas Morgul",
+      "display_title": "米那斯魔窟",
+      "work": "指环王3：王者归来",
+      "composer": "Howard Shore",
+      "source_page_title": "06-Minas Morgul",
+      "navigation_translation": "中文名称用于导航，原曲名及分P标题保留。",
+      "cid": 300273100,
+      "source": "https://www.bilibili.com/video/BV1az4y1272D/?p=6",
+      "uploader": "xtrikil",
+      "video_title": "【电影音乐】指环王3：王者归来-原声合集",
+      "path": "资产/声音/BGM/重选-v005/BGM-CY-LR3-06.m4a",
+      "bytes": 993379,
+      "sha256": "cd4b0dab6fa898a87c21a2e54993ea006ca2274f4d07baeaad08ac822bfc584e",
+      "duration": 118.096463,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "66890"
+          }
+        ],
+        "format": {
+          "duration": "118.096463"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    }
+  ],
+  "listening_status": "Technical decoding validated; shot assignments are audition hypotheses for author comparison."
+}

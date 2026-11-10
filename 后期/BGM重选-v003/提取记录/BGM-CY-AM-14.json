@@ -1,0 +1,40 @@
+{
+  "id": "BGM-CY-AM-14",
+  "bvid": "BV1HW41187A4",
+  "part": 14,
+  "title": "Taboo Gimmick",
+  "display_title": "禁忌机关",
+  "work": "魔法使的新娘",
+  "composer": "松本淳一",
+  "source_page_title": "Taboo Gimmick",
+  "navigation_translation": "中文曲名为导航释义；原名保留。",
+  "cid": 28511851,
+  "source": "https://www.bilibili.com/video/BV1HW41187A4/?p=14",
+  "uploader": "天使动漫",
+  "video_title": "【魔法使的新娘】OST原声集正式版 插曲收录",
+  "path": "资产/声音/BGM/重选-v003/BGM-CY-AM-14.m4a",
+  "bytes": 2261203,
+  "sha256": "ad40424c66c19b99100850c7d214d509e97091c440a64466b2e829ab63f85b00",
+  "duration": 136.1485,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "bit_rate": "131967"
+      }
+    ],
+    "format": {
+      "duration": "136.148500"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

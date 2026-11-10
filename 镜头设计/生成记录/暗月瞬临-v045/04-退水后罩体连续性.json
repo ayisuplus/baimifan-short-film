@@ -1,0 +1,38 @@
+[
+  {
+    "id": "CY024A1",
+    "rev": 2,
+    "refs": [
+      "镜头设计/图像/暗月瞬临-v045/CY024A1-v045-r1.png",
+      "镜头设计/图像/暗月瞬临-v045/CY024K4-v045-r1.png"
+    ],
+    "prompt": "LOCAL BACKGROUND ONLY repair reference1. Keep every character pixel/composition, two weapons, hands, face, exact clothing, all ankle/wristcuffs and footrest. Replace the distracting rectangular BRICKLIKE seams/grid in darkbackground with the SAME smoothly flowing opaque navy inner magic membrane as reference2. Seamless softly blurred curved darkness, no tilelines, no horizontal vertical grid, no architecture, no outsideworld, no transparency or starfield. Keep actual stone FLOOR unchanged, but wallabovefloor is flowing magic NOT bricks. No other changes. 16:9 sameanime, no text."
+  },
+  {
+    "id": "CY027",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/展翼与扇叶-v033/CY027-v033-r1.png",
+      "镜头设计/图像/暗月瞬临-v045/CY024K3-v045-r1.png"
+    ],
+    "prompt": "BACKGROUND CONTINUITY edit reference1. Preserve all foreground people (GPT dragonleft, priestmiddle, motherwithchildright), camera, cathedral, destroyed central nave roof, water, stairs. On distant highestaltar at topcenter, replace visible Claude/cross with one grounded totally OPAQUE darkindigo shadowdome, same shell material/ref2, scaled to contain cross and two women, not hugebuilding. NO figures/cross visible through dome or protrudingtop. Kimi and Claude both inside. Entire shell dark with narrow moonlit rim, no lightsymbols.\nDirectly behind this faraltar correct CENTRAL highwindow: prominent verticallyragged missing upperglass, attachedbluefragments at bottom, outerstoneframe intact. LEFT/RIGHTwindows remain intact. Preserve rearapse vault (central nave roof alreadybroken). No second floating moon inside window if currentmoon overhead outside roof; missingglass simplydarknight. No fires, no hoveringglass, glassdebrisrests nearrearwall. Everything else unchanged. 16:9 anime no text."
+  },
+  {
+    "id": "CY027A",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/天瀑空间-v014/CY027A-v014-r2.png",
+      "镜头设计/图像/暗月瞬临-v045/CY024K3-v045-r1.png"
+    ],
+    "prompt": "Precisely edit ONLY distant highestaltar/backwindow in reference1. Preserve main foreground/middleground characters, their faces, sizes, poses, clothing, golden priest, white dragon GPT, camera perspective, wetstairs, columnarchitecture and all scene elements. Faraltar must have OPAQUE darkindigo magicdome as ref2 covering fullcross and two unseenwomen; NO Claude/cross silhouette readable through it. Match smallfaraltar scale, no giant orb. CENTRAL highwindow directly behind altar has broad jagged vertical missing glassarea and remainingbluebottomteeth, stoneframe intact; sidewindows intact. No leftwindowhole. Allfiresout. Do not change dialogue, do not add people. 16:9 anime no text."
+  },
+  {
+    "id": "CY027D",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/月刃救援-v041/CY027D-v041-r1.png",
+      "镜头设计/图像/暗月瞬临-v045/CY024K3-v045-r1.png"
+    ],
+    "prompt": "Precise distant-background edit of reference1 only. Preserve EXACT eight foregroundallies including purplehaired woman holding smallblue girl, knightformations, all faces/weapons/costumes/counts/poses, wetstairs and architecturalperspective. At verytop altar replace the clearbubble and visible cross/Claude/Kimi with one small fullyOPAQUE deepindigo darkmoon dome fromref2: it contains bothwomen and wholecross but viewer sees NO people/cross through shell. No brightbubbleoutline. Behindaltar, restore former small LEFTwindowhole to intactblueglass; move brokenarea to CENTRAL highwindow immediately behinddome, verticallyjagged withblueglassremnants/outerframeintact. Maincentralnave roof alreadybroken, preserve. No hoveringglass, no litfires. No other edits, no text, same16:9 anime."
+  }
+]

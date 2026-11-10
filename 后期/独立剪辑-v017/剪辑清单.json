@@ -1,0 +1,111 @@
+{
+  "fps": 24,
+  "frames": 666,
+  "duration": 27.75,
+  "segments": [
+    {
+      "file": "01_登阶与守卫放行.mp4",
+      "frames": 234,
+      "sha256": "4857aef37fe3806b7641a41fdde32aed2a1e4dc8e90e2741a7371e06fe65f512"
+    },
+    {
+      "file": "02_俯拍行进与亮灯.mp4",
+      "frames": 96,
+      "sha256": "d28a88ffc50fd2390ce6ad9dcb699797716ecd034505b56dc84737e3d12bbf90"
+    },
+    {
+      "file": "03_接小鱼与GPT对话.mp4",
+      "frames": 336,
+      "sha256": "d3ee9e898b156cc940018237a7fba536bfb445128e60ad678a5ff386f16bdc03"
+    }
+  ],
+  "edits": [
+    {
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\逐镜修订-v012\\第三批\\长阶恢复\\长阶原片取景-48帧.mp4",
+      "source_start": 0,
+      "frames": 48,
+      "speed": 100.0,
+      "baseline_start": 682,
+      "group": "01_登阶与守卫放行",
+      "lut": "stair"
+    },
+    {
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v015\\产物\\GB003-v015-guards-night-r2.mp4",
+      "source_start": 24,
+      "frames": 120,
+      "speed": 100.0,
+      "baseline_start": 730,
+      "group": "01_登阶与守卫放行",
+      "lut": "gate"
+    },
+    {
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v015\\产物\\GB003-v015-guards-night-r2.mp4",
+      "source_start": 168,
+      "frames": 66,
+      "speed": 100.0,
+      "baseline_start": 850,
+      "group": "01_登阶与守卫放行",
+      "lut": "gate"
+    },
+    {
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB004-H3-v001.mp4",
+      "source_start": 0,
+      "frames": 124,
+      "speed": 100.0,
+      "baseline_start": 946,
+      "group": "03_接小鱼与GPT对话",
+      "lut": "dialogue"
+    },
+    {
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB004-H3-v001.mp4",
+      "source_start": 71,
+      "frames": 27,
+      "speed": 66.66666666666666,
+      "baseline_start": 1070,
+      "group": "03_接小鱼与GPT对话",
+      "lut": "dialogue"
+    },
+    {
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB004-H3-v001.mp4",
+      "source_start": 151,
+      "frames": 83,
+      "speed": 100.0,
+      "baseline_start": 1097,
+      "group": "03_接小鱼与GPT对话",
+      "lut": "dialogue"
+    },
+    {
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB004-H3-v001.mp4",
+      "source_start": 252,
+      "frames": 18,
+      "speed": 100.0,
+      "baseline_start": 1180,
+      "group": "03_接小鱼与GPT对话",
+      "lut": "dialogue"
+    },
+    {
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB004-H3-v001.mp4",
+      "source_start": 270,
+      "frames": 84,
+      "speed": 78.57142857142857,
+      "baseline_start": 1198,
+      "group": "03_接小鱼与GPT对话",
+      "lut": "dialogue"
+    },
+    {
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v016\\产物\\CY005L-v016-high-angle-r2.mp4",
+      "source_start": 0,
+      "frames": 96,
+      "speed": 100,
+      "group": "02_俯拍行进与亮灯",
+      "note": "cut before final deeper stair ascent; omit old 30-frame approach to avoid duplicate arrival"
+    }
+  ],
+  "source_snapshot": "后期/宫殿调色-v014/after.json",
+  "resolve_accessed": false,
+  "bgm_and_subtitle_originals_untouched": true,
+  "preview_contains_bgm": false,
+  "preview_contains_subtitles": false,
+  "voice_source_speed_preserved": true,
+  "note": "Independent shot review, not a final film export; original timeline not touched."
+}

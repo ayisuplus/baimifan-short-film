@@ -1,0 +1,40 @@
+{
+  "id": "BGM-CY-TS-07",
+  "bvid": "BV1dV411Y7Ku",
+  "part": 7,
+  "title": "Archangel",
+  "display_title": "大天使",
+  "work": "Two Steps From Hell",
+  "composer": "Two Steps From Hell",
+  "source_page_title": "Archangel",
+  "navigation_translation": "中文名为导航释义，原名保留。",
+  "cid": 312510437,
+  "source": "https://www.bilibili.com/video/BV1dV411Y7Ku/?p=7",
+  "uploader": "xtrikil",
+  "video_title": "【史诗音乐】两步逃离地狱Two Step From Hell选集 1",
+  "path": "资产/声音/BGM/重选-v004/BGM-CY-TS-07.m4a",
+  "bytes": 2534406,
+  "sha256": "274d64993d93f8e3621dcf4a4fe30ec8802e2715b1c871362f2fe8d74e56d58e",
+  "duration": 156.386168,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "128959"
+      }
+    ],
+    "format": {
+      "duration": "156.386168"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

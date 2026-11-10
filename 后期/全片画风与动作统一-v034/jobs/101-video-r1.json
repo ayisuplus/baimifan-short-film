@@ -1,0 +1,10 @@
+{
+  "name": "101-video-r1",
+  "type": "video",
+  "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v034/101-key-r1_00001_.png",
+  "key_review": "pass",
+  "review_note": "Adopt only tight face/chest crop x=600 y=0 width=700 height=400 after generation, excluding unextinguished lower-left candle. Full uncropped candidate not adopted.",
+  "frames": 84,
+  "seed": 202610305601,
+  "prompt": "Hand-drawn Japanese gothic 2D anime, strong contour lines and matte cel shadows. Lock the camera completely, no zoom or pan. Keep Claude face and body at the same place in the frame. Claude shoulder contracts slightly at the off-screen call. Her eyes hesitate for a brief beat, then she deliberately turns her gaze away from the father and toward the empty cross. She resumes her quiet invocation, resolve replacing the flinch. Fixed close view with a barely perceptible push, no big head swing, no restarted spell or repaired dress."
+}

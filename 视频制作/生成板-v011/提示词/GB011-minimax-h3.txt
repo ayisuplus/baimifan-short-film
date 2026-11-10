@@ -1,0 +1,38 @@
+subject_definitions:
+<Subject 1>: Claude, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: DeepSeek, identity and outfit from four-view sheet <Picture 2>.
+<Picture 3>: [Shot 1] composition and state reference; not its first frame.
+<Picture 4>: [Shot 2] composition and state reference; not its first frame.
+<Picture 5>: [Shot 3] composition and state reference; not its first frame.
+<Picture 6>: [Shot 4] composition and state reference; not its first frame.
+<Picture 7>: [Shot 5] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. Claude protests; after a held confrontation, one shove leads to one failed attempt to rise and a desperate grip on the robe.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+<Picture 7>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Continue from the child's outstretched arms and the priest's command; Claude sees him approach, while the later fall has not happened. Use <Picture 3> for composition. Claude follows the threat below with her eyes, angrily calls out to stop the priest touching DeepSeek, and struggles against the cross. She remains unable to break free. The child and priest stay offscreen, and the next shove has not yet occurred. Make a very small tilt with Claude's gaze down the stairs in a face close-up, then hold as her restrained shoulders strain. Claude's line is followed by cloth friction, the wooden cross creaking and chains rattling; no child fall or bodily impact occurs here. From 1 to 2.44417 seconds, Claude (S1) speaks with matching lip movement: <d>[Japanese] その子に触らないで！</d>.
+[Shot 2] At 00:05.000, Cut below after Claude's cry ends, matching the child's existing arms-out stance and the pair's established screen positions. Use <Picture 4> for composition. DeepSeek keeps both arms spread at the bottom of the stairs and looks directly up at the priest. He looks down with faint contempt, shoulders relaxed, neither advancing nor pushing. His right hand holds the same short-handled black-flamed torch and his left arm hangs down. There is still space between them. Use the prescribed stationary 50 mm side two-shot at the child's eye height, retaining the gap; this is a deliberate confrontation pause. Footsteps briefly cease; faint fabric and the black flame's low hiss remain. No impact sound.
+[Shot 3] At 00:08.000, Start from the unbroken stand-off; the priest first raises his left hand to push now, rather than beginning from the reference's fallen state. Use <Picture 5> for composition. The priest's left hand enters from the frame edge and pushes DeepSeek away once while his right hand retains the torch. She loses balance and falls onto the same patch of stone. After landing she begins to brace herself with an elbow; the failure to rise belongs to the following continuation. Only the priest's edge-of-frame hand, robe and torch details need be visible. Cut closer from the same side at a low angle, tilting down with the single fall and stopping as her elbow first braces on the floor. A sleeve movement, one shove and one clothed landing, followed by weak breathing; do not replay Claude's earlier cry.
+[Shot 4] At 00:10.000, Match the beginning of the same attempt to rise and complete its single failure; Claude's plea comes from above offscreen. Use <Picture 6> for composition. DeepSeek tries to raise herself from the previous elbow brace but her strength fails. She remains on the floor at the stair foot, looks toward the priest's nearby robe hem, and starts reaching for it. Only the robe fragment accompanies her in frame. Claude's plea is heard offscreen; the child does not speak it. At floor level, continue the same elbow support and shift slightly toward the nearby robe as her gaze turns; she does not fall a second time. Quick weak breaths and fabric scraping stone; no second fall sound. From 10 to 12 seconds, Claude (S1) speaks outside the frame: <d>[Japanese] お父様……その子を逃がして。</d>.
+[Shot 5] At 00:12.000, Cut along the continuing reach to the same hem, gripping it once on arrival rather than starting a second reach. Use <Picture 7> for composition. Only DeepSeek's sleeve, forearm and small hand are shown as she clenches the black-and-gold hem of the priest's robe. The cloth tightens. Her head and body remain outside the frame, and the priest still carries the same torch as he prepares to move. Follow the fingertips a short distance in extreme close-up, then settle as the grip turns the loose robe fabric taut. Tightening cloth friction and the child's breath, without any signal or magical cue.
+From 14 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 1s: Claude begins her protective shout; 8s: Cut to the child losing balance and falling.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

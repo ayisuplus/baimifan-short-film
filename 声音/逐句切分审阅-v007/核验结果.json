@@ -1,0 +1,318 @@
+{
+  "cards": 54,
+  "audio_links": 58,
+  "all_audio_http_ok": true,
+  "checks": [
+    {
+      "src": "../正式配音准备-v006/可直接沿用/VO-CY003-01__小鱼.wav",
+      "http_status": 200,
+      "content_bytes": 887084
+    },
+    {
+      "src": "逐句候选/VO-CY003B-01__Claude__take1.wav",
+      "http_status": 200,
+      "content_bytes": 280972
+    },
+    {
+      "src": "逐句候选/VO-CY004-01__教徒__take1.wav",
+      "http_status": 200,
+      "content_bytes": 602388
+    },
+    {
+      "src": "../正式配音准备-v006/可直接沿用/VO-CY008-01__小鱼.wav",
+      "http_status": 200,
+      "content_bytes": 783398
+    },
+    {
+      "src": "逐句候选/VO-CY008M-01__GPT__take1.wav",
+      "http_status": 200,
+      "content_bytes": 447632
+    },
+    {
+      "src": "逐句候选/VO-CY008M-02__GPT__take1.wav",
+      "http_status": 200,
+      "content_bytes": 428812
+    },
+    {
+      "src": "../正式配音准备-v006/可直接沿用/VO-CY009-01__小鱼.wav",
+      "http_status": 200,
+      "content_bytes": 489644
+    },
+    {
+      "src": "逐句候选/VO-CY010A-01__教徒__take1.wav",
+      "http_status": 200,
+      "content_bytes": 531340
+    },
+    {
+      "src": "逐句候选/VO-CY015-01__Claude__take1.wav",
+      "http_status": 200,
+      "content_bytes": 288848
+    },
+    {
+      "src": "逐句候选/VO-CY016A-01__Claude__take1.wav",
+      "http_status": 200,
+      "content_bytes": 438376
+    },
+    {
+      "src": "../正式配音准备-v006/可直接沿用/VO-CY016A-02__小鱼.wav",
+      "http_status": 200,
+      "content_bytes": 967712
+    },
+    {
+      "src": "逐句候选/VO-CY016B1-01__Claude__take1.wav",
+      "http_status": 200,
+      "content_bytes": 199576
+    },
+    {
+      "src": "逐句候选/VO-CY021A-01__教主__take1.wav",
+      "http_status": 200,
+      "content_bytes": 652692
+    },
+    {
+      "src": "逐句候选/VO-CY021A-01__教主__take2.wav",
+      "http_status": 200,
+      "content_bytes": 757384
+    },
+    {
+      "src": "逐句候选/VO-CY021A-01__教主__take3.wav",
+      "http_status": 200,
+      "content_bytes": 729028
+    },
+    {
+      "src": "逐句候选/VO-CY019-01__教主__take1.wav",
+      "http_status": 200,
+      "content_bytes": 272248
+    },
+    {
+      "src": "逐句候选/VO-CY019-01__教主__take2.wav",
+      "http_status": 200,
+      "content_bytes": 265376
+    },
+    {
+      "src": "逐句候选/VO-CY019-01__教主__take3.wav",
+      "http_status": 200,
+      "content_bytes": 280424
+    },
+    {
+      "src": "逐句候选/VO-CY020-01__Claude__take1.wav",
+      "http_status": 200,
+      "content_bytes": 291932
+    },
+    {
+      "src": "逐句候选/VO-CY021-01__Claude__take1.wav",
+      "http_status": 200,
+      "content_bytes": 706948
+    },
+    {
+      "src": "逐句候选/VO-CY024-01__GPT__take1.wav",
+      "http_status": 200,
+      "content_bytes": 364332
+    },
+    {
+      "src": "逐句候选/VO-CY024R-01__Kimi__take1.wav",
+      "http_status": 200,
+      "content_bytes": 672952
+    },
+    {
+      "src": "逐句候选/VO-CY024R-01__Kimi__take2.wav",
+      "http_status": 200,
+      "content_bytes": 833824
+    },
+    {
+      "src": "逐句候选/VO-CY024R-01__Kimi__take3.wav",
+      "http_status": 200,
+      "content_bytes": 845304
+    },
+    {
+      "src": "逐句候选/VO-CY024K0-01__Kimi__take1.wav",
+      "http_status": 200,
+      "content_bytes": 791728
+    },
+    {
+      "src": "逐句候选/VO-CY024K0-01__Kimi__take2.wav",
+      "http_status": 200,
+      "content_bytes": 808264
+    },
+    {
+      "src": "逐句候选/VO-CY024K0-01__Kimi__take3.wav",
+      "http_status": 200,
+      "content_bytes": 838768
+    },
+    {
+      "src": "逐句候选/VO-CY024K1A-01__Kimi__take1.wav",
+      "http_status": 200,
+      "content_bytes": 430292
+    },
+    {
+      "src": "逐句候选/VO-CY024K1A-01__Kimi__take2.wav",
+      "http_status": 200,
+      "content_bytes": 442836
+    },
+    {
+      "src": "逐句候选/VO-CY024K1A-01__Kimi__take3.wav",
+      "http_status": 200,
+      "content_bytes": 453932
+    },
+    {
+      "src": "逐句候选/VO-CY026A1-01__千问__take1.wav",
+      "http_status": 200,
+      "content_bytes": 82932
+    },
+    {
+      "src": "../正式配音准备-v006/可直接沿用/VO-CY026B-02__Gemini.mp3",
+      "http_status": 200,
+      "content_bytes": 36581
+    },
+    {
+      "src": "../正式配音准备-v006/可直接沿用/VO-CY026C-02__Grok.wav",
+      "http_status": 200,
+      "content_bytes": 117644
+    },
+    {
+      "src": "逐句候选/VO-CY026D-02__Kimi__take1.wav",
+      "http_status": 200,
+      "content_bytes": 391832
+    },
+    {
+      "src": "逐句候选/VO-CY026D-02__Kimi__take2.wav",
+      "http_status": 200,
+      "content_bytes": 403756
+    },
+    {
+      "src": "逐句候选/VO-CY026D-02__Kimi__take3.wav",
+      "http_status": 200,
+      "content_bytes": 234480
+    },
+    {
+      "src": "逐句候选/VO-CY024A0-01__千问__take1.wav",
+      "http_status": 200,
+      "content_bytes": 86188
+    },
+    {
+      "src": "逐句候选/VO-CY024A-01__GPT__take1.wav",
+      "http_status": 200,
+      "content_bytes": 466012
+    },
+    {
+      "src": "逐句候选/VO-CY024A2-01__GPT__take1.wav",
+      "http_status": 200,
+      "content_bytes": 471324
+    },
+    {
+      "src": "逐句候选/VO-CY024A3-01__GPT__take1.wav",
+      "http_status": 200,
+      "content_bytes": 565208
+    },
+    {
+      "src": "逐句候选/VO-CY024A4-01__GPT__take1.wav",
+      "http_status": 200,
+      "content_bytes": 373240
+    },
+    {
+      "src": "逐句候选/VO-CY024A5-01__GPT__take1.wav",
+      "http_status": 200,
+      "content_bytes": 608016
+    },
+    {
+      "src": "逐句候选/VO-CY024A5-02__GPT__take1.wav",
+      "http_status": 200,
+      "content_bytes": 449716
+    },
+    {
+      "src": "逐句候选/VO-CY027A-01__教主__take1.wav",
+      "http_status": 200,
+      "content_bytes": 554656
+    },
+    {
+      "src": "逐句候选/VO-CY027A-01__教主__take2.wav",
+      "http_status": 200,
+      "content_bytes": 554684
+    },
+    {
+      "src": "逐句候选/VO-CY027A-01__教主__take3.wav",
+      "http_status": 200,
+      "content_bytes": 583368
+    },
+    {
+      "src": "逐句候选/VO-CY028A-01__GPT__take1.wav",
+      "http_status": 200,
+      "content_bytes": 355192
+    },
+    {
+      "src": "逐句候选/VO-CY028A-02__Claude__take1.wav",
+      "http_status": 200,
+      "content_bytes": 333308
+    },
+    {
+      "src": "逐句候选/VO-CY028A2-01__GPT__take1.wav",
+      "http_status": 200,
+      "content_bytes": 613924
+    },
+    {
+      "src": "逐句候选/VO-CY028B-01__Claude__take1.wav",
+      "http_status": 200,
+      "content_bytes": 523656
+    },
+    {
+      "src": "逐句候选/VO-CY029-01__教主__take1.wav",
+      "http_status": 200,
+      "content_bytes": 579556
+    },
+    {
+      "src": "逐句候选/VO-CY029-01__教主__take2.wav",
+      "http_status": 200,
+      "content_bytes": 581252
+    },
+    {
+      "src": "逐句候选/VO-CY029-01__教主__take3.wav",
+      "http_status": 200,
+      "content_bytes": 535508
+    },
+    {
+      "src": "逐句候选/VO-CY029E1-01__Claude__take1.wav",
+      "http_status": 200,
+      "content_bytes": 522152
+    },
+    {
+      "src": "逐句候选/VO-CY029E4-01__Claude__take1.wav",
+      "http_status": 200,
+      "content_bytes": 568420
+    },
+    {
+      "src": "逐句候选/VO-CY029B1-01__Claude__take1.wav",
+      "http_status": 200,
+      "content_bytes": 355696
+    },
+    {
+      "src": "../正式配音准备-v006/可直接沿用/VO-CY031A-01__小鱼.wav",
+      "http_status": 200,
+      "content_bytes": 512684
+    },
+    {
+      "src": "逐句候选/VO-CY031A-02__Claude__take1.wav",
+      "http_status": 200,
+      "content_bytes": 182020
+    }
+  ],
+  "browser_probe": {
+    "tested_clip": "VO-CY003B-01__Claude__take1.wav",
+    "duration": 1.592358,
+    "readyState": 4,
+    "media_error": null,
+    "kimi_filter_visible_lines": 4
+  },
+  "independent_audit": {
+    "unique_lines": 35,
+    "candidate_files": 51,
+    "sources": 6,
+    "source_sha_verified": true,
+    "all_candidate_pcm_exact": true,
+    "full_source_partition_reconstruction": true,
+    "repeat_takes": {
+      "Kimi": 3,
+      "教主": 3
+    },
+    "listening_acceptance": false,
+    "finding": "No structural split defects found. Duration contains silence handles; use reviewed speech onsets/offsets for later picture timing."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "status": "registered",
+  "http_status": 200,
+  "request": {
+    "voice_name": "Baimifan Claude selected v002-1",
+    "voice_description": "Approved Japanese anime character Claude voice, gentle emotional delivery with clear dramatic magic incantations. Preserve selected vocal identity.",
+    "generated_voice_id": "4wi31aA0XL3Yknn9UT4M"
+  },
+  "voice_id": "4wi31aA0XL3Yknn9UT4M",
+  "response": {
+    "name": "Baimifan Claude selected v002-1",
+    "category": "generated"
+  }
+}

@@ -1,0 +1,1168 @@
+{
+  "checked_at": "2026-10-27T22:14:30.767078+08:00",
+  "scope": "selected-file and reference integrity; durations at OLD starts; no listening or dynamic validation",
+  "status": "not_ready_for_full_generation",
+  "choices_sha256": "8313fd133ec38dba85a9b189c924f01cee4418b0e49b11a6a98856ce17b59e2e",
+  "workbench_sha256": "3f86a2b7b324f3da6e536d63a95832d4a0b7a4ea60a4dc38f5c6dbe33cdbd78d",
+  "shot_count": 133,
+  "batch_count": 43,
+  "selected_count": 63,
+  "reference_records": 272,
+  "unique_reference_files": 152,
+  "exceeding_windows": 12,
+  "changed_from_baseline": 20,
+  "overlaps": [
+    {
+      "first": "VO-CY021A-01",
+      "second": "VO-CY019-01",
+      "overlap_seconds": 0.8
+    },
+    {
+      "first": "VO-CY026D1-01",
+      "second": "VO-CY026D-01",
+      "overlap_seconds": 0.239925
+    },
+    {
+      "first": "VO-CY026D-01",
+      "second": "VO-CY026D-02",
+      "overlap_seconds": 0.5
+    }
+  ],
+  "selected": [
+    {
+      "cue_id": "VO-CY003-01",
+      "location": "第1批 · 第3镜",
+      "role": "小鱼",
+      "selection": {
+        "option_id": "opt-92e82118d3244084",
+        "path": "后期/日语配音交接-v001/试音候选-v001/VO-CY003-01__Xiaoyu__ja__v001-trialA.wav",
+        "sha256": "d16b4d027f5979490b51df619ef2588d96299fa7780318465e9066dacfdea92c",
+        "label": "v001 历史试音 · trialA",
+        "chosen_at": "2026-10-27T11:49:44.865390+00:00"
+      },
+      "seconds": 3.08,
+      "old_start": 9.8,
+      "old_end": 11.42,
+      "end_at_old_start": 12.88,
+      "exceeds_window_seconds": 1.46,
+      "differs_from_baseline": true
+    },
+    {
+      "cue_id": "VO-CY003B-01",
+      "location": "第2批 · 第1镜",
+      "role": "Claude",
+      "selection": {
+        "option_id": "opt-v005-dea266d9eda43779",
+        "path": "后期/日语配音修正-v005/干声/VO-CY003B-01__Claude__ja__v005.wav",
+        "sha256": "be47da3f7db58f461a22bac4a2f44e4b35d424ef336a91165e5b5a9aa0a7d7e5",
+        "label": "v005 重录干声",
+        "chosen_at": "2026-10-27T14:04:29.456422+00:00"
+      },
+      "seconds": 3.152725,
+      "old_start": 15.5,
+      "old_end": 17.78,
+      "end_at_old_start": 18.652725,
+      "exceeds_window_seconds": 0.872725,
+      "differs_from_baseline": true
+    },
+    {
+      "cue_id": "VO-CY004-01",
+      "location": "第2批 · 第3镜",
+      "role": "教徒",
+      "selection": {
+        "option_id": "opt-369cd7cecaae46bc",
+        "path": "后期/日语配音交接-v001/试音候选-v001/VO-CY004-01__Cultist__ja__v001-trial.wav",
+        "sha256": "c374e54c0584c92951c7a268e3cc08969429963a53a8d16bd66346a1974c0949",
+        "label": "v001 历史试音 · trial",
+        "chosen_at": "2026-10-27T11:51:07.930839+00:00"
+      },
+      "seconds": 5.0,
+      "old_start": 20.4,
+      "old_end": 22.949979,
+      "end_at_old_start": 25.4,
+      "exceeds_window_seconds": 2.450021,
+      "differs_from_baseline": true
+    },
+    {
+      "cue_id": "VO-CY004D-01",
+      "location": "第3批 · 第3镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-22632d7e8106f027",
+        "path": "后期/日语配音交接-v001/试音候选-v001/VO-CY004D-01__GPT__ja__v001-candA.wav",
+        "sha256": "b5e105924623128798c4128731ea0cafc38a941f538b0dcbf94664f3443250d6",
+        "label": "v001 历史试音 · candA（慵懒宠溺）",
+        "chosen_at": "2026-10-27T11:52:02.171329+00:00"
+      },
+      "seconds": 2.2,
+      "old_start": 33,
+      "old_end": 34.35,
+      "end_at_old_start": 35.2,
+      "exceeds_window_seconds": 0.85,
+      "differs_from_baseline": true
+    },
+    {
+      "cue_id": "VO-CY006-01",
+      "location": "第4批 · 第1镜",
+      "role": "小鱼",
+      "selection": {
+        "option_id": "opt-29028a6a03d818a4",
+        "path": "后期/日语配音交接-v001/成品-v001/干声/VO-CY006-01__Xiaoyu__ja__v001.wav",
+        "sha256": "fb26f19b10a8a9e26edfb5420bdc42f647ff8e2c10ca96a9d4ffb73e035f2349",
+        "label": "v001 旧版干声",
+        "chosen_at": "2026-10-27T11:52:13.504428+00:00"
+      },
+      "seconds": 4.58,
+      "old_start": 39.6,
+      "old_end": 43.4,
+      "end_at_old_start": 44.18,
+      "exceeds_window_seconds": 0.78,
+      "differs_from_baseline": true
+    },
+    {
+      "cue_id": "VO-CY007-01",
+      "location": "第4批 · 第2镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-aaeb4bc96f478943",
+        "path": "后期/日语配音修正-v004/干声/VO-CY007-01__GPT__ja__v004.wav",
+        "sha256": "569413d7d5d74b6c1f9e179a0b6ad5be19b906e76ad63b48bdffd2b96a29bf4e",
+        "label": "v004 干声",
+        "chosen_at": "2026-10-27T11:53:02.613342+00:00"
+      },
+      "seconds": 3.43,
+      "old_start": 45.3,
+      "old_end": 48.73,
+      "end_at_old_start": 48.73,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY008-01",
+      "location": "第4批 · 第3镜",
+      "role": "小鱼",
+      "selection": {
+        "option_id": "opt-e16ef63f5cbaf91b",
+        "path": "后期/日语配音修正-v004/干声/VO-CY008-01__Xiaoyu__ja__v004.wav",
+        "sha256": "b351bd6289a628c1d4b8dbeccd89e105b408d54cc9fdd7babb1c4d1f0f8d6ded",
+        "label": "v004 干声",
+        "chosen_at": "2026-10-27T11:53:12.721757+00:00"
+      },
+      "seconds": 2.719975,
+      "old_start": 49.5,
+      "old_end": 52.219979,
+      "end_at_old_start": 52.219975,
+      "exceeds_window_seconds": -4e-06,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY008M-01",
+      "location": "第5批 · 第1镜",
+      "role": "恶魔GPT",
+      "selection": {
+        "option_id": "opt-a571a0287657d690",
+        "path": "资产/声音/王宫内心戏-v001/VO-CY008M-01__恶魔GPT__ja__v001.wav",
+        "sha256": "a0b46f6a411c25619ff2d2a689bcb12d751073abb33268de66810ffe189e3548",
+        "label": "v001 内心戏原版",
+        "chosen_at": "2026-10-27T11:53:22.223628+00:00"
+      },
+      "seconds": 3.58,
+      "old_start": 53.25,
+      "old_end": 57.41,
+      "end_at_old_start": 56.83,
+      "exceeds_window_seconds": -0.58,
+      "differs_from_baseline": true
+    },
+    {
+      "cue_id": "VO-CY008M-02",
+      "location": "第5批 · 第1镜",
+      "role": "天使GPT",
+      "selection": {
+        "option_id": "opt-b44cf7ef0dd96edd",
+        "path": "后期/日语配音修正-v004/干声/VO-CY008M-02__AngelGPT__ja__v004.wav",
+        "sha256": "db7f7afd4c2d8bf85baf3b67f46de36e4156d5f8d452ccf8d06263c7fb038f6c",
+        "label": "v004 干声",
+        "chosen_at": "2026-10-27T11:53:59.130258+00:00"
+      },
+      "seconds": 10.009975,
+      "old_start": 57.61,
+      "old_end": 67.619979,
+      "end_at_old_start": 67.619975,
+      "exceeds_window_seconds": -4e-06,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY009-01",
+      "location": "第6批 · 第1镜",
+      "role": "小鱼",
+      "selection": {
+        "option_id": "opt-60c518294256c006",
+        "path": "后期/日语配音交接-v001/成品-v001/干声/VO-CY009-01__Xiaoyu__ja__v001.wav",
+        "sha256": "7f78d5caa97b90b5aad17ef49fe036104796f618f11a97b3493749d812ca68e3",
+        "label": "v001 旧版干声",
+        "chosen_at": "2026-10-27T11:54:23.577664+00:00"
+      },
+      "seconds": 1.7,
+      "old_start": 67.92,
+      "old_end": 70.3,
+      "end_at_old_start": 69.62,
+      "exceeds_window_seconds": -0.68,
+      "differs_from_baseline": true
+    },
+    {
+      "cue_id": "VO-CY010A-01",
+      "location": "第7批 · 第1镜",
+      "role": "教徒",
+      "selection": {
+        "option_id": "opt-fc4a0ad41583a86c",
+        "path": "后期/日语配音修正-v004/干声/VO-CY010A-01__Cultist__ja__v004.wav",
+        "sha256": "af829992a3e96d55231277be997093cbc70116075a86423b7caab077eeed7571",
+        "label": "v004 干声",
+        "chosen_at": "2026-10-27T11:54:49.772499+00:00"
+      },
+      "seconds": 2.87,
+      "old_start": 81.92,
+      "old_end": 84.79,
+      "end_at_old_start": 84.79,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY015-01",
+      "location": "第8批 · 第3镜",
+      "role": "Claude",
+      "selection": {
+        "option_id": "opt-053f8131d16fc3bf",
+        "path": "后期/日语配音修正-v004/干声/VO-CY015-01__Claude__ja__v004.wav",
+        "sha256": "d92a8b9ee997f0731f06edc2d40f90858b6804ae428f433bcb810c7ebda97db2",
+        "label": "v004 干声",
+        "chosen_at": "2026-10-27T11:55:03.556207+00:00"
+      },
+      "seconds": 1.62,
+      "old_start": 100.02,
+      "old_end": 101.64,
+      "end_at_old_start": 101.64,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY015-02",
+      "location": "第8批 · 第3镜",
+      "role": "小鱼",
+      "selection": {
+        "option_id": "opt-091554b69057d7c3",
+        "path": "后期/日语配音交接-v001/成品-v001/干声/VO-CY015-02__Xiaoyu__ja__v001.wav",
+        "sha256": "46e685533eb52b5e50972554a9adf9a74fd10bd4575a68aab0f0c994cc201604",
+        "label": "v001 旧版干声",
+        "chosen_at": "2026-10-27T11:55:10.949550+00:00"
+      },
+      "seconds": 1.5,
+      "old_start": 101.94,
+      "old_end": 104.82,
+      "end_at_old_start": 103.44,
+      "exceeds_window_seconds": -1.38,
+      "differs_from_baseline": true
+    },
+    {
+      "cue_id": "VO-CY016A-01",
+      "location": "第9批 · 第2镜",
+      "role": "Claude",
+      "selection": {
+        "option_id": "opt-f298d6cb2d8ab8a3",
+        "path": "后期/日语配音修正-v004/干声/VO-CY016A-01__Claude__ja__v004.wav",
+        "sha256": "14ac3d60d476358a1e414289bf5c1c6e965b86ded4a4302ac1b5dd0c3a17a695",
+        "label": "v004 干声",
+        "chosen_at": "2026-10-27T11:55:25.003354+00:00"
+      },
+      "seconds": 4.22,
+      "old_start": 111.92,
+      "old_end": 116.14,
+      "end_at_old_start": 116.14,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY016A-02",
+      "location": "第9批 · 第2镜",
+      "role": "小鱼",
+      "selection": {
+        "option_id": "opt-8fe50219267280cd",
+        "path": "后期/日语配音修正-v004/干声/VO-CY016A-02__Xiaoyu__ja__v004.wav",
+        "sha256": "fb04f1bad773718c50016b411441a0ed2369ebae49a790784fefcd4414165ec4",
+        "label": "v004 干声",
+        "chosen_at": "2026-10-27T11:55:33.721555+00:00"
+      },
+      "seconds": 3.35995,
+      "old_start": 116.44,
+      "old_end": 119.799958,
+      "end_at_old_start": 119.79995,
+      "exceeds_window_seconds": -8e-06,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY016B1-01",
+      "location": "第9批 · 第4镜",
+      "role": "Claude",
+      "selection": {
+        "option_id": "opt-f97b89b8dc5759a9",
+        "path": "后期/日语配音交接-v001/成品-v001/干声/VO-CY016B1-01__Claude__ja__v001.wav",
+        "sha256": "e3c884092ba3fb5d00e32cf3e669fe53be5d2d342cb3e694b6c7e5abe8fdac50",
+        "label": "v001 旧版干声",
+        "chosen_at": "2026-10-27T11:55:45.620443+00:00"
+      },
+      "seconds": 1.38,
+      "old_start": 122.1,
+      "old_end": 123.07,
+      "end_at_old_start": 123.47999999999999,
+      "exceeds_window_seconds": 0.41,
+      "differs_from_baseline": true
+    },
+    {
+      "cue_id": "VO-CY021A-01",
+      "location": "第12批 · 第2镜",
+      "role": "教主／Claude的父亲",
+      "selection": {
+        "option_id": "opt-578cba0792b001f4",
+        "path": "后期/日语配音交接-v001/试音候选-v001/VO-CY021A-01__CultLeader__ja__v001-trial.wav",
+        "sha256": "7bb8eaf2ebf391e8623eb04ac3a15b7ac06a59a027a24e0fef71547ed9d38e91",
+        "label": "v001 历史试音 · trial",
+        "chosen_at": "2026-10-27T11:56:00.598447+00:00"
+      },
+      "seconds": 6.3,
+      "old_start": 145.4,
+      "old_end": 147.76,
+      "end_at_old_start": 151.70000000000002,
+      "exceeds_window_seconds": 3.94,
+      "differs_from_baseline": true
+    },
+    {
+      "cue_id": "VO-CY019-01",
+      "location": "第12批 · 第3镜",
+      "role": "教主／Claude的父亲",
+      "selection": {
+        "option_id": "opt-f9a8471c0c66b869",
+        "path": "后期/日语配音交接-v001/成品-v001/干声/VO-CY019-01__CultLeader__ja__v001.wav",
+        "sha256": "262d58be5691f8ebbf81f7d72cf90f018f7911c409d614857c012317a8e09793",
+        "label": "v001 旧版干声",
+        "chosen_at": "2026-10-27T11:56:08.470187+00:00"
+      },
+      "seconds": 0.8,
+      "old_start": 148.9,
+      "old_end": 149.66,
+      "end_at_old_start": 149.70000000000002,
+      "exceeds_window_seconds": 0.04,
+      "differs_from_baseline": true
+    },
+    {
+      "cue_id": "VO-CY020-01",
+      "location": "第13批 · 第1镜",
+      "role": "Claude",
+      "selection": {
+        "option_id": "opt-4806a6f4c9c6b2d0",
+        "path": "后期/日语配音修正-v004/干声/VO-CY020-01__Claude__ja__v004.wav",
+        "sha256": "c404b8ec5d4f4ed00f28bbeefc1b73a145fa052a0e721b8ee50bacb2bf4cd9cc",
+        "label": "v004 干声",
+        "chosen_at": "2026-10-27T11:56:25.626939+00:00"
+      },
+      "seconds": 2.639975,
+      "old_start": 152.9,
+      "old_end": 155.539979,
+      "end_at_old_start": 155.539975,
+      "exceeds_window_seconds": -4e-06,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY021-01",
+      "location": "第14批 · 第1镜",
+      "role": "Claude",
+      "selection": {
+        "option_id": "opt-09f7f030dd9cd7e1",
+        "path": "后期/日语配音修正-v004/干声/VO-CY021-01__Claude__ja__v004.wav",
+        "sha256": "128c88fa4c23723474f0eed224adefea3792a8b074ceaa77a6454c4fd421e327",
+        "label": "v004 干声",
+        "chosen_at": "2026-10-27T11:56:39.221731+00:00"
+      },
+      "seconds": 4.13,
+      "old_start": 161.9,
+      "old_end": 166.03,
+      "end_at_old_start": 166.03,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY024-01",
+      "location": "第17批 · 第1镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-7d61a488fa27dec0",
+        "path": "后期/日语配音修正-v004/干声/VO-CY024-01__GPT__ja__v004.wav",
+        "sha256": "078e261ea2584260a860be9576f6417026483df9ad1f8186663c4f2a536cbec7",
+        "label": "v004 干声",
+        "chosen_at": "2026-10-27T11:56:55.344490+00:00"
+      },
+      "seconds": 1.41,
+      "old_start": 193.85,
+      "old_end": 195.26,
+      "end_at_old_start": 195.26,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY024R-01",
+      "location": "第17批 · 第2镜",
+      "role": "Kimi",
+      "selection": {
+        "option_id": "opt-09b3b2200ebbeb20",
+        "path": "后期/日语配音修正-v004/干声/VO-CY024R-01__Kimi__ja__v004.wav",
+        "sha256": "f5a0e8fdd5e6a3d853466c64467157f0a4dfc4ef0215237600b723b2214cdb6e",
+        "label": "v004 干声",
+        "chosen_at": "2026-10-27T11:57:05.441599+00:00"
+      },
+      "seconds": 2.2,
+      "old_start": 197.3,
+      "old_end": 199.5,
+      "end_at_old_start": 199.5,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY024K0-01",
+      "location": "第18批 · 第2镜",
+      "role": "Kimi",
+      "selection": {
+        "option_id": "opt-215b472276cf31b6",
+        "path": "后期/日语配音修正-v004/干声/VO-CY024K0-01__Kimi__ja__v004.wav",
+        "sha256": "fbd77c9de30d52774957082e740b9b5f87110e9bce89b9017c3832f365966f75",
+        "label": "v004 干声",
+        "chosen_at": "2026-10-27T11:57:27.357703+00:00"
+      },
+      "seconds": 3.7,
+      "old_start": 204.2,
+      "old_end": 207.9,
+      "end_at_old_start": 207.89999999999998,
+      "exceeds_window_seconds": -0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY024K0-02",
+      "location": "第18批 · 第2镜",
+      "role": "Kimi",
+      "selection": {
+        "option_id": "opt-ae48899b0cd9b794",
+        "path": "后期/日语配音修正-v004/干声/VO-CY024K0-02__Kimi__ja__v004.wav",
+        "sha256": "196fa1ce602a0fc7f419c10e6ec6eb4bb31120ba39cff3c5e84dee41e627ed3c",
+        "label": "v004 干声",
+        "chosen_at": "2026-10-27T11:57:32.283447+00:00"
+      },
+      "seconds": 3.980025,
+      "old_start": 207.9,
+      "old_end": 211.880042,
+      "end_at_old_start": 211.88002500000002,
+      "exceeds_window_seconds": -1.7e-05,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY024K1A-01",
+      "location": "第19批 · 第2镜",
+      "role": "Kimi",
+      "selection": {
+        "option_id": "opt-f72f1f39ce5f1b93",
+        "path": "后期/日语配音修正-v002/干声/VO-CY024K1A-01__Kimi__ja__v002-0.9s.wav",
+        "sha256": "65d8c1c196a0b7df6b31e55459584603083ec20e19c5bb13dcb78fe63aadf847",
+        "label": "v002 干声 · 0.9秒版",
+        "chosen_at": "2026-10-27T11:57:53.137022+00:00"
+      },
+      "seconds": 0.88,
+      "old_start": 216.09,
+      "old_end": 217.02,
+      "end_at_old_start": 216.97,
+      "exceeds_window_seconds": -0.05,
+      "differs_from_baseline": true
+    },
+    {
+      "cue_id": "VO-CY026A-01",
+      "location": "第21批 · 第3镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-193704279b2453df",
+        "path": "后期/日语配音修正-v003/干声/VO-CY026A-01__GPT__ja__v003.wav",
+        "sha256": "e26ed0100a774f77e810e5997b213ce5ec636cc36ad185ba6e10cac4ad325fb5",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T11:58:04.726601+00:00"
+      },
+      "seconds": 1.82,
+      "old_start": 234.59,
+      "old_end": 236.41,
+      "end_at_old_start": 236.41,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY026A1-01",
+      "location": "第21批 · 第4镜",
+      "role": "千问",
+      "selection": {
+        "option_id": "opt-c598b7e07bd9b7e3",
+        "path": "后期/日语配音修正-v004/干声/VO-CY026A1-01__Qwen__ja__v004.wav",
+        "sha256": "7bb53bbb81db87fcd3adf22223d2e8c2119a1379b19a1d14b42d3fbcc4cd9977",
+        "label": "v004 干声",
+        "chosen_at": "2026-10-27T11:58:09.184416+00:00"
+      },
+      "seconds": 1.150025,
+      "old_start": 237.79,
+      "old_end": 238.940042,
+      "end_at_old_start": 238.940025,
+      "exceeds_window_seconds": -1.7e-05,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY026B-01",
+      "location": "第22批 · 第1镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-230752990aec3172",
+        "path": "后期/日语配音修正-v003/干声/VO-CY026B-01__GPT__ja__v003.wav",
+        "sha256": "8f2faf3046ecd93527b90ab647832da2b74c759357a738eaa1382bd993a0d45d",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T11:58:15.196535+00:00"
+      },
+      "seconds": 0.98,
+      "old_start": 239.89,
+      "old_end": 240.87,
+      "end_at_old_start": 240.86999999999998,
+      "exceeds_window_seconds": -0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY026B-02",
+      "location": "第22批 · 第1镜",
+      "role": "Gemini",
+      "selection": {
+        "option_id": "opt-c9be5234644ed7eb",
+        "path": "后期/日语配音修正-v003/干声/VO-CY026B-02__Gemini__ja__v003.wav",
+        "sha256": "bab724f58a66cfec1ada23fa5dd1a75adf23b159d856f2f01efc25fe6d0d92d5",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T11:58:20.546972+00:00"
+      },
+      "seconds": 1.23,
+      "old_start": 241.17,
+      "old_end": 242.4,
+      "end_at_old_start": 242.39999999999998,
+      "exceeds_window_seconds": -0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY026C-01",
+      "location": "第23批 · 第1镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-46627421660ab182",
+        "path": "后期/日语配音修正-v003/干声/VO-CY026C-01__GPT__ja__v003.wav",
+        "sha256": "4748d671ef50e1de87170073da9711bb58d75f5089e98b7b1eb2d60e786b153e",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T11:58:24.228662+00:00"
+      },
+      "seconds": 1.04,
+      "old_start": 243.89,
+      "old_end": 244.93,
+      "end_at_old_start": 244.92999999999998,
+      "exceeds_window_seconds": -0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY026C-02",
+      "location": "第23批 · 第1镜",
+      "role": "Grok",
+      "selection": {
+        "option_id": "opt-bf0cb53948bc4dce",
+        "path": "后期/日语配音修正-v003/干声/VO-CY026C-02__Grok__ja__v003.wav",
+        "sha256": "82d55c5afdb9ca52b92db715b2924aba6c45758cd274bdb695b8ed507655faa1",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T11:58:30.890859+00:00"
+      },
+      "seconds": 0.98,
+      "old_start": 245.23,
+      "old_end": 246.21,
+      "end_at_old_start": 246.20999999999998,
+      "exceeds_window_seconds": -0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY026D1-01",
+      "location": "第23批 · 第2镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-v005-8bc32e3197f6f25a",
+        "path": "后期/日语配音修正-v005/干声/VO-CY026D1-01__GPT__ja__v005.wav",
+        "sha256": "bc01a477e23d3f174ccedaa6464cca1e9bce5b7e60d01ea7f0b11b9c2b9a2c15",
+        "label": "v005 重录干声",
+        "chosen_at": "2026-10-27T14:05:01.530603+00:00"
+      },
+      "seconds": 2.339925,
+      "old_start": 247.89,
+      "old_end": 248.87,
+      "end_at_old_start": 250.22992499999998,
+      "exceeds_window_seconds": 1.359925,
+      "differs_from_baseline": true
+    },
+    {
+      "cue_id": "VO-CY026D-01",
+      "location": "第23批 · 第3镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-v005-a465e0173633ae52",
+        "path": "后期/日语配音修正-v005/干声/VO-CY026D-01__GPT__ja__v005.wav",
+        "sha256": "9153a0cfc2a27a06911e65dfb2ad51cc847030960ccefc63b909ac601f3fdfc7",
+        "label": "v005 重录干声",
+        "chosen_at": "2026-10-27T14:05:20.817953+00:00"
+      },
+      "seconds": 7.160575,
+      "old_start": 249.99,
+      "old_end": 256.35,
+      "end_at_old_start": 257.150575,
+      "exceeds_window_seconds": 0.800575,
+      "differs_from_baseline": true
+    },
+    {
+      "cue_id": "VO-CY026D-02",
+      "location": "第23批 · 第3镜",
+      "role": "Kimi",
+      "selection": {
+        "option_id": "opt-62a65d64c37979ce",
+        "path": "后期/日语配音修正-v002/干声/VO-CY026D-02__Kimi__ja__v002.wav",
+        "sha256": "4c14700dad4e231befaa2e0c4ed36d1a455b9941cd0d2a80ce8c79d7c891bfbf",
+        "label": "v002 干声",
+        "chosen_at": "2026-10-27T11:58:58.301788+00:00"
+      },
+      "seconds": 0.5,
+      "old_start": 256.65,
+      "old_end": 257.16,
+      "end_at_old_start": 257.15,
+      "exceeds_window_seconds": -0.01,
+      "differs_from_baseline": true
+    },
+    {
+      "cue_id": "VO-CY026E-01",
+      "location": "第24批 · 第1镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-fe9139a2d4a5d218",
+        "path": "后期/日语配音修正-v003/干声/VO-CY026E-01__GPT__ja__v003.wav",
+        "sha256": "2af5928b50b82160d75322404dc3e27c6cb7fb5e19edceac6fa47b3a4f82eb89",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T11:59:07.834219+00:00"
+      },
+      "seconds": 3.38,
+      "old_start": 257.26,
+      "old_end": 260.64,
+      "end_at_old_start": 260.64,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY024A0-01",
+      "location": "第24批 · 第2镜",
+      "role": "千问",
+      "selection": {
+        "option_id": "opt-v005-8061692d4608c12f",
+        "path": "后期/日语配音修正-v005/干声/VO-CY024A0-01__Qwen__ja__v005.wav",
+        "sha256": "45c922c765735d1c34bb05ed79006e068d428d6eb2961274ef62e9e3c0f4cf1a",
+        "label": "v005 重录干声",
+        "chosen_at": "2026-10-27T14:05:33.359030+00:00"
+      },
+      "seconds": 1.31375,
+      "old_start": 261.36,
+      "old_end": 263.72,
+      "end_at_old_start": 262.67375000000004,
+      "exceeds_window_seconds": -1.04625,
+      "differs_from_baseline": true
+    },
+    {
+      "cue_id": "VO-CY024A-01",
+      "location": "第24批 · 第3镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-5aa59f513b336c53",
+        "path": "后期/日语配音修正-v003/干声/VO-CY024A-01__GPT__ja__v003.wav",
+        "sha256": "eb61c1d9321e58318035392fd2e257e1f40142bc77ca8352dfb660c88cfecd68",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T11:59:52.325955+00:00"
+      },
+      "seconds": 3.12,
+      "old_start": 268.25,
+      "old_end": 271.37,
+      "end_at_old_start": 271.37,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY024A9-01",
+      "location": "第25批 · 第1镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-v005-ab6073bd7d37a6a6",
+        "path": "后期/日语配音修正-v005/干声/VO-CY024A9-01__GPT__ja__v005.wav",
+        "sha256": "07c86919cf7011b6517ba732d22edf1a19c3bb5dc403d2b72311184008ae6359",
+        "label": "v005 重录干声",
+        "chosen_at": "2026-10-27T14:05:46.590170+00:00"
+      },
+      "seconds": 7.3952,
+      "old_start": 271.71,
+      "old_end": 276.81,
+      "end_at_old_start": 279.10519999999997,
+      "exceeds_window_seconds": 2.2952,
+      "differs_from_baseline": true
+    },
+    {
+      "cue_id": "VO-CY024A2-01",
+      "location": "第25批 · 第6镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-b5938c2a030eff84",
+        "path": "后期/日语配音修正-v003/干声/VO-CY024A2-01__GPT__ja__v003.wav",
+        "sha256": "260e7b87f38a296e17088beb7f76899368df814f36a6b8dfc8a6d6ee27882cb2",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:00:07.845777+00:00"
+      },
+      "seconds": 7.24,
+      "old_start": 279.26,
+      "old_end": 286.5,
+      "end_at_old_start": 286.5,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY024A3-01",
+      "location": "第26批 · 第1镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-3d1b04fddb7575f6",
+        "path": "后期/日语配音修正-v003/干声/VO-CY024A3-01__GPT__ja__v003.wav",
+        "sha256": "67c9ed1705a8ea0b755215429768a717de1d561ef7a465dca1d6fd3309780bb0",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:00:10.942583+00:00"
+      },
+      "seconds": 6.44,
+      "old_start": 286.6,
+      "old_end": 293.04,
+      "end_at_old_start": 293.04,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY024A6-01",
+      "location": "第27批 · 第1镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-166789dc3aaf6b83",
+        "path": "后期/日语配音修正-v003/干声/VO-CY024A6-01__GPT__ja__v003.wav",
+        "sha256": "f24b1aa3dab99e5a09d8914ca1fd6694f8691bdcea5313f185a92eb084453d72",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:00:21.372690+00:00"
+      },
+      "seconds": 3.91995,
+      "old_start": 293.12,
+      "old_end": 297.039958,
+      "end_at_old_start": 297.03995,
+      "exceeds_window_seconds": -8e-06,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY024A6-02",
+      "location": "第27批 · 第1镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-v005-8d46a59aa6dafe15",
+        "path": "后期/日语配音修正-v005/干声/VO-CY024A6-02__GPT__ja__v005.wav",
+        "sha256": "fcc7e9b86e19f4234b46543dc72fe6fa3aa4212d174544f5cc58512a44ad1da2",
+        "label": "v005 重录干声",
+        "chosen_at": "2026-10-27T14:05:58.349441+00:00"
+      },
+      "seconds": 5.253575,
+      "old_start": 297.339958,
+      "old_end": 304.369958,
+      "end_at_old_start": 302.59353300000004,
+      "exceeds_window_seconds": -1.776425,
+      "differs_from_baseline": true
+    },
+    {
+      "cue_id": "VO-CY024A7-01",
+      "location": "第28批 · 第1镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-7f2304aca656343b",
+        "path": "后期/日语配音修正-v003/干声/VO-CY024A7-01__GPT__ja__v003.wav",
+        "sha256": "744f47a0c2e7c9663204969fb3e90e7738e284c15bf3e3e9867a9eae4fd78699",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:00:27.385344+00:00"
+      },
+      "seconds": 5.35,
+      "old_start": 304.47,
+      "old_end": 309.82,
+      "end_at_old_start": 309.82000000000005,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY024A4-01",
+      "location": "第29批 · 第2镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-7414fe05abee79ba",
+        "path": "后期/日语配音修正-v003/干声/VO-CY024A4-01__GPT__ja__v003.wav",
+        "sha256": "6b4d32164b86ec62746003a2a3dba3ebe1d40a458794cc1a9041ac575faaa96b",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:00:35.247990+00:00"
+      },
+      "seconds": 4.759975,
+      "old_start": 311.56,
+      "old_end": 316.319979,
+      "end_at_old_start": 316.319975,
+      "exceeds_window_seconds": -4e-06,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY024A8-01",
+      "location": "第29批 · 第3镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-50857f9c7eb7f8d5",
+        "path": "后期/日语配音修正-v003/干声/VO-CY024A8-01__GPT__ja__v003.wav",
+        "sha256": "f39cf29a7a116a5ae7b5ac94e597e3d2af6002dbcdb69451cb49fdde5a267242",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:00:41.874661+00:00"
+      },
+      "seconds": 5.18,
+      "old_start": 316.42,
+      "old_end": 321.6,
+      "end_at_old_start": 321.6,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY024A5-01",
+      "location": "第30批 · 第1镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-6f736f4a59d27677",
+        "path": "后期/日语配音修正-v003/干声/VO-CY024A5-01__GPT__ja__v003.wav",
+        "sha256": "8e4d7b848efa64869c7a160443ee75693a4c800f9b786c25ce1861d2aa1d86af",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:00:47.078133+00:00"
+      },
+      "seconds": 3.8,
+      "old_start": 321.64,
+      "old_end": 325.44,
+      "end_at_old_start": 325.44,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY024A5-02",
+      "location": "第30批 · 第1镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-v005-fd4f641ddedaa5af",
+        "path": "后期/日语配音修正-v005/干声/VO-CY024A5-02__GPT__ja__v005.wav",
+        "sha256": "acab4f60069cd825d4a8d6e1e37bcda9f1fbae6d402b9e248d64b65f11f9d92f",
+        "label": "v005 重录干声",
+        "chosen_at": "2026-10-27T14:06:14.087283+00:00"
+      },
+      "seconds": 1.34255,
+      "old_start": 326.24,
+      "old_end": 327.75,
+      "end_at_old_start": 327.58255,
+      "exceeds_window_seconds": -0.16745,
+      "differs_from_baseline": true
+    },
+    {
+      "cue_id": "VO-CY027A-01",
+      "location": "第33批 · 第1镜",
+      "role": "教主／Claude的父亲",
+      "selection": {
+        "option_id": "opt-367c5b55b4513eed",
+        "path": "后期/日语配音修正-v003/干声/VO-CY027A-01__CultLeader__ja__v003.wav",
+        "sha256": "8b00ebd48b7a81fac676139c25e2c6cadef8d247b0992f39786289c6983f32f2",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:01:47.046401+00:00"
+      },
+      "seconds": 2.79,
+      "old_start": 352.24,
+      "old_end": 355.03,
+      "end_at_old_start": 355.03000000000003,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY027B-01",
+      "location": "第33批 · 第2镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-e2aefa310d235a0c",
+        "path": "后期/日语配音修正-v003/干声/VO-CY027B-01__GPT__ja__v003.wav",
+        "sha256": "3647a4185b4ad529559f7376c8667e8caa1f406d5d51af4713b287f8a4f49ec7",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:01:51.006653+00:00"
+      },
+      "seconds": 0.93,
+      "old_start": 357.24,
+      "old_end": 358.17,
+      "end_at_old_start": 358.17,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY028A-01",
+      "location": "第36批 · 第4镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-ba7641205b01cfa3",
+        "path": "后期/日语配音修正-v003/干声/VO-CY028A-01__GPT__ja__v003.wav",
+        "sha256": "abb88ae1baf94d63def0a9870bfef1453753b7c1f12f6c1e3830e42c7db32d17",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:02:02.627284+00:00"
+      },
+      "seconds": 1.58,
+      "old_start": 400.14,
+      "old_end": 401.72,
+      "end_at_old_start": 401.71999999999997,
+      "exceeds_window_seconds": -0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY028A-02",
+      "location": "第36批 · 第4镜",
+      "role": "Claude",
+      "selection": {
+        "option_id": "opt-37b0c30b2ea19326",
+        "path": "后期/日语配音修正-v003/干声/VO-CY028A-02__Claude__ja__v003.wav",
+        "sha256": "f80011ce27c046c8598daaca1c88796e3e83bcffb9322fb1b1730da4e4484118",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:02:06.435956+00:00"
+      },
+      "seconds": 1.51,
+      "old_start": 402.84,
+      "old_end": 404.35,
+      "end_at_old_start": 404.34999999999997,
+      "exceeds_window_seconds": -0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY028A2-01",
+      "location": "第37批 · 第1镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-917b3df0df6bcc6c",
+        "path": "后期/日语配音修正-v003/干声/VO-CY028A2-01__GPT__ja__v003.wav",
+        "sha256": "7f42e80a0517612d6e2334179793d93cc733d0bde6ba149d0bcb5af0836781f2",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:02:14.073144+00:00"
+      },
+      "seconds": 4.07,
+      "old_start": 406.24,
+      "old_end": 410.31,
+      "end_at_old_start": 410.31,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY028B-01",
+      "location": "第37批 · 第2镜",
+      "role": "Claude",
+      "selection": {
+        "option_id": "opt-61f5e34bcaa80443",
+        "path": "后期/日语配音修正-v003/干声/VO-CY028B-01__Claude__ja__v003.wav",
+        "sha256": "6936131d346515d094c223af5582f80cf5e2cdd4190bc99bd14875e781b649da",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:02:19.195773+00:00"
+      },
+      "seconds": 1.85,
+      "old_start": 410.41,
+      "old_end": 412.26,
+      "end_at_old_start": 412.26000000000005,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY028C-01",
+      "location": "第37批 · 第3镜",
+      "role": "Claude",
+      "selection": {
+        "option_id": "opt-e7e7afd5fd1eb5af",
+        "path": "后期/日语配音修正-v003/干声/VO-CY028C-01__Claude__ja__v003.wav",
+        "sha256": "d4af4124f9277a2377e341afa68ed930e3eef13365df80508137328f0be24822",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:02:22.484460+00:00"
+      },
+      "seconds": 1.72,
+      "old_start": 412.76,
+      "old_end": 414.48,
+      "end_at_old_start": 414.48,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY029-01",
+      "location": "第37批 · 第4镜",
+      "role": "教主／Claude的父亲",
+      "selection": {
+        "option_id": "opt-f467065c2c3ba4d6",
+        "path": "后期/日语配音修正-v003/干声/VO-CY029-01__CultLeader__ja__v003.wav",
+        "sha256": "db992faee86277ecb2a425f61414019e5520435b381467ed5a54f31ffa2c4b62",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:02:27.563642+00:00"
+      },
+      "seconds": 3.1,
+      "old_start": 414.78,
+      "old_end": 417.88,
+      "end_at_old_start": 417.88,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY029E1-01",
+      "location": "第38批 · 第1镜",
+      "role": "Claude",
+      "selection": {
+        "option_id": "opt-b0f87b9cd8711cac",
+        "path": "后期/日语配音修正-v003/干声/VO-CY029E1-01__Claude__ja__v003.wav",
+        "sha256": "2acc01b8e839aa51a442e7456b757730338d94e6aeb00ce4370bcc6cb786dda7",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:02:32.944196+00:00"
+      },
+      "seconds": 2.369975,
+      "old_start": 420.48,
+      "old_end": 422.849979,
+      "end_at_old_start": 422.84997500000003,
+      "exceeds_window_seconds": -4e-06,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY029E2-01",
+      "location": "第38批 · 第2镜",
+      "role": "Claude",
+      "selection": {
+        "option_id": "opt-2ca7575d4c533089",
+        "path": "后期/日语配音修正-v003/干声/VO-CY029E2-01__Claude__ja__v003.wav",
+        "sha256": "5b4ff7d999721a0e0ef9d739f6a5e1ffd5a0a318fc8614c93489b33a5a5f8650",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:02:37.324646+00:00"
+      },
+      "seconds": 2.64,
+      "old_start": 423.18,
+      "old_end": 425.82,
+      "end_at_old_start": 425.82,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY029E3-01",
+      "location": "第38批 · 第3镜",
+      "role": "Claude",
+      "selection": {
+        "option_id": "opt-44de12f218b5b2cc",
+        "path": "后期/日语配音修正-v003/干声/VO-CY029E3-01__Claude__ja__v003.wav",
+        "sha256": "dedcd6677ef4c27ad64f10e9493aae76a2b2ebf2628bbd56cbfc28fcf9b9c607",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:02:40.859560+00:00"
+      },
+      "seconds": 1.73,
+      "old_start": 425.92,
+      "old_end": 427.65,
+      "end_at_old_start": 427.65000000000003,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY029E4-01",
+      "location": "第38批 · 第4镜",
+      "role": "Claude",
+      "selection": {
+        "option_id": "opt-96e76652bc77e7ae",
+        "path": "后期/日语配音修正-v003/干声/VO-CY029E4-01__Claude__ja__v003.wav",
+        "sha256": "50b47da1d2371cf74885decad2c36f959b683ace4822016ff3ab58caa4dfac42",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:02:43.784868+00:00"
+      },
+      "seconds": 2.61,
+      "old_start": 428.92,
+      "old_end": 431.53,
+      "end_at_old_start": 431.53000000000003,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY029B1-01",
+      "location": "第39批 · 第1镜",
+      "role": "Claude",
+      "selection": {
+        "option_id": "opt-54f24988684b59b2",
+        "path": "后期/日语配音修正-v003/干声/VO-CY029B1-01__Claude__ja__v003.wav",
+        "sha256": "0ef9e34639b7c71f97bc5e3d2eea1a978d4df201555ea01c436c0efc6778f5db",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:02:46.954483+00:00"
+      },
+      "seconds": 0.99,
+      "old_start": 433.86,
+      "old_end": 434.85,
+      "end_at_old_start": 434.85,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY028-01",
+      "location": "第40批 · 第1镜",
+      "role": "GPT",
+      "selection": {
+        "option_id": "opt-b9b475277b258f74",
+        "path": "后期/日语配音修正-v003/干声/VO-CY028-01__GPT__ja__v003.wav",
+        "sha256": "6a7ce44259dfc2dbf6bb54580543d63cb6c94f73dfe9c108c5681046ab995a6a",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:02:52.040068+00:00"
+      },
+      "seconds": 0.88,
+      "old_start": 448.02,
+      "old_end": 448.9,
+      "end_at_old_start": 448.9,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    },
+    {
+      "cue_id": "VO-CY031A-01",
+      "location": "第42批 · 第1镜",
+      "role": "小鱼",
+      "selection": {
+        "option_id": "opt-eb4ae358b7ee03b4",
+        "path": "后期/日语配音交接-v001/成品-v001/干声/VO-CY031A-01__Xiaoyu__ja__v001.wav",
+        "sha256": "f29b298239b50d560f23fe2b2be984a5d2fe7b03ab8c588862f8bcc9bb392e38",
+        "label": "v001 旧版干声",
+        "chosen_at": "2026-10-27T12:02:58.214460+00:00"
+      },
+      "seconds": 1.78,
+      "old_start": 465.22,
+      "old_end": 466.76,
+      "end_at_old_start": 467.0,
+      "exceeds_window_seconds": 0.24,
+      "differs_from_baseline": true
+    },
+    {
+      "cue_id": "VO-CY031A-02",
+      "location": "第42批 · 第1镜",
+      "role": "Claude",
+      "selection": {
+        "option_id": "opt-50df887d4d0eb15e",
+        "path": "后期/日语配音修正-v003/干声/VO-CY031A-02__Claude__ja__v003.wav",
+        "sha256": "90fb8abbd3649083d9f4d5b48a7cab12458728580ebc230ee700315a56cf94c3",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:03:05.829853+00:00"
+      },
+      "seconds": 0.7,
+      "old_start": 467.06,
+      "old_end": 467.76,
+      "end_at_old_start": 467.76,
+      "exceeds_window_seconds": 0.0,
+      "differs_from_baseline": false
+    }
+  ],
+  "duration_measurement": "actual PCM frames read; streaming WAV declared frame count is not used as duration"
+}

@@ -1,0 +1,33 @@
+{
+  "timeline": "v009_Selected_Voices_Assembly",
+  "project": "《白米饭》",
+  "active_dialogue": 54,
+  "active_roles": 9,
+  "old_dialogue_muted": true,
+  "removed_merged_old_ids_absent": [
+    "VO-CY024A6-01",
+    "VO-CY024A6-02",
+    "VO-CY024A7-01",
+    "VO-CY024A8-01",
+    "VO-CY024A9-01",
+    "VO-CY024K0-02",
+    "VO-CY026D-01",
+    "VO-CY028C-01",
+    "VO-CY029E2-01",
+    "VO-CY029E3-01"
+  ],
+  "baseline_unchanged": true,
+  "picture_unchanged": true,
+  "music_sfx_unchanged": true,
+  "exact_start_duration_gain": true,
+  "dialogue_overlaps": 0,
+  "frames": 11497,
+  "timeline_saved": true,
+  "exported": false,
+  "listening_or_lipsync_acceptance": false,
+  "api_note": "Each timeline made current before reading track enable and Fairlight properties.",
+  "review_http_links": 55,
+  "review_http_all_200": true,
+  "exact_media_path_and_sha256": true,
+  "independent_review": "54-ID/sources/PCM/edit/gain review passed; Claude r4 separately reviewed after revision; not auditory performance approval"
+}

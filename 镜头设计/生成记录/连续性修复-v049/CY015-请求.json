@@ -1,0 +1,20 @@
+{
+  "engine": "built-in image_gen",
+  "date": "2026-10-25",
+  "shot": "CY015",
+  "request": {
+    "referenced_image_paths": [
+      "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/天瀑空间-v014/CY015-v014-r4.png",
+      "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/天瀑空间-v014/CY013A-v014-r3.png",
+      "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/天瀑空间-v014/CY016B-v014-r3.png"
+    ],
+    "transparent_background": false,
+    "prompt": "Precise continuity correction for an existing anime film frame. Image 1 is the ONLY edit target: preserve its exact 16:9 composition, camera, characters, faces, clothes, poses, outstretched restrained arms, hands, chains, architecture, color and lighting. Image 2 is a reference ONLY for the low black firewood around the base of the fixed narrow FOOT SUPPORT, not a seat. Add those same low piles of unlit short black split logs around the foot support on its two sides and in front, below the bare toes, localized to the cross base; leave the blue girl's feet and standing area clear. Do not add tall wood or burning wood. Image 3 is reference ONLY for the closed waist PADLOCK: replace the long thin shield-shaped waist lock in image 1 with this same squat rectangular dark bronze padlock with a rounded shackle, ornate gold edging, and ONE large central classic keyhole. Scale lock naturally to the waist chain, closed, touched by the girl's existing hands; preserve hand anatomy and interaction. Keep all other pixels/composition as close as possible. One full-frame edited still, no collage, no captions, no text or prompt panel."
+  },
+  "output": "镜头设计/图像/连续性修复-v049/CY015-v049-r1.png",
+  "sha256": "7160d551c279fea70931c5fe2dc872d6875641ef9314f6bd2e8c5c0debda5341",
+  "previous_request": "镜头设计/生成记录/天瀑空间-v014/CY015-请求-v004.json",
+  "previous_image": "镜头设计/图像/天瀑空间-v014/CY015-v014-r4.png",
+  "previous_candidate": null,
+  "review": "technical and root visual inspection complete; independent review and author visual approval tracked separately"
+}

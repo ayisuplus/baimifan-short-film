@@ -1,0 +1,39 @@
+{
+  "id": "BGM-CY-MT-18",
+  "bvid": "BV1JP4y1m78A",
+  "part": 18,
+  "title": "思わぬ現実",
+  "display_title": "意料之外的现实",
+  "work": "无职转生",
+  "composer": "藤澤慶昌",
+  "source_page_title": "17. 思わぬ現実",
+  "cid": 40238908081,
+  "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=18",
+  "uploader": "L-2-C",
+  "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+  "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-18.m4a",
+  "bytes": 3265562,
+  "sha256": "3f2cc7f9910f21db2ee5dfae8a14af8d1d47b90cc0e3f3fffd6c100828bfa291",
+  "duration": 139.088889,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "129155"
+      }
+    ],
+    "format": {
+      "duration": "139.088889"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

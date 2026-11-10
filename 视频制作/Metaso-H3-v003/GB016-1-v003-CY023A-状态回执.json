@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115174134335201280",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "圣骑士列队入门",
+    "status": "succeeded",
+    "created_at": 1793131786,
+    "updated_at": 1793131802,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115174134335201280/content?expires=1793736902&signature=7ee941debfa439d1cfa62cd47aaf16a97a90b24a7f1ffb94481474d58b10e21c"
+    },
+    "resolution": "768P",
+    "duration": 4,
+    "usage": {
+      "total_seconds": 4,
+      "input_seconds": 0,
+      "output_seconds": 4,
+      "input_image_count": 1
+    },
+    "ratio": "adaptive",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

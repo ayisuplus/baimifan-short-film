@@ -1,0 +1,1069 @@
+{
+  "scope": "133镜同源声音要求，非新增对白清单；尚无音效成品。",
+  "items": [
+    {
+      "shot_id": "CY001",
+      "film_start": 0,
+      "film_end": 5,
+      "required_sound": "街市叫卖、碗勺轻碰、脚步；不添加可辨的新叫卖台词。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY002",
+      "film_start": 5,
+      "film_end": 9,
+      "required_sound": "叫卖声拉远、衣料摩擦贴近；脚步声连续，不添加新对白。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY003",
+      "film_start": 9,
+      "film_end": 12.98,
+      "required_sound": "一句邀请完整说完； 小鱼在镜内0.8–3.88秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY003A",
+      "film_start": 12.98,
+      "film_end": 14.98,
+      "required_sound": "细小碗响，市声稍远；保持两秒等待，不重放邀请。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY003B",
+      "film_start": 14.98,
+      "film_end": 19.672729,
+      "required_sound": "市声变得朦胧；Claude轻声说“谢谢你，但我……”，仍忧伤、不急着微笑。尾部接黑袍衣料及下一镜掀饭声。 Claude在镜内1.5–4.653秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY003C",
+      "film_start": 19.672729,
+      "film_end": 21.672729,
+      "required_sound": "掌击金属碗沿、米饭散落、宝宝短促吸气。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY004",
+      "film_start": 21.672729,
+      "film_end": 27.672729,
+      "required_sound": "近处教徒的一句交代越过台阶传到小鱼耳中；句尾合门声压住街市，下一场以急促脚步接入。 教徒在镜内0.4–5.4秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY004A",
+      "film_start": 27.672729,
+      "film_end": 29.672729,
+      "required_sound": "放碗轻响，离去脚步。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY004B",
+      "film_start": 29.672729,
+      "film_end": 31.672729,
+      "required_sound": "长阶脚步与暮色环境底声。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY004C",
+      "film_start": 31.672729,
+      "film_end": 34.672729,
+      "required_sound": "脚步、甲片、长枪拦路动作声。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY004D",
+      "film_start": 34.672729,
+      "film_end": 37.672729,
+      "required_sound": "GPT画外‘让她进来’； GPT在镜内0–2.2秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY005",
+      "film_start": 37.672729,
+      "film_end": 40.672729,
+      "required_sound": "急脚步与喘息在空殿回响。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY006",
+      "film_start": 40.672729,
+      "film_end": 46.672729,
+      "required_sound": "小鱼喘息渐稳，殿内安静； 小鱼在镜内0.6–5.18秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY007",
+      "film_start": 46.672729,
+      "film_end": 50.672729,
+      "required_sound": "衣料极轻；回应后不铺煽情音效。”； GPT在镜内0.3–3.73秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY008",
+      "film_start": 50.672729,
+      "film_end": 54.672729,
+      "required_sound": "句尾留下空殿静默。 小鱼在镜内0.5–3.22秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY008M",
+      "film_start": 54.672729,
+      "film_end": 69.592729,
+      "required_sound": "内心段配乐与现实空间声收低；仅当前分身开口，另一只和本体闭口；不添加叹词或胜负结论。 恶魔GPT在镜内0.25–3.83秒说完同一句日语；天使GPT在镜内4.03–14.04秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY009",
+      "film_start": 69.592729,
+      "film_end": 74.592729,
+      "required_sound": "脚步由近到远，尾音收住。 小鱼在镜内0–1.7秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY010",
+      "film_start": 74.592729,
+      "film_end": 77.592729,
+      "required_sound": "一声远钟及连续尾韵，极轻的织物摩擦；小鱼远去的脚步在画外延续，不切黑。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY009A",
+      "film_start": 77.592729,
+      "film_end": 83.592729,
+      "required_sound": "远去脚步、钟声尾音，末尾接教堂夜风。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY010A",
+      "film_start": 83.592729,
+      "film_end": 87.592729,
+      "required_sound": " 教徒在镜内0–2.87秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY011",
+      "film_start": 87.592729,
+      "film_end": 90.592729,
+      "required_sound": "石屑与布料摩擦，教堂内只有烛火轻响，没有吟唱。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY011A",
+      "film_start": 90.592729,
+      "film_end": 92.592729,
+      "required_sound": "石屑、布料摩擦、空堂烛火轻响，没有吟唱。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY012",
+      "film_start": 92.592729,
+      "film_end": 96.592729,
+      "required_sound": "落地闷响、长堂回声与烛火；没有人声。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY013",
+      "film_start": 96.592729,
+      "film_end": 99.592729,
+      "required_sound": "烛火与两人微弱呼吸，保持空堂安静。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY013A",
+      "film_start": 99.592729,
+      "film_end": 101.592729,
+      "required_sound": "烛火、微弱呼吸和链条细响，不加吟唱。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY015",
+      "film_start": 101.592729,
+      "film_end": 106.592729,
+      "required_sound": "轻脚步、衣料和空堂回声；没有吟唱。DeepSeek：我带你出去。 Claude在镜内0.1–1.72秒说完同一句日语；小鱼在镜内2.02–3.52秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY016",
+      "film_start": 106.592729,
+      "film_end": 111.592729,
+      "required_sound": "一次清脆金属锁链响及回声，随后安静，不提前接教徒声音。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY016A1",
+      "film_start": 111.592729,
+      "film_end": 113.592729,
+      "required_sound": "承接锁链余响，再只留烛芯轻响。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY016A",
+      "film_start": 113.592729,
+      "film_end": 121.572729,
+      "required_sound": "保留呼吸、锁扣摩擦和烛火； Claude在镜内0–4.22秒说完同一句日语；小鱼在镜内4.52–7.88秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。 双方不重叠，尚无人返回。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY016B",
+      "film_start": 121.572729,
+      "film_end": 123.572729,
+      "required_sound": "画外脚步与低语先入，锁链细响骤停；低语不添加可辨新台词。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY016B1",
+      "film_start": 123.572729,
+      "film_end": 125.572729,
+      "required_sound": "脚步声更近，接门轴声；保持前一镜的同一空间混响。 Claude在镜内0.2–1.58秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY016C",
+      "film_start": 125.572729,
+      "film_end": 129.572729,
+      "required_sound": "密集脚步、粗木互碰、提灯轻响。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY016D",
+      "film_start": 129.572729,
+      "film_end": 131.572729,
+      "required_sound": "下阶脚步、抓木摩擦与急喘，没有手持火焰声。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY017",
+      "film_start": 131.572729,
+      "film_end": 136.572729,
+      "required_sound": "衣料推擦、膝掌落地、木头与脚步不断。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY017A",
+      "film_start": 136.572729,
+      "film_end": 138.572729,
+      "required_sound": "厚木落堆闷响、树皮摩擦，落点清楚。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY018",
+      "film_start": 138.572729,
+      "film_end": 142.572729,
+      "required_sound": "靴底拨踢、衣料擦地、短促气声，不夸张重击。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY018B",
+      "film_start": 142.572729,
+      "film_end": 145.572729,
+      "required_sound": "最后一根木头落定、退下脚步，教徒低沉吟唱渐起，不添加可辨歌词。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY021A",
+      "film_start": 145.572729,
+      "film_end": 153.472729,
+      "required_sound": " 教主／Claude的父亲在镜内1.5–7.8秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY019",
+      "film_start": 153.472729,
+      "film_end": 156.472729,
+      "required_sound": " 教主／Claude的父亲在镜内0–0.8秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY020",
+      "film_start": 156.472729,
+      "film_end": 161.472729,
+      "required_sound": "Claude愤怒喊出原句；画外衣料摩擦、木架与锁链震动，不提前出现宝宝落地或身体撞击声。 Claude在镜内1–3.64秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY020B",
+      "film_start": 161.472729,
+      "film_end": 164.472729,
+      "required_sound": "脚步短停、轻微衣料、火把黑焰低鸣；静止对视不加撞击声。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY020A",
+      "film_start": 164.472729,
+      "film_end": 166.472729,
+      "required_sound": "画边衣袖带动、一次推搡接落地衣料声，随后虚弱呼吸；不重放Claude喊话。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY021",
+      "film_start": 166.472729,
+      "film_end": 170.272729,
+      "required_sound": "急促喘息、衣料擦地。宝宝不代说、不张口同步。 Claude在镜内0–4.13秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY021B",
+      "film_start": 170.272729,
+      "film_end": 172.272729,
+      "required_sound": "攥紧衣料与宝宝喘息；Claude求情承前连续至本镜末，不重说开头，没有穿云信号。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY022A",
+      "film_start": 172.272729,
+      "film_end": 174.272729,
+      "required_sound": "抓紧衣料、指尖掠过石面轻响，教徒吟唱压低一瞬。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY022A1",
+      "film_start": 174.272729,
+      "film_end": 177.272729,
+      "required_sound": "沉重登阶、火把呼声，教徒吟唱不断，不新增歌词。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY022",
+      "film_start": 177.272729,
+      "film_end": 181.272729,
+      "required_sound": "火头触木、树脂爆响、黑焰低吼，退阶脚步。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY022B",
+      "film_start": 181.272729,
+      "film_end": 184.272729,
+      "required_sound": "短促吸气、腕链锐响与受阻喘息，不补喊叫台词。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY022B2",
+      "film_start": 184.272729,
+      "film_end": 188.272729,
+      "required_sound": "教徒低沉齐声吟唱、殿内混响与柴火爆裂；不添加可辨歌词。跨切外景图片6后由风声压低，回室内图片8恢复，图片9破门时骤停。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY022B1",
+      "film_start": 188.272729,
+      "film_end": 191.272729,
+      "required_sound": "甲靴齐步由后及前、甲片轻碰；最后两声枪尾触地接下一镜脚步。承上镜室内吟唱在外景压低，保留旗帜风声。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY026",
+      "film_start": 191.272729,
+      "film_end": 194.272729,
+      "required_sound": "两步清晰鞋跟声、衣料掠动，不提前放踹门重音。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY022C",
+      "film_start": 194.272729,
+      "film_end": 196.272729,
+      "required_sound": "回到室内恢复清楚的无词集体吟唱与殿内混响，门板震动，接图片9破门时吟唱骤停。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY023",
+      "film_start": 196.272729,
+      "film_end": 198.272729,
+      "required_sound": "一次干脆破门声，教徒吟唱立刻切断。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024",
+      "film_start": 198.272729,
+      "film_end": 201.272729,
+      "required_sound": "甲片与门口脚步退低让词清楚。指令完成才切敌方反应。 GPT在镜内0.15–1.56秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024R",
+      "film_start": 201.272729,
+      "film_end": 204.772729,
+      "required_sound": "承前门口脚步、甲片尾响与教徒衣料；教主不循声发现后窗。 Kimi在镜内0.6–2.8秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024K00",
+      "film_start": 204.772729,
+      "film_end": 208.772729,
+      "required_sound": "完整4秒无新对白。前镜呼唤已结束，只允许自然混响尾韵；夜风、极轻银色气流，保留原0–0.8流入、0.8–1.6汇聚、1.6–3.5凝实、3.5–4悬停，不加撞击。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024K0",
+      "film_start": 208.772729,
+      "film_end": 217.062729,
+      "required_sound": "夜风承前。玻璃撞击只在下一镜。 两句说完再短停投刃，镜尾明刃已离手；玻璃撞击只在下一镜。 Kimi在镜内0–3.7秒说完同一句日语；Kimi在镜内3.7–7.68秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。 两句说完再短停投刃，镜尾明刃已离手；玻璃撞击只在下一镜。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024K1",
+      "film_start": 217.062729,
+      "film_end": 220.062729,
+      "required_sound": "咏唱暂停；硬脆撞击→密集玻璃爆裂→刀锋掠过→碎片坠地尾响，尾声下降，不盖下一镜术名。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024K1A",
+      "film_start": 220.062729,
+      "film_end": 224.062729,
+      "required_sound": "下一镜才瞬移实体出现与爆气震柴。 刀尖先入木，术名说完仍留坐标低鸣；下一镜才瞬移爆气。 Kimi在镜内0.6–1.48秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。 刀尖先入木，术名说完仍留坐标低鸣；下一镜才瞬移爆气。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024K2",
+      "film_start": 224.062729,
+      "film_end": 227.062729,
+      "required_sound": "承术名尾音的瞬移低鸣→低频爆气→重木刮石翻落；不重复念咒，不延长成漂浮碎片声。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024K2A",
+      "film_start": 227.062729,
+      "film_end": 229.062729,
+      "required_sound": "重柴滚落尾音、黑袍急转脚步、教徒掌心与杖端聚能；不新增对白。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024K3",
+      "film_start": 229.062729,
+      "film_end": 233.062729,
+      "required_sound": "教徒聚能尖鸣→两道破空法术→暗壳短促碎裂声；切入罩内后压成遥远闷响。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024K4",
+      "film_start": 233.062729,
+      "film_end": 236.062729,
+      "required_sound": "轻触金属、腕镣短刺鸣、立刻撤刀；收刃实际发生时才有后腰卡扣声，不重复试镣。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY023A",
+      "film_start": 236.062729,
+      "film_end": 239.062729,
+      "required_sound": "骑士脚步、甲片与教堂环境底声。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY026A",
+      "film_start": 239.062729,
+      "film_end": 242.362729,
+      "required_sound": "其余书院环境退低。 GPT在镜内0.1–1.92秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY026A1",
+      "film_start": 242.362729,
+      "film_end": 244.362729,
+      "required_sound": "声线自然速度，结束接下一邀约场景。 千问在镜内0–1.15秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY026B",
+      "film_start": 244.362729,
+      "film_end": 248.362729,
+      "required_sound": "呼名、短停、回应完整留在本镜；室内灯火与纸页微响，不另切书页特写。 GPT在镜内0.1–1.08秒说完同一句日语；Gemini在镜内1.38–2.61秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY026C",
+      "film_start": 248.362729,
+      "film_end": 252.362729,
+      "required_sound": "基地低鸣托底；火箭仍未发射。 GPT在镜内0.1–1.14秒说完同一句日语；Grok在镜内1.44–2.42秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY026D1",
+      "film_start": 252.362729,
+      "film_end": 254.902729,
+      "required_sound": "GPT在画外轻唤“Kimi”，先于双人画面；月面无风声。 GPT在镜内0.1–2.44秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY026D",
+      "film_start": 254.902729,
+      "film_end": 264.062729,
+      "required_sound": "月面安静，无风声。 GPT在镜内0.2–7.361秒说完同一句日语；Kimi在镜内7.661–9.06秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY026E",
+      "film_start": 264.062729,
+      "film_end": 268.062729,
+      "required_sound": "供能底声压低不抢字。 GPT在镜内0–3.38秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024A0",
+      "film_start": 268.062729,
+      "film_end": 271.262729,
+      "required_sound": "左臂抱稳、右手持扇。 千问在镜内0.1–1.414秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024A",
+      "film_start": 271.262729,
+      "film_end": 278.512729,
+      "required_sound": "展翼、振翼与离地按原动作。千问不重复说话。 GPT在镜内3.79–6.91秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024A9",
+      "film_start": 278.512729,
+      "film_end": 279.512729,
+      "required_sound": "短促掌前压光爆发接术矛上行破风，咏唱不断；攻击离手后不保留连续炮声。 GPT在镜内0–7.395秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024A10",
+      "film_start": 279.512729,
+      "film_end": 281.012729,
+      "required_sound": "0.1秒扇轴短咔；0.2–0.9秒扇骨展开与轻微魔力嗡鸣；1.15秒卡扣响，1.35秒弹脱破空。避让GPT原速跨镜咏唱。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024A11",
+      "film_start": 281.012729,
+      "film_end": 282.512729,
+      "required_sound": "细促破风叠轻微法术尾音，尚无撞击声；GPT咏唱保持自然原速，子弹时间只改变视觉。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024A12",
+      "film_start": 282.512729,
+      "film_end": 283.512729,
+      "required_sound": "一次清脆撞响加短促魔力碎散，尾音压为罩外闷声，接Kimi护持；同一句GPT咏唱跨切不断。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024A1",
+      "film_start": 283.512729,
+      "film_end": 286.062729,
+      "required_sound": "衣料、呼吸，罩外敌法闷响与高空潮鸣，避让同一句画外咏唱。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024A2",
+      "film_start": 286.062729,
+      "film_end": 293.402729,
+      "required_sound": " GPT在镜内0–7.24秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024A3",
+      "film_start": 293.402729,
+      "film_end": 299.922729,
+      "required_sound": "仅视觉换镜，声音不重起。液桥轻响和高空长风，无雨雷电。 GPT在镜内0–6.44秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024A6",
+      "film_start": 299.922729,
+      "film_end": 311.272729,
+      "required_sound": "高空长风与潮鸣压低，原云腹聚海与中心收拢不变。 GPT在镜内0–3.92秒说完同一句日语；GPT在镜内4.22–9.474秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024A7",
+      "film_start": 311.272729,
+      "film_end": 316.862729,
+      "required_sound": "长风与下坠水鸣不盖句末，屋顶第一处裂响落镜末，跨接下一镜同一个撞点。 GPT在镜内0–5.35秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024A5A",
+      "film_start": 316.862729,
+      "film_end": 318.362729,
+      "required_sound": "近处干脆石裂接低频破顶重击，碎石擦过由近到远，水啸掠过；无对白或雷电声。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024A4",
+      "film_start": 318.362729,
+      "film_end": 323.222729,
+      "required_sound": "破顶尾响进入罩内变闷。Kimi蹲下检查踝扣、锁链轻响与呼吸，最高祭坛不受水撞击。 GPT在镜内0–4.76秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024A8",
+      "film_start": 323.222729,
+      "film_end": 328.442729,
+      "required_sound": "破顶尾响衰减、水身回卷与衣料；教主只追视与抬手准备，不提前开罩。 GPT在镜内0–5.18秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024A5",
+      "film_start": 328.442729,
+      "film_end": 340.442729,
+      "required_sound": "水龙与双手持续蓄势，全镜无攻击、撞盾或提前重音。 GPT在镜内0–6.817秒说完同一句日语；GPT在镜内7.617–8.959秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。 祈愿与术名之间音乐静音0.8秒，保留后期水声；全镜无攻击和撞盾。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024A5B",
+      "film_start": 340.442729,
+      "film_end": 341.942729,
+      "required_sound": "解印衣袖轻响，前指后水啸加速，撞盾声在下一镜。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024B",
+      "film_start": 341.942729,
+      "film_end": 346.942729,
+      "required_sound": "龙首接触金罩才有一记低沉撞击，接短促罩面共振；厚水拍石与衣袍急响随后展开，教徒无词惊呼退到两侧。无雷电与友方罩受击声。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024B1",
+      "film_start": 346.942729,
+      "film_end": 349.942729,
+      "required_sound": "近处厚浪拍阶、抓石手掌滑脱、一声无词惊呼、法杖擦水，高处罩边仍为轻水声。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024B3",
+      "film_start": 349.942729,
+      "film_end": 352.942729,
+      "required_sound": "承前厚浪声迅速衰减，留下浅水滴落和殿内空旷回响。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY024B3A",
+      "film_start": 352.942729,
+      "film_end": 354.942729,
+      "required_sound": "隔暗膜余水声渐轻，近处轻呼吸，不再出现新撞击轰鸣。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY027",
+      "film_start": 354.942729,
+      "film_end": 358.942729,
+      "required_sound": "水声退低，最后一次翼膜拍动，鞋尖点水与湿地脚步，无新对白。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY027A",
+      "film_start": 358.942729,
+      "film_end": 363.842729,
+      "required_sound": " 教主／Claude的父亲在镜内0.1–2.89秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY027B",
+      "film_start": 363.842729,
+      "film_end": 365.842729,
+      "required_sound": "短答后留半拍，再接气流。 GPT在镜内0.2–1.13秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY027B1",
+      "film_start": 365.842729,
+      "film_end": 367.842729,
+      "required_sound": "水流旋起，低沉龙鸣渐出。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY027B2",
+      "film_start": 367.842729,
+      "film_end": 369.842729,
+      "required_sound": "羽翼振响、暗金魔法低鸣。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY027B3",
+      "film_start": 369.842729,
+      "film_end": 372.842729,
+      "required_sound": "龙躯掠空、羽翼振动，穿顶后回声开阔。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY027C",
+      "film_start": 372.842729,
+      "film_end": 374.842729,
+      "required_sound": "水龙掠空、羽翼气流，接宝宝眼中倒影的远雷。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY025",
+      "film_start": 374.842729,
+      "film_end": 377.842729,
+      "required_sound": "水流升空尾音，远雷渐起。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY027E",
+      "film_start": 377.842729,
+      "film_end": 381.842729,
+      "required_sound": "雨渐密，三声间隔闷雷对应闪光。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY027E1",
+      "film_start": 381.842729,
+      "film_end": 383.842729,
+      "required_sound": "贴近雨滴、湿地涟漪与远雷尾音。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY027D0",
+      "film_start": 383.842729,
+      "film_end": 386.842729,
+      "required_sound": "雨中脚步骤密、甲片与长枪碰响，一声无词示警。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY027D",
+      "film_start": 386.842729,
+      "film_end": 389.842729,
+      "required_sound": "门口搏击、骑士无词示警与祭坛护罩轻鸣。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY027E2",
+      "film_start": 389.842729,
+      "film_end": 392.842729,
+      "required_sound": "数次短促魔法爆鸣、玻璃共振，尾声沉下。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY027F",
+      "film_start": 392.842729,
+      "film_end": 396.842729,
+      "required_sound": "低处滴水、湿衣轻响与风声，不新增嘲讽台词；不要扩展为Claude湿衣声。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY027F0",
+      "film_start": 396.842729,
+      "film_end": 398.842729,
+      "required_sound": "钥匙环、扣钩轻响、涉浅水脚步。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY027F2",
+      "film_start": 398.842729,
+      "film_end": 401.842729,
+      "required_sound": "暗膜低鸣收尽、钥匙落掌、殿内余水滴落，不重复收刃音。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY027F1",
+      "film_start": 401.842729,
+      "film_end": 403.842729,
+      "required_sound": "正常钥匙转动、锁舌轻响与短链放下；第一踝扣可已打开，第二扣可见开锁声对应实际动作，不伪造五扣同时解开。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY027G",
+      "film_start": 403.842729,
+      "film_end": 406.842729,
+      "required_sound": "锁舌、链条与衣料轻响；腰扣和第一腕扣过程可经剪辑省略，实际可见的最后一扣解除声必须发生在GPT扶稳之后，不重复补齐所有开锁声。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY028A",
+      "film_start": 406.842729,
+      "film_end": 413.042729,
+      "required_sound": " GPT在镜内0.1–1.68秒说完同一句日语；Claude在镜内2.8–4.31秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY028A2",
+      "film_start": 413.042729,
+      "film_end": 417.212729,
+      "required_sound": "GPT在画外回答，小鱼无词反应；不可提前覆盖Claude前镜的提问。 GPT在镜内0–4.07秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。 GPT在画外回答，小鱼无词反应；不可提前覆盖Claude前镜的提问。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY028B",
+      "film_start": 417.212729,
+      "film_end": 419.562729,
+      "required_sound": " Claude在镜内0–1.85秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY028C",
+      "film_start": 419.562729,
+      "film_end": 421.282729,
+      "required_sound": "无重说、无新增治疗声。 Claude在镜内0–1.72秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY029",
+      "film_start": 421.282729,
+      "film_end": 425.282729,
+      "required_sound": "Claude只眼神微颤，初蓄不灭。父亲只在此窗口说一次。 教主／Claude的父亲在镜内0.3–3.4秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。 本镜与下一镜合计保持6秒Claude停顿；父亲只在此窗口说一次。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY029E",
+      "film_start": 425.282729,
+      "film_end": 427.282729,
+      "required_sound": "父亲原句已经完整结束，沿倒影切父亲无声伸手反应，只留环境尾声；两镜合计6秒满后，下一镜Claude才续咏。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY029E1",
+      "film_start": 427.282729,
+      "film_end": 429.982729,
+      "required_sound": "移开视线与续咏同时开始，不额外等运镜停住。 Claude在镜内0–2.37秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY029E2",
+      "film_start": 429.982729,
+      "film_end": 432.722729,
+      "required_sound": " Claude在镜内0–2.64秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY029E3",
+      "film_start": 432.722729,
+      "film_end": 435.722729,
+      "required_sound": "不以镜头句标题强制切音。火种成形后维持，不离手。 Claude在镜内0–1.73秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY029E4",
+      "film_start": 435.722729,
+      "film_end": 440.662729,
+      "required_sound": "小鱼攥衣仰望，火种仍留Claude指间。镜末切术名，不另起后句。 Claude在镜内0–2.61秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY029B1",
+      "film_start": 440.662729,
+      "film_end": 445.022729,
+      "required_sound": "火焰极轻，实际离手在下一镜开头。 Claude在镜内0–0.99秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY029B2",
+      "film_start": 445.022729,
+      "film_end": 447.022729,
+      "required_sound": "前0–0.3秒轻送同一火种，微弱衣料与火焰声；无新对白，Claude原术名已完整结束。0.3秒转主观后环境压低，末段提速与触木，腾燃重音留下一镜。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY029B",
+      "film_start": 447.022729,
+      "film_end": 450.022729,
+      "required_sound": "短促腾燃声骤起，随后木料燃烧与锁链声，无新对白。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY029C",
+      "film_start": 450.022729,
+      "film_end": 452.022729,
+      "required_sound": "呼吸一滞，衣袖滑落，没有落地撞击。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY029D",
+      "film_start": 452.022729,
+      "film_end": 454.022729,
+      "required_sound": "衣裙摩擦、短促呼吸，承托抱起不加摔落声。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY028",
+      "film_start": 454.022729,
+      "film_end": 457.022729,
+      "required_sound": "抱稳后GPT轻声说“我们走”；Claude抬眼，下一镜主动搭肩，保留衣料与呼吸声。 GPT在镜内0.8–1.68秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY029A",
+      "film_start": 457.022729,
+      "film_end": 460.022729,
+      "required_sound": "衣袖轻擦，Claude呼吸渐平稳。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY030",
+      "film_start": 460.022729,
+      "film_end": 466.022729,
+      "required_sound": "脚步渐远，滴水和空刑架火声留在殿内，转街市前缓落。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY031",
+      "film_start": 466.022729,
+      "film_end": 471.022729,
+      "required_sound": "熟悉街市叫卖、碗勺轻响，不添加可辨新台词。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY031A",
+      "film_start": 471.022729,
+      "film_end": 475.022729,
+      "required_sound": "保留小鱼原邀请临时读稿；Claude的“好”轻轻接在问句后。 小鱼在镜内1–2.78秒说完同一句日语；Claude在镜内3.08–3.78秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY032A",
+      "film_start": 475.022729,
+      "film_end": 477.022729,
+      "required_sound": "勺柄轻触、街市声，不重放邀请与回应。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY033",
+      "film_start": 477.022729,
+      "film_end": 481.022729,
+      "required_sound": "杯子轻碰、自然街市声。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY034A",
+      "film_start": 481.022729,
+      "film_end": 483.022729,
+      "required_sound": "柔和街市、轻微餐具声，不放大咀嚼，只一口饭。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    },
+    {
+      "shot_id": "CY034",
+      "film_start": 483.022729,
+      "film_end": 490.022729,
+      "required_sound": "尾乐在本镜前3秒内收尽；最后4秒BGM静音，只留街市声与两人呼吸。",
+      "execution": "按生成提示词制作环境、动作及非词声；替换对白时保留或后期补回。",
+      "status": "specified_not_rendered"
+    }
+  ]
+}

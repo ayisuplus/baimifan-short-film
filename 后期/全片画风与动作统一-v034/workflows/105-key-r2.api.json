@@ -1,0 +1,114 @@
+{
+  "1": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "Baimifan_v034_105-key-r2.png"
+    }
+  },
+  "5": {
+    "class_type": "UNETLoader",
+    "inputs": {
+      "unet_name": "qwen_image_2.1_bf16.safetensors",
+      "weight_dtype": "fp8_e4m3fn"
+    }
+  },
+  "6": {
+    "class_type": "CLIPLoader",
+    "inputs": {
+      "clip_name": "qwen3vl_8b_fp8_scaled.safetensors",
+      "type": "qwen_image",
+      "device": "cpu"
+    }
+  },
+  "7": {
+    "class_type": "VAELoader",
+    "inputs": {
+      "vae_name": "qwen_image_2.1_vae_bf16.safetensors"
+    }
+  },
+  "8": {
+    "class_type": "QwenImage21Cache",
+    "inputs": {
+      "model": [
+        "5",
+        0
+      ],
+      "device": "cpu",
+      "dtype": "default"
+    }
+  },
+  "9": {
+    "class_type": "TextEncodeQwenImage21",
+    "inputs": {
+      "clip": [
+        "6",
+        0
+      ],
+      "vae": [
+        "7",
+        0
+      ],
+      "images.image_1": [
+        "1",
+        0
+      ],
+      "prompt": "Traditional hand-drawn 2D Japanese gothic anime, stable ink lines, hard-edged flat cel shadows and matte skin; preserve the existing drawn lace and scorched fabric details. Remove the ENTIRE dark-haired woman including her face, hair, veil, dress, arms, body and every human silhouette. This shot contains ZERO people or hands. Reveal and redraw the EMPTY wooden cross she was obscuring. Tight frontal POV framing: the upright and horizontal crossbar fill most of the frame, with the bare wood immediately BELOW their dark iron joining brace centered as the clear target. Two opened wrist cuffs hang EMPTY at the sides. There is no person attached to or standing in front of the cross. Extinguish every background candle. No burning wood yet, no seed visible in the center, no floor fire; only a very faint warm tint at the extreme frame edges to suggest the approaching seed POV. Cold blue drawn cathedral wall behind, no glossy CGI floor. Preserve the wooden cross design and clean 2D lines.",
+      "negative_prompt": "3d, cgi, photorealism, glossy plastic skin, realistic hair strands, volumetric rendering, text, watermark",
+      "resolution": 992
+    }
+  },
+  "10": {
+    "class_type": "KSampler",
+    "inputs": {
+      "model": [
+        "8",
+        0
+      ],
+      "positive": [
+        "9",
+        0
+      ],
+      "negative": [
+        "9",
+        1
+      ],
+      "latent_image": [
+        "9",
+        2
+      ],
+      "seed": 202610305805,
+      "steps": 40,
+      "cfg": 1.0,
+      "sampler_name": "euler",
+      "scheduler": "simple",
+      "denoise": 1.0
+    }
+  },
+  "11": {
+    "class_type": "VAEDecodeTiled",
+    "inputs": {
+      "samples": [
+        "10",
+        0
+      ],
+      "vae": [
+        "7",
+        0
+      ],
+      "tile_size": 512,
+      "overlap": 64,
+      "temporal_size": 64,
+      "temporal_overlap": 8
+    }
+  },
+  "18": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "11",
+        0
+      ],
+      "filename_prefix": "Baimifan/v034/105-key-r2"
+    }
+  }
+}

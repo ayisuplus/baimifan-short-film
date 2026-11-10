@@ -1,0 +1,179 @@
+{
+  "batch_id": "GB011-2",
+  "node_id": "v-x3g6bvFxHP",
+  "quoted_credits": 84,
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-x3g6bvFxHP",
+    "node": {
+      "id": "v-x3g6bvFxHP",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第14批 · 还想站起来、攥住袍尾 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Mixed 1}} =DeepSeek四视图：同一人四角度，身份服饰保持\n{{Mixed 2}} =教主四视图：同一人四角度，身份服饰保持\n{{Mixed 3}} =构图状态，非强制首帧\n{{Mixed 4}} =构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，6秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–3.8s {{Mixed 3}} ；画内:DeepSeek、教主。动作匹配延续刚才撑地，完成一次失败；Claude求情来自高处画外而非宝宝口型。贴地近景从同一手肘支撑接起，微横移跟目光落到近旁袍尾，保持身体留地，不再下坠。宝宝在长阶下端撑地失败，望向身旁教主的袍尾。 调度:镜长3.8秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 本镜3.8秒接 {{Mixed 4}} 两秒；延续唯一一次撑地失败，不再次摔倒。 注意:延续唯一一次撑地失败，不再次摔倒；Claude完整4.13秒求情画外连续，跨下一镜约0.33秒，宝宝不代说。维持现有构图与光源。 人物:教主仅身旁袍尾局部；Claude求情为画外声。 声音:急促喘息、衣料擦地。宝宝不代说、不张口同步。 Claude在镜内0–4.13秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 2] 3.8–5.8s {{Mixed 4}} ；画内:DeepSeek、教主。顺上一镜伸手方向切局部，手抵达同一条袍尾才抓紧，不重新伸第二次。小手与袍尾极近特写随指尖短横移，攥住后定住，让衣料由松到绷传递阻力。只见宝宝的袖口、前臂和小手攥住黑金袍尾；衣料绷紧，身体与头部在画外。 调度:镜长2秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 原“无对白”只表示画内人物不说话；承载同一条Claude画外对白余段。 注意: 与新对峙镜衔接：保留当前构图动作；后期轻收地面与金饰高光，人物肤色及原光源位置保持。 人物:只见小手、袖口与教主袍尾，两人头身画外。 声音:攥紧衣料与宝宝喘息；Claude求情承前连续至本镜末，不重说开头，没有穿云信号。\n0–4.13s Claude 画外连续，不让在画者代说:<d>[Japanese] お父様……その子を逃がして。</d>；仅一次。\n5.8–6s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png",
+              "label": "CHAR-DEEPSEEK-TURN-v003 · H3留白适配"
+            },
+            {
+              "nodeId": "i-rFc0P8dawG",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/fa4f10b325b23f5ceaddd2850fbe68978ba0c04d.png",
+              "label": "CHAR-PRIEST-TURN-v001"
+            },
+            {
+              "nodeId": "i-X5Q3MpJX9G",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/267aee5e5ffc714646b82b96c8c1d3815e07d10e.png",
+              "label": "CY021-v049-r2"
+            },
+            {
+              "nodeId": "i-iHjFB0bZxp",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/7c2b1a9a411c8da41b5b884ea8a91404303420fb.png",
+              "label": "CY021B-v015-r1"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 6
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png",
+              "label": "CHAR-DEEPSEEK-TURN-v003 · H3留白适配",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-rFc0P8dawG",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/fa4f10b325b23f5ceaddd2850fbe68978ba0c04d.png",
+              "label": "CHAR-PRIEST-TURN-v001",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-X5Q3MpJX9G",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/267aee5e5ffc714646b82b96c8c1d3815e07d10e.png",
+              "label": "CY021-v049-r2",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-iHjFB0bZxp",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/7c2b1a9a411c8da41b5b884ea8a91404303420fb.png",
+              "label": "CY021B-v015-r1",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-JAT4Pva730",
+            "i-rFc0P8dawG",
+            "i-X5Q3MpJX9G",
+            "i-iHjFB0bZxp"
+          ],
+          "mixedListOrder": [
+            "i-JAT4Pva730",
+            "i-rFc0P8dawG",
+            "i-X5Q3MpJX9G",
+            "i-iHjFB0bZxp"
+          ]
+        },
+        "_updatedAtMs": 1793121036000,
+        "_lastAppliedFullyAtMs": 1793121036000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        },
+        "taskInfo": {
+          "taskId": "20261028011203204069236",
+          "loading": true,
+          "status": 1,
+          "progressPercent": 0,
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-x3g6bvFxHP",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793121133354
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805"
+        }
+      },
+      "position": {
+        "x": 5592,
+        "y": 2796
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-x3g6bvFxHP",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

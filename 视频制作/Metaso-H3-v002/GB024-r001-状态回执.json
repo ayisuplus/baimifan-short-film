@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115144432062488576",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "穹顶对峙：双龙穿顶",
+    "status": "succeeded",
+    "created_at": 1793124705,
+    "updated_at": 1793124768,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115144432062488576/content?expires=1793729650&signature=0d48a82f7b3deb7258cab371735c59fea51529a4af637e1d8c7b82221012ba25"
+    },
+    "resolution": "768P",
+    "duration": 14,
+    "usage": {
+      "total_seconds": 14,
+      "input_seconds": 0,
+      "output_seconds": 14,
+      "input_image_count": 7
+    },
+    "ratio": "16:9",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

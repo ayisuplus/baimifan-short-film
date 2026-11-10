@@ -1,0 +1,248 @@
+[
+  {
+    "id": "CY022A",
+    "inputs": [
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/生成前修正-v059/CY022A-v059.png",
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/动作收尾-v015/CY021B-v015-r1.png",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png"
+    ],
+    "prompt": "Use case: identity-preserve. Re-shoot this animated fantasy film keyframe in a much closer cinematic composition, single landscape 16:9 image, no text. Image1 edit target gives the child on left, departing black-gold priest on right and same cathedral. Image2 is the exact immediately preceding sleeve, small hand and black-gold hem contact; image3 is ONE child's identity four-view sheet, not extra people. Camera at floor level obliquely beside the child's outstretched forearm, 75mm close-focus feel. The focus is the LAST FOLD OF CLOTH SLIDING THROUGH HER FINGERTIPS, not a wide church shot: small hand center-right, index/middle fingertips still barely touching a narrow trailing black-gold hem as the fabric is pulling right and away, relaxed folds replacing taut ones. Child's blue sleeve at lower-left leads toward the hand, only one partly cropped face at far-left with one tearful blue eye watching the departing cloth; she is prone, no fresh injury or blood. Preserve whale hood and tiny proportions. Priest body, face and torch offscreen; just his receding cloth edge enters from right. Background cathedral becomes dim soft blue and amber blur, no bright floor glitter, no altar panorama, no decorative bokeh competing with fingertips. Direction child left priest right; emotional tension from the tiny remaining contact. Keep sharp natural five-finger hand anatomy and normal undistorted face, existing detailed anime painterly realism.",
+    "project_output": "镜头设计/图像/关键动作-v062/CY022A-v062-r1.png",
+    "status": "static_review_passed_pending_author_adoption",
+    "original_output": "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-65440b1a-a10a-46ef-b931-62a04c6b185b.png",
+    "selected_for_v017": true,
+    "output_sha256": "93c90d979b473d1d485cc0f2e561fa1480f4a88f49866a877cb4f2f558e66368",
+    "input_sha256": {
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/生成前修正-v059/CY022A-v059.png": "51f6904a54fe58b6dc9f5489560a2104f63acb4954ceeb841df667dbdd490e9e",
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/动作收尾-v015/CY021B-v015-r1.png": "3e07b40030d09093c451ffd3bb464de88ceba84dda7ad593a1aeface4cb03481",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2"
+    },
+    "tool": "built-in image_gen",
+    "independent_review": "后期/关键动作重拍-v017/视觉复核.md"
+  },
+  {
+    "id": "CY021A",
+    "inputs": [
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/细节与显形-v052/CY021A-v052-r1.png",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/生成前修正-v059/CY022A-v059.png"
+    ],
+    "prompt": "Use case: identity-preserve. Cinematically re-shoot image1 torch handoff, single 16:9 landscape frame no text. Preserve exact young auburn-haired priest identity, black-gold ceremonial robe and short ornate black torch with dark core violet-edged flame. Image2 identity sheet is one priest from four directions, not extra people. Image3 is spatial reference for high stairs, unlit stacked wood and bound orange-haired daughter at elevated altar; do not include child in new shot. Camera tight beside hooded attendant's shoulder. Attendant is a soft near-right dark shoulder wedge and a gloved/robed handing arm only, not a second complete portrait. The priest in sharp three-quarter profile occupies left/mid frame, his RIGHT hand taking the short torch in central foreground, stern calm eyes looking past it diagonally toward upper-right distant altar. His face, gripping right hand, and a recognizable but softly out-of-focus small ivory/orange-haired captive silhouette with outstretched bound arms form ONE clear depth triangle. She is standing upright on foot rest behind unburned stacked wood, fully clothed, no gore. Torch handoff is decisive, not hesitation, no smile. Only one torch, two ordinary hands separated along its grip, anatomically correct. Compress the distance with 85mm lens feel so the daughter is recognizable behind but not large. Background blue windows and gold decoration much darker than face and hand, retain believable cold cathedral ambient and tiny warm edge from ordinary braziers; black-violet ritual flame remains dark not ordinary orange. No all-over glitter, no symmetric ceremony portrait.",
+    "project_output": "镜头设计/图像/关键动作-v062/CY021A-v062-r1.png",
+    "status": "rejected_or_superseded",
+    "original_output": "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-4dc6b761-293c-4ada-8e4d-c5170decb615.png",
+    "selected_for_v017": false,
+    "output_sha256": "29981644fade5105ac0d10096d8c886236a05a35c2803d63da75aef89a63a30b",
+    "input_sha256": {
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/细节与显形-v052/CY021A-v052-r1.png": "a16bdb87274b9d16222eb170f95b2fc0e7b5cecca6006f7f94c852114c6fb4a7",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-PRIEST-TURN-v001.png": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/生成前修正-v059/CY022A-v059.png": "51f6904a54fe58b6dc9f5489560a2104f63acb4954ceeb841df667dbdd490e9e"
+    },
+    "tool": "built-in image_gen",
+    "independent_review": "后期/关键动作重拍-v017/视觉复核.md"
+  },
+  {
+    "id": "CY023",
+    "inputs": [
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/独立镜头-v009/CY023-v009.png",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-GPT-TURN-v001.png"
+    ],
+    "prompt": "Use case: identity-preserve. Re-shoot the moment of ONE door kick as a dramatic very tight low oblique shot from INSIDE the same gothic cathedral, landscape 16:9 anime cinematic illustration. Image1 target for same heavy dark wooden gold-fitted doorway, cool night exterior and dragon woman's white lavender costume. Image2 identity/costume four views of ONE woman, never four people. Frame the shoe sole striking and splitting the door panel at close range: impact point left-of-center, a broken panel swings toward camera and fills a blurred foreground diagonal, several large directed splinters fly inward, cold moonlit opening beyond. Her extended RIGHT shoe/leg enters diagonally from upper-right toward center-left and has firm impact, exact silver-white flower high-heeled shoe and right-leg silver ornament from sheet; natural ankle, knee and leg anatomy. Her grounded leg and cropped moving hem can appear at right rear, torso and face outside frame or occluded by door edge. Do not show a full-body beauty pose, no exposed underwear, no unnecessary leg emphasis. Wardrobe fabric, shoe, wooden mass and directional force are the subject. No arms kicking, no duplicated legs, no extra people in opening, no portal spell or blast ball. Weight comes from door deformation, near foreground occlusion and perspective, she can kick effortlessly. Preserve same ornate door, correct inward opening, film detailed anime painterly style, controlled cool/warm contrast, no text.",
+    "project_output": "镜头设计/图像/关键动作-v062/CY023-v062-r1.png",
+    "status": "rejected_or_superseded",
+    "original_output": "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-9173ef91-85a0-4cdb-ae70-3e5bb6d36c4b.png",
+    "selected_for_v017": false,
+    "output_sha256": "c628d9fa85a58166e17b63797989dafedadf496f04d083cbb9d39455c77099f8",
+    "input_sha256": {
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/独立镜头-v009/CY023-v009.png": "2368533dbd7c92fe50e6a375817829f6dc3dbabee5b0ffa31344330260fa0f94",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-GPT-TURN-v001.png": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc"
+    },
+    "tool": "built-in image_gen",
+    "independent_review": "后期/关键动作重拍-v017/视觉复核.md"
+  },
+  {
+    "id": "CY027B1",
+    "inputs": [
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/独立镜头-v009/CY027B1-v009.png",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/独立镜头-v009/CY027B3-v009.png"
+    ],
+    "prompt": "Use case: identity-preserve. Recompose image1 as ONE being in the middle of magical transformation from white dragon woman into her long white-purple water dragon, not a woman summoning a second dragon. One coherent silhouette only. Single cinematic 16:9 keyframe, detailed anime fantasy illustration. Image2 human identity costume sheet; image3 final dragon shape and already-broken central nave roof continuity, not the black-gold opponent who must stay out of this shot. Camera looking up along diagonal ascent from lower-left to upper-right. Her former long white-lavender skirt at lower-left has begun dissolving into a narrow stream of silver-purple water ribbon that forms a continuous elongated scaled torso leading directly to ONE emerging dragon neck and ONE dragon head at upper-right. Human head and torso no longer exist separately: no recognizable intact woman anywhere. The single emerging head has her white swept horns, lavender mane, elegant long snout and subtle violet eye, stern majestic not cute, no huge glowing eyeball. Mid-body outline visibly transitioning with sparse translucent water separating fabric-like folds into white scales; no grotesque anatomical half-human face, no dismemberment, no doubled heads or tiny woman inside dragon. Existing pale membranous wing silhouette transforming along same body. One trajectory and one center of action, background dark cathedral columns rising and distant broken central roof aperture framing ascent, no remaining lit candles or braziers. Controlled luminosity only around transition seam and eye, not a white noisy full-screen explosion. No runes, no text, no split panels.",
+    "project_output": "镜头设计/图像/关键动作-v062/CY027B1-v062-r1.png",
+    "status": "static_review_passed_pending_author_adoption",
+    "original_output": "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-74213400-1543-478b-aef5-3a731b71ac2d.png",
+    "selected_for_v017": true,
+    "output_sha256": "c6b32c8a212491a13b3a74bc2ebde08704541168d516c50005a8ed9f5ed13df9",
+    "input_sha256": {
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/独立镜头-v009/CY027B1-v009.png": "30ecd54a08d05ef6d2fa2d379c49d2b99ff8b181f48094b4c9765a5c82a1a479",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-GPT-TURN-v001.png": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/独立镜头-v009/CY027B3-v009.png": "f834353c05e2d1642f16e9d1859c7ceb2bfc9d5270c055141a4f14ddc368f25e"
+    },
+    "tool": "built-in image_gen",
+    "independent_review": "后期/关键动作重拍-v017/视觉复核.md"
+  },
+  {
+    "id": "CY028A",
+    "inputs": [
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/目光与入场-v048/CY028A-v048-r1.png",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-GPT-TURN-v001.png"
+    ],
+    "prompt": "Use case: identity-preserve. Create the END-OF-SHOT close keyframe for image1 after orange-haired Claude has stepped safely down from the footrest. Same two main women, place Claude left/center and white dragon GPT immediately at her right supporting her upper arm and back. Image2 Claude identity, image3 GPT identity, four views describe each single person. Tight chest-up eye-level oblique two-shot on same side of axis, 70-85mm feel, no wide-angle face distortion. Orange-haired Claude is pale exhausted yet alert, parted lips softly asking about the little child, eyes searching diagonally down-left OFFSCREEN; she is not looking at camera or lovingly at GPT. GPT's supportive hand around Claude upper arm clearly visible, hand normal five fingers, GPT steady concerned face watching her at right. Claude amber eyes, original large orange flower fixed on her OWN LEFT temple (front-facing screen-right), black ribbon and delicate gold drop, ivory lace veil behind shoulders, no added flower on GPT. Keep exact lace gown, singed sleeve outer edges and veil tip but intact modest inner fabric, no blush or beauty makeup, no blood. GPT exact white-lavender hair, two horns, white rose accessory, pale membrane wings folded behind and mostly cropped, not feathery wings. Dark blurred central wooden cross and blue windows behind, no renewed candle/brazier flames. Kimi may be only a very soft partially cropped dark-blue shoulder at far-left background exiting, do not introduce another clear face. Soft cool light on faces and supportive hand, background blue windows dimmed, less sparkling jewelry emphasis. Emotion is she first thinks of the child who tried to save her; no smiles, no romantic posing, no text, single landscape 16:9.",
+    "project_output": "镜头设计/图像/关键动作-v062/CY028A-v062-r1.png",
+    "status": "static_review_passed_pending_author_adoption",
+    "original_output": "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-22e0f18e-1744-4e6f-8411-4cba749e3d3c.png",
+    "selected_for_v017": true,
+    "output_sha256": "66c1e6a1e927241ff33e2e5b8ba3290917711e12b62b95cc8c0803c6549f9497",
+    "input_sha256": {
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/目光与入场-v048/CY028A-v048-r1.png": "02236be584cb2307c450932230f9ae951ab0f052342f0048c5b907e2ba47cc76",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-GPT-TURN-v001.png": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc"
+    },
+    "tool": "built-in image_gen",
+    "independent_review": "后期/关键动作重拍-v017/视觉复核.md"
+  },
+  {
+    "id": "CY029C",
+    "inputs": [
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/火焰伤后与星火-v036/CY029C-v036-r1.png",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-GPT-TURN-v001.png"
+    ],
+    "prompt": "Use case: identity-preserve. Re-shoot image1 at the very first instant Claude loses strength, BEFORE she is caught or lifted. Single 16:9 film keyframe, detailed anime painterly realism. Keep orange-haired Claude LEFT and white-lavender dragon woman GPT RIGHT. Camera waist-high 35-degree side view from same side of their axis, medium frame includes heads to bare feet and clear support floor, compressed 65mm perspective, no distortion. Claude's near knee buckles softly under intact long layered gown; her shoulder and hips tilt towards GPT at screen-right, one bare foot still planted and skirt folds collapse over the soft knee. Her free casting hand hangs down in near foreground with naturally curled fingers; pale tired face eyes half-open, no blush. She remains conscious and has NOT fallen onto floor. GPT makes ONE immediate grounded step inward from right, bending her own knee, torso leans to intercept, one open hand just reaching Claude upper back and other moving toward lower body but NOT yet under both knees. There is visible space for the catching action; do not show a completed princess carry, no touching foreheads or hug pose. Preserve identity/garments from sheets, Claude left-temple orange flower with black ribbon, ivory lace veil behind, continuous singed cuff/hem/veil edge with intact inner clothing, no shoes on Claude. GPT two horns, one tail, pale folded membrane wings visible behind right shoulder (never feather wings), original white gown/right-leg opening. Burning empty wooden execution cross relegated to far-left edge and very out of focus, creates subtle warm rim only; extinguished braziers/candles stay dark, deep blue windows subdued. Main visual line is the weight shifting from her failing planted foot toward GPT's approaching support. No injuries/gore, no text, no other figures.",
+    "project_output": "镜头设计/图像/关键动作-v062/CY029C-v062-r1.png",
+    "status": "rejected_or_superseded",
+    "original_output": "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-7abea775-4669-4943-a76a-a27925a89577.png",
+    "selected_for_v017": false,
+    "output_sha256": "204f0539105108f1a3b46bb0803ba8ab48d4c0bb66e996ed9a1cd2f4fe0fda4d",
+    "input_sha256": {
+      "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/火焰伤后与星火-v036/CY029C-v036-r1.png": "13ac3aed77a8c45b87257dcb82dd49de1c1a86554a5ae6dd650bc84a1279ffac",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-GPT-TURN-v001.png": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc"
+    },
+    "tool": "built-in image_gen",
+    "independent_review": "后期/关键动作重拍-v017/视觉复核.md"
+  },
+  {
+    "id": "CY029C",
+    "inputs": [
+      "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-7abea775-4669-4943-a76a-a27925a89577.png",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-GPT-TURN-v001.png"
+    ],
+    "prompt": "Use case: identity-preserve. Correct the action in reference image1, re-shoot as a level-camera medium side shot. Images2 and3 are the exact Claude and GPT identity sheets, one person each. Keep their identities, costumes, pale faces, left-temple orange flower, veil, scorched garment edges, folded dragon wings, same dark church and burning empty cross. CRITICAL CHANGE: Both women are STANDING, hips at ordinary standing height. Claude's feet stay on floor, her knees do NOT touch floor. She is on screen-left and loses balance TOWARD GPT screen-right. Make Claude's shoulders and head visibly to the RIGHT of her hips, diagonally leaning into the rescuer. Her torso is tilted about 25 degrees right, one shoulder sinking, casting hand hangs down slack in foreground. GPT at right steps inward with flexed knees and forward torso, catches Claude upper back with one hand; her other hand reaches downward but has NOT yet gone under knees. Not yet a carry or cuddle, no forehead touching. Camera horizontal at their waist height, 50-65mm feel, frame top of heads through upper shins, floor below bottom edge; do not use Dutch angle to fake body tilt. Claude's long gown hangs vertically from upright hips, not piled on kneeling thighs. Arms natural and readable, exhausted eyes half-open, mouth slightly parted, no smile, blush, wounds or blood. Strong counter-diagonals of losing balance and intercepting it. Empty burning cross only a very blurred narrow warm edge at far-left; faces and supporting hand in cool soft light, keep background dark and unlit braziers. No extra characters, no duplicate limbs. Cinematic single landscape 16:9, no text.",
+    "project_output": "镜头设计/图像/关键动作-v062/CY029C-v062-r2.png",
+    "status": "rejected_or_superseded",
+    "selected_for_v017": false,
+    "original_output": "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-94f79f35-0571-4abe-a15f-640eafada8a3.png",
+    "review_note": "跪地消除，但主轴近竖直，未形成明确失衡。",
+    "output_sha256": "b67877f4c3791019524f599fcd1814410485356035ff29bfbc9c32d7ec313eea",
+    "input_sha256": {
+      "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-7abea775-4669-4943-a76a-a27925a89577.png": "204f0539105108f1a3b46bb0803ba8ab48d4c0bb66e996ed9a1cd2f4fe0fda4d",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-GPT-TURN-v001.png": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc"
+    },
+    "tool": "built-in image_gen",
+    "independent_review": "后期/关键动作重拍-v017/视觉复核.md"
+  },
+  {
+    "id": "CY029C",
+    "inputs": [
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+      "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-7abea775-4669-4943-a76a-a27925a89577.png"
+    ],
+    "prompt": "Create ONE dramatically staged anime film keyframe. Image1 is Claude identity/costume sheet; image2 GPT identity/costume sheet; each four views depicts ONE person. Image3 only reference for the cathedral palette and singed outer gown edges, DO NOT copy its kneeling pose or arrangement. Landscape16:9. Two women standing at same floor level, tight side medium shot, crop below knees, straight horizontal camera. Crucial screen geometry: Claude's HIPS at x30%, y80%; her SHOULDERS at x46%,y48%; her HEAD at x49%,y28%. Her torso is therefore visibly leaning DIAGONALLY RIGHT toward GPT, NOT upright and not toward left. Her limp near arm hangs vertically from the tilted shoulder, hand at x45%,y80%, gravity straight down. Her legs still almost straight, knees soft, no kneeling. GPT stands at x73%, steps LEFT into her path, forward bent torso: GPT face x72%,y24%, her near arm reaching left behind Claude upper back, beginning to catch. Her second hand is open lower right at x65%,y72%, descending toward knees but not yet beneath them. A brief unstable diagonal, NOT a standing cuddle or completed carry. Keep Claude orange long hair, amber eyes half-open in fatigue, pale unblushed face, ivory lace layered gown, left-temple orange flower/black ribbon, lightweight veil, slightly singed cuffs/hem, inner layers fully intact. GPT exact white-lavender hair and gown with flower motifs, two white horns and folded pale membrane wings behind, one white tail. Natural believable shoulder/elbow/wrist anatomy. Claude gaze drops down-right with head hanging, GPT focused on taking her weight. Fire at extreme left blurred and dark, cool low-key cathedral behind, faces and weight-bearing arm dominant. NO extra people, blood, text, cartoon motion lines or Dutch tilt. Emphasize the diagonal of a body losing balance and the opposing diagonal of the rescuer.",
+    "project_output": "镜头设计/图像/关键动作-v062/CY029C-v062-r3.png",
+    "status": "static_review_passed_pending_author_adoption",
+    "selected_for_v017": true,
+    "original_output": "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-6769f23f-6a99-4378-ba9a-db1e3a6967f7.png",
+    "review_note": "髋肩与下垂手形成不同方向；承接下一镜低位接重。",
+    "output_sha256": "38e05ea54215ca5ced2c22e6bcbf1ece71627214adf2759461069ce2bcc1dcd1",
+    "input_sha256": {
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-GPT-TURN-v001.png": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+      "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-7abea775-4669-4943-a76a-a27925a89577.png": "204f0539105108f1a3b46bb0803ba8ab48d4c0bb66e996ed9a1cd2f4fe0fda4d"
+    },
+    "tool": "built-in image_gen",
+    "independent_review": "后期/关键动作重拍-v017/视觉复核.md"
+  },
+  {
+    "id": "CY021A",
+    "prompt": "Precise localized edit of this exact frame. Change ONLY the visible priest iris color from violet/purple to his natural amber-brown with subdued golden flecks and dark pupil. No purple iris. Keep eye size, shape, gaze, face, expression, skin, hair, right-hand torch grip, dark violet ritual flame, background captive, composition and all lighting unchanged. Do not change the flame color when fixing eye. Single 16:9 same artwork, no text.",
+    "original": "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-4dc6b761-293c-4ada-8e4d-c5170decb615.png",
+    "inputs": [
+      "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-4dc6b761-293c-4ada-8e4d-c5170decb615.png"
+    ],
+    "project_output": "镜头设计/图像/关键动作-v062/CY021A-v062-r2.png",
+    "status": "static_review_passed_pending_author_adoption",
+    "selected_for_v017": true,
+    "original_output": "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-4d65bc2f-40f0-4875-9597-3228ca0d0526.png",
+    "review_note": "教主虹膜回棕金；构图不变。",
+    "output_sha256": "cb335f88a74a1ae130cd923035c9d71b10308411f186099f4e5e1ee23a54c1dc",
+    "input_sha256": {
+      "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-4dc6b761-293c-4ada-8e4d-c5170decb615.png": "29981644fade5105ac0d10096d8c886236a05a35c2803d63da75aef89a63a30b"
+    },
+    "tool": "built-in image_gen",
+    "independent_review": "后期/关键动作重拍-v017/视觉复核.md"
+  },
+  {
+    "id": "CY023",
+    "prompt": "Precise localized costume-continuity edit of this exact image, preserve the dramatic shoe-to-wood impact and every aspect of framing. The large foreground kicking leg is her RIGHT leg and must retain EXACTLY its current silver floral shoe and jewelry. The smaller rear standing/support leg visible at the far right is her LEFT leg: cover its shin and thigh fully with the same intact long white-lavender skirt fabric falling vertically, leave at most its ordinary silver-white shoe toe visible on the ground. No silver diamond/chain garter or shin jewelry on that rear support leg. Do not copy the right-leg opening onto both sides. Keep front kicking leg, foot impact, splinters, moonlight, door hinge direction and camera completely unchanged. No additional leg, no text, same single16:9 image.",
+    "original": "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-9173ef91-85a0-4cdb-ae70-3e5bb6d36c4b.png",
+    "inputs": [
+      "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-9173ef91-85a0-4cdb-ae70-3e5bb6d36c4b.png"
+    ],
+    "project_output": "镜头设计/图像/关键动作-v062/CY023-v062-r2.png",
+    "status": "static_review_passed_pending_author_adoption",
+    "selected_for_v017": true,
+    "original_output": "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-dc63d408-e1cb-49e7-8ca7-dc1de2a1a3ee.png",
+    "review_note": "后景左腿由长裙遮蔽，前景右腿饰保留。",
+    "output_sha256": "54bb90cf93b1efd26d744fca02fb9cc57188cae66efdbc955a5081700909fefd",
+    "input_sha256": {
+      "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-9173ef91-85a0-4cdb-ae70-3e5bb6d36c4b.png": "c628d9fa85a58166e17b63797989dafedadf496f04d083cbb9d39455c77099f8"
+    },
+    "tool": "built-in image_gen",
+    "independent_review": "后期/关键动作重拍-v017/视觉复核.md"
+  },
+  {
+    "id": "CY029D",
+    "inputs": [
+      "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-6769f23f-6a99-4378-ba9a-db1e3a6967f7.png",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-GPT-TURN-v001.png"
+    ],
+    "project_output": "镜头设计/图像/关键动作-v062/CY029D-v062-r1.png",
+    "status": "rejected_or_superseded",
+    "selected_for_v017": false,
+    "prompt": "Use case: identity-preserve. Create the NEXT action keyframe after image1: GPT actually intercepts the falling Claude and starts lifting, BEFORE a stable princess carry. Images2/3 are identity sheets of one person each. Same Claude LEFT, GPT RIGHT, same axis, same outfits and singed lace, pale tired faces with no blush, left-temple orange flower, dry veil. Camera waist-height oblique side medium frame, head to bare feet visible. Claude's upper back has dropped into GPT's arm, Claude torso now leans about45 degrees to screen-right. GPT's near knee clearly bends and she steps under the load in a stable split stance, eyes focused downward on the catch, torso leans left over Claude. One arm wraps behind Claude's upper back with supporting hand visible near far upper arm, the OTHER forearm is just sliding beneath her bent knees, hand emerging on the far side of the gown. Show both support contacts visibly and anatomically connected, only two arms per person, five finger hands. Claude's bare feet are just lifting off floor with relaxed toes, one foot near floor; her near hand dangles loosely down-left, her other arm stays slack near her own body, she has not voluntarily embraced GPT yet. Keep heads separated, no forehead touch, no cheek kiss, no smiles, no romantic pose. The image should feel like a caught instant of WEIGHT TRANSFER with clear counter-diagonal body mechanics, not two women posing already settled for a bridal photo. Gown remains covering body with intact inner clothing, a few continuous charred cuffs and hem edges, no nudity or gore. GPT white-lavender hair, two horns, ONE pale folded pair of membranous dragon wings at back, single scaled tail, original right-leg ornament only. Background empty burning wooden cross soft at far-left edge, ordinary candles and braziers remain extinguished, deep blue windows subdued. Warm rim and soft cool face fill, detailed anime film illustration,16:9landscape, no text.",
+    "original_output": "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-70e36a92-1921-4ddf-bafe-8e28738cb0a4.png",
+    "review_note": "Claude误穿银鞋；需局部修正为赤足。",
+    "output_sha256": "9f354d20b9209581f3ed8589e11d79400bfa2cca163543ea71ec954083e5b693",
+    "input_sha256": {
+      "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-6769f23f-6a99-4378-ba9a-db1e3a6967f7.png": "38e05ea54215ca5ced2c22e6bcbf1ece71627214adf2759461069ce2bcc1dcd1",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+      "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-GPT-TURN-v001.png": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc"
+    },
+    "tool": "built-in image_gen",
+    "independent_review": "后期/关键动作重拍-v017/视觉复核.md"
+  },
+  {
+    "id": "CY029D",
+    "inputs": [
+      "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-70e36a92-1921-4ddf-bafe-8e28738cb0a4.png"
+    ],
+    "project_output": "镜头设计/图像/关键动作-v062/CY029D-v062-r2.png",
+    "status": "static_review_passed_pending_author_adoption",
+    "selected_for_v017": true,
+    "prompt": "Make ONE small localized correction to this exact image. The orange-haired woman being carried is barefoot in this scene. At mid-right under her lifted scorched ivory skirt, the single dangling foot currently has a silver high heel: remove that entire shoe and replace it with her natural small BARE FOOT, relaxed toes, ordinary ankle, pale skin, anatomically attached to the bent leg inside her skirt. The second foot may remain occluded by the skirt, no need to add one. The WHITE-HAIRED RESCUER's own silver-white shoe planted at lower-left MUST REMAIN exactly unchanged. No shoe transfer, no extra feet. Preserve all faces, eyes, hands, catch pose, bent supporting knee, singed clothing, lighting, wings, tail, composition, and every other pixel as closely as possible. Keep 16:9 single frame, no text.",
+    "original_output": "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-2be4a82c-7886-4bda-89ac-b7cb4a2954e9.png",
+    "review_note": "仅恢复Claude赤足，GPT鞋保留。",
+    "output_sha256": "26b98e245d2de511a8e41d5a5ef6d532ff7b2e7c4e12d012f4a3394191663f30",
+    "input_sha256": {
+      "C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-70e36a92-1921-4ddf-bafe-8e28738cb0a4.png": "9f354d20b9209581f3ed8589e11d79400bfa2cca163543ea71ec954083e5b693"
+    },
+    "tool": "built-in image_gen",
+    "independent_review": "后期/关键动作重拍-v017/视觉复核.md"
+  }
+]

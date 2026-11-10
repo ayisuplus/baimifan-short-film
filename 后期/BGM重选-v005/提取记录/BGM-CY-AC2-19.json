@@ -1,0 +1,40 @@
+{
+  "id": "BGM-CY-AC2-19",
+  "bvid": "BV1TQ4y1L7tR",
+  "part": 19,
+  "title": "Sanctuary",
+  "display_title": "庇护所",
+  "work": "刺客信条 II",
+  "composer": "Jesper Kyd",
+  "source_page_title": "【OST & 游戏原声带】歌名：《庇护所》（Sanctuary)",
+  "navigation_translation": "中文名称用于导航，原曲名及分P标题保留。",
+  "cid": 1421771017,
+  "source": "https://www.bilibili.com/video/BV1TQ4y1L7tR/?p=19",
+  "uploader": "南门梦灵",
+  "video_title": "【刺客信条OST】《刺客信条2》游戏原声音乐合集（OST+网络歌曲+游戏原声带）",
+  "path": "资产/声音/BGM/重选-v005/BGM-CY-AC2-19.m4a",
+  "bytes": 5984352,
+  "sha256": "ca19b1f6d65dcc12cb76d5f6c6788e9d3efc063cc1b5062b13b8d372e5c81319",
+  "duration": 248.277,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "bit_rate": "164915"
+      }
+    ],
+    "format": {
+      "duration": "248.277000"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

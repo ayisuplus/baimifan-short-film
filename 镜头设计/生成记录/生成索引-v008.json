@@ -1,0 +1,3307 @@
+{
+  "version": "v0.8",
+  "engine": "built-in imagegen",
+  "purpose": "rough storyboard",
+  "input_hash_note": "Hashes verified at archive time against local inputs; frozen request files precede each submitted batch.",
+  "script": {
+    "path": "剧本/穿云-场景剧本-v0.8.md",
+    "sha256": "b2a495240135bc722353aa54a426a0b7a615f341c1b739cfe510b8cb0734fb0c"
+  },
+  "requests": [
+    {
+      "file": "镜头设计/生成记录/六场粗分镜-请求-v001.json",
+      "sha256": "bbe1854684f1fe763d2b1f736e7bd9c6c43a4160dc773f444f972f5ec57bb63f",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/01-Claude-母版概念参考.webp",
+          "sha256": "d4bb1e86b085e6593aacee04ac15802c07996646bdede8e5f9b047baef7e7cd7",
+          "size_bytes": 66660
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+          "size_bytes": 79284
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C04_Qwen.png",
+          "sha256": "f64c8b979b002fbc946103867b90850b8f4a3b0de773cddd4a0d9474b119fd27",
+          "size_bytes": 272034
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C07_Perplexity.png",
+          "sha256": "1ece10907aa90cf41b282a1c44f284236ee3a10d2e8665fde0bf7a4d0b7b516d",
+          "size_bytes": 213235
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C09_Grok.png",
+          "sha256": "05f7abcb005dfae0b50360aef7c9ca241e475146727e040f9c174821092ed8e3",
+          "size_bytes": 294428
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/CHAR-GPT-v003.png",
+          "sha256": "58faf0fe4ba26c782b150dca19aebecd619f334a56de0899d8ad547ac3af16bb",
+          "size_bytes": 2033271
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/CHAR-PRIEST-v001.png",
+          "sha256": "8076abf07d048b1c6bfc96d2356d6dd33a170119c596374bdd97bfd22dae8fe9",
+          "size_bytes": 2138719
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/ENV-CHURCH-v001.png",
+          "sha256": "9abf138400dee10937e41746970e9527a0b184555ac23337ae3f595bea9bfb32",
+          "size_bytes": 2410193
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/ENV-PALACE-v001.png",
+          "sha256": "9a7bf3cfe98df7c15a60070c2db417076e9a594ea77542af6dc0cc83c6df04bc",
+          "size_bytes": 2772588
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/ENV-STREET-v001.png",
+          "sha256": "fe11e66783231a9cc305bbfc1c9430dc0f62d4535d9da20dfc3deead5208c9c5",
+          "size_bytes": 3126379
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "size_bytes": 2194303
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "size_bytes": 2011824
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/召集与对抗-请求-v003.json",
+      "sha256": "5a3453c5b2cf1c3d204a5d8d666b36eea25eb680a49775217b9906cad27120ef",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/01-Claude-母版概念参考.webp",
+          "sha256": "d4bb1e86b085e6593aacee04ac15802c07996646bdede8e5f9b047baef7e7cd7",
+          "size_bytes": 66660
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C03_Kimi.png",
+          "sha256": "c438afef56d45a8ce520fc944696dfd0f7ac25c1c1c563a7f52a8ac818512fcb",
+          "size_bytes": 259580
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C04_Qwen.png",
+          "sha256": "f64c8b979b002fbc946103867b90850b8f4a3b0de773cddd4a0d9474b119fd27",
+          "size_bytes": 272034
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C05_Zai-GLM.png",
+          "sha256": "7900e48e2d4cdeb0d3e510840cf50a059a4d117752d415aa96ecd7696dc1715d",
+          "size_bytes": 223389
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C06_Gemini.png",
+          "sha256": "29eecec8ac02e8b3cff42bff8fa1ac555aa0d1a618c899c72518ce5f92771eba",
+          "size_bytes": 280216
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C07_Perplexity.png",
+          "sha256": "1ece10907aa90cf41b282a1c44f284236ee3a10d2e8665fde0bf7a4d0b7b516d",
+          "size_bytes": 213235
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C08_Mistral.png",
+          "sha256": "e3d95ddd1c326c6795109f9d28f89aec8c95e15acbe79a4034f252b42b01eec5",
+          "size_bytes": 333103
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C09_Grok.png",
+          "sha256": "05f7abcb005dfae0b50360aef7c9ca241e475146727e040f9c174821092ed8e3",
+          "size_bytes": 294428
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C10_Meta.png",
+          "sha256": "b2a9ea5d7276e269aebb3afd76c8cd4e14019fca6e7b39ccea7878a11622e41c",
+          "size_bytes": 173492
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C16_Tencent-Hunyuan.png",
+          "sha256": "791c43ac3c8c0c38cc23bc9ba259a53a04c9bcd088752f8f952ee08fb6e3ba88",
+          "size_bytes": 217513
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/CHAR-GPT-v003.png",
+          "sha256": "58faf0fe4ba26c782b150dca19aebecd619f334a56de0899d8ad547ac3af16bb",
+          "size_bytes": 2033271
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/CHAR-PRIEST-v001.png",
+          "sha256": "8076abf07d048b1c6bfc96d2356d6dd33a170119c596374bdd97bfd22dae8fe9",
+          "size_bytes": 2138719
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/ENV-CHURCH-v001.png",
+          "sha256": "9abf138400dee10937e41746970e9527a0b184555ac23337ae3f595bea9bfb32",
+          "size_bytes": 2410193
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05B-粗分镜-v003.png",
+          "sha256": "88b082854bf494422e401144c16ef1cf49bfb4a1747f7d1a06d342f52fa6c919",
+          "size_bytes": 3107345
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/大殿群像-请求-v005.json",
+      "sha256": "dbd93767de59581a839561e2ffd34348443b0796865eedcc68b4e7ab9c0115b3",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+          "size_bytes": 79284
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05A-粗分镜-v002.png",
+          "sha256": "adbc7e479ab03a5f716c7c38ab7331ac349a99fd859025feddce7f9847caabd6",
+          "size_bytes": 3015642
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05B-粗分镜-v003.png",
+          "sha256": "88b082854bf494422e401144c16ef1cf49bfb4a1747f7d1a06d342f52fa6c919",
+          "size_bytes": 3107345
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05C-四方邀请-v001.png",
+          "sha256": "469b322b09c6c3389eadc071f1fc3c798ea07208f12fbaae69e90948a6402d5f",
+          "size_bytes": 3500996
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05D-应召分屏-v001.png",
+          "sha256": "db7a626651b4caa696c5dc3d630adc9d4d21f92876c7544f260c85d533232156",
+          "size_bytes": 3002915
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05E-对抗与战后-v002.png",
+          "sha256": "fa0498bd2b1a3cf97c32e04bf2302eda5569a7e2411fb87449db7fad93302cc4",
+          "size_bytes": 2919226
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/天瀑觉醒-v007/25-天瀑起手-请求.json",
+      "sha256": "7dfa29523647a68027391730c8f7ec9fb047827ce8d994e99996717d83e8d11b",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY024-援军纵深队形-v001.png",
+          "sha256": "e3c691f27e15d0ef56b5631e9a8706fc8a671e12fb75a423bcea5153f441ab3d",
+          "size_bytes": 3135880
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/天瀑觉醒-v007/26-天瀑降临-请求.json",
+      "sha256": "758720ba57b06e1d4c90b770e27738aec99cabe2fc49027a51d8be02c8e0490d",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C04_Qwen.png",
+          "sha256": "f64c8b979b002fbc946103867b90850b8f4a3b0de773cddd4a0d9474b119fd27",
+          "size_bytes": 272034
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛空间母版-v002.png",
+          "sha256": "0122afd2633ca69b26562915ce61ae9e5a7598ea41e5ce596f7c8829d30fc5fc",
+          "size_bytes": 2572933
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY024-援军纵深队形-v001.png",
+          "sha256": "e3c691f27e15d0ef56b5631e9a8706fc8a671e12fb75a423bcea5153f441ab3d",
+          "size_bytes": 3135880
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/天瀑觉醒-v007/27-天瀑退潮-请求.json",
+      "sha256": "a83f758145c8ba0337d417afba10ccea76095e9878ba8c34df97db3953ee5f3f",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C04_Qwen.png",
+          "sha256": "f64c8b979b002fbc946103867b90850b8f4a3b0de773cddd4a0d9474b119fd27",
+          "size_bytes": 272034
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛空间母版-v002.png",
+          "sha256": "0122afd2633ca69b26562915ce61ae9e5a7598ea41e5ce596f7c8829d30fc5fc",
+          "size_bytes": 2572933
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY024-援军纵深队形-v001.png",
+          "sha256": "e3c691f27e15d0ef56b5631e9a8706fc8a671e12fb75a423bcea5153f441ab3d",
+          "size_bytes": 3135880
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/天瀑觉醒-v007/28-对峙水后-请求.json",
+      "sha256": "9dab386f0af3809de9808a2a99aaf3dfd37ad602d066c89dffcda90cfb095fb7",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05E-三阶祭坛-v006.png",
+          "sha256": "d13faac94ebef192aacc1cc4b3d60911ef3afdec2f3941f9b6bacafc33cc0258",
+          "size_bytes": 2798072
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/天瀑觉醒-v007/29-湿态扶稳-请求.json",
+      "sha256": "1d34f7832658fdd66a8eea49640473491c27db21c5018508ea49917a75f37075",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/空间修订F-赤足站稳-v004.png",
+          "sha256": "3c606cb06a1bd702ef6e972f99186e37cce12c75becb8b1d335a7f9598405c75",
+          "size_bytes": 2882515
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/天瀑觉醒-v007/30-觉醒与焚架-请求.json",
+      "sha256": "ff2b0d32956fa19d03f9b0b7bf096e398ac8f6284e2633456367538745e1100c",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛空间母版-v002.png",
+          "sha256": "0122afd2633ca69b26562915ce61ae9e5a7598ea41e5ce596f7c8829d30fc5fc",
+          "size_bytes": 2572933
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/空间修订F-赤足站稳-v004.png",
+          "sha256": "3c606cb06a1bd702ef6e972f99186e37cce12c75becb8b1d335a7f9598405c75",
+          "size_bytes": 2882515
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/天瀑觉醒-v007/31-怀中觉醒-请求.json",
+      "sha256": "d1e10fd55ae9e1116aa6e92b335310948a54a68065023da0167293f65f96412e",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/01-Claude-母版概念参考.webp",
+          "sha256": "d4bb1e86b085e6593aacee04ac15802c07996646bdede8e5f9b047baef7e7cd7",
+          "size_bytes": 66660
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛空间母版-v002.png",
+          "sha256": "0122afd2633ca69b26562915ce61ae9e5a7598ea41e5ce596f7c8829d30fc5fc",
+          "size_bytes": 2572933
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/空间修订D-托稳与落脚-v002.png",
+          "sha256": "c5821f1030ad3c9626c5ddde41ad6a27fee1f1f6308012b1df357709b45357cb",
+          "size_bytes": 3092088
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/天瀑觉醒-v007/32-抱着离殿-请求.json",
+      "sha256": "78469d5c0026a84d7c9578681a876e41764d182529a2e71e7d2982782f68e611",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY024-援军纵深队形-v001.png",
+          "sha256": "e3c691f27e15d0ef56b5631e9a8706fc8a671e12fb75a423bcea5153f441ab3d",
+          "size_bytes": 3135880
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05B-粗分镜-v005.png",
+          "sha256": "7816a4ba5850cd1f5ffc5b3d09b9c814e1ac1f1217b4544bc1ae1bd8686f3233",
+          "size_bytes": 3001929
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/空间修订D-托稳与落脚-v002.png",
+          "sha256": "c5821f1030ad3c9626c5ddde41ad6a27fee1f1f6308012b1df357709b45357cb",
+          "size_bytes": 3092088
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/天瀑觉醒-v007/33-怀中回应-请求.json",
+      "sha256": "e2663b271a10281986d99ff8595a462ad19e17700d85318a8db550c42ea2f9b5",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/01-Claude-母版概念参考.webp",
+          "sha256": "d4bb1e86b085e6593aacee04ac15802c07996646bdede8e5f9b047baef7e7cd7",
+          "size_bytes": 66660
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/空间修订D-托稳与落脚-v002.png",
+          "sha256": "c5821f1030ad3c9626c5ddde41ad6a27fee1f1f6308012b1df357709b45357cb",
+          "size_bytes": 3092088
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/天瀑觉醒-v007/34-天瀑宝宝与三阶-请求.json",
+      "sha256": "e925d98b7b7f19a42f819da869fa46d793f15d012aaa9ad33924e9669e95eefd",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+          "size_bytes": 79284
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY024B-天瀑降临-v001.png",
+          "sha256": "629dc9b970b9b6daa239bc990eb0812715995b79ef2c7a2a64d095644a2d209d",
+          "size_bytes": 3416790
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/天瀑觉醒-v007/35-退潮宝宝与站位-请求.json",
+      "sha256": "8a9d3ad80a1e8703446df0698e51e9ba77d26f7dea673d5f69e0cfd764d92f6a",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+          "size_bytes": 79284
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛空间母版-v002.png",
+          "sha256": "0122afd2633ca69b26562915ce61ae9e5a7598ea41e5ce596f7c8829d30fc5fc",
+          "size_bytes": 2572933
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY027-天瀑之后-v001.png",
+          "sha256": "2b73e8515142afbaaac3e2340d4d634653181759f9da86673589b6e803ac862b",
+          "size_bytes": 2926749
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/天瀑觉醒-v007/36-信号近景三阶-请求.json",
+      "sha256": "d723941e2b33f38dec6e6f7b93d48b636b0aef2e48ea33edb21414a26b520b7a",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S04-三阶祭坛-v004.png",
+          "sha256": "290a4d0206f4e22642b57de64664e74c0c1019d4e37f43d31bc459fd10e42905",
+          "size_bytes": 2741271
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/天瀑觉醒-v007/37-站立施法同平台-请求.json",
+      "sha256": "c2255af59dc4915f09fdfe27aefe4d7f53217f4a0deec07afeaa186b6153d58a",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/Claude-觉醒与焚架-四格-v001.png",
+          "sha256": "6f8a13427b5e8348201f78ba43e9f42dd51940e78d347d5c8c03ac7c5168a1ed",
+          "size_bytes": 2724171
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/天瀑觉醒-v007/38-力竭接抱-请求.json",
+      "sha256": "8834dbb3709881976a10c3ef7acd168c21d369b687e8e8e6f4db7b116de94e30",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY029A-怀中回应-v001.png",
+          "sha256": "c80ba73a58a1f196b6203a22a432dae5f50dd10dc3c37ef77cb09c8bfc0f1b17",
+          "size_bytes": 2697075
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/Claude-觉醒与焚架-四格-v001.png",
+          "sha256": "6f8a13427b5e8348201f78ba43e9f42dd51940e78d347d5c8c03ac7c5168a1ed",
+          "size_bytes": 2724171
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/天瀑觉醒-v007/39-接抱过渡修正-请求.json",
+      "sha256": "18c54a644e506bd9df7889d52af5d1b6ce8fdcafef53fd949f85d37b6ea5bdd8",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/Claude-力竭接抱-四格-v001.png",
+          "sha256": "f3fe658f45341d528f572ef27a6f2647c679c8e429fb0e6e89a41ec90362eca4",
+          "size_bytes": 3335998
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/天瀑觉醒-v007/40-焚架平地修正-请求.json",
+      "sha256": "55eb6d91b232e8ee92c504e1791bd732329d8e6428e712f91bcda8c792ff8d65",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/Claude-觉醒与焚架-四格-v002.png",
+          "sha256": "1c2e3e004633506ab31d090d1ca97b0f62d3ce6db7e08a3df767531493331ec1",
+          "size_bytes": 2667877
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/天瀑觉醒-v007/41-天瀑双人抱持-请求.json",
+      "sha256": "14274556d878b6b2338a92e204bdbfa8889a59341082c1a7ca18ba1b1ac7cc55",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY024B-天瀑降临-v002.png",
+          "sha256": "361305600bb062388f7455dc287ab79008daaf5a10c792955895d851ab21db29",
+          "size_bytes": 3209947
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY027-天瀑之后-v002.png",
+          "sha256": "ff6685da5146690a2b7dae3f1769968e14141fc1ffbe26b7f35770d4a34fdb8e",
+          "size_bytes": 2799925
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/天瀑觉醒-v007/42-信号四改三-请求.json",
+      "sha256": "9c0d1c5d166715b3046d217c2eb1736c2f12eac4f4a0b4510bfe301189b2d55a",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY021-信号近景三阶-v001.png",
+          "sha256": "6bcad02801ffdef581c5e703363a6beda82bbf3b92990391988ea69d980f22ff",
+          "size_bytes": 2359288
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/天瀑觉醒-v007/43-接抱花饰还原-请求.json",
+      "sha256": "ae22fea2df242611076bfd574851aad9b96212acea78eaf311999f2cce56d548",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/Claude-力竭接抱-四格-v002.png",
+          "sha256": "7cb2c14e97c97d28e07039d208a58af23fcf545ebc7b16383806b7e572e53007",
+          "size_bytes": 3144712
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/Claude-觉醒与焚架-四格-v002.png",
+          "sha256": "1c2e3e004633506ab31d090d1ca97b0f62d3ce6db7e08a3df767531493331ec1",
+          "size_bytes": 2667877
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/天瀑觉醒-v007/44-接抱景别收紧-请求.json",
+      "sha256": "573e618f4aff5195ebfefa8b408077de3e041996fb6c5db92fc14f52a8409ab9",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/Claude-力竭接抱-四格-v003.png",
+          "sha256": "9e07fa252ead35149ee93b6a1b2b0f83da9ae1207fdbba453cb753f894a21d55",
+          "size_bytes": 3011613
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/战后宝宝抱护-局部修订-请求-v004.json",
+      "sha256": "41604f0ca81b372224b345c423202f4b08ab637bcb3c0798a4c270109d4b2338",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+          "size_bytes": 79284
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C04_Qwen.png",
+          "sha256": "f64c8b979b002fbc946103867b90850b8f4a3b0de773cddd4a0d9474b119fd27",
+          "size_bytes": 272034
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05E-对抗与战后-v001.png",
+          "sha256": "ad519f6cf952b550e4182ba203208c19be19e1b89dbe4402b201a8aa83b90436",
+          "size_bytes": 3113995
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/接勺握持-修订-请求-v009.json",
+      "sha256": "0b26669a569e2b7554b617300e7a1df1944b9d8c938c17db2d5fa62990391df2",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S06-粗分镜-v002.png",
+          "sha256": "20cec5cb26ea4ad00a7e14ccebb0c82abb68dd6190a21f1c515b0309bc472164",
+          "size_bytes": 3089400
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/细节A-递饭与选择-v001.png",
+          "sha256": "a3daed2aa18dcc61bf295206e2efe16212a3209ccea1681fd66bf0a5dfc1390c",
+          "size_bytes": 2537224
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/教堂两场-请求-v002.json",
+      "sha256": "59602ad97741b9ae1049d03ff93d08d32af171d6f14e4c8e59cef330e6d4348b",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/01-Claude-母版概念参考.webp",
+          "sha256": "d4bb1e86b085e6593aacee04ac15802c07996646bdede8e5f9b047baef7e7cd7",
+          "size_bytes": 66660
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+          "size_bytes": 79284
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/CHAR-PRIEST-v001.png",
+          "sha256": "8076abf07d048b1c6bfc96d2356d6dd33a170119c596374bdd97bfd22dae8fe9",
+          "size_bytes": 2138719
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/ENV-CHURCH-v001.png",
+          "sha256": "9abf138400dee10937e41746970e9527a0b184555ac23337ae3f595bea9bfb32",
+          "size_bytes": 2410193
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "size_bytes": 2194303
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/束具与花饰-局部修订-请求-v003.json",
+      "sha256": "51be100a69baf4de33f6632a947d9d2692b8c6ff41286909be6629028f4ac697",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/01-Claude-母版概念参考.webp",
+          "sha256": "d4bb1e86b085e6593aacee04ac15802c07996646bdede8e5f9b047baef7e7cd7",
+          "size_bytes": 66660
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S03A-空堂潜入-v002.png",
+          "sha256": "11b42662548feb57f68a412682b9c954b7dc540800196e3b971c9ac23bb7d4a0",
+          "size_bytes": 2872080
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S03B-解锁未成-v002.png",
+          "sha256": "b436734731d8882e0cdc9a7254a424e37a861ea41a977aca203d4cab84e5f664",
+          "size_bytes": 2724904
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05B-粗分镜-v002.png",
+          "sha256": "28806ca87806b57cc94a59151361ded87612a6f702abbf3c579eb00abee2ea98",
+          "size_bytes": 3291845
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/01-驱逐-请求.json",
+      "sha256": "17de4b9fc68dec91d7217fab9aa77af64dccf8b1400f2e4a3c42c6e605482e48",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+          "size_bytes": 79284
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S01-粗分镜-v001.png",
+          "sha256": "8b4e5a8393c43892e3288f287478fff5169b1b0026b25b8a891106168017b73e",
+          "size_bytes": 2814796
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/02-宫殿-请求.json",
+      "sha256": "b381955eae53f014aa5625fad66d60fff6d2edf3a91a0ef1333b37d58baf9d37",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+          "size_bytes": 79284
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/04-ChatGPT-用户指定龙娘.png",
+          "sha256": "75daa70f00c98561b00bb7f43558141a5b15f78a19915fe23af6ccc0f7f6eb84",
+          "size_bytes": 1274830
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/空间修订A-地点与起飞-v001.png",
+          "sha256": "68c37a9443e0bd64cd94f486a8f8f3e8b428733b434d9c3be0bc6cdff1841e81",
+          "size_bytes": 3306581
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/03-祭坛-请求.json",
+      "sha256": "b90b5186848c282db41c26529a15451a776c7636dfc7490bd96b7001c7f35c5c",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/01-Claude-母版概念参考.webp",
+          "sha256": "d4bb1e86b085e6593aacee04ac15802c07996646bdede8e5f9b047baef7e7cd7",
+          "size_bytes": 66660
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "size_bytes": 2194303
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/空间修订B-祭坛与锁链-v002.png",
+          "sha256": "3bb946311c77f82286b29e304cf52085271ee1fbe5bf75a73a586889d254b454",
+          "size_bytes": 2895205
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/04-群像-请求.json",
+      "sha256": "0881e2aeebbb1df13d532cf98ec55978fb0e158aac76fb93c5523869ba0a5463",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05A-粗分镜-v003.png",
+          "sha256": "47921c1e183b60f8448e382ffe35b0ab811327a8c5d3f5082e935523723a15ea",
+          "size_bytes": 2923745
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/05-倒影-请求.json",
+      "sha256": "988cd97240117fd56f79d73303fef0f21d9a7ab05d4f513445559d42c1c095a8",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/04-ChatGPT-用户指定龙娘.png",
+          "sha256": "75daa70f00c98561b00bb7f43558141a5b15f78a19915fe23af6ccc0f7f6eb84",
+          "size_bytes": 1274830
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/细节C-危局与回应-v001.png",
+          "sha256": "0e03bf65553b8f9bc3b55db5ed532bd9ed3036c45b29a14cc9818c40dedfc2cf",
+          "size_bytes": 2366037
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/06-脚部与营救-请求.json",
+      "sha256": "fb7ae0885b522d60e8734732558507de76e176c7c60b79ac6db1b7e22952f718",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+          "size_bytes": 79284
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C07_Perplexity.png",
+          "sha256": "1ece10907aa90cf41b282a1c44f284236ee3a10d2e8665fde0bf7a4d0b7b516d",
+          "size_bytes": 213235
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛空间母版-v001.png",
+          "sha256": "c4fba4be094654f85f1f48cc7e7f12649ac89ee5704185eaf0403cae9cc71e58",
+          "size_bytes": 2669269
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/空间修订B-祭坛与锁链-v002.png",
+          "sha256": "3bb946311c77f82286b29e304cf52085271ee1fbe5bf75a73a586889d254b454",
+          "size_bytes": 2895205
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/07-护罩灭火-请求.json",
+      "sha256": "8354ad251690236a647fd497af9a3de69470d87df9ae363d8a0c0338b6bc977b",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+          "size_bytes": 79284
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/04-ChatGPT-用户指定龙娘.png",
+          "sha256": "75daa70f00c98561b00bb7f43558141a5b15f78a19915fe23af6ccc0f7f6eb84",
+          "size_bytes": 1274830
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C07_Perplexity.png",
+          "sha256": "1ece10907aa90cf41b282a1c44f284236ee3a10d2e8665fde0bf7a4d0b7b516d",
+          "size_bytes": 213235
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛空间母版-v001.png",
+          "sha256": "c4fba4be094654f85f1f48cc7e7f12649ac89ee5704185eaf0403cae9cc71e58",
+          "size_bytes": 2669269
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05B-粗分镜-v006.png",
+          "sha256": "5ed3d2eb6dc8d832ee6f415021abd48bc327d919918e282878e6345c2b977e8e",
+          "size_bytes": 2873599
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/08-火把交接-请求.json",
+      "sha256": "d7356c6504af377900da29c0832a9db2216e8cab78491747d874b8171436d080",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛空间母版-v001.png",
+          "sha256": "c4fba4be094654f85f1f48cc7e7f12649ac89ee5704185eaf0403cae9cc71e58",
+          "size_bytes": 2669269
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/连续性-动作衔接-v001.png",
+          "sha256": "043ab8e7e200d011447868153715823f9c3e0bfc40680611aa78d8368e0a2523",
+          "size_bytes": 3228239
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/09-赤足三阶母版-请求.json",
+      "sha256": "c1545ac83db81ddc623f8bf7b8c9028f9f1380efef382620ab25d23709c557a6",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛空间母版-v001.png",
+          "sha256": "c4fba4be094654f85f1f48cc7e7f12649ac89ee5704185eaf0403cae9cc71e58",
+          "size_bytes": 2669269
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/10-赤足解锁-请求.json",
+      "sha256": "47103b1cb062516cd2b13bf77849d1774f2f327d5f12491c4e91ee49add79865",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛空间母版-v002.png",
+          "sha256": "0122afd2633ca69b26562915ce61ae9e5a7598ea41e5ce596f7c8829d30fc5fc",
+          "size_bytes": 2572933
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/脚部与营救-四格-v001.png",
+          "sha256": "78471017cbe9e83658fb967be66f23daa30486e4f578cf0da3da08af75284396",
+          "size_bytes": 2856985
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/11-赤足护罩水魔法-请求.json",
+      "sha256": "22cbf33e3d50742108f417f8f6560dcc06550c0a282aed1403254a912811f0b1",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C04_Qwen.png",
+          "sha256": "f64c8b979b002fbc946103867b90850b8f4a3b0de773cddd4a0d9474b119fd27",
+          "size_bytes": 272034
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛空间母版-v002.png",
+          "sha256": "0122afd2633ca69b26562915ce61ae9e5a7598ea41e5ce596f7c8829d30fc5fc",
+          "size_bytes": 2572933
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/火焰护罩水魔法-四格-v001.png",
+          "sha256": "2f2cd1f3b8cfac9f950bb78f07472f83dd8edc155b4d28e9dd97e9eafd1cc5af",
+          "size_bytes": 3530727
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/12-赤足火把交接-请求.json",
+      "sha256": "2bf49d9563b21117e87719b98da9074f102ef6c124813947129acfeb866fddfb",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛空间母版-v002.png",
+          "sha256": "0122afd2633ca69b26562915ce61ae9e5a7598ea41e5ce596f7c8829d30fc5fc",
+          "size_bytes": 2572933
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY021A-低柴火把交接-v001.png",
+          "sha256": "1c7cde26e3fcb6b545297cb306bdfc1b020614585ab15b079c24be92b6fd4c49",
+          "size_bytes": 2335065
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/13-空堂三阶-请求.json",
+      "sha256": "e9a15e92be5ef610908c04e8d1315765cdbd6dc80a1b3ca6a0310866fa23f426",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛空间母版-v002.png",
+          "sha256": "0122afd2633ca69b26562915ce61ae9e5a7598ea41e5ce596f7c8829d30fc5fc",
+          "size_bytes": 2572933
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S03A-空堂潜入-v003.png",
+          "sha256": "94700e54e16cf2195e00b5cd68f2caad350308b0ce6338fdbc2223dd475dd987",
+          "size_bytes": 2751453
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/14-阻拦三阶-请求.json",
+      "sha256": "ae329d74e5b58b15250c1c81a4a38076efd7c8c860fad9ab6f5f8db475d4f24b",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛空间母版-v002.png",
+          "sha256": "0122afd2633ca69b26562915ce61ae9e5a7598ea41e5ce596f7c8829d30fc5fc",
+          "size_bytes": 2572933
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/空间修订C-阻拦与入场-v002.png",
+          "sha256": "9a19c15f86efa0ccc447c86b891e3b372022742c614beb640bbf6ee7f8dbaea3",
+          "size_bytes": 2875397
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/15-教徒三阶-请求.json",
+      "sha256": "cbff8aaa524536defe3736bb129def18aba8d634e3fa4ed339d56ab0cd6f8532",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛空间母版-v002.png",
+          "sha256": "0122afd2633ca69b26562915ce61ae9e5a7598ea41e5ce596f7c8829d30fc5fc",
+          "size_bytes": 2572933
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S04-粗分镜-v002.png",
+          "sha256": "cb6d76f294286d55acca90c58ffe4cee9ebd9317deee23fbe6925f6dfa466616",
+          "size_bytes": 2668578
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/16-战斗三阶-请求.json",
+      "sha256": "960c56d37ccbe1833f2097bf31c29380148f09266067ecbf2c339b51ac29409e",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛空间母版-v002.png",
+          "sha256": "0122afd2633ca69b26562915ce61ae9e5a7598ea41e5ce596f7c8829d30fc5fc",
+          "size_bytes": 2572933
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05E-对抗与战后-v004.png",
+          "sha256": "7c6f4f698584dbd83821c1ced7829637d41875900de825c7d1c8fe4f9d291705",
+          "size_bytes": 3076726
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/17-落地赤足-请求.json",
+      "sha256": "e90b4be7a853340de6cd6c6905af2b7f7ba6fd37bc473be53142232a1496e55f",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛空间母版-v002.png",
+          "sha256": "0122afd2633ca69b26562915ce61ae9e5a7598ea41e5ce596f7c8829d30fc5fc",
+          "size_bytes": 2572933
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/空间修订F-解锁与站稳-v002.png",
+          "sha256": "a55735915deebad8228dc393f324e8d944b004a273aff6861d4ada407c897157",
+          "size_bytes": 2947395
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/18-脚部纠错-请求.json",
+      "sha256": "83396a26501c5e42db16f5830ba02d5a9da710332e2b0253474ee7cc0de568ba",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/脚部与营救-四格-v002.png",
+          "sha256": "d31708013afb56a13487839c0eb46fa8c56eef3a0fea06ab57e150fe99485538",
+          "size_bytes": 2877613
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/19-空堂减阶纠错-请求.json",
+      "sha256": "5a2615d0df381a4dcb55fedb68a2237991145272efc22cc71bc47fe5461b21f6",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY012-空堂三阶-v001.png",
+          "sha256": "4568a2883d50b307f1d3ca44b43bbe54c44c6ebdc7f4f4ba02e7bced75747518",
+          "size_bytes": 2426063
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/20-教徒减阶纠错-请求.json",
+      "sha256": "5f009f098a1c8e559d63d8609642026b3e04c6eb17fa342ff88fe246e9189abd",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛空间母版-v002.png",
+          "sha256": "0122afd2633ca69b26562915ce61ae9e5a7598ea41e5ce596f7c8829d30fc5fc",
+          "size_bytes": 2572933
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S04-三阶祭坛-v003.png",
+          "sha256": "836573da94ce09ad4fd2104d9367a656fb3b050f0a4ef41a41f5660d167acde7",
+          "size_bytes": 2893204
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/21-落地支点纠错-请求.json",
+      "sha256": "301311b3278e9afe8e2501ac62c797a37b795bd28fca6a7a7ca8ef1b29ebd389",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/空间修订F-赤足站稳-v003.png",
+          "sha256": "336eb1e5c178b3ae64267a6035173e75c4cb2a934ee05c55c056389bcc9166a5",
+          "size_bytes": 2899372
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/22-阻拦减阶纠错-请求.json",
+      "sha256": "049a4245ebe2b8062020e9d9a6744ed3da80fc2b3f52524e53dff6f9ecf367d6",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/空间修订C-三阶-v003.png",
+          "sha256": "cb8a93d36d0ad8f3a0a0ee6e978bfc4b0dd5ac481e2981e62f3211cfbe57bf6a",
+          "size_bytes": 2882773
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/23-对峙减阶纠错-请求.json",
+      "sha256": "a0292143eddc55ddec5389fc910e9cc2ecca418a680e4e26e265b33bb5fa389a",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05E-三阶祭坛-v005.png",
+          "sha256": "826c22880ced330272ecb082c6268c302e20d9056aa0a51c0be77077aebba1b5",
+          "size_bytes": 3013488
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/画面修订-v007/24-点火减阶纠错-请求.json",
+      "sha256": "c1528ca42dbe0845353635bfcd05a4d58986270753735f9fcf60d76ce94f71a5",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/火焰护罩水魔法-四格-v002.png",
+          "sha256": "2a5984d9630d006fdbf65a82704da576a39bf290e3611e35bf5709d3d571a414",
+          "size_bytes": 3624637
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/破门营救-请求-v002.json",
+      "sha256": "cf5129aea319121479d0cfca22c66f14f26a9cab6be7a5313a95143d06f48352",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C04_Qwen.png",
+          "sha256": "f64c8b979b002fbc946103867b90850b8f4a3b0de773cddd4a0d9474b119fd27",
+          "size_bytes": 272034
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C07_Perplexity.png",
+          "sha256": "1ece10907aa90cf41b282a1c44f284236ee3a10d2e8665fde0bf7a4d0b7b516d",
+          "size_bytes": 213235
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C09_Grok.png",
+          "sha256": "05f7abcb005dfae0b50360aef7c9ca241e475146727e040f9c174821092ed8e3",
+          "size_bytes": 294428
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/CHAR-GPT-v003.png",
+          "sha256": "58faf0fe4ba26c782b150dca19aebecd619f334a56de0899d8ad547ac3af16bb",
+          "size_bytes": 2033271
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S03-粗分镜-v001.png",
+          "sha256": "4a206c46049d0e5b02510e953f57ffc780229905f79597b752292be2a287c90a",
+          "size_bytes": 2845198
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/离殿群像身份-修订-请求-v007.json",
+      "sha256": "3988b20d56f670e622b0881aec19d9356fd0a1993939c25c0fff310ab9f4487e",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05B-粗分镜-v004.png",
+          "sha256": "59841457a08672281d8150f44146ee64ed03b363e643330eacd48eb546203d54",
+          "size_bytes": 3131545
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05D-应召分屏-v001.png",
+          "sha256": "db7a626651b4caa696c5dc3d630adc9d4d21f92876c7544f260c85d533232156",
+          "size_bytes": 3002915
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/空堂营救-剧情修订-请求-v002.json",
+      "sha256": "61afa8088778b04cf930cf3dfc21520ce2b6125633295b47c3b1986d0057db91",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/01-Claude-母版概念参考.webp",
+          "sha256": "d4bb1e86b085e6593aacee04ac15802c07996646bdede8e5f9b047baef7e7cd7",
+          "size_bytes": 66660
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+          "size_bytes": 79284
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/ENV-CHURCH-v001.png",
+          "sha256": "9abf138400dee10937e41746970e9527a0b184555ac23337ae3f595bea9bfb32",
+          "size_bytes": 2410193
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "size_bytes": 2194303
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+          "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+          "size_bytes": 2011824
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/空间修订-v006/A-请求.json",
+      "sha256": "bb4a6a447abc037a91e6639e8db2a9cea0b3239b2aa954f4d5d9593d9fa9b2b3",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+          "size_bytes": 79284
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S02-粗分镜-v001.png",
+          "sha256": "2872500648f5436714ed0eba2b50e15a50fe358acfc6163ea13382151cfdcf73",
+          "size_bytes": 2953102
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05E-对抗与战后-v004.png",
+          "sha256": "7c6f4f698584dbd83821c1ced7829637d41875900de825c7d1c8fe4f9d291705",
+          "size_bytes": 3076726
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/空间修订-v006/B-请求.json",
+      "sha256": "bd330c347c01fa8a46adb88a8e3d33eba95704f738467fc080dcb305109de8c4",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S03A-空堂潜入-v003.png",
+          "sha256": "94700e54e16cf2195e00b5cd68f2caad350308b0ce6338fdbc2223dd475dd987",
+          "size_bytes": 2751453
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S03B-解锁未成-v003.png",
+          "sha256": "45d97bb6f6a3e7720534505dd29735941aefd346fe70834899baa5013e140e4c",
+          "size_bytes": 2644550
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/连续性-动作衔接-v001.png",
+          "sha256": "043ab8e7e200d011447868153715823f9c3e0bfc40680611aa78d8368e0a2523",
+          "size_bytes": 3228239
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/空间修订-v006/B2-请求.json",
+      "sha256": "ec26a1566fe4f9423334bea260f19ab7d54091168f256e03bae7f799be0b4167",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/空间修订B-祭坛与锁链-v001.png",
+          "sha256": "358f867a21c27bb7784b325101889a8caedbdb1f5d57da35e881f483648a19b8",
+          "size_bytes": 3036523
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/空间修订-v006/C-请求.json",
+      "sha256": "92686b6e5d4bab31ca5edd8232e27d2a27ebf0ea69b821df7bd1fa288fddf48f",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S04-粗分镜-v002.png",
+          "sha256": "cb6d76f294286d55acca90c58ffe4cee9ebd9317deee23fbe6925f6dfa466616",
+          "size_bytes": 2668578
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05B-粗分镜-v005.png",
+          "sha256": "7816a4ba5850cd1f5ffc5b3d09b9c814e1ac1f1217b4544bc1ae1bd8686f3233",
+          "size_bytes": 3001929
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/连续性-动作衔接-v001.png",
+          "sha256": "043ab8e7e200d011447868153715823f9c3e0bfc40680611aa78d8368e0a2523",
+          "size_bytes": 3228239
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/空间修订-v006/C2-请求.json",
+      "sha256": "e0dd021c6ccd7fcbe1f9450b234743f35b835412f47a07199eeb1f6c67315336",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/空间修订C-阻拦与入场-v001.png",
+          "sha256": "d7aeda7173d86f1d44649f855e67292781ccb9789768a0a74805fb1e01b8050a",
+          "size_bytes": 2953442
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/空间修订-v006/D-请求.json",
+      "sha256": "4ca00fad47da89299a9e7522c73b913541582d453f270b0a8563f10d8875ce25",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05B-粗分镜-v005.png",
+          "sha256": "7816a4ba5850cd1f5ffc5b3d09b9c814e1ac1f1217b4544bc1ae1bd8686f3233",
+          "size_bytes": 3001929
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/连续性-动作衔接-v001.png",
+          "sha256": "043ab8e7e200d011447868153715823f9c3e0bfc40680611aa78d8368e0a2523",
+          "size_bytes": 3228239
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/空间修订-v006/D2-请求.json",
+      "sha256": "a8981600419a5214b41f3a6e3593dfba3989f2e49674555b2baa7ef136e82c8f",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/空间修订D-托稳与落脚-v001.png",
+          "sha256": "6623cee602d668afd8d1bb6076f88dcab1203731108e703c767a71e52988c70f",
+          "size_bytes": 3255860
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/空间修订-v006/E-请求.json",
+      "sha256": "499f5d6a46d29b1f81189b1c6b8c1d951fe40967f01f75795a7396db7f8cbc79",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05B-粗分镜-v005.png",
+          "sha256": "7816a4ba5850cd1f5ffc5b3d09b9c814e1ac1f1217b4544bc1ae1bd8686f3233",
+          "size_bytes": 3001929
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/空间修订-v006/F-请求.json",
+      "sha256": "81169ba3a82c4ed7a2821acb3427e45cd65836478a7e88e85a740521e8f41480",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/空间修订B-祭坛与锁链-v001.png",
+          "sha256": "358f867a21c27bb7784b325101889a8caedbdb1f5d57da35e881f483648a19b8",
+          "size_bytes": 3036523
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/空间修订D-托稳与落脚-v001.png",
+          "sha256": "6623cee602d668afd8d1bb6076f88dcab1203731108e703c767a71e52988c70f",
+          "size_bytes": 3255860
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/空间修订-v006/F2-请求.json",
+      "sha256": "1ef2c8a978333388ed772c60bdf20900c01c72132a4d809eafc1231f6cd76fde",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/空间修订F-解锁与站稳-v001.png",
+          "sha256": "53805db6d4988d5ad099803340349dfecf5832dfbddc428d4d7c841c3b0984eb",
+          "size_bytes": 2971045
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/细节镜头-请求-v008.json",
+      "sha256": "f9b5ce9f29b2768ac0a34d659032b6b100b3fa8729d2a082dd00537758b325bc",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/01-Claude-母版概念参考.webp",
+          "sha256": "d4bb1e86b085e6593aacee04ac15802c07996646bdede8e5f9b047baef7e7cd7",
+          "size_bytes": 66660
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+          "size_bytes": 79284
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C03_Kimi.png",
+          "sha256": "c438afef56d45a8ce520fc944696dfd0f7ac25c1c1c563a7f52a8ac818512fcb",
+          "size_bytes": 259580
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C04_Qwen.png",
+          "sha256": "f64c8b979b002fbc946103867b90850b8f4a3b0de773cddd4a0d9474b119fd27",
+          "size_bytes": 272034
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C06_Gemini.png",
+          "sha256": "29eecec8ac02e8b3cff42bff8fa1ac555aa0d1a618c899c72518ce5f92771eba",
+          "size_bytes": 280216
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C09_Grok.png",
+          "sha256": "05f7abcb005dfae0b50360aef7c9ca241e475146727e040f9c174821092ed8e3",
+          "size_bytes": 294428
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/CHAR-GPT-v003.png",
+          "sha256": "58faf0fe4ba26c782b150dca19aebecd619f334a56de0899d8ad547ac3af16bb",
+          "size_bytes": 2033271
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S01-粗分镜-v001.png",
+          "sha256": "8b4e5a8393c43892e3288f287478fff5169b1b0026b25b8a891106168017b73e",
+          "size_bytes": 2814796
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S02-粗分镜-v001.png",
+          "sha256": "2872500648f5436714ed0eba2b50e15a50fe358acfc6163ea13382151cfdcf73",
+          "size_bytes": 2953102
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S03B-解锁未成-v003.png",
+          "sha256": "45d97bb6f6a3e7720534505dd29735941aefd346fe70834899baa5013e140e4c",
+          "size_bytes": 2644550
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S04-粗分镜-v002.png",
+          "sha256": "cb6d76f294286d55acca90c58ffe4cee9ebd9317deee23fbe6925f6dfa466616",
+          "size_bytes": 2668578
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05A-粗分镜-v003.png",
+          "sha256": "47921c1e183b60f8448e382ffe35b0ab811327a8c5d3f5082e935523723a15ea",
+          "size_bytes": 2923745
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05B-粗分镜-v005.png",
+          "sha256": "7816a4ba5850cd1f5ffc5b3d09b9c814e1ac1f1217b4544bc1ae1bd8686f3233",
+          "size_bytes": 3001929
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05C-四方邀请-v001.png",
+          "sha256": "469b322b09c6c3389eadc071f1fc3c798ea07208f12fbaae69e90948a6402d5f",
+          "size_bytes": 3500996
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05E-对抗与战后-v004.png",
+          "sha256": "7c6f4f698584dbd83821c1ced7829637d41875900de825c7d1c8fe4f9d291705",
+          "size_bytes": 3076726
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S06-粗分镜-v002.png",
+          "sha256": "20cec5cb26ea4ad00a7e14ccebb0c82abb68dd6190a21f1c515b0309bc472164",
+          "size_bytes": 3089400
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/结尾修订-请求-v002.json",
+      "sha256": "7f542ce139b7a61b336dd4ba2ac25d283fb72c7fd9aadfe4a2fa841eeedec346",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+          "size_bytes": 79284
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C09_Grok.png",
+          "sha256": "05f7abcb005dfae0b50360aef7c9ca241e475146727e040f9c174821092ed8e3",
+          "size_bytes": 294428
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/CHAR-GPT-v003.png",
+          "sha256": "58faf0fe4ba26c782b150dca19aebecd619f334a56de0899d8ad547ac3af16bb",
+          "size_bytes": 2033271
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "size_bytes": 2194303
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S06-粗分镜-v001.png",
+          "sha256": "fe2febafe7f8a2cd66973d58d7e89ba4b4d390c900648fafc314f56746a078b2",
+          "size_bytes": 3099704
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/群像人数与倒地-修订-请求-v006.json",
+      "sha256": "dc0e9dbd9bb58f553c6f2a9509aa481d9cf949ed81a95968d539bc2c717cdd87",
+      "input_integrity_at_archive": [
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a1587f-dadf-7201-b369-999281d55060/exec-5895e6a1-b843-48f2-8dd5-0b76e82804dc.png",
+          "sha256": "47921c1e183b60f8448e382ffe35b0ab811327a8c5d3f5082e935523723a15ea",
+          "size_bytes": 2923745
+        },
+        {
+          "path": "C:/Users/36322/.codex/generated_images/01a1587f-dadf-7201-b369-999281d55060/exec-616da8ec-7837-4c74-a738-30ba0bd5f8c6.png",
+          "sha256": "cf30a640a9b30eb0cba03fd2f2e98b45afb05c80953709b7657184706c8d8483",
+          "size_bytes": 3122802
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/连续性与版式修订-请求-v002.json",
+      "sha256": "869935892ff462e98498bd7846e563163e446aa06213440c47cd722e84ec414a",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+          "size_bytes": 79284
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/C04_Qwen.png",
+          "sha256": "f64c8b979b002fbc946103867b90850b8f4a3b0de773cddd4a0d9474b119fd27",
+          "size_bytes": 272034
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/CHAR-GPT-v003.png",
+          "sha256": "58faf0fe4ba26c782b150dca19aebecd619f334a56de0899d8ad547ac3af16bb",
+          "size_bytes": 2033271
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+          "size_bytes": 2194303
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S04-粗分镜-v001.png",
+          "sha256": "8082285bc1c04d2b013df2be8cb8c6d35302632cc8c95fa11ba5f78e2fcc2991",
+          "size_bytes": 2814566
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05-粗分镜-v001.png",
+          "sha256": "6b02eb0f2e321f65b0df8d30969661034b529601fc1d549ac09121a328069708",
+          "size_bytes": 3080774
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/连续性衔接-请求-v011.json",
+      "sha256": "7f498282788c7e233224c2cd7f5b1e342b4ab72c22a54d505f56052b943a161a",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:\\projects\\内容创作\\穿云\\概念参考\\01-Claude-母版概念参考.webp",
+          "sha256": "d4bb1e86b085e6593aacee04ac15802c07996646bdede8e5f9b047baef7e7cd7",
+          "size_bytes": 66660
+        },
+        {
+          "path": "E:\\projects\\内容创作\\穿云\\概念参考\\02-DeepSeek-母版概念参考.webp",
+          "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+          "size_bytes": 79284
+        },
+        {
+          "path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S04-粗分镜-v002.png",
+          "sha256": "cb6d76f294286d55acca90c58ffe4cee9ebd9317deee23fbe6925f6dfa466616",
+          "size_bytes": 2668578
+        },
+        {
+          "path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S05B-粗分镜-v005.png",
+          "sha256": "7816a4ba5850cd1f5ffc5b3d09b9c814e1ac1f1217b4544bc1ae1bd8686f3233",
+          "size_bytes": 3001929
+        },
+        {
+          "path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S06-粗分镜-v002.png",
+          "sha256": "20cec5cb26ea4ad00a7e14ccebb0c82abb68dd6190a21f1c515b0309bc472164",
+          "size_bytes": 3089400
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/锁扣形制-修订-请求-v010.json",
+      "sha256": "4a534363036948d6feae06ec7db3e28df312e91b79794c754c51dc12c597c77c",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S03A-空堂潜入-v003.png",
+          "sha256": "94700e54e16cf2195e00b5cd68f2caad350308b0ce6338fdbc2223dd475dd987",
+          "size_bytes": 2751453
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/细节B-迟疑与回声-v001.png",
+          "sha256": "989047c25984586989d3d5aeb4a414ddad83fba49c45da402e328409d357edb8",
+          "size_bytes": 2427153
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/镜头重排-v008/01-放碗担忧-请求.json",
+      "sha256": "3ec9064ef42641ca8ef73313947c447172610dd4e2034aa4d3ffb817e44c8249",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/空间修订A-地点与起飞-v001.png",
+          "sha256": "68c37a9443e0bd64cd94f486a8f8f3e8b428733b434d9c3be0bc6cdff1841e81",
+          "size_bytes": 3306581
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/镜头重排-v008/02-祭坛双盆母版-请求.json",
+      "sha256": "d7dedb11752eefb6d3083c06bdfee84fcdd733938c223947ddad6669aafcb4b2",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛空间母版-v002.png",
+          "sha256": "0122afd2633ca69b26562915ce61ae9e5a7598ea41e5ce596f7c8829d30fc5fc",
+          "size_bytes": 2572933
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/镜头重排-v008/03-战斗形态参考-请求.json",
+      "sha256": "bab7bf0c8b124748a36d7f71e8ed5091ed97dbfe841048d58300511b2511cf1d",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/CHAR-GPT-v003.png",
+          "sha256": "58faf0fe4ba26c782b150dca19aebecd619f334a56de0899d8ad547ac3af16bb",
+          "size_bytes": 2033271
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/CHAR-PRIEST-v001.png",
+          "sha256": "8076abf07d048b1c6bfc96d2356d6dd33a170119c596374bdd97bfd22dae8fe9",
+          "size_bytes": 2138719
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/镜头重排-v008/04-阻拦与门前四格-请求.json",
+      "sha256": "c35f86fa56b3681795d571342dd3d7c886411928ec9e6bdb6f5a495543dd4ee1",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+          "size_bytes": 79284
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY021A-低柴火把交接-v002.png",
+          "sha256": "0070f4d98a4052988a71f7d478c7cba204f2fad111c182d7d2246851e68db2b6",
+          "size_bytes": 2372878
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05A-粗分镜-v003.png",
+          "sha256": "47921c1e183b60f8448e382ffe35b0ab811327a8c5d3f5082e935523723a15ea",
+          "size_bytes": 2923745
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/镜头重排-v008/05-潜入连续空间-请求.json",
+      "sha256": "598a9248a4f520755f04de84d4c4112fde5dce0e9ed74dc6839f9b6c5752fad1",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛双盆远景-v008.png",
+          "sha256": "25687fad29a3e725a8270d2baf12136ce3b14912e51507a2c35f2ec595f21cec",
+          "size_bytes": 2600096
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S03A-空堂潜入-v003.png",
+          "sha256": "94700e54e16cf2195e00b5cd68f2caad350308b0ce6338fdbc2223dd475dd987",
+          "size_bytes": 2751453
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/镜头重排-v008/06-天瀑破顶-请求.json",
+      "sha256": "cf6ac0d8703a96f7dbbbc9f08c4c8052b8d8c2df38da8feb3f1f36d6d66a1bcc",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/CHAR-PRIEST-v001.png",
+          "sha256": "8076abf07d048b1c6bfc96d2356d6dd33a170119c596374bdd97bfd22dae8fe9",
+          "size_bytes": 2138719
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛双盆远景-v008.png",
+          "sha256": "25687fad29a3e725a8270d2baf12136ce3b14912e51507a2c35f2ec595f21cec",
+          "size_bytes": 2600096
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY024B-天瀑降临-v003.png",
+          "sha256": "6a92fc0309419768d66d32d1a8c2a8e73b70f6e5571351f245ecca8c35b173dd",
+          "size_bytes": 3170289
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/镜头重排-v008/07-抗水走近-请求.json",
+      "sha256": "f3ba2a0187e9acd54ce61a15e42f03ef88a4894958aa95d7b23f1360f71f821f",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/CHAR-GPT-v003.png",
+          "sha256": "58faf0fe4ba26c782b150dca19aebecd619f334a56de0899d8ad547ac3af16bb",
+          "size_bytes": 2033271
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/CHAR-PRIEST-v001.png",
+          "sha256": "8076abf07d048b1c6bfc96d2356d6dd33a170119c596374bdd97bfd22dae8fe9",
+          "size_bytes": 2138719
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛双盆远景-v008.png",
+          "sha256": "25687fad29a3e725a8270d2baf12136ce3b14912e51507a2c35f2ec595f21cec",
+          "size_bytes": 2600096
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/镜头重排-v008/08-变身升空雨滴-请求.json",
+      "sha256": "ab5c8069a7b5763cd49edefdbe8f31ac3c6b4761fc67d1c1c88d96ce12ddaf46",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/CHAR-GPT-v003.png",
+          "sha256": "58faf0fe4ba26c782b150dca19aebecd619f334a56de0899d8ad547ac3af16bb",
+          "size_bytes": 2033271
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/CHAR-PRIEST-v001.png",
+          "sha256": "8076abf07d048b1c6bfc96d2356d6dd33a170119c596374bdd97bfd22dae8fe9",
+          "size_bytes": 2138719
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/战斗形态-白紫水龙与黑金鸦翼-v008.png",
+          "sha256": "9d057cc264cb47a5a3dad07ebbed2dfc2e82648549d518944ad0659c93759f80",
+          "size_bytes": 3315172
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/镜头重排-v008/09-蓝眼水龙-请求.json",
+      "sha256": "6854a505bd58b0f502468e7177f384d0894f9903f069e971cf873f68a5561fb5",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY025-眼中GPT-v001.png",
+          "sha256": "af1d519b70e6f2a8e421a4cc690a6ff3b6ebb0859b609249c7ee49b7f2350ab7",
+          "size_bytes": 2239409
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/战斗形态-白紫水龙与黑金鸦翼-v008.png",
+          "sha256": "9d057cc264cb47a5a3dad07ebbed2dfc2e82648549d518944ad0659c93759f80",
+          "size_bytes": 3315172
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/镜头重排-v008/10-父亲挽留反打-请求.json",
+      "sha256": "ef293fc1783f08ccbfe4eaaa8f984f284b89ebad9f3dee55874f3ba63c51ac36",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/资产/图像/CHAR-PRIEST-v001.png",
+          "sha256": "8076abf07d048b1c6bfc96d2356d6dd33a170119c596374bdd97bfd22dae8fe9",
+          "size_bytes": 2138719
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/Claude-觉醒与焚架-四格-v003.png",
+          "sha256": "23ea8f248bbc60c00b0bc9f205718e029ce79327531d8c299ad051f4a5db5eca",
+          "size_bytes": 2647929
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/镜头重排-v008/11-天瀑三级修正-请求.json",
+      "sha256": "d6b95754d85d2480edf0d0d7142c5f1b6a2f9a407825590b4c7ec87c942be9c4",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛双盆远景-v008.png",
+          "sha256": "25687fad29a3e725a8270d2baf12136ce3b14912e51507a2c35f2ec595f21cec",
+          "size_bytes": 2600096
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY024B-天瀑破顶-v008.png",
+          "sha256": "6f6264fd3b05e71990c1ec0a911189b7ea48845997d5fd4a2004f7845fe41d84",
+          "size_bytes": 3487767
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/镜头重排-v008/12-抗水三级修正-请求.json",
+      "sha256": "b6e05e657659068b8ecbd667c522ea19f6f6047bbe0e10a0599de12d6dff668a",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛双盆远景-v008.png",
+          "sha256": "25687fad29a3e725a8270d2baf12136ce3b14912e51507a2c35f2ec595f21cec",
+          "size_bytes": 2600096
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY027-教主抗水-v008.png",
+          "sha256": "ecc57e929e8742e8ca84ee69a7c11547a21716a12d2838059eb3d946bc62b715",
+          "size_bytes": 2963380
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/镜头重排-v008/13-战后中殿归来-请求.json",
+      "sha256": "c1165a21bdf1fd32cef1af55ddf9fc8260b3a3c77433a443af0447be4c06ad01",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY027-教主抗水-v008.png",
+          "sha256": "ecc57e929e8742e8ca84ee69a7c11547a21716a12d2838059eb3d946bc62b715",
+          "size_bytes": 2963380
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/S05E-天瀑后对峙-v007.png",
+          "sha256": "ff4aefe96512b729b5194bc679779ebfc42ec9a52fb6e4ec47a8d585283cc68c",
+          "size_bytes": 2969993
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/镜头重排-v008/14-教堂外战斗省略-请求.json",
+      "sha256": "b176ced8091ff7e28d29c4fa819ba5942744bb9efae5440bbb31595c2674d2c8",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/变身升空与雨滴-四格-v008.png",
+          "sha256": "b69275f34eb124c939d760119dc73efcd845c465313e588522d48abc32e6c4e5",
+          "size_bytes": 3563818
+        }
+      ]
+    },
+    {
+      "file": "镜头设计/生成记录/镜头重排-v008/15-潜入远景三级修正-请求.json",
+      "sha256": "cfc6322fb831cfe6f6f270c519168aaa5ef43beb6efb8381c5f9b337cb74c729",
+      "input_integrity_at_archive": [
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/CY013-祭坛双盆远景-v008.png",
+          "sha256": "25687fad29a3e725a8270d2baf12136ce3b14912e51507a2c35f2ec595f21cec",
+          "size_bytes": 2600096
+        },
+        {
+          "path": "E:/projects/内容创作/穿云/镜头设计/图像/潜入同一侧墙-四格-v008.png",
+          "sha256": "967c61ba2097024f7307dd79f86b018e93e813e19d58e9ddf9f58b8819c8e99e",
+          "size_bytes": 2744975
+        }
+      ]
+    }
+  ],
+  "current_pages": [
+    {
+      "scenes": [
+        "S01"
+      ],
+      "path": "镜头设计/图像/S01-粗分镜-v001.png",
+      "size": [
+        1672,
+        940
+      ],
+      "sha256": "8b4e5a8393c43892e3288f287478fff5169b1b0026b25b8a891106168017b73e",
+      "x_intervals": [
+        [
+          1,
+          832
+        ],
+        [
+          841,
+          1671
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          465
+        ],
+        [
+          473,
+          939
+        ]
+      ],
+      "panel_count": 4,
+      "referenced_cells": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S02"
+      ],
+      "path": "镜头设计/图像/S02-粗分镜-v001.png",
+      "size": [
+        1364,
+        1153
+      ],
+      "sha256": "2872500648f5436714ed0eba2b50e15a50fe358acfc6163ea13382151cfdcf73",
+      "x_intervals": [
+        [
+          4,
+          678
+        ],
+        [
+          686,
+          1360
+        ]
+      ],
+      "y_intervals": [
+        [
+          4,
+          382
+        ],
+        [
+          387,
+          765
+        ],
+        [
+          771,
+          1148
+        ]
+      ],
+      "panel_count": 6,
+      "referenced_cells": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "unused_cells_preserved": [
+        5
+      ],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S04"
+      ],
+      "path": "镜头设计/图像/S04-粗分镜-v002.png",
+      "size": [
+        1364,
+        1153
+      ],
+      "sha256": "cb6d76f294286d55acca90c58ffe4cee9ebd9317deee23fbe6925f6dfa466616",
+      "x_intervals": [
+        [
+          5,
+          679
+        ],
+        [
+          685,
+          1359
+        ]
+      ],
+      "y_intervals": [
+        [
+          4,
+          382
+        ],
+        [
+          387,
+          742
+        ],
+        [
+          748,
+          1145
+        ]
+      ],
+      "panel_count": 6,
+      "referenced_cells": [
+        3
+      ],
+      "unused_cells_preserved": [
+        0,
+        1,
+        2,
+        4,
+        5
+      ],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "path": "镜头设计/图像/S05A-粗分镜-v003.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "47921c1e183b60f8448e382ffe35b0ab811327a8c5d3f5082e935523723a15ea",
+      "x_intervals": [
+        [
+          4,
+          834
+        ],
+        [
+          838,
+          1668
+        ]
+      ],
+      "y_intervals": [
+        [
+          3,
+          469
+        ],
+        [
+          473,
+          937
+        ]
+      ],
+      "panel_count": 4,
+      "referenced_cells": [
+        0,
+        3
+      ],
+      "unused_cells_preserved": [
+        1,
+        2
+      ],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S06"
+      ],
+      "path": "镜头设计/图像/S06-粗分镜-v002.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "20cec5cb26ea4ad00a7e14ccebb0c82abb68dd6190a21f1c515b0309bc472164",
+      "x_intervals": [
+        [
+          1,
+          832
+        ],
+        [
+          841,
+          1671
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          466
+        ],
+        [
+          475,
+          940
+        ]
+      ],
+      "panel_count": 4,
+      "referenced_cells": [
+        0,
+        2,
+        3
+      ],
+      "unused_cells_preserved": [
+        1
+      ],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S03"
+      ],
+      "path": "镜头设计/图像/S03A-空堂潜入-v003.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "94700e54e16cf2195e00b5cd68f2caad350308b0ce6338fdbc2223dd475dd987",
+      "x_intervals": [
+        [
+          1,
+          831
+        ],
+        [
+          841,
+          1671
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          309
+        ],
+        [
+          316,
+          623
+        ],
+        [
+          630,
+          940
+        ]
+      ],
+      "panel_count": 6,
+      "referenced_cells": [
+        5
+      ],
+      "unused_cells_preserved": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S03"
+      ],
+      "path": "镜头设计/图像/S03B-解锁未成-v003.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "45d97bb6f6a3e7720534505dd29735941aefd346fe70834899baa5013e140e4c",
+      "x_intervals": [
+        [
+          1,
+          833
+        ],
+        [
+          840,
+          1671
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          467
+        ],
+        [
+          474,
+          940
+        ]
+      ],
+      "panel_count": 4,
+      "referenced_cells": [
+        3
+      ],
+      "unused_cells_preserved": [
+        0,
+        1,
+        2
+      ],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "path": "镜头设计/图像/S05C-四方邀请-v001.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "469b322b09c6c3389eadc071f1fc3c798ea07208f12fbaae69e90948a6402d5f",
+      "x_intervals": [
+        [
+          1,
+          834
+        ],
+        [
+          839,
+          1671
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          467
+        ],
+        [
+          472,
+          940
+        ]
+      ],
+      "panel_count": 4,
+      "referenced_cells": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "path": "镜头设计/图像/S05D-应召分屏-v001.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "db7a626651b4caa696c5dc3d630adc9d4d21f92876c7544f260c85d533232156",
+      "x_intervals": [
+        [
+          0,
+          1672
+        ]
+      ],
+      "y_intervals": [
+        [
+          0,
+          941
+        ]
+      ],
+      "panel_count": 1,
+      "referenced_cells": [
+        0
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "path": "镜头设计/图像/S05E-对抗与战后-v004.png",
+      "size": [
+        1366,
+        1151
+      ],
+      "sha256": "7c6f4f698584dbd83821c1ced7829637d41875900de825c7d1c8fe4f9d291705",
+      "x_intervals": [
+        [
+          1,
+          680
+        ],
+        [
+          686,
+          1365
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          371
+        ],
+        [
+          375,
+          750
+        ],
+        [
+          753,
+          1150
+        ]
+      ],
+      "panel_count": 6,
+      "referenced_cells": [
+        4
+      ],
+      "unused_cells_preserved": [
+        0,
+        1,
+        2,
+        3,
+        5
+      ],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S01"
+      ],
+      "path": "镜头设计/图像/细节A-递饭与选择-v001.png",
+      "size": [
+        1672,
+        940
+      ],
+      "sha256": "a3daed2aa18dcc61bf295206e2efe16212a3209ccea1681fd66bf0a5dfc1390c",
+      "x_intervals": [
+        [
+          1,
+          832
+        ],
+        [
+          842,
+          1671
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          466
+        ],
+        [
+          474,
+          939
+        ]
+      ],
+      "panel_count": 4,
+      "referenced_cells": [
+        0,
+        1
+      ],
+      "unused_cells_preserved": [
+        2,
+        3
+      ],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S02",
+        "S03"
+      ],
+      "path": "镜头设计/图像/细节B-迟疑与回声-v001.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "989047c25984586989d3d5aeb4a414ddad83fba49c45da402e328409d357edb8",
+      "x_intervals": [
+        [
+          1,
+          832
+        ],
+        [
+          841,
+          1671
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          467
+        ],
+        [
+          474,
+          940
+        ]
+      ],
+      "panel_count": 4,
+      "referenced_cells": [
+        0,
+        1,
+        3
+      ],
+      "unused_cells_preserved": [
+        2
+      ],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S04"
+      ],
+      "path": "镜头设计/图像/细节C-危局与回应-v001.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "0e03bf65553b8f9bc3b55db5ed532bd9ed3036c45b29a14cc9818c40dedfc2cf",
+      "x_intervals": [
+        [
+          1,
+          833
+        ],
+        [
+          839,
+          1671
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          468
+        ],
+        [
+          474,
+          940
+        ]
+      ],
+      "panel_count": 4,
+      "referenced_cells": [
+        1
+      ],
+      "unused_cells_preserved": [
+        0,
+        2,
+        3
+      ],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "path": "镜头设计/图像/细节D-四方应邀-v001.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "6702f4ed9d0d8d305fb0dfd7afcd5f3b7683054139b17b8aaea3b93867179943",
+      "x_intervals": [
+        [
+          1,
+          833
+        ],
+        [
+          838,
+          1671
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          468
+        ],
+        [
+          472,
+          940
+        ]
+      ],
+      "panel_count": 4,
+      "referenced_cells": [
+        0,
+        3
+      ],
+      "unused_cells_preserved": [
+        1,
+        2
+      ],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S06"
+      ],
+      "path": "镜头设计/图像/细节F-接勺握持-v002.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "d19d00ca7d0b68f3f107390adfeee6b904a87d11f53bbe420482f5becb28c775",
+      "x_intervals": [
+        [
+          0,
+          1672
+        ]
+      ],
+      "y_intervals": [
+        [
+          0,
+          941
+        ]
+      ],
+      "panel_count": 1,
+      "referenced_cells": [
+        0
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S03"
+      ],
+      "path": "镜头设计/图像/细节G-锁扣停手-v002.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "ad794a5aa464a14c0274a4a278b0104bb17292fbe76b748ee08e09bebc7caf63",
+      "x_intervals": [
+        [
+          0,
+          1672
+        ]
+      ],
+      "y_intervals": [
+        [
+          0,
+          941
+        ]
+      ],
+      "panel_count": 1,
+      "referenced_cells": [
+        0
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S06"
+      ],
+      "path": "镜头设计/图像/连续性-动作衔接-v001.png",
+      "size": [
+        965,
+        1629
+      ],
+      "sha256": "043ab8e7e200d011447868153715823f9c3e0bfc40680611aa78d8368e0a2523",
+      "x_intervals": [
+        [
+          0,
+          965
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          500
+        ],
+        [
+          508,
+          1076
+        ],
+        [
+          1083,
+          1628
+        ]
+      ],
+      "panel_count": 3,
+      "referenced_cells": [
+        2
+      ],
+      "unused_cells_preserved": [
+        0,
+        1
+      ],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S02"
+      ],
+      "path": "镜头设计/图像/空间修订A-地点与起飞-v001.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "68c37a9443e0bd64cd94f486a8f8f3e8b428733b434d9c3be0bc6cdff1841e81",
+      "x_intervals": [
+        [
+          1,
+          832
+        ],
+        [
+          840,
+          1671
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          468
+        ],
+        [
+          473,
+          940
+        ]
+      ],
+      "panel_count": 4,
+      "referenced_cells": [
+        1
+      ],
+      "unused_cells_preserved": [
+        0,
+        2,
+        3
+      ],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S03"
+      ],
+      "path": "镜头设计/图像/空间修订B-祭坛与锁链-v002.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "3bb946311c77f82286b29e304cf52085271ee1fbe5bf75a73a586889d254b454",
+      "x_intervals": [
+        [
+          1,
+          832
+        ],
+        [
+          840,
+          1671
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          468
+        ],
+        [
+          475,
+          940
+        ]
+      ],
+      "panel_count": 4,
+      "referenced_cells": [
+        2
+      ],
+      "unused_cells_preserved": [
+        0,
+        1,
+        3
+      ],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S01"
+      ],
+      "path": "镜头设计/图像/CY003C-教徒驱逐-v001.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "2fe1f01b0cc84a9275908aa4c10966320ec928d1baaeb13fa8e4572afcdbadf9",
+      "x_intervals": [
+        [
+          0,
+          1672
+        ]
+      ],
+      "y_intervals": [
+        [
+          0,
+          941
+        ]
+      ],
+      "panel_count": 1,
+      "referenced_cells": [
+        0
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S03",
+        "S05"
+      ],
+      "path": "镜头设计/图像/脚部与营救-四格-v003.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "5f852936ecc308f16e810f516c74737df80d9f20beebe515214de69590405f89",
+      "x_intervals": [
+        [
+          1,
+          833
+        ],
+        [
+          841,
+          1671
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          469
+        ],
+        [
+          476,
+          940
+        ]
+      ],
+      "panel_count": 4,
+      "referenced_cells": [
+        2,
+        0,
+        1,
+        3
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S04"
+      ],
+      "path": "镜头设计/图像/空间修订C-三阶-v004.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "52b6b7a8db253e95cc6f1cae569457a234355fc5e9331f02ad36aa32b95a3b1a",
+      "x_intervals": [
+        [
+          1,
+          834
+        ],
+        [
+          839,
+          1671
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          467
+        ],
+        [
+          473,
+          940
+        ]
+      ],
+      "panel_count": 4,
+      "referenced_cells": [
+        0,
+        1,
+        2
+      ],
+      "unused_cells_preserved": [
+        3
+      ],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S04"
+      ],
+      "path": "镜头设计/图像/S04-三阶祭坛-v004.png",
+      "size": [
+        1363,
+        1154
+      ],
+      "sha256": "290a4d0206f4e22642b57de64664e74c0c1019d4e37f43d31bc459fd10e42905",
+      "x_intervals": [
+        [
+          6,
+          678
+        ],
+        [
+          685,
+          1357
+        ]
+      ],
+      "y_intervals": [
+        [
+          5,
+          381
+        ],
+        [
+          386,
+          744
+        ],
+        [
+          751,
+          1145
+        ]
+      ],
+      "panel_count": 6,
+      "referenced_cells": [
+        0,
+        1,
+        2
+      ],
+      "unused_cells_preserved": [
+        3,
+        4,
+        5
+      ],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "path": "镜头设计/图像/CY024-援军纵深队形-v001.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "e3c691f27e15d0ef56b5631e9a8706fc8a671e12fb75a423bcea5153f441ab3d",
+      "x_intervals": [
+        [
+          0,
+          1672
+        ]
+      ],
+      "y_intervals": [
+        [
+          0,
+          941
+        ]
+      ],
+      "panel_count": 1,
+      "referenced_cells": [
+        0
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S04"
+      ],
+      "path": "镜头设计/图像/火焰护罩水魔法-四格-v003.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "052a1f629135863ee5ea08546f3af2d26ed28c6a76a6f3e77ba20ed87ee1cc82",
+      "x_intervals": [
+        [
+          1,
+          833
+        ],
+        [
+          839,
+          1671
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          467
+        ],
+        [
+          472,
+          940
+        ]
+      ],
+      "panel_count": 4,
+      "referenced_cells": [
+        0
+      ],
+      "unused_cells_preserved": [
+        1,
+        2,
+        3
+      ],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S04"
+      ],
+      "path": "镜头设计/图像/CY021-信号近景三阶-v002.png",
+      "size": [
+        1673,
+        940
+      ],
+      "sha256": "91bc7990f13e1e9f383651c676f375ca75f595edf392e7d8a2e5e91b1ad34299",
+      "x_intervals": [
+        [
+          0,
+          1673
+        ]
+      ],
+      "y_intervals": [
+        [
+          0,
+          940
+        ]
+      ],
+      "panel_count": 1,
+      "referenced_cells": [
+        0
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "path": "镜头设计/图像/CY024A-天瀑起手-v001.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "e8c5c4da76bb6650457d368b1586143acfdd2cc05fe24ee5a0336f6886de3065",
+      "x_intervals": [
+        [
+          0,
+          1672
+        ]
+      ],
+      "y_intervals": [
+        [
+          0,
+          941
+        ]
+      ],
+      "panel_count": 1,
+      "referenced_cells": [
+        0
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "path": "镜头设计/图像/S05E-天瀑后对峙-v007.png",
+      "size": [
+        1367,
+        1150
+      ],
+      "sha256": "ff4aefe96512b729b5194bc679779ebfc42ec9a52fb6e4ec47a8d585283cc68c",
+      "x_intervals": [
+        [
+          1,
+          683
+        ],
+        [
+          690,
+          1366
+        ]
+      ],
+      "y_intervals": [
+        [
+          0,
+          371
+        ],
+        [
+          375,
+          749
+        ],
+        [
+          752,
+          1150
+        ]
+      ],
+      "panel_count": 6,
+      "referenced_cells": [
+        0,
+        1,
+        3
+      ],
+      "unused_cells_preserved": [
+        2,
+        4,
+        5
+      ],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "path": "镜头设计/图像/空间修订F-解锁扶稳-v005.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "850fae018df53e98a096be6fdf104a663ec55380267ea5690e2f74448270db6f",
+      "x_intervals": [
+        [
+          0,
+          1672
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          468
+        ],
+        [
+          475,
+          940
+        ]
+      ],
+      "panel_count": 2,
+      "referenced_cells": [
+        0,
+        1
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "path": "镜头设计/图像/Claude-觉醒与焚架-四格-v003.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "23ea8f248bbc60c00b0bc9f205718e029ce79327531d8c299ad051f4a5db5eca",
+      "x_intervals": [
+        [
+          1,
+          832
+        ],
+        [
+          840,
+          1671
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          443
+        ],
+        [
+          451,
+          940
+        ]
+      ],
+      "panel_count": 4,
+      "referenced_cells": [
+        0,
+        1,
+        3
+      ],
+      "unused_cells_preserved": [
+        2
+      ],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "path": "镜头设计/图像/Claude-力竭接抱-四格-v004.png",
+      "size": [
+        1671,
+        941
+      ],
+      "sha256": "f8a7d13e0fc71ccc35df0ff096cd5df8287eefffc30d6e0e274dc91791b410a4",
+      "x_intervals": [
+        [
+          1,
+          831
+        ],
+        [
+          840,
+          1670
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          467
+        ],
+        [
+          474,
+          940
+        ]
+      ],
+      "panel_count": 4,
+      "referenced_cells": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "path": "镜头设计/图像/CY030-公主抱离殿群像-v001.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "f8e241e781ace247d0111983f7f4c3b86b419c61650538bc66f867a3d9a35414",
+      "x_intervals": [
+        [
+          0,
+          1672
+        ]
+      ],
+      "y_intervals": [
+        [
+          0,
+          941
+        ]
+      ],
+      "panel_count": 1,
+      "referenced_cells": [
+        0
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S01"
+      ],
+      "path": "镜头设计/图像/CY004A-放碗担忧-v008.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "4da3106fd46045f6ad19c50a706a2fbf92709d9802de3e48f7135ba26bc30008",
+      "x_intervals": [
+        [
+          0,
+          1672
+        ]
+      ],
+      "y_intervals": [
+        [
+          0,
+          941
+        ]
+      ],
+      "panel_count": 1,
+      "referenced_cells": [
+        0
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S03"
+      ],
+      "path": "镜头设计/图像/潜入同一侧墙-四格-v008.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "967c61ba2097024f7307dd79f86b018e93e813e19d58e9ddf9f58b8819c8e99e",
+      "x_intervals": [
+        [
+          1,
+          832
+        ],
+        [
+          840,
+          1671
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          467
+        ],
+        [
+          474,
+          940
+        ]
+      ],
+      "panel_count": 4,
+      "referenced_cells": [
+        0,
+        1
+      ],
+      "unused_cells_preserved": [
+        2,
+        3
+      ],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S03"
+      ],
+      "path": "镜头设计/图像/CY013-祭坛双盆远景-v008.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "25687fad29a3e725a8270d2baf12136ce3b14912e51507a2c35f2ec595f21cec",
+      "x_intervals": [
+        [
+          0,
+          1672
+        ]
+      ],
+      "y_intervals": [
+        [
+          0,
+          941
+        ]
+      ],
+      "panel_count": 1,
+      "referenced_cells": [
+        0
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S04"
+      ],
+      "path": "镜头设计/图像/阻拦抓袍与破门前-四格-v008.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "5eb68306bb44d0983d9c1d17d25d0587e6c18ffd3da6a5bd291f540d3bf36850",
+      "x_intervals": [
+        [
+          4,
+          833
+        ],
+        [
+          839,
+          1671
+        ]
+      ],
+      "y_intervals": [
+        [
+          3,
+          469
+        ],
+        [
+          473,
+          938
+        ]
+      ],
+      "panel_count": 4,
+      "referenced_cells": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "path": "镜头设计/图像/CY024B-天瀑破顶三阶-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "76eaec06efdad7613422c5d4014a0c0ac349fb3dbbd50b5c6eb450d4374fe9b8",
+      "x_intervals": [
+        [
+          0,
+          1672
+        ]
+      ],
+      "y_intervals": [
+        [
+          0,
+          941
+        ]
+      ],
+      "panel_count": 1,
+      "referenced_cells": [
+        0
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "path": "镜头设计/图像/CY027-教主抗水三阶-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "fadd616e4f91adf51076844cddb4132ff7686f18860b1bafb7fd30d3f37f50db",
+      "x_intervals": [
+        [
+          0,
+          1672
+        ]
+      ],
+      "y_intervals": [
+        [
+          0,
+          941
+        ]
+      ],
+      "panel_count": 1,
+      "referenced_cells": [
+        0
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "path": "镜头设计/图像/变身升空与雨滴-四格-v008.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "b69275f34eb124c939d760119dc73efcd845c465313e588522d48abc32e6c4e5",
+      "x_intervals": [
+        [
+          1,
+          833
+        ],
+        [
+          840,
+          1671
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          467
+        ],
+        [
+          474,
+          940
+        ]
+      ],
+      "panel_count": 4,
+      "referenced_cells": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "path": "镜头设计/图像/CY025-眼中升空水龙-v008.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "462c43c4c97a222fc055dfa36914bd2a81f7728a57570ac5b157851eaeb66dfb",
+      "x_intervals": [
+        [
+          0,
+          1672
+        ]
+      ],
+      "y_intervals": [
+        [
+          0,
+          941
+        ]
+      ],
+      "panel_count": 1,
+      "referenced_cells": [
+        0
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "path": "镜头设计/图像/CY027E2-教堂外战斗爆闪-v008.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "536fe4e323336c078826cc1f5a9c83b7e1e2bff6ee0401c71c4a140ac158d433",
+      "x_intervals": [
+        [
+          0,
+          1672
+        ]
+      ],
+      "y_intervals": [
+        [
+          0,
+          941
+        ]
+      ],
+      "panel_count": 1,
+      "referenced_cells": [
+        0
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "path": "镜头设计/图像/CY027F-破顶战后归来-v008.png",
+      "size": [
+        1672,
+        940
+      ],
+      "sha256": "28c0039c3f83df636acccbf025d4ae30b2da2f49cf280c80dc818fafb4af95fe",
+      "x_intervals": [
+        [
+          0,
+          1672
+        ]
+      ],
+      "y_intervals": [
+        [
+          0,
+          940
+        ]
+      ],
+      "panel_count": 1,
+      "referenced_cells": [
+        0
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "path": "镜头设计/图像/Claude倒影与教主挽留-双格-v008.png",
+      "size": [
+        1182,
+        1331
+      ],
+      "sha256": "9ce85cddfb3df87c06c93c2824f317c7c5f442adea28fe2153115e157a5720af",
+      "x_intervals": [
+        [
+          0,
+          1182
+        ]
+      ],
+      "y_intervals": [
+        [
+          1,
+          659
+        ],
+        [
+          665,
+          1330
+        ]
+      ],
+      "panel_count": 2,
+      "referenced_cells": [
+        0,
+        1
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    },
+    {
+      "scenes": [
+        "S03"
+      ],
+      "path": "镜头设计/图像/CY012-潜入双盆三阶-v009.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "804c3810bb382629606af97659450b73eae4b852bf1d67aed4ae035ccbb0e059",
+      "x_intervals": [
+        [
+          0,
+          1672
+        ]
+      ],
+      "y_intervals": [
+        [
+          0,
+          941
+        ]
+      ],
+      "panel_count": 1,
+      "referenced_cells": [
+        0
+      ],
+      "unused_cells_preserved": [],
+      "raster_modified": false
+    }
+  ],
+  "failed_requests": [
+    {
+      "scene": "S03",
+      "request": "镜头设计/生成记录/六场粗分镜-请求-v001.json",
+      "error": "referenced_image_paths must contain at most 5 paths"
+    },
+    {
+      "scene": "S04",
+      "request": "镜头设计/生成记录/六场粗分镜-请求-v001.json",
+      "error": "referenced_image_paths must contain at most 5 paths"
+    },
+    {
+      "scene": "S05",
+      "request": "镜头设计/生成记录/六场粗分镜-请求-v001.json",
+      "error": "referenced_image_paths must contain at most 5 paths"
+    }
+  ],
+  "media_policy": "Source files preserved; no raster editing or cropping; panel windows are display metadata only.",
+  "video_produced": false
+}

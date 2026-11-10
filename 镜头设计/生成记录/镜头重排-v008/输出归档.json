@@ -1,0 +1,158 @@
+{
+  "version": "v008",
+  "engine": "built-in imagegen",
+  "outputs": [
+    {
+      "key": "01-放碗担忧",
+      "request": "01-放碗担忧-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-83a4241a-8263-44c5-ba48-f1907a0586ea.png",
+      "copy": "镜头设计/图像/CY004A-放碗担忧-v008.png",
+      "status": "storyboard_candidate",
+      "sha256": "4da3106fd46045f6ad19c50a706a2fbf92709d9802de3e48f7135ba26bc30008",
+      "size_bytes": 2471336,
+      "original_matches": true
+    },
+    {
+      "key": "02-祭坛双盆母版",
+      "request": "02-祭坛双盆母版-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-607e73b4-da1a-470c-9bbd-701186a54094.png",
+      "copy": "镜头设计/图像/CY013-祭坛双盆远景-v008.png",
+      "status": "storyboard_candidate",
+      "sha256": "25687fad29a3e725a8270d2baf12136ce3b14912e51507a2c35f2ec595f21cec",
+      "size_bytes": 2600096,
+      "original_matches": true
+    },
+    {
+      "key": "03-战斗形态参考",
+      "request": "03-战斗形态参考-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-737e8a97-99ca-4990-be86-adf2bc458c92.png",
+      "copy": "镜头设计/图像/战斗形态-白紫水龙与黑金鸦翼-v008.png",
+      "status": "variant_concept_candidate",
+      "sha256": "9d057cc264cb47a5a3dad07ebbed2dfc2e82648549d518944ad0659c93759f80",
+      "size_bytes": 3315172,
+      "original_matches": true
+    },
+    {
+      "key": "04-阻拦与门前四格",
+      "request": "04-阻拦与门前四格-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-2be22b6a-44c5-4612-8ba9-c3efffb75947.png",
+      "copy": "镜头设计/图像/阻拦抓袍与破门前-四格-v008.png",
+      "status": "storyboard_candidate",
+      "sha256": "5eb68306bb44d0983d9c1d17d25d0587e6c18ffd3da6a5bd291f540d3bf36850",
+      "size_bytes": 2614145,
+      "original_matches": true
+    },
+    {
+      "key": "05-潜入连续空间",
+      "request": "05-潜入连续空间-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-f3218650-bed9-460c-b1d2-b2d1c722f1f9.png",
+      "copy": "镜头设计/图像/潜入同一侧墙-四格-v008.png",
+      "status": "storyboard_candidate",
+      "sha256": "967c61ba2097024f7307dd79f86b018e93e813e19d58e9ddf9f58b8819c8e99e",
+      "size_bytes": 2744975,
+      "original_matches": true,
+      "usage": "仅采用0、1格；2格四阶弃用，由15局修替代；3格备用未使用。"
+    },
+    {
+      "key": "06-天瀑破顶",
+      "request": "06-天瀑破顶-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-f80c9245-4c81-48f1-b7a8-70fd2b153db9.png",
+      "copy": "镜头设计/图像/CY024B-天瀑破顶-v008.png",
+      "status": "rejected_extra_stairs_preserved",
+      "sha256": "6f6264fd3b05e71990c1ec0a911189b7ea48845997d5fd4a2004f7845fe41d84",
+      "size_bytes": 3487767,
+      "original_matches": true
+    },
+    {
+      "key": "07-抗水走近",
+      "request": "07-抗水走近-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-276e6f53-4840-4011-b5e7-d1a626c28b74.png",
+      "copy": "镜头设计/图像/CY027-教主抗水-v008.png",
+      "status": "rejected_extra_stairs_preserved",
+      "sha256": "ecc57e929e8742e8ca84ee69a7c11547a21716a12d2838059eb3d946bc62b715",
+      "size_bytes": 2963380,
+      "original_matches": true
+    },
+    {
+      "key": "08-变身升空雨滴",
+      "request": "08-变身升空雨滴-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-82205005-de04-4668-a70d-031f949a2b6d.png",
+      "copy": "镜头设计/图像/变身升空与雨滴-四格-v008.png",
+      "status": "storyboard_candidate",
+      "sha256": "b69275f34eb124c939d760119dc73efcd845c465313e588522d48abc32e6c4e5",
+      "size_bytes": 3563818,
+      "original_matches": true
+    },
+    {
+      "key": "09-蓝眼水龙",
+      "request": "09-蓝眼水龙-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-bf97903e-11c6-49fa-aaf2-b2c4f504ca0f.png",
+      "copy": "镜头设计/图像/CY025-眼中升空水龙-v008.png",
+      "status": "storyboard_candidate",
+      "sha256": "462c43c4c97a222fc055dfa36914bd2a81f7728a57570ac5b157851eaeb66dfb",
+      "size_bytes": 2396814,
+      "original_matches": true
+    },
+    {
+      "key": "10-父亲挽留反打",
+      "request": "10-父亲挽留反打-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-5c114014-7834-4d30-b411-eaf6d217ac9c.png",
+      "copy": "镜头设计/图像/Claude倒影与教主挽留-双格-v008.png",
+      "status": "storyboard_candidate",
+      "sha256": "9ce85cddfb3df87c06c93c2824f317c7c5f442adea28fe2153115e157a5720af",
+      "size_bytes": 2516937,
+      "original_matches": true
+    },
+    {
+      "key": "11-天瀑三级修正",
+      "request": "11-天瀑三级修正-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-c5630061-479c-4490-b58a-e3f7e660a0f1.png",
+      "copy": "镜头设计/图像/CY024B-天瀑破顶三阶-v009.png",
+      "status": "storyboard_candidate",
+      "sha256": "76eaec06efdad7613422c5d4014a0c0ac349fb3dbbd50b5c6eb450d4374fe9b8",
+      "size_bytes": 3298423,
+      "original_matches": true
+    },
+    {
+      "key": "12-抗水三级修正",
+      "request": "12-抗水三级修正-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-8016831e-e25e-4aad-bd80-8279c3d95a06.png",
+      "copy": "镜头设计/图像/CY027-教主抗水三阶-v009.png",
+      "status": "storyboard_candidate",
+      "sha256": "fadd616e4f91adf51076844cddb4132ff7686f18860b1bafb7fd30d3f37f50db",
+      "size_bytes": 2847441,
+      "original_matches": true
+    },
+    {
+      "key": "13-战后中殿归来",
+      "request": "13-战后中殿归来-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-8fcbbe67-235f-4f4c-96c7-2228b9c31fa5.png",
+      "copy": "镜头设计/图像/CY027F-破顶战后归来-v008.png",
+      "status": "storyboard_candidate",
+      "sha256": "28c0039c3f83df636acccbf025d4ae30b2da2f49cf280c80dc818fafb4af95fe",
+      "size_bytes": 3244640,
+      "original_matches": true
+    },
+    {
+      "key": "14-教堂外战斗省略",
+      "request": "14-教堂外战斗省略-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-10316e92-ef85-4069-a799-5c628cf82279.png",
+      "copy": "镜头设计/图像/CY027E2-教堂外战斗爆闪-v008.png",
+      "status": "storyboard_candidate",
+      "sha256": "536fe4e323336c078826cc1f5a9c83b7e1e2bff6ee0401c71c4a140ac158d433",
+      "size_bytes": 3112974,
+      "original_matches": true
+    },
+    {
+      "key": "15-潜入远景三级修正",
+      "request": "15-潜入远景三级修正-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-31266502-a852-49dc-ae84-304a99bee932.png",
+      "copy": "镜头设计/图像/CY012-潜入双盆三阶-v009.png",
+      "status": "storyboard_candidate",
+      "sha256": "804c3810bb382629606af97659450b73eae4b852bf1d67aed4ae035ccbb0e059",
+      "size_bytes": 2678841,
+      "original_matches": true
+    }
+  ],
+  "limitations": "静帧候选；未生成动态视频或重导配乐。原件与历史版本保留。"
+}

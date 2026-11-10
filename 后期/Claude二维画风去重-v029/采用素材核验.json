@@ -1,0 +1,48 @@
+[
+  {
+    "shot": "035",
+    "file": "035_Claude二维制止_v029.mp4",
+    "sha256": "548e6c6ac7ca9a7f1bb5207cb4bc9619128f88dd201541ef0010b4c29420694a",
+    "take": "r3",
+    "source_frames": [
+      13,
+      73
+    ],
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1344,
+          "height": 768,
+          "r_frame_rate": "24/1",
+          "nb_frames": "60"
+        }
+      ]
+    }
+  },
+  {
+    "shot": "038",
+    "file": "038_Claude二维恳求_v029.mp4",
+    "sha256": "bfc21ca5be768fe6d9cb2ba74dc123398d9c7f2fe81d69d096990596a7ca48c0",
+    "take": "r3",
+    "source_frames": [
+      11,
+      107
+    ],
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1344,
+          "height": 768,
+          "r_frame_rate": "24/1",
+          "nb_frames": "96"
+        }
+      ]
+    }
+  }
+]

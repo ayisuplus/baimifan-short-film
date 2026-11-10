@@ -1,0 +1,31 @@
+{
+  "project": "restored-ad3867fc-177c-4371-bb51-7ed75d686e30",
+  "name": "白米饭 · 全片画面 v035",
+  "url": "http://127.0.0.1:8978/editor/restored-ad3867fc-177c-4371-bb51-7ed75d686e30",
+  "association_version": "v036",
+  "timeline_clips": 118,
+  "timeline_frames": 9059,
+  "fps": 24,
+  "all_edit_fields_unchanged": true,
+  "script_references": 124,
+  "actual_generated_prompt_clips": 117,
+  "local_camera_only_clips": 1,
+  "final_browser_backup_id": "069bf584-60ec-4678-86b0-6f68046c98a0",
+  "complete_backup_directory": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\片段新稿编辑-v037\\完整工程备份\\069bf584-60ec-4678-86b0-6f68046c98a0",
+  "backup_bytes": 966734818,
+  "backup_files": 504,
+  "source_before_backup_id": "54727fa5-e3b9-40f2-9d39-9dd6526145f5",
+  "native_working_directory": "E:\\projects\\媒体后期\\OpenCut-classic\\.local\\project-backups\\restored\\restored-ad3867fc-177c-4371-bb51-7ed75d686e30",
+  "screenplay_revision": 9,
+  "writing_revision": 5,
+  "asset_count": 28,
+  "generation_started": false,
+  "audio_subtitle_changes": false,
+  "editing_feature_version": "v037",
+  "editable_clip_count": 118,
+  "clip_draft_versions": {
+    "CUT003": 1
+  },
+  "draft_copy_equals_source": true,
+  "code_commit": "33695ed"
+}

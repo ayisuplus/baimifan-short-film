@@ -1,0 +1,40 @@
+{
+  "id": "BGM-CY-FR-53",
+  "bvid": "BV1U6BfBCE5o",
+  "part": 53,
+  "title": "Knife to the Throat",
+  "display_title": "刀锋抵喉",
+  "work": "葬送的芙莉莲",
+  "composer": "Evan Call",
+  "source_page_title": "53.Knife to the Throat",
+  "navigation_translation": "中文曲名为导航释义；原名保留。",
+  "cid": 35577988950,
+  "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=53",
+  "uploader": "高速公路的残像",
+  "video_title": "《葬送的芙莉莲》原声带",
+  "path": "资产/声音/BGM/重选-v003/BGM-CY-FR-53.m4a",
+  "bytes": 1526882,
+  "sha256": "6f01b576c95a0fb75bc7e79503e6d0971acc96a71b8fd29f9f2f6f58a5fb9332",
+  "duration": 127.059365,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "98214"
+      }
+    ],
+    "format": {
+      "duration": "127.059365"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

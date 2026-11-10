@@ -1,0 +1,25 @@
+{
+  "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v014\\产物\\CY024A-v014-caster-2d-sync-r1.mp4",
+  "windows": [
+    {
+      "water_index": 3,
+      "in": 0,
+      "out": 54,
+      "note": "细线二维抬掌全身景；第一句口部细节弱，不宣称逐音同步"
+    },
+    {
+      "water_index": 5,
+      "in": 56,
+      "out": 125,
+      "note": "避开f56/f125两次硬切，69源帧铺72时间线帧，最近邻保持；对白仍100%"
+    },
+    {
+      "water_index": 9,
+      "in": 126,
+      "out": 168,
+      "note": "二维脸肩术名近景，完整屋顶、无龙提前出现"
+    }
+  ],
+  "review": "独立密集抽帧、全帧切点检测；作者终验待复看",
+  "author_final_accepted": false
+}

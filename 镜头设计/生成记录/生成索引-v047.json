@@ -1,0 +1,95 @@
+{
+  "version": "v047",
+  "previous_index": "镜头设计/生成记录/生成索引-v046.json",
+  "engine": "built-in image_gen",
+  "mode": "reference edit",
+  "transparent_background": false,
+  "images": [
+    {
+      "id": "CY024A5",
+      "path": "镜头设计/图像/三点定流-v047/CY024A5-v047-r1.png",
+      "sha256": "bf968d99f0abee7c8ae4777f23cf6df82c6d877424940c62f5f4e5d4372e5ed2",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/三点定流-v047/01-首点与三柱大景.json",
+      "request_sha256": "bfc6de87d83b541eb4c231566bc3160c3755176cab3ce39c89d8315a8f8568ec",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/蓄力与水雷-v038/CY024A5-v038-r1.png",
+          "sha256": "749210c1018565e6863bf75973eb0b935e4388fbf7bc8dab92dc1af5ef3b84c0"
+        }
+      ]
+    },
+    {
+      "id": "CY024B",
+      "path": "镜头设计/图像/三点定流-v047/CY024B-v047-r2.png",
+      "sha256": "d66248650cc5d9a537e46b513a976980a6503f268c28b75e090e6b678d0d0287",
+      "size": [
+        1671,
+        941
+      ],
+      "request": "镜头设计/生成记录/三点定流-v047/02-左右瞄准与大景修正.json",
+      "request_sha256": "3d504d25ee395a935d9258b68aca4fafdf6dd57b94da57d9922e1c9798ffcd3c",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/三点定流-v047/CY024B-v047-r1.png",
+          "sha256": "817d608860f85b4e7d1d653ee09bb2e467735a562635493e8060b1237ebbcf9e"
+        },
+        {
+          "path": "资产/图像/CHAR-CULTIST-v001.png",
+          "sha256": "1031119f267781bf4aae1171fff4820b7fe5cb5b1b1d34c6cbf8769c917a6048"
+        }
+      ]
+    },
+    {
+      "id": "CY024A5A",
+      "path": "镜头设计/图像/三点定流-v047/CY024A5A-v047-r2.png",
+      "sha256": "49bffd794102d6dff38201f7b901462878544c139b35eeb690c7523364d8a2d5",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/三点定流-v047/03-左点头饰修正.json",
+      "request_sha256": "afd2f54fac227219c33db3948ce18a9031e0b542bd9abec583b68f35c942849d",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/三点定流-v047/CY024A5A-v047-r1.png",
+          "sha256": "b3cee55ba2d666fccb819c8e502c1e5c7d01b7a8c652d754784c8bf1a9091715"
+        },
+        {
+          "path": "镜头设计/图像/三点定流-v047/CY024A5-v047-r1.png",
+          "sha256": "bf968d99f0abee7c8ae4777f23cf6df82c6d877424940c62f5f4e5d4372e5ed2"
+        }
+      ]
+    },
+    {
+      "id": "CY024A5B",
+      "path": "镜头设计/图像/三点定流-v047/CY024A5B-v047-r1.png",
+      "sha256": "a326000c5e438715eefce756cc0fd009df136694109ff05b4a26d189b488d97d",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/三点定流-v047/02-左右瞄准与大景修正.json",
+      "request_sha256": "3d504d25ee395a935d9258b68aca4fafdf6dd57b94da57d9922e1c9798ffcd3c",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/三点定流-v047/CY024A5-v047-r1.png",
+          "sha256": "bf968d99f0abee7c8ae4777f23cf6df82c6d877424940c62f5f4e5d4372e5ed2"
+        }
+      ]
+    }
+  ],
+  "discarded": [
+    {
+      "path": "镜头设计/图像/三点定流-v047/CY024B-v047-r1.png",
+      "reason": "大景手掌未收为食指且教徒近似列队，保留但不接入"
+    },
+    {
+      "path": "镜头设计/图像/三点定流-v047/CY024A5A-v047-r1.png",
+      "reason": "左点头饰换侧，r2局部统一银玫瑰位置"
+    }
+  ]
+}

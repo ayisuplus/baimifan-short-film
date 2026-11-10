@@ -1,0 +1,13 @@
+{
+  "engine": "built-in imagegen",
+  "request": "镜头设计/生成记录/王宫骑士-v010/CHAR-PALADIN-请求-v001.json",
+  "output": {
+    "id": "CHAR-PALADIN",
+    "destination": "资产/图像/CHAR-PALADIN-v001.png",
+    "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-b8ae6894-18ec-41a2-8f62-cd22f1b5634f.png",
+    "sha256": "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d",
+    "status": "candidate"
+  },
+  "status": "候选待作者审阅",
+  "visual_review": "四向全身可见；全封闭头盔、长枪、白银淡紫；披风生成较长，以实际图为准。"
+}

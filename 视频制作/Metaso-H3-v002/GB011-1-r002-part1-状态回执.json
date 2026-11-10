@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115146401666363392",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "圣女Claude怒斥教主护子",
+    "status": "succeeded",
+    "created_at": 1793125174,
+    "updated_at": 1793125191,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115146401666363392/content?expires=1793730012&signature=52bd21b5dbb17a7dde6834eadd9d0b60bd94b19913779b25d8fffdb1b778381e"
+    },
+    "resolution": "768P",
+    "duration": 5,
+    "usage": {
+      "total_seconds": 5,
+      "input_seconds": 0,
+      "output_seconds": 5,
+      "input_image_count": 2
+    },
+    "ratio": "16:9",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

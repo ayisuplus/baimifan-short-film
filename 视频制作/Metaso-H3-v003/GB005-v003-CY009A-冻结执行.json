@@ -1,0 +1,55 @@
+{
+  "batch": {
+    "batch_number": 6,
+    "batch_id": "GB005",
+    "attempt_id": "GB005-v003-CY009A",
+    "title": "独自离去、搓手迟疑与起身目送",
+    "shot_ids": [
+      "CY009A"
+    ],
+    "film_start": 69.592729,
+    "part_offset": 8,
+    "used_seconds": 6,
+    "duration": 6,
+    "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。6秒肩后长轴镜头。白发GPT已停在近景左侧，摄影机紧贴她肩后，只有头后和肩膀局部，脸和下半身不进入画面。她安静注视远处鲸帽孩子。孩子背对镜头沿中轴一直走向已打开的远门，缓慢越过门槛进入云光，身形逐渐变小；不回头不突然跑回。GPT仅有轻微呼吸与发丝摆动，不再做起身、转身或追赶动作。相机固定，不展示榻前立起、不让王座或椅背长在门口，不新增人物。无对白。",
+    "references": [
+      {
+        "slot": 1,
+        "path": "镜头设计/图像/数学宫殿-v056/CY009A.png",
+        "sha256": "44c7f45cb3ea56cd8da3857d0f6f419170c333f06f63588938a52ee7e3dc1fd6",
+        "role": "first_frame"
+      }
+    ],
+    "estimated_credits": 61.2,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "用明确省略剪辑从手部切到已起身肩后，不强行在背面镜头生成躺到站的不可见过程。",
+    "repair_of": {
+      "author_rejected_version": "v002",
+      "batch_id": "GB005"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json",
+    "mode": "first_frame"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。6秒肩后长轴镜头。白发GPT已停在近景左侧，摄影机紧贴她肩后，只有头后和肩膀局部，脸和下半身不进入画面。她安静注视远处鲸帽孩子。孩子背对镜头沿中轴一直走向已打开的远门，缓慢越过门槛进入云光，身形逐渐变小；不回头不突然跑回。GPT仅有轻微呼吸与发丝摆动，不再做起身、转身或追赶动作。相机固定，不展示榻前立起、不让王座或椅背长在门口，不新增人物。无对白。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115145774780440576"
+        },
+        "role": "first_frame"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 6,
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者要求修复第6、11、20、21、39批剧情与空间错误，沿用已授权Metaso H3积分；40仅必要接头。无充值。"
+}

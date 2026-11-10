@@ -1,0 +1,66 @@
+{
+  "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+  "status": "ready",
+  "delivery": "awaiting_host_save",
+  "files": [
+    {
+      "nodeId": "v-BXgm4dhD5K",
+      "outputIndex": 0,
+      "mime": "video/mp4",
+      "filename": "GB017R2-H3-v001.mp4",
+      "sourceIdentity": "sha256-0ec9c1dddc99d9c1ba6a943ea49454517ea8ec96a219c66ff202cdc9496fb9c4",
+      "contentHash": null,
+      "hashEvidence": "media-bytes-not-read",
+      "metadataSource": "canvas.nodeList.data",
+      "deliverySource": "canvas-permanent-original",
+      "taskId": "20261028012203080749236",
+      "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/video/4a687bfc3acc4951adf244cb28598805/fc9fd5ccefe4a1dcb70038420f0bf0133f54d90cc42302c8f1021641ed86b643.mp4",
+      "derivation": {
+        "kind": "original",
+        "watermark": false,
+        "communityWatermark": false
+      }
+    },
+    {
+      "nodeId": "v-dUnL78EAMC",
+      "outputIndex": 0,
+      "mime": "video/mp4",
+      "filename": "GB020-1R2-H3-v001.mp4",
+      "sourceIdentity": "sha256-9821ad2dc64675eb5a5b1dddcfd1a3153f63a08df15070d64c512489f6867438",
+      "contentHash": null,
+      "hashEvidence": "media-bytes-not-read",
+      "metadataSource": "canvas.nodeList.data",
+      "deliverySource": "canvas-permanent-original",
+      "taskId": "20261028012303887419236",
+      "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/video/4a687bfc3acc4951adf244cb28598805/ffce907919bfebf02dbb28bbe4260ae1539e4de4fb60bd856d0e30e0b4289974.mp4",
+      "derivation": {
+        "kind": "original",
+        "watermark": false,
+        "communityWatermark": false
+      }
+    },
+    {
+      "nodeId": "v-VhQYl07HoD",
+      "outputIndex": 0,
+      "mime": "video/mp4",
+      "filename": "GB020-2-H3-v001.mp4",
+      "sourceIdentity": "sha256-50d7fd3a6406939ff814d7b5f39404fa082cf9219180bc2bb5a320ae321dd783",
+      "contentHash": null,
+      "hashEvidence": "media-bytes-not-read",
+      "metadataSource": "canvas.nodeList.data",
+      "deliverySource": "canvas-permanent-original",
+      "taskId": "20261028012503223829236",
+      "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/video/4a687bfc3acc4951adf244cb28598805/785baf848d240d2a5b49ccecf02594cbfc1e03306cc5094285b8edfc27c2ff1e.mp4",
+      "derivation": {
+        "kind": "original",
+        "watermark": false,
+        "communityWatermark": false
+      }
+    }
+  ],
+  "fileCount": 3,
+  "inlineBytes": 0,
+  "operationIds": [],
+  "sourceValidation": "rechecked-after-preparation",
+  "hostInstruction": "Save every URL or UTF-8 inlineText using its filename, or package all entries into a host-created archive. Report actual saved paths only after host download/write succeeds. This manifest is not a download, an archive, or evidence of local persistence."
+}

@@ -1,0 +1,33 @@
+{
+  "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+  "task_id": "20261021125003731959236",
+  "nodeId": "a-f4Z8oSXcHa",
+  "status": "generated_pending_listen",
+  "engine": "LibTV / Seed Audio 1.0",
+  "prompt": "生气的、愤怒的少女说：“别碰她！”",
+  "request": "资产/生成记录/VOICE-CLAUDE-v006-cloud-request.json",
+  "author_feedback": "上一版太柔和、没有力气；作者明确要求生气的、愤怒的少女，不叠加限定词。",
+  "route_reason": "前轮固定预设TTS入口未传表演描述。本轮使用同一LibTV服务已核实的自然语言音频生成入口；提示词仅包含作者要求与台词。",
+  "listening_review": "未进行实际听审，不以文件正常代替愤怒表现、少女感或逐字验收。",
+  "path": "资产/声音/试音/VOICE-CLAUDE-v006-cloud.wav",
+  "sha256": "0edaaf72a55679d63c3a0d97339820fbc7a717c6f2279d8dfb389c6d98d537ad",
+  "size_bytes": 881214,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "pcm_s16le",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "format": {
+      "duration": "4.995102"
+    }
+  },
+  "resourceId": "res_04877a7a101a4f469017db17cbd219bf",
+  "delivery_record": "资产/生成记录/Claude-愤怒交付-v006.json",
+  "node_record": "资产/生成记录/Claude-愤怒节点-v006.json",
+  "validation": "原任务SUCCEEDED；实际节点prompt与冻结请求一致；平台交付版本已保存、计算文件哈希并解码。未变速移调。"
+}

@@ -1,0 +1,52 @@
+subject_definitions:
+<Subject 1>: Qwen, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: Gemini, identity and outfit from four-view sheet <Picture 2>.
+<Subject 3>: Grok, identity and outfit from four-view sheet <Picture 3>.
+<Subject 4>: Hunyuan, identity and outfit from four-view sheet <Picture 4>.
+<Subject 5>: Llama, identity and outfit from four-view sheet <Picture 5>.
+<Subject 6>: Zhipu, identity and outfit from four-view sheet <Picture 6>.
+<Subject 7>: Mistral, identity and outfit from four-view sheet <Picture 7>.
+<Subject 8>: Perplexity, identity and outfit from four-view sheet <Picture 8>.
+<Subject 9>: DeepSeek, identity and outfit from four-view sheet <Picture 9>.
+<Subject 10>: the palace paladins, identity and outfit from four-view sheet <Picture 10>.
+<Subject 11>: ChatGPT, identity and outfit from four-view sheet <Picture 11>.
+<Picture 12>: [Shot 1] composition and state reference; not its first frame.
+<Picture 13>: [Shot 2] composition and state reference; not its first frame.
+<Picture 14>: [Shot 3] composition and state reference; not its first frame.
+<Picture 15>: [Shot 4] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. Defense and distant flashes omit combat; a quiet downward glance and key retrieval turn the sequence back toward rescue.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Subject 3>: fully_preserved - identity and outfit design.
+<Subject 4>: fully_preserved - identity and outfit design.
+<Subject 5>: fully_preserved - identity and outfit design.
+<Subject 6>: fully_preserved - identity and outfit design.
+<Subject 7>: fully_preserved - identity and outfit design.
+<Subject 8>: fully_preserved - identity and outfit design.
+<Subject 9>: fully_preserved - identity and outfit design.
+<Subject 10>: fully_preserved - identity and outfit design.
+<Subject 11>: fully_preserved - identity and outfit design.
+<Picture 12>: weak_reference - shot layout; animate the specified action.
+<Picture 13>: weak_reference - shot layout; animate the specified action.
+<Picture 14>: weak_reference - shot layout; animate the specified action.
+<Picture 15>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Cut on the entrance warning to companions turning toward the door, not the altar; bridge the defensive clash into the exterior view. Use <Picture 12> for composition. The eight companions form a second defense below the long stairs, with Qwen still holding DeepSeek. Knights guard the side colonnades and the front line moves toward the courtyard attackers. Kimi remains inside the opaque highest-altar shield with the still-bound Claude; neither they nor the cross can be seen outside it. Perplexity watches with her staff. Preserve the central window breach and intact side windows. The entrance holds. Track a little across the broad staircase view as the eight companions form their line, retaining the upper opaque shield and flank sentries. Combat and wordless knight warnings at the doorway with a quiet altar-shield hum.
+[Shot 2] At 00:03.000, The interior clash becomes distant outside; a few flashes end, rain weakens and the next cut moves directly to the aftermath. Use <Picture 13> for composition. From high above the cathedral and surrounding grounds, brief magical flashes concentrate around the front entrance and fore-nave, implying resistance to the courtyard reinforcements. The rear rescue area has no melee, the apse remains intact and the building is not continuously burning. End as the flashes cease and the rain begins to stop. Ease backward from a high oblique exterior view, keeping entrance flashes within the building's scale and avoiding a new battle behind the apse. Several brief magical detonations and glass resonance diminish into a low tail.
+[Shot 3] At 00:06.000, Hard-cut from the last distant flash to quiet aftermath with GPT already human; cut to the hand only when her gaze moves to the key. Use <Picture 14> for composition. GPT is human again, standing firmly with folded wings and arms loosely crossed. She tilts her head and looks down at the fallen leader with a slight raised brow and cool irony, never at the camera. Enemies remain down; eight companions stand below, Qwen holds DeepSeek and Kimi guards Claude above. After holding the look, GPT uncrosses her arms and looks toward the key at his waist. Do not bend to take it before this beat. Lower slightly within the established group view to connect foreground fallen leader and GPT's downward gaze, then hold for her restrained expression. Low drips, wet fabric and wind; no taunting line. Do not assign wet-clothing sounds to Claude.
+[Shot 4] At 00:10.000, Cut along GPT's gaze to the belt; sound the hook only on release, then omit the long climb after she leaves with the key. Use <Picture 15> for composition. The leader lies on the floor with the black iron key still at his waist. GPT bends, removes it from the belt ring, and raises it so the teeth catch the cold moonlight. She closes her hand around the original key and turns toward the long stairs. Do not duplicate the key or remove it twice; the climb can be omitted between shots. Follow the key slightly upward from its belt hook in close-up, settling on its teeth rather than tracking the whole climb. A key ring and hook click, followed by shallow-water footsteps.
+From 12 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 6s: Cut to GPT looking down after the victory.
+English speech with lip sync; no audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

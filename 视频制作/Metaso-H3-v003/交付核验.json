@@ -1,0 +1,27 @@
+{
+  "api_tasks": 25,
+  "unique_task_ids": 25,
+  "downloaded": 25,
+  "running": 0,
+  "unknown_submission_outcomes": 0,
+  "receipt_ids_match": true,
+  "raw_hash_and_full_decode": true,
+  "candidate_batches": [
+    "GB005",
+    "GB016-1",
+    "GB015-2",
+    "GB029",
+    "GB030-1",
+    "GB009"
+  ],
+  "candidate_hash_and_decode": true,
+  "actual_spent_credits": 1111.8,
+  "observed_final_balance": 4694.3,
+  "author_adopted": false,
+  "audio_boundary": "原速原声；仅第21批千问回应后移0.45秒并重建BGM避让；未作完整听审/口型验收。",
+  "known_review_focus": "第39批小鱼仰望目标仍偏含蓄；40仅必要接头连带修订。",
+  "references": "参考来源目录保存生成与独立审查记录；实际图像在修订参考目录。",
+  "page_local_links_checked": 238,
+  "browser_verification": "内置浏览器成功加载v003，显示6批，播放控件可用；截图在审查/工作台交付截图.png",
+  "comparison_preserved": true
+}

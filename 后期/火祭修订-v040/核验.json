@@ -1,0 +1,242 @@
+{
+  "version": "v040",
+  "shots": 119,
+  "seconds": 394.0,
+  "current_new_images": [
+    "CY016C",
+    "CY016D",
+    "CY017",
+    "CY017A",
+    "CY018",
+    "CY018B",
+    "CY019",
+    "CY020B",
+    "CY020A",
+    "CY021",
+    "CY022A",
+    "CY022A1",
+    "CY022",
+    "CY024K1",
+    "CY024K2",
+    "CY024A1"
+  ],
+  "output_files": [
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY016C-v040-r1.png",
+      "sha256": "1632dfb3fc095275212842c5cde19a6c3d7d34b80152e566926f1cc2010916ac",
+      "size": [
+        1672,
+        941
+      ],
+      "in_current_storyboard": true
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY016D-v040-r1.png",
+      "sha256": "a9eab357de1b7131b05a52dd7727d45701bc3c5683f8dee40e159c2cc3e3d09c",
+      "size": [
+        1672,
+        941
+      ],
+      "in_current_storyboard": false
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY016D-v040-r2.png",
+      "sha256": "ac352a853e19a5d667754ca590eb1858c6883d8f7d9211ea4abd28e5d62896de",
+      "size": [
+        1672,
+        941
+      ],
+      "in_current_storyboard": true
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY017-v040-r1.png",
+      "sha256": "766c2fa09f4a64dccb9b76943ffc5ad8e41ffd9e9297f50f26786c62b752544d",
+      "size": [
+        1672,
+        941
+      ],
+      "in_current_storyboard": true
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY017A-v040-r1.png",
+      "sha256": "2b207c2ae64f753c9eb115b00ecb1c66df590b10c77354f13c423e4963f081ee",
+      "size": [
+        1672,
+        941
+      ],
+      "in_current_storyboard": true
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY018-v040-r1.png",
+      "sha256": "5711ce85dbe02430c2c1d78fe587cb96edb017be444ed0abd24df18622683a2f",
+      "size": [
+        1672,
+        941
+      ],
+      "in_current_storyboard": true
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY018B-v040-r1.png",
+      "sha256": "bf4763eb83a43992188a958c2e1239e03a52a7c6bb0c9f19cf88ddf46401cbe6",
+      "size": [
+        1672,
+        941
+      ],
+      "in_current_storyboard": true
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY019-v040-r1.png",
+      "sha256": "6c6e6c8e42ba80e280c4bc8b4780d95fa8976cd6487f2581ab583f6f0913524a",
+      "size": [
+        1672,
+        941
+      ],
+      "in_current_storyboard": true
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY020A-v040-r1.png",
+      "sha256": "1e9d14c607f19da8db98d4102f9062a49f045ed6fefe9844066298ae02b1a81c",
+      "size": [
+        1671,
+        941
+      ],
+      "in_current_storyboard": true
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY020B-v040-r1.png",
+      "sha256": "ab6fa9e8bc09063639f5bb775b5fc8b74afb6d65c201880afc9729512d07ce6c",
+      "size": [
+        1672,
+        941
+      ],
+      "in_current_storyboard": false
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY020B-v040-r2.png",
+      "sha256": "f17362939f1f2b29209a463e89658dd76cdfa93746eeeff1582057ef0399e721",
+      "size": [
+        1672,
+        941
+      ],
+      "in_current_storyboard": true
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY021-v040-r1.png",
+      "sha256": "111af9791e0cbab110c6455f870683892966790f7817e03a7c8ef6eaa1e2bdd5",
+      "size": [
+        1672,
+        940
+      ],
+      "in_current_storyboard": true
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY022-v040-r1.png",
+      "sha256": "f914a8b5f3008cb7348386f369e243f661c23aaa7ef741d5fb9c4ce91534dd8e",
+      "size": [
+        1672,
+        941
+      ],
+      "in_current_storyboard": true
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY022A-v040-r1.png",
+      "sha256": "9799c1c4c32716318fa5d1d251adee7e1fac6e442e21e534bdfe932c3ef36356",
+      "size": [
+        1672,
+        941
+      ],
+      "in_current_storyboard": true
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY022A1-v040-r1.png",
+      "sha256": "6db024dda3cae07003ca988e4696e9d0e18cc3e0a6b0602a8fc19147c824c909",
+      "size": [
+        1672,
+        941
+      ],
+      "in_current_storyboard": true
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY024A1-v040-r1.png",
+      "sha256": "83fd3353588bc13e84f0b11a765b11a01e3a88aa0ac98786d1f52bd190f50965",
+      "size": [
+        1672,
+        941
+      ],
+      "in_current_storyboard": false
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY024A1-v040-r2.png",
+      "sha256": "f705ae9b2ce5188a32f7e7b4382653815ad6377661b0dd40e5cbf3ac045790b2",
+      "size": [
+        1672,
+        941
+      ],
+      "in_current_storyboard": true
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY024A4-v040-r1.png",
+      "sha256": "69853151cf41741b9a9a2d02f184f522eea114074036de6fc5029eca7243fa3d",
+      "size": [
+        1672,
+        941
+      ],
+      "in_current_storyboard": false
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY024B-v040-r1.png",
+      "sha256": "c23eb670017680b95cf0b8880d7f2ec969ca3859d721dd14b3ed41a103a77927",
+      "size": [
+        1671,
+        941
+      ],
+      "in_current_storyboard": false
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY024B2-v040-r1.png",
+      "sha256": "5560caae114a6f430dd6b1928f5304f3babc739dec587b5dc62704eff8824df3",
+      "size": [
+        1672,
+        941
+      ],
+      "in_current_storyboard": false
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY024K1-v040-r1.png",
+      "sha256": "eb640c0f9cded52e4554dd5c377c3fa7be261d65b51d46621feefd9dbaba81a3",
+      "size": [
+        1672,
+        941
+      ],
+      "in_current_storyboard": false
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY024K1-v040-r2.png",
+      "sha256": "b7ab2455112a28807c7e6c6b915cec8cda86fdeded6409727987624f2fea6c0f",
+      "size": [
+        1672,
+        941
+      ],
+      "in_current_storyboard": true
+    },
+    {
+      "path": "镜头设计/图像/火祭因果-v040/CY024K2-v040-r1.png",
+      "sha256": "80c0db2033d8b7ff1675f5ff99660b68a2ddbbbbbb5cbdd21e8262a3f0c798a9",
+      "size": [
+        1672,
+        941
+      ],
+      "in_current_storyboard": true
+    }
+  ],
+  "checks": {
+    "all_old_shot_ids_preserved": true,
+    "all_old_music_candidate_arrays_unchanged": true,
+    "original_large_water_shot_preserved": true,
+    "rejected_small_water_shot_absent": true,
+    "source_quotes_and_timings": "119 passed by build_storyboard",
+    "browser_marks": "5 existing selections visibly retained after reload; no marks written"
+  },
+  "dynamic": "not generated or validated",
+  "audio": "new wood/departure/moon sounds are design text only; new departure line needs recording"
+}

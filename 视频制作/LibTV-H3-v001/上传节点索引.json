@@ -1,0 +1,740 @@
+{
+  "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-v001-ref-be18a5ece8e73d478d0e2c69",
+    "resourceId": "res_57122eb9690e458e89c4f7ca34363a23",
+    "nodeId": "i-xeoryk3YD5",
+    "task_id": "cop_657137101280ded2bc0f0bce10722ed2",
+    "resource": {
+      "resource_id": "res_57122eb9690e458e89c4f7ca34363a23",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-v001-ref-be18a5ece8e73d478d0e2c69",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-v001-ref-69dee6708e3a6fe26a212a17",
+    "resourceId": "res_4ef801f6396b4e88bf3ed69982bd41bb",
+    "nodeId": "i-MWcnjv1nW0",
+    "task_id": "cop_38147b9a3b935b8050caccc2679cec8f",
+    "resource": {
+      "resource_id": "res_4ef801f6396b4e88bf3ed69982bd41bb",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-v001-ref-69dee6708e3a6fe26a212a17",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "feea8b3a4ce433555d563cce0a0a06570564476ce026299bd9b9a570a8f80bc9": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-v001-ref-feea8b3a4ce433555d563cce",
+    "resourceId": "res_7f37cb16794249bf86be382fc97de194",
+    "nodeId": "i-BXCvlyR9th",
+    "task_id": "cop_eae588fd69162823f60b9a0bf339be13",
+    "resource": {
+      "resource_id": "res_7f37cb16794249bf86be382fc97de194",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-v001-ref-feea8b3a4ce433555d563cce",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "4aafc4279ccfeee08d88d46c3efd1580ec6a60aa17b3893226212fbcec3fc0f0": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-v001-ref-4aafc4279ccfeee08d88d46c",
+    "resourceId": "res_ebde1a663a9c4a9eb1a3b870ea023165",
+    "nodeId": "i-iLJ9wpHTSy",
+    "task_id": "cop_ceba0ce576203ecabb0ae74186c644df",
+    "resource": {
+      "resource_id": "res_ebde1a663a9c4a9eb1a3b870ea023165",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-v001-ref-4aafc4279ccfeee08d88d46c",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "561091394ef37afe751dcef3b645853bb2a4faea9139a1a23ff2696cc4ce3ffa": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-v001-ref-561091394ef37afe751dcef3",
+    "resourceId": "res_9d88340d1e114e45a3c870d8ef8e8a29",
+    "nodeId": "i-5WfE7d6YZe",
+    "task_id": "cop_eb797d5095c8e2cd9bafe9125242a7ec",
+    "resource": {
+      "resource_id": "res_9d88340d1e114e45a3c870d8ef8e8a29",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-v001-ref-561091394ef37afe751dcef3",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "fc58bde8a92c9bc0b5dcec1170c8fbd67dca2363fd8910c45592abdeebafc799": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-v001-ref-fc58bde8a92c9bc0b5dcec11",
+    "resourceId": "res_9b8233c616894d7d92332b0aa4267fa5",
+    "nodeId": "i-ZmEeBErYN0",
+    "task_id": "cop_541a03a8d24fc38d6d4ae81123b63251",
+    "resource": {
+      "resource_id": "res_9b8233c616894d7d92332b0aa4267fa5",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-v001-ref-fc58bde8a92c9bc0b5dcec11",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3": {
+    "source": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+    "source_sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+    "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+    "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+    "sha1": "d9d76117c7724d34a366061d3bb38d3a2c70e2c6",
+    "file_size": 1868475,
+    "source_size": [
+      2169,
+      725
+    ],
+    "upload_size": [
+      2169,
+      868
+    ],
+    "offset": [
+      0,
+      71
+    ],
+    "source_pixels_preserved": true,
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-pad-6f2666bafdb26102360d9f17",
+    "resourceId": "res_8fdbe650d19440128b892d8a9e4df750",
+    "nodeId": "i-JAT4Pva730",
+    "task_id": "cop_e2f8dd49054ed94dcf9b02b32f443620",
+    "resource": {
+      "resource_id": "res_8fdbe650d19440128b892d8a9e4df750",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-pad-6f2666bafdb26102360d9f17",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a": {
+    "source": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+    "source_sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+    "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+    "sha256": "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a",
+    "sha1": "ecd80984142fead85bfab07ed28c0e7b9c8c05b2",
+    "file_size": 2016603,
+    "source_size": [
+      2200,
+      715
+    ],
+    "upload_size": [
+      2200,
+      880
+    ],
+    "offset": [
+      0,
+      82
+    ],
+    "source_pixels_preserved": true,
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-pad-81b841cea65e3ad3e7ed435e",
+    "resourceId": "res_60d384be28d640589d18839de08ad517",
+    "nodeId": "i-uKDIVWmghN",
+    "task_id": "cop_dc18d2683bf18f7a1ea2ee96ef5d3cf8",
+    "resource": {
+      "resource_id": "res_60d384be28d640589d18839de08ad517",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-pad-81b841cea65e3ad3e7ed435e",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "e24d24097de4468704c8fbb0cacdce5559cdcee35ecbe2a2f9e8fd7d44534f6a": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-ref-e24d24097de4468704c8fbb0",
+    "resourceId": "res_07b8e078f58a4265a4dcd12b3f7184a9",
+    "nodeId": "i-wzrqNs0Kgl",
+    "task_id": "cop_3733460e9113af80fbf521ce14c56f0a",
+    "resource": {
+      "resource_id": "res_07b8e078f58a4265a4dcd12b3f7184a9",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-ref-e24d24097de4468704c8fbb0",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "b513fa23f430c34f61433f188da15c075a472269af0a89e047535550cce44f29": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-ref-b513fa23f430c34f61433f18",
+    "resourceId": "res_fa31e585c0cb467c966d03902fef8408",
+    "nodeId": "i-hJQDHQ4o6A",
+    "task_id": "cop_31825a728b63d6aec76a8884d634272e",
+    "resource": {
+      "resource_id": "res_fa31e585c0cb467c966d03902fef8408",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-ref-b513fa23f430c34f61433f18",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "a1f49923525741fb448f58adc0b23bb25b7794f90e23d47d0522ba9ce92c40f6": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-ref-a1f49923525741fb448f58ad",
+    "resourceId": "res_aec000a4afcc49909c4877ae4da7fc9b",
+    "nodeId": "i-u5fHF3yNUA",
+    "task_id": "cop_a0eaab10e833a3d4f637823420c84a14",
+    "resource": {
+      "resource_id": "res_aec000a4afcc49909c4877ae4da7fc9b",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-ref-a1f49923525741fb448f58ad",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "76bbd39df1f4f7895d78d65bd49200a231f96921881bbf7dd95a2696211bea51": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-ref-76bbd39df1f4f7895d78d65b",
+    "resourceId": "res_c38f3d48ecb247228a2884970e75623f",
+    "nodeId": "i-O4bV9Vmysx",
+    "task_id": "cop_216460f6dda2dd6c4d58b4e9181bd519",
+    "resource": {
+      "resource_id": "res_c38f3d48ecb247228a2884970e75623f",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-ref-76bbd39df1f4f7895d78d65b",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-ref-212afc88d4ba580b026ce5b7",
+    "resourceId": "res_18f2ee6a13b847638e13091f853524e5",
+    "nodeId": "i-KjFmn9fH3P",
+    "task_id": "cop_9574b56a8ad4bd346b332f9c7b799bdd",
+    "resource": {
+      "resource_id": "res_18f2ee6a13b847638e13091f853524e5",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-ref-212afc88d4ba580b026ce5b7",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-ref-eb4d175576d07053c307a836",
+    "resourceId": "res_4d928c35c4964bdcb8519084cf7a9e11",
+    "nodeId": "i-07HfqKjhJ7",
+    "task_id": "cop_1420e703156964c5c4647a715bc1ab86",
+    "resource": {
+      "resource_id": "res_4d928c35c4964bdcb8519084cf7a9e11",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-ref-eb4d175576d07053c307a836",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "7532f97f0d412d7002e0e2acbbd28364f8765340249994e5fe85e2ac84163765": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-ref-7532f97f0d412d7002e0e2ac",
+    "resourceId": "res_d472188ab4d8454fafb5931bdf126c9f",
+    "nodeId": "i-pQMVuNWsVz",
+    "task_id": "cop_c1fb6b3c1fe187ecc942a99da0854692",
+    "resource": {
+      "resource_id": "res_d472188ab4d8454fafb5931bdf126c9f",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-ref-7532f97f0d412d7002e0e2ac",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "24380275c46ffb8fc7162bd547dc91cebed2c201ef5e46b7166b3b49c755946e": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-ref-24380275c46ffb8fc7162bd5",
+    "resourceId": "res_207bdbc7099e452f8b33efd6292a49a9",
+    "nodeId": "i-OX1eJe82nB",
+    "task_id": "cop_36a36b63a8c1513988ac414148d50c0f",
+    "resource": {
+      "resource_id": "res_207bdbc7099e452f8b33efd6292a49a9",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-ref-24380275c46ffb8fc7162bd5",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "fbf95430ebe93e19426129eec05b3131977ae5b9427fd389b8e277577e1e7ca9": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-ref-fbf95430ebe93e19426129ee",
+    "resourceId": "res_b1319e450c32403fa9982deab793e8dc",
+    "nodeId": "i-hgkw6jwYZf",
+    "task_id": "cop_022a6d8febe8be9eca15703056242a8b",
+    "resource": {
+      "resource_id": "res_b1319e450c32403fa9982deab793e8dc",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-ref-fbf95430ebe93e19426129ee",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "4f1a2922a595a3936b912115b40655f0c6e49e17035dde6ac3a7d69b95fda5c9": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-ref-4f1a2922a595a3936b912115",
+    "resourceId": "res_c6f1be80a1814097828bab8a671cb89d",
+    "nodeId": "i-7QhqmMFTdU",
+    "task_id": "cop_4985bebda39f369130499791f806da58",
+    "resource": {
+      "resource_id": "res_c6f1be80a1814097828bab8a671cb89d",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-ref-4f1a2922a595a3936b912115",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "14f6bc3c1e7468b6c0e35c5560f7094e570e5bfc47a4eb492a636d5fe990212a": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-ref-14f6bc3c1e7468b6c0e35c55",
+    "resourceId": "res_ac28e963479941f194936ea31a4ba58e",
+    "nodeId": "i-vKasYfL4rJ",
+    "task_id": "cop_a673050cd9b6a1b949b6e66b7bb2bf03",
+    "resource": {
+      "resource_id": "res_ac28e963479941f194936ea31a4ba58e",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-ref-14f6bc3c1e7468b6c0e35c55",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "fdc72190014d8d66af8cc7d7efb8c02fca68616106e83a23823fb3f05b7d7dc7": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-ref-fdc72190014d8d66af8cc7d7",
+    "resourceId": "res_d96bfa304d954980be927adcec5f46ce",
+    "nodeId": "i-Zn7uPas6hO",
+    "task_id": "cop_dcdae03e5db68830e83071d172bf1a70",
+    "resource": {
+      "resource_id": "res_d96bfa304d954980be927adcec5f46ce",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-ref-fdc72190014d8d66af8cc7d7",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "94613f4660e30f562a3e90e7749c750808ce88427126194a56aa047fe3f5f4da": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-ref-94613f4660e30f562a3e90e7",
+    "resourceId": "res_f552facc1b1d4db89b6d478aa51c10ce",
+    "nodeId": "i-bOy1FFeV5u",
+    "task_id": "cop_e44bf8993556b2050825fbcc2c188ca1",
+    "resource": {
+      "resource_id": "res_f552facc1b1d4db89b6d478aa51c10ce",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-ref-94613f4660e30f562a3e90e7",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "c683f8e4c3f91038917435968f8d0455088ee5cdfdd16f339340695ec0967f8e": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-ref-c683f8e4c3f9103891743596",
+    "resourceId": "res_0fc18e5823664485ae57f4f263ec57c3",
+    "nodeId": "i-f0XG6cTySz",
+    "task_id": "cop_130405e336522d11bc46baa12cc91b53",
+    "resource": {
+      "resource_id": "res_0fc18e5823664485ae57f4f263ec57c3",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-ref-c683f8e4c3f9103891743596",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "aca685ed9752371a5121c732d1bf40665c67bf5ae615d55cc6e4db06c65f7186": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-ref-aca685ed9752371a5121c732",
+    "resourceId": "res_f444d09bca344dd384b092688318689b",
+    "nodeId": "i-j1E9KFOPqH",
+    "task_id": "cop_875bbc1eae24c11b01ccc6a5795a2343",
+    "resource": {
+      "resource_id": "res_f444d09bca344dd384b092688318689b",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-ref-aca685ed9752371a5121c732",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "b2c9a7e7c1c28212834d58fe64ff0a155ef2d2045b29349addcb4d4fe700c617": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-ref-b2c9a7e7c1c28212834d58fe",
+    "resourceId": "res_1fc5d16ac8b74214bd3324448a47edb8",
+    "nodeId": "i-urFJ9nYSy2",
+    "task_id": "cop_ac1e86463b0f748377bd1341b185fe3b",
+    "resource": {
+      "resource_id": "res_1fc5d16ac8b74214bd3324448a47edb8",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-ref-b2c9a7e7c1c28212834d58fe",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "9876de5f18b9512da8138dd9d4dca8736735629eb2c41d882e2236c2f9e760bf": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-ref-9876de5f18b9512da8138dd9",
+    "resourceId": "res_271ed8ee2fc5406c9ca30b45eeed6f41",
+    "nodeId": "i-5fZ6xiCeX2",
+    "task_id": "cop_617493139da7f84235b1df7fe1310a6a",
+    "resource": {
+      "resource_id": "res_271ed8ee2fc5406c9ca30b45eeed6f41",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-ref-9876de5f18b9512da8138dd9",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "50c30570f97b23d3209329d6b7985de58d8eb56a2fa05fbe30257c6235ca9ab0": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-ref-50c30570f97b23d3209329d6",
+    "resourceId": "res_dca52d2d03a84186986fc7dcb8b655ec",
+    "nodeId": "i-wc7y6H6Np8",
+    "task_id": "cop_2df872b54ffee693d19493985ea98832",
+    "resource": {
+      "resource_id": "res_dca52d2d03a84186986fc7dcb8b655ec",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-ref-50c30570f97b23d3209329d6",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "63d4ac1b354c7022f52a846530d4c8d0f0dd6ce3b60857dcaacb6f8ac6a64f6f": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-ref-63d4ac1b354c7022f52a8465",
+    "resourceId": "res_bc9301860ba040de942082735ff6e56b",
+    "nodeId": "i-Boc0LwGVcs",
+    "task_id": "cop_c8359ef8d5935f1edab7e76d7810f4b6",
+    "resource": {
+      "resource_id": "res_bc9301860ba040de942082735ff6e56b",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-ref-63d4ac1b354c7022f52a8465",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  "44c7f45cb3ea56cd8da3857d0f6f419170c333f06f63588938a52ee7e3dc1fd6": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-ref-44c7f45cb3ea56cd8da3857d",
+    "resourceId": "res_f80bcb8d58654cdc9ad7aa83e97d9b6f",
+    "nodeId": "i-xuhTrJpOqz",
+    "task_id": "cop_882383c816c2c113aee5af33897fc94c",
+    "resource": {
+      "resource_id": "res_f80bcb8d58654cdc9ad7aa83e97d9b6f",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-ref-44c7f45cb3ea56cd8da3857d",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "line_id": "VO-CY026C-01",
+  "role": "GPT",
+  "line": {
+    "id": "VO-CY026C-01",
+    "role": "GPT",
+    "previous_batch": 23,
+    "previous_record_frame": 5928,
+    "previous_ja": "グロック。",
+    "previous_zh": "Grok。",
+    "previous_audio_duration_seconds": 1.0400000000000016,
+    "status": "retained_in_draft",
+    "ja": "グロック。",
+    "zh_back_translation": "Grok。",
+    "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+    "reading_hints": {},
+    "voice_role": "GPT",
+    "performance_direction_v004": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+    "tts_reading_text": "グロック。",
+    "voice_asset": "GPT",
+    "timeline_adopted": false,
+    "performance_acceptance": "逐句表演与准确性待验收；作者已确认声线",
+    "audio_state": "needs_recording"
+  },
+  "voice_id": "tsunTpzA4d2kBihHrZ2R",
+  "voice_source": "selected v004 candidate 1",
+  "body": {
+    "text": "グロック。",
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "ja"
+  },
+  "status": "saved_pending_review",
+  "author_performance_accepted": false,
+  "request_id": "h6HxhjVeJxoAtmwhopGt",
+  "character_cost_header": "5",
+  "file": "声音/缺口补齐-v008/VO-CY026C-01__GPT.mp3",
+  "bytes": 15925,
+  "sha256": "cbf714858bb6a09fc74356d49d7c4cfca95cb8bc78fef2f1efacbeaecf69d185",
+  "media": {
+    "format": {
+      "duration": "0.928798"
+    }
+  },
+  "decode_ok": true
+}

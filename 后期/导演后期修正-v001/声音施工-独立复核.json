@@ -1,0 +1,458 @@
+{
+  "status": "r2_numeric_boundary_pass_pending_final_timeline_and_audition",
+  "scope": "只读当前声音施工记录及13段WAV/BGM校验混音；旧达芬奇声音回读属已撤回试建，不用于最终验收。",
+  "sources": [
+    {
+      "path": "后期\\导演后期修正-v001\\声音施工记录.json",
+      "sha256": "0ed139d6ba49950183bafd325f1e1bdd949d8aa37542fa4b1d718308972a36fd"
+    },
+    {
+      "path": "后期\\导演后期修正-v001\\后期执行计划.json",
+      "sha256": "d47482e13c75d2a12bda3ba48ce66972343948c531e79a74234eeb1f976adef5"
+    },
+    {
+      "path": "scripts\\prepare_director_audio_v001.py",
+      "sha256": "cf99c8a2257cb5515c0484ffdb4bd527612202dfe7c29a8fc10743f5791420cf"
+    }
+  ],
+  "timeline": {
+    "frames": 11056,
+    "fps": 24,
+    "seconds": 460.6666666666667,
+    "bgm_mix_samples": 22112000,
+    "expected_samples": 22112000,
+    "last_four_seconds_music_max_pcm": 0,
+    "sum_of_cue_wavs_vs_mix_max_pcm_error": 0
+  },
+  "music_cues": [
+    {
+      "id": "M01",
+      "wav_samples": 1124000,
+      "expected_samples": 1124000,
+      "format": [
+        2,
+        2,
+        48000
+      ],
+      "source_decoded_samples": 1123987,
+      "no_zero_padding_needed": false,
+      "source_duration": 131.016871,
+      "source_window_in_bounds": true,
+      "rate": 1,
+      "original_speed_window_and_gain_reconstruction_max_pcm_error": null,
+      "alignment_equation_error_seconds": 3.552713678800501e-15,
+      "transient_within_rendered_window": true
+    },
+    {
+      "id": "M02",
+      "wav_samples": 2456000,
+      "expected_samples": 2456000,
+      "format": [
+        2,
+        2,
+        48000
+      ],
+      "source_decoded_samples": 2456000,
+      "no_zero_padding_needed": true,
+      "source_duration": 96.277833,
+      "source_window_in_bounds": true,
+      "rate": 1,
+      "original_speed_window_and_gain_reconstruction_max_pcm_error": 0,
+      "alignment_equation_error_seconds": 1.4210854715202004e-14,
+      "transient_within_rendered_window": true
+    },
+    {
+      "id": "M03",
+      "wav_samples": 2050000,
+      "expected_samples": 2050000,
+      "format": [
+        2,
+        2,
+        48000
+      ],
+      "source_decoded_samples": 2050000,
+      "no_zero_padding_needed": true,
+      "source_duration": 118.527667,
+      "source_window_in_bounds": true,
+      "rate": 1,
+      "original_speed_window_and_gain_reconstruction_max_pcm_error": 0,
+      "alignment_equation_error_seconds": 1.4210854715202004e-14,
+      "transient_within_rendered_window": true
+    },
+    {
+      "id": "M04",
+      "wav_samples": 2680000,
+      "expected_samples": 2680000,
+      "format": [
+        2,
+        2,
+        48000
+      ],
+      "source_decoded_samples": 2680000,
+      "no_zero_padding_needed": true,
+      "source_duration": 424.127833,
+      "source_window_in_bounds": true,
+      "rate": 1,
+      "original_speed_window_and_gain_reconstruction_max_pcm_error": 0,
+      "alignment_equation_error_seconds": 0.0,
+      "transient_within_rendered_window": true
+    },
+    {
+      "id": "M05",
+      "wav_samples": 288000,
+      "expected_samples": 288000,
+      "format": [
+        2,
+        2,
+        48000
+      ],
+      "source_decoded_samples": 288000,
+      "no_zero_padding_needed": true,
+      "source_duration": 139.551701,
+      "source_window_in_bounds": true,
+      "rate": 1,
+      "original_speed_window_and_gain_reconstruction_max_pcm_error": 0,
+      "alignment_equation_error_seconds": 0.0,
+      "transient_within_rendered_window": true
+    },
+    {
+      "id": "M06",
+      "wav_samples": 172000,
+      "expected_samples": 172000,
+      "format": [
+        2,
+        2,
+        48000
+      ],
+      "source_decoded_samples": 172000,
+      "no_zero_padding_needed": true,
+      "source_duration": 139.551701,
+      "source_window_in_bounds": true,
+      "rate": 1,
+      "original_speed_window_and_gain_reconstruction_max_pcm_error": 0,
+      "alignment_equation_error_seconds": 0.0,
+      "transient_within_rendered_window": true
+    },
+    {
+      "id": "M07",
+      "wav_samples": 1606000,
+      "expected_samples": 1606000,
+      "format": [
+        2,
+        2,
+        48000
+      ],
+      "source_decoded_samples": 1606000,
+      "no_zero_padding_needed": true,
+      "source_duration": 125.432834,
+      "source_window_in_bounds": true,
+      "rate": 1,
+      "original_speed_window_and_gain_reconstruction_max_pcm_error": 0,
+      "alignment_equation_error_seconds": 0.0,
+      "transient_within_rendered_window": true
+    },
+    {
+      "id": "M08",
+      "wav_samples": 144000,
+      "expected_samples": 144000,
+      "format": [
+        2,
+        2,
+        48000
+      ],
+      "source_decoded_samples": 144000,
+      "no_zero_padding_needed": true,
+      "source_duration": 139.551701,
+      "source_window_in_bounds": true,
+      "rate": 1,
+      "original_speed_window_and_gain_reconstruction_max_pcm_error": 0,
+      "alignment_equation_error_seconds": 0.0,
+      "transient_within_rendered_window": true
+    },
+    {
+      "id": "M09",
+      "wav_samples": 3162000,
+      "expected_samples": 3162000,
+      "format": [
+        2,
+        2,
+        48000
+      ],
+      "source_decoded_samples": 3162000,
+      "no_zero_padding_needed": true,
+      "source_duration": 139.551701,
+      "source_window_in_bounds": true,
+      "rate": 1,
+      "original_speed_window_and_gain_reconstruction_max_pcm_error": 16,
+      "alignment_equation_error_seconds": 0.0,
+      "transient_within_rendered_window": true
+    },
+    {
+      "id": "M10",
+      "wav_samples": 618000,
+      "expected_samples": 618000,
+      "format": [
+        2,
+        2,
+        48000
+      ],
+      "source_decoded_samples": 618000,
+      "no_zero_padding_needed": true,
+      "source_duration": 139.551701,
+      "source_window_in_bounds": true,
+      "rate": 1,
+      "original_speed_window_and_gain_reconstruction_max_pcm_error": 0,
+      "alignment_equation_error_seconds": 0.0,
+      "transient_within_rendered_window": true
+    },
+    {
+      "id": "M11",
+      "wav_samples": 1392000,
+      "expected_samples": 1392000,
+      "format": [
+        2,
+        2,
+        48000
+      ],
+      "source_decoded_samples": 1392000,
+      "no_zero_padding_needed": true,
+      "source_duration": 139.551701,
+      "source_window_in_bounds": true,
+      "rate": 1,
+      "original_speed_window_and_gain_reconstruction_max_pcm_error": 0,
+      "alignment_equation_error_seconds": 0.0,
+      "transient_within_rendered_window": true
+    },
+    {
+      "id": "M12",
+      "wav_samples": 1102000,
+      "expected_samples": 1102000,
+      "format": [
+        2,
+        2,
+        48000
+      ],
+      "source_decoded_samples": 1102000,
+      "no_zero_padding_needed": true,
+      "source_duration": 139.551701,
+      "source_window_in_bounds": true,
+      "rate": 1,
+      "original_speed_window_and_gain_reconstruction_max_pcm_error": 20,
+      "alignment_equation_error_seconds": 0.0,
+      "transient_within_rendered_window": true
+    },
+    {
+      "id": "M13",
+      "wav_samples": 918000,
+      "expected_samples": 918000,
+      "format": [
+        2,
+        2,
+        48000
+      ],
+      "source_decoded_samples": 918000,
+      "no_zero_padding_needed": true,
+      "source_duration": 138.088844,
+      "source_window_in_bounds": true,
+      "rate": 1,
+      "original_speed_window_and_gain_reconstruction_max_pcm_error": 0,
+      "alignment_equation_error_seconds": null,
+      "transient_within_rendered_window": null
+    }
+  ],
+  "silences": [
+    {
+      "id": "S01",
+      "start": 0.0,
+      "end": 5.0,
+      "reason": "街市环境声，暂不进音乐",
+      "round_sample_start": 0,
+      "round_sample_end": 240000,
+      "max_abs_pcm": 0,
+      "nonzero_sample_frames": 0,
+      "first_nonzero_timeline_sample": null,
+      "strict_interval_nonzero_sample_frames": 0
+    },
+    {
+      "id": "S02",
+      "start": 184.125001,
+      "end": 186.125,
+      "reason": "保留无词吟唱、环境声，破门前停乐",
+      "round_sample_start": 8838000,
+      "round_sample_end": 8934000,
+      "max_abs_pcm": 0,
+      "nonzero_sample_frames": 0,
+      "first_nonzero_timeline_sample": null,
+      "strict_interval_nonzero_sample_frames": 0
+    },
+    {
+      "id": "S03",
+      "start": 226.16666766666665,
+      "end": 254.66666766666665,
+      "reason": "召集回闪以对白、角色标志拟音与转场气口连接，避免长曲拖满",
+      "round_sample_start": 10856000,
+      "round_sample_end": 12224000,
+      "max_abs_pcm": 0,
+      "nonzero_sample_frames": 0,
+      "first_nonzero_timeline_sample": null,
+      "strict_interval_nonzero_sample_frames": 0
+    },
+    {
+      "id": "S04",
+      "start": 320.5250203333333,
+      "end": 321.3250203333333,
+      "reason": "祈祷到术名的停顿；保留水声",
+      "round_sample_start": 15385201,
+      "round_sample_end": 15423601,
+      "max_abs_pcm": 0,
+      "nonzero_sample_frames": 0,
+      "first_nonzero_timeline_sample": null,
+      "strict_interval_nonzero_sample_frames": 0
+    },
+    {
+      "id": "S05",
+      "start": 334.2083343333333,
+      "end": 347.1083343333334,
+      "reason": "安慰、落下、条约问答，给角色声音空间",
+      "round_sample_start": 16042000,
+      "round_sample_end": 16661200,
+      "max_abs_pcm": 0,
+      "nonzero_sample_frames": 0,
+      "first_nonzero_timeline_sample": null,
+      "strict_interval_nonzero_sample_frames": 0
+    },
+    {
+      "id": "S06",
+      "start": 376.12500100000005,
+      "end": 406.58333433333337,
+      "reason": "钥匙、撤罩、解链、安抚及父亲停顿以对白与环境声承担",
+      "round_sample_start": 18054000,
+      "round_sample_end": 19516000,
+      "max_abs_pcm": 0,
+      "nonzero_sample_frames": 0,
+      "first_nonzero_timeline_sample": null,
+      "strict_interval_nonzero_sample_frames": 0
+    },
+    {
+      "id": "S07",
+      "start": 429.5266676666667,
+      "end": 437.5416676666667,
+      "reason": "接住、抱稳、依靠及离殿保留呼吸脚步",
+      "round_sample_start": 20617280,
+      "round_sample_end": 21002000,
+      "max_abs_pcm": 0,
+      "nonzero_sample_frames": 0,
+      "first_nonzero_timeline_sample": null,
+      "strict_interval_nonzero_sample_frames": 0
+    },
+    {
+      "id": "S08",
+      "start": 456.6666666666667,
+      "end": 460.6666666666667,
+      "reason": "末镜无BGM四秒",
+      "round_sample_start": 21920000,
+      "round_sample_end": 22112000,
+      "max_abs_pcm": 0,
+      "nonzero_sample_frames": 0,
+      "first_nonzero_timeline_sample": null,
+      "strict_interval_nonzero_sample_frames": 0
+    }
+  ],
+  "voice_check": {
+    "count": 63,
+    "unique_count": 63,
+    "all_paths_and_durations_match_v025": true,
+    "all_voices_rate_one_by_source_import_design": true,
+    "timeline_overlap_count": 0,
+    "rendered_voice_audio_reviewed": false,
+    "note": "当前只有音乐WAV导出，63句使用原始干声导入；全句原速成立于记录/施工设计，最终Resolve独立Final时间线仍需回读实际入出点与速度。"
+  },
+  "protected_pauses": {
+    "prayer_to_spell_actual_seconds": 0.8083130000000001,
+    "required_minimum_seconds": 0.8,
+    "claude_pause_actual_seconds": 6.029999999999999,
+    "required_claude_pause_seconds": 6,
+    "final_four_no_music": true
+  },
+  "issues": [
+    {
+      "id": "M11-transient-before-in",
+      "priority": "P1",
+      "problem": "标记动作347.108334333秒早于音乐起点347.125秒16.665667ms；标记瞬态38.38259在源入点38.399255667之前，数学对齐式虽然相等但瞬态未进入实际WAV。",
+      "repair": "以实际可落帧动作重新锚定M11；若该动作取347.125秒，source_in应回到38.38259，重新出该段并更新记录。若保持亚帧动作，应提前段起且遵守S05停乐结束；不可仅保留旧方程宣布通过。",
+      "requires_regeneration": false,
+      "resolved_by_r2": true
+    },
+    {
+      "id": "S07-sample-rounding",
+      "priority": "P2",
+      "problem": "以round采样检查S07起界有1个采样帧峰值20/32768；严格时间区间ceil边界内应见下方计算。",
+      "repair": "统一停乐边界为整数采样并在对应第一样本强制0，避免浮点比较与round不一致。不是末4秒失守，也不是可听审结论。",
+      "requires_regeneration": false,
+      "resolved_by_r2": true
+    }
+  ],
+  "limits": [
+    "13段可按同一原速源窗、淡变和duck包络重建核验；这是数值来源验证，不是音乐乐句/节拍听审。",
+    "S04按保护时钟0.8秒停乐，术名按24fps入点造成实际对白间隔约0.808313秒，未缩短留白。",
+    "第4批音轨保持现记录位置，仅画面重排；最终Final时间线未在本报告核验。",
+    "首轮波形重建与主代理重生成并发，M09/M12的16/20 PCM残差是边界修正期间的版本差，不能当听感故障；首轮13段结果作为历史，最终按r2来源与本次边界复验。"
+  ],
+  "r2_recheck": {
+    "source_sha256": "0ed139d6ba49950183bafd325f1e1bdd949d8aa37542fa4b1d718308972a36fd",
+    "scope": "仅复验上一轮M11瞬态排除和停乐采样边界；未重做其他无关检验。",
+    "M11": {
+      "start": 347.125,
+      "action": 347.125,
+      "source_in": 38.38259,
+      "transient": 38.38259,
+      "transient_within_rendered_window": true,
+      "alignment_error": 0.0,
+      "r2_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演后期修正-v001\\声音\\M11-原速卡点-r2.wav"
+    },
+    "silences_floor_ceil": [
+      {
+        "id": "S01",
+        "max_abs_pcm": 0,
+        "nonzero_frames": 0
+      },
+      {
+        "id": "S02",
+        "max_abs_pcm": 0,
+        "nonzero_frames": 0
+      },
+      {
+        "id": "S03",
+        "max_abs_pcm": 0,
+        "nonzero_frames": 0
+      },
+      {
+        "id": "S04",
+        "max_abs_pcm": 0,
+        "nonzero_frames": 0
+      },
+      {
+        "id": "S05",
+        "max_abs_pcm": 0,
+        "nonzero_frames": 0
+      },
+      {
+        "id": "S06",
+        "max_abs_pcm": 0,
+        "nonzero_frames": 0
+      },
+      {
+        "id": "S07",
+        "max_abs_pcm": 0,
+        "nonzero_frames": 0
+      },
+      {
+        "id": "S08",
+        "max_abs_pcm": 0,
+        "nonzero_frames": 0
+      }
+    ],
+    "final_four_max_abs_pcm": 0,
+    "all_13_paths_r2": true
+  }
+}

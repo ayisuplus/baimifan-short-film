@@ -1,0 +1,28 @@
+[
+  {
+    "id": "CY024A2",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/火焰伤后与星火-v036/CY024A2-v036-r2.png"
+    ],
+    "prompt": "Minimal continuity edit of this Claude closeup. Keep EXACT face, veil flower and singed white costume, bound wrists on cross, upright body pose, camera. Remove huge black flames covering her torso and left side, because burning wood has already been chopped and pulled to sides. Keep small out-of-focus black-core violet-edge flame ONLY extreme lower corners outside a transparent silver curved shield boundary visible foreground, delicate same moon/star pattern. Show her pale exhausted face clearly as she regains a breath. Shield is a shared field (Kimi just outside left crop), not skin glow. Warm candles remain lit, no water. Window upper section outside crop. No other changes, no text."
+  },
+  {
+    "id": "CY027F2",
+    "rev": 2,
+    "refs": [
+      "镜头设计/图像/月刃救援-v041/CY027F2-v041-r1.png",
+      "镜头设计/图像/月刃救援-v041/CY027F0-v041-r1.png"
+    ],
+    "prompt": "Edit first reference. Keep Kimi left and GPT right, SAME faces, key handoff, Kimi small dark and bright moon blades stowed behind waist, dress, cold wet postbattle scene. Fix Claude in background: her TWO arms must extend horizontally OUT to left and right along a wide crossbeam at shoulder height, wrists fixed wide apart at ends, classic T shape matching previous shots. NOT arms lifted straight overhead and close together. Keep her standing UPRIGHT, straight legs, ankle cuffs, bare feet on small footrest, never seated. Upper crossbeam extends out behind foreground heads if necessary. Replace tiny gold key with the exact BLACK IRON key from reference2, same ornate black bow and forked rectangular bit, held above Kimi palm. Preserve character anatomy and only two arms each. No text."
+  },
+  {
+    "id": "CY028A",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/火焰伤后与星火-v036/CY028A-v036-r1.png",
+      "镜头设计/图像/月刃救援-v041/KIMI双刃-v041-r3.png"
+    ],
+    "prompt": "Minimal continuity edit to first image: preserve all three women, the helping posture of GPT and Claude after unlocking, wet cold moonlit altar, original faces, clothes, folded dragon wings. Add Kimi's TWO compact round crescent blades from ref2 securely stowed in retention loops at BACK/side of her waist beneath cloak, one black one silver, only partly visible; hands stay empty and available. In visible upper-left high section of rear altar blue window, a small jagged broken pane remains (Kimi entry), never repair it; keep all lower window panes and wall intact, rear roof intact. No new fire, no other pose change, no text."
+  }
+]

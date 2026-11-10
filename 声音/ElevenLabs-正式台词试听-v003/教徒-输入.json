@@ -1,0 +1,56 @@
+{
+  "role": "教徒",
+  "voice_description": "Native Japanese, standard Japanese. An adult male attendant in a dramatic fantasy anime. A practical, stern voice that gives short instructions efficiently. Firm and matter-of-fact, with clear natural diction. He sounds subordinate to the leader rather than like the main antagonist. Studio-quality recording.",
+  "text": "クロードを中へ。いけにえの儀の支度をしろ。\nこくじんの薪を、一人一本持ってこい。\nクロードを中へ。いけにえの儀の支度をしろ。\nこくじんの薪を、一人一本持ってこい。\nクロードを中へ。いけにえの儀の支度をしろ。\nこくじんの薪を、一人一本持ってこい。",
+  "repeats": 3,
+  "lines": [
+    {
+      "id": "VO-CY004-01",
+      "role": "教徒",
+      "previous_batch": 2,
+      "previous_record_frame": 516,
+      "previous_ja": "今宵、クロードを火の供物に。",
+      "previous_zh": "今夜，为 Claude 行火祭。",
+      "previous_audio_duration_seconds": 5.0,
+      "status": "revised_draft",
+      "ja": "クロードを中へ。生贄の儀の支度をしろ。",
+      "zh_back_translation": "把Claude带进去。准备献祭仪式。",
+      "direction": "对门内接应者下令准备献祭，前半随押送，后半被小鱼听见。教会把Claude当作献给神的祭品，不以罪名宣判；不向观众补讲教义。",
+      "reading_hints": {
+        "生贄": "いけにえ",
+        "儀": "ぎ"
+      },
+      "revision_history": [
+        {
+          "version": "v0.66",
+          "ja": "今宵、クロードを火の供物に。",
+          "zh_back_translation": "今夜，为 Claude 行火祭。",
+          "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。"
+        },
+        {
+          "version": "v0.68",
+          "ja": "クロードを中へ。火刑の支度をしろ。",
+          "zh_back_translation": "把Claude带进去。准备火刑。",
+          "direction": "向门内接应者下令，前半随押送，后半被小鱼从门外听到；不是向观众宣告，不加日落后的新时限。"
+        }
+      ]
+    },
+    {
+      "id": "VO-CY010A-01",
+      "role": "教徒",
+      "previous_batch": 7,
+      "previous_record_frame": 1910,
+      "previous_ja": "こくじんの薪を、一人一本持ってこい。",
+      "previous_zh": "取乌烬木，一人一根。",
+      "previous_audio_duration_seconds": 2.8700000000000045,
+      "status": "retained_in_draft",
+      "ja": "こくじんの薪を、一人一本持ってこい。",
+      "zh_back_translation": "取乌烬木，一人一根。",
+      "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+      "reading_hints": {}
+    }
+  ],
+  "source_sha256": "f652eb4cb0f7759bcb90f84a1e2072367f00125d3bd7883bc5284ccc4c283477",
+  "status": "design_not_submitted_superseded_by_direct_tts",
+  "superseded_reason": "author requested direct synthesis for short dialogue"
+}

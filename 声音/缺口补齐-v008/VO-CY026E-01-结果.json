@@ -1,0 +1,45 @@
+{
+  "line_id": "VO-CY026E-01",
+  "role": "GPT",
+  "line": {
+    "id": "VO-CY026E-01",
+    "role": "GPT",
+    "previous_batch": 25,
+    "previous_record_frame": 6303,
+    "previous_ja": "コンゲン、ラマ……みんな来て。",
+    "previous_zh": "混元，Llama……都来。",
+    "previous_audio_duration_seconds": 3.3799999999999955,
+    "status": "retained_in_draft",
+    "ja": "コンゲン、ラマ……みんな来て。",
+    "zh_back_translation": "混元，Llama……都来。",
+    "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+    "reading_hints": {},
+    "voice_role": "GPT",
+    "performance_direction_v004": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+    "tts_reading_text": "コンゲン、ラマ……みんな来て。",
+    "voice_asset": "GPT",
+    "timeline_adopted": false,
+    "performance_acceptance": "逐句表演与准确性待验收；作者已确认声线",
+    "audio_state": "needs_recording"
+  },
+  "voice_id": "tsunTpzA4d2kBihHrZ2R",
+  "voice_source": "selected v004 candidate 1",
+  "body": {
+    "text": "コンゲン、ラマ……みんな来て。",
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "ja"
+  },
+  "status": "saved_pending_review",
+  "author_performance_accepted": false,
+  "request_id": "8ZjqjEv3J8ayDxyUU2lJ",
+  "character_cost_header": "15",
+  "file": "声音/缺口补齐-v008/VO-CY026E-01__GPT.mp3",
+  "bytes": 33061,
+  "sha256": "f7e0c62f01d5474f9e686c33088c59643c63f74c46c5180b3a87b26b70b6bc45",
+  "media": {
+    "format": {
+      "duration": "1.996916"
+    }
+  },
+  "decode_ok": true
+}

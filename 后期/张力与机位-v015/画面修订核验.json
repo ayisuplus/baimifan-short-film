@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "changed_shots": {
+    "CY019": {
+      "old_image": "镜头设计/图像/连续性修复-v049/CY019-v049-r1.png",
+      "new_image": "镜头设计/图像/张力与机位-v060/CY019-v060-r1.png",
+      "sha256": "d21090e047e4c61b602980a7c6169201102478b526aba19486e23580f8e7f5a9"
+    },
+    "CY020B": {
+      "old_image": "镜头设计/图像/生成前修正-v059/CY020B-v059.png",
+      "new_image": "镜头设计/图像/张力与机位-v060/CY020B-v060-r1.png",
+      "sha256": "5211c4758c0713a866e8c1d52d7a584258d78eac4948709d6b39096c4ddd63d6"
+    },
+    "CY020A": {
+      "old_image": "镜头设计/图像/连续性修复-v049/CY020A-v049-r1.png",
+      "new_image": "镜头设计/图像/张力与机位-v060/CY020A-v060-r1.png",
+      "sha256": "00d5456695ccf047cbfa6f11137315237554efbec391fc55d5b75e05d86d552e"
+    },
+    "CY024A0": {
+      "old_image": "镜头设计/图像/生成前修正-v059/CY024A0-r3-v059.png",
+      "new_image": "镜头设计/图像/张力与机位-v060/CY024A0-v060-r2.png",
+      "sha256": "6088c303b96ecae73362067edd642638989dc293b941da6a1fb32a7c013b0b1d"
+    }
+  },
+  "timing_dialogue_unchanged": true,
+  "audio_outputs_identical": true,
+  "author_adoption": false,
+  "video_generated": false
+}

@@ -1,0 +1,42 @@
+subject_definitions:
+<Subject 1>: ChatGPT, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: Qwen, identity and outfit from four-view sheet <Picture 2>.
+<Subject 3>: Gemini, identity and outfit from four-view sheet <Picture 3>.
+<Subject 4>: Grok, identity and outfit from four-view sheet <Picture 4>.
+<Subject 5>: Hunyuan, identity and outfit from four-view sheet <Picture 5>.
+<Subject 6>: Llama, identity and outfit from four-view sheet <Picture 6>.
+<Subject 7>: Zhipu, identity and outfit from four-view sheet <Picture 7>.
+<Subject 8>: Mistral, identity and outfit from four-view sheet <Picture 8>.
+<Subject 9>: Perplexity, identity and outfit from four-view sheet <Picture 9>.
+<Picture 10>: [Shot 1] composition and state reference; not its first frame.
+<Picture 11>: [Shot 2] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. The entrance command draws the priest toward the main door, while an offscreen invocation introduces the rear-window action.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Subject 3>: fully_preserved - identity and outfit design.
+<Subject 4>: fully_preserved - identity and outfit design.
+<Subject 5>: fully_preserved - identity and outfit design.
+<Subject 6>: fully_preserved - identity and outfit design.
+<Subject 7>: fully_preserved - identity and outfit design.
+<Subject 8>: fully_preserved - identity and outfit design.
+<Subject 9>: fully_preserved - identity and outfit design.
+<Picture 10>: weak_reference - shot layout; animate the specified action.
+<Picture 11>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Match GPT's entering step from the previous batch; reveal the group by widening rather than resetting everyone into a new pose. Use <Picture 10> for composition. GPT enters through the broken main door with exactly eight companions: Qwen, Gemini, Grok, Hunyuan, Llama, Zhipu, Mistral and Perplexity. She gives the protection command. Qwen starts toward DeepSeek, who remains outside this framing. Kimi is absent from this entrance group and approaches independently at the rear window. The doorway damage stays unchanged. Track backward a short distance in a low wide angle to reveal the staggered nine-person formation, then settle for the command as Qwen starts moving. Entering footsteps, with approaching spear and armor sounds outside; keep the short rescue order clear. From 0.8 to 2.8 seconds, ChatGPT (S1) speaks with matching lip movement: <d>[Japanese] 二人を守って。</d>.
+[Shot 2] At 00:03.000, Cut to the hostile reaction after the command, retaining footsteps and armor decay; Kimi's voice enters for the audience without alerting him to her location. Use <Picture 11> for composition. On the lower stair landing, the priest turns his head and shoulders toward the main entrance and fixes his tense gaze on the offscreen arrivals. Nearby cultists also attend to the doorway. Kimi's invocation is heard offscreen, but neither he nor the cultists look up toward the rear window or clouds. Pan slightly with the priest's head and shoulders toward the main door in a three-quarter upper-body view, then hold; do not tilt toward Kimi's voice. Entry footsteps and armor decay, cultist robe turns, then Kimi's offscreen invocation; no additional dialogue. From 3.6 to 6.4 seconds, Kimi (S2) speaks outside the frame: <d>[Japanese] 月の裏に潜む影よ、</d>.
+From 6.5 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 3s: Cut to the leader turning; Kimi chant follows.
+Japanese speech with lip sync; no audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

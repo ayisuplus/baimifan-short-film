@@ -1,0 +1,83 @@
+{
+  "batch": {
+    "batch_number": 14,
+    "batch_id": "GB011-2",
+    "shot_ids": [
+      "CY021"
+    ],
+    "duration": 5,
+    "effective_duration": 4.7,
+    "mode": "reference",
+    "prompt": "16:9电影级日系动画，5秒单镜近景，画面只有受缚Claude。参考1四视图负责身份、发色与饰物设计；参考2是当前刑架镜头的实际服装状态、束缚、链条、同场灯光与构图，必须保留图2露肩白金裙、胸前黑色蝴蝶结与后置白纱，不把图1裹身头纱重新盖上肩胸，不换成高领长披巾。不要沿用图2怒喊表情。Claude橙棕长发、橙色花饰在自身左鬓、黑缎带、细金饰、象牙白蕾丝头纱，脸与双眼不被头纱遮住。她仍直立固定在高坛横木上，双腕横向受缚，前后状态不改变；下方木柴尚未点燃，只有远处普通烛火暖边光。她看到阶下孩子摔倒，视线先向画面右下的孩子，再望稍高一点但仍位于阶下的父亲，眼神从惊惧变恳求，不能平视镜头像演讲。0–0.25秒压住急促呼吸，0.25–4.38秒完整说日语<d>[Japanese] お父様……その子を逃がして。</d>，共4.13秒，父亲称呼后保留脆弱停顿，声音是恳求而非怒吼；口型全句可见且从起点说话，不提前闭口。4.38–5秒合唇等待，没有回答，眼中仍有泪意。画面缓慢推近但不跨轴，不重复挣脱、不扭头藏嘴。小鱼和教主不入画也不代说。无字幕、无新增对白、无配乐。",
+    "references": [
+      {
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+        "role": "reference_image",
+        "visually_checked": true,
+        "purpose": "identity",
+        "sha256": "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a",
+        "original_path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+        "adaptation": "existing lossless letterbox for service aspect limit, no character edit"
+      },
+      {
+        "path": "镜头设计/图像/天瀑空间-v014/CY020-v014-r4.png",
+        "role": "reference_image",
+        "visually_checked": true,
+        "purpose": "restraint_state_and_lighting_only",
+        "sha256": "939e6566ac8060679a9ae17b973eaa0d07d65a4b57ecfd5be61b4a7d65eff6b6"
+      }
+    ],
+    "change_reason": "现4.13秒Claude恳求全压在张嘴抬头的小鱼脸上，发话主体容易误读，且缺少父亲称呼后的情绪停留。补明确Claude主镜，旧小鱼素材仍可作短无声反应",
+    "拟替换v001时间段": {
+      "start": 156.333333,
+      "end": 159.708333,
+      "note": "用4.7秒新Claude主镜替换旧孩子撑地近景约3.375秒；保留其后抓袍手部。整句voice从新镜0.25秒原速开始，后续时间整体重算，不能截短句尾"
+    },
+    "voice": {
+      "id": "VO-CY021-01",
+      "speaker": "Claude",
+      "offset": 0.25,
+      "duration": 4.13,
+      "text_ja": "お父様……その子を逃がして。"
+    },
+    "acceptance": [
+      "全句说话者明确为Claude",
+      "受缚未解除且柴未燃",
+      "原有父亲称呼停顿保留",
+      "句尾后至少0.3秒等待"
+    ],
+    "attempt_id": "GB011-2-v005-CY021-r1",
+    "estimated_credits": 51.0,
+    "repair_of": "导演后期修正-v001现行剪辑对应镜头",
+    "status": "prepared"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "16:9电影级日系动画，5秒单镜近景，画面只有受缚Claude。参考1四视图负责身份、发色与饰物设计；参考2是当前刑架镜头的实际服装状态、束缚、链条、同场灯光与构图，必须保留图2露肩白金裙、胸前黑色蝴蝶结与后置白纱，不把图1裹身头纱重新盖上肩胸，不换成高领长披巾。不要沿用图2怒喊表情。Claude橙棕长发、橙色花饰在自身左鬓、黑缎带、细金饰、象牙白蕾丝头纱，脸与双眼不被头纱遮住。她仍直立固定在高坛横木上，双腕横向受缚，前后状态不改变；下方木柴尚未点燃，只有远处普通烛火暖边光。她看到阶下孩子摔倒，视线先向画面右下的孩子，再望稍高一点但仍位于阶下的父亲，眼神从惊惧变恳求，不能平视镜头像演讲。0–0.25秒压住急促呼吸，0.25–4.38秒完整说日语<d>[Japanese] お父様……その子を逃がして。</d>，共4.13秒，父亲称呼后保留脆弱停顿，声音是恳求而非怒吼；口型全句可见且从起点说话，不提前闭口。4.38–5秒合唇等待，没有回答，眼中仍有泪意。画面缓慢推近但不跨轴，不重复挣脱、不扭头藏嘴。小鱼和教主不入画也不代说。无字幕、无新增对白、无配乐。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141454194728960"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115146392618328064"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 5,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者已授权：后期优先，不能修复的只补对应镜头，Metaso H3延续；本轮教堂至Kimi段修复，非整批重做。"
+}

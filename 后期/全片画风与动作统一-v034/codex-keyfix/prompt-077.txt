@@ -1,0 +1,22 @@
+任务：用 image_gen__imagegen 重绘一张电影关键帧。
+
+必须使用 image_gen__imagegen 工具，传入 referenced_image_paths 指向我给的源图路径，做参考图重绘（image-to-image）。
+
+源图路径（077 返工）：
+G:\comfyui\ComfyUI\ComfyUI\output\Baimifan\v032\077-key-r1_00001_.png
+
+重绘提示词（完整照用，不要删减、不要改写、不要自行发挥）：
+
+Redraw this image as traditional hand-drawn Japanese gothic fantasy anime: clean dark ink contours, hard-edged two-tone cel shadows, matte skin and broad painted background shapes. Keep composition and story identities. No glossy 3D, PBR, photoreal reflections, text or captions. Keep the high oblique exterior view of the same cathedral at night. The left long blue roof is the CENTRAL NAVE and remains closed before impact; the rear altar apse on the right must have a continuous intact roof, not a roofless miniature room or exposed interior. At upper-left draw ONE clearly recognizable BLUE WATER DRAGON head descending diagonally toward the midpoint of the central nave roof: long muzzle, two small horns, open mouth, luminous eyes, fin-like cheek silhouettes. The head leads a thick flowing neck with one strong S curve; its body trails out of frame into the clouds. This is a blue water construct drawn with two flat blue values, white foam outlines and crisp graphic highlights, NOT a glass spear, funnel, featureless water column or white dragon. Leave a readable air gap between dragon nose and the ONE intended roof impact point. All nearby towers, side walls and rear roof remain intact. No impact yet, no people.
+
+原始问题（供你理解为何这样改，图中现状是）：
+- 现在画的是一条没有龙头的水柱/浪鞭，像玻璃矛或漏斗，缺少可辨认的龙首。
+- 右侧后殿屋顶像被剖开，露出了迷你室内空间。
+- 缺少可辨认的蓝色水龙头部。
+
+输出要求：
+1. 生成的图片保存为 PNG 到：E:\projects\内容创作\故事短片\白米饭\后期\全片画风与动作统一-v034\codex-keyfix\077-key-r2-codex.png
+2. 宽高比保持 16:9，与源图一致（源图 1312×736）。
+3. 不要改动源图，不要改动其他任何文件，不要执行 git 操作。
+4. 生成后用 view_image 查看你自己生成的图片，确认：龙首清晰可辨、后殿屋顶完整、左上到中殿的斜向下坠姿态成立。
+5. 最后回报：输出文件的绝对路径，以及你对自己生成结果是否满足上述三点的判断（如实说明，不满意就说不满意）。

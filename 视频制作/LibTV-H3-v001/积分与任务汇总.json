@@ -1,0 +1,210 @@
+{
+  "observed_balance": 53,
+  "membership_start_balance": 3519,
+  "observed_intermediate_increase": 20,
+  "increase_source": "未核实",
+  "submitted_unique_batches": 24,
+  "successful_downloaded": 23,
+  "running": 0,
+  "failed": 1,
+  "accepted_nonfailed_quotes_sum": 3486,
+  "original_submission_quotes_sum": 3696,
+  "balance_reconciliation": "3519 + 20 - 非失败批次报价合计 = 当前余额；非账单级扣费证明",
+  "duplicate_task": "20261028002003358429236已取消，原成功任务恢复；取消提示不退但余额回升，未取得账单明细",
+  "minimum_next_h3_credits": 70,
+  "batches": [
+    {
+      "batch_number": 1,
+      "batch_id": "GB001",
+      "node_id": "v-6NT74v07yC",
+      "task_id": "20261027233503603499236",
+      "quote_credits": 210,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 2,
+      "batch_id": "GB002",
+      "node_id": "v-Gv7mUJTmcH",
+      "task_id": "20261027234903079689236",
+      "quote_credits": 210,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 3,
+      "batch_id": "GB003",
+      "node_id": "v-r3gqLtruuN",
+      "task_id": "20261028001103732479236",
+      "quote_credits": 154,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 4,
+      "batch_id": "GB004",
+      "node_id": "v-S2ouMzysCZ",
+      "task_id": "20261028001603495569236",
+      "quote_credits": 196,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 5,
+      "batch_id": "GB004M",
+      "node_id": "v-anqKtnd3Va",
+      "task_id": "20261028003603967309236",
+      "quote_credits": 210,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 6,
+      "batch_id": "GB005",
+      "node_id": "v-23N7n7xp2h",
+      "task_id": "20261028004003163309236",
+      "quote_credits": 196,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 7,
+      "batch_id": "GB006",
+      "node_id": "v-KGPTKlO474",
+      "task_id": "20261028004303750529236",
+      "quote_credits": 182,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 8,
+      "batch_id": "GB007",
+      "node_id": "v-rVdFbiB2Ip",
+      "task_id": "20261028004703676989236",
+      "quote_credits": 210,
+      "status": "failed_provider_review"
+    },
+    {
+      "batch_number": 9,
+      "batch_id": "GB008",
+      "node_id": "v-GRLYqGfMIC",
+      "task_id": "20261028005103132589236",
+      "quote_credits": 196,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 10,
+      "batch_id": "GB008R2",
+      "node_id": "v-DZjhCnnT0F",
+      "task_id": "20261028005403810899236",
+      "quote_credits": 70,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 11,
+      "batch_id": "GB009",
+      "node_id": "v-qg45AJZg5A",
+      "task_id": "20261028005803745709236",
+      "quote_credits": 182,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 12,
+      "batch_id": "GB010",
+      "node_id": "v-c6UWbUkN8X",
+      "task_id": "20261028010403847759236",
+      "quote_credits": 196,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 13,
+      "batch_id": "GB011-1",
+      "node_id": "v-njYvJwC3sM",
+      "task_id": "20261028010803837879236",
+      "quote_credits": 140,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 14,
+      "batch_id": "GB011-2",
+      "node_id": "v-x3g6bvFxHP",
+      "task_id": "20261028011203204069236",
+      "quote_credits": 84,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 15,
+      "batch_id": "GB012",
+      "node_id": "v-6V08nvbhZl",
+      "task_id": "20261028011603408969236",
+      "quote_credits": 168,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 16,
+      "batch_id": "GB013",
+      "node_id": "v-QHVfr6WhnF",
+      "task_id": "20261028011703263549236",
+      "quote_credits": 196,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 20,
+      "batch_id": "GB015-2",
+      "node_id": "v-kBx2J5SWAU",
+      "task_id": "20261028011803447939236",
+      "quote_credits": 70,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 21,
+      "batch_id": "GB016-1",
+      "node_id": "v-2UdJHx6BtH",
+      "task_id": "20261028012003652739236",
+      "quote_credits": 168,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 22,
+      "batch_id": "GB016-2",
+      "node_id": "v-SRsE59Iaa1",
+      "task_id": "20261028012003685749236",
+      "quote_credits": 70,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 23,
+      "batch_id": "GB017",
+      "node_id": "v-kavvekQEZN",
+      "task_id": "20261028012103919849236",
+      "quote_credits": 98,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 24,
+      "batch_id": "GB017R2",
+      "node_id": "v-BXgm4dhD5K",
+      "task_id": "20261028012203080749236",
+      "quote_credits": 140,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 27,
+      "batch_id": "GB020-1",
+      "node_id": "v-ER1ssBW3lO",
+      "task_id": "20261028012303181309236",
+      "quote_credits": 98,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 28,
+      "batch_id": "GB020-1R2",
+      "node_id": "v-dUnL78EAMC",
+      "task_id": "20261028012303887419236",
+      "quote_credits": 168,
+      "status": "generated_candidate"
+    },
+    {
+      "batch_number": 29,
+      "batch_id": "GB020-2",
+      "node_id": "v-VhQYl07HoD",
+      "task_id": "20261028012503223829236",
+      "quote_credits": 84,
+      "status": "generated_candidate"
+    }
+  ],
+  "total_candidate_seconds": 256.252665
+}

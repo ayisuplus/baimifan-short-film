@@ -1,0 +1,48 @@
+{
+  "generated_calls": 5,
+  "selected_new_turnarounds": 3,
+  "reused_sheets": 7,
+  "atlas_items": 17,
+  "generated": [
+    {
+      "id": "CHAR-CLAUDE-TURN-v001",
+      "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+      "sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+      "width": 2200,
+      "height": 715,
+      "mode": "RGB"
+    },
+    {
+      "id": "CHAR-GPT-TURN-v001",
+      "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+      "sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+      "width": 2172,
+      "height": 724,
+      "mode": "RGB"
+    },
+    {
+      "id": "CHAR-DEEPSEEK-TURN-v001",
+      "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v001.png",
+      "sha256": "58340639d0225f3ea909dc7398a464306da34d08bea2125c37eb74b3e70fef5c",
+      "width": 2170,
+      "height": 725,
+      "mode": "RGB"
+    },
+    {
+      "id": "CHAR-DEEPSEEK-TURN-v002",
+      "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v002.png",
+      "sha256": "059b90ca009309e14452b30347d4d172318c1073e81c35c8f73b46f08724deeb",
+      "width": 2169,
+      "height": 725,
+      "mode": "RGB"
+    },
+    {
+      "id": "CHAR-DEEPSEEK-TURN-v003",
+      "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+      "sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+      "width": 2169,
+      "height": 725,
+      "mode": "RGB"
+    }
+  ]
+}

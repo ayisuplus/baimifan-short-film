@@ -1,0 +1,32 @@
+{
+  "status": "historical_direction_not_selected",
+  "current_revision": "v045",
+  "images": [
+    {
+      "path": "镜头设计/图像/月引承潮-v043/CY024A1-v043-r1.png",
+      "sha256": "003a30f8afa5517be103547d9af97c3d9895cf3a3c416410f39ca0918bab9208",
+      "status": "superseded_preserved_not_in_current_previs"
+    },
+    {
+      "path": "镜头设计/图像/月引承潮-v043/CY024B3-v043-r1.png",
+      "sha256": "23d4b91f5fcd792842a84430d19ffc6a91d7a6402900cbc433ea249323824106",
+      "status": "superseded_preserved_not_in_current_previs"
+    },
+    {
+      "path": "镜头设计/图像/月引承潮-v043/CY024K1A-v043-r1.png",
+      "sha256": "46d3635117404e7899fae8fd376632a6ae4690192b8f195dfa9223c247ce6dd2",
+      "status": "superseded_preserved_not_in_current_previs"
+    },
+    {
+      "path": "镜头设计/图像/月引承潮-v043/CY024K2-v043-r1.png",
+      "sha256": "83fb16bc78b59526add6be85b10cc6fab05b7e78d46c3b05440f930b48b518db",
+      "status": "superseded_preserved_not_in_current_previs"
+    },
+    {
+      "path": "镜头设计/图像/月引承潮-v043/CY024K3-v043-r1.png",
+      "sha256": "9e60bed625b12f425c8ab6864ed938f015172f814a94a11487b4fc1720f698b9",
+      "status": "superseded_preserved_not_in_current_previs"
+    }
+  ],
+  "requests_note": "冻结请求不等于实际执行。仅本表列出的8张（v043五张、v044三张）有图像结果；其余请求随作者改方案未执行。"
+}

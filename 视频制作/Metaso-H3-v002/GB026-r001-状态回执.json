@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115145720762523648",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "哥特异世界：圣殿防线与战后取钥",
+    "status": "succeeded",
+    "created_at": 1793125012,
+    "updated_at": 1793125073,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115145720762523648/content?expires=1793729947&signature=4f481e6d7a619b834cd78a19a94944d865d50b78981a3383eac55a1d75eb456f"
+    },
+    "resolution": "768P",
+    "duration": 12,
+    "usage": {
+      "total_seconds": 12,
+      "input_seconds": 0,
+      "output_seconds": 12,
+      "input_image_count": 9
+    },
+    "ratio": "16:9",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

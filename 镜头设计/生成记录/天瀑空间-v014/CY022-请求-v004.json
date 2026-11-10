@@ -1,0 +1,13 @@
+{
+  "id": "CY022",
+  "take": 4,
+  "destination": "镜头设计/图像/天瀑空间-v014/CY022-v014-r4.png",
+  "request": "镜头设计/生成记录/天瀑空间-v014/CY022-请求-v004.json",
+  "input": {
+    "prompt": "只去掉Claude与木架底下额外出现的两级小石阶，把它们改成和教主脚下同一高度的平整顶部平台；木架固定脚托仍保留，Claude的脚仍踩在脚托上。脚托两侧低柴与火焰保留，教主继续用火把点燃，其他人物、动作、头纱花饰与构图不变。",
+    "referenced_image_paths": [
+      "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-841431d0-f911-4487-808c-a44c7bf4821d.png"
+    ],
+    "transparent_background": false
+  }
+}

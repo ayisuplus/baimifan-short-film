@@ -1,0 +1,161 @@
+{
+  "replace_edits": [
+    {
+      "start": 3478,
+      "end": 3622,
+      "segments": [
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB010-v007-father-style-audio-r1.mp4",
+          "batch": 12,
+          "in": 0,
+          "out": 116,
+          "frames": 116,
+          "props": {},
+          "new_pickup": true
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB010-v007-father-style-audio-r1.mp4",
+          "batch": 12,
+          "in": 60,
+          "out": 74,
+          "frames": 28,
+          "props": {},
+          "new_pickup": true
+        }
+      ],
+      "reason": "原声发声区原速；去掉末尾无声乱说话，闭口反应0.583秒放1.167秒"
+    },
+    {
+      "start": 3914,
+      "end": 4058,
+      "segments": [
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB011-v007-Claude-style-audio-r2.mp4",
+          "batch": 14,
+          "in": 114,
+          "out": 228,
+          "frames": 114,
+          "props": {},
+          "new_pickup": true
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB011-v007-Claude-style-audio-r2.mp4",
+          "batch": 14,
+          "in": 260,
+          "out": 275,
+          "frames": 30,
+          "props": {},
+          "new_pickup": true
+        }
+      ],
+      "reason": "恳求原声和表演原速；静音尾替换为实际闭口源10.833–11.458秒轻慢放"
+    },
+    {
+      "start": 1640,
+      "end": 1760,
+      "segments": [
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB005-v007-early-decision-audio-r1.mp4",
+          "batch": 6,
+          "in": 0,
+          "out": 54,
+          "frames": 54,
+          "props": {},
+          "new_pickup": true
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB005-v003.mp4",
+          "batch": 6,
+          "in": 54,
+          "out": 120,
+          "frames": 66,
+          "props": {}
+        }
+      ],
+      "reason": "只用新说话0–2.25秒，接原片朝宫门离开；拒用新片走回王座的反向行动"
+    },
+    {
+      "start": 6476,
+      "end": 6650,
+      "segments": [
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB018-v007-gpt-rise-style-audio-r1.mp4",
+          "batch": 25,
+          "in": 0,
+          "out": 60,
+          "frames": 60,
+          "props": {},
+          "new_pickup": true
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB018-v007-gpt-rise-style-audio-r1.mp4",
+          "batch": 25,
+          "in": 60,
+          "out": 72,
+          "frames": 24,
+          "props": {},
+          "new_pickup": true
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB018-v007-gpt-rise-style-audio-r1.mp4",
+          "batch": 25,
+          "in": 72,
+          "out": 144,
+          "frames": 72,
+          "props": {},
+          "new_pickup": true
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB018-v007-gpt-rise-style-audio-r1.mp4",
+          "batch": 25,
+          "in": 180,
+          "out": 192,
+          "frames": 18,
+          "props": {},
+          "new_pickup": true
+        }
+      ],
+      "reason": "仅延长无脸起飞末段0.5秒，使开口接实际起声；发声脸段保持原速，6.5秒后采用闭口尾"
+    },
+    {
+      "start": 5018,
+      "end": 5229,
+      "segments": [
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB014A-v007-kimi-window-style-audio-r2.mp4",
+          "batch": 18,
+          "in": 0,
+          "out": 144,
+          "frames": 144,
+          "props": {},
+          "new_pickup": true
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB014A-v007-kimi-window-style-audio-r2.mp4",
+          "batch": 18,
+          "in": 96,
+          "out": 144,
+          "frames": 49,
+          "props": {
+            "ZoomX": 3.0,
+            "ZoomY": 3.0,
+            "Pan": -636.0,
+            "Tilt": -486.0
+          },
+          "new_pickup": true
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v007\\产物\\GB014A-v007-kimi-window-style-audio-r2.mp4",
+          "batch": 18,
+          "in": 150,
+          "out": 168,
+          "frames": 18,
+          "props": {},
+          "new_pickup": true
+        }
+      ],
+      "reason": "请门原声完整；最后两秒以银刃特写承接咒语，8秒后才接发力投刃，再接B19玻璃撞击；玻璃全程完整"
+    }
+  ],
+  "approval_boundary": "候选经独立大段开闭口与因果核验，逐音素与连续听审仍由作者核定"
+}

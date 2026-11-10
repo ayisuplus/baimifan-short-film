@@ -1,0 +1,32 @@
+{
+  "shots": 131,
+  "seconds": 431.5,
+  "changed": [
+    "CY010A",
+    "CY011",
+    "CY011A",
+    "CY012",
+    "CY013",
+    "CY013A",
+    "CY015",
+    "CY016",
+    "CY016A1",
+    "CY016A",
+    "CY016B",
+    "CY016B1",
+    "CY016C",
+    "CY024R",
+    "CY024K0",
+    "CY024K1",
+    "CY024K1A",
+    "CY024K2",
+    "CY024K2A",
+    "CY024K3",
+    "CY024K4"
+  ],
+  "unchanged_candidates": 110,
+  "story_images_dialogue_timing_unchanged": true,
+  "effects_unchanged": true,
+  "source_plan_sha256": "5e6aafa672acdeab1e75812bf224a2fb3e76468968f39dd96420d93083ca91e7",
+  "new_plan_sha256": "b60a6f5c0b239da2255121d1fa328347285cb8325a703b68cc84da20a86edbdf"
+}

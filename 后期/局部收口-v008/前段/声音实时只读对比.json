@@ -1,0 +1,264 @@
+{
+  "counts": [
+    85,
+    85
+  ],
+  "voice_counts": [
+    64,
+    64
+  ],
+  "voice_timing_or_source_changes": [],
+  "actual_changes": [
+    {
+      "name": "VO-CY009-01",
+      "track": 1,
+      "differences": {
+        "props": {
+          "AudioVolume": [
+            -3,
+            1.64
+          ]
+        }
+      }
+    },
+    {
+      "name": "VO-CY015-02",
+      "track": 1,
+      "differences": {
+        "props": {
+          "AudioVolume": [
+            -3,
+            3.07
+          ]
+        }
+      }
+    },
+    {
+      "name": "VO-CY024A-01",
+      "track": 1,
+      "differences": {
+        "props": {
+          "AudioVolume": [
+            -3,
+            8.67
+          ]
+        }
+      }
+    },
+    {
+      "name": "VO-CY024A6-01",
+      "track": 1,
+      "differences": {
+        "props": {
+          "AudioVolume": [
+            -3,
+            6.84
+          ]
+        }
+      }
+    },
+    {
+      "name": "VO-CY028A-01",
+      "track": 1,
+      "differences": {
+        "props": {
+          "AudioVolume": [
+            -3,
+            11.06
+          ]
+        }
+      }
+    },
+    {
+      "name": "VO-CY028A-02",
+      "track": 1,
+      "differences": {
+        "props": {
+          "AudioVolume": [
+            -3,
+            8.79
+          ]
+        }
+      }
+    },
+    {
+      "name": "VO-CY028B-01",
+      "track": 1,
+      "differences": {
+        "props": {
+          "AudioVolume": [
+            -3,
+            11.62
+          ]
+        }
+      }
+    },
+    {
+      "name": "VO-CY028C-01",
+      "track": 1,
+      "differences": {
+        "props": {
+          "AudioVolume": [
+            -3,
+            14.59
+          ]
+        }
+      }
+    },
+    {
+      "name": "VO-CY029E1-01",
+      "track": 1,
+      "differences": {
+        "props": {
+          "AudioVolume": [
+            -3,
+            -9.3
+          ]
+        }
+      }
+    },
+    {
+      "name": "VO-CY029E2-01",
+      "track": 1,
+      "differences": {
+        "props": {
+          "AudioVolume": [
+            -3,
+            -9.78
+          ]
+        }
+      }
+    },
+    {
+      "name": "VO-CY029E4-01",
+      "track": 1,
+      "differences": {
+        "props": {
+          "AudioVolume": [
+            -3,
+            -9.34
+          ]
+        }
+      }
+    },
+    {
+      "name": "VO-CY031A-01",
+      "track": 1,
+      "differences": {
+        "props": {
+          "AudioVolume": [
+            -3,
+            1.29
+          ]
+        }
+      }
+    },
+    {
+      "name": "VO-CY031A-02",
+      "track": 1,
+      "differences": {
+        "props": {
+          "AudioVolume": [
+            -3,
+            1.8
+          ]
+        }
+      }
+    },
+    {
+      "name": "M09",
+      "track": 2,
+      "differences": {
+        "start": [
+          6389,
+          6285
+        ],
+        "end": [
+          8007.2,
+          8007
+        ],
+        "path": [
+          "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\M09-音乐工作段.wav",
+          "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\局部收口-v008\\声音\\M09-return-bridge-v008.wav"
+        ],
+        "source_out_seconds": [
+          67.425,
+          71.75
+        ]
+      }
+    },
+    {
+      "name": "N01_flashback",
+      "track": 3,
+      "differences": {
+        "end": [
+          6418,
+          6321
+        ],
+        "path": [
+          "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\N01_flashback-音乐工作段.wav",
+          "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\局部收口-v008\\声音\\N01-return-bridge-v008.wav"
+        ],
+        "source_out_seconds": [
+          30.083333333333332,
+          26.041666666666668
+        ]
+      }
+    },
+    {
+      "name": "Foley",
+      "track": 6,
+      "differences": {
+        "path": [
+          "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\截图定点修正-v004\\声音\\Foley-v004-stem.wav",
+          "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\局部收口-v008\\声音\\Foley-v008-stem.wav"
+        ]
+      }
+    },
+    {
+      "name": "Action",
+      "track": 7,
+      "differences": {
+        "path": [
+          "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\Action-v003-stem.wav",
+          "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\局部收口-v008\\声音\\Action-v008-stem.wav"
+        ]
+      }
+    }
+  ],
+  "after_track_states": [
+    [
+      1,
+      true
+    ],
+    [
+      2,
+      true
+    ],
+    [
+      3,
+      true
+    ],
+    [
+      4,
+      true
+    ],
+    [
+      5,
+      true
+    ],
+    [
+      6,
+      true
+    ],
+    [
+      7,
+      true
+    ],
+    [
+      8,
+      true
+    ]
+  ],
+  "default_properties_note": "v008 returns extra disabled VoiceIsolation and DialogueLeveler defaults; original shared properties unchanged except planned AudioVolume."
+}

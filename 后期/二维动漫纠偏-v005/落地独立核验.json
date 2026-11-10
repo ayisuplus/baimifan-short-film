@@ -1,0 +1,295 @@
+{
+  "review": "v005-landed-independent-verification",
+  "scope": "只核对落地JSON记录和4张已提供达芬奇QA静帧；未操作Resolve、未重新导出或扩审全片。",
+  "timeline": "v005_2D_Anime_Fixes",
+  "decision": "所查证据支持7个替换片段已按计划装配并保存；未发现本轮落地阻断。可进入用户工程内核验。",
+  "evidence_inputs": [
+    "最终实际核验.json",
+    "实际装配回读.json",
+    "后期执行计划.json",
+    "../截图定点修正-v004/实际装配回读.json",
+    "证据/native-wing-insert-fixed.png",
+    "证据/native-group.png",
+    "证据/native-stairs.png",
+    "证据/native-wing-face.png"
+  ],
+  "assembly": {
+    "replacement_count": 7,
+    "replacements": [
+      {
+        "name": "B07_v005_2D_2126",
+        "timeline_frames": [
+          2126,
+          2174
+        ],
+        "source_frames": [
+          36,
+          84
+        ],
+        "duration": 48,
+        "plan_readback_match": true,
+        "enabled": true,
+        "actual_transform": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        },
+        "source_exists": true
+      },
+      {
+        "name": "B17_v005_2D_4778",
+        "timeline_frames": [
+          4778,
+          4838
+        ],
+        "source_frames": [
+          24,
+          84
+        ],
+        "duration": 60,
+        "plan_readback_match": true,
+        "enabled": true,
+        "actual_transform": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        },
+        "source_exists": true
+      },
+      {
+        "name": "B25_v005_2D_6476",
+        "timeline_frames": [
+          6476,
+          6560
+        ],
+        "source_frames": [
+          0,
+          84
+        ],
+        "duration": 84,
+        "plan_readback_match": true,
+        "enabled": true,
+        "actual_transform": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        },
+        "source_exists": true
+      },
+      {
+        "name": "B25_v005_2D_6560",
+        "timeline_frames": [
+          6560,
+          6578
+        ],
+        "source_frames": [
+          84,
+          102
+        ],
+        "duration": 18,
+        "plan_readback_match": true,
+        "enabled": true,
+        "actual_transform": {
+          "ZoomX": 2.4705882352941178,
+          "ZoomY": 2.4705882352941178,
+          "Pan": 988.2352941176471,
+          "Tilt": -558.7058823529412
+        },
+        "source_exists": true
+      },
+      {
+        "name": "B25_v005_2D_6578",
+        "timeline_frames": [
+          6578,
+          6628
+        ],
+        "source_frames": [
+          102,
+          152
+        ],
+        "duration": 50,
+        "plan_readback_match": true,
+        "enabled": true,
+        "actual_transform": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        },
+        "source_exists": true
+      },
+      {
+        "name": "B25_v005_2D_6628",
+        "timeline_frames": [
+          6628,
+          6650
+        ],
+        "source_frames": [
+          162,
+          184
+        ],
+        "duration": 22,
+        "plan_readback_match": true,
+        "enabled": true,
+        "actual_transform": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        },
+        "source_exists": true
+      },
+      {
+        "name": "B37_v005_2D_9699",
+        "timeline_frames": [
+          9699,
+          9781
+        ],
+        "source_frames": [
+          0,
+          82
+        ],
+        "duration": 82,
+        "plan_readback_match": true,
+        "enabled": true,
+        "actual_transform": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        },
+        "source_exists": true
+      }
+    ],
+    "total_frames": 11497,
+    "video_items": 121,
+    "video_duration_sum": 11497,
+    "coverage_start": 0,
+    "coverage_end": 11497,
+    "adjacent_gap_or_overlap": [],
+    "B25_four_sections_total": 174,
+    "note": "7段包括B07的1段、B17的1段、B25的4段、B37的1段。B07本轮仅核对装配元数据，不新增其画面审查结论。"
+  },
+  "audio": {
+    "items": 85,
+    "exact_record_equality_to_v004": true,
+    "track_records_equal_to_v004": true,
+    "all_items_enabled": true,
+    "tracks": [
+      {
+        "index": 1,
+        "name": "Dialogue_Selected",
+        "enabled": true
+      },
+      {
+        "index": 2,
+        "name": "Music_A",
+        "enabled": true
+      },
+      {
+        "index": 3,
+        "name": "Music_B",
+        "enabled": true
+      },
+      {
+        "index": 4,
+        "name": "Music_C",
+        "enabled": true
+      },
+      {
+        "index": 5,
+        "name": "Ambience",
+        "enabled": true
+      },
+      {
+        "index": 6,
+        "name": "Foley",
+        "enabled": true
+      },
+      {
+        "index": 7,
+        "name": "Action",
+        "enabled": true
+      },
+      {
+        "index": 8,
+        "name": "Magic",
+        "enabled": true
+      }
+    ],
+    "items_per_track": {
+      "1": 64,
+      "2": 9,
+      "3": 8,
+      "5": 1,
+      "6": 1,
+      "7": 1,
+      "8": 1
+    },
+    "compared_fields": [
+      "track",
+      "name",
+      "start",
+      "end",
+      "source",
+      "source_start",
+      "source_end",
+      "enabled",
+      "volume"
+    ],
+    "interpretation": "85项记录逐项完全相同，包含轨道、源文件、时间线起止、源入出、启用和音量。8条轨道名称/启用状态也与v004一致。不是仅相信audio_unchanged布尔值。",
+    "limit": "这证明记录未改，不证明实际扬声器回放、波形内容、总线/插件、响度、BGM覆盖或逐音素同步已全片验收；没有进行这些额外检查。"
+  },
+  "crop": {
+    "clip": "B25_v005_2D_6560",
+    "timeline_frames": [
+      6560,
+      6578
+    ],
+    "source_frames": [
+      84,
+      102
+    ],
+    "actual_transform": {
+      "ZoomX": 2.4705882352941178,
+      "ZoomY": 2.4705882352941178,
+      "Pan": 988.2352941176471,
+      "Tilt": -558.7058823529412
+    },
+    "plan_matches_final_transform": true,
+    "visual_result": "native-wing-insert-fixed.png显示完整画幅的翼膜细节，没有脸或嘴，顶边未见先前6px黑条；实际Tilt=-558.7058823529412已与计划一致。",
+    "scope_limit": "本次目视结论限该实际QA帧；其18帧源范围的无脸条件已在v009回片审查验证。"
+  },
+  "native_stills": {
+    "native-group.png": "人物二维线条及衣裙色块保持，匹配v009已审群像；未回到v008的模型质感。",
+    "native-stairs.png": "上下阶差和扶肩/抱孩子关系清楚，二维线条色块保持。",
+    "native-wing-face.png": "脸部与翼膜线稿色块保持；此静帧不能单独证明整段口型同步。"
+  },
+  "tail_join": {
+    "output_frames": [
+      6628,
+      6650
+    ],
+    "source_frames": [
+      162,
+      184
+    ],
+    "verified": "源区间与建议一致，22帧原速闭口尾已装入。",
+    "not_independently_replayed": "本轮未连续播放151→162的拼接。主任务报告已比对两端全帧，发丝位移小且未叠化；该主任务目视结论不冒充本代理实测。"
+  },
+  "save": {
+    "assembly_readback_save": true,
+    "final_verification_save": true,
+    "exported": false,
+    "old_timeline": "v004_Screenshot_2D_Style_Rework",
+    "interpretation": "两份落地记录均返回保存成功，记录标明未导出，旧时间线标识保留。未再次打开/重载工程验证磁盘持久化。"
+  },
+  "limits": [
+    "不替代用户最终定版。",
+    "不宣称全片其余口型、动作、过渡、声音细节均已解决。",
+    "执行计划普通替换props为空，表示使用默认构图；最终实际核验提供Zoom=1、Pan/Tilt=0，因此不是计划与实际不符。"
+  ]
+}

@@ -1,0 +1,865 @@
+{
+  "status": "independent_r3_visual_and_cue_alignment_review",
+  "scope": "当前r3成片第16–30批，优先15末至20；检查成片实际抽帧+24fps/8fps/4fps疑点密采样、当前voice时码、v0.65镜头动作/声音原意。",
+  "media": "后期/导演后期修正-v001/导出/白米饭-导演修订-v001-r3.mp4",
+  "source_documents": [
+    {
+      "path": "后期/导演后期修正-v001/后期执行计划.json",
+      "sha256": "d47482e13c75d2a12bda3ba48ce66972343948c531e79a74234eeb1f976adef5"
+    },
+    {
+      "path": "镜头设计/shot-plan-v0.65.json",
+      "sha256": "c50ebf637c25285f32a13c7d9da0347355b172800ab7977157a23f9a3a54b253"
+    }
+  ],
+  "limits": [
+    "未连续听审成片，不宣称发音、表演、响度或逐音口型通过。每句声音范围来自现行施工voice表，人物/开口来自实际成片画面。",
+    "全长2fps标签为名义网格，实际镜界不得直接取表标签；16踹门另以24fps、19现身8fps、18/24嘴部4fps核实。",
+    "原设计画外咏唱/听者反应不是自动错配；本报告明确区分角色归属、口部时位和机位不符合。",
+    "不重生整批；所有补拍为最小镜头建议与正片目标时长，实际下单需加源头尾余量并另冻结。"
+  ],
+  "priority_16_20_sequence": {
+    "principle": "恢复慢的蓄压、快的撞击、可读的动作余势；不再把整段单向压短。15受刑→16入场→17分工→18潜入→19救人→20防御必须形成连续动作链。",
+    "proposal": [
+      {
+        "step": "15受刑到16火幕",
+        "seconds": "3秒痛苦近景后，火幕群体远景约3–4秒",
+        "sound": "火声和无词吟唱承接；不要换成只有BGM。"
+      },
+      {
+        "step": "外部援军/裙摆/门内静默",
+        "seconds": "列阵2–3秒，裙摆脚步2–3秒，门内预兆1–1.5秒",
+        "sound": "内外吟唱透视改变，甲靴和脚步逐步靠近，门前音乐退开。"
+      },
+      {
+        "step": "CY023破门",
+        "seconds": "新增2–2.5秒完整一次撞击与余势",
+        "sound": "接触当帧硬响，吟唱骤停，门扇/木屑拖尾落下；不把0.58秒扩慢成2秒。"
+      },
+      {
+        "step": "CY024入场与命令→敌方反应",
+        "seconds": "已开门群像约3秒，敌方闭口反应约3.5秒",
+        "sound": "GPT完整1.41秒命令说清；Kimi2.2秒画外呼唤在敌方反应中起，方向引到后窗。"
+      },
+      {
+        "step": "Kimi显形",
+        "seconds": "保持完整4秒无新对白",
+        "sound": "只允许呼唤自然尾韵、夜风、银流凝实，不能为缩时填新对白。"
+      },
+      {
+        "step": "Kimi侧面请求与投刃",
+        "seconds": "8.8–9.2秒或现8.29秒经实听确认能承7.68秒原声+停顿+甩出",
+        "sound": "两句连续原速说完，短停后投刃，下一镜才碎玻璃。"
+      },
+      {
+        "step": "破窗→定坐标→瞬移→敌反应",
+        "seconds": "破窗约3秒；钉柴与术名2–2.6秒；新瞬移3–3.5秒；敌方举手2秒",
+        "sound": "玻璃响退下后术名0.88秒清楚，坐标低鸣转瞬移爆气与重木刮石；不额外重复术名。"
+      },
+      {
+        "step": "闭罩拦截",
+        "seconds": "保留4秒",
+        "sound": "聚能→两道射击→壳面碎裂；切入罩内只剩闷响，明确保护完成。"
+      }
+    ],
+    "minimum_priority_reshoots": [
+      {
+        "shot": "CY023",
+        "duration": [
+          2,
+          2.5
+        ],
+        "reason": "破门受力与门开状态"
+      },
+      {
+        "shot": "CY024K2",
+        "duration": [
+          3,
+          3.5
+        ],
+        "reason": "循刃瞬移而非空中跳落"
+      }
+    ],
+    "conditional_only": [
+      {
+        "shot": "CY024K0",
+        "duration": [
+          8.8,
+          9.2
+        ],
+        "condition": "逐音对位和局部口部修正无法自然承完整7.68秒原声时，才补侧面请求镜；不重做4秒显形。"
+      }
+    ]
+  },
+  "batches": [
+    {
+      "verdict": "regenerate_minimal_shot",
+      "summary": "破门是本段救援节奏的爆点，却被压成门板局部闪过；接下批再缓慢开门削弱受力因果。",
+      "issues": [
+        {
+          "range": [
+            186.125,
+            188.208333
+          ],
+          "shots": [
+            "CY023",
+            "CY024"
+          ],
+          "priority": "P0",
+          "problem": "24fps加密窗口186.125–186.708中，前约5帧仍是前镜门全景，186.333附近才进入踹门近景；关键近景约9帧。仅到门木开裂，没有门扇向内甩开、收脚落地的余势。下批又从窄门缝逐步打开，像重新开门。",
+          "fix": "单补CY023为4秒源，取约2.5–3秒完整撞击至落脚；接第17批已开门源1–3秒轻慢为2.5秒，保留1.41秒完整GPT命令和既有nightmask。",
+          "new_shot_seconds": [
+            2,
+            2.5
+          ],
+          "why_post_not_enough": "原源剩余段曾因门洞方向错误被弃，当前不到半秒无法靠慢放补出正确门扇与脚落地。无需重生前面火幕/列阵/裙摆四镜。",
+          "evidence": [
+            "后期/声画重构-v002/证据16-30/B16-02.jpg",
+            "后期/声画重构-v002/证据16-30/B16-kick-24fps-1.jpg",
+            "后期/声画重构-v002/证据16-30/B17-01.jpg"
+          ]
+        }
+      ],
+      "batch_number": 16,
+      "id": "GB013",
+      "film_start": 174.125,
+      "film_end": 186.70833333333334,
+      "dialogue_checks": [],
+      "planned_shot_ids": [
+        "CY022B2",
+        "CY022B1",
+        "CY026",
+        "CY022C",
+        "CY023"
+      ],
+      "reviewed_evidence": [
+        "后期/声画重构-v002/证据16-30/B16-01.jpg",
+        "后期/声画重构-v002/证据16-30/B16-02.jpg",
+        "后期/声画重构-v002/证据16-30/B16-kick-24fps-1.jpg"
+      ]
+    },
+    {
+      "verdict": "post_with_b16_new_shot",
+      "summary": "GPT命令落在GPT群像，Kimi首句画外落在闭口教主反应是原设计，不是说话角色替换；主要修入口承接与声场方向。",
+      "issues": [
+        {
+          "range": [
+            186.708333,
+            189.708333
+          ],
+          "shots": [
+            "CY024"
+          ],
+          "priority": "P1",
+          "problem": "门先窄开再徐徐露出群像，与上镜破门冲击不相称；人物尚远时命令已开始，主角身份焦点弱。",
+          "fix": "配合新CY023，从已开门群像接入；给GPT清楚1.8秒以上的中心可读状态覆盖1.41秒命令，必要时轻裁而不裁掉同伴。命令完成再接敌方反应。",
+          "new_shot_seconds": null,
+          "evidence": [
+            "后期/声画重构-v002/证据16-30/B17-01.jpg"
+          ]
+        },
+        {
+          "range": [
+            190.291667,
+            197.208333
+          ],
+          "shots": [
+            "CY024R",
+            "CY024K00"
+          ],
+          "priority": "P2",
+          "problem": "Kimi呼唤到后续长句之间有4秒多停咏，此处若缺月光显形音效会显断裂；但4秒无新对白是明确原设计。",
+          "fix": "完整保留193.208–197.208显形4秒，不把首句搬进去。教主闭口反应上保画外Kimi，逐渐引向后窗方向；呼唤混响尾、银流凝实和夜风做连续声桥。禁新增教主口型去配Kimi。",
+          "new_shot_seconds": null,
+          "evidence": [
+            "后期/声画重构-v002/证据16-30/B17-01.jpg",
+            "后期/声画重构-v002/证据16-30/B18-01.jpg"
+          ]
+        }
+      ],
+      "batch_number": 17,
+      "id": "GB014",
+      "film_start": 186.70833333333334,
+      "film_end": 193.20833333333334,
+      "dialogue_checks": [
+        {
+          "cue_id": "VO-CY024-01",
+          "role": "GPT",
+          "film_start": 186.875,
+          "film_end": 188.285,
+          "original_speed_duration": 1.4099999999999966,
+          "assessment": "GPT居中入场可识别；远景嘴小，不证明逐音口型，门重复开启需修。"
+        },
+        {
+          "cue_id": "VO-CY024R-01",
+          "role": "Kimi",
+          "film_start": 190.29166666666666,
+          "film_end": 192.49166666666667,
+          "original_speed_duration": 2.200000000000017,
+          "assessment": "Kimi画外，画面闭口教主反应；符合原设计，不能当错配。"
+        }
+      ],
+      "planned_shot_ids": [
+        "CY024",
+        "CY024R"
+      ],
+      "reviewed_evidence": [
+        "后期/声画重构-v002/证据16-30/B17-01.jpg"
+      ]
+    },
+    {
+      "verdict": "post_first_lipsync_trial",
+      "summary": "4秒远景显形可用，随后Kimi角色和口动存在；长句近景需要重新精确对位，不应因固定镜头就压缩声音或显形。",
+      "issues": [
+        {
+          "range": [
+            197.208333,
+            205.5
+          ],
+          "shots": [
+            "CY024K0"
+          ],
+          "priority": "P1",
+          "problem": "声轨文件起点不等于发声起点。按主代理选定配音实测停顿.json：首句前0.775秒基本静音，实际批内4.775秒起口；画面约5秒起口，仅约0.225秒偏差。第二句实际发声批内7.914–11.488，尾部约0.5秒画面多闭口。未逐音听审。",
+          "fix": "第一句保持原声和4秒无新对白显形；先局部延长末发话画面约0.5秒再接投刃，按实际声音能量起止核口，不以文件起点机械判错。不补整近景。",
+          "evidence": [
+            "后期/声画重构-v002/证据16-30/B18-mouth-4fps-1.jpg",
+            "后期/声画重构-v002/证据16-30/B18-mouth-4fps-2.jpg",
+            "后期/声画重构-v002/证据16-30/B18-02.jpg"
+          ]
+        }
+      ],
+      "batch_number": 18,
+      "id": "GB014A",
+      "film_start": 193.20833333333334,
+      "film_end": 205.5,
+      "dialogue_checks": [
+        {
+          "cue_id": "VO-CY024K0-01",
+          "role": "Kimi",
+          "film_start": 197.20833333333334,
+          "film_end": 200.90833333333333,
+          "original_speed_duration": 3.6999999999999886,
+          "assessment": "Kimi可见且存在口动；起段口部偏静，须逐音对位。"
+        },
+        {
+          "cue_id": "VO-CY024K0-02",
+          "role": "Kimi",
+          "film_start": 200.91666666666666,
+          "film_end": 204.89670866666668,
+          "original_speed_duration": 3.980042000000026,
+          "assessment": "Kimi可见且存在口动；尾部闭口/投刃应晚于实际词尾，须逐音对位。"
+        }
+      ],
+      "planned_shot_ids": [
+        "CY024K00",
+        "CY024K0"
+      ],
+      "reviewed_evidence": [
+        "后期/声画重构-v002/证据16-30/B18-01.jpg",
+        "后期/声画重构-v002/证据16-30/B18-02.jpg",
+        "后期/声画重构-v002/证据16-30/B18-mouth-4fps-1.jpg",
+        "后期/声画重构-v002/证据16-30/B18-mouth-4fps-2.jpg"
+      ]
+    },
+    {
+      "verdict": "regenerate_minimal_shot",
+      "summary": "当前成片先露清开柴堆再击木，结果早于原因；随后Kimi从高处落下。需要删早泄宽镜，并最小补地面坐标凝实。",
+      "issues": [
+        {
+          "range": [
+            211.125,
+            213.5
+          ],
+          "shots": [
+            "CY024K2"
+          ],
+          "priority": "P1",
+          "problem": "8fps连续样本211.125–211.5人物从画面上方垂直落入，211.625才蹲地起气浪。上一镜刃在木上建立坐标，但此镜不展示循刃凝实/握回，移动能力因果断开。",
+          "fix": "补CY024K2为5秒源，刃尖银光→地面原位凝实→脚下水平气浪扫柴→稳住空间；按实际完整动作留4–5秒。",
+          "new_shot_seconds": [
+            3,
+            3.5
+          ],
+          "why_post_not_enough": "现有动作核心是空中落下，裁掉空中部分只剩结果，仍缺坐标→人物出现→握刃关系。",
+          "evidence": [
+            "后期/声画重构-v002/证据16-30/B19-01.jpg",
+            "后期/声画重构-v002/证据16-30/B19-appear-8fps-1.jpg"
+          ]
+        },
+        {
+          "range": [
+            207.5,
+            208.5
+          ],
+          "shots": [
+            "CY024K1",
+            "CY024K1A"
+          ],
+          "priority": "P0",
+          "problem": "原源GB015-1-v002约2–3秒已经展示柴堆分开与Claude全身，后续才切飞刃击木，因果倒置。",
+          "fix": "删除该提前结果宽镜，保留飞刃破窗与击木，扫柴后才首次展示清开空间。",
+          "evidence": [
+            "后期/声画重构-v002/证据16-30/B19-01.jpg"
+          ],
+          "limit": "2fps网格给出约范围，最终剪切须对原片逐帧定位。"
+        }
+      ],
+      "preserve": "保留明刃破窗约3秒，钉木/术名2–2.6秒，围攻者抬手2秒；不能为抢节奏删掉术名0.88秒或敌方法术预备。",
+      "batch_number": 19,
+      "id": "GB015-1",
+      "film_start": 205.5,
+      "film_end": 216.16666666666666,
+      "dialogue_checks": [
+        {
+          "cue_id": "VO-CY024K1A-01",
+          "role": "Kimi",
+          "film_start": 209.08333333333334,
+          "film_end": 209.96333333333334,
+          "original_speed_duration": 0.8799999999999955,
+          "assessment": "Kimi画外，明刃钉柴坐标；合法物件反打，须术名后才瞬移。"
+        }
+      ],
+      "planned_shot_ids": [
+        "CY024K1",
+        "CY024K1A",
+        "CY024K2",
+        "CY024K2A"
+      ],
+      "reviewed_evidence": [
+        "后期/声画重构-v002/证据16-30/B19-01.jpg",
+        "后期/声画重构-v002/证据16-30/B19-02.jpg",
+        "后期/声画重构-v002/证据16-30/B19-appear-8fps-1.jpg"
+      ]
+    },
+    {
+      "verdict": "keep_with_sound_completion",
+      "summary": "Kimi退护、罩升闭合、敌法命中这一4秒因果完整，接前批需留足围攻预备。",
+      "issues": [],
+      "preserve": "约216.17–217.67从可见两人到完全闭罩，218秒后敌法撞罩；不要整段加速。补聚能→发射→外壳脆响，入21罩内后变闷，避免所有声音等响。",
+      "batch_number": 20,
+      "id": "GB015-2",
+      "film_start": 216.16666666666666,
+      "film_end": 220.16666666666666,
+      "dialogue_checks": [],
+      "planned_shot_ids": [
+        "CY024K3"
+      ],
+      "reviewed_evidence": [
+        "后期/声画重构-v002/证据16-30/B20-01.jpg"
+      ]
+    },
+    {
+      "verdict": "post",
+      "summary": "试镣反噬、队伍推进与稍早回闪可辨；对白主体正确，返闪节拍仍需明确。",
+      "issues": [
+        {
+          "range": [
+            223.166667,
+            226.166667
+          ],
+          "shots": [
+            "CY023A",
+            "CY026A"
+          ],
+          "priority": "P2",
+          "problem": "罩内亲密救护后插三秒入口推进再突然云宫，虽有“稍早”，场景转换缺视觉动因。",
+          "fix": "队伍镜留能看懂两翼分流的完整动作；从GPT在门口停步/看同伴接云宫邀请，可用短声场抽离与统一回闪色调，不以连续交叉溶解糊掉空间。",
+          "evidence": [
+            "后期/声画重构-v002/证据16-30/B21-01.jpg"
+          ]
+        }
+      ],
+      "preserve": "千问回应229.9167–231.0667在合扇特写中合理画外，合拢动作必须先于回应；无需强迫露脸。",
+      "batch_number": 21,
+      "id": "GB016-1",
+      "film_start": 220.16666666666666,
+      "film_end": 231.45833333333334,
+      "dialogue_checks": [
+        {
+          "cue_id": "VO-CY026A-01",
+          "role": "GPT",
+          "film_start": 226.25,
+          "film_end": 228.07,
+          "original_speed_duration": 1.8199999999999932,
+          "assessment": "GPT在云宫双人镜左侧；可见角色吻合，非逐音验证。"
+        },
+        {
+          "cue_id": "VO-CY026A1-01",
+          "role": "千问",
+          "film_start": 229.91666666666666,
+          "film_end": 231.06670866666664,
+          "original_speed_duration": 1.150041999999985,
+          "assessment": "千问合扇手部特写，合法画外回应；现后移位置保留。"
+        }
+      ],
+      "planned_shot_ids": [
+        "CY024K4",
+        "CY023A",
+        "CY026A",
+        "CY026A1"
+      ],
+      "reviewed_evidence": [
+        "后期/声画重构-v002/证据16-30/B21-01.jpg",
+        "后期/声画重构-v002/证据16-30/B21-02.jpg"
+      ]
+    },
+    {
+      "verdict": "keep_with_dialogue_alignment",
+      "summary": "GPT呼名和Gemini抬头回答都在同一双人关系内，未发现应整镜重生的角色替代。",
+      "issues": [],
+      "preserve": "231.542–232.522 GPT呼名，232.833–234.063 Gemini回应；可切书/听者反应，保抬眼后回答，不让两人同时连续张口。",
+      "batch_number": 22,
+      "id": "GB016-2",
+      "film_start": 231.45833333333334,
+      "film_end": 234.95833333333334,
+      "dialogue_checks": [
+        {
+          "cue_id": "VO-CY026B-01",
+          "role": "GPT",
+          "film_start": 231.54166666666666,
+          "film_end": 232.52166666666668,
+          "original_speed_duration": 0.9800000000000182,
+          "assessment": "GPT在左，Gemini仍看书，呼名反应关系成立。"
+        },
+        {
+          "cue_id": "VO-CY026B-02",
+          "role": "Gemini",
+          "film_start": 232.83333333333334,
+          "film_end": 234.06333333333333,
+          "original_speed_duration": 1.2299999999999898,
+          "assessment": "Gemini抬眼朝GPT回应，可见角色吻合。"
+        }
+      ],
+      "planned_shot_ids": [
+        "CY026B"
+      ],
+      "reviewed_evidence": [
+        "后期/声画重构-v002/证据16-30/B22-01.jpg"
+      ]
+    },
+    {
+      "verdict": "keep_with_bridge",
+      "summary": "Grok召集后切Kimi睡眼，GPT画外唤名是明确原设计；环境跳转可通过统一回闪语法支撑。",
+      "issues": [],
+      "preserve": "239.0417–241.3816画面Kimi睁眼配GPT唤名，嘴被袖遮挡/闭口，属于听者反应。月面段不加风声；与24同场自然接宽。",
+      "batch_number": 23,
+      "id": "GB017",
+      "film_start": 234.95833333333334,
+      "film_end": 241.5,
+      "dialogue_checks": [
+        {
+          "cue_id": "VO-CY026C-01",
+          "role": "GPT",
+          "film_start": 235.04166666666666,
+          "film_end": 236.08166666666665,
+          "original_speed_duration": 1.039999999999992,
+          "assessment": "GPT左侧邀约，Grok右侧持斧，角色关系成立。"
+        },
+        {
+          "cue_id": "VO-CY026C-02",
+          "role": "Grok",
+          "film_start": 236.41666666666666,
+          "film_end": 237.39666666666665,
+          "original_speed_duration": 0.9799999999999898,
+          "assessment": "Grok持斧回应，角色可辨。"
+        },
+        {
+          "cue_id": "VO-CY026D1-01",
+          "role": "GPT",
+          "film_start": 239.04166666666666,
+          "film_end": 241.38160366666665,
+          "original_speed_duration": 2.339936999999992,
+          "assessment": "GPT画外唤名，Kimi睁眼，原设计听者反应，不是Kimi说GPT台词。"
+        }
+      ],
+      "planned_shot_ids": [
+        "CY026C",
+        "CY026D1"
+      ],
+      "reviewed_evidence": [
+        "后期/声画重构-v002/证据16-30/B23-01.jpg"
+      ]
+    },
+    {
+      "verdict": "post",
+      "summary": "加密面部后确认长句主要由GPT口动，Kimi到句尾附近才开口；未证实整镜说错人。",
+      "issues": [
+        {
+          "range": [
+            248.708333,
+            250.666667
+          ],
+          "shots": [
+            "CY026D"
+          ],
+          "priority": "P1",
+          "problem": "Kimi约248.958已有张嘴样本，所选回应249.1667开始，相差约0.2秒；其余长句主要为GPT嘴动。",
+          "fix": "在GPT尾句后以Kimi闭口点头约0.2秒作反应，再接其真正开口段；或仅将Kimi回应视觉段后移约5帧，声轨1.398958秒原速完整。不能把Kimi开口提前覆盖GPT末半句。",
+          "new_shot_seconds": null,
+          "evidence": [
+            "后期/声画重构-v002/证据16-30/B24-speakers-4fps-1.jpg",
+            "后期/声画重构-v002/证据16-30/B24-speakers-4fps-2.jpg"
+          ]
+        }
+      ],
+      "preserve": "9.1667秒窗口几乎满载；不以加速语音省时。若重新构图，可用GPT近景/听者反打，但当前角色关系本身成立。",
+      "batch_number": 24,
+      "id": "GB017R2",
+      "film_start": 241.5,
+      "film_end": 250.66666666666666,
+      "dialogue_checks": [
+        {
+          "cue_id": "VO-CY026D-01",
+          "role": "GPT",
+          "film_start": 241.70833333333334,
+          "film_end": 248.86891633333332,
+          "original_speed_duration": 7.160582999999974,
+          "assessment": "加密4fps确认主要GPT张嘴，Kimi闭口听；未证实长句说错人。"
+        },
+        {
+          "cue_id": "VO-CY026D-02",
+          "role": "Kimi",
+          "film_start": 249.16666666666666,
+          "film_end": 250.56562466666665,
+          "original_speed_duration": 1.3989579999999933,
+          "assessment": "Kimi张嘴约比锁定声轨提前0.2秒，需局部约5帧校正。"
+        }
+      ],
+      "planned_shot_ids": [
+        "CY026D"
+      ],
+      "reviewed_evidence": [
+        "后期/声画重构-v002/证据16-30/B24-01.jpg",
+        "后期/声画重构-v002/证据16-30/B24-speakers-4fps-1.jpg",
+        "后期/声画重构-v002/证据16-30/B24-speakers-4fps-2.jpg"
+      ]
+    },
+    {
+      "verdict": "regenerate_minimal_shot_and_post",
+      "summary": "五格召集是设计性蒙太奇可保；抱孩子镜头未兑现指定的孩子肩后略仰视角，应补这一个关系镜。",
+      "issues": [
+        {
+          "range": [
+            250.666667,
+            254.666667
+          ],
+          "shots": [
+            "CY026E"
+          ],
+          "priority": "P2",
+          "problem": "五格动画被43.75%慢放至4秒，人物近乎卡片；GPT画外呼名对人群不算角色错配，但容易像介绍页。",
+          "fix": "按每0.6秒新增一格、最后全屏短停重做二维节奏，音轨3.38秒完整覆盖；不要对全格人物动作统一慢放。无需为五人重生成复杂同框。",
+          "evidence": [
+            "后期/声画重构-v002/证据16-30/B25-01.jpg"
+          ]
+        },
+        {
+          "range": [
+            254.666667,
+            257.866667
+          ],
+          "shots": [
+            "CY024A0"
+          ],
+          "priority": "P1",
+          "problem": "当前是偏正面双人中近景，露出成人手和张开的扇面，孩子脸正对观众；与孩子肩后略仰、千问头肩紧近景、合扇低持的确认机位不同。保护感与眼神主体被道具分散。",
+          "fix": "只补3.5–4秒：镜头在小鱼鲸帽后肩、孩子眼高略仰，千问脸右上，抓衣小手在下缘，手臂和合扇画外。千问0.2秒后说完整1.31375秒“つかまって”，孩子靠紧，留0.5秒安心反应，再抬眼向GPT。",
+          "new_shot_seconds": [
+            3.5,
+            4
+          ],
+          "why_post_not_enough": "正面原片无法裁切出孩子肩后的空间关系，也不能用裁近同时维持两人的自然视线。",
+          "evidence": [
+            "后期/声画重构-v002/证据16-30/B25-01.jpg"
+          ]
+        }
+      ],
+      "batch_number": 25,
+      "id": "GB018",
+      "film_start": 250.66666666666666,
+      "film_end": 265.125,
+      "dialogue_checks": [
+        {
+          "cue_id": "VO-CY026E-01",
+          "role": "GPT",
+          "film_start": 250.66666666666666,
+          "film_end": 254.04666666666665,
+          "original_speed_duration": 3.3799999999999955,
+          "assessment": "GPT画外召集，五格是被召集同伴；可以成立，43.75%慢放卡片感需重做二维节奏。"
+        },
+        {
+          "cue_id": "VO-CY024A0-01",
+          "role": "千问",
+          "film_start": 254.75,
+          "film_end": 256.06374999999997,
+          "original_speed_duration": 1.3137499999999704,
+          "assessment": "千问与小鱼可辨，但构图违背指定肩后略仰，建议补镜并正确预留说话动作。"
+        },
+        {
+          "cue_id": "VO-CY024A-01",
+          "role": "GPT",
+          "film_start": 261.6666666666667,
+          "film_end": 264.7866666666667,
+          "original_speed_duration": 3.1200000000000045,
+          "assessment": "GPT展翼悬停，远景口型无法在基表判定；声音归属明确。"
+        }
+      ],
+      "planned_shot_ids": [
+        "CY026E",
+        "CY024A0",
+        "CY024A"
+      ],
+      "reviewed_evidence": [
+        "后期/声画重构-v002/证据16-30/B25-01.jpg",
+        "后期/声画重构-v002/证据16-30/B25-02.jpg"
+      ]
+    },
+    {
+      "verdict": "post",
+      "summary": "GPT持续咏唱跨阻击与罩内照护是原意，但近15秒不再看施法者，可能削弱声音归属与魔法进展。",
+      "issues": [
+        {
+          "range": [
+            265.125,
+            280.0
+          ],
+          "shots": [
+            "CY024A9",
+            "CY024A1",
+            "CY024A2"
+          ],
+          "priority": "P2",
+          "problem": "GPT咒语连续铺在教主、扇叶、Kimi和Claude上，画面双方多闭嘴所以不是明确代说；但后7秒只有拭汗与亲近，法术推进脱离视觉主线。",
+          "fix": "保完整两句原声，在第一句中后加入1–1.5秒GPT结印/抬目可识别反打，或用25末现有可用施法视角自然延伸；之后回罩内拭汗。插镜必须是同期新动作而非明显重复起飞。",
+          "new_shot_seconds_if_no_existing_matching_angle": [
+            1.5,
+            2
+          ],
+          "evidence": [
+            "后期/声画重构-v002/证据16-30/B26-01.jpg",
+            "后期/声画重构-v002/证据16-30/B26-02.jpg"
+          ]
+        }
+      ],
+      "batch_number": 26,
+      "id": "GB019",
+      "film_start": 265.125,
+      "film_end": 280.0,
+      "dialogue_checks": [
+        {
+          "cue_id": "VO-CY024A9-01",
+          "role": "GPT",
+          "film_start": 265.125,
+          "film_end": 272.520208,
+          "original_speed_duration": 7.395208000000025,
+          "assessment": "GPT画外连续咏唱，教主/扇叶/罩内照护反打，非敌人代说；需施法者锚点。"
+        },
+        {
+          "cue_id": "VO-CY024A2-01",
+          "role": "GPT",
+          "film_start": 272.6666666666667,
+          "film_end": 279.9066666666667,
+          "original_speed_duration": 7.240000000000009,
+          "assessment": "GPT画外覆盖Kimi拭汗，原设计合法；整段法术视觉进展偏弱。"
+        }
+      ],
+      "planned_shot_ids": [
+        "CY024A9",
+        "CY024A10",
+        "CY024A11",
+        "CY024A12",
+        "CY024A1",
+        "CY024A2"
+      ],
+      "reviewed_evidence": [
+        "后期/声画重构-v002/证据16-30/B26-01.jpg",
+        "后期/声画重构-v002/证据16-30/B26-02.jpg"
+      ]
+    },
+    {
+      "verdict": "regenerate_minimal_shot",
+      "summary": "为避开分裂错误而拼两段慢水滴，微观聚水的“上升、合并”因果被换成两个漂浮球。",
+      "issues": [
+        {
+          "range": [
+            280.0,
+            286.541667
+          ],
+          "shots": [
+            "CY024A3"
+          ],
+          "priority": "P1",
+          "problem": "前2.5秒70%速度水滴晃动，随后跳成另一大近景并以56.7%速度保持；看不到小滴融入与继续上升，后段大滴在画面里反而趋下。剪辑缝并未给出尺度/高度变化原因。",
+          "fix": "单补6.8–7秒微距：同一大滴在镜头前晃动回弹，两个小滴自下方逐一形成液桥并融入，摄影机缓随它升向云腹；远处屋顶作为低位参照，月光逐渐被云遮，末尾可接28云海。配完整6.44秒原声。",
+          "new_shot_seconds": [
+            6.8,
+            7
+          ],
+          "why_post_not_enough": "当前弃掉错误段后缺合并动作和稳定上浮轨迹，继续慢放只增加停留。",
+          "evidence": [
+            "后期/声画重构-v002/证据16-30/B27-01.jpg"
+          ]
+        }
+      ],
+      "batch_number": 27,
+      "id": "GB020-1",
+      "film_start": 280.0,
+      "film_end": 286.5416666666667,
+      "dialogue_checks": [
+        {
+          "cue_id": "VO-CY024A3-01",
+          "role": "GPT",
+          "film_start": 280.0,
+          "film_end": 286.44,
+          "original_speed_duration": 6.439999999999998,
+          "assessment": "GPT画外水滴，角色无错配；聚水画面动作不足。"
+        }
+      ],
+      "planned_shot_ids": [
+        "CY024A3"
+      ],
+      "reviewed_evidence": [
+        "后期/声画重构-v002/证据16-30/B27-01.jpg"
+      ]
+    },
+    {
+      "verdict": "partial_regenerate",
+      "summary": "仰拍旋云空间成立，但10秒主要是同一云洞转动，悬空水海并未清楚建立。",
+      "issues": [
+        {
+          "range": [
+            286.541667,
+            296.541667
+          ],
+          "shots": [
+            "CY024A6"
+          ],
+          "priority": "P1",
+          "problem": "82.5%慢放后的云旋始终像漏斗云洞，缺清楚的连续水面和水滴并入；下镜水龙直接出现，元素从云到水的中间状态不足。",
+          "fix": "保留前2.5–3秒云层旋转建立位置，补4–5秒云褶托住深蓝水平水面、涟漪向中心收拢的镜段，并留1.5–2秒向下蓄势接29；两句咒语9.173541秒总含气口，不能删声填时长。",
+          "new_shot_seconds": [
+            4,
+            5
+          ],
+          "why_post_not_enough": "单纯转动云层无法靠提速/缩短生成原设计的水面，需局部补足视觉状态。",
+          "evidence": [
+            "后期/声画重构-v002/证据16-30/B28-01.jpg"
+          ]
+        }
+      ],
+      "batch_number": 28,
+      "id": "GB020-1R2",
+      "film_start": 286.5416666666667,
+      "film_end": 296.5416666666667,
+      "dialogue_checks": [
+        {
+          "cue_id": "VO-CY024A6-01",
+          "role": "GPT",
+          "film_start": 286.5416666666667,
+          "film_end": 290.4616246666667,
+          "original_speed_duration": 3.9199580000000083,
+          "assessment": "GPT画外云海，无人物代说。"
+        },
+        {
+          "cue_id": "VO-CY024A6-02",
+          "role": "GPT",
+          "film_start": 290.75,
+          "film_end": 296.003583,
+          "original_speed_duration": 5.253582999999992,
+          "assessment": "GPT画外云海，无人物代说；需看见连续水面。"
+        }
+      ],
+      "planned_shot_ids": [
+        "CY024A6"
+      ],
+      "reviewed_evidence": [
+        "后期/声画重构-v002/证据16-30/B28-01.jpg"
+      ]
+    },
+    {
+      "verdict": "keep",
+      "summary": "水龙从高处朝屋顶同一撞点下降，材质以流体为主；与30破顶方向需保持。",
+      "issues": [],
+      "preserve": "296.542–301.892整句GPT画外咏唱覆盖流体下行合理。撞击前后要有风压、石裂、水腹经过层次，不以过量慢放削弱重量。",
+      "batch_number": 29,
+      "id": "GB020-2",
+      "film_start": 296.5416666666667,
+      "film_end": 302.125,
+      "dialogue_checks": [
+        {
+          "cue_id": "VO-CY024A7-01",
+          "role": "GPT",
+          "film_start": 296.5416666666667,
+          "film_end": 301.89166666666665,
+          "original_speed_duration": 5.349999999999966,
+          "assessment": "GPT画外水龙下行，无人物代说。"
+        }
+      ],
+      "planned_shot_ids": [
+        "CY024A7"
+      ],
+      "reviewed_evidence": [
+        "后期/声画重构-v002/证据16-30/B29-01.jpg"
+      ]
+    },
+    {
+      "verdict": "regenerate_minimal_shot",
+      "summary": "为遮腕扣穿帮而长期只看赤足踝链，消除了错误，却也消除了Kimi作为救援者的主体与原定机位。",
+      "issues": [
+        {
+          "range": [
+            303.625,
+            308.5
+          ],
+          "shots": [
+            "CY024A4"
+          ],
+          "priority": "P1",
+          "problem": "4.875秒只有赤足、踝扣和伸入的手，没有Kimi脸或蹲下的身体空间；GPT画外祈愿本身合法，但检查动作像重复摸脚，缺专注观察与确认不能强拆。",
+          "fix": "只补5–5.5秒罩内侧面中近景：Kimi在左侧蹲下，脸、两手、Claude锁踝与脚托同框；一手托扣上方小腿，另一手查看链环接头，轻试后停手抬眼。双腕仍固定且若入框不可下垂，双刃收后腰。完整覆盖4.759979秒GPT原声。",
+          "new_shot_seconds": [
+            5,
+            5.5
+          ],
+          "why_post_not_enough": "现有裁片排除了人物脸，不能从脚特写恢复侧面双人空间；原宽镜有自由双手穿帮，因此应补最小检查镜而非继续紧裁。",
+          "evidence": [
+            "后期/声画重构-v002/证据16-30/B30-01.jpg"
+          ]
+        }
+      ],
+      "secondary_check": "302.125–303.625破顶龙首比29的纯流体外观更具实体眉部/鳞状层级；需原尺寸复核后再决定是否同时补1.5–2秒纯水掠镜，不仅凭缩略图自动下单。",
+      "batch_number": 30,
+      "id": "GB021",
+      "film_start": 302.125,
+      "film_end": 313.7083333333333,
+      "dialogue_checks": [
+        {
+          "cue_id": "VO-CY024A4-01",
+          "role": "GPT",
+          "film_start": 303.625,
+          "film_end": 308.384979,
+          "original_speed_duration": 4.759978999999987,
+          "assessment": "GPT画外罩内检查，不应给Kimi配嘴；补Kimi闭口专注检查的空间镜。"
+        },
+        {
+          "cue_id": "VO-CY024A8-01",
+          "role": "GPT",
+          "film_start": 308.5,
+          "film_end": 313.68,
+          "original_speed_duration": 5.180000000000007,
+          "assessment": "GPT画外教主反应，教主样本闭嘴；合法反打，保念咒空间混响连续。"
+        }
+      ],
+      "planned_shot_ids": [
+        "CY024A5A",
+        "CY024A4",
+        "CY024A8"
+      ],
+      "reviewed_evidence": [
+        "后期/声画重构-v002/证据16-30/B30-01.jpg",
+        "后期/声画重构-v002/证据16-30/B30-02.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "prompt": [
+    96,
+    "24377047-2ec7-4a3c-84ff-350953114b8f",
+    {
+      "1": {
+        "class_type": "LoadImage",
+        "inputs": {
+          "image": "Baimifan_v032_066_source.png"
+        }
+      },
+      "5": {
+        "class_type": "UNETLoader",
+        "inputs": {
+          "unet_name": "qwen_image_2.1_bf16.safetensors",
+          "weight_dtype": "fp8_e4m3fn"
+        }
+      },
+      "6": {
+        "class_type": "CLIPLoader",
+        "inputs": {
+          "clip_name": "qwen3vl_8b_fp8_scaled.safetensors",
+          "type": "qwen_image",
+          "device": "cpu"
+        }
+      },
+      "7": {
+        "class_type": "VAELoader",
+        "inputs": {
+          "vae_name": "qwen_image_2.1_vae_bf16.safetensors"
+        }
+      },
+      "8": {
+        "class_type": "QwenImage21Cache",
+        "inputs": {
+          "model": [
+            "5",
+            0
+          ],
+          "device": "cpu",
+          "dtype": "default"
+        }
+      },
+      "9": {
+        "class_type": "TextEncodeQwenImage21",
+        "inputs": {
+          "clip": [
+            "6",
+            0
+          ],
+          "vae": [
+            "7",
+            0
+          ],
+          "images.image_1": [
+            "1",
+            0
+          ],
+          "prompt": "Redraw the editable source image1 as traditional hand-drawn Japanese gothic fantasy anime, using this exact visual language: confident clean dark ink contours, flat matte skin colors, hard-edged two-tone cel shadows, broad connected anime hair locks with simple highlight bands, graphic fabric folds and hand-drawn embroidery. Painted gouache background, consistent line weight and selective detail. Preserve source character identity, costume and story unless the specific correction says otherwise. No glossy 3D, plastic skin, realistic single hair strands, photorealistic cloth, PBR metal, CGI, excessive bloom, depth-of-field blur, text or captions. Preserve the source location and its time of day; style transfer must not import background objects. Keep GPT kneeling on the left beside seated silver-haired Kimi on the right among moon rocks under stars. This is the same moon recruitment memory. Kimi is already awake, sitting upright with legs naturally supported, looking up at GPT. Preserve exact dark starry outfit and hair accessories, drawn broad hair strands. GPT has only two horns, one tail and two folded wings. ONLY bare moon rocks and black starry outer space. Absolutely no buildings, windows, pillars, candles, flowers or orange-haired woman. Keep the source Kimi headband and silver hair, never orange flower accessories.",
+          "negative_prompt": "3d, cgi, photorealism, glossy plastic skin, realistic hair strands, volumetric rendering, text, watermark",
+          "resolution": 992
+        }
+      },
+      "10": {
+        "class_type": "KSampler",
+        "inputs": {
+          "model": [
+            "8",
+            0
+          ],
+          "positive": [
+            "9",
+            0
+          ],
+          "negative": [
+            "9",
+            1
+          ],
+          "latent_image": [
+            "9",
+            2
+          ],
+          "seed": 202610304221,
+          "steps": 40,
+          "cfg": 1.0,
+          "sampler_name": "euler",
+          "scheduler": "simple",
+          "denoise": 1.0
+        }
+      },
+      "11": {
+        "class_type": "VAEDecodeTiled",
+        "inputs": {
+          "samples": [
+            "10",
+            0
+          ],
+          "vae": [
+            "7",
+            0
+          ],
+          "tile_size": 512,
+          "overlap": 64,
+          "temporal_size": 64,
+          "temporal_overlap": 8
+        }
+      },
+      "18": {
+        "class_type": "SaveImage",
+        "inputs": {
+          "images": [
+            "11",
+            0
+          ],
+          "filename_prefix": "Baimifan/v032/066-key-r2"
+        }
+      }
+    },
+    {
+      "comfy_usage_source": "comfy-cli/pipe",
+      "client_id": "c709fa7a-4d5c-4a76-88e8-3f6d40e25575",
+      "create_time": 1793346865735
+    },
+    [
+      "18"
+    ]
+  ],
+  "outputs": {
+    "18": {
+      "images": [
+        {
+          "filename": "066-key-r2_00001_.png",
+          "subfolder": "Baimifan\\v032",
+          "type": "output"
+        }
+      ]
+    }
+  },
+  "status": {
+    "status_str": "success",
+    "completed": true,
+    "messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "24377047-2ec7-4a3c-84ff-350953114b8f",
+          "timestamp": 1793348019193
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "prompt_id": "24377047-2ec7-4a3c-84ff-350953114b8f",
+          "timestamp": 1793348019203
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "24377047-2ec7-4a3c-84ff-350953114b8f",
+          "timestamp": 1793348096324
+        }
+      ]
+    ]
+  },
+  "meta": {
+    "18": {
+      "node_id": "18",
+      "display_node": "18",
+      "parent_node": null,
+      "real_node_id": "18"
+    }
+  }
+}

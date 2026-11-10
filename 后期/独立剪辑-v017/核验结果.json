@@ -1,0 +1,103 @@
+{
+  "files": {
+    "01_登阶与守卫放行.mp4": {
+      "sha256": "4857aef37fe3806b7641a41fdde32aed2a1e4dc8e90e2741a7371e06fe65f512",
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1344,
+          "height": 768,
+          "r_frame_rate": "24/1",
+          "duration": "9.750000",
+          "nb_frames": "234"
+        },
+        {
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "duration": "9.750000",
+          "nb_frames": "459"
+        }
+      ]
+    },
+    "02_俯拍行进与亮灯.mp4": {
+      "sha256": "d28a88ffc50fd2390ce6ad9dcb699797716ecd034505b56dc84737e3d12bbf90",
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1344,
+          "height": 768,
+          "r_frame_rate": "24/1",
+          "duration": "4.000000",
+          "nb_frames": "96"
+        },
+        {
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "duration": "4.000000",
+          "nb_frames": "189"
+        }
+      ]
+    },
+    "03_接小鱼与GPT对话.mp4": {
+      "sha256": "d3ee9e898b156cc940018237a7fba536bfb445128e60ad678a5ff386f16bdc03",
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1344,
+          "height": 768,
+          "r_frame_rate": "24/1",
+          "duration": "14.000000",
+          "nb_frames": "336"
+        },
+        {
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "duration": "14.000000",
+          "nb_frames": "658"
+        }
+      ]
+    },
+    "宫殿亮灯-OpenCut导出-v017.mp4": {
+      "sha256": "9d9d814b8150f5a599b64ab04d73ae9201825a67c30e463ae4f8d29ec4bb53d1",
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1344,
+          "height": 768,
+          "r_frame_rate": "24/1",
+          "duration": "27.750000",
+          "nb_frames": "666"
+        },
+        {
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "duration": "27.771066",
+          "nb_frames": "1196"
+        }
+      ]
+    },
+    "宫殿亮灯-独立粗剪-v017.mp4": {
+      "sha256": "4791ff653524356da7996a7ce92692a593a7b18b9bbfab0a39fe032997a66002",
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1344,
+          "height": 768,
+          "r_frame_rate": "24/1",
+          "duration": "27.750000",
+          "nb_frames": "666"
+        },
+        {
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "duration": "27.771333",
+          "nb_frames": "1306"
+        }
+      ]
+    }
+  },
+  "editor_reload_verified": true,
+  "server_stop_start_verified": true,
+  "resolve_accessed": false,
+  "author_final_acceptance": false
+}

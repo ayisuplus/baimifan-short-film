@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115144369558183936",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "水龙破顶入殿，教主反应",
+    "status": "succeeded",
+    "created_at": 1793124690,
+    "updated_at": 1793124741,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115144369558183936/content?expires=1793729648&signature=039643b51161e520d7a72e45f5316e7b55ab62edf245da5ecee1ed1abd9dd539"
+    },
+    "resolution": "768P",
+    "duration": 12,
+    "usage": {
+      "total_seconds": 12,
+      "input_seconds": 0,
+      "output_seconds": 12,
+      "input_image_count": 6
+    },
+    "ratio": "16:9",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

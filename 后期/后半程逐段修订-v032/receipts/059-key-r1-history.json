@@ -1,0 +1,191 @@
+{
+  "prompt": [
+    50,
+    "fc837666-28ef-42a2-8fa2-2eaacf7b4a13",
+    {
+      "1": {
+        "class_type": "LoadImage",
+        "inputs": {
+          "image": "Baimifan_v032_059_source.png"
+        }
+      },
+      "5": {
+        "class_type": "UNETLoader",
+        "inputs": {
+          "unet_name": "qwen_image_2.1_bf16.safetensors",
+          "weight_dtype": "fp8_e4m3fn"
+        }
+      },
+      "6": {
+        "class_type": "CLIPLoader",
+        "inputs": {
+          "clip_name": "qwen3vl_8b_fp8_scaled.safetensors",
+          "type": "qwen_image",
+          "device": "cpu"
+        }
+      },
+      "7": {
+        "class_type": "VAELoader",
+        "inputs": {
+          "vae_name": "qwen_image_2.1_vae_bf16.safetensors"
+        }
+      },
+      "8": {
+        "class_type": "QwenImage21Cache",
+        "inputs": {
+          "model": [
+            "5",
+            0
+          ],
+          "device": "cpu",
+          "dtype": "default"
+        }
+      },
+      "9": {
+        "class_type": "TextEncodeQwenImage21",
+        "inputs": {
+          "clip": [
+            "6",
+            0
+          ],
+          "vae": [
+            "7",
+            0
+          ],
+          "images.image_1": [
+            "1",
+            0
+          ],
+          "prompt": "Redraw the editable source image1 as traditional hand-drawn Japanese gothic fantasy anime, matching ONLY the drawing style of image2: confident clean dark ink contours, flat matte skin colors, hard-edged two-tone cel shadows, broad connected anime hair locks with simple highlight bands, graphic fabric folds and hand-drawn embroidery. Painted gouache background, consistent line weight and selective detail. Preserve source character identity, costume and story unless the specific correction says otherwise. No glossy 3D, plastic skin, realistic single hair strands, photorealistic cloth, PBR metal, CGI, excessive bloom, depth-of-field blur, text or captions. Blue moonlit cathedral, restrained amber candles. Preserve Kimi crouched in front of Claude's high altar cross and the black-violet wood flames on both sides. Keep her facing the approaching acolytes/camera, with clear open stone behind her leading toward Claude. Her crescent blades remain solid and distinct. Draw flat anime hair, costume and matte floor reflections. Do not move the cross or heal Claude's damaged dress.",
+          "negative_prompt": "3d, cgi, photorealism, glossy plastic skin, realistic hair strands, volumetric rendering, text, watermark",
+          "resolution": 992,
+          "images.image_2": [
+            "2",
+            0
+          ]
+        }
+      },
+      "10": {
+        "class_type": "KSampler",
+        "inputs": {
+          "model": [
+            "8",
+            0
+          ],
+          "positive": [
+            "9",
+            0
+          ],
+          "negative": [
+            "9",
+            1
+          ],
+          "latent_image": [
+            "9",
+            2
+          ],
+          "seed": 202610303213,
+          "steps": 40,
+          "cfg": 1.0,
+          "sampler_name": "euler",
+          "scheduler": "simple",
+          "denoise": 1.0
+        }
+      },
+      "11": {
+        "class_type": "VAEDecodeTiled",
+        "inputs": {
+          "samples": [
+            "10",
+            0
+          ],
+          "vae": [
+            "7",
+            0
+          ],
+          "tile_size": 512,
+          "overlap": 64,
+          "temporal_size": 64,
+          "temporal_overlap": 8
+        }
+      },
+      "18": {
+        "class_type": "SaveImage",
+        "inputs": {
+          "images": [
+            "11",
+            0
+          ],
+          "filename_prefix": "Baimifan/v032/059-key-r1"
+        }
+      },
+      "2": {
+        "class_type": "LoadImage",
+        "inputs": {
+          "image": "Baimifan_v032_style.png"
+        }
+      }
+    },
+    {
+      "comfy_usage_source": "comfy-cli/pipe",
+      "client_id": "d65b73b5-41b5-4a5f-8742-bdc6dab78320",
+      "create_time": 1793342800753
+    },
+    [
+      "18"
+    ]
+  ],
+  "outputs": {
+    "18": {
+      "images": [
+        {
+          "filename": "059-key-r1_00001_.png",
+          "subfolder": "Baimifan\\v032",
+          "type": "output"
+        }
+      ]
+    }
+  },
+  "status": {
+    "status_str": "success",
+    "completed": true,
+    "messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "fc837666-28ef-42a2-8fa2-2eaacf7b4a13",
+          "timestamp": 1793343729180
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "2"
+          ],
+          "prompt_id": "fc837666-28ef-42a2-8fa2-2eaacf7b4a13",
+          "timestamp": 1793343729203
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "fc837666-28ef-42a2-8fa2-2eaacf7b4a13",
+          "timestamp": 1793343850752
+        }
+      ]
+    ]
+  },
+  "meta": {
+    "18": {
+      "node_id": "18",
+      "display_node": "18",
+      "parent_node": null,
+      "real_node_id": "18"
+    }
+  }
+}

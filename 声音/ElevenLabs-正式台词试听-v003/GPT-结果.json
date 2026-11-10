@@ -1,0 +1,80 @@
+{
+  "role": "GPT",
+  "status": "saved_pending_author_selection",
+  "input": "GPT-输入.json",
+  "generation_route": "web_voice_design",
+  "download_route": "official_existing_preview_GET",
+  "registered": false,
+  "listening_approved": false,
+  "previews": [
+    {
+      "candidate": 1,
+      "generated_voice_id": "E6JWqjxiz5X1ArGTjcm8",
+      "file": "GPT-1.mp3",
+      "sha256": "63300b8c298afcdab8f88a01333f10bf91c2e9a07499de2491699faacfa39640",
+      "bytes": 1181823,
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "49.240792"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    },
+    {
+      "candidate": 2,
+      "generated_voice_id": "d40rfr0pFw2vXrrvTv5l",
+      "file": "GPT-2.mp3",
+      "sha256": "860290dd29e20615edb05ec35c6bf46995eb06fb4a1d08ed004dcde2bc51167c",
+      "bytes": 1233859,
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "51.408958"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    },
+    {
+      "candidate": 3,
+      "generated_voice_id": "IxCeViBOSxmeFk8UTzWz",
+      "file": "GPT-3.mp3",
+      "sha256": "7b19384698b138bbbbf492bbf8a5d20f1ab4a334693cd439b6d10ef445fca527",
+      "bytes": 1231978,
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "51.330583"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "line_id": "VO-CY007-01",
+  "role": "GPT",
+  "line": {
+    "id": "VO-CY007-01",
+    "role": "GPT",
+    "previous_batch": 4,
+    "previous_record_frame": 1097,
+    "previous_ja": "教会のことに、関わるべきじゃない。",
+    "previous_zh": "教会的事，我不该插手。",
+    "previous_audio_duration_seconds": 3.4299999999999975,
+    "status": "revised_draft",
+    "ja": "教会には手を出さない。……そう約束したの。",
+    "zh_back_translation": "我答应过，不干涉教会。",
+    "direction": "听见Claude会被烧死后已停止托腮、撑起身体，看着孩子再说。主动选择守约，而非救不了人；停顿短，不演成漫不经心的推辞。",
+    "reading_hints": {},
+    "revision_history": [
+      {
+        "version": "v0.66",
+        "ja": "教会には……手を出せない。",
+        "zh_back_translation": "教会的事……我不能插手。",
+        "direction": "迟疑后压住情绪。不是冷漠宣读原则。"
+      }
+    ],
+    "voice_role": "GPT",
+    "performance_direction_v004": "听见Claude会被烧死后已停止托腮、撑起身体，看着孩子再说。主动选择守约，而非救不了人；停顿短，不演成漫不经心的推辞。",
+    "tts_reading_text": "教会には手を出さない。……そう約束したの。",
+    "voice_asset": "GPT",
+    "timeline_adopted": false,
+    "performance_acceptance": "逐句表演与准确性待验收；作者已确认声线",
+    "audio_state": "needs_recording"
+  },
+  "voice_id": "tsunTpzA4d2kBihHrZ2R",
+  "voice_source": "selected v004 candidate 1",
+  "body": {
+    "text": "教会には手を出さない。……そう約束したの。",
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "ja"
+  },
+  "status": "saved_pending_review",
+  "author_performance_accepted": false,
+  "request_id": "BgWMSgyw7RnQVS5YlFJI",
+  "character_cost_header": "21",
+  "file": "声音/缺口补齐-v008/VO-CY007-01__GPT.mp3",
+  "bytes": 53959,
+  "sha256": "727f9f502f7942adaebfa6fbcda8760de8c00a040b92254d6aab465cf8818fd2",
+  "media": {
+    "format": {
+      "duration": "3.297234"
+    }
+  },
+  "decode_ok": true
+}

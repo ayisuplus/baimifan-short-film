@@ -1,0 +1,40 @@
+{
+  "id": "BGM-CY-AU-01",
+  "bvid": "BV1ytcpzxEDe",
+  "part": 1,
+  "title": "Breath and Life",
+  "display_title": "呼吸与生命",
+  "work": "Audiomachine",
+  "composer": "Audiomachine",
+  "source_page_title": "纯音乐【Breath and Life 】“一首听见生命脉动的史诗旋律”",
+  "navigation_translation": "中文名为导航释义，原名保留。",
+  "cid": 36052009055,
+  "source": "https://www.bilibili.com/video/BV1ytcpzxEDe/?p=1",
+  "uploader": "吾问落月",
+  "video_title": "纯音乐【Breath and Life 】“一首听见生命脉动的史诗旋律”",
+  "path": "资产/声音/BGM/重选-v004/BGM-CY-AU-01.m4a",
+  "bytes": 1856455,
+  "sha256": "f91957c1e20c61b09c3a17e9e5a164a4ca46d088eb3eccd1be11f61556036d80",
+  "duration": 108.202333,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "bit_rate": "145970"
+      }
+    ],
+    "format": {
+      "duration": "108.202333"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

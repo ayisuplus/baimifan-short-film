@@ -1,0 +1,114 @@
+{
+  "1": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "Baimifan_v032_086a_source.png"
+    }
+  },
+  "5": {
+    "class_type": "UNETLoader",
+    "inputs": {
+      "unet_name": "qwen_image_2.1_bf16.safetensors",
+      "weight_dtype": "fp8_e4m3fn"
+    }
+  },
+  "6": {
+    "class_type": "CLIPLoader",
+    "inputs": {
+      "clip_name": "qwen3vl_8b_fp8_scaled.safetensors",
+      "type": "qwen_image",
+      "device": "cpu"
+    }
+  },
+  "7": {
+    "class_type": "VAELoader",
+    "inputs": {
+      "vae_name": "qwen_image_2.1_vae_bf16.safetensors"
+    }
+  },
+  "8": {
+    "class_type": "QwenImage21Cache",
+    "inputs": {
+      "model": [
+        "5",
+        0
+      ],
+      "device": "cpu",
+      "dtype": "default"
+    }
+  },
+  "9": {
+    "class_type": "TextEncodeQwenImage21",
+    "inputs": {
+      "clip": [
+        "6",
+        0
+      ],
+      "vae": [
+        "7",
+        0
+      ],
+      "images.image_1": [
+        "1",
+        0
+      ],
+      "prompt": "Redraw the editable source image1 as traditional hand-drawn Japanese gothic fantasy anime, using this exact visual language: confident clean dark ink contours, flat matte skin colors, hard-edged two-tone cel shadows, broad connected anime hair locks with simple highlight bands, graphic fabric folds and hand-drawn embroidery. Painted gouache background, consistent line weight and selective detail. Preserve source character identity, costume and story unless the specific correction says otherwise. No glossy 3D, plastic skin, realistic single hair strands, photorealistic cloth, PBR metal, CGI, excessive bloom, depth-of-field blur, text or captions. Preserve the source location and its time of day; style transfer must not import background objects. The cathedral has ONLY one jagged opening in the central nave roof. Rear altar vault, side walls and blue windows remain intact; only the rear central pane was broken earlier. The high altar dome remains opaque indigo. Wet floor is painted with simple blue strokes, no mirror CGI. Preserve white-haired horned GPT back/shoulder at left foreground and red-haired black-gold priest farther ahead. Maintain wet night clothes and spatial distance. Restore the side walls instead of making the whole church open ruins. Matte faces and solid inked embroidery. After the flood all candles and braziers are extinguished; only cool blue moonlight illuminates the interior, no warm flame reflections.",
+      "negative_prompt": "3d, cgi, photorealism, glossy plastic skin, realistic hair strands, volumetric rendering, text, watermark",
+      "resolution": 992
+    }
+  },
+  "10": {
+    "class_type": "KSampler",
+    "inputs": {
+      "model": [
+        "8",
+        0
+      ],
+      "positive": [
+        "9",
+        0
+      ],
+      "negative": [
+        "9",
+        1
+      ],
+      "latent_image": [
+        "9",
+        2
+      ],
+      "seed": 202610303239,
+      "steps": 40,
+      "cfg": 1.0,
+      "sampler_name": "euler",
+      "scheduler": "simple",
+      "denoise": 1.0
+    }
+  },
+  "11": {
+    "class_type": "VAEDecodeTiled",
+    "inputs": {
+      "samples": [
+        "10",
+        0
+      ],
+      "vae": [
+        "7",
+        0
+      ],
+      "tile_size": 512,
+      "overlap": 64,
+      "temporal_size": 64,
+      "temporal_overlap": 8
+    }
+  },
+  "18": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "11",
+        0
+      ],
+      "filename_prefix": "Baimifan/v032/086a-key-r1"
+    }
+  }
+}

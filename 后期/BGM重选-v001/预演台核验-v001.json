@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-23",
+  "shots": 115,
+  "seconds": 381,
+  "music_count": 6,
+  "native_audio_controls": 159,
+  "original_fields_preserved": [
+    "id",
+    "action",
+    "dialogue",
+    "sound",
+    "presentation",
+    "start_second",
+    "end_second",
+    "seconds",
+    "subtitle_cues"
+  ],
+  "dialogue_cues": "all original fields unchanged; duration/sample_rate derived from existing WAVs verified",
+  "source_plan_and_script_unchanged": true,
+  "prior_page_preserved": true,
+  "audio_hashes_verified": true,
+  "full_decode_all_six": true,
+  "browser": {
+    "surface": "Codex in-app browser",
+    "url": "http://127.0.0.1:8965/镜头设计/带图分镜.html#previs",
+    "all_six_picture_auditions_started": true,
+    "solo_audio_advanced_seconds": 11.583788,
+    "pause_status_verified": true,
+    "source_in_changed_to_20_verified": true,
+    "midsection_Ancient_Magic_at_CY024B_source_seconds": 73.1,
+    "candidate_switch_verified": true,
+    "end_stops_music_and_previs": true,
+    "solo_players_exclusive": true,
+    "seek_pauses_solo_audio": true,
+    "four_panels_present": true,
+    "narrow_viewport_width": 390,
+    "narrow_document_width": 375,
+    "console_errors_at_final_check": [],
+    "file_protocol": "not tested: in-app browser URL policy rejects file protocol; no alternate browser or bypass used"
+  },
+  "independent_review": {
+    "agent": "review_previs_audio",
+    "coverage_and_preservation": "passed",
+    "findings_fixed": [
+      "stale source offset cache",
+      "paused playhead label"
+    ],
+    "root_browser_additional_fix": "seeking pauses standalone audio and updates status"
+  },
+  "actual_listening": "not completed; no aesthetic adoption",
+  "mixing": "no final cue edits, fades, ducking or SFX generation",
+  "screenshot": "后期/BGM重选-v001/预演台-声音区.png"
+}

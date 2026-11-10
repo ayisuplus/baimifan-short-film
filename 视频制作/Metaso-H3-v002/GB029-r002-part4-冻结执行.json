@@ -1,0 +1,138 @@
+{
+  "batch": {
+    "batch_number": 39,
+    "batch_id": "GB029",
+    "attempt_id": "GB029-r002-part4",
+    "repair_source_attempt": "GB029-r001",
+    "film_start": 435.722729,
+    "part_offset": 8.44,
+    "used_seconds": 4.94,
+    "duration": 5,
+    "shot_ids": [
+      "CY029E4"
+    ],
+    "prompt": "subject_definitions:\nImage 1=Qwen身份；仅服装、面貌，四视图是同一人\nImage 2=DeepSeek身份；仅服装、面貌，四视图是同一人\nImage 3=CY029E4构图与空间依据，不把终态当第一帧\nsummary:\n哥特异世界动画，16:9，5 秒。只拍以下单场景的连续动作；按对应参考保持角色服装发色，不新增人物，不用角色四视图产生分身。无字幕、水印、BGM和可辨台词；最终对白将后期独立铺入。\ndetailed_description:\n[Shot 1] 0–4.94s。固定冷月光下的孩子反应近景，构图按Image 3：蓝发千问在右上，蓝鲸帽小鱼在左下，孩子被千问稳稳抱在怀里。千问蓝紫色长辫保持本色，一臂承托孩子背部、另一支撑身体，扇子不入画。0—1秒小鱼已经抬眼望着画外高处的Claude，安静听她继续咏唱；1—2.5秒小手把千问衣襟攥得更紧，眼神从疲惫转为专注；2.5—4.94秒保持向上凝视，双唇闭合，千问稳稳抱住她；4.94—5秒只延续末态供剪辑。孩子和千问全程闭唇无声，不替画外人物说话。背景是水灾后的冷蓝教堂柱廊与湿石地，只有冷月光，所有灯具及木柴均已熄灭；空刑架未重新点燃。画内任何位置都没有火焰、火种、火花、橙色发光物或他人伸入的手。Claude始终在画外高处，初蓄或成熟火种只属于她，不出现在小鱼或千问附近。镜头不切入Claude，不切手部魔法，不改变孩子抱持状态。\noverall_soundscape:\n仅自然环境、衣料与动作拟音，无咏唱、呼唤、口头反应和新增旁白。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+        "kind": "identity",
+        "person": "Qwen",
+        "name_en": "Qwen",
+        "asset_id": "MULKZI2W5366M",
+        "status": "作者指定复用",
+        "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+        "purpose": "Qwen四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+        "original_slot": 4
+      },
+      {
+        "slot": 2,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+        "kind": "identity",
+        "person": "DeepSeek",
+        "name_en": "DeepSeek",
+        "asset_id": "CHAR-DEEPSEEK",
+        "status": "候选待作者审阅",
+        "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+        "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+        "original_slot": 3
+      },
+      {
+        "slot": 3,
+        "path": "镜头设计/图像/目光与入场-v048/CY029E4-v048-r1.png",
+        "kind": "composition",
+        "shot_id": "CY029E4",
+        "purpose": "构图、空间与代表状态：小鱼攥紧衣襟；不是默认首帧",
+        "status": "v0.48朝向、反应、咏唱及局部色偏修订候选，待作者画面审阅",
+        "limits": "",
+        "sha256": "8a4e846a6193fe0734c79dfc3c24edb75fa36f899f9e3893cc60b9515559a24b",
+        "original_slot": 8
+      }
+    ],
+    "estimated_credits": 51.0,
+    "status": "prepared",
+    "accepted": false,
+    "repair_of": {
+      "attempt_id": "GB029-r001",
+      "task_id": "2115145249110417408",
+      "local_path": "视频制作/Metaso-H3-v002/产物/GB029-r001.mp4"
+    },
+    "source_reuse": [
+      {
+        "in_out": [
+          0,
+          2.7
+        ],
+        "source": "GB029-r001.mp4",
+        "target": [
+          0,
+          2.7
+        ]
+      },
+      {
+        "in_out": [
+          2.75,
+          5.49
+        ],
+        "source": "GB029-r001.mp4",
+        "target": [
+          2.7,
+          5.44
+        ]
+      },
+      {
+        "in_out": [
+          6.208333,
+          8.416667
+        ],
+        "source": "GB029-r001.mp4",
+        "target": [
+          5.44,
+          8.44
+        ]
+      }
+    ],
+    "additional_use": null,
+    "audio_policy": "仅替换画面；最终干声与BGM沿用冻结绝对时窗，不采用变速原生人声",
+    "title": "选择继续与凝种",
+    "change_reason": "独立复核：局部角色、道具或空间连续性纠正，详见次七批审查报告。"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "subject_definitions:\nImage 1=Qwen身份；仅服装、面貌，四视图是同一人\nImage 2=DeepSeek身份；仅服装、面貌，四视图是同一人\nImage 3=CY029E4构图与空间依据，不把终态当第一帧\nsummary:\n哥特异世界动画，16:9，5 秒。只拍以下单场景的连续动作；按对应参考保持角色服装发色，不新增人物，不用角色四视图产生分身。无字幕、水印、BGM和可辨台词；最终对白将后期独立铺入。\ndetailed_description:\n[Shot 1] 0–4.94s。固定冷月光下的孩子反应近景，构图按Image 3：蓝发千问在右上，蓝鲸帽小鱼在左下，孩子被千问稳稳抱在怀里。千问蓝紫色长辫保持本色，一臂承托孩子背部、另一支撑身体，扇子不入画。0—1秒小鱼已经抬眼望着画外高处的Claude，安静听她继续咏唱；1—2.5秒小手把千问衣襟攥得更紧，眼神从疲惫转为专注；2.5—4.94秒保持向上凝视，双唇闭合，千问稳稳抱住她；4.94—5秒只延续末态供剪辑。孩子和千问全程闭唇无声，不替画外人物说话。背景是水灾后的冷蓝教堂柱廊与湿石地，只有冷月光，所有灯具及木柴均已熄灭；空刑架未重新点燃。画内任何位置都没有火焰、火种、火花、橙色发光物或他人伸入的手。Claude始终在画外高处，初蓄或成熟火种只属于她，不出现在小鱼或千问附近。镜头不切入Claude，不切手部魔法，不改变孩子抱持状态。\noverall_soundscape:\n仅自然环境、衣料与动作拟音，无咏唱、呼唤、口头反应和新增旁白。\nnon_diegetic_music:\nN/A"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115144282224386048"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141523506393088"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115145239405060096"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 5,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "2026-10-28作者授权：参考图超限想办法砍不重要参考，该返修的都返修；沿用Metaso H3"
+}

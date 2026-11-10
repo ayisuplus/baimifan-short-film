@@ -1,0 +1,44 @@
+{
+  "shots": 109,
+  "total_seconds": 359,
+  "current_images": 18,
+  "attempts_preserved": 25,
+  "picture_lock_files_verified": 98,
+  "local_links_verified": 293,
+  "source_passages_verified": 109,
+  "existing_audio_files_readable": 19,
+  "existing_audio_unchanged": true,
+  "approved_spell_unchanged": true,
+  "old_shot_order_preserved": true,
+  "changed_existing_seconds": {
+    "CY024A": [
+      4,
+      7
+    ],
+    "CY024A1": [
+      4,
+      3
+    ],
+    "CY024B": [
+      4,
+      5
+    ],
+    "CY027": [
+      3,
+      4
+    ]
+  },
+  "added_ids": [
+    "CY024A9",
+    "CY024A10",
+    "CY024A11",
+    "CY024A12"
+  ],
+  "flight_isolated": true,
+  "opening_macro": true,
+  "spell_sequence_seconds": 51,
+  "video_produced": false,
+  "audio_produced": false,
+  "browser_playback": "not_verified",
+  "script_sha256": "93fce87e877ca74860f93c3c588ece59a3192ae8fb4654a4b9e1cf8891f941e4"
+}

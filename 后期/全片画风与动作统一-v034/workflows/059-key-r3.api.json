@@ -1,0 +1,114 @@
+{
+  "1": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "Baimifan_v034_059-key-r3.png"
+    }
+  },
+  "5": {
+    "class_type": "UNETLoader",
+    "inputs": {
+      "unet_name": "qwen_image_2.1_bf16.safetensors",
+      "weight_dtype": "fp8_e4m3fn"
+    }
+  },
+  "6": {
+    "class_type": "CLIPLoader",
+    "inputs": {
+      "clip_name": "qwen3vl_8b_fp8_scaled.safetensors",
+      "type": "qwen_image",
+      "device": "cpu"
+    }
+  },
+  "7": {
+    "class_type": "VAELoader",
+    "inputs": {
+      "vae_name": "qwen_image_2.1_vae_bf16.safetensors"
+    }
+  },
+  "8": {
+    "class_type": "QwenImage21Cache",
+    "inputs": {
+      "model": [
+        "5",
+        0
+      ],
+      "device": "cpu",
+      "dtype": "default"
+    }
+  },
+  "9": {
+    "class_type": "TextEncodeQwenImage21",
+    "inputs": {
+      "clip": [
+        "6",
+        0
+      ],
+      "vae": [
+        "7",
+        0
+      ],
+      "images.image_1": [
+        "1",
+        0
+      ],
+      "prompt": "Traditional hand-drawn 2D Japanese gothic anime. Confident dark ink outlines, broad hair locks, flat matte skin, hard-edged two-tone cel shadows, painted backgrounds. No CGI, plastic skin, glossy reflections, photorealistic hair or 3D lighting. Preserve the exact identities and costumes. Reframe as a wide FULL BODY shot from a slightly higher eye-level camera, not a low angle. Move the camera back 35 percent: Kimi in front and Claude restrained to the cross behind must be much smaller in frame. Leave a full standing persons height of EMPTY SPACE above Kimi so she can stand without leaving the frame. Keep Kimi in the same low crouch at the beginning with boots on stone, dark C blade in her RIGHT hand at image left and pale C blade in LEFT at image right. The cross stays on highest platform. The burning wood is entirely black with SMALL dark-violet flames, no orange or cyan fire. Only central window broken, intact side walls. Keep only sparse existing amber candles on far walls; no new lights. Simpler cloth and matte stone, no water on floor yet.",
+      "negative_prompt": "3d, cgi, photorealism, glossy plastic skin, realistic hair strands, volumetric rendering, text, watermark",
+      "resolution": 992
+    }
+  },
+  "10": {
+    "class_type": "KSampler",
+    "inputs": {
+      "model": [
+        "8",
+        0
+      ],
+      "positive": [
+        "9",
+        0
+      ],
+      "negative": [
+        "9",
+        1
+      ],
+      "latent_image": [
+        "9",
+        2
+      ],
+      "seed": 202610303401,
+      "steps": 40,
+      "cfg": 1.0,
+      "sampler_name": "euler",
+      "scheduler": "simple",
+      "denoise": 1.0
+    }
+  },
+  "11": {
+    "class_type": "VAEDecodeTiled",
+    "inputs": {
+      "samples": [
+        "10",
+        0
+      ],
+      "vae": [
+        "7",
+        0
+      ],
+      "tile_size": 512,
+      "overlap": 64,
+      "temporal_size": 64,
+      "temporal_overlap": 8
+    }
+  },
+  "18": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "11",
+        0
+      ],
+      "filename_prefix": "Baimifan/v034/059-key-r3"
+    }
+  }
+}

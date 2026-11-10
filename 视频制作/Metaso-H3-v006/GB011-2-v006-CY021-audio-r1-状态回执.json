@@ -1,0 +1,27 @@
+{
+  "task": {
+    "id": "2115320487297617920",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "受缚少女向父亲恳求放走孩子",
+    "status": "succeeded",
+    "created_at": 1793166680,
+    "updated_at": 1793166717,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115320487297617920/content?expires=1793771618&signature=a17b0f3625be82a5d2a7f5085aa1cfe8b3021b71db4121bef41534dfdf12bf95"
+    },
+    "resolution": "768P",
+    "duration": 6,
+    "usage": {
+      "total_seconds": 6,
+      "input_seconds": 0,
+      "output_seconds": 6,
+      "input_image_count": 2,
+      "input_audio_seconds": 6
+    },
+    "ratio": "16:9",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

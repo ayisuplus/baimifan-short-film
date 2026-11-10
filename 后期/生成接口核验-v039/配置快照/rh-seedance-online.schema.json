@@ -1,0 +1,171 @@
+{
+  "endpoint": "bytedance/seedance-2.5-token/image-to-video",
+  "name_cn": "seedance2.5/图生视频 Token",
+  "name_en": "seedance-2.5/image-to-video Token",
+  "task": "image-to-video",
+  "output_type": "video",
+  "category": "RunningHub/Seedance",
+  "popularity": 99,
+  "tags": [],
+  "params": [
+    {
+      "key": "prompt",
+      "type": "STRING",
+      "required": false,
+      "maxLength": 20480
+    },
+    {
+      "key": "resolution",
+      "type": "LIST",
+      "required": true,
+      "options": [
+        "480p",
+        "720p",
+        "native1080p",
+        "1080p",
+        "2k",
+        "4k"
+      ],
+      "default": "720p"
+    },
+    {
+      "key": "duration",
+      "type": "LIST",
+      "required": true,
+      "options": [
+        "-1",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "default": "5"
+    },
+    {
+      "key": "firstFrameUrl",
+      "type": "IMAGE",
+      "required": true,
+      "maxSizeMB": 30
+    },
+    {
+      "key": "lastFrameUrl",
+      "type": "IMAGE",
+      "required": false,
+      "maxSizeMB": 30
+    },
+    {
+      "key": "generateAudio",
+      "type": "BOOLEAN",
+      "required": false,
+      "default": true
+    },
+    {
+      "key": "ratio",
+      "type": "LIST",
+      "required": false,
+      "options": [
+        "adaptive"
+      ],
+      "default": "adaptive"
+    },
+    {
+      "key": "realPersonMode",
+      "type": "BOOLEAN",
+      "required": false,
+      "default": true
+    },
+    {
+      "key": "conversionSlots",
+      "type": "LIST",
+      "required": false,
+      "options": [
+        "all",
+        "firstFrameUrl",
+        "lastFrameUrl"
+      ],
+      "default": "all"
+    },
+    {
+      "key": "returnLastFrame",
+      "type": "BOOLEAN",
+      "required": false,
+      "default": false
+    },
+    {
+      "key": "bitrateMode",
+      "type": "LIST",
+      "required": false,
+      "options": [
+        "standard",
+        "high"
+      ],
+      "default": "standard"
+    },
+    {
+      "key": "seed",
+      "type": "INT",
+      "required": false,
+      "default": -1,
+      "min": -1,
+      "max": 2147483647
+    },
+    {
+      "key": "outputFormat",
+      "type": "LIST",
+      "required": false,
+      "options": [
+        "mp4",
+        "mov"
+      ],
+      "default": "mp4"
+    },
+    {
+      "key": "watermark",
+      "type": "BOOLEAN",
+      "required": false
+    },
+    {
+      "key": "draft",
+      "type": "BOOLEAN",
+      "required": false,
+      "description": "When true resolution must be 480p"
+    },
+    {
+      "key": "webhookUrl",
+      "type": "STRING",
+      "required": false
+    }
+  ],
+  "source_url": "https://www.runninghub.cn/call-api/api-detail/2133100000000700021",
+  "verified_at": "2026-11-02",
+  "verification": "Official API documentation read in browser; no submission",
+  "account_check": {
+    "status": "ready",
+    "api_type": "SHARED",
+    "check": "account_status_only",
+    "model_execution_verified": false
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "batch_id": "GB015-2",
+  "node_id": "v-kBx2J5SWAU",
+  "quoted_credits": 70,
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-kBx2J5SWAU",
+    "node": {
+      "id": "v-kBx2J5SWAU",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第20批 · 暗月闭合，截住教徒法术 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Mixed 1}} =Kimi四视图：同一人四角度，身份服饰保持\n{{Mixed 2}} =Claude四视图：同一人四角度，身份服饰保持\n{{Mixed 3}} =构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，5秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–4s {{Mixed 3}} ；画内:教徒、Kimi、Claude。聚能动作接同一轮光束发出，Kimi划右暗刃在命中前闭罩；冲击声由清晰转闷留给下一批。罩外低位中远景缓退让闭合罩体填入构图，同时保住两侧施法手和命中点；闭合后镜头绝不穿透罩面。两侧教徒已经聚起的琥珀色光束朝中央发出。开镜时Kimi与Claude仍可见；Kimi退到Claude身前，右手暗刃向上划弧，在光束命中前让深靛暗月罩完整闭合，包住两人、刑架与脚托。闭合后罩面完全不透明，人物和刑架全部不可见。光束撞上外壳碎成短促火星，两侧施法手与法杖始终交代攻击来源。罩面保持完整，所有燃木留在罩外；火星自然散去，不停格。GPT此时尚未释放水流。 人物:动作起始Kimi与Claude可见；罩闭合后两人及刑架完全不可见。 声音:教徒聚能尖鸣→两道破空法术→暗壳短促碎裂声；切入罩内后压成遥远闷响。\n4–5s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-6n1fSpOePV",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/c9c37061f22385d4bbf0fcbb7cd81f596fc6400c.png",
+              "label": "C03_Kimi-角色设定卡"
+            },
+            {
+              "nodeId": "i-uKDIVWmghN",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/88234e0405150bf25c82642dd7493f40996749c6.png",
+              "label": "CHAR-CLAUDE-TURN-v001 · H3留白适配"
+            },
+            {
+              "nodeId": "i-NLaL2fcoZX",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/b21bb74522239a4a59ca98ec914adc1ab6bb3045.png",
+              "label": "CY024K3-v046-r1"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 5
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-6n1fSpOePV",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/c9c37061f22385d4bbf0fcbb7cd81f596fc6400c.png",
+              "label": "C03_Kimi-角色设定卡",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-uKDIVWmghN",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/88234e0405150bf25c82642dd7493f40996749c6.png",
+              "label": "CHAR-CLAUDE-TURN-v001 · H3留白适配",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-NLaL2fcoZX",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/b21bb74522239a4a59ca98ec914adc1ab6bb3045.png",
+              "label": "CY024K3-v046-r1",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-6n1fSpOePV",
+            "i-uKDIVWmghN",
+            "i-NLaL2fcoZX"
+          ],
+          "mixedListOrder": [
+            "i-6n1fSpOePV",
+            "i-uKDIVWmghN",
+            "i-NLaL2fcoZX"
+          ]
+        },
+        "_updatedAtMs": 1793121488000,
+        "_lastAppliedFullyAtMs": 1793121488000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        },
+        "taskInfo": {
+          "loading": true,
+          "taskId": "20261028011803447939236",
+          "status": 0,
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-kBx2J5SWAU",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793121538484
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805"
+        }
+      },
+      "position": {
+        "x": 5592,
+        "y": 4146
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-kBx2J5SWAU",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

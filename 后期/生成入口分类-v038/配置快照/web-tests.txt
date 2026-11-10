@@ -1,0 +1,55 @@
+bun test v1.3.14 (0d9b296a)
+
+apps\web\src\creative\backup-host.test.js:
+(pass) missing inventory file and project switch stop backup before native begin [6.52ms]
+(pass) complete backup uploads real files before final publication [0.63ms]
+(pass) canonical package scopes drafts even with no associated timeline clips [0.45ms]
+(pass) quota or corrupt transfer never publishes project [1.32ms]
+(pass) restore media precedes native activation and project visibility; drafts separate [0.26ms]
+(pass) browser publish failure removes only new project media [0.20ms]
+(pass) session quota failure revokes activated native registration [0.18ms]
+
+apps\web\src\creative\candidate-host.test.js:
+(pass) actual WASM plan and host preserve editing attributes, neighbors, audio; undo and redo are exact [4.15ms]
+(pass) async checksum cannot adopt to a changed selection or changed clip [0.86ms]
+(pass) removed or tampered candidate cannot mutate timeline [0.57ms]
+(pass) persistence failure is surfaced and the applied command remains undoable [0.62ms]
+(pass) image placeholder adoption retains identity, provenance and duration through undo redo [0.47ms]
+
+apps\web\src\creative\draft-buffer.test.js:
+(pass) editing back to the baseline cannot mask a newer document [0.29ms]
+(pass) late save response preserves newer edits and other draft tabs [0.86ms]
+(pass) same text on a newer baseline is not cleared by an earlier request [0.32ms]
+(pass) real WASM retains same-scene edits and produces native save contract [2.23ms]
+(pass) WASM distinguishes incomplete drafts, protected cues, and revision-specific review [2.75ms]
+(pass) WASM rejects corrupt buffers and foreign/same-revision conflicting documents [0.77ms]
+
+apps\web\src\creative\placeholder-host.test.js:
+(pass) placeholder insertion is idempotent; undo/redo reuse binding and internal media without changing neighbors [1.43ms]
+(pass) failed project save retries the inserted element instead of creating a duplicate [0.45ms]
+(pass) project changes during async core load cannot insert, seek or save into another project [0.11ms]
+(pass) project switch during persistence does not complete selection flow on new project [0.19ms]
+(pass) switching projects while the internal image is being stored cannot insert or save in the new project [0.41ms]
+
+apps\web\src\creative\subtitle-host.test.js:
+(pass) real WASM + host add native editable cues; video, hand titles and audio preserved; undo/redo exact [2.23ms]
+(pass) language regeneration preserves manual edits in old track and hides only owned captions [1.70ms]
+(pass) reject stale project after asynchronous read without writes [0.66ms]
+(pass) reject stale scene after asynchronous read without writes [0.55ms]
+(pass) reject stale timeline after asynchronous read without writes [0.24ms]
+(pass) reject stale canvas after asynchronous read without writes [0.46ms]
+(pass) read failure makes no mutation; save failure is explicit and remains undoable [0.84ms]
+
+apps\web\src\creative\timeline-link-host.test.js:
+(pass) WASM host preserves explicit overlapped selection without notification feedback [1.13ms]
+(pass) selection after a move reconciles current tracks before locating [0.39ms]
+(pass) focus and selection events never rebuild an unchanged timeline index [0.91ms]
+(pass) unbound and empty selection cannot resurrect the previous shot on editor blur [0.24ms]
+(pass) invalid replacement blocks commands and retries when the data becomes valid [0.56ms]
+(pass) closing a project clears both the panel identity and WASM index [0.13ms]
+(pass) playing selection always pauses and rewinds the chosen shot; unbound and multiple selections clear focus [0.22ms]
+
+ 37 pass
+ 0 fail
+ 183 expect() calls
+Ran 37 tests across 6 files. [488.00ms]

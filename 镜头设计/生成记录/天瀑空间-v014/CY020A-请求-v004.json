@@ -1,0 +1,14 @@
+{
+  "id": "CY020A",
+  "take": 4,
+  "destination": "镜头设计/图像/天瀑空间-v014/CY020A-v014-r4.png",
+  "request": "镜头设计/生成记录/天瀑空间-v014/CY020A-请求-v004.json",
+  "input": {
+    "prompt": "编辑图1，保留人物动作身份与机位。宝宝倒在最低层，姿态不变；背后长阶延伸到遥远高处小比例Claude，无近处低祭坛。 参考图2的多段长阶、高祭坛和对称照明布局：三对低火盆，一对等高左右圣灯，下阶两侧各一支蜡烛。删除旧密集烛台，建筑按同一中轴对称，不复制人物。无文字。",
+    "referenced_image_paths": [
+      "E:/projects/内容创作/穿云/镜头设计/图像/头纱连续-v013/CY020A-v013.png",
+      "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-a0b03f30-0371-4cea-9664-803d25294a1e.png"
+    ],
+    "transparent_background": false
+  }
+}

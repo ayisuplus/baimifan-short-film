@@ -1,0 +1,888 @@
+[
+  {
+    "batch": 1,
+    "actual_start": 0.0,
+    "actual_end": 15.0,
+    "planned_start": 0.0,
+    "sheet": "后期\\导演重构-v003\\证据\\争执复核\\B01-current-2fps.jpg",
+    "segments": [
+      {
+        "name": "B01_GB001_01",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB001-H3-v002.mp4",
+        "source_in": 0.0,
+        "source_out": 15.0,
+        "actual_start": 0.0,
+        "actual_end": 15.0,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      }
+    ]
+  },
+  {
+    "batch": 2,
+    "actual_start": 15.0,
+    "actual_end": 28.416666666666668,
+    "planned_start": 15.0,
+    "sheet": "后期\\导演重构-v003\\证据\\争执复核\\B02-current-2fps.jpg",
+    "segments": [
+      {
+        "name": "B02_GB002_01",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB002-H3-v001.mp4",
+        "source_in": 0.0,
+        "source_out": 4.666666666666667,
+        "actual_start": 15.0,
+        "actual_end": 19.666666666666668,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B02_GB002_02",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB002-H3-v001.mp4",
+        "source_in": 4.666666666666667,
+        "source_out": 6.5,
+        "actual_start": 19.666666666666668,
+        "actual_end": 20.916666666666668,
+        "speed": {
+          "Percentage": 146.66666666666666
+        },
+        "props": {}
+      },
+      {
+        "name": "B02_GB002_03",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB002-H3-v001.mp4",
+        "source_in": 6.5,
+        "source_out": 14.0,
+        "actual_start": 20.916666666666668,
+        "actual_end": 28.416666666666668,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      }
+    ]
+  },
+  {
+    "batch": 3,
+    "actual_start": 28.416666666666668,
+    "actual_end": 39.416666666666664,
+    "planned_start": 28.416666666666668,
+    "sheet": "后期\\导演重构-v003\\证据\\争执复核\\B03-current-2fps.jpg",
+    "segments": [
+      {
+        "name": "B03_GB003_01",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB003-H3-v001.mp4",
+        "source_in": 0.0,
+        "source_out": 11.0,
+        "actual_start": 28.416666666666668,
+        "actual_end": 39.416666666666664,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      }
+    ]
+  },
+  {
+    "batch": 4,
+    "actual_start": 39.416666666666664,
+    "actual_end": 53.416666666666664,
+    "planned_start": 39.416666666666664,
+    "sheet": "后期\\导演重构-v003\\证据\\争执复核\\B04-current-2fps.jpg",
+    "segments": [
+      {
+        "name": "B04_GB004_01",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB004-H3-v001.mp4",
+        "source_in": 0.0,
+        "source_out": 5.166666666666667,
+        "actual_start": 39.416666666666664,
+        "actual_end": 44.583333333333336,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B04_GB004_02",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB004-H3-v001.mp4",
+        "source_in": 2.9583333333333335,
+        "source_out": 3.75,
+        "actual_start": 44.583333333333336,
+        "actual_end": 45.708333333333336,
+        "speed": {
+          "Percentage": 66.66666666666667
+        },
+        "props": {}
+      },
+      {
+        "name": "B04_GB004_03",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB004-H3-v001.mp4",
+        "source_in": 6.291666666666667,
+        "source_out": 9.75,
+        "actual_start": 45.708333333333336,
+        "actual_end": 49.166666666666664,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B04_GB004_04",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB004-H3-v001.mp4",
+        "source_in": 10.5,
+        "source_out": 11.25,
+        "actual_start": 49.166666666666664,
+        "actual_end": 49.916666666666664,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B04_GB004_05",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB004-H3-v001.mp4",
+        "source_in": 11.25,
+        "source_out": 13.958333333333334,
+        "actual_start": 49.916666666666664,
+        "actual_end": 53.416666666666664,
+        "speed": {
+          "Percentage": 78.57142857142857
+        },
+        "props": {}
+      }
+    ]
+  },
+  {
+    "batch": 5,
+    "actual_start": 53.416666666666664,
+    "actual_end": 68.33333333333333,
+    "planned_start": 53.416666666666664,
+    "sheet": "后期\\导演重构-v003\\证据\\争执复核\\B05-current-2fps.jpg",
+    "segments": [
+      {
+        "name": "B05_GB004M_01",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB004M-H3-v001.mp4",
+        "source_in": 0.0,
+        "source_out": 4.0,
+        "actual_start": 53.416666666666664,
+        "actual_end": 57.416666666666664,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {
+          "ZoomX": 1.8,
+          "ZoomY": 1.8,
+          "Pan": 450,
+          "Tilt": 80
+        }
+      },
+      {
+        "name": "B05_GB004M_02",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB004M-H3-v001.mp4",
+        "source_in": 4.0,
+        "source_out": 14.916666666666666,
+        "actual_start": 57.416666666666664,
+        "actual_end": 68.33333333333333,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {
+          "ZoomX": 1.8,
+          "ZoomY": 1.8,
+          "Pan": -450,
+          "Tilt": 80
+        }
+      }
+    ]
+  },
+  {
+    "batch": 6,
+    "actual_start": 68.33333333333333,
+    "actual_end": 79.58333333333333,
+    "planned_start": 68.33333333333333,
+    "sheet": "后期\\导演重构-v003\\证据\\争执复核\\B06-current-2fps.jpg",
+    "segments": [
+      {
+        "name": "B06_GB005_01",
+        "source": "视频制作\\Metaso-H3-v003\\剪辑候选\\GB005-v003.mp4",
+        "source_in": 0.0,
+        "source_out": 8.0,
+        "actual_start": 68.33333333333333,
+        "actual_end": 76.33333333333333,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B06_GB005_02",
+        "source": "视频制作\\Metaso-H3-v003\\剪辑候选\\GB005-v003.mp4",
+        "source_in": 8.0,
+        "source_out": 11.25,
+        "actual_start": 76.33333333333333,
+        "actual_end": 79.58333333333333,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      }
+    ]
+  },
+  {
+    "batch": 7,
+    "actual_start": 79.58333333333333,
+    "actual_end": 94.58333333333333,
+    "planned_start": 79.58333333333333,
+    "sheet": "后期\\导演重构-v003\\证据\\争执复核\\B07-current-2fps.jpg",
+    "segments": [
+      {
+        "name": "B07_GB006_01",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB006-H3-v001.mp4",
+        "source_in": 0.0,
+        "source_out": 5.25,
+        "actual_start": 79.58333333333333,
+        "actual_end": 84.83333333333333,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B07_GB006_02",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB006-H3-v001.mp4",
+        "source_in": 6.25,
+        "source_out": 13.0,
+        "actual_start": 84.83333333333333,
+        "actual_end": 91.58333333333333,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B07_GB006_03",
+        "source": "视频制作\\Metaso-H3-v005\\产物\\GB006-v005-CY012-r3.mp4",
+        "source_in": 0.5,
+        "source_out": 3.5,
+        "actual_start": 91.58333333333333,
+        "actual_end": 94.58333333333333,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      }
+    ]
+  },
+  {
+    "batch": 8,
+    "actual_start": 94.58333333333333,
+    "actual_end": 107.29166666666667,
+    "planned_start": 94.58333333333333,
+    "sheet": "后期\\导演重构-v003\\证据\\争执复核\\B08-current-2fps.jpg",
+    "segments": [
+      {
+        "name": "B08_GB007_01",
+        "source": "视频制作\\Metaso-H3-v002\\剪辑候选\\GB007-v002.mp4",
+        "source_in": 0.0,
+        "source_out": 5.0,
+        "actual_start": 94.58333333333333,
+        "actual_end": 99.58333333333333,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B08_GB007_02",
+        "source": "视频制作\\Metaso-H3-v002\\剪辑候选\\GB007-v002.mp4",
+        "source_in": 5.583333333333333,
+        "source_out": 7.583333333333333,
+        "actual_start": 99.58333333333333,
+        "actual_end": 101.58333333333333,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B08_GB007_03",
+        "source": "视频制作\\Metaso-H3-v002\\剪辑候选\\GB007-v002.mp4",
+        "source_in": 7.583333333333333,
+        "source_out": 9.583333333333334,
+        "actual_start": 101.58333333333333,
+        "actual_end": 103.58333333333333,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {
+          "ZoomX": 2.25,
+          "ZoomY": 2.25,
+          "Pan": -513,
+          "Tilt": 461.25
+        }
+      },
+      {
+        "name": "B08_GB007_04",
+        "source": "视频制作\\Metaso-H3-v002\\剪辑候选\\GB007-v002.mp4",
+        "source_in": 10.0,
+        "source_out": 13.75,
+        "actual_start": 103.58333333333333,
+        "actual_end": 107.29166666666667,
+        "speed": {
+          "Percentage": 102.24719101123596
+        },
+        "props": {}
+      }
+    ]
+  },
+  {
+    "batch": 9,
+    "actual_start": 107.29166666666667,
+    "actual_end": 121.29166666666667,
+    "planned_start": 107.29166666666667,
+    "sheet": "后期\\导演重构-v003\\证据\\争执复核\\B09-current-2fps.jpg",
+    "segments": [
+      {
+        "name": "B09_GB008_01",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB008-H3-v001.mp4",
+        "source_in": 0.0,
+        "source_out": 6.5,
+        "actual_start": 107.29166666666667,
+        "actual_end": 113.79166666666667,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B09_GB008_02",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB008-H3-v001.mp4",
+        "source_in": 8.0,
+        "source_out": 10.375,
+        "actual_start": 113.79166666666667,
+        "actual_end": 116.16666666666667,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {
+          "ZoomX": 1.12,
+          "ZoomY": 1.12,
+          "Tilt": -30
+        }
+      },
+      {
+        "name": "B09_GB008_03",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB008-H3-v001.mp4",
+        "source_in": 10.375,
+        "source_out": 12.375,
+        "actual_start": 116.16666666666667,
+        "actual_end": 119.66666666666667,
+        "speed": {
+          "Percentage": 57.14285714285715
+        },
+        "props": {}
+      },
+      {
+        "name": "B09_GB008_04",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB008-H3-v001.mp4",
+        "source_in": 12.375,
+        "source_out": 14.0,
+        "actual_start": 119.66666666666667,
+        "actual_end": 121.29166666666667,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      }
+    ]
+  },
+  {
+    "batch": 10,
+    "actual_start": 121.29166666666667,
+    "actual_end": 128.29166666666666,
+    "planned_start": 121.29166666666667,
+    "sheet": "后期\\导演重构-v003\\证据\\争执复核\\B10-current-2fps.jpg",
+    "segments": [
+      {
+        "name": "B10_GB008R2_01",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB008R2-H3-v001.mp4",
+        "source_in": 0.0,
+        "source_out": 4.0,
+        "actual_start": 121.29166666666667,
+        "actual_end": 125.29166666666667,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B10_GB008R2_02",
+        "source": "视频制作\\Metaso-H3-v005\\产物\\GB008R2-v005-CY016D-transition-r3.mp4",
+        "source_in": 0.5,
+        "source_out": 3.5,
+        "actual_start": 125.29166666666667,
+        "actual_end": 128.29166666666666,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      }
+    ]
+  },
+  {
+    "batch": 11,
+    "actual_start": 128.29166666666666,
+    "actual_end": 138.16666666666666,
+    "planned_start": 128.29166666666666,
+    "sheet": "后期\\导演重构-v003\\证据\\争执复核\\B11-current-2fps.jpg",
+    "segments": [
+      {
+        "name": "B11_GB009_01",
+        "source": "视频制作\\Metaso-H3-v005\\产物\\GB009-v005-CY016D-r1.mp4",
+        "source_in": 0.0,
+        "source_out": 5.0,
+        "actual_start": 128.29166666666666,
+        "actual_end": 133.29166666666666,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B11_GB009_02",
+        "source": "视频制作\\Metaso-H3-v003\\剪辑候选\\GB009-v003.mp4",
+        "source_in": 7.125,
+        "source_out": 9.0,
+        "actual_start": 133.29166666666666,
+        "actual_end": 135.16666666666666,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B11_GB009_03",
+        "source": "视频制作\\Metaso-H3-v003\\剪辑候选\\GB009-v003.mp4",
+        "source_in": 9.0,
+        "source_out": 10.0,
+        "actual_start": 135.16666666666666,
+        "actual_end": 136.16666666666666,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B11_GB009_04",
+        "source": "视频制作\\Metaso-H3-v003\\剪辑候选\\GB009-v003.mp4",
+        "source_in": 11.0,
+        "source_out": 12.958333333333334,
+        "actual_start": 136.16666666666666,
+        "actual_end": 138.16666666666666,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      }
+    ]
+  },
+  {
+    "batch": 12,
+    "actual_start": 138.16666666666666,
+    "actual_end": 147.83333333333334,
+    "planned_start": 138.16666666666666,
+    "sheet": "后期\\导演重构-v003\\证据\\争执复核\\B12-current-2fps.jpg",
+    "segments": [
+      {
+        "name": "B12_GB010_01",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB010-H3-v001.mp4",
+        "source_in": 0.0,
+        "source_out": 3.0,
+        "actual_start": 138.16666666666666,
+        "actual_end": 141.16666666666666,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B12_GB010_02",
+        "source": "视频制作\\Metaso-H3-v005\\产物\\GB010-v005-CY021A-r2.mp4",
+        "source_in": 2.2083333333333335,
+        "source_out": 3.9166666666666665,
+        "actual_start": 141.16666666666666,
+        "actual_end": 143.08333333333334,
+        "speed": {
+          "Percentage": 89.1304347826087
+        },
+        "props": {
+          "ZoomX": 1.3,
+          "ZoomY": 1.3,
+          "Pan": -90,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B12_GB010_03",
+        "source": "视频制作\\Metaso-H3-v005\\产物\\GB010-v005-CY021A-r2.mp4",
+        "source_in": 3.9166666666666665,
+        "source_out": 5.333333333333333,
+        "actual_start": 143.08333333333334,
+        "actual_end": 144.0,
+        "speed": {
+          "Percentage": 154.54545454545453
+        },
+        "props": {
+          "ZoomX": 1.3,
+          "ZoomY": 1.3,
+          "Pan": -90,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B12_GB010_04",
+        "source": "视频制作\\Metaso-H3-v005\\产物\\GB010-v005-CY021A-r2.mp4",
+        "source_in": 5.333333333333333,
+        "source_out": 6.708333333333333,
+        "actual_start": 144.0,
+        "actual_end": 145.58333333333334,
+        "speed": {
+          "Percentage": 86.84210526315789
+        },
+        "props": {
+          "ZoomX": 1.3,
+          "ZoomY": 1.3,
+          "Pan": -90,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B12_GB010_06",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB010-H3-v001.mp4",
+        "source_in": 11.666666666666666,
+        "source_out": 13.916666666666666,
+        "actual_start": 145.58333333333334,
+        "actual_end": 147.83333333333334,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      }
+    ]
+  },
+  {
+    "batch": 13,
+    "actual_start": 147.83333333333334,
+    "actual_end": 158.58333333333334,
+    "planned_start": 148.66666666666666,
+    "sheet": "后期\\导演重构-v003\\证据\\争执复核\\B13-current-2fps.jpg",
+    "segments": [
+      {
+        "name": "B13_GB011-1_01",
+        "source": "视频制作\\Metaso-H3-v002\\剪辑候选\\GB011-1-v002.mp4",
+        "source_in": 0.0,
+        "source_out": 7.25,
+        "actual_start": 147.83333333333334,
+        "actual_end": 155.08333333333334,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B13_GB011-1_02",
+        "source": "视频制作\\Metaso-H3-v005\\产物\\GB011-1-v005-CY020A-r1.mp4",
+        "source_in": 0.0,
+        "source_out": 3.5,
+        "actual_start": 155.08333333333334,
+        "actual_end": 158.58333333333334,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      }
+    ]
+  },
+  {
+    "batch": 14,
+    "actual_start": 158.58333333333334,
+    "actual_end": 162.83333333333334,
+    "planned_start": 159.41666666666666,
+    "sheet": "后期\\导演重构-v003\\证据\\争执复核\\B14-current-2fps.jpg",
+    "segments": [
+      {
+        "name": "B14_GB011-2_01",
+        "source": "后期\\声画重构-v002\\处理片段\\CY021-恳求-跟随裁切.mp4",
+        "source_in": 1.2916666666666667,
+        "source_out": 2.5416666666666665,
+        "actual_start": 158.58333333333334,
+        "actual_end": 159.5,
+        "speed": {
+          "Percentage": 136.36363636363637
+        },
+        "props": {}
+      },
+      {
+        "name": "B14_GB011-2_02",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB011-2-H3-v001.mp4",
+        "source_in": 3.5,
+        "source_out": 5.333333333333333,
+        "actual_start": 159.5,
+        "actual_end": 161.33333333333334,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B14_GB011-2_03",
+        "source": "后期\\声画重构-v002\\处理片段\\CY021-恳求-跟随裁切.mp4",
+        "source_in": 3.375,
+        "source_out": 4.583333333333333,
+        "actual_start": 161.33333333333334,
+        "actual_end": 162.41666666666666,
+        "speed": {
+          "Percentage": 114.64000000000001
+        },
+        "props": {}
+      },
+      {
+        "name": "B14_GB011-2_04",
+        "source": "后期\\声画重构-v002\\处理片段\\CY021-恳求-跟随裁切.mp4",
+        "source_in": 4.666666666666667,
+        "source_out": 4.958333333333333,
+        "actual_start": 162.41666666666666,
+        "actual_end": 162.83333333333334,
+        "speed": {
+          "Percentage": 80.0
+        },
+        "props": {}
+      }
+    ]
+  },
+  {
+    "batch": 15,
+    "actual_start": 162.83333333333334,
+    "actual_end": 174.83333333333334,
+    "planned_start": 163.66666666666666,
+    "sheet": "后期\\导演重构-v003\\证据\\争执复核\\B15-current-2fps.jpg",
+    "segments": [
+      {
+        "name": "B15_GB012_01",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB012-H3-v001.mp4",
+        "source_in": 0.0,
+        "source_out": 12.0,
+        "actual_start": 162.83333333333334,
+        "actual_end": 174.83333333333334,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      }
+    ]
+  },
+  {
+    "batch": 16,
+    "actual_start": 174.83333333333334,
+    "actual_end": 189.83333333333334,
+    "planned_start": 175.66666666666666,
+    "sheet": "后期\\导演重构-v003\\证据\\争执复核\\B16-current-2fps.jpg",
+    "segments": [
+      {
+        "name": "B16_GB013_01",
+        "source": "视频制作\\LibTV-H3-v001\\产物\\GB013-H3-v001.mp4",
+        "source_in": 0.0,
+        "source_out": 12.0,
+        "actual_start": 174.83333333333334,
+        "actual_end": 186.83333333333334,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B16_GB013_02",
+        "source": "视频制作\\Metaso-H3-v005\\产物\\GB013-v005-CY023-r1.mp4",
+        "source_in": 0.7916666666666666,
+        "source_out": 3.7916666666666665,
+        "actual_start": 186.83333333333334,
+        "actual_end": 189.83333333333334,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      }
+    ]
+  },
+  {
+    "batch": 17,
+    "actual_start": 189.83333333333334,
+    "actual_end": 195.83333333333334,
+    "planned_start": 190.66666666666666,
+    "sheet": "后期\\导演重构-v003\\证据\\争执复核\\B17-current-2fps.jpg",
+    "segments": [
+      {
+        "name": "B17_GB014_01",
+        "source": "视频制作\\Metaso-H3-v002\\剪辑候选\\GB014-v002.mp4",
+        "source_in": 1.0,
+        "source_out": 3.0,
+        "actual_start": 189.83333333333334,
+        "actual_end": 192.33333333333334,
+        "speed": {
+          "Percentage": 80.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B17_GB014_02",
+        "source": "视频制作\\Metaso-H3-v002\\剪辑候选\\GB014-v002.mp4",
+        "source_in": 3.0,
+        "source_out": 6.458333333333333,
+        "actual_start": 192.33333333333334,
+        "actual_end": 195.83333333333334,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      }
+    ]
+  },
+  {
+    "batch": 18,
+    "actual_start": 195.83333333333334,
+    "actual_end": 208.625,
+    "planned_start": 196.66666666666666,
+    "sheet": "后期\\导演重构-v003\\证据\\争执复核\\B18-current-2fps.jpg",
+    "segments": [
+      {
+        "name": "B18_GB014A_01",
+        "source": "视频制作\\Metaso-H3-v002\\剪辑候选\\GB014A-v002.mp4",
+        "source_in": 0.0,
+        "source_out": 10.5,
+        "actual_start": 195.83333333333334,
+        "actual_end": 206.33333333333334,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B18_GB014A_02",
+        "source": "视频制作\\Metaso-H3-v002\\剪辑候选\\GB014A-v002.mp4",
+        "source_in": 10.5,
+        "source_out": 11.0,
+        "actual_start": 206.33333333333334,
+        "actual_end": 207.33333333333334,
+        "speed": {
+          "Percentage": 50.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B18_GB014A_03",
+        "source": "视频制作\\Metaso-H3-v002\\剪辑候选\\GB014A-v002.mp4",
+        "source_in": 11.0,
+        "source_out": 12.25,
+        "actual_start": 207.33333333333334,
+        "actual_end": 208.625,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      }
+    ]
+  },
+  {
+    "batch": 19,
+    "actual_start": 208.625,
+    "actual_end": 218.5,
+    "planned_start": 209.45833333333334,
+    "sheet": "后期\\导演重构-v003\\证据\\争执复核\\B19-current-2fps.jpg",
+    "segments": [
+      {
+        "name": "B19_GB015-1_01",
+        "source": "视频制作\\Metaso-H3-v002\\剪辑候选\\GB015-1-v002.mp4",
+        "source_in": 0.0,
+        "source_out": 2.0,
+        "actual_start": 208.625,
+        "actual_end": 210.625,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B19_GB015-1_02",
+        "source": "视频制作\\Metaso-H3-v002\\剪辑候选\\GB015-1-v002.mp4",
+        "source_in": 3.0,
+        "source_out": 5.5,
+        "actual_start": 210.625,
+        "actual_end": 213.125,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B19_GB015-1_03",
+        "source": "视频制作\\Metaso-H3-v005\\产物\\GB015-1-v005-CY024K2-r1.mp4",
+        "source_in": 0.5,
+        "source_out": 2.75,
+        "actual_start": 213.125,
+        "actual_end": 215.375,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B19_GB015-1_04",
+        "source": "视频制作\\Metaso-H3-v005\\产物\\GB015-1-v005-CY024K2-r1.mp4",
+        "source_in": 3.875,
+        "source_out": 5.0,
+        "actual_start": 215.375,
+        "actual_end": 216.5,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      },
+      {
+        "name": "B19_GB015-1_05",
+        "source": "视频制作\\Metaso-H3-v002\\剪辑候选\\GB015-1-v002.mp4",
+        "source_in": 10.0,
+        "source_out": 11.958333333333334,
+        "actual_start": 216.5,
+        "actual_end": 218.5,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      }
+    ]
+  },
+  {
+    "batch": 20,
+    "actual_start": 218.5,
+    "actual_end": 222.5,
+    "planned_start": 219.33333333333334,
+    "sheet": "后期\\导演重构-v003\\证据\\争执复核\\B20-current-2fps.jpg",
+    "segments": [
+      {
+        "name": "B20_GB015-2_01",
+        "source": "视频制作\\Metaso-H3-v003\\剪辑候选\\GB015-2-v003.mp4",
+        "source_in": 0.0,
+        "source_out": 3.9583333333333335,
+        "actual_start": 218.5,
+        "actual_end": 222.5,
+        "speed": {
+          "Percentage": 100.0
+        },
+        "props": {}
+      }
+    ]
+  }
+]

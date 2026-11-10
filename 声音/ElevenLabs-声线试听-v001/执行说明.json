@@ -1,0 +1,68 @@
+{
+  "source_script": "剧本\\白米饭-日语对白-v0.69.json",
+  "source_sha256": "f652eb4cb0f7759bcb90f84a1e2072367f00125d3bd7883bc5284ccc4c283477",
+  "authorization": "作者要求呈现几种声线，并明确使用已配置ElevenLabs CLI；先试听，不自动采用或注册声线。",
+  "before_api_credit_count": 157,
+  "credit_limit": 10000,
+  "method": "official CLI 1.7.1 text-to-voice design; existing env credential; no retry",
+  "web_GPT": "3 previews observed in web UI; not registered or downloaded. Previously marked browser tab is now unavailable; recovery unconfirmed, do not regenerate automatically.",
+  "xiaoyu": "web request blocked by provider, explicitly not charged; no retry via API",
+  "candidates": [
+    {
+      "role": "Claude",
+      "cue_ids": [
+        "VO-CY003B-01",
+        "VO-CY015-01",
+        "VO-CY020-01",
+        "VO-CY021-01",
+        "VO-CY028B-01",
+        "VO-CY029E1-01",
+        "VO-CY029E4-01",
+        "VO-CY029B1-01"
+      ],
+      "characters": 163,
+      "repeated_to_meet_100_char_minimum": true,
+      "purpose": "voice audition only; no full-performance or lip-sync approval",
+      "status": "api_entitlement_blocked"
+    },
+    {
+      "role": "Kimi",
+      "cue_ids": [
+        "VO-CY026D-02",
+        "VO-CY024R-01",
+        "VO-CY024K0-01",
+        "VO-CY024K1A-01"
+      ],
+      "characters": 125,
+      "repeated_to_meet_100_char_minimum": true,
+      "purpose": "voice audition only; no full-performance or lip-sync approval",
+      "status": "prepared_not_submitted"
+    },
+    {
+      "role": "教主",
+      "cue_ids": [
+        "VO-CY021A-01",
+        "VO-CY019-01",
+        "VO-CY027A-01",
+        "VO-CY029-01"
+      ],
+      "characters": 122,
+      "repeated_to_meet_100_char_minimum": true,
+      "purpose": "voice audition only; no full-performance or lip-sync approval",
+      "status": "prepared_not_submitted"
+    },
+    {
+      "role": "教徒",
+      "cue_ids": [
+        "VO-CY004-01",
+        "VO-CY010A-01"
+      ],
+      "characters": 116,
+      "repeated_to_meet_100_char_minimum": true,
+      "purpose": "voice audition only; no full-performance or lip-sync approval",
+      "status": "prepared_not_submitted"
+    }
+  ],
+  "status": "blocked_api_voice_design_paid_plan_required",
+  "next_action": "Await author choice: free website Voice Design or user upgrades API entitlement. No subscription purchase authorized."
+}

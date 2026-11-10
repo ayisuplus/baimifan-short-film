@@ -1,0 +1,80 @@
+{
+  "role": "GPT",
+  "status": "saved_pending_author_selection",
+  "input": "GPT-输入.json",
+  "generation_route": "web_voice_design",
+  "download_route": "official_existing_preview_GET",
+  "registered": false,
+  "listening_approved": false,
+  "previews": [
+    {
+      "candidate": 1,
+      "generated_voice_id": "tsunTpzA4d2kBihHrZ2R",
+      "file": "GPT-1.mp3",
+      "sha256": "435e183162ab22ac9e13d55775fd3bf434fefb55cff3a2e055f3386ef7d403fe",
+      "bytes": 699707,
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "29.152625"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    },
+    {
+      "candidate": 2,
+      "generated_voice_id": "KsV7Xih6wmbJPiu5NQNf",
+      "file": "GPT-2.mp3",
+      "sha256": "9a61f4f66bd9a4096c12288974fd0849f192c62b061b76cd73f13f82d2c268e9",
+      "bytes": 650179,
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "27.088958"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    },
+    {
+      "candidate": 3,
+      "generated_voice_id": "9Vr0uFGqeMBCKXb46oi0",
+      "file": "GPT-3.mp3",
+      "sha256": "b4cc6162e0596febc69a140ae22aa3984026c5c60d5c4e4f45daf725dbb4f2a4",
+      "bytes": 630744,
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "26.279167"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    }
+  ]
+}

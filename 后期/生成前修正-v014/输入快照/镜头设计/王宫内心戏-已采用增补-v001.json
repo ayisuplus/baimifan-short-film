@@ -1,0 +1,162 @@
+{
+  "status": "story_and_avatars_adopted_state_images_pending_review_two_voices_recorded_pending_listening_and_retime",
+  "story_source": "剧本/白米饭-场景剧本-v0.58.md",
+  "story_source_sha256": "aed3963fd2a6e9808dced3fbaa67b63ce814c7078698884fbbf98e29832f88b7",
+  "scene": "S02",
+  "insert_after": "CY008",
+  "insert_before": "CY009",
+  "new_shot_id": "CY008M",
+  "baseline_source": "镜头设计/shot-plan-v0.57.json",
+  "baseline_board": "视频制作/生成板-v012/批次计划.json",
+  "baseline_film_seconds": 450.9,
+  "new_duration_seconds": null,
+  "affected_batches": [
+    "GB004",
+    "GB005"
+  ],
+  "visual": "GPT反应镜定格，本体与宫殿背景柔和虚化；前景两只Q版天使/恶魔GPT活动。两者是同一人物的内心分身，不是现实新增角色。保持既定白龙娘设计与哥特动画画风。",
+  "transition": "两只分身争执后等待本体回答；小鱼已有整句“那我自己去”从现实画外接入，打断内心戏，再切回她转身离去；原句只播放一次。随后接搓手迟疑与起身目送。",
+  "source_ownership": "中文正文以场景剧本v0.58为准；此处引用仅供生成板展示，构建时核对逐字一致。",
+  "cues": [
+    {
+      "id": "VO-CY008M-01",
+      "speaker": "恶魔GPT",
+      "source_text": "别忘了协议。教会的事，你不能插手。",
+      "ja_draft": "協定を忘れないで。教会のことに手を出しちゃだめ。",
+      "delivery": "抱着胳膊，慢悠悠地提醒。",
+      "voice": "沿用已回交GPT音色身份，只调整表演，不另设真人声线。",
+      "audio_path": "资产/声音/王宫内心戏-v001/VO-CY008M-01__恶魔GPT__ja__v001.wav",
+      "translation_status": "japanese_reviewed_and_recorded_pending_listening",
+      "duration_seconds": 3.58
+    },
+    {
+      "id": "VO-CY008M-02",
+      "speaker": "天使GPT",
+      "source_text": "可你看看这孩子……那些人疯了吗？他们真的要烧死克劳德啊！",
+      "ja_draft": "でも、この子を見てよ……あの人たち、正気なの？本当にクロードを焼き殺そうとしてるんだよ！",
+      "delivery": "先心疼地看向小鱼，再焦急地转向本体。",
+      "voice": "沿用已回交GPT音色身份，只调整表演。",
+      "audio_path": "资产/声音/王宫内心戏-v001/VO-CY008M-02__天使GPT__ja__v001.wav",
+      "translation_status": "japanese_reviewed_and_recorded_pending_listening",
+      "duration_seconds": 7.8
+    }
+  ],
+  "asset_requirements": [
+    "天使GPT四视图v003已采用。",
+    "恶魔GPT四视图v003酒红配色已采用。",
+    "同一镜头的三张表演状态图已生成，待作者画面审阅；尚未生成视频。"
+  ],
+  "audio_handoff": "新增2句日语已复核并录制（恶魔3.58秒、天使7.80秒，干声合计11.38秒），待作者听审；既有61句原件不改。全片合计63句，干声已到齐63句，但新2句未听审、未据此锁镜长。小鱼打断句复用VO-CY009-01，不重录不复制。试听页：资产/声音/王宫内心戏-v001/试听.html。",
+  "timing_policy": "先取得两句完整自然速度配音，再为定格、争执与打断分配画面时间；不锁死原6–8秒构想，不强塞15秒，不机械加速。之后重新合批并顺延下游时码。",
+  "music_policy": "沿用王宫采用曲；内心戏压低现实环境与配乐，打断时恢复空间感。新音乐入出点及后续绝对时码待配音时长落定后重算。",
+  "approval": "作者确认采用紧邻上一条助手建议的最终中文台词，不采用“好闺蜜”版本。",
+  "next_steps": [
+    "审阅三张内心戏状态图",
+    "复核新增两句日语并录制，沿用GPT既有音色",
+    "按实测配音重排15秒批次与BGM事件时码",
+    "冻结实际模型输入后生成并验证口型、转头和背景定格"
+  ],
+  "character_proportion_direction": "作者于2026-10-26确认采用天使GPT v003：最后那版本可以了。后续恶魔与镜头使用v003实际头身比例，不再凭数字改比例。",
+  "asset_generation_record": "资产/生成记录/王宫内心戏-v001/作者修正.md",
+  "candidate_assets": [
+    {
+      "label": "天使GPT · v003已采用",
+      "path": "资产/图像/王宫内心戏-v001/CHAR-GPT-ANGEL-TURN-v003.png",
+      "status": "作者已采用v003（2026-10-26：最后那版本可以了）"
+    },
+    {
+      "label": "恶魔GPT · v003酒红配色已采用",
+      "path": "资产/图像/王宫内心戏-v001/CHAR-GPT-DEVIL-TURN-v003.png",
+      "status": "2026-10-26 作者：可以了，接着做。采用恶魔v003酒红配色。"
+    }
+  ],
+  "devil_color_direction": "恶魔角为红色；披肩与翼膜统一低饱和酒红色系。天使既定配色保持不变。",
+  "shot_design": {
+    "purpose": "让观众看到GPT在协议约束与怜悯之间犹豫；争执不判胜负，现实中的小鱼打断内心戏。",
+    "camera": "沿用王座反应近景构图，内心段锁定机位；本体与背景定格虚化。只让两只分身表演、轻微悬浮和转头，避免摄影机运动破坏定格感。",
+    "entry": "接小鱼担忧的反应，切回王座上的GPT；以现有反应图定格并逐渐虚化，前景两只分身显现后恶魔开始说话。图片4是分身已出现的表演状态，不作为凭空长出分身之前的起帧。",
+    "exit": "图片6两只分身闭口等待，本体不回答。小鱼现有完整日语原声从画外接入，消去分身、解除虚化，切回小鱼离开；这句只播放一次，随后接既有搓手迟疑与起身目送。",
+    "timing": "新增两句配音实测前，以下用对白事件定位，秒数暂空；不是已冻结的15秒提交稿。",
+    "background_execution": "三张生成图是构图/表演参考。正式合成定格背景应复用同一王座底图，避免生成图之间轻微差异造成背景游动。"
+  },
+  "state_sequence": [
+    {
+      "id": "CY008M-S01",
+      "label": "恶魔提醒",
+      "path": "镜头设计/图像/王宫内心戏-v001/CY008M-S01-恶魔提醒.png",
+      "picture_number": 4,
+      "role": "同镜头表演状态参考",
+      "cue_id": "VO-CY008M-01",
+      "event_anchor": "恶魔开口至完整句结束",
+      "offset_seconds": null,
+      "action": "左侧恶魔抱臂、半垂眼，向右侧天使慢悠悠提醒；天使闭口，双手收在胸前担忧地听。",
+      "transition": "恶魔说完自然闭口，天使接话；不切景、不重启出现动作。",
+      "status": "已生成，待作者审阅"
+    },
+    {
+      "id": "CY008M-S02",
+      "label": "天使反驳",
+      "path": "镜头设计/图像/王宫内心戏-v001/CY008M-S02-天使反驳.png",
+      "picture_number": 5,
+      "role": "同镜头表演状态参考",
+      "cue_id": "VO-CY008M-02",
+      "event_anchor": "天使接话至完整句结束",
+      "offset_seconds": null,
+      "action": "右侧天使一手贴胸、一手向小鱼所在画外方向摊开；先心疼，后焦急地反驳。左侧恶魔闭口倾听，不同时说话。",
+      "transition": "天使收回伸出的手并闭口；两只分身顺着动作转头抬眼望向后方本体。",
+      "status": "已生成，待作者审阅"
+    },
+    {
+      "id": "CY008M-S03",
+      "label": "等待回答",
+      "path": "镜头设计/图像/王宫内心戏-v001/CY008M-S03-等待回答.png",
+      "picture_number": 6,
+      "role": "同镜头表演状态参考",
+      "cue_id": null,
+      "event_anchor": "天使说完后至小鱼画外打断",
+      "offset_seconds": null,
+      "action": "两只分身在原位置抬眼等待后方GPT表态，嘴均闭合；本体保持定格，不点头、不答应。",
+      "transition": "短暂停留后由小鱼现有完整原声打断，切回现实；不安排胜利表情或额外台词。",
+      "status": "已生成，待作者审阅"
+    }
+  ],
+  "reference_images": [
+    {
+      "number": 1,
+      "path": "资产/图像/王宫内心戏-v001/CHAR-GPT-ANGEL-TURN-v003.png",
+      "label": "天使四视图",
+      "role": "已采用身份与比例"
+    },
+    {
+      "number": 2,
+      "path": "资产/图像/王宫内心戏-v001/CHAR-GPT-DEVIL-TURN-v003.png",
+      "label": "恶魔四视图",
+      "role": "已采用身份与配色"
+    },
+    {
+      "number": 3,
+      "path": "镜头设计/图像/数学宫殿-v056/CY007.png",
+      "label": "王座反应底图",
+      "role": "本体姿态与空间；背景定格来源"
+    },
+    {
+      "number": 4,
+      "path": "镜头设计/图像/王宫内心戏-v001/CY008M-S01-恶魔提醒.png",
+      "label": "恶魔提醒",
+      "role": "表演状态候选，不替代身份四视图"
+    },
+    {
+      "number": 5,
+      "path": "镜头设计/图像/王宫内心戏-v001/CY008M-S02-天使反驳.png",
+      "label": "天使反驳",
+      "role": "表演状态候选，不替代身份四视图"
+    },
+    {
+      "number": 6,
+      "path": "镜头设计/图像/王宫内心戏-v001/CY008M-S03-等待回答.png",
+      "label": "等待回答",
+      "role": "表演状态候选，不替代身份四视图"
+    }
+  ],
+  "generation_record": "镜头设计/生成记录/王宫内心戏-v001/生成记录.json"
+}

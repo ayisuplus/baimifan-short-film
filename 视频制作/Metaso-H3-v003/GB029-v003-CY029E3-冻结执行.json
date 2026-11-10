@@ -1,0 +1,55 @@
+{
+  "batch": {
+    "batch_number": 39,
+    "batch_id": "GB029",
+    "attempt_id": "GB029-v003-CY029E3",
+    "title": "选择继续与凝种",
+    "shot_ids": [
+      "CY029E3"
+    ],
+    "film_start": 427.282729,
+    "part_offset": 5.44,
+    "used_seconds": 3,
+    "duration": 4,
+    "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。仅两只手的单一特写。左手从头到尾扶稳同一右腕，右手只有疲惫的细小颤抖；指间同一枚小火种在0–1秒稍稳住，随后短火舌轻晃，亮度不爆发、体积不变大。3秒内不释放、不翻为掌心托球、不重新凝聚第二枚火、不出现第三只手。镜头极轻推进，手位及空刑架方向不换轴。画外原录音『この手のひらで、』在本镜0–1.73秒，画面不出现说话嘴。余1秒仅作自然余量。",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/Metaso-H3-v003/修订参考/GB029-CY029E3-firstframe-r001.png",
+        "sha256": "cc14b4d059a7829919ede42e7d17666b33d81b39937cb3752a00cceb92804728",
+        "role": "first_frame"
+      }
+    ],
+    "estimated_credits": 40.8,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "整段重拍：承接悬空伸手与左手扶腕的小火种，不沿用终态反推动作。",
+    "repair_of": {
+      "author_rejected_version": "v002",
+      "batch_id": "GB029"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json",
+    "mode": "first_frame"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。仅两只手的单一特写。左手从头到尾扶稳同一右腕，右手只有疲惫的细小颤抖；指间同一枚小火种在0–1秒稍稳住，随后短火舌轻晃，亮度不爆发、体积不变大。3秒内不释放、不翻为掌心托球、不重新凝聚第二枚火、不出现第三只手。镜头极轻推进，手位及空刑架方向不换轴。画外原录音『この手のひらで、』在本镜0–1.73秒，画面不出现说话嘴。余1秒仅作自然余量。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115174145633869824"
+        },
+        "role": "first_frame"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 4,
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者要求修复第6、11、20、21、39批剧情与空间错误，沿用已授权Metaso H3积分；40仅必要接头。无充值。"
+}

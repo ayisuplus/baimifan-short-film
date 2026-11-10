@@ -1,0 +1,35 @@
+{
+  "035": {
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\OpenCut后续画面-v018\\逐镜视频\\035_B13_v004_3644_01.mp4",
+    "sha256": "628b1850f5359a559c63ac8111bb5c1fd4af09794d81ca00111249d423d7dc86"
+  },
+  "038": {
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\OpenCut后续画面-v018\\逐镜视频\\038_B14_v004_3914_01.mp4",
+    "sha256": "ee910dfcd04dc76e92924a2f8ee96a766ddac9fe64a91e4ca70059466e85c988"
+  },
+  "039": {
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\OpenCut后续画面-v018\\逐镜视频\\039_B14_v004_3914_02.mp4",
+    "sha256": "b2cfeb9d3501e2ba1124b7fb7cea10ea219d5bbb9adcc36079b220288e148ad1"
+  },
+  "edit": {
+    "035": {
+      "start": 2714,
+      "frames": 60,
+      "action": "keep original performance; redraw style"
+    },
+    "038": {
+      "start": 2896,
+      "frames": 96,
+      "source_range": "0:96",
+      "action": "retain pleading; redraw style; remove18frame tail"
+    },
+    "039": {
+      "action": "remove30frame repetitive continuation"
+    },
+    "total_before": 9190,
+    "total_after": 9142,
+    "clips_after": 117,
+    "audio_subtitles_untouched": true,
+    "resolve_accessed": false
+  }
+}

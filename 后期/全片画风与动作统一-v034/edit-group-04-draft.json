@@ -1,0 +1,172 @@
+[
+  {
+    "name": "069-v034-preserve",
+    "id": "069",
+    "source": "E:/projects/内容创作/故事短片/白米饭/后期/OpenCut后续画面-v018/逐镜视频/069_B25_v011_6171_2.mp4",
+    "source_in": 0,
+    "source_out_exclusive": 102,
+    "target_frames": 102,
+    "status": "pass",
+    "note": "原升空建立镜保留；新剪辑小节另抽帧检查。"
+  },
+  {
+    "name": "070-v034-edit",
+    "id": "070",
+    "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/070-video-r1-no-upscale_00001_.mp4",
+    "source_in": 0,
+    "source_out_exclusive": 54,
+    "target_frames": 54,
+    "status": "trim",
+    "note": "二维线条、两膜翼、单尾稳定；抬手动作有延续，尾部纯停留。 接069悬停状态，切到短攻击插镜，避免重复抬手。"
+  },
+  {
+    "name": "071a-v034-edit",
+    "id": "071a",
+    "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/071a-video-r1-no-upscale_00001_.mp4",
+    "source_in": 8,
+    "source_out_exclusive": 32,
+    "target_frames": 24,
+    "status": "trim",
+    "note": "有一次明确橙金释放，袖摆跟随；首帧已带能量，后半重复停姿。 以发射动作为切入，不保留42帧以后空手停顿。"
+  },
+  {
+    "name": "071b-v034-edit",
+    "id": "071b",
+    "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/071b-video-r1-no-upscale_00001_.mp4",
+    "source_in": 18,
+    "source_out_exclusive": 60,
+    "target_frames": 36,
+    "status": "trim",
+    "note": "光沿扇骨与扇叶流动可读；直到约60帧才剥离，后段脱出物过大且不够像单枚长叶。 在离扇动势开始时切到071c；不要保留60帧后大块扇面飞过镜头。此剪法需要接头确认；若仍读不清单叶离轴，再重生。"
+  },
+  {
+    "name": "071c-v034-edit",
+    "id": "071c",
+    "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/071c-video-r1-no-upscale_00001_.mp4",
+    "source_in": 0,
+    "source_out_exclusive": 24,
+    "target_frames": 24,
+    "status": "trim",
+    "note": "接触爆光明确，但首帧已经接触，30帧后橙黑射线不散且扇叶持续僵持，没有正确下落结果。 切在第一次白蓝撞击峰值，立即回GPT/罩内安全，避免把后半错当拦截完成。若要求明确落叶结果，补1条短下落反应。"
+  },
+  {
+    "name": "072-v034-edit",
+    "id": "072",
+    "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/072-video-r1-no-upscale_00001_.mp4",
+    "source_in": 18,
+    "source_out_exclusive": 84,
+    "target_frames": 66,
+    "status": "trim",
+    "note": "手部聚水、抬眼与二维画风清楚，后段重复抬头停留。 以念咒/视线上移承接外景水滴；不必加大无动机推镜。"
+  },
+  {
+    "name": "073-v034-pending",
+    "id": "073",
+    "source": null,
+    "source_in": null,
+    "source_out_exclusive": null,
+    "target_frames": 36,
+    "status": "pending",
+    "note": "等待动态审查通过。r2关键帧消除窗与长刀；两人关系、Claude腕踝约束、木十字架和脚托清楚，蓝罩不透明。 已列入water-approved-videojobs；仅允许一次承托与微弱呼吸，禁止解开束缚。"
+  },
+  {
+    "name": "074-v034-edit",
+    "id": "074",
+    "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/074-video-r1-no-upscale_00001_.mp4",
+    "source_in": 12,
+    "source_out_exclusive": 48,
+    "target_frames": 36,
+    "status": "trim",
+    "note": "大水滴加速拉长并离开画面，有向天空带视线；0帧较像玻璃球，尾部等待较长。 用加速拉长段，切至云涡，少停留在玻璃球状静止首帧。"
+  },
+  {
+    "name": "075-v034-pending",
+    "id": "075",
+    "source": null,
+    "source_in": null,
+    "source_out_exclusive": null,
+    "target_frames": 54,
+    "status": "pending",
+    "note": "等待动态审查通过。6帧后凭空出现橙发披风人物，18帧抬手指向云涡，造成另一个人施法的因果错误。 保留已通过的无人关键帧重生；water-repair-jobs中的075-video-r2严格无人、只动云。"
+  },
+  {
+    "name": "077-v034-pending",
+    "id": "077",
+    "source": null,
+    "source_in": null,
+    "source_out_exclusive": null,
+    "target_frames": 60,
+    "status": "pending",
+    "note": "等待动态审查通过。整段是尖水舌/水柱，缺清晰龙头；右侧后殿像屋顶被剖开，暴露迷你室内，冲击后破坏范围继续扩张。 重做有明确龙头和完整后殿屋顶的关键帧，见077-key-r2。紧急备用仅36–56帧短切冲击，不能标完整通过。"
+  },
+  {
+    "name": "078-v034-pending",
+    "id": "078",
+    "source": null,
+    "source_in": null,
+    "source_out_exclusive": null,
+    "target_frames": 30,
+    "status": "pending",
+    "note": "等待动态审查通过。r2关键帧右上多余天洞已修为连续拱顶；龙从唯一左上破口进入，方向可与外景接。 已列videojobs；短促头颈下冲，碎石只来自既有左上破口。"
+  },
+  {
+    "name": "079-v034-edit",
+    "id": "079",
+    "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/079-video-r1-no-upscale_00001_.mp4",
+    "source_in": 0,
+    "source_out_exclusive": 16,
+    "target_frames": 16,
+    "status": "trim",
+    "note": "前16帧表情/抬眼可用；18帧后龙头出现在教主背后近肩，与下一镜正面盾面迎击方向冲突。 只保留抬眼反应，不用龙绕到背后的后段。"
+  },
+  {
+    "name": "080-v034-pending",
+    "id": "080",
+    "source": null,
+    "source_in": null,
+    "source_out_exclusive": null,
+    "target_frames": 48,
+    "status": "pending",
+    "note": "等待动态审查通过。GPT从祈祷式双手到张开双臂，没有指向教主；龙绕镜头一整圈，发令→发射因果不清，运动拖沓。 用原二维key重做动画，右手指向屏左，龙头同向一次加速出画，见080-video-r2。"
+  },
+  {
+    "name": "081-v034-edit",
+    "id": "081",
+    "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/081-video-r1-no-upscale_00001_.mp4",
+    "source_in": 6,
+    "source_out_exclusive": 54,
+    "target_frames": 48,
+    "status": "trim",
+    "note": "6–54帧下冲撞盾与水花爆发有力度；78帧后整个顶部大面积破裂落石，与只保留一个破口矛盾。 在水花压过盾缘的峰值切到082抓阶，舍掉后段全顶崩塌；不要慢放扩大CG感。"
+  },
+  {
+    "name": "082-v034-pending",
+    "id": "082",
+    "source": null,
+    "source_in": null,
+    "source_out_exclusive": null,
+    "target_frames": 54,
+    "status": "pending",
+    "note": "等待动态审查通过。r2为黑兜帽深发男性，近景手掌/台阶可辨，远处高台蓝罩明确；火焰已无。 已列videojobs；一波水拉袍→握紧→水退，不要循环海浪。"
+  },
+  {
+    "name": "083-v034-pending",
+    "id": "083",
+    "source": null,
+    "source_in": null,
+    "source_out_exclusive": null,
+    "target_frames": 42,
+    "status": "pending",
+    "note": "等待动态审查通过。r2恢复高祭台、前沿台阶与不透明罩的空间层级；水沿阶下泄，可解释罩内安全。 已列videojobs；轻微拉开交代层级，不能移动罩或让水逆流。"
+  },
+  {
+    "name": "085-v034-pending",
+    "id": "085",
+    "source": null,
+    "source_in": null,
+    "source_out_exclusive": null,
+    "target_frames": 72,
+    "status": "pending",
+    "note": "等待动态审查通过。r2仍大面积开顶、亮蓝白天光、到处废墟；台阶至少4处小烛火未灭；右侧千问是白花发饰的浅紫女仆造型，与063/049金冠深蓝辫发及金纹外袍不同。 见085-key-r3修复屋顶/夜光/灭灯/千问身份；动态仍采用双脚承重后收翼。"
+  }
+]

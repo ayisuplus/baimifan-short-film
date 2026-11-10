@@ -1,0 +1,72 @@
+[
+  {
+    "id": "063",
+    "source_shot": "063",
+    "source_frame": 10,
+    "generate_frames": 96,
+    "target_frames": 72,
+    "camera": "月宫双人固定中景，折扇收合完成答应",
+    "key_prompt": "Preserve GPT at left and braided Qianwen at right on the moonlit Chinese celestial palace terrace. This is an earlier recruitment memory, not the cathedral. Preserve two characters, moon, clouds, costumes and spatial arrangement. Qianwen holds her single fan in her anatomical RIGHT hand. Simplify ornate detail into drawn shapes; matte skin, no glittering realistic strands.",
+    "motion_prompt": "GPT leans forward slightly and offers her open hand while speaking a brief invitation. Qianwen meets her gaze, gives one small confident nod and closes her fan once with her right hand. Their expressions settle in agreement. Fixed medium two-shot, hair and fabric move only gently. No embrace, no sudden location change, no extra people.",
+    "group": 3
+  },
+  {
+    "id": "064",
+    "source_shot": "064",
+    "source_frame": 7,
+    "generate_frames": 84,
+    "target_frames": 60,
+    "camera": "书桌中景固定，以抬眼合书回应",
+    "key_prompt": "Keep GPT standing to the left and purple-haired cat-eared Gemini sitting at her study desk on the right. Maintain the book, gold astronomical instrument, arched night window, warm candles and dark library. Cel-shaded matte faces and simplified outlined embroidery. No cathedral conversion.",
+    "motion_prompt": "GPT gestures toward Gemini with an open palm. Gemini looks up from her book, closes it with one hand and smiles with a short decisive nod. GPT responds with a small smile. Fixed camera, one exchange, no long held posing and no new book appearing.",
+    "group": 3
+  },
+  {
+    "id": "065a",
+    "source_shot": "065",
+    "source_frame": 10,
+    "generate_frames": 84,
+    "target_frames": 60,
+    "camera": "火箭基地中景，动作落在握紧斧柄与点头",
+    "key_prompt": "Preserve white-haired horned GPT on the left and blonde black-red-clothed Grok on the right holding ONE large axe. Retain the night rocket launch facility behind them, simplified painted metal towers. No cathedral or palace background. The axe head stays attached to the shaft and held upright at Grok side.",
+    "motion_prompt": "GPT makes a concise invitation with an open hand. Grok turns her gaze to GPT, tightens her grip on the axe shaft, lifts her chin and nods once with an eager grin. Keep the axe low and safe beside her, not swung at GPT. Slight hair follow-through. Fixed medium two-shot, no orbit.",
+    "group": 3
+  },
+  {
+    "id": "065b",
+    "source_shot": "065",
+    "source_frame": 143,
+    "generate_frames": 60,
+    "target_frames": 36,
+    "camera": "月面睡眼近景，单次睁眼",
+    "key_prompt": "Preserve close framing of silver-haired Kimi resting her cheek on her folded dark blue star-embroidered sleeve on the moon. Begin with eyes gently closed; keep moon rocks and starry black sky, matte anime hair and simple blue-violet shadow shapes. No duplicate Kimi and no new bed. ONLY bare moon rocks and black starry outer space. Absolutely no buildings, windows, pillars, candles, flowers or orange-haired woman. Keep the source Kimi headband and silver hair, never orange flower accessories.",
+    "motion_prompt": "In this fixed close-up, Kimi wakes only once: eyelids slowly open, gaze focuses upward toward someone just outside the frame and her head rises slightly from her sleeve. End alert but still low. No blinking loop, no sit-up within this close shot.",
+    "group": 3,
+    "single_reference": true,
+    "key_revision": 2
+  },
+  {
+    "id": "066",
+    "source_shot": "066",
+    "source_frame": 0,
+    "generate_frames": 120,
+    "target_frames": 96,
+    "camera": "月面双人中近景，识认到答应",
+    "key_prompt": "Keep GPT kneeling on the left beside seated silver-haired Kimi on the right among moon rocks under stars. This is the same moon recruitment memory. Kimi is already awake, sitting upright with legs naturally supported, looking up at GPT. Preserve exact dark starry outfit and hair accessories, drawn broad hair strands. GPT has only two horns, one tail and two folded wings. ONLY bare moon rocks and black starry outer space. Absolutely no buildings, windows, pillars, candles, flowers or orange-haired woman. Keep the source Kimi headband and silver hair, never orange flower accessories.",
+    "motion_prompt": "GPT rests one hand gently on Kimi shoulder and speaks briefly. Kimi looks up, recognition changes her sleepy expression to a warm determined smile; she nods once and leans forward as if ready to rise. GPT withdraws her hand naturally. Keep both grounded on the moon rocks, no repeat sleeping or awakening. Camera makes a very slight push toward the shared eyeline and stops.",
+    "group": 3,
+    "single_reference": true,
+    "key_revision": 2
+  },
+  {
+    "id": "068",
+    "source_shot": "068",
+    "source_frame": 0,
+    "generate_frames": 72,
+    "target_frames": 54,
+    "camera": "切回柱后抱护近景，童眼到成人眼神",
+    "key_prompt": "Keep close framing of Qianwen holding the small whale-hooded Xiaoyu against her anatomical LEFT side, supported by her LEFT forearm beneath the thighs; folded fan stays in her RIGHT hand. Preserve their eye contact and original outfits. Dark blue cathedral behind the refuge pillar, subdued amber lamps. Simplify soft skin gradients into flat cel shadows. No mirror reversal of fan and child.",
+    "motion_prompt": "The child looks up into Qianwen face and grips her robe lightly. Qianwen tightens the existing left-arm support under the child, lowers her eyes and gives a brief reassuring smile before looking toward the danger off screen. Fan remains closed in her right hand. Fixed intimate close shot, no hug reset and no bouncing the child.",
+    "group": 3
+  }
+]

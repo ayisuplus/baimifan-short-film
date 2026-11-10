@@ -1,0 +1,1754 @@
+{
+  "name": "v001_Director_Post_Repair_Final",
+  "end": 11056,
+  "video": [
+    {
+      "name": "B01_GB001_01",
+      "start": 0,
+      "end": 360,
+      "duration": 360,
+      "source_in": 0,
+      "source_out": 360,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B02_GB002_01",
+      "start": 360,
+      "end": 472,
+      "duration": 112,
+      "source_in": 0,
+      "source_out": 112,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B02_GB002_02",
+      "start": 472,
+      "end": 502,
+      "duration": 30,
+      "source_in": 112,
+      "source_out": 156,
+      "speed": {
+        "Percentage": 146.66666666666666
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B02_GB002_03",
+      "start": 502,
+      "end": 682,
+      "duration": 180,
+      "source_in": 156,
+      "source_out": 336,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B03_GB003_01",
+      "start": 682,
+      "end": 946,
+      "duration": 264,
+      "source_in": 0,
+      "source_out": 264,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B04_GB004_01",
+      "start": 946,
+      "end": 1070,
+      "duration": 124,
+      "source_in": 0,
+      "source_out": 124,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B04_GB004_02",
+      "start": 1070,
+      "end": 1097,
+      "duration": 27,
+      "source_in": 71,
+      "source_out": 90,
+      "speed": {
+        "Percentage": 66.66666666666667
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B04_GB004_03",
+      "start": 1097,
+      "end": 1180,
+      "duration": 83,
+      "source_in": 151,
+      "source_out": 234,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B04_GB004_04",
+      "start": 1180,
+      "end": 1198,
+      "duration": 18,
+      "source_in": 252,
+      "source_out": 270,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B04_GB004_05",
+      "start": 1198,
+      "end": 1282,
+      "duration": 84,
+      "source_in": 270,
+      "source_out": 335,
+      "speed": {
+        "Percentage": 78.57142857142857
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B05_GB004M_01",
+      "start": 1282,
+      "end": 1378,
+      "duration": 96,
+      "source_in": 0,
+      "source_out": 96,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B05_GB004M_02",
+      "start": 1378,
+      "end": 1640,
+      "duration": 262,
+      "source_in": 96,
+      "source_out": 358,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B06_GB005_01",
+      "start": 1640,
+      "end": 1832,
+      "duration": 192,
+      "source_in": 0,
+      "source_out": 192,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B06_GB005_02",
+      "start": 1832,
+      "end": 1910,
+      "duration": 78,
+      "source_in": 192,
+      "source_out": 270,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B07_GB006_01",
+      "start": 1910,
+      "end": 2036,
+      "duration": 126,
+      "source_in": 0,
+      "source_out": 126,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B07_GB006_02",
+      "start": 2036,
+      "end": 2198,
+      "duration": 162,
+      "source_in": 150,
+      "source_out": 312,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B08_GB007_01",
+      "start": 2198,
+      "end": 2414,
+      "duration": 216,
+      "source_in": 0,
+      "source_out": 216,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B08_GB007_02",
+      "start": 2414,
+      "end": 2503,
+      "duration": 89,
+      "source_in": 216,
+      "source_out": 331,
+      "speed": {
+        "Percentage": 129.2134831460674
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B09_GB008_01",
+      "start": 2503,
+      "end": 2839,
+      "duration": 336,
+      "source_in": 0,
+      "source_out": 336,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B10_GB008R2_01",
+      "start": 2839,
+      "end": 2935,
+      "duration": 96,
+      "source_in": 0,
+      "source_out": 96,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B11_GB009_01",
+      "start": 2935,
+      "end": 2983,
+      "duration": 48,
+      "source_in": 0,
+      "source_out": 48,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B11_GB009_02",
+      "start": 2983,
+      "end": 3011,
+      "duration": 28,
+      "source_in": 48,
+      "source_out": 90,
+      "speed": {
+        "Percentage": 150.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B11_GB009_03",
+      "start": 3011,
+      "end": 3112,
+      "duration": 101,
+      "source_in": 115,
+      "source_out": 216,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B11_GB009_04",
+      "start": 3112,
+      "end": 3136,
+      "duration": 24,
+      "source_in": 216,
+      "source_out": 240,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B11_GB009_05",
+      "start": 3136,
+      "end": 3184,
+      "duration": 48,
+      "source_in": 264,
+      "source_out": 311,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B12_GB010_01",
+      "start": 3184,
+      "end": 3518,
+      "duration": 334,
+      "source_in": 0,
+      "source_out": 334,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B13_GB011-1_01",
+      "start": 3518,
+      "end": 3710,
+      "duration": 192,
+      "source_in": 0,
+      "source_out": 192,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B13_GB011-1_02",
+      "start": 3710,
+      "end": 3752,
+      "duration": 42,
+      "source_in": 198,
+      "source_out": 239,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B14_GB011-2_01",
+      "start": 3752,
+      "end": 3891,
+      "duration": 139,
+      "source_in": 0,
+      "source_out": 139,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B15_GB012_01",
+      "start": 3891,
+      "end": 4179,
+      "duration": 288,
+      "source_in": 0,
+      "source_out": 288,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B16_GB013_01",
+      "start": 4179,
+      "end": 4467,
+      "duration": 288,
+      "source_in": 0,
+      "source_out": 288,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B16_GB013_02",
+      "start": 4467,
+      "end": 4481,
+      "duration": 14,
+      "source_in": 296,
+      "source_out": 310,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B17_GB014_01",
+      "start": 4481,
+      "end": 4553,
+      "duration": 72,
+      "source_in": 0,
+      "source_out": 72,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 1
+    },
+    {
+      "name": "B17_GB014_02",
+      "start": 4553,
+      "end": 4637,
+      "duration": 84,
+      "source_in": 72,
+      "source_out": 155,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B18_GB014A_01",
+      "start": 4637,
+      "end": 4932,
+      "duration": 295,
+      "source_in": 0,
+      "source_out": 294,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B19_GB015-1_01",
+      "start": 4932,
+      "end": 5044,
+      "duration": 112,
+      "source_in": 0,
+      "source_out": 112,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B19_GB015-1_02",
+      "start": 5044,
+      "end": 5188,
+      "duration": 144,
+      "source_in": 144,
+      "source_out": 287,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B20_GB015-2_01",
+      "start": 5188,
+      "end": 5284,
+      "duration": 96,
+      "source_in": 0,
+      "source_out": 95,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B21_GB016-1_01",
+      "start": 5284,
+      "end": 5428,
+      "duration": 144,
+      "source_in": 0,
+      "source_out": 144,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B21_GB016-1_02",
+      "start": 5428,
+      "end": 5555,
+      "duration": 127,
+      "source_in": 144,
+      "source_out": 270,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 1
+    },
+    {
+      "name": "B22_GB016-2_01",
+      "start": 5555,
+      "end": 5639,
+      "duration": 84,
+      "source_in": 0,
+      "source_out": 84,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B23_GB017_01",
+      "start": 5639,
+      "end": 5796,
+      "duration": 157,
+      "source_in": 0,
+      "source_out": 157,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B24_GB017R2_01",
+      "start": 5796,
+      "end": 6016,
+      "duration": 220,
+      "source_in": 34,
+      "source_out": 242,
+      "speed": {
+        "Percentage": 94.57
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B25_GB018_01",
+      "start": 6016,
+      "end": 6112,
+      "duration": 96,
+      "source_in": 54,
+      "source_out": 96,
+      "speed": {
+        "Percentage": 43.75
+      },
+      "fusion_count": 1
+    },
+    {
+      "name": "B25_GB018_02",
+      "start": 6112,
+      "end": 6363,
+      "duration": 251,
+      "source_in": 96,
+      "source_out": 346,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B26_GB019_01",
+      "start": 6363,
+      "end": 6720,
+      "duration": 357,
+      "source_in": 0,
+      "source_out": 357,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B27_GB020-1_01",
+      "start": 6720,
+      "end": 6780,
+      "duration": 60,
+      "source_in": 0,
+      "source_out": 42,
+      "speed": {
+        "Percentage": 70.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B27_GB020-1_02",
+      "start": 6780,
+      "end": 6877,
+      "duration": 97,
+      "source_in": 120,
+      "source_out": 174,
+      "speed": {
+        "Percentage": 56.11999999999999
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B28_GB020-1R2_01",
+      "start": 6877,
+      "end": 7117,
+      "duration": 240,
+      "source_in": 96,
+      "source_out": 293,
+      "speed": {
+        "Percentage": 82.16
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B29_GB020-2_01",
+      "start": 7117,
+      "end": 7251,
+      "duration": 134,
+      "source_in": 0,
+      "source_out": 133,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B30_GB021_01",
+      "start": 7251,
+      "end": 7287,
+      "duration": 36,
+      "source_in": 0,
+      "source_out": 36,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B30_GB021_02",
+      "start": 7287,
+      "end": 7404,
+      "duration": 117,
+      "source_in": 36,
+      "source_out": 153,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B30_GB021_03",
+      "start": 7404,
+      "end": 7529,
+      "duration": 125,
+      "source_in": 153,
+      "source_out": 277,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B31_GB022-1_01",
+      "start": 7529,
+      "end": 7757,
+      "duration": 228,
+      "source_in": 0,
+      "source_out": 228,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B31_GB022-1_02",
+      "start": 7757,
+      "end": 7793,
+      "duration": 36,
+      "source_in": 288,
+      "source_out": 323,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B32_GB022-2_01",
+      "start": 7793,
+      "end": 7913,
+      "duration": 120,
+      "source_in": 0,
+      "source_out": 119,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B33_GB023_01",
+      "start": 7913,
+      "end": 7949,
+      "duration": 36,
+      "source_in": 0,
+      "source_out": 36,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B33_GB023_02",
+      "start": 7949,
+      "end": 8165,
+      "duration": 216,
+      "source_in": 72,
+      "source_out": 288,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B34_GB024_01",
+      "start": 8165,
+      "end": 8499,
+      "duration": 334,
+      "source_in": 0,
+      "source_out": 333,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B35_GB025_01",
+      "start": 8499,
+      "end": 8547,
+      "duration": 48,
+      "source_in": 0,
+      "source_out": 48,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B35_GB025_02",
+      "start": 8547,
+      "end": 8595,
+      "duration": 48,
+      "source_in": 264,
+      "source_out": 312,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B35_GB025_03",
+      "start": 8595,
+      "end": 8730,
+      "duration": 135,
+      "source_in": 166,
+      "source_out": 255,
+      "speed": {
+        "Percentage": 65.92592592592592
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B35_GB025_04",
+      "start": 8730,
+      "end": 8811,
+      "duration": 81,
+      "source_in": 255,
+      "source_out": 336,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B36_GB026_01",
+      "start": 8811,
+      "end": 8859,
+      "duration": 48,
+      "source_in": 0,
+      "source_out": 48,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B36_GB026_02",
+      "start": 8859,
+      "end": 9075,
+      "duration": 216,
+      "source_in": 72,
+      "source_out": 287,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B37_GB027_01",
+      "start": 9075,
+      "end": 9267,
+      "duration": 192,
+      "source_in": 0,
+      "source_out": 192,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B37_GB027_02",
+      "start": 9267,
+      "end": 9416,
+      "duration": 149,
+      "source_in": 0,
+      "source_out": 149,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B38_GB028_01",
+      "start": 9416,
+      "end": 9572,
+      "duration": 156,
+      "source_in": 0,
+      "source_out": 156,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B38_GB028_02",
+      "start": 9572,
+      "end": 9614,
+      "duration": 42,
+      "source_in": 66,
+      "source_out": 108,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B38_GB028_03",
+      "start": 9614,
+      "end": 9758,
+      "duration": 144,
+      "source_in": 198,
+      "source_out": 340,
+      "speed": {
+        "Percentage": 98.62
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B39_GB029_01",
+      "start": 9758,
+      "end": 10036,
+      "duration": 278,
+      "source_in": 0,
+      "source_out": 278,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B40_GB030-1_01",
+      "start": 10036,
+      "end": 10357,
+      "duration": 321,
+      "source_in": 0,
+      "source_out": 320,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 1
+    },
+    {
+      "name": "B41_GB030-2_01",
+      "start": 10357,
+      "end": 10429,
+      "duration": 72,
+      "source_in": 12,
+      "source_out": 84,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B42_GB031_01",
+      "start": 10429,
+      "end": 10501,
+      "duration": 72,
+      "source_in": 0,
+      "source_out": 72,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B42_GB031_02",
+      "start": 10501,
+      "end": 10621,
+      "duration": 120,
+      "source_in": 216,
+      "source_out": 335,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 1
+    },
+    {
+      "name": "B43_GB032_01",
+      "start": 10621,
+      "end": 10729,
+      "duration": 108,
+      "source_in": 0,
+      "source_out": 108,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B43_GB032_02",
+      "start": 10729,
+      "end": 10775,
+      "duration": 46,
+      "source_in": 108,
+      "source_out": 154,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B43_GB032_03",
+      "start": 10775,
+      "end": 10840,
+      "duration": 65,
+      "source_in": 178,
+      "source_out": 242,
+      "speed": {
+        "Percentage": 100.0
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B44_GB033_01",
+      "start": 10840,
+      "end": 10906,
+      "duration": 66,
+      "source_in": 0,
+      "source_out": 102,
+      "speed": {
+        "Percentage": 156.06060606060606
+      },
+      "fusion_count": 0
+    },
+    {
+      "name": "B44_GB033_02",
+      "start": 10906,
+      "end": 11056,
+      "duration": 150,
+      "source_in": 103,
+      "source_out": 225,
+      "speed": {
+        "Percentage": 81.45
+      },
+      "fusion_count": 0
+    }
+  ],
+  "voice": [
+    {
+      "id": "VO-CY003-01",
+      "start": 235.0,
+      "end": 308.92,
+      "duration": 73.92,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\试音候选-v001\\VO-CY003-01__Xiaoyu__ja__v001-trialA.wav"
+    },
+    {
+      "id": "VO-CY003B-01",
+      "start": 396.0,
+      "end": 471.6654,
+      "duration": 75.6654,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY003B-01__Claude__ja__v005.wav"
+    },
+    {
+      "id": "VO-CY004-01",
+      "start": 516.0,
+      "end": 636.0,
+      "duration": 120.0,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\试音候选-v001\\VO-CY004-01__Cultist__ja__v001-trial.wav"
+    },
+    {
+      "id": "VO-CY004D-01",
+      "start": 790.0,
+      "end": 842.8,
+      "duration": 52.800000000000004,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\试音候选-v001\\VO-CY004D-01__GPT__ja__v001-candA.wav"
+    },
+    {
+      "id": "VO-CY006-01",
+      "start": 960.0,
+      "end": 1069.92,
+      "duration": 109.92,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\成品-v001\\干声\\VO-CY006-01__Xiaoyu__ja__v001.wav"
+    },
+    {
+      "id": "VO-CY007-01",
+      "start": 1097.0,
+      "end": 1179.32,
+      "duration": 82.32000000000001,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY007-01__GPT__ja__v004.wav"
+    },
+    {
+      "id": "VO-CY008-01",
+      "start": 1198.0,
+      "end": 1263.2794,
+      "duration": 65.2794,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY008-01__Xiaoyu__ja__v004.wav"
+    },
+    {
+      "id": "VO-CY008M-01",
+      "start": 1288.0,
+      "end": 1373.92,
+      "duration": 85.92,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\声音\\王宫内心戏-v001\\VO-CY008M-01__恶魔GPT__ja__v001.wav"
+    },
+    {
+      "id": "VO-CY008M-02",
+      "start": 1379.0,
+      "end": 1619.2394,
+      "duration": 240.23940000000002,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY008M-02__AngelGPT__ja__v004.wav"
+    },
+    {
+      "id": "VO-CY009-01",
+      "start": 1640.0,
+      "end": 1680.8,
+      "duration": 40.8,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\成品-v001\\干声\\VO-CY009-01__Xiaoyu__ja__v001.wav"
+    },
+    {
+      "id": "VO-CY010A-01",
+      "start": 1910.0,
+      "end": 1978.88,
+      "duration": 68.88,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY010A-01__Cultist__ja__v004.wav"
+    },
+    {
+      "id": "VO-CY015-01",
+      "start": 2320.0,
+      "end": 2358.88,
+      "duration": 38.88,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY015-01__Claude__ja__v004.wav"
+    },
+    {
+      "id": "VO-CY015-02",
+      "start": 2366.0,
+      "end": 2402.0,
+      "duration": 36.0,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\成品-v001\\干声\\VO-CY015-02__Xiaoyu__ja__v001.wav"
+    },
+    {
+      "id": "VO-CY016A-01",
+      "start": 2551.0,
+      "end": 2652.28,
+      "duration": 101.28,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY016A-01__Claude__ja__v004.wav"
+    },
+    {
+      "id": "VO-CY016A-02",
+      "start": 2659.0,
+      "end": 2739.6388,
+      "duration": 80.6388,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY016A-02__Xiaoyu__ja__v004.wav"
+    },
+    {
+      "id": "VO-CY016B1-01",
+      "start": 2795.0,
+      "end": 2828.12,
+      "duration": 33.12,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\成品-v001\\干声\\VO-CY016B1-01__Claude__ja__v001.wav"
+    },
+    {
+      "id": "VO-CY021A-01",
+      "start": 3292.0,
+      "end": 3443.2,
+      "duration": 151.2,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\试音候选-v001\\VO-CY021A-01__CultLeader__ja__v001-trial.wav"
+    },
+    {
+      "id": "VO-CY019-01",
+      "start": 3460.0,
+      "end": 3479.2,
+      "duration": 19.200000000000003,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\成品-v001\\干声\\VO-CY019-01__CultLeader__ja__v001.wav"
+    },
+    {
+      "id": "VO-CY020-01",
+      "start": 3542.0,
+      "end": 3605.3594,
+      "duration": 63.35940000000001,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY020-01__Claude__ja__v004.wav"
+    },
+    {
+      "id": "VO-CY021-01",
+      "start": 3752.0,
+      "end": 3851.12,
+      "duration": 99.12,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY021-01__Claude__ja__v004.wav"
+    },
+    {
+      "id": "VO-CY024-01",
+      "start": 4485.0,
+      "end": 4518.84,
+      "duration": 33.839999999999996,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY024-01__GPT__ja__v004.wav"
+    },
+    {
+      "id": "VO-CY024R-01",
+      "start": 4567.0,
+      "end": 4619.8,
+      "duration": 52.800000000000004,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY024R-01__Kimi__ja__v004.wav"
+    },
+    {
+      "id": "VO-CY024K0-01",
+      "start": 4733.0,
+      "end": 4821.8,
+      "duration": 88.80000000000001,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY024K0-01__Kimi__ja__v004.wav"
+    },
+    {
+      "id": "VO-CY024K0-02",
+      "start": 4822.0,
+      "end": 4917.5206,
+      "duration": 95.5206,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY024K0-02__Kimi__ja__v004.wav"
+    },
+    {
+      "id": "VO-CY024K1A-01",
+      "start": 5018.0,
+      "end": 5039.12,
+      "duration": 21.12,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v002\\干声\\VO-CY024K1A-01__Kimi__ja__v002-0.9s.wav"
+    },
+    {
+      "id": "VO-CY026A-01",
+      "start": 5430.0,
+      "end": 5473.68,
+      "duration": 43.68,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY026A-01__GPT__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY026A1-01",
+      "start": 5518.0,
+      "end": 5545.6006,
+      "duration": 27.6006,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY026A1-01__Qwen__ja__v004.wav"
+    },
+    {
+      "id": "VO-CY026B-01",
+      "start": 5557.0,
+      "end": 5580.52,
+      "duration": 23.52,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY026B-01__GPT__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY026B-02",
+      "start": 5588.0,
+      "end": 5617.52,
+      "duration": 29.52,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY026B-02__Gemini__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY026C-01",
+      "start": 5641.0,
+      "end": 5665.96,
+      "duration": 24.96,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY026C-01__GPT__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY026C-02",
+      "start": 5674.0,
+      "end": 5697.52,
+      "duration": 23.52,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY026C-02__Grok__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY026D1-01",
+      "start": 5737.0,
+      "end": 5793.1582,
+      "duration": 56.1582,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY026D1-01__GPT__ja__v005.wav"
+    },
+    {
+      "id": "VO-CY026D-01",
+      "start": 5801.0,
+      "end": 5972.8538,
+      "duration": 171.85379999999998,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY026D-01__GPT__ja__v005.wav"
+    },
+    {
+      "id": "VO-CY026D-02",
+      "start": 5980.0,
+      "end": 6013.5748,
+      "duration": 33.574799999999996,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY026D-02__Kimi__ja__v005.wav"
+    },
+    {
+      "id": "VO-CY026E-01",
+      "start": 6016.0,
+      "end": 6097.12,
+      "duration": 81.12,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY026E-01__GPT__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY024A0-01",
+      "start": 6114.0,
+      "end": 6145.53,
+      "duration": 31.53,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY024A0-01__Qwen__ja__v005.wav"
+    },
+    {
+      "id": "VO-CY024A-01",
+      "start": 6280.0,
+      "end": 6354.88,
+      "duration": 74.88,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A-01__GPT__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY024A9-01",
+      "start": 6363.0,
+      "end": 6540.4848,
+      "duration": 177.4848,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY024A9-01__GPT__ja__v005.wav"
+    },
+    {
+      "id": "VO-CY024A2-01",
+      "start": 6544.0,
+      "end": 6717.76,
+      "duration": 173.76,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A2-01__GPT__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY024A3-01",
+      "start": 6720.0,
+      "end": 6874.56,
+      "duration": 154.56,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A3-01__GPT__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY024A6-01",
+      "start": 6877.0,
+      "end": 6971.0788,
+      "duration": 94.0788,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A6-01__GPT__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY024A6-02",
+      "start": 6978.0,
+      "end": 7104.0858,
+      "duration": 126.08579999999999,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY024A6-02__GPT__ja__v005.wav"
+    },
+    {
+      "id": "VO-CY024A7-01",
+      "start": 7117.0,
+      "end": 7245.4,
+      "duration": 128.39999999999998,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A7-01__GPT__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY024A4-01",
+      "start": 7287.0,
+      "end": 7401.2394,
+      "duration": 114.23939999999999,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A4-01__GPT__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY024A8-01",
+      "start": 7404.0,
+      "end": 7528.32,
+      "duration": 124.32,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A8-01__GPT__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY024A5-01",
+      "start": 7529.0,
+      "end": 7692.6002,
+      "duration": 163.6002,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY024A5-01__GPT__ja__v005.wav"
+    },
+    {
+      "id": "VO-CY024A5-02",
+      "start": 7712.0,
+      "end": 7744.2212,
+      "duration": 32.221199999999996,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY024A5-02__GPT__ja__v005.wav"
+    },
+    {
+      "id": "VO-CY027A-01",
+      "start": 8167.0,
+      "end": 8233.96,
+      "duration": 66.96000000000001,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY027A-01__CultLeader__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY027B-01",
+      "start": 8287.0,
+      "end": 8309.32,
+      "duration": 22.32,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY027B-01__GPT__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY028A-01",
+      "start": 9269.0,
+      "end": 9306.92,
+      "duration": 37.92,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY028A-01__GPT__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY028A-02",
+      "start": 9334.0,
+      "end": 9370.24,
+      "duration": 36.24,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY028A-02__Claude__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY028A2-01",
+      "start": 9416.0,
+      "end": 9513.68,
+      "duration": 97.68,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY028A2-01__GPT__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY028B-01",
+      "start": 9516.0,
+      "end": 9560.4,
+      "duration": 44.400000000000006,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY028B-01__Claude__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY028C-01",
+      "start": 9572.0,
+      "end": 9613.28,
+      "duration": 41.28,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY028C-01__Claude__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY029-01",
+      "start": 9621.0,
+      "end": 9695.4,
+      "duration": 74.4,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY029-01__CultLeader__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY029E1-01",
+      "start": 9758.0,
+      "end": 9814.8794,
+      "duration": 56.879400000000004,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY029E1-01__Claude__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY029E2-01",
+      "start": 9823.0,
+      "end": 9886.36,
+      "duration": 63.36,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY029E2-01__Claude__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY029E3-01",
+      "start": 9889.0,
+      "end": 9930.52,
+      "duration": 41.519999999999996,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY029E3-01__Claude__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY029E4-01",
+      "start": 9961.0,
+      "end": 10023.64,
+      "duration": 62.64,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY029E4-01__Claude__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY029B1-01",
+      "start": 10036.0,
+      "end": 10059.76,
+      "duration": 23.759999999999998,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY029B1-01__Claude__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY028-01",
+      "start": 10376.0,
+      "end": 10397.12,
+      "duration": 21.12,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY028-01__GPT__ja__v003.wav"
+    },
+    {
+      "id": "VO-CY031A-01",
+      "start": 10645.0,
+      "end": 10687.72,
+      "duration": 42.72,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\成品-v001\\干声\\VO-CY031A-01__Xiaoyu__ja__v001.wav"
+    },
+    {
+      "id": "VO-CY031A-02",
+      "start": 10695.0,
+      "end": 10711.8,
+      "duration": 16.799999999999997,
+      "speed": {
+        "Percentage": 100.0,
+        "PitchCorrection": true
+      },
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY031A-02__Claude__ja__v003.wav"
+    }
+  ],
+  "music": [
+    {
+      "id": "M01",
+      "start": 120.0,
+      "end": 682.0,
+      "duration": 562.0,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演后期修正-v001\\声音\\M01-原速卡点-r2.wav"
+    },
+    {
+      "id": "M02",
+      "start": 682.0,
+      "end": 1910.0,
+      "duration": 1228.0,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演后期修正-v001\\声音\\M02-原速卡点-r2.wav"
+    },
+    {
+      "id": "M03",
+      "start": 1910.0,
+      "end": 2935.0,
+      "duration": 1025.0,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演后期修正-v001\\声音\\M03-原速卡点-r2.wav"
+    },
+    {
+      "id": "M04",
+      "start": 2935.0,
+      "end": 4275.0,
+      "duration": 1340.0,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演后期修正-v001\\声音\\M04-原速卡点-r2.wav"
+    },
+    {
+      "id": "M05",
+      "start": 4275.0,
+      "end": 4419.0,
+      "duration": 144.0,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演后期修正-v001\\声音\\M05-原速卡点-r2.wav"
+    },
+    {
+      "id": "M06",
+      "start": 4467.0,
+      "end": 4553.0,
+      "duration": 86.0,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演后期修正-v001\\声音\\M06-原速卡点-r2.wav"
+    },
+    {
+      "id": "M07",
+      "start": 4553.0,
+      "end": 5356.0,
+      "duration": 803.0,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演后期修正-v001\\声音\\M07-原速卡点-r2.wav"
+    },
+    {
+      "id": "M08",
+      "start": 5356.0,
+      "end": 5428.0,
+      "duration": 72.0,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演后期修正-v001\\声音\\M08-原速卡点-r2.wav"
+    },
+    {
+      "id": "M09",
+      "start": 6112.0,
+      "end": 7693.0,
+      "duration": 1581.0,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演后期修正-v001\\声音\\M09-原速卡点-r2.wav"
+    },
+    {
+      "id": "M10",
+      "start": 7712.0,
+      "end": 8021.0,
+      "duration": 309.0,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演后期修正-v001\\声音\\M10-原速卡点-r2.wav"
+    },
+    {
+      "id": "M11",
+      "start": 8331.0,
+      "end": 9027.0,
+      "duration": 696.0,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演后期修正-v001\\声音\\M11-原速卡点-r2.wav"
+    },
+    {
+      "id": "M12",
+      "start": 9758.0,
+      "end": 10309.0,
+      "duration": 551.0,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演后期修正-v001\\声音\\M12-原速卡点-r2.wav"
+    },
+    {
+      "id": "M13",
+      "start": 10501.0,
+      "end": 10960.0,
+      "duration": 459.0,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演后期修正-v001\\声音\\M13-原速卡点-r2.wav"
+    }
+  ]
+}

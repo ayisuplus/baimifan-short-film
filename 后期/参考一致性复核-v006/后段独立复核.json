@@ -1,0 +1,86 @@
+{
+  "reviewer": "independent reference_match_reaudit",
+  "date": "2026-10-28",
+  "scope": "B17 / B25 / B37 original reference fidelity; read-only media review; no Resolve changes",
+  "source_manifest": "视频制作/生成板-v025/展开数据.json",
+  "decision": "v009 cannot pass on 2D appearance alone; original reference scene and style fidelity fail",
+  "batches": [
+    {
+      "batch": "B17",
+      "stable_id": "GB014/CY024",
+      "original": "镜头设计/图像/目光与入场-v048/CY024-v048-r1.png",
+      "original_status": "v025 active composition reference; source status remains candidate awaiting author visual review",
+      "new_reference": "视频制作/Metaso-H3-v009/参考/group-2d-keyframe.png",
+      "actual_frame": "后期/二维动漫纠偏-v005/证据/native-group.png",
+      "prior_generated_frame": "视频制作/Metaso-H3-v007/参考/late-B17-group-original.png",
+      "confirmed": [
+        "原参考九人、夜间满月、远处尖塔、冷蓝天光与暖边光、湿亮石地。",
+        "v009 输入图仅八人：缺原图左侧第二位白发兽耳成员；背景已经是蓝天白云、日光、干燥废墟。",
+        "v009 成片抽帧延续白昼、干地；拱门上方玫瑰窗/断裂拱券代替原图高纵深门廊轴线。",
+        "旧 v007 取样回片本身已少白发成员，采用它重绘不能恢复原始九人信息。",
+        "风格由原图细密分层发丝、服装花纹、丰富冷暖边缘光，改成更大块硬影、更少细节；虽更平涂，不能算原片一致。"
+      ],
+      "uncertain": [
+        "单帧中被前排遮住的角色不直接判为在整条视频消失。",
+        "白发兽耳成员与 Llama 的名册对应有支持，但原图服装与角色卡亦有差异，不据此断言所有角色身份均正确。"
+      ],
+      "recommendation": "从真正 CY024 原文件重建该镜；锁九人、夜间满月、湿地和门轴线；不要再以旧回片作为唯一身份/场景基准。"
+    },
+    {
+      "batch": "B25",
+      "stable_id": "GB018/CY024A",
+      "original": "镜头设计/图像/末轮叙事优化-v035/CY024A-v035-r1.png",
+      "original_status": "v025 manifest says 2026-10-23 author confirmed current still; animation/audio not approved",
+      "new_reference": "视频制作/Metaso-H3-v009/参考/wing-2d-keyframe.png",
+      "actual_frame": "后期/二维动漫纠偏-v005/证据/native-wing-face.png",
+      "prior_generated_frame": "视频制作/Metaso-H3-v007/参考/late-B25-GPT-wing-original.png",
+      "confirmed": [
+        "原图以高密度竖向蓝色花窗围合，GPT 已离地、手掌上托、尾巴向画面右方卷起，四周有清晰水滴。",
+        "v009 参考改成落地前倾发力、翼面占满两角，背景沿用了旧回片双层侧廊/栏杆和成排侧吊灯；原图主要是高花窗和上方环灯。",
+        "原图的水滴意象在 v009 参考中变成白色纸片状飘物，实际抽帧也没有原有显著水滴；造成咏唱法术表达减弱。",
+        "v009 实际帧进一步简化发型、头侧花饰、身上细纹及裙片层次；额头两侧白色轮廓不清，无法凭该一帧确认双角持续存在。",
+        "不能把缺少祭坛木架当 B25 原参考错误：此张原分镜自身也未展示木架。"
+      ],
+      "uncertain": [
+        "起跳前倾姿势是先前修动作要求，不将姿势改变本身定性剧情错误。",
+        "单张原图不能精确反推整个教堂平面，因此空间不一致证实到可见立面/花窗/侧廊层级，不夸大为完整建筑模型冲突。"
+      ],
+      "recommendation": "保留起跳动作目的，但重新绑定 CY024A 原图的蓝窗空间、环灯、白色龙角/尾巴/衣饰及悬浮水滴；镜头运动不以旧回片双层走廊为默认。"
+    },
+    {
+      "batch": "B37",
+      "stable_id": "GB027/CY028A bridge to GB028/CY028A2",
+      "original": [
+        "镜头设计/图像/关键动作-v062/CY028A-v062-r1.png",
+        "镜头设计/图像/目光与入场-v048/CY028A-v048-r1.png",
+        "镜头设计/图像/目光与入场-v048/CY028A2-v048-r1.png"
+      ],
+      "new_reference": "视频制作/Metaso-H3-v009/参考/stairs-2d-keyframe.png",
+      "actual_frame": "后期/二维动漫纠偏-v005/证据/native-stairs.png",
+      "prior_generated_frame": "后期/截图定点修正-v004/证据/native-stair-bridge.png",
+      "confirmed": [
+        "原参考起段为最高处木刑架、中央蓝窗破洞及两侧完整蓝窗；地面积水反光，GPT 扶住烧损裙装的 Claude，Kimi 位于左后。",
+        "原下方反打为千问抱小鱼，背后湿亮地面、细高柱与碎屑；v009 过桥镜换成干燥粗砌宽阶、厚石墙/基座，水后反射与窗光消失。",
+        "四人高低差关系本身可服务过渡，但这个全新阶梯空间没有直接对应的原始单镜母图；旧过桥回片的空间被再度平涂继承。",
+        "v009 把原 Claude 不规则烧损、脏污边缘简化成整齐黑色花边式条带；原细密脆弱感改成规整服装。",
+        "GPT 尖耳和侧辫原参考已有，不应把这些误报为新增精灵身份；但新帧裁切看不到角翼，不能仅据裁切判消失。"
+      ],
+      "uncertain": [
+        "原参考不展示完整阶梯宽度与台阶总数，因此无法证明每一级台阶数量都错；能证实的是可见材质、照明和战后积水连续性不匹配。",
+        "此桥接镜是修过渡新设计，不应简单按原近景要求一模一样构图；需从原空间建立可解释方位。"
+      ],
+      "recommendation": "保留看向下方的小鱼的叙事目的，重新依据原祭坛/蓝窗/湿地设计过肩反打，不再沿用干石楼梯回片。"
+    }
+  ],
+  "fourview_assessment": {
+    "inspected": [
+      "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+      "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+      "资产/图像/四视图复用/C10_Meta-角色设定卡.png",
+      "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png"
+    ],
+    "finding": "所看四套均为有轮廓线的二维角色插画/设定卡。Claude 细节和柔光较多，但不能据此称为 3D 模型渲染。",
+    "causality": "没有四视图导致 3D 的受控因果证据。v009 已只用重绘图+音频，错误仍在输入图中；继承旧回片错误是可见证据，不是引擎内部机理证明。"
+  },
+  "limits": "原参考和实际证据帧已逐张实看；本报告不声称完整视频逐帧、口型或音频验收通过。"
+}

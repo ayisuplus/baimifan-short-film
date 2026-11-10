@@ -1,0 +1,401 @@
+{
+  "title": "《穿云》资产图册 · v0.3",
+  "scope": "重要角色优先四视图，原母本优先；新增混元与 Llama / Meta 复用卡，用于本轮召集分屏。原角色、设定卡和历史图册保留。",
+  "assets": [
+    {
+      "id": "CHAR-CLAUDE",
+      "name": "Claude · 四向全身参考",
+      "category": "主角",
+      "version": "v001 · 四视图",
+      "status": "候选待作者审阅",
+      "path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+      "role": "橙发圣女的正面、两侧与背面全身；母版负责身份与服装，前版设定板辅助下裙和鞋的连续性。",
+      "limits": "侧背、下裙与鞋含补全；同一自然站姿的四向参考，不作为精确工程正交图。",
+      "source": "资产/生成记录/CHAR-CLAUDE-TURN-v001.json",
+      "related": [
+        {
+          "path": "概念参考/01-Claude-母版概念参考.webp",
+          "role": "身份与服装原始依据"
+        },
+        {
+          "path": "资产/图像/CHAR-CLAUDE-v001.png",
+          "role": "上一版形象参考：保留原件"
+        },
+        {
+          "path": "资产/生成记录/CHAR-CLAUDE-v001.json",
+          "role": "上一版来源记录"
+        },
+        {
+          "path": "AGENTS.md",
+          "role": "本项目角色四视图规范"
+        }
+      ]
+    },
+    {
+      "id": "CHAR-DEEPSEEK",
+      "name": "DeepSeek · 母本宝宝四向全身",
+      "category": "主角",
+      "version": "v003 · 四视图",
+      "status": "候选待作者审阅",
+      "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+      "role": "原始捧饭母本优先：保留脸、头身比例、蓝发蓝眼、鲸帽和宝宝感；穿搭卡只辅助衣服细节。",
+      "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+      "source": "资产/生成记录/CHAR-DEEPSEEK-TURN-v003.json",
+      "related": [
+        {
+          "path": "资产/图像/CHAR-DEEPSEEK_服装母版.png",
+          "role": "上一版形象参考：保留原件"
+        },
+        {
+          "path": "资产/复用来源.json",
+          "role": "上一版来源记录"
+        },
+        {
+          "path": "AGENTS.md",
+          "role": "本项目角色四视图规范"
+        },
+        {
+          "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+          "role": "本轮作者指定最高优先母本"
+        },
+        {
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v001.png",
+          "role": "历史 v001：帽尾重复，已局部修订"
+        },
+        {
+          "path": "资产/生成记录/CHAR-DEEPSEEK-TURN-v001.json",
+          "role": "四视图初版调用记录"
+        },
+        {
+          "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v002.png",
+          "role": "历史 v002：后帽尾侧面缺失"
+        },
+        {
+          "path": "资产/生成记录/CHAR-DEEPSEEK-TURN-v002.json",
+          "role": "第一次局部修订记录"
+        }
+      ]
+    },
+    {
+      "id": "CHAR-GPT",
+      "name": "ChatGPT · 白龙娘四向全身",
+      "category": "主角",
+      "version": "v001 · 四视图",
+      "status": "候选待作者审阅",
+      "path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+      "role": "以作者白龙娘原截图为身份依据，呈现正面、两侧和背面全身；原净版辅助遮挡部分。",
+      "limits": "两侧躯干略带斜角。开衩与腿饰以原图/正面图的角色右腿为准，不按对称读取；尾巴弯曲是姿态参考，侧背含补全。",
+      "source": "资产/生成记录/CHAR-GPT-TURN-v001.json",
+      "related": [
+        {
+          "path": "概念参考/04-ChatGPT-用户指定龙娘.png",
+          "role": "作者本轮指定的主要形象参考"
+        },
+        {
+          "path": "资产/图像/CHAR-GPT-v001.png",
+          "role": "历史 v001：轮廓有杂色，保留追溯"
+        },
+        {
+          "path": "资产/生成记录/CHAR-GPT-v001.json",
+          "role": "首版调用记录"
+        },
+        {
+          "path": "资产/图像/CHAR-GPT-v002.png",
+          "role": "历史 v002：透明边缘仍有杂色"
+        },
+        {
+          "path": "资产/生成记录/CHAR-GPT-v002.json",
+          "role": "第二版调用记录"
+        },
+        {
+          "path": "资产/图像/CHAR-GPT-v003.png",
+          "role": "上一版形象参考：保留原件"
+        },
+        {
+          "path": "资产/生成记录/CHAR-GPT-v003.json",
+          "role": "上一版来源记录"
+        },
+        {
+          "path": "AGENTS.md",
+          "role": "本项目角色四视图规范"
+        },
+        {
+          "path": "镜头设计/图像/战斗形态-白紫水龙与黑金鸦翼-v008.png",
+          "role": "战斗形态概念候选：白紫水龙（左）；黑金人形鸦翼（右）。不是四视图，不替换人形母版，待作者审阅。"
+        }
+      ]
+    },
+    {
+      "id": "ENV-STREET",
+      "name": "街市 · 阳光与长椅",
+      "category": "场景",
+      "version": "v001",
+      "status": "候选待作者审阅",
+      "path": "资产/图像/ENV-STREET-v001.png",
+      "role": "S01 相遇与 S06 分饭的环境母版；暖阳、蓝白棚布、开放通道、长椅与远处教堂。",
+      "limits": "原图被遮挡的空间、长椅和教堂外观为本版提案；非原图无损净版，人物尺度及教堂内外衔接待分镜验证。",
+      "source": "资产/生成记录/ENV-STREET-v001.json",
+      "related": []
+    },
+    {
+      "id": "ENV-PALACE",
+      "name": "宫殿 · 独座与高台",
+      "category": "场景",
+      "version": "v001",
+      "status": "候选待作者审阅",
+      "path": "资产/图像/ENV-PALACE-v001.png",
+      "role": "S02 求助与 S05 信号回闪的环境母版；一个座位、空旷大厅、侧边露台。",
+      "limits": "完整宫殿为新候选；椅子供龙翼与尾巴的实际坐姿、入口反向及露台角度尚待验证。",
+      "source": "资产/生成记录/ENV-PALACE-v001.json",
+      "related": []
+    },
+    {
+      "id": "ENV-CHURCH",
+      "name": "教堂 · 祭坛与侧墙洞口",
+      "category": "场景",
+      "version": "v001",
+      "status": "候选待作者审阅",
+      "path": "资产/图像/ENV-CHURCH-v001.png",
+      "role": "S03—S05 场景母版：侧墙低洞、长椅、中央通道、祭坛、十字架、未燃柴薪和水盆。",
+      "limits": "当前单视点；大门位于镜头后方，反向视角未制作。狗洞与鲸帽、十字架与 Claude 的尺度及火焰状态待分镜确认。",
+      "source": "资产/生成记录/ENV-CHURCH-v001.json",
+      "related": []
+    },
+    {
+      "id": "CHAR-PRIEST",
+      "name": "教主 · 黑金礼服",
+      "category": "配角",
+      "version": "v001",
+      "status": "候选待作者审阅",
+      "path": "资产/图像/CHAR-PRIEST-v001.png",
+      "role": "虚构父亲角色的全身与肖像，持未点燃火把；属于同一黑袍教会。",
+      "limits": "新创作候选，无现实人物相貌依据；服饰、年龄与面容尚待作者采用。",
+      "source": "资产/生成记录/CHAR-PRIEST-v001.json",
+      "related": [
+        {
+          "path": "镜头设计/图像/战斗形态-白紫水龙与黑金鸦翼-v008.png",
+          "role": "战斗形态概念候选：白紫水龙（左）；黑金人形鸦翼（右）。不是四视图，不替换人形母版，待作者审阅。"
+        }
+      ]
+    },
+    {
+      "id": "CHAR-CULTIST",
+      "name": "教徒 · 黑袍正背参考",
+      "category": "配角",
+      "version": "v001",
+      "status": "候选待作者审阅",
+      "path": "资产/图像/CHAR-CULTIST-v001.png",
+      "role": "依据母版黑袍群体补全的一套通用正背造型，可供不同教徒复用。",
+      "limits": "背面与下身含补全；不是已验证的角色群体动态或战斗动作。",
+      "source": "资产/生成记录/CHAR-CULTIST-v001.json",
+      "related": []
+    },
+    {
+      "id": "MULKZI2WM2FEL",
+      "name": "Grok · Eagle 四方向设定卡",
+      "category": "援军参考",
+      "version": "Eagle 原件",
+      "status": "作者指定复用",
+      "path": "资产/图像/四视图复用/C09_Grok-角色设定卡.png",
+      "role": "复用 Eagle 已有同造型角色设定卡，含四方向全身、表情及细节；对应原立绘保留在附属参考。",
+      "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+      "source": "资产/四视图复用来源-v002.json",
+      "related": [
+        {
+          "path": "资产/图像/C09_Grok.png",
+          "role": "上一版形象参考：保留原件"
+        },
+        {
+          "path": "资产/复用来源.json",
+          "role": "上一版来源记录"
+        }
+      ]
+    },
+    {
+      "id": "MULKZI2WI4VGS",
+      "name": "Mistral · Eagle 四方向设定卡",
+      "category": "援军参考",
+      "version": "Eagle 原件",
+      "status": "作者指定复用",
+      "path": "资产/图像/四视图复用/C08_Mistral-角色设定卡.png",
+      "role": "复用 Eagle 已有同造型角色设定卡，含四方向全身、表情及细节；对应原立绘保留在附属参考。",
+      "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+      "source": "资产/四视图复用来源-v002.json",
+      "related": [
+        {
+          "path": "资产/图像/C08_Mistral.png",
+          "role": "上一版形象参考：保留原件"
+        },
+        {
+          "path": "资产/复用来源.json",
+          "role": "上一版来源记录"
+        }
+      ]
+    },
+    {
+      "id": "MULKZI2W3JZ5F",
+      "name": "Perplexity · Eagle 四方向设定卡",
+      "category": "援军参考",
+      "version": "Eagle 原件",
+      "status": "作者指定复用",
+      "path": "资产/图像/四视图复用/C07_Perplexity-角色设定卡.png",
+      "role": "复用 Eagle 已有同造型角色设定卡，含四方向全身、表情及细节；对应原立绘保留在附属参考。",
+      "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+      "source": "资产/四视图复用来源-v002.json",
+      "related": [
+        {
+          "path": "资产/图像/C07_Perplexity.png",
+          "role": "上一版形象参考：保留原件"
+        },
+        {
+          "path": "资产/复用来源.json",
+          "role": "上一版来源记录"
+        }
+      ]
+    },
+    {
+      "id": "MULKZI2W8B4P3",
+      "name": "Gemini · Eagle 四方向设定卡",
+      "category": "援军参考",
+      "version": "Eagle 原件",
+      "status": "作者指定复用",
+      "path": "资产/图像/四视图复用/C06_Gemini-角色设定卡.png",
+      "role": "复用 Eagle 已有同造型角色设定卡，含四方向全身、表情及细节；对应原立绘保留在附属参考。",
+      "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+      "source": "资产/四视图复用来源-v002.json",
+      "related": [
+        {
+          "path": "资产/图像/C06_Gemini.png",
+          "role": "上一版形象参考：保留原件"
+        },
+        {
+          "path": "资产/复用来源.json",
+          "role": "上一版来源记录"
+        }
+      ]
+    },
+    {
+      "id": "MULKZI2WQUZ98",
+      "name": "Zai-GLM · Eagle 四方向设定卡",
+      "category": "援军参考",
+      "version": "Eagle 原件",
+      "status": "作者指定复用",
+      "path": "资产/图像/四视图复用/C05_Zai-GLM-角色设定卡.png",
+      "role": "复用 Eagle 已有同造型角色设定卡，含四方向全身、表情及细节；对应原立绘保留在附属参考。",
+      "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+      "source": "资产/四视图复用来源-v002.json",
+      "related": [
+        {
+          "path": "资产/图像/C05_Zai-GLM.png",
+          "role": "上一版形象参考：保留原件"
+        },
+        {
+          "path": "资产/复用来源.json",
+          "role": "上一版来源记录"
+        }
+      ]
+    },
+    {
+      "id": "MULKZI2W5366M",
+      "name": "Qwen · Eagle 四方向设定卡",
+      "category": "援军参考",
+      "version": "Eagle 原件",
+      "status": "作者指定复用",
+      "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+      "role": "复用 Eagle 已有同造型角色设定卡，含四方向全身、表情及细节；对应原立绘保留在附属参考。",
+      "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+      "source": "资产/四视图复用来源-v002.json",
+      "related": [
+        {
+          "path": "资产/图像/C04_Qwen.png",
+          "role": "上一版形象参考：保留原件"
+        },
+        {
+          "path": "资产/复用来源.json",
+          "role": "上一版来源记录"
+        }
+      ]
+    },
+    {
+      "id": "MULKZI2WMFNJE",
+      "name": "Kimi · Eagle 四方向设定卡",
+      "category": "援军参考",
+      "version": "Eagle 原件",
+      "status": "作者指定复用",
+      "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+      "role": "复用 Eagle 已有同造型角色设定卡，含四方向全身、表情及细节；对应原立绘保留在附属参考。",
+      "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+      "source": "资产/四视图复用来源-v002.json",
+      "related": [
+        {
+          "path": "资产/图像/C03_Kimi.png",
+          "role": "上一版形象参考：保留原件"
+        },
+        {
+          "path": "资产/复用来源.json",
+          "role": "上一版来源记录"
+        }
+      ]
+    },
+    {
+      "id": "REF-CLAUDE",
+      "name": "母版概念 · Claude 与黑袍人群",
+      "category": "概念参考",
+      "version": "原件",
+      "status": "作者指定母版",
+      "path": "概念参考/01-Claude-母版概念参考.webp",
+      "role": "作者指定：Claude 身份、服装色彩及哥特式画面氛围。",
+      "limits": "原图只展示局部人物；裙身、背面及完整教堂结构需要补全候选。",
+      "source": "制作进度.md",
+      "related": []
+    },
+    {
+      "id": "REF-STREET",
+      "name": "母版概念 · 阳光街市与小鱼",
+      "category": "概念参考",
+      "version": "原件",
+      "status": "作者指定母版",
+      "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+      "role": "作者指定：街市光影、DeepSeek 身份、体态与捧饭道具关系。",
+      "limits": "黑袍遮挡区域不可见；饭盆与小鱼的接触仅是静态参考，未完成动作验证。",
+      "source": "制作进度.md",
+      "related": []
+    },
+    {
+      "id": "MULKZI2W35NQQ",
+      "name": "混元 Hunyuan · Eagle 四方向设定卡",
+      "category": "援军参考",
+      "version": "Eagle 原件",
+      "status": "按作者复用要求加入本轮分镜候选",
+      "path": "资产/图像/四视图复用/C16_Tencent-Hunyuan-角色设定卡.png",
+      "role": "召集快闪中的回应角色；复用既有四向全身、表情与细节。",
+      "limits": "Eagle 原名称保留。 原卡侧视略有斜角，合景与响应动作仍为创作候选。",
+      "source": "资产/四视图复用来源-v003.json",
+      "related": [
+        {
+          "path": "资产/图像/C16_Tencent-Hunyuan.png",
+          "role": "原始立绘，身份与服装依据"
+        }
+      ]
+    },
+    {
+      "id": "MULKZI2WY07S2",
+      "name": "Llama / Meta · Eagle 四方向设定卡",
+      "category": "援军参考",
+      "version": "Eagle 原件",
+      "status": "按作者复用要求加入本轮分镜候选",
+      "path": "资产/图像/四视图复用/C10_Meta-角色设定卡.png",
+      "role": "召集快闪中的回应角色；复用既有四向全身、表情与细节。",
+      "limits": "本片 Llama 出场沿用 Eagle 名为 C10_Meta 的羊驼耳角色卡；称呼映射为本轮制作候选，不重命名 Eagle 原件。 原卡侧视略有斜角，合景与响应动作仍为创作候选。",
+      "source": "资产/四视图复用来源-v003.json",
+      "related": [
+        {
+          "path": "资产/图像/C10_Meta.png",
+          "role": "原始立绘，身份与服装依据"
+        }
+      ]
+    }
+  ],
+  "sound_manifest": "资产/生成记录/声音候选-v011.json",
+  "voice_auditions": "资产/生成记录/主角试音-v007.json"
+}

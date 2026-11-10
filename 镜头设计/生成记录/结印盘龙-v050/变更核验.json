@@ -1,0 +1,70 @@
+{
+  "shots": 131,
+  "seconds": 431.5,
+  "images": [
+    {
+      "id": "CY024A6",
+      "before": "镜头设计/图像/苍龙雷渊-v031/CY024A6-v031-r1.png",
+      "after": "镜头设计/图像/结印盘龙-v050/CY024A6-v050-r1.png",
+      "sha256": "7d47a428f4731958e5ff81d617dcaf42ae7d40c2f5234d3aa312c32f0d9b70ae"
+    },
+    {
+      "id": "CY024A5",
+      "before": "镜头设计/图像/三点定流-v047/CY024A5-v047-r1.png",
+      "after": "镜头设计/图像/结印盘龙-v050/CY024A5-v050-r1.png",
+      "sha256": "6803e430ea8a1dac186112c7dcb7dfa5eb0381d22803705b0fac109fe03c8b0a"
+    },
+    {
+      "id": "CY024A7",
+      "before": "镜头设计/图像/苍龙雷渊-v031/CY024A6-v031-r1.png",
+      "after": "镜头设计/图像/结印盘龙-v050/CY024A7-v050-r1.png",
+      "sha256": "386d1761cb45fa4021bf86413d03f774e6e68104cfbe9515f7bf8e8e4ccd3ff0"
+    },
+    {
+      "id": "CY024A5B",
+      "before": "镜头设计/图像/三点定流-v047/CY024A5B-v047-r1.png",
+      "after": "镜头设计/图像/结印盘龙-v050/CY024A5B-v050-r1.png",
+      "sha256": "218648e0da3da70210e9b6f04aa358cc08baf74812e7af3fa8405508e0d263af"
+    },
+    {
+      "id": "CY024A5A",
+      "before": "镜头设计/图像/三点定流-v047/CY024A5A-v047-r2.png",
+      "after": "镜头设计/图像/结印盘龙-v050/CY024A5A-v050-r1.png",
+      "sha256": "debcc0b92c7751ddbe6d1f5f559761cc3180625e1de054be6a5390391b7ac05e"
+    },
+    {
+      "id": "CY024B",
+      "before": "镜头设计/图像/三点定流-v047/CY024B-v047-r2.png",
+      "after": "镜头设计/图像/结印盘龙-v050/CY024B-v050-r2.png",
+      "sha256": "9800a16cc1edadbdd2a8629fe768fcf7df8f317b6acd21ba283bf3ba687cb612"
+    }
+  ],
+  "moved_id": "CY024A5A",
+  "music": "seven_author_selections_unchanged",
+  "dialogue_audio": "existing_clips_unchanged_new_chant_unrecorded",
+  "source_quotes": "all_matched",
+  "subtitles": "within_budget_not_actual_voice_review",
+  "timeline": [
+    {
+      "id": "CY024A5A",
+      "before": 283.5,
+      "after": 267.5
+    },
+    {
+      "id": "CY024A4",
+      "before": 267.5,
+      "after": 269.0
+    },
+    {
+      "id": "CY024A8",
+      "before": 271.5,
+      "after": 273.0
+    },
+    {
+      "id": "CY024A5",
+      "before": 275.5,
+      "after": 277.0
+    }
+  ],
+  "dynamic_validation": "pending"
+}

@@ -1,0 +1,92 @@
+{
+  "status": "completed",
+  "method": "unprompted Scribe v2 Japanese; no expected text or keyterms",
+  "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\声音\\缺口补齐-v008\\VO-CY028B-01__Claude-r3.mp3",
+  "source_sha256": "97e26a8d1cd72a3c9c8aa775e7abbb825daebd38ab696f84fc0b1dfe1b825568",
+  "response": {
+    "language_code": "jpn",
+    "language_probability": 1.0,
+    "text": "灰に眠る微かな秘訣よ。",
+    "words": [
+      {
+        "text": "灰",
+        "start": 0.26,
+        "end": 0.42,
+        "type": "word",
+        "logprob": -0.055530380457639694
+      },
+      {
+        "text": "に",
+        "start": 0.42,
+        "end": 0.54,
+        "type": "word",
+        "logprob": -5.8412379075889476e-06
+      },
+      {
+        "text": "眠",
+        "start": 0.54,
+        "end": 0.8,
+        "type": "word",
+        "logprob": -3.862306402879767e-05
+      },
+      {
+        "text": "る",
+        "start": 0.8,
+        "end": 1.08,
+        "type": "word",
+        "logprob": -3.45700973412022e-05
+      },
+      {
+        "text": "微",
+        "start": 1.08,
+        "end": 1.32,
+        "type": "word",
+        "logprob": -0.3307077884674072
+      },
+      {
+        "text": "か",
+        "start": 1.38,
+        "end": 1.42,
+        "type": "word",
+        "logprob": -0.006123353261500597
+      },
+      {
+        "text": "な",
+        "start": 1.48,
+        "end": 1.56,
+        "type": "word",
+        "logprob": -0.006123353261500597
+      },
+      {
+        "text": "秘",
+        "start": 1.56,
+        "end": 1.72,
+        "type": "word",
+        "logprob": -1.1650866270065308
+      },
+      {
+        "text": "訣",
+        "start": 1.72,
+        "end": 1.84,
+        "type": "word",
+        "logprob": -1.057584285736084
+      },
+      {
+        "text": "よ",
+        "start": 1.84,
+        "end": 1.96,
+        "type": "word",
+        "logprob": -1.0013530300057027e-05
+      },
+      {
+        "text": "。",
+        "start": 1.96,
+        "end": 1.96,
+        "type": "word",
+        "logprob": -0.20141391456127167
+      }
+    ],
+    "transcription_id": "fOOe1lqgvcKBzGCL4UR1",
+    "audio_duration_secs": 2.229125
+  }
+}

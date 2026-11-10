@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115189152790274048",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "Claude转头望向木架",
+    "status": "succeeded",
+    "created_at": 1793135367,
+    "updated_at": 1793135380,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115189152790274048/content?expires=1793740487&signature=8197300635e92f5e67eb6b0e02a54486055fbca2f7a84d01e29e324c044b4455"
+    },
+    "resolution": "768P",
+    "duration": 4,
+    "usage": {
+      "total_seconds": 4,
+      "input_seconds": 0,
+      "output_seconds": 4,
+      "input_image_count": 1
+    },
+    "ratio": "adaptive",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

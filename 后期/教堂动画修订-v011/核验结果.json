@@ -1,0 +1,19 @@
+{
+  "timeline": "v011_Church_Animation_Repair",
+  "frames": 10154,
+  "fps": 24,
+  "picture_clips": 126,
+  "active_dialogue": 54,
+  "subtitle_cues": 56,
+  "music_stem_clips": 21,
+  "baseline_all_tracks_exact": true,
+  "errors": [],
+  "passed": true,
+  "voice_sources_hash_verified": true,
+  "plan_sha256": "6073af51184d31d128fd49c42c19ed5eff218567a4a0928fab011db318cccde8",
+  "saved": true,
+  "exported_film_or_project": false,
+  "continuous_viewing_accepted": false,
+  "exact_lipsync_accepted": false,
+  "author_final_accepted": false
+}

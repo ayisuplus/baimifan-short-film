@@ -1,0 +1,103 @@
+{
+  "result": {
+    "timeline": "v005_2D_Anime_Fixes",
+    "frames": 11497,
+    "clips": 121,
+    "audio_unchanged": true,
+    "audio_items": 85,
+    "replacements": [
+      {
+        "name": "B07_v005_2D_2126",
+        "start": 2126,
+        "end": 2174,
+        "source_in": 36,
+        "source_out": 84,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B17_v005_2D_4778",
+        "start": 4778,
+        "end": 4838,
+        "source_in": 24,
+        "source_out": 84,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B25_v005_2D_6476",
+        "start": 6476,
+        "end": 6560,
+        "source_in": 0,
+        "source_out": 84,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B25_v005_2D_6560",
+        "start": 6560,
+        "end": 6578,
+        "source_in": 84,
+        "source_out": 102,
+        "props": {
+          "ZoomX": 2.4705882352941178,
+          "ZoomY": 2.4705882352941178,
+          "Pan": 988.2352941176471,
+          "Tilt": -558.7058823529412
+        }
+      },
+      {
+        "name": "B25_v005_2D_6578",
+        "start": 6578,
+        "end": 6628,
+        "source_in": 102,
+        "source_out": 152,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B25_v005_2D_6628",
+        "start": 6628,
+        "end": 6650,
+        "source_in": 162,
+        "source_out": 184,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      },
+      {
+        "name": "B37_v005_2D_9699",
+        "start": 9699,
+        "end": 9781,
+        "source_in": 0,
+        "source_out": 82,
+        "props": {
+          "ZoomX": 1,
+          "ZoomY": 1,
+          "Pan": 0,
+          "Tilt": 0
+        }
+      }
+    ],
+    "save": true
+  }
+}

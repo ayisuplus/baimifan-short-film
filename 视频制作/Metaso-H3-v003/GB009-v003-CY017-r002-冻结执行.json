@@ -1,0 +1,55 @@
+{
+  "batch": {
+    "batch_number": 11,
+    "batch_id": "GB009",
+    "attempt_id": "GB009-v003-CY017-r002",
+    "title": "抓柴与受阻",
+    "shot_ids": [
+      "CY017"
+    ],
+    "film_start": 129.572729,
+    "part_offset": 2,
+    "used_seconds": 5,
+    "duration": 5,
+    "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。固定首帧，固定低机位，5秒单镜。只有前景小鱼和抱木教徒，后方是空台阶。0–1秒教徒用空着的手从肩侧轻推小鱼一次，另一臂始终托同一根木。1–3秒小鱼被推得松开木头，退半步后半跪，一手撑地。3–5秒她留在原处，教徒携木向画面左侧移出，镜头留在孩子身上。上阶路程用下一镜省略，背景始终保持首帧建筑。",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/Metaso-H3-v003/修订参考/CY017-r002-净空推前起态.png",
+        "sha256": "e0697893645e9e5b5be14cf6da088fe66b74f11adce82b8ff4c3de4f039b86a5",
+        "role": "first_frame"
+      }
+    ],
+    "estimated_credits": 51.0,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "推肩接触、松木、半跪撑地已发生，4.1667前无自由Claude；但3.25秒起背景明确又出现正面朝镜头的搬柴下行者，与上阶运木矛盾。4.5秒再出现自由白裙橙发人物。更早裁掉无法同时完整保留落地后状态并清除逆向人物。",
+    "repair_of": {
+      "author_rejected_version": "v002",
+      "batch_id": "GB009"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json",
+    "mode": "first_frame"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。固定首帧，固定低机位，5秒单镜。只有前景小鱼和抱木教徒，后方是空台阶。0–1秒教徒用空着的手从肩侧轻推小鱼一次，另一臂始终托同一根木。1–3秒小鱼被推得松开木头，退半步后半跪，一手撑地。3–5秒她留在原处，教徒携木向画面左侧移出，镜头留在孩子身上。上阶路程用下一镜省略，背景始终保持首帧建筑。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115191809988812800"
+        },
+        "role": "first_frame"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 5,
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者要求修复第6、11、20、21、39批剧情与空间错误，沿用已授权Metaso H3积分；40仅必要接头。无充值。"
+}

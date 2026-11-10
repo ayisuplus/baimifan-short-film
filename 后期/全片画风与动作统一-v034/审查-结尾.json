@@ -1,0 +1,38 @@
+{
+  "scope": "114–118 existed at start; 119 excluded",
+  "method": "full-image visual review plus 116 hand crop; no GPU",
+  "rows": [
+    {
+      "id": "114",
+      "decision": "pass",
+      "evidence": "小鱼单人左坐，金属饭碗明确，右侧留空供115落座。暖昼光、干净衣服符合数日后。"
+    },
+    {
+      "id": "115",
+      "decision": "repair",
+      "evidence": "右边出现第二名相同白橙裙成人的半身与腿；主Claude头顶被裁。不能作为唯一Claude落座起点。",
+      "repair": "115-key-r2：删画右重复人，扩构图见主Claude头脚；仍站立备坐。"
+    },
+    {
+      "id": "116",
+      "decision": "repair",
+      "evidence": "图为完整双人而非手部；手部放大见小鱼握柄、成人已夹住勺头，交换方向反了。",
+      "repair": "116-key-r2：手部近景，勺头左/柄右，小鱼握颈，成人张手在自由柄旁尚未接触。"
+    },
+    {
+      "id": "117",
+      "decision": "pass",
+      "evidence": "两位旁观者清楚，白发龙角/膜翼正确。已有金属碗是此镜原道具，不冒充孩子传递中的那只碗。膜翼比提示中展开些但正常静置，可保持姿态不强制重画。"
+    },
+    {
+      "id": "118",
+      "decision": "pass",
+      "evidence": "单一银色勺及少量米饭在唇下，手/唇连续，可作吃一口起点。眼睛在裁外，不要求静帧已完成笑容；运动改为吞咽后唇角放松。"
+    },
+    {
+      "id": "119",
+      "decision": "not_reviewed",
+      "evidence": "本次启动文件快照中未落盘，遵令不等后续。"
+    }
+  ]
+}

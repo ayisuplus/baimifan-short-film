@@ -1,0 +1,35 @@
+subject_definitions:
+<Subject 1>: ChatGPT, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: Kimi, identity and outfit from four-view sheet <Picture 2>.
+<Subject 3>: Claude, identity and outfit from four-view sheet <Picture 3>.
+<Picture 4>: [Shot 1] composition and state reference; not its first frame.
+<Picture 5>: [Shot 2] composition and state reference; not its first frame.
+<Picture 6>: [Shot 3] composition and state reference; not its first frame.
+<Picture 7>: [Shot 4] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. Dissolve the shield, pass the key, unlock ankles, support before final release, then step safely off the footrest.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Subject 3>: fully_preserved - identity and outfit design.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+<Picture 7>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Match the original key to the altar after the omitted climb. Reveal Claude only as the shield dissolves, then cut on the key entering Kimi's hand. Use <Picture 4> for composition. GPT arrives at the highest altar with the leader's original key. Once danger is over, Kimi dissolves the opaque shield completely and accepts the key with empty hands; both blades remain stowed. Claude is still upright on the fixed footrest, wrists and ankles locked. Preserve the broken central window, intact side windows, extinguished candles and wood, and cold moon reflections on stone. End with Kimi holding the key before ankle release. Let the dark membrane dissolve in the altar medium view before sliding slightly to clarify the foreground key exchange while retaining Claude's foot support. The membrane hum dies, the key lands softly in a hand and residual water drips in the hall. No repeated blade-stowing sound.
+[Shot 2] At 00:03.000, Bridge key contact to a lock click. The first ankle cuff can already be open as the second is shown; wrists remain for the next view. Use <Picture 5> for composition. Kimi kneels beside the fixed footrest and uses the original key to unlock both ankle cuffs and move the short chains aside. The lock turns normally and the anti-tamper symbols never light. Claude's bare feet stay on the fixed support and both wrists remain restrained. In this brief shot, the repeated operation may be elided so the first cuff is already open when the second release is shown. Keep the footrest and both feet grounded in close-up, shifting slightly between ankle locks; omit repetitive key repositioning editorially rather than accelerating all releases. Normal key rotation, lock-tongue clicks and chains set down, synchronized to visible releases; no violent breaking-lock sound.
+[Shot 3] At 00:05.000, After ankle release cut upward; elide repetitive waist and first-wrist operations into the final cuff without duplicate unlocking sounds. Use <Picture 6> for composition. GPT supports Claude's lower back and upper arm from screen right before the final restraint opens. Kimi at screen left uses the original key to release the waist chain and wrist cuffs in order; the short view may omit repeated turns and emphasize the last cuff. The symbols are not triggered. Claude remains supported by both the footrest and GPT, never drops suddenly, and the wooden cross stays on the highest platform. End ready to step down. Tilt gently in the three-person medium close view from GPT's support to the last wrist lock, retaining positions and showing support before release. Small lock and chain sounds with fabric movement. Match the visible releases; ensure GPT supports the body before the final cuff opens.
+[Shot 4] At 00:08.000, Continue from the released final cuff onto the same platform, never dropping from suspension; her concern leads to the child below. Use <Picture 7> for composition. All restraints are now open. GPT folds her wings and steadies Claude as she steps off the fixed footrest onto the same altar platform, speaking reassuringly. Kimi gathers the released restraints and makes space. Claude stands securely, then looks down toward the blue child below and asks about her. Preserve Claude's pale, unblushing face and existing scorched clothing. End on her searching eyeline. Ease back slightly in the same-platform wide view to make room for the step onto stone; after she stands, follow Claude's downward eyeline gently. Chain tails, drips and supportive fabric movement sit beneath the two clear lines. From 8.2 to 9.7 seconds, ChatGPT (S1) speaks with matching lip movement: <d>[Chinese] 慢慢来。</d>. From 10.6 to 12.6 seconds, Claude (S2) speaks with matching lip movement: <d>[Chinese] 那个孩子……</d>.
+From 13 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

@@ -1,0 +1,55 @@
+{
+  "batch": {
+    "batch_number": 11,
+    "batch_id": "GB009",
+    "attempt_id": "GB009-v003-CY016D",
+    "title": "抓柴与受阻",
+    "shot_ids": [
+      "CY016D"
+    ],
+    "film_start": 129.572729,
+    "part_offset": 0,
+    "used_seconds": 2,
+    "duration": 4,
+    "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。4秒单镜，前2秒有效。孩子两脚牢牢踩地，双手已经抓住成人怀中同一根木头的外端，0–1秒轻轻向自己拉，成人抱木头的手保持不松，木头只轻晃；1–2秒形成僵持，孩子抬眼恳求，仍不放手。成人此镜不推人。背景唯一背影教徒朝高处祭坛继续走上一阶，绝不朝镜头下阶；最高处唯一橙发女子保持受缚不动。无对白，不生成门或新人物，不移动刑架。2–4秒保持同一僵持状态供余量。",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/Metaso-H3-v003/修订参考/CY016D-r001-上行抓木起态.png",
+        "sha256": "a8fd0e8d430662fb9fe19ddaf8bf0fef0ef5d1da29660847dea6773f46feaa20",
+        "role": "first_frame"
+      }
+    ],
+    "estimated_credits": 40.8,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "背景搬柴者改为背影上阶，只有唯一远处受缚Claude；删除门闩字样引出的巨门。",
+    "repair_of": {
+      "author_rejected_version": "v002",
+      "batch_id": "GB009"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json",
+    "mode": "first_frame"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。4秒单镜，前2秒有效。孩子两脚牢牢踩地，双手已经抓住成人怀中同一根木头的外端，0–1秒轻轻向自己拉，成人抱木头的手保持不松，木头只轻晃；1–2秒形成僵持，孩子抬眼恳求，仍不放手。成人此镜不推人。背景唯一背影教徒朝高处祭坛继续走上一阶，绝不朝镜头下阶；最高处唯一橙发女子保持受缚不动。无对白，不生成门或新人物，不移动刑架。2–4秒保持同一僵持状态供余量。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115175967230189568"
+        },
+        "role": "first_frame"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 4,
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者要求修复第6、11、20、21、39批剧情与空间错误，沿用已授权Metaso H3积分；40仅必要接头。无充值。"
+}

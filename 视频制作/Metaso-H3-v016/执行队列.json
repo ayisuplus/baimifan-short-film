@@ -1,0 +1,117 @@
+{
+  "provider": "metaso",
+  "model": "MiniMax-H3",
+  "resolution": "768P",
+  "ratio": "16:9",
+  "authorization": "2026-10-29 user explicitly approved high oblique overhead shot showing small GPT and DeepSeek, lights coming on as DeepSeek approaches. Previous empty hall take rejected; one revised 5s video authorized.",
+  "observed_balance": 196.1,
+  "balance_source": "Live in-app Metaso console account page",
+  "balance_observed_at": "2026-10-29T20:34:15.664091+08:00",
+  "spending_ceiling_credits": 91.8,
+  "items": [
+    {
+      "attempt_id": "CY005L-v016-lamps-on-r1",
+      "batch_number": 3,
+      "batch_id": "CY005L",
+      "duration": 4,
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v016/参考/宫殿主灯未亮-r1.png",
+          "role": "first_frame",
+          "sha256": "bb0fbddbc29bcd5d158e0d575ab66da522ccbbaefe517f8d805115e2c49e1c61",
+          "visually_reviewed": true
+        },
+        {
+          "path": "视频制作/Metaso-H3-v016/参考/宫殿主灯全亮-r1.png",
+          "role": "last_frame",
+          "sha256": "63c33c0dbb1af732eac1e8415c3c142cfccead1166794e5d84809927bd9cab00",
+          "visually_reviewed": true
+        }
+      ],
+      "prompt": "4秒，一镜到底、锁定机位的哥特式日本二维动画环境插镜。首帧和尾帧是同一宫殿同一机位，只差灯光状态，必须严格保持建筑、窗框、花纹、灯具数量及位置完全稳定。没有人物。精细手绘动漫背景、细线稿、冷蓝紫石材与金色饰线，不做照片写实或3D渲染。\n0–0.8秒：保持首帧，顶部浑天仪吊灯的三个球形灯芯及所有笼形壁灯均未点亮，只有远处原有两支小蜡烛轻微晃动；短暂安静呈现高耸拱顶和石柱。\n0.8–1.7秒：顶部的三个球形灯芯按左→下→右顺序逐一由暗变暖象牙金色，间隔约0.25秒。灯芯本身先发光，随后真实照亮邻近的金属灯架和石柱，不是只改变全图曝光。灯环、灯芯完全不移动、不旋转、不增加，不喷火、不爆炸、不出现大光团。\n1.7–2.8秒：左右笼形壁灯由近到远分三组依次亮起，暖光一层一层向深处延伸，柱面与地面上的反光随对应灯亮起自然增强，暗部仍保留蓝紫色。必须看得清逐盏点亮的因果，禁止所有灯同时亮，禁止全图闪白。\n2.8–4秒：灯光稳定达到尾帧的亮度和色调，停留完整1.2秒，温暖明亮、细节清晰、不过曝。保留原来的两支蜡烛。\n全程窗外低饱和蓝紫暮色、树影和云层保持不变，不出现太阳，不变成白天或金色夕阳。所有空间结构完全固定，无镜头推拉摇移，无叠化转场，无物体形变、灯具复制、文字、字幕、水印或人物。声音仅轻微依次点灯的柔和嗡声与空旷室内余响，无对白、无歌声、无背景音乐。",
+      "change_reason": "作者否定单靠调色衔接，批准在入殿全景与小鱼近景间增加环境亮灯过程",
+      "quality_gate": [
+        "unlit_hold_then_sequential_illumination",
+        "lights_drive_surface_illumination",
+        "same_geometry",
+        "no_characters",
+        "fixed_blue_purple_dusk",
+        "stable_bright_tail",
+        "no_music_or_speech"
+      ],
+      "submit_started": "2026-10-29T20:34:20+0800",
+      "task_id": "2115784312530247680",
+      "local_path": "视频制作/Metaso-H3-v016/产物/CY005L-v016-lamps-on-r1.mp4",
+      "sha256": "24ee15e85f2ba7139fb49e65308d2e04a49c4fcadd0b6f110c304b0c96785713",
+      "bytes": 8201061,
+      "review_status": "rejected_by_user_wrong_camera_and_throne_spatial_continuity",
+      "rejection_reason": "作者先要求仰拍避开王座，讨论后最终确定高位斜俯拍人物很小并随小鱼行进亮灯；旧无人侧廊构图不采用"
+    },
+    {
+      "attempt_id": "CY005L-v016-high-angle-r2",
+      "batch_number": 3,
+      "batch_id": "CY005L",
+      "duration": 5,
+      "estimated_credits": 51,
+      "status": "downloaded_candidate",
+      "accepted": true,
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v016/参考/俯拍起始-主灯未亮-r2.png",
+          "role": "reference_image",
+          "purpose": "图片1：唯一开场，锁定高位斜俯拍、两个人很小、主灯未亮",
+          "sha256": "3671460c0f900881a3780dc746d364462aee2478438ae39aeb587cb719d49406",
+          "visually_reviewed": true
+        },
+        {
+          "path": "视频制作/Metaso-H3-v016/参考/俯拍终态-台阶前亮灯-r2.png",
+          "role": "reference_image",
+          "purpose": "图片2：最终灯光及小鱼停在台阶前平地状态，同一机位",
+          "sha256": "a63567350ec6231dec9ba1db1c791aeff6c0e997e2ec0754251065eab8b1fd54",
+          "visually_reviewed": true
+        },
+        {
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+          "role": "reference_image",
+          "purpose": "图片3：GPT身份与服饰四视图，只代表同一位人物，场景中侧卧",
+          "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9",
+          "visually_reviewed": true,
+          "source_original": "资产/图像/四视图/CHAR-GPT-TURN-v001.png"
+        },
+        {
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+          "role": "reference_image",
+          "purpose": "图片4：小鱼身份与服饰四视图，只代表同一位人物",
+          "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+          "visually_reviewed": true,
+          "source_original": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png"
+        }
+      ],
+      "prompt": "5秒日式哥特动画，高位斜俯拍极远景，一镜到底、固定机位，不推近不切镜。图片1是严格开场构图，图片2是同机位最终灯光和女孩落脚位置；图片3和4仅是同一位GPT和同一位小鱼的角色四视图，禁止将四视图当多人或分屏。全景只有两个极小人物：远处殿尾横向金色卧榻上的白发龙娘GPT，以及背对摄影机走向她的鲸帽蓝发小鱼。场景尺度、人物画面占比严格保持图片1/2，绝不拉近角色；让宏伟宫殿空间占据绝大部分画面。\n0–0.5秒：保持图片1的冷蓝紫低照度大厅，侧柱所有笼形主灯与左上前景吊灯不发光，原有高台小烛火保持。GPT安静侧躺，头左脚右，卧榻在殿尾短墙前、长边与横向台阶平行，绝不改变家具或姿态。\n0.5–3.5秒：小鱼从图片1的位置沿原直线方向向前迈几个自然小步，最后到达图片2所示台阶前的平地。她不能跑上台阶、不能瞬移或滑行，双手空，头发与衣摆微动，脚步有落地，始终一个身体。她向前走的同时，两侧既有笼形主灯以由近到远的三组顺序逐一亮起，第一组在0.7秒，第二组在1.6秒，最靠近高台的一组在2.5秒。每一组是灯芯先由暗变暖金色，再照亮相邻柱面和地面，清楚表现光从灯具产生；左上前景模糊吊灯随后渐亮。不能只全屏调曝光，不能所有灯同时开，不能闪白、爆炸、出现发光轨道或法阵。每盏灯的结构、数量、位置固定不变。\n3.5–5秒：小鱼停在最下级台阶之前仰头看GPT，不踏上台阶；所有主灯已经点亮，暖光稳定达到图片2的明亮水平，地面反射温暖、石材仍有蓝紫底色，保留细节不泛黄不过曝。GPT全程仍侧躺，没有起身、没有替身、没有口型对白。\n宫殿窗外始终同一低饱和蓝紫暮色和树影，不变成白天，不出现太阳。高机位固定，窗框、台阶、卧榻与地面图案绝不形变、漂移或重设计，禁止出现第三个人。画风同参考：细线稿、赛璐璐角色、精细哥特手绘背景，不做照片写实或塑料3D。无文字、水印、字幕。声音仅微弱脚步和逐灯亮起的柔和短音及大厅混响，无人声、无歌声、无背景音乐。",
+      "repair_of": "CY005L-v016-lamps-on-r1",
+      "change_reason": "作者确定高位斜俯拍，人物很小；小鱼走向GPT时灯依次亮，严格同宫殿与卧榻空间",
+      "quality_gate": [
+        "high_oblique_wide",
+        "tiny_two_characters",
+        "gpt_reclining_fixed",
+        "girl_walks_then_stops_before_steps",
+        "sequential_light_activation",
+        "geometry_stable",
+        "dusk_fixed",
+        "no_speech_or_music"
+      ],
+      "submit_started": "2026-10-29T20:45:26+0800",
+      "task_id": "2115787101459685376",
+      "local_path": "视频制作/Metaso-H3-v016/产物/CY005L-v016-high-angle-r2.mp4",
+      "sha256": "7298e44081c01791a3f66d63019440f3e4341ad262bfed73f1ce1e2354ebd05e",
+      "bytes": 7698187,
+      "review_status": "author_adopted_edit_to_bridge_steps",
+      "author_decision": "2026-10-29 作者：不用重生成，就这个挺好；后续位置衔接用剪辑解决。",
+      "review_notes": "高位斜俯拍、两小人物与逐组亮灯成立。后半段小鱼踏上台阶；作者明确接受，通过剪辑接近景。",
+      "planned_retry_cancelled": true
+    }
+  ]
+}

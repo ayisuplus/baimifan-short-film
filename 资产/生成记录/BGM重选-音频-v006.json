@@ -1,0 +1,262 @@
+{
+  "version": "v006",
+  "date": "2026-10-25",
+  "music": [
+    {
+      "id": "BGM-CY-HP7-01",
+      "bvid": "BV1Y6UtYFEyG",
+      "part": 1,
+      "title": "Obliviate",
+      "display_title": "一忘皆空",
+      "work": "哈利·波特与死亡圣器（上）",
+      "composer": "Alexandre Desplat",
+      "source_page_title": "01. Obliviate - Alexandre Desplat",
+      "navigation_translation": "中文译名仅供本项目导航；保留原曲名与来源分P。",
+      "cid": 26834177623,
+      "source": "https://www.bilibili.com/video/BV1Y6UtYFEyG/?p=1",
+      "uploader": "Wayne_Chi",
+      "video_title": "[FLAC无损]《哈利·波特与死亡圣器(上)》电影原声带",
+      "path": "资产/声音/BGM/重选-v006/BGM-CY-HP7-01.m4a",
+      "bytes": 5304024,
+      "sha256": "057e8fde49ac6b901839436b886a58cece403cac38a1c3b5dce96448cec2accb",
+      "duration": 182.250333,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bit_rate": "174998"
+          }
+        ],
+        "format": {
+          "duration": "182.250333"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-HP7-02",
+      "bvid": "BV1Y6UtYFEyG",
+      "part": 2,
+      "title": "Snape to Malfoy Manor",
+      "display_title": "斯内普前往马尔福庄园",
+      "work": "哈利·波特与死亡圣器（上）",
+      "composer": "Alexandre Desplat",
+      "source_page_title": "02. Snape to Malfoy Manor - Alexandre Desplat",
+      "navigation_translation": "中文译名仅供本项目导航；保留原曲名与来源分P。",
+      "cid": 26834177989,
+      "source": "https://www.bilibili.com/video/BV1Y6UtYFEyG/?p=2",
+      "uploader": "Wayne_Chi",
+      "video_title": "[FLAC无损]《哈利·波特与死亡圣器(上)》电影原声带",
+      "path": "资产/声音/BGM/重选-v006/BGM-CY-HP7-02.m4a",
+      "bytes": 3151417,
+      "sha256": "ea9165c4b1ba540803c7de7fb08b011aee084d696aadf2cb9962e7acd23a6fdb",
+      "duration": 118.527667,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bit_rate": "253784"
+          }
+        ],
+        "format": {
+          "duration": "118.527667"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-FZ-01",
+      "bvid": "BV1Vx411G7kG",
+      "part": 1,
+      "title": "Point Zero",
+      "display_title": "原点",
+      "work": "Fate/Zero",
+      "composer": "梶浦由記",
+      "source_page_title": "Point Zero",
+      "navigation_translation": "中文译名仅供本项目导航；保留原曲名与来源分P。",
+      "cid": 23944283,
+      "source": "https://www.bilibili.com/video/BV1Vx411G7kG/?p=1",
+      "uploader": "天使动漫",
+      "video_title": "【Fate/Zero】OST原声集完全版 / 音乐：梶浦由記",
+      "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-01.m4a",
+      "bytes": 1920692,
+      "sha256": "de9e41b5440db912541dda1471b8190b52ed883fcc9b4300738fbed395f4b178",
+      "duration": 228.761202,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "66985"
+          }
+        ],
+        "format": {
+          "duration": "228.761202"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-FZ-02",
+      "bvid": "BV1Vx411G7kG",
+      "part": 2,
+      "title": "let the stars fall down",
+      "display_title": "让群星陨落",
+      "work": "Fate/Zero",
+      "composer": "梶浦由記",
+      "source_page_title": "let the stars fall down",
+      "navigation_translation": "中文译名仅供本项目导航；保留原曲名与来源分P。",
+      "cid": 23944266,
+      "source": "https://www.bilibili.com/video/BV1Vx411G7kG/?p=2",
+      "uploader": "天使动漫",
+      "video_title": "【Fate/Zero】OST原声集完全版 / 音乐：梶浦由記",
+      "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-02.m4a",
+      "bytes": 3057310,
+      "sha256": "5d774ae5fcf881fabb4f748817851106a9d40d8b1245a13d8495d9f45fbaeed0",
+      "duration": 125.432834,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "193549"
+          }
+        ],
+        "format": {
+          "duration": "125.432834"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "AAC stream copied from retained public muxed video with ffmpeg -vn -c:a copy; no re-encoding, cuts, pitch, speed or gain changes.",
+      "source_media": {
+        "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-02-source.mp4",
+        "bytes": 5064186,
+        "sha256": "e4f2d43d70f1faba4d949c09ebe6a975f406dc87e6c73776cd4bbf11cea117c9"
+      }
+    },
+    {
+      "id": "BGM-CY-FZ-16",
+      "bvid": "BV1Vx411G7kG",
+      "part": 16,
+      "title": "secret maneuvers",
+      "display_title": "秘密行动",
+      "work": "Fate/Zero",
+      "composer": "梶浦由記",
+      "source_page_title": "secret maneuvers",
+      "navigation_translation": "中文译名仅供本项目导航；保留原曲名与来源分P。",
+      "cid": 23944252,
+      "source": "https://www.bilibili.com/video/BV1Vx411G7kG/?p=16",
+      "uploader": "天使动漫",
+      "video_title": "【Fate/Zero】OST原声集完全版 / 音乐：梶浦由記",
+      "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-16.m4a",
+      "bytes": 2933185,
+      "sha256": "5c0906667789122a46992ebb0bfbac6d6102dee4ab4e7161383cd4fa4f31f369",
+      "duration": 120.417324,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "193421"
+          }
+        ],
+        "format": {
+          "duration": "120.417324"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "AAC stream copied from retained public muxed video with ffmpeg -vn -c:a copy; no re-encoding, cuts, pitch, speed or gain changes.",
+      "source_media": {
+        "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-16-source.mp4",
+        "bytes": 4797717,
+        "sha256": "f27a72cb42109420fba09164339ea00fdecf6a85c64d2ba812e047f6a09132dc"
+      }
+    },
+    {
+      "id": "BGM-CY-FZ-18",
+      "bvid": "BV1Vx411G7kG",
+      "part": 18,
+      "title": "assassin",
+      "display_title": "暗杀者",
+      "work": "Fate/Zero",
+      "composer": "梶浦由記",
+      "source_page_title": "assassin",
+      "navigation_translation": "中文译名仅供本项目导航；保留原曲名与来源分P。",
+      "cid": 23944304,
+      "source": "https://www.bilibili.com/video/BV1Vx411G7kG/?p=18",
+      "uploader": "天使动漫",
+      "video_title": "【Fate/Zero】OST原声集完全版 / 音乐：梶浦由記",
+      "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-18.m4a",
+      "bytes": 3923317,
+      "sha256": "95e3957446981e1c12ad849fbf06a6302804e68e509ad47c5f03d03012f2df35",
+      "duration": 160.425306,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "194216"
+          }
+        ],
+        "format": {
+          "duration": "160.425306"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "AAC stream copied from retained public muxed video with ffmpeg -vn -c:a copy; no re-encoding, cuts, pitch, speed or gain changes.",
+      "source_media": {
+        "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-18-source.mp4",
+        "bytes": 4327777,
+        "sha256": "aa762dff88497f0c70bc6a88cd574b61bcea6a4f08f133e021428b1a90b1e94a"
+      }
+    }
+  ],
+  "listening_status": "Technical decoding validated; shot assignments are audition hypotheses for author comparison."
+}

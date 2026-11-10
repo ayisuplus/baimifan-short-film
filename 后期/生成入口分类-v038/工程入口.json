@@ -1,0 +1,19 @@
+{
+  "project": "restored-ad3867fc-177c-4371-bb51-7ed75d686e30",
+  "url": "http://127.0.0.1:8978/editor/restored-ad3867fc-177c-4371-bb51-7ed75d686e30",
+  "feature_version": "v038",
+  "code_commit": "1075b9b",
+  "timeline_clips": 118,
+  "timeline_frames": 9059,
+  "fps": 24,
+  "catalog_entries": 15,
+  "preparable_entries": 8,
+  "canvas_waiting_api_export": 7,
+  "execution_enabled": false,
+  "submitted": false,
+  "uploaded": false,
+  "gpu_used": false,
+  "full_project_backup": "../片段新稿编辑-v037/工程入口.json",
+  "catalog_backup": "配置快照",
+  "catalog_sha256": "3d97bd3a90c987041f97f6be017112443c0d4038603445c78d05bf46a117312f"
+}

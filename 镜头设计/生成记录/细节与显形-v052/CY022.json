@@ -1,0 +1,20 @@
+{
+  "id": "CY022",
+  "input": {
+    "transparent_background": false,
+    "referenced_image_paths": [
+      "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火祭因果-v040/CY022-v040-r1.png",
+      "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-0108b224-45fb-4ce5-923b-1a28afff559a.png"
+    ],
+    "prompt": "Precise local continuity edit of IMAGE1. IMAGE2 supplies ONLY the BLACK FLAME look for the SINGLE HANDHELD ritual torch: ink-black tongues with fine muted violet edge. Replace orange/red/yellow flame ON THE HANDHELD TORCH ONLY with that same black flame. Keep exact torch metal design, hand, body positions, all characters, clothes, camera, stone steps, intact stained glass, chandelier, wood pile and lighting. ALL FIXED candles/braziers retain original ordinary orange flame, do not turn them black. At the torch/wood contact also remove orange flame tongues and make black fire connect continuously into the existing black-purple wood fire. Tiny warm EMBER cracks in resin wood may remain, not orange fire. Preserve closeup hand anatomy, same right-hand grip and torch angle.No other changes, no extra torch, no text."
+  },
+  "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-ff316c7b-d59f-47cc-9fda-3023dcfa50c3.png",
+  "output": "镜头设计/图像/细节与显形-v052/CY022-v052-r1.png",
+  "sha256": "640095532214808eaaaa763ceddc022ebc69c53f8cf725a3a2aa5e19a2c569c1",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "engine": "built-in image_gen",
+  "status": "pending_author_visual_review"
+}

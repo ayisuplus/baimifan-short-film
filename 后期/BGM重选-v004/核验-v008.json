@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-24",
+  "version": "v008",
+  "shots": 115,
+  "seconds": 381.0,
+  "changed_bgm_shots": [
+    "CY004B",
+    "CY004C",
+    "CY004D",
+    "CY005",
+    "CY006",
+    "CY007",
+    "CY008",
+    "CY009",
+    "CY010",
+    "CY009A",
+    "CY010A",
+    "CY011",
+    "CY011A",
+    "CY012",
+    "CY013",
+    "CY013A",
+    "CY015",
+    "CY016",
+    "CY016A1",
+    "CY016A",
+    "CY016B",
+    "CY016B1",
+    "CY016C"
+  ],
+  "unchanged_bgm_shots": 92,
+  "all_non_bgm_fields_identical": true,
+  "new_audio": 8,
+  "hashes_valid": true,
+  "all_full_decode_ok": true,
+  "musical_fit": "待作者试听，不以播放技术验证代替听感验收",
+  "browser": {
+    "marks_preserved": [
+      "CY001:BGM-CY-MT-03",
+      "CY018:BGM-CY-RZ-01",
+      "CY026B:BGM-CY-FEAR-001",
+      "CY031:BGM-CY-TIME-001"
+    ],
+    "played_ready_state_4": [
+      "BGM-CY-TS-19",
+      "BGM-CY-KH-09",
+      "BGM-CY-AU-01"
+    ],
+    "seek_seconds": [
+      26.818588,
+      34,
+      11.016318
+    ],
+    "cross_shot_continuous": true,
+    "console_errors": [],
+    "final_paused": true,
+    "final_shot": "CY006",
+    "final_music": "BGM-CY-TS-19"
+  },
+  "screenshot": "后期/BGM重选-v004/史诗候选-v008.png"
+}

@@ -1,0 +1,982 @@
+{
+  "version": "v002",
+  "date": "2026-10-23",
+  "music": [
+    {
+      "id": "BGM-CY-MT-03",
+      "bvid": "BV1JP4y1m78A",
+      "part": 3,
+      "title": "魔法が存在する世界で",
+      "display_title": "存在魔法的世界",
+      "work": "无职转生",
+      "composer": "藤澤慶昌",
+      "source_page_title": "02. 魔法が存在する世界で",
+      "cid": 40238842218,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=3",
+      "uploader": "L-2-C",
+      "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-03.m4a",
+      "bytes": 2770650,
+      "sha256": "6726d4d192ca25ee0921d7bf8255e7f9f4757f837c9537ecb76ec7d3386d8edb",
+      "duration": 131.016871,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "144563"
+          }
+        ],
+        "format": {
+          "duration": "131.016871"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-MT-04",
+      "bvid": "BV1JP4y1m78A",
+      "part": 4,
+      "title": "詠唱",
+      "display_title": "咏唱",
+      "work": "无职转生",
+      "composer": "藤澤慶昌",
+      "source_page_title": "03. 詠唱",
+      "cid": 40238842563,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=4",
+      "uploader": "L-2-C",
+      "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-04.m4a",
+      "bytes": 2713244,
+      "sha256": "6e9af8424d2548f828a78a2f10dd068b4869e45df4f151c9e9ceac9151b66123",
+      "duration": 104.041882,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "198330"
+          }
+        ],
+        "format": {
+          "duration": "104.041882"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-MT-13",
+      "bvid": "BV1JP4y1m78A",
+      "part": 13,
+      "title": "外には絶望",
+      "display_title": "外面是绝望",
+      "work": "无职转生",
+      "composer": "藤澤慶昌",
+      "source_page_title": "12. 外には絶望",
+      "cid": 40238907632,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=13",
+      "uploader": "L-2-C",
+      "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-13.m4a",
+      "bytes": 2613026,
+      "sha256": "aa0e95aa552a22cbfa9b5f8d47509b8a540b2c5c5605ed95c8caf5bdf58601e4",
+      "duration": 134.013878,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "133039"
+          }
+        ],
+        "format": {
+          "duration": "134.013878"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-MT-15",
+      "bvid": "BV1JP4y1m78A",
+      "part": 15,
+      "title": "師匠のお守り",
+      "display_title": "师父的护身符",
+      "work": "无职转生",
+      "composer": "藤澤慶昌",
+      "source_page_title": "14. 師匠のお守り",
+      "cid": 40238907885,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=15",
+      "uploader": "L-2-C",
+      "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-15.m4a",
+      "bytes": 3282950,
+      "sha256": "eeaad7a396f1102ca0ae98c5f64a5641a6e4a6e25f3fd56f28332fba3e8a9149",
+      "duration": 135.014875,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "119601"
+          }
+        ],
+        "format": {
+          "duration": "135.014875"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-MT-18",
+      "bvid": "BV1JP4y1m78A",
+      "part": 18,
+      "title": "思わぬ現実",
+      "display_title": "意料之外的现实",
+      "work": "无职转生",
+      "composer": "藤澤慶昌",
+      "source_page_title": "17. 思わぬ現実",
+      "cid": 40238908081,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=18",
+      "uploader": "L-2-C",
+      "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-18.m4a",
+      "bytes": 3265562,
+      "sha256": "3f2cc7f9910f21db2ee5dfae8a14af8d1d47b90cc0e3f3fffd6c100828bfa291",
+      "duration": 139.088889,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "129155"
+          }
+        ],
+        "format": {
+          "duration": "139.088889"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-MT-20",
+      "bvid": "BV1JP4y1m78A",
+      "part": 20,
+      "title": "シルフィの涙",
+      "display_title": "希露菲的眼泪",
+      "work": "无职转生",
+      "composer": "藤澤慶昌",
+      "source_page_title": "19. シルフィの涙",
+      "cid": 40238908136,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=20",
+      "uploader": "L-2-C",
+      "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-20.m4a",
+      "bytes": 3344186,
+      "sha256": "f5d0b825ddc4db72dd03791d4bdc7a4c30bf2b2d7f8bd86032b61e7f3d23bd22",
+      "duration": 133.015873,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "177453"
+          }
+        ],
+        "format": {
+          "duration": "133.015873"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-MT-39",
+      "bvid": "BV1JP4y1m78A",
+      "part": 39,
+      "title": "心の奥底",
+      "display_title": "心底",
+      "work": "无职转生",
+      "composer": "藤澤慶昌",
+      "source_page_title": "38. 心の奥底",
+      "cid": 40238909457,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=39",
+      "uploader": "L-2-C",
+      "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-39.m4a",
+      "bytes": 3040357,
+      "sha256": "86f5097e89b9dfc5fec07664c6f00c6adc4dc0bbed959a89d1a441837994331b",
+      "duration": 130.051746,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "186072"
+          }
+        ],
+        "format": {
+          "duration": "130.051746"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-MT-41",
+      "bvid": "BV1JP4y1m78A",
+      "part": 41,
+      "title": "格式ある家系",
+      "display_title": "有威望的家族",
+      "work": "无职转生",
+      "composer": "藤澤慶昌",
+      "source_page_title": "40. 格式ある家系",
+      "cid": 40238909595,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=41",
+      "uploader": "L-2-C",
+      "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-41.m4a",
+      "bytes": 3057575,
+      "sha256": "4b5375bb4776b5162e18b335db944d147f8ce69fcb536d616f085e56c4c03d3d",
+      "duration": 122.02288,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "194949"
+          }
+        ],
+        "format": {
+          "duration": "122.022880"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-MT-42",
+      "bvid": "BV1JP4y1m78A",
+      "part": 42,
+      "title": "計略",
+      "display_title": "计谋",
+      "work": "无职转生",
+      "composer": "藤澤慶昌",
+      "source_page_title": "41. 計略",
+      "cid": 40238909556,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=42",
+      "uploader": "L-2-C",
+      "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-42.m4a",
+      "bytes": 2851928,
+      "sha256": "2525400688261c9bbd87160f97712100e010f1d9806ee0ba88b2cca3cedce8ee",
+      "duration": 113.057891,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "145486"
+          }
+        ],
+        "format": {
+          "duration": "113.057891"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-MT-63",
+      "bvid": "BV1JP4y1m78A",
+      "part": 63,
+      "title": "共闘",
+      "display_title": "并肩作战",
+      "work": "无职转生",
+      "composer": "藤澤慶昌",
+      "source_page_title": "62. 共闘",
+      "cid": 40238911145,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=63",
+      "uploader": "L-2-C",
+      "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-63.m4a",
+      "bytes": 3989657,
+      "sha256": "f1f091667a0f9865dc44d8dbbf491a0c10e62a49c2dadc8b5f10e7e15c13fdeb",
+      "duration": 138.063878,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "240450"
+          }
+        ],
+        "format": {
+          "duration": "138.063878"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-MT-69",
+      "bvid": "BV1JP4y1m78A",
+      "part": 69,
+      "title": "シーローン王宮",
+      "display_title": "西隆王宫",
+      "work": "无职转生",
+      "composer": "藤澤慶昌",
+      "source_page_title": "68. シーローン王宮",
+      "cid": 40238973113,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=69",
+      "uploader": "L-2-C",
+      "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-69.m4a",
+      "bytes": 2497469,
+      "sha256": "4c1f76b5547131f578c15a41c2373151395bda63f547aee9e92dd2a22f72b8d1",
+      "duration": 111.025873,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "142110"
+          }
+        ],
+        "format": {
+          "duration": "111.025873"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-MT-70",
+      "bvid": "BV1JP4y1m78A",
+      "part": 70,
+      "title": "秘密の作戦",
+      "display_title": "秘密行动",
+      "work": "无职转生",
+      "composer": "藤澤慶昌",
+      "source_page_title": "69. 秘密の作戦",
+      "cid": 40238973263,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=70",
+      "uploader": "L-2-C",
+      "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-70.m4a",
+      "bytes": 1846146,
+      "sha256": "a95af2721cd13cab2ec218f487962d5b5facf337ed270b341727083896231eb0",
+      "duration": 107.023878,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "103729"
+          }
+        ],
+        "format": {
+          "duration": "107.023878"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-MT-75",
+      "bvid": "BV1JP4y1m78A",
+      "part": 75,
+      "title": "圧倒的力との遭遇",
+      "display_title": "遭遇压倒性的力量",
+      "work": "无职转生",
+      "composer": "藤澤慶昌",
+      "source_page_title": "74. 圧倒的力との遭遇",
+      "cid": 40238973590,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=75",
+      "uploader": "L-2-C",
+      "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-75.m4a",
+      "bytes": 5571769,
+      "sha256": "1f34cc10ce01144011dceaa62922ab0f5e93364f137f3cbae95e4898707b6d8e",
+      "duration": 196.017891,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "231803"
+          }
+        ],
+        "format": {
+          "duration": "196.017891"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-MT-84",
+      "bvid": "BV1JP4y1m78A",
+      "part": 84,
+      "title": "まずい状況",
+      "display_title": "不妙的状况",
+      "work": "无职转生",
+      "composer": "藤澤慶昌",
+      "source_page_title": "83. まずい状況",
+      "cid": 40238974299,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=84",
+      "uploader": "L-2-C",
+      "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-84.m4a",
+      "bytes": 2425573,
+      "sha256": "55a4274e79edc3a00d415672412562c81dbc6c691c4f70ddfbfbe3bba22ff0b4",
+      "duration": 120.012018,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "141031"
+          }
+        ],
+        "format": {
+          "duration": "120.012018"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-MT-89",
+      "bvid": "BV1JP4y1m78A",
+      "part": 89,
+      "title": "ミリス神聖国",
+      "display_title": "米里斯神圣国",
+      "work": "无职转生",
+      "composer": "藤澤慶昌",
+      "source_page_title": "88. ミリス神聖国",
+      "cid": 40238974848,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=89",
+      "uploader": "L-2-C",
+      "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-89.m4a",
+      "bytes": 2990719,
+      "sha256": "531f3b629f1b5f31bc7a74166bb180e5db5ef99653553183119dd38b21af84b1",
+      "duration": 120.727007,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "173251"
+          }
+        ],
+        "format": {
+          "duration": "120.727007"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-NA-02",
+      "bvid": "BV1QT4y1M79V",
+      "part": 2,
+      "title": "Evacuating London",
+      "display_title": "离开伦敦",
+      "work": "纳尼亚传奇：狮子、女巫和魔衣柜",
+      "composer": "Harry Gregson-Williams",
+      "source_page_title": "2 - Evacuating London",
+      "cid": 267027315,
+      "source": "https://www.bilibili.com/video/BV1QT4y1M79V/?p=2",
+      "uploader": "xtrikil",
+      "video_title": "【电影音乐】纳尼亚传奇：狮子、女巫和魔衣柜-原声合集",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-NA-02.m4a",
+      "bytes": 1838656,
+      "sha256": "ba6f3e37f3c1c6370bdc04cdfa71198e95a2f23e2aa019aabe2f0473002c2748",
+      "duration": 218.894286,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "66865"
+          }
+        ],
+        "format": {
+          "duration": "218.894286"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-NA-03",
+      "bvid": "BV1QT4y1M79V",
+      "part": 3,
+      "title": "A Narnia Lullaby",
+      "display_title": "纳尼亚摇篮曲",
+      "work": "纳尼亚传奇：狮子、女巫和魔衣柜",
+      "composer": "Harry Gregson-Williams",
+      "source_page_title": "3 - A Narnia Lullaby",
+      "cid": 267027024,
+      "source": "https://www.bilibili.com/video/BV1QT4y1M79V/?p=3",
+      "uploader": "xtrikil",
+      "video_title": "【电影音乐】纳尼亚传奇：狮子、女巫和魔衣柜-原声合集",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-NA-03.m4a",
+      "bytes": 616471,
+      "sha256": "862c0042e959132c2c276333124d9fe32ab71fa9f1b601d011f050fa7bfb2626",
+      "duration": 73.21229,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "67168"
+          }
+        ],
+        "format": {
+          "duration": "73.212290"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-NA-05",
+      "bvid": "BV1QT4y1M79V",
+      "part": 5,
+      "title": "The Wardrobe",
+      "display_title": "魔衣橱",
+      "work": "纳尼亚传奇：狮子、女巫和魔衣柜",
+      "composer": "Harry Gregson-Williams",
+      "source_page_title": "5 - The Wardrobe",
+      "cid": 267027342,
+      "source": "https://www.bilibili.com/video/BV1QT4y1M79V/?p=5",
+      "uploader": "xtrikil",
+      "video_title": "【电影音乐】纳尼亚传奇：狮子、女巫和魔衣柜-原声合集",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-NA-05.m4a",
+      "bytes": 1471335,
+      "sha256": "10607958a23b6a1b372ab8ab9c1c528e1b90f160eef5d2175b51ad2a4a258f67",
+      "duration": 175.217551,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "67035"
+          }
+        ],
+        "format": {
+          "duration": "175.217551"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-NA-06",
+      "bvid": "BV1QT4y1M79V",
+      "part": 6,
+      "title": "The White Witch",
+      "display_title": "白女巫",
+      "work": "纳尼亚传奇：狮子、女巫和魔衣柜",
+      "composer": "Harry Gregson-Williams",
+      "source_page_title": "6 - The White Witch",
+      "cid": 267027855,
+      "source": "https://www.bilibili.com/video/BV1QT4y1M79V/?p=6",
+      "uploader": "xtrikil",
+      "video_title": "【电影音乐】纳尼亚传奇：狮子、女巫和魔衣柜-原声合集",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-NA-06.m4a",
+      "bytes": 2780368,
+      "sha256": "724286cf63e622d3aae33e787b3dab3cc04e31aafe71934bcf623eb369794654",
+      "duration": 331.185986,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "67413"
+          }
+        ],
+        "format": {
+          "duration": "331.185986"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-NA-11",
+      "bvid": "BV1QT4y1M79V",
+      "part": 11,
+      "title": "The Stone Table",
+      "display_title": "石桌",
+      "work": "纳尼亚传奇：狮子、女巫和魔衣柜",
+      "composer": "Harry Gregson-Williams",
+      "source_page_title": "11 - The Stone Table",
+      "cid": 267028692,
+      "source": "https://www.bilibili.com/video/BV1QT4y1M79V/?p=11",
+      "uploader": "xtrikil",
+      "video_title": "【电影音乐】纳尼亚传奇：狮子、女巫和魔衣柜-原声合集",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-NA-11.m4a",
+      "bytes": 4088181,
+      "sha256": "41a3b0328f94c9a7f4f240327d8e18ed61ebdd7da41222e288d1b7590805d6a8",
+      "duration": 487.061542,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "67672"
+          }
+        ],
+        "format": {
+          "duration": "487.061542"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-LR-04",
+      "bvid": "BV1BT411v722",
+      "part": 4,
+      "title": "The Shadow of the Past",
+      "display_title": "往昔的阴影",
+      "work": "指环王：护戒使者",
+      "composer": "Howard Shore",
+      "source_page_title": "03 The Shadow of the Past",
+      "cid": 1031905886,
+      "source": "https://www.bilibili.com/video/BV1BT411v722/?p=4",
+      "uploader": "拾光留声机",
+      "video_title": "电影与音乐，到底是谁成就了谁-经典奥斯卡史诗电影《指环王1：魔戒再现  电影原声带》",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-LR-04.m4a",
+      "bytes": 5087730,
+      "sha256": "28ce331e6ce38a73810030a3b0103a59d0abf052e3c71c42e499c18046125786",
+      "duration": 218.058163,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "100170"
+          }
+        ],
+        "format": {
+          "duration": "218.058163"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-LR-05",
+      "bvid": "BV1BT411v722",
+      "part": 5,
+      "title": "The Treason of Isengard",
+      "display_title": "艾辛格的背叛",
+      "work": "指环王：护戒使者",
+      "composer": "Howard Shore",
+      "source_page_title": "04 The Treason of Isengard",
+      "cid": 1031906401,
+      "source": "https://www.bilibili.com/video/BV1BT411v722/?p=5",
+      "uploader": "拾光留声机",
+      "video_title": "电影与音乐，到底是谁成就了谁-经典奥斯卡史诗电影《指环王1：魔戒再现  电影原声带》",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-LR-05.m4a",
+      "bytes": 5187336,
+      "sha256": "aa720e2c51d9949d664d352b3abc8367dd60ef4d0b07700a5cd66c93d7bd62de",
+      "duration": 245.759569,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "83396"
+          }
+        ],
+        "format": {
+          "duration": "245.759569"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-LR-07",
+      "bvid": "BV1BT411v722",
+      "part": 7,
+      "title": "At the Sign of the Prancing Pony",
+      "display_title": "跃马旅店",
+      "work": "指环王：护戒使者",
+      "composer": "Howard Shore",
+      "source_page_title": "06 At the Sign of the Prancing Pony",
+      "cid": 1031906884,
+      "source": "https://www.bilibili.com/video/BV1BT411v722/?p=7",
+      "uploader": "拾光留声机",
+      "video_title": "电影与音乐，到底是谁成就了谁-经典奥斯卡史诗电影《指环王1：魔戒再现  电影原声带》",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-LR-07.m4a",
+      "bytes": 4421260,
+      "sha256": "89ae69f114310ed21efb03348a0ac59fa2a1ed7acd3a0af84d60884ca5df5757",
+      "duration": 199.15712,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "101349"
+          }
+        ],
+        "format": {
+          "duration": "199.157120"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-LR-13",
+      "bvid": "BV1BT411v722",
+      "part": 13,
+      "title": "A Journey in the Dark",
+      "display_title": "黑暗中的旅程",
+      "work": "指环王：护戒使者",
+      "composer": "Howard Shore",
+      "source_page_title": "12 A Journey in the Dark",
+      "cid": 1031918018,
+      "source": "https://www.bilibili.com/video/BV1BT411v722/?p=13",
+      "uploader": "拾光留声机",
+      "video_title": "电影与音乐，到底是谁成就了谁-经典奥斯卡史诗电影《指环王1：魔戒再现  电影原声带》",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-LR-13.m4a",
+      "bytes": 5872100,
+      "sha256": "e71168554d55978182d8943627e6d2ae738f97feb59741689bfebf178bc343b0",
+      "duration": 265.333991,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "99538"
+          }
+        ],
+        "format": {
+          "duration": "265.333991"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    {
+      "id": "BGM-CY-LR-15",
+      "bvid": "BV1BT411v722",
+      "part": 15,
+      "title": "Lothlorien",
+      "display_title": "洛丝萝瑞恩",
+      "work": "指环王：护戒使者",
+      "composer": "Howard Shore",
+      "source_page_title": "14 Lothlorien (feat. _Lament for Gandalf_)",
+      "cid": 1031920280,
+      "source": "https://www.bilibili.com/video/BV1BT411v722/?p=15",
+      "uploader": "拾光留声机",
+      "video_title": "电影与音乐，到底是谁成就了谁-经典奥斯卡史诗电影《指环王1：魔戒再现  电影原声带》",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-LR-15.m4a",
+      "bytes": 6508679,
+      "sha256": "df05f8aa42c38a70019d2b05403c6ab84ba9438d94c573f84d78766f3b2fdff5",
+      "duration": 279.126644,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "101851"
+          }
+        ],
+        "format": {
+          "duration": "279.126644"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    }
+  ],
+  "listening_status": "Technical decoding validated; shot assignments are audition hypotheses for author comparison."
+}

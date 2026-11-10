@@ -1,0 +1,34 @@
+[
+  {
+    "id": "107",
+    "key_job": "107-key-r2",
+    "status": "await_key_review",
+    "generate_frames": 48,
+    "target_frames": 24,
+    "motion_prompt": "Claude breathes out, her eyelids become heavy and chin dips. Her shoulder begins leaning toward GPT at screen right as strength leaves her knees. GPT supporting hand starts entering from right. Fixed close-up, one weak sway, no unconscious fall or repeated closing and reopening eyes."
+  },
+  {
+    "id": "108",
+    "key_job": "108-key-r2",
+    "status": "await_key_review",
+    "generate_frames": 120,
+    "target_frames": 96,
+    "motion_prompt": "Claude knees soften while still standing and her upper body tilts toward GPT. GPT steps in, bends both knees to receive the weight, places one forearm securely behind Claude upper back and the other beneath both knees, then straightens her own legs to lift her in ONE continuous bridal carry. Claude feet leave the stone only AFTER both supports are in place. Her arms hang weakly at first; no early head nuzzle. Camera tilts up smoothly with the lift keeping both heads inside frame and feet visible. No seated start, no fall onto floor, no floating or limb morphing. End balanced with back and knees supported."
+  },
+  {
+    "id": "112",
+    "key_job": "112-key-r2",
+    "status": "await_key_review",
+    "generate_frames": 96,
+    "target_frames": 72,
+    "motion_prompt": "Once GPT is steady, Claude slowly lifts one hand and rests it on GPT shoulder, then leans her head closer of her own choice. GPT meets her eyes and adjusts the arm under her knees slightly, maintaining continuous support. After one quiet shared beat GPT turns her torso toward the descending stairs, still carrying her. Slow restrained camera push then stop, no repetitive bouncing, no setting Claude down and no extra embrace loop."
+  },
+  {
+    "id": "113",
+    "key_job": "113-key-r2",
+    "status": "await_key_review",
+    "generate_frames": 96,
+    "target_frames": 72,
+    "motion_prompt": "Rear two-person follow shot: GPT carries Claude in one secure horizontal bridal carry and walks steadily AWAY from camera toward the distant open FRONT ENTRANCE. Only these two people appear. Two or three grounded steps, no bouncing; one arm remains under both knees and the other supports her upper back throughout. Claude head rests close to GPT shoulder and both lower legs project screen RIGHT. Both membrane wings remain folded. A restrained forward camera follow is slower than their movement so the pair recedes slightly. Companions, child and guards remain off screen. All interior candles stay extinguished. No one turns toward the altar, no new people, no dissolves."
+  }
+]

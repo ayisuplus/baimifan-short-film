@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-01",
+  "source": "Browser-visible timeline DOM, not a project backup",
+  "projectId": "79d4ad8a-fc76-49dc-9797-913ded176ff2",
+  "ticksPerSecond": 120000,
+  "baselineTimeline": [
+    {
+      "durationTicks": "755000",
+      "elementId": "c73f5e39-9b2b-472a-a460-7e8c9dfabdb4",
+      "elementType": "text",
+      "name": "今夜、クロードが焼かれちゃう。お願い、助けて。\n今晚他们要烧死Claude。求你，救救她。",
+      "startTicks": "0",
+      "trackId": "6406eaa6-b2d0-45e3-b428-e9b3e2c8528c"
+    },
+    {
+      "durationTicks": "415000",
+      "elementId": "32771389-ed2b-4c8f-8c4c-225fc521f9c9",
+      "elementType": "text",
+      "name": "教会には手を出さない。……そう約束したの。\n我答应过，不干涉教会。",
+      "startTicks": "755000",
+      "trackId": "6406eaa6-b2d0-45e3-b428-e9b3e2c8528c"
+    },
+    {
+      "durationTicks": "510000",
+      "elementId": "59a74f9b-bc5e-4ae2-9ec3-565bab63e147",
+      "elementType": "text",
+      "name": "でも……死んじゃうよ。\n可是……她会死的。",
+      "startTicks": "1170000",
+      "trackId": "6406eaa6-b2d0-45e3-b428-e9b3e2c8528c"
+    },
+    {
+      "durationTicks": "755000",
+      "elementId": "348ecb23-ac72-4650-818f-87bb3f3c96a9",
+      "elementType": "text",
+      "name": "今夜、クロードが焼かれちゃう。\nお願い、助けて。",
+      "startTicks": "0",
+      "trackId": "036815d9-40a5-4d5e-a3af-22d410255d81"
+    },
+    {
+      "durationTicks": "415000",
+      "elementId": "9e9f4e45-ff00-4bbe-a3ba-678d0cf3ac2b",
+      "elementType": "text",
+      "name": "教会には手を出さない。……そう約束したの。",
+      "startTicks": "755000",
+      "trackId": "036815d9-40a5-4d5e-a3af-22d410255d81"
+    },
+    {
+      "durationTicks": "510000",
+      "elementId": "d299be65-9e20-4a03-a3de-9ce462b5d43e",
+      "elementType": "text",
+      "name": "でも……死んじゃうよ。",
+      "startTicks": "1170000",
+      "trackId": "036815d9-40a5-4d5e-a3af-22d410255d81"
+    },
+    {
+      "durationTicks": "755000",
+      "elementId": "86800240-4c56-48b7-95e1-6104a75012ec",
+      "elementType": "video",
+      "mediaId": "b0f6904c-cd13-447f-9506-aefb7f3396a3",
+      "name": "CY006 · 请救救她",
+      "shotId": "CY006",
+      "startTicks": "0",
+      "trackId": "ab25a743-d9cc-4235-9631-2d4a2a5befd5"
+    },
+    {
+      "durationTicks": "415000",
+      "elementId": "0f75c432-43c5-4b20-b052-141056984250",
+      "elementType": "video",
+      "mediaId": "b0f6904c-cd13-447f-9506-aefb7f3396a3",
+      "name": "CY007 · 收住迟疑的拒绝",
+      "shotId": "CY007",
+      "startTicks": "755000",
+      "trackId": "ab25a743-d9cc-4235-9631-2d4a2a5befd5"
+    },
+    {
+      "durationTicks": "510000",
+      "elementId": "ab0902f5-11dd-4717-a8c2-8ab90bef9a88",
+      "elementType": "video",
+      "mediaId": "b0f6904c-cd13-447f-9506-aefb7f3396a3",
+      "name": "CY008 · 没有回答",
+      "shotId": "CY008",
+      "startTicks": "1170000",
+      "trackId": "ab25a743-d9cc-4235-9631-2d4a2a5befd5"
+    },
+    {
+      "durationTicks": "480000",
+      "elementId": "7ebec7f8-12f4-43e2-a314-b807b65ec441",
+      "elementType": "image",
+      "mediaId": "e1a1c674-dab1-4b68-89ce-b4dc56a48efb",
+      "name": "SB001-待制作.png",
+      "shotId": "SB001",
+      "startTicks": "1680000",
+      "trackId": "ab25a743-d9cc-4235-9631-2d4a2a5befd5"
+    }
+  ],
+  "finalTimeline": [
+    {
+      "duration": "755000",
+      "id": "c73f5e39-9b2b-472a-a460-7e8c9dfabdb4",
+      "media": null,
+      "shot": null,
+      "start": "0",
+      "text": "今夜、クロードが焼かれちゃう。お願い、助けて。\n今晚他们要烧死Claude。求你，救救她。",
+      "track": "6406eaa6-b2d0-45e3-b428-e9b3e2c8528c",
+      "type": "text"
+    },
+    {
+      "duration": "415000",
+      "id": "32771389-ed2b-4c8f-8c4c-225fc521f9c9",
+      "media": null,
+      "shot": null,
+      "start": "755000",
+      "text": "教会には手を出さない。……そう約束したの。\n我答应过，不干涉教会。",
+      "track": "6406eaa6-b2d0-45e3-b428-e9b3e2c8528c",
+      "type": "text"
+    },
+    {
+      "duration": "510000",
+      "id": "59a74f9b-bc5e-4ae2-9ec3-565bab63e147",
+      "media": null,
+      "shot": null,
+      "start": "1170000",
+      "text": "でも……死んじゃうよ。\n可是……她会死的。",
+      "track": "6406eaa6-b2d0-45e3-b428-e9b3e2c8528c",
+      "type": "text"
+    },
+    {
+      "duration": "755000",
+      "id": "348ecb23-ac72-4650-818f-87bb3f3c96a9",
+      "media": null,
+      "shot": null,
+      "start": "0",
+      "text": "今夜、クロードが焼かれちゃう。\nお願い、助けて。",
+      "track": "036815d9-40a5-4d5e-a3af-22d410255d81",
+      "type": "text"
+    },
+    {
+      "duration": "415000",
+      "id": "9e9f4e45-ff00-4bbe-a3ba-678d0cf3ac2b",
+      "media": null,
+      "shot": null,
+      "start": "755000",
+      "text": "教会には手を出さない。……そう約束したの。",
+      "track": "036815d9-40a5-4d5e-a3af-22d410255d81",
+      "type": "text"
+    },
+    {
+      "duration": "510000",
+      "id": "d299be65-9e20-4a03-a3de-9ce462b5d43e",
+      "media": null,
+      "shot": null,
+      "start": "1170000",
+      "text": "でも……死んじゃうよ。",
+      "track": "036815d9-40a5-4d5e-a3af-22d410255d81",
+      "type": "text"
+    },
+    {
+      "duration": "755000",
+      "id": "86800240-4c56-48b7-95e1-6104a75012ec",
+      "media": "b0f6904c-cd13-447f-9506-aefb7f3396a3",
+      "shot": "CY006",
+      "start": "0",
+      "text": "CY006 · 请救救她",
+      "track": "ab25a743-d9cc-4235-9631-2d4a2a5befd5",
+      "type": "video"
+    },
+    {
+      "duration": "415000",
+      "id": "0f75c432-43c5-4b20-b052-141056984250",
+      "media": "b0f6904c-cd13-447f-9506-aefb7f3396a3",
+      "shot": "CY007",
+      "start": "755000",
+      "text": "CY007 · 收住迟疑的拒绝",
+      "track": "ab25a743-d9cc-4235-9631-2d4a2a5befd5",
+      "type": "video"
+    },
+    {
+      "duration": "510000",
+      "id": "ab0902f5-11dd-4717-a8c2-8ab90bef9a88",
+      "media": "b0f6904c-cd13-447f-9506-aefb7f3396a3",
+      "shot": "CY008",
+      "start": "1170000",
+      "text": "CY008 · 没有回答",
+      "track": "ab25a743-d9cc-4235-9631-2d4a2a5befd5",
+      "type": "video"
+    },
+    {
+      "duration": "480000",
+      "id": "7ebec7f8-12f4-43e2-a314-b807b65ec441",
+      "media": "e1a1c674-dab1-4b68-89ce-b4dc56a48efb",
+      "shot": "SB001",
+      "start": "1680000",
+      "text": "SB001-待制作.png",
+      "track": "ab25a743-d9cc-4235-9631-2d4a2a5befd5",
+      "type": "image"
+    }
+  ],
+  "allTenElementsRestored": true,
+  "playbackHeadingPairs": [
+    [
+      "CY006 · 请救救她",
+      "CY006 · 请救救她"
+    ],
+    [
+      "CY007 · 收住迟疑的拒绝",
+      "CY007 · 收住迟疑的拒绝"
+    ],
+    [
+      "CY008 · 没有回答",
+      "CY008 · 没有回答"
+    ],
+    [
+      "SB001 · 小鱼捧饭穿过街市 · 中景",
+      "SB001 · 小鱼捧饭穿过街市 · 中景"
+    ]
+  ],
+  "gpuTasksSubmitted": 0
+}

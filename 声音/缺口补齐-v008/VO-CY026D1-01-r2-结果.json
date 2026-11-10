@@ -1,0 +1,43 @@
+{
+  "line_id": "VO-CY026D1-01",
+  "role": "GPT",
+  "line": {
+    "id": "VO-CY026D1-01",
+    "role": "GPT",
+    "previous_batch": 23,
+    "previous_record_frame": 6024,
+    "previous_ja": "キミ。クロードが危ない。",
+    "previous_zh": "Kimi，Claude 出事了。",
+    "previous_audio_duration_seconds": 2.339924999999994,
+    "status": "retained_in_draft",
+    "ja": "キミ。クロードが危ない。",
+    "zh_back_translation": "Kimi，Claude有危险。",
+    "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+    "reading_hints": {},
+    "voice_role": "GPT",
+    "performance_direction_v004": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+    "tts_reading_text": "キミ。クロードが危ない。",
+    "voice_asset": "GPT",
+    "timeline_adopted": false,
+    "performance_acceptance": "逐句表演与准确性待验收；作者已确认声线",
+    "audio_state": "needs_recording"
+  },
+  "voice_id": "tsunTpzA4d2kBihHrZ2R",
+  "voice_source": "selected v004 candidate 1",
+  "body": {
+    "text": "キミ、クロードがあぶない。",
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "ja"
+  },
+  "status": "saved_pending_review",
+  "author_performance_accepted": false,
+  "generation_revision": 2,
+  "repair_reason": "Two unprompted recognizers found similar lexical deviation or inserted filler; use explicit reading and remove ambiguous ellipsis",
+  "previous_receipt": "VO-CY026D1-01-结果.json",
+  "request_id": "Sa3wmsb1mnpflb1tMKeN",
+  "character_cost_header": "13",
+  "file": "声音/缺口补齐-v008/VO-CY026D1-01__GPT-r2.mp3",
+  "sha256": "22835266c6e9fb374d5b25713900321d058217c9b1e1267a9b6eb6b9b56c5d1e",
+  "bytes": 25538,
+  "decode_ok": true
+}

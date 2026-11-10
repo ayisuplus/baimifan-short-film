@@ -1,0 +1,20 @@
+from pathlib import Path
+import json,hashlib
+R=Path(__file__).resolve().parents[3];O=Path(__file__).resolve().parent
+def asset(p,role):
+ q=R/p
+ return {'path':p,'sha256':hashlib.sha256(q.read_bytes()).hexdigest(),'role':role}
+bridge=asset('视频制作/Metaso-H3-v003/产物/GB029-v003-CY029E4-r002.mp4','已有冷蓝湿地反应镜')
+bridge.update(timeline=[9699,9781],source_frames_exclusive=[0,48],resolve_end_frame_inclusive=47,source_fps=24,timeline_frames=82,speed_percent=48/82*100,props={'ZoomX':1,'ZoomY':1,'Pan':0,'Tilt':0,'CropLeft':0,'CropRight':0,'CropTop':0,'CropBottom':0},retime='优先nearest/frame sampling，不启用光流变形；轻微眼神与呼吸放慢，不冻结整张图',reason='0–48f小鱼仍倚靠千问并低垂眼睛；排除后续明确抬头的48–124f，避免接B38原0–36f时重复抬头。原B38开头闭眼继而抬眼，反应因果连贯。Claude的「あの子は……」成为画外声，下一镜GPT答复仍保持。',review='已实看0,12,24,36,48,60,72,81帧及下一镜0,12,24,36帧；只采用0–48范围。变速后的真实接头须root在Resolve预览确认。',evidence='bridge-join.jpg',audio='不移动、不替换任何声音',duplicate_note='该源后部已用于B35，B39使用同源部分。桥仅取抬头前安静部分，避免紧邻的同动作重复；不能宣称全片完全不重复素材。')
+downrefs=[asset('镜头设计/图像/关键动作-v062/CY028A-v062-r1.png','原造型与近景接触姿态主证据；不使用新漂移图'),asset('镜头设计/图像/目光与入场-v048/CY028A-v048-r1.png','空间/服装/木架状态溯源；实体层次重，不准直接作为目标画风上传')]
+carryrefs=[asset('镜头设计/图像/关键动作-v062/CY029D-v062-r2.png','原低位托背托膝姿态与原造型'),asset('镜头设计/图像/火焰伤后与星火-v036/CY029A-v036-r1.png','原抱持近景身份、橙花头饰、淡紫眼与衣饰；材质重，非已准入风格模板')]
+identity=[asset('镜头设计/图像/独立镜头-v009/CY020-v009.png','Claude原细线眼型、橙发、橙花和头纱身份基准；仅人物，不照搬火祭状态'),asset('镜头设计/图像/目光与入场-v048/CY024-v048-r1.png','GPT原群像中的脸型、淡紫眼、白角、花饰和装束基准；不照搬人数/入场场景')]
+pickups=[
+ {'id':'B37_support_only','timeline':[9632,9699],'frames':67,'used_seconds':67/24,'minimum_service_seconds':5,'old_source_search':'GB027-r001、r002-CY028A、r003-CY028A、v004均未通过；前者另有再绑/亮烛/换衣问题。v007/v008/v009桥另造场景，不能倒拿来修扶下。','references':downrefs,'identity_crosscheck':identity,'reference_gate':'原图维持精细二维，不允许简化成另一角色；实体层次较重的全身图仅溯源，不直接上传。root若局部材质修图，必须与原图并排确认脸型/眼色/头饰/服装不变后才可提交。','audio':{'voice_id':'VO-CY028A-01','timeline_start':9634,'offset_seconds':2/24,'ja':'ゆっくりでいい。','duration_seconds':1.58},'prompt':'只修GPT扶Claude下脚托这一个镜头。保持原CY028A的Claude左/GPT右、白角淡紫眼白玫瑰、橙发橙花头纱与焦损衣裙，动漫细线和分层色块；不得换脸、换发饰或重设Kimi。已解开的腕踝腰锁留木架。镜头可收为腰上近景，GPT先扶上臂和腰背承重，Claude轻微下沉并迈一步落地，肩部有真实受力变化；GPT在0.083333秒开始按原音频说ゆっくりでいい，1.663333秒后闭口。Claude不说话，尾部看向左下画外的小鱼。蓝窗冷月、原高坛木架和湿地，烛火已灭，不出现室外干石阶。使用前67帧衔接反应镜；余量只保持末态。不得把全解锁过程重拍或重新绑回去。'},
+ {'id':'B40_end_B41_B42_close_only','timeline':[10641,10833],'frames':192,'requested_seconds':8,'windows':[{'timeline':[10641,10689],'candidate':[0,48]},{'timeline':[10689,10761],'candidate':[48,120]},{'timeline':[10761,10833],'candidate':[120,192]}],'old_source_search':'GB030-1-r001、r002-part45、GB030-2-Metaso-H3-v001、GB031-r001/GB031-v002均含相同厚衣片/塑料发束模型感，未发现合格直接替换。','references':carryrefs,'identity_crosscheck':identity,'reference_gate':'不使用上一轮late-carry-2d或本轮新图exec-739d...；原构图保留，先解决材质而不换造型。','audio':{'voice_id':'VO-CY028-01','timeline_start':10708,'offset_seconds':67/24,'ja':'行こう。','duration_seconds':0.88},'prompt':'仅8秒、3镜，替换抱起/起身/抱持近景，不改前面Claude点火与脱力近景、不重拍离场全景。保持原GPT淡紫眼、双角白玫瑰、精细编发与原裙饰膜翼单尾；Claude橙发橙花、头纱、焦损裙摆、赤足锁痕原样，不另换脸型。二维动漫的细线、绘制发束和衣褶，禁塑料皮肤和实体堆叠蕾丝。0–2秒低位双人镜：GPT已经靠近屈膝，先用手臂稳托后背和膝弯，Claude双足随后离地，重量压入GPT双臂，承接此前力竭；不要让她主动跳进怀中。2秒切同轴中景，GPT抱稳后起身，2.791667秒按原音频说行こう，3.671667秒后闭口。5秒切近景，Claude安静靠在怀中并轻抬眼，GPT确认她安稳后转向教堂入口，8秒末接原离场背影。原冷蓝高窗/湿地不改，身后空木架正由Claude星火点燃，无人仍被绑在火上。不加新对白、亲吻或新增动作，不拍后续离场。'}]
+rejected=[
+ {'path':'C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-97cf201f-b5b9-4a53-b4b5-c2eeb65891c4.png','decision':'拒用','reason':'GPT眼色偏琥珀金，Claude橙发偏棕，脸型眼型更尖；窄脚托未保留且人已站地上，不能当扶下起态。裙层硬片/浮雕感仍重。'},
+ {'path':'C:/Users/36322/.codex/generated_images/01a17883-69dd-74f1-8f13-bbde7422c943/exec-739d4a96-d5b2-49c8-a80e-82f0c4eb70c2.png','decision':'拒用','reason':'二维线条改善，但Claude可见橙花头饰缺失，GPT淡紫眼偏蓝、头面发型简化；手腿比例偏移。不是仅因蕾丝复杂就拒用，主要为造型不一致。'}]
+result={'scope':'只处理B37扶下/桥、B40末至B42抱持近景','keep_untouched':[[9440,9632],[10833,10905]],'no_resolve_or_queue_mutation':True,'no_generation':True,'existing_search_index':'old-index.json','posterior_edit':bridge,'pickups':pickups,'new_candidate_review':rejected,'limits':['抽样不等于全长动作和声音验收','所有源入出均为24fps，区间右端不含','参考列是可追溯证据与准入条件，不是已批准上传列表']}
+(O/'最小剪辑建议.json').write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf8')
+print('wrote 最小剪辑建议.json')

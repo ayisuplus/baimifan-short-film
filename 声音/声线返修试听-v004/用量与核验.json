@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-29",
+  "elevenlabs": {"credits_before": 9206, "credits_after_gpt": 9046, "credits_after_kimi": 8912, "spent": 294, "web_design_requests": 2, "downloaded_previews": 6},
+  "indextts": {"version":"2.5", "root":"G:/IndexTTS-2.5", "source_commit":"d9e41aac89fd00b3d71497fddb287b7f24613712", "model_revision":"c39ce5ba981572cb187443877ff559dfb246ce63", "japanese_outputs":2, "gpu":"RTX 5090", "webui":"http://127.0.0.1:7860", "qwen_new_voice_design_approved":false},
+  "browser_loaded_audio":13,
+  "old_comparison_audio_lazy_loaded":2,
+  "author_listening_approved":false,
+  "timeline_changed":false,
+  "exported_video":false
+}

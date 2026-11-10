@@ -1,0 +1,61 @@
+{
+  "schema": "envelope/1",
+  "type": "envelope",
+  "ok": true,
+  "command": "nodes show",
+  "version": "1.22.0",
+  "where": "local",
+  "data": {
+    "id": "ImageUpscaleWithModel",
+    "name": "ImageUpscaleWithModel",
+    "display_name": "Upscale Image (using Model)",
+    "description": "",
+    "category": "image/upscaling",
+    "output_types": [
+      "IMAGE"
+    ],
+    "output_node": false,
+    "is_api_node": false,
+    "deprecated": false,
+    "pack": "core",
+    "labels": [],
+    "cloud_disabled": false,
+    "inputs": [
+      {
+        "name": "upscale_model",
+        "type": "UPSCALE_MODEL",
+        "required": true,
+        "is_link": true,
+        "section": "required",
+        "choices": [],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": null
+        }
+      },
+      {
+        "name": "image",
+        "type": "IMAGE",
+        "required": true,
+        "is_link": true,
+        "section": "required",
+        "choices": [],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": null
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "IMAGE",
+        "type": "IMAGE"
+      }
+    ]
+  },
+  "error": null
+}

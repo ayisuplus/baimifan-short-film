@@ -1,0 +1,302 @@
+{
+  "batch": {
+    "batch_number": 11,
+    "batch_id": "GB009",
+    "title": "抓柴与受阻",
+    "shot_ids": [
+      "CY016D",
+      "CY017",
+      "CY017A",
+      "CY018"
+    ],
+    "film_start": 129.572729,
+    "film_end": 142.572729,
+    "used_seconds": 13,
+    "original_duration": 15,
+    "duration": 13,
+    "prompt": "subject_definitions:\n<Picture 1>=DeepSeek四视图：同一人四角度，身份服饰保持\n<Picture 2>=Claude四视图：同一人四角度，身份服饰保持\n<Picture 3>=构图状态，非强制首帧\n<Picture 4>=构图状态，非强制首帧\n<Picture 5>=构图状态，非强制首帧\n<Picture 6>=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，13秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–2s <Picture 3>；画内:DeepSeek、教徒、Claude。切镜省略宝宝下长阶，直接从阶下伸手抓木起；身后关门落闩声接队尾进入。保留小鱼左、搬柴者右，偏侧看木头纵深；阶梯退向左后，远处Claude虚焦，不再正中对称。最后一名教徒在队尾掩门落闩。DeepSeek松开没能打开的锁，急切地沿长阶冲到下端，双手抓住一名搬柴教徒怀中乌烬木伸出的那一端，想拦住他。 调度:这是抓牢木端的中间状态。切镜省略松锁后下阶路程，从阶下抓木起；未加推搡。同一教徒一根木，小鱼双手抓同一端。木未燃，火盆仍普通暖火。 注意:这是抓牢木端的中间状态。切镜省略松锁后下阶路程，从阶下抓木起；未加推搡。同一教徒一根木，小鱼双手抓同一端。木未燃，火盆仍普通暖火。 人物:小鱼与搬柴者近景；Claude只在左后高处虚焦受缚，无对白。 声音:下阶脚步、抓木摩擦与急喘，没有手持火焰声。\n[Shot 2] 2–7s <Picture 4>；画内:DeepSeek、教徒。同一根被抓木头与相同握持接前镜；教徒稳木后才用另一手推，不将木头变成击打工具。镜头落到地面，近看小鱼半跪撑手；搬柴者从右前景继续上阶，正中祭坛在画外，阶边与经过者形成纵深。教徒一臂抱稳木头，另一只手将小鱼推到一旁。她失去重心半跪撑地，另一只手仍朝被带走的木头伸着；更多黑袍从身边经过，踏上长阶。 调度:一次推开后的代表状态，不能跳过推开动作。撑地一手、伸手一手，半跪而非第三只手；搬柴不中断，高处Claude在画外。 注意:一次推开后的代表状态，不能跳过推开动作。撑地一手、伸手一手，半跪而非第三只手；搬柴不中断，高处Claude在画外。 人物:小鱼近景，搬柴教徒右缘与后景；Claude在高处画外。 声音:衣料推擦、膝掌落地、木头与脚步不断。\n[Shot 3] 7–9s <Picture 5>；画内:教徒、Claude。以抱木离去的运动方向接祭坛放木，省略搬运上阶路程，木头落响为动作切点。手部近景轻随一根木头下降，落定后向脚托短移揭示刚被遮住的边缘，不抬去拍脸。祭坛上，一双黑金袍袖里的手把乌烬木横放下去。后一名教徒抱着下一根等在旁边。木头相继落下，先遮住固定脚托和脚踝，又沿白裙往上堆。 人物:教徒手部铺柴与Claude裙摆/脚托局部，不加脸部对白。 声音:厚木落堆闷响、树皮摩擦，落点清楚。\n[Shot 4] 9–13s <Picture 6>；画内:DeepSeek、教徒。从木头持续落响切回小鱼由半跪撑起，第二次阻拦是抱另一人的腿，不重演抓木。同侧贴地近摄，孩子局部脸/撑手在左下，另一只手伸向右侧离去靴子；上身、木头和祭坛裁出画面。小鱼撑起身，又扑向另一名搬柴教徒，抱住他的小腿。对方怀里仍抱着木头，用靴子将她拨踢到一旁；她滑倒在阶下，手还朝那条腿伸着。黑袍继续向上。 调度:图为拨踢后滑倒、伸手落空状态，不是开头就趴地。先撑起拦另一人小腿，后被一次拨开；靴子与身体留间隙，不新增伤势。 注意:图为拨踢后滑倒、伸手落空状态，不是开头就趴地。先撑起拦另一人小腿，后被一次拨开；靴子与身体留间隙，不新增伤势。 人物:小鱼局部脸与双手、教徒袍靴；主教徒上身和所抱木头画外，Claude高处画外。 声音:靴底拨踢、衣料擦地、短促气声，不夸张重击。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+        "kind": "identity",
+        "person": "DeepSeek",
+        "name_en": "DeepSeek",
+        "asset_id": "CHAR-DEEPSEEK",
+        "status": "候选待作者审阅",
+        "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+        "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+        "source_path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+        "source_sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+        "sha1": "d9d76117c7724d34a366061d3bb38d3a2c70e2c6",
+        "file_size": 1868475,
+        "width": 2169,
+        "height": 868,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-DEEPSEEK-TURN-v003-h3-pad.png"
+      },
+      {
+        "slot": 2,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "Claude",
+        "name_en": "Claude",
+        "asset_id": "CHAR-CLAUDE",
+        "status": "候选待作者审阅",
+        "limits": "侧背与下裙含补全，不作为精确工程正交图。受缚至离殿采用赤足，四视图鞋仅为日常服装参考。近景不为展示花饰而换侧；不新增另一朵花。",
+        "purpose": "Claude四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a",
+        "source_path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+        "source_sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+        "sha1": "ecd80984142fead85bfab07ed28c0e7b9c8c05b2",
+        "file_size": 2016603,
+        "width": 2200,
+        "height": 880,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-CLAUDE-TURN-v001-h3-pad.png"
+      },
+      {
+        "slot": 3,
+        "path": "镜头设计/图像/空间张力-v063/CY016D-v063-r1.png",
+        "kind": "composition",
+        "shot_id": "CY016D",
+        "purpose": "构图、空间与代表状态：抓住第一根木头；不是默认首帧",
+        "status": "v063空间与张力修订候选，待作者审阅",
+        "limits": "",
+        "sha256": "24af6ba366af39c437c62489825e78b75096f01f2df5c8b0470002c7d529f414",
+        "source_path": "镜头设计/图像/空间张力-v063/CY016D-v063-r1.png",
+        "source_sha256": "24af6ba366af39c437c62489825e78b75096f01f2df5c8b0470002c7d529f414",
+        "sha1": "90503cb6426f5b2da5f3c344cd90d441e4f099e2",
+        "file_size": 2271004,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\空间张力-v063\\CY016D-v063-r1.png"
+      },
+      {
+        "slot": 4,
+        "path": "镜头设计/图像/空间张力-v063/CY017-v063-r2.png",
+        "kind": "composition",
+        "shot_id": "CY017",
+        "purpose": "构图、空间与代表状态：被推开，还想阻止；不是默认首帧",
+        "status": "v063空间与张力修订候选，待作者审阅",
+        "limits": "",
+        "sha256": "2d445d048201b68d30a115540b45762e96a60062ddf27647a181a2b556627725",
+        "source_path": "镜头设计/图像/空间张力-v063/CY017-v063-r2.png",
+        "source_sha256": "2d445d048201b68d30a115540b45762e96a60062ddf27647a181a2b556627725",
+        "sha1": "d7de4d86a5d9e933000e33d7230d8bfe66eb4e61",
+        "file_size": 2295637,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\空间张力-v063\\CY017-v063-r2.png"
+      },
+      {
+        "slot": 5,
+        "path": "镜头设计/图像/火祭因果-v040/CY017A-v040-r1.png",
+        "kind": "composition",
+        "shot_id": "CY017A",
+        "purpose": "构图、空间与代表状态：一根接一根；不是默认首帧",
+        "status": "v0.40修订候选，待作者审阅",
+        "limits": "",
+        "sha256": "2b207c2ae64f753c9eb115b00ecb1c66df590b10c77354f13c423e4963f081ee",
+        "source_path": "镜头设计/图像/火祭因果-v040/CY017A-v040-r1.png",
+        "source_sha256": "2b207c2ae64f753c9eb115b00ecb1c66df590b10c77354f13c423e4963f081ee",
+        "sha1": "680474f97f1972a2505d2802b3e65522876aba91",
+        "file_size": 2428989,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\火祭因果-v040\\CY017A-v040-r1.png"
+      },
+      {
+        "slot": 6,
+        "path": "镜头设计/图像/空间张力-v063/CY018-v063-r2.png",
+        "kind": "composition",
+        "shot_id": "CY018",
+        "purpose": "构图、空间与代表状态：拦住下一个，又被踢开；不是默认首帧",
+        "status": "v063空间与张力修订候选，待作者审阅",
+        "limits": "",
+        "sha256": "97b531e5e89b700f93b71e2b7de74ed38f77a018e98041a54ae66820b06611e6",
+        "source_path": "镜头设计/图像/空间张力-v063/CY018-v063-r2.png",
+        "source_sha256": "97b531e5e89b700f93b71e2b7de74ed38f77a018e98041a54ae66820b06611e6",
+        "sha1": "e55fced124dda40d97de5e06468b050e2a6adfe6",
+        "file_size": 2374748,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\空间张力-v063\\CY018-v063-r2.png"
+      }
+    ],
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 13,
+      "count": 1
+    },
+    "estimated_credits": 182,
+    "estimate_basis": "15秒报价210，按秒计费推算，提交前以网页实价为准",
+    "budget_selected": true,
+    "status": "prepared_not_submitted",
+    "task_id": null,
+    "node_id": "v-qg45AJZg5A",
+    "display_name": "第11批 · 抓柴与受阻 · H3 v001"
+  },
+  "request": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "node": "v-qg45AJZg5A",
+    "idempotencyKey": "bmf-h3-GB009-wire-full",
+    "model": "MiniMax-Hailuo-H3",
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 13,
+      "count": 1
+    },
+    "prompt": "subject_definitions:\n{{Node i-JAT4Pva730}}=DeepSeek四视图：同一人四角度，身份服饰保持\n{{Node i-uKDIVWmghN}}=Claude四视图：同一人四角度，身份服饰保持\n{{Node i-AiUKh4C7fx}}=构图状态，非强制首帧\n{{Node i-r42TbM1355}}=构图状态，非强制首帧\n{{Node i-UFMJjng9Ev}}=构图状态，非强制首帧\n{{Node i-Pv5LA1WpOd}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，13秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–2s {{Node i-AiUKh4C7fx}}；画内:DeepSeek、教徒、Claude。切镜省略宝宝下长阶，直接从阶下伸手抓木起；身后关门落闩声接队尾进入。保留小鱼左、搬柴者右，偏侧看木头纵深；阶梯退向左后，远处Claude虚焦，不再正中对称。最后一名教徒在队尾掩门落闩。DeepSeek松开没能打开的锁，急切地沿长阶冲到下端，双手抓住一名搬柴教徒怀中乌烬木伸出的那一端，想拦住他。 调度:这是抓牢木端的中间状态。切镜省略松锁后下阶路程，从阶下抓木起；未加推搡。同一教徒一根木，小鱼双手抓同一端。木未燃，火盆仍普通暖火。 注意:这是抓牢木端的中间状态。切镜省略松锁后下阶路程，从阶下抓木起；未加推搡。同一教徒一根木，小鱼双手抓同一端。木未燃，火盆仍普通暖火。 人物:小鱼与搬柴者近景；Claude只在左后高处虚焦受缚，无对白。 声音:下阶脚步、抓木摩擦与急喘，没有手持火焰声。\n[Shot 2] 2–7s {{Node i-r42TbM1355}}；画内:DeepSeek、教徒。同一根被抓木头与相同握持接前镜；教徒稳木后才用另一手推，不将木头变成击打工具。镜头落到地面，近看小鱼半跪撑手；搬柴者从右前景继续上阶，正中祭坛在画外，阶边与经过者形成纵深。教徒一臂抱稳木头，另一只手将小鱼推到一旁。她失去重心半跪撑地，另一只手仍朝被带走的木头伸着；更多黑袍从身边经过，踏上长阶。 调度:一次推开后的代表状态，不能跳过推开动作。撑地一手、伸手一手，半跪而非第三只手；搬柴不中断，高处Claude在画外。 注意:一次推开后的代表状态，不能跳过推开动作。撑地一手、伸手一手，半跪而非第三只手；搬柴不中断，高处Claude在画外。 人物:小鱼近景，搬柴教徒右缘与后景；Claude在高处画外。 声音:衣料推擦、膝掌落地、木头与脚步不断。\n[Shot 3] 7–9s {{Node i-UFMJjng9Ev}}；画内:教徒、Claude。以抱木离去的运动方向接祭坛放木，省略搬运上阶路程，木头落响为动作切点。手部近景轻随一根木头下降，落定后向脚托短移揭示刚被遮住的边缘，不抬去拍脸。祭坛上，一双黑金袍袖里的手把乌烬木横放下去。后一名教徒抱着下一根等在旁边。木头相继落下，先遮住固定脚托和脚踝，又沿白裙往上堆。 人物:教徒手部铺柴与Claude裙摆/脚托局部，不加脸部对白。 声音:厚木落堆闷响、树皮摩擦，落点清楚。\n[Shot 4] 9–13s {{Node i-Pv5LA1WpOd}}；画内:DeepSeek、教徒。从木头持续落响切回小鱼由半跪撑起，第二次阻拦是抱另一人的腿，不重演抓木。同侧贴地近摄，孩子局部脸/撑手在左下，另一只手伸向右侧离去靴子；上身、木头和祭坛裁出画面。小鱼撑起身，又扑向另一名搬柴教徒，抱住他的小腿。对方怀里仍抱着木头，用靴子将她拨踢到一旁；她滑倒在阶下，手还朝那条腿伸着。黑袍继续向上。 调度:图为拨踢后滑倒、伸手落空状态，不是开头就趴地。先撑起拦另一人小腿，后被一次拨开；靴子与身体留间隙，不新增伤势。 注意:图为拨踢后滑倒、伸手落空状态，不是开头就趴地。先撑起拦另一人小腿，后被一次拨开；靴子与身体留间隙，不新增伤势。 人物:小鱼局部脸与双手、教徒袍靴；主教徒上身和所抱木头画外，Claude高处画外。 声音:靴底拨踢、衣料擦地、短促气声，不夸张重击。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "leftEnsure": [
+      "i-JAT4Pva730",
+      "i-uKDIVWmghN",
+      "i-AiUKh4C7fx",
+      "i-r42TbM1355",
+      "i-UFMJjng9Ev",
+      "i-Pv5LA1WpOd"
+    ],
+    "newName": "第11批 · 抓柴与受阻 · H3 v001",
+    "run": false
+  },
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-qg45AJZg5A",
+    "node": {
+      "id": "v-qg45AJZg5A",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第11批 · 抓柴与受阻 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Image 1}}=DeepSeek四视图：同一人四角度，身份服饰保持\n{{Image 2}}=Claude四视图：同一人四角度，身份服饰保持\n{{Image 3}}=构图状态，非强制首帧\n{{Image 4}}=构图状态，非强制首帧\n{{Image 5}}=构图状态，非强制首帧\n{{Image 6}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，13秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–2s {{Image 3}}；画内:DeepSeek、教徒、Claude。切镜省略宝宝下长阶，直接从阶下伸手抓木起；身后关门落闩声接队尾进入。保留小鱼左、搬柴者右，偏侧看木头纵深；阶梯退向左后，远处Claude虚焦，不再正中对称。最后一名教徒在队尾掩门落闩。DeepSeek松开没能打开的锁，急切地沿长阶冲到下端，双手抓住一名搬柴教徒怀中乌烬木伸出的那一端，想拦住他。 调度:这是抓牢木端的中间状态。切镜省略松锁后下阶路程，从阶下抓木起；未加推搡。同一教徒一根木，小鱼双手抓同一端。木未燃，火盆仍普通暖火。 注意:这是抓牢木端的中间状态。切镜省略松锁后下阶路程，从阶下抓木起；未加推搡。同一教徒一根木，小鱼双手抓同一端。木未燃，火盆仍普通暖火。 人物:小鱼与搬柴者近景；Claude只在左后高处虚焦受缚，无对白。 声音:下阶脚步、抓木摩擦与急喘，没有手持火焰声。\n[Shot 2] 2–7s {{Image 4}}；画内:DeepSeek、教徒。同一根被抓木头与相同握持接前镜；教徒稳木后才用另一手推，不将木头变成击打工具。镜头落到地面，近看小鱼半跪撑手；搬柴者从右前景继续上阶，正中祭坛在画外，阶边与经过者形成纵深。教徒一臂抱稳木头，另一只手将小鱼推到一旁。她失去重心半跪撑地，另一只手仍朝被带走的木头伸着；更多黑袍从身边经过，踏上长阶。 调度:一次推开后的代表状态，不能跳过推开动作。撑地一手、伸手一手，半跪而非第三只手；搬柴不中断，高处Claude在画外。 注意:一次推开后的代表状态，不能跳过推开动作。撑地一手、伸手一手，半跪而非第三只手；搬柴不中断，高处Claude在画外。 人物:小鱼近景，搬柴教徒右缘与后景；Claude在高处画外。 声音:衣料推擦、膝掌落地、木头与脚步不断。\n[Shot 3] 7–9s {{Image 5}}；画内:教徒、Claude。以抱木离去的运动方向接祭坛放木，省略搬运上阶路程，木头落响为动作切点。手部近景轻随一根木头下降，落定后向脚托短移揭示刚被遮住的边缘，不抬去拍脸。祭坛上，一双黑金袍袖里的手把乌烬木横放下去。后一名教徒抱着下一根等在旁边。木头相继落下，先遮住固定脚托和脚踝，又沿白裙往上堆。 人物:教徒手部铺柴与Claude裙摆/脚托局部，不加脸部对白。 声音:厚木落堆闷响、树皮摩擦，落点清楚。\n[Shot 4] 9–13s {{Image 6}}；画内:DeepSeek、教徒。从木头持续落响切回小鱼由半跪撑起，第二次阻拦是抱另一人的腿，不重演抓木。同侧贴地近摄，孩子局部脸/撑手在左下，另一只手伸向右侧离去靴子；上身、木头和祭坛裁出画面。小鱼撑起身，又扑向另一名搬柴教徒，抱住他的小腿。对方怀里仍抱着木头，用靴子将她拨踢到一旁；她滑倒在阶下，手还朝那条腿伸着。黑袍继续向上。 调度:图为拨踢后滑倒、伸手落空状态，不是开头就趴地。先撑起拦另一人小腿，后被一次拨开；靴子与身体留间隙，不新增伤势。 注意:图为拨踢后滑倒、伸手落空状态，不是开头就趴地。先撑起拦另一人小腿，后被一次拨开；靴子与身体留间隙，不新增伤势。 人物:小鱼局部脸与双手、教徒袍靴；主教徒上身和所抱木头画外，Claude高处画外。 声音:靴底拨踢、衣料擦地、短促气声，不夸张重击。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png"
+            },
+            {
+              "nodeId": "i-uKDIVWmghN",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/88234e0405150bf25c82642dd7493f40996749c6.png"
+            },
+            {
+              "nodeId": "i-AiUKh4C7fx",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/25f821823dfd90e0fb7620b32ffd3bc0759f5886.png"
+            },
+            {
+              "nodeId": "i-r42TbM1355",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/a8d3eda33d379bdfcf4b0cef7dc701aec5eea414.png"
+            },
+            {
+              "nodeId": "i-UFMJjng9Ev",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/065a401d15a11cfd052cd4772ffa672cf9c15029.png"
+            },
+            {
+              "nodeId": "i-Pv5LA1WpOd",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/452d85638b6d0bdc0a0f390519ef6171ae2f7299.png"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 13
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-ElLQ5PFSVj",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/3573755537c48f4b3abd475948f5f1b4a83a1dfe.png",
+              "label": "CY016C-v040-r1",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-JAT4Pva730",
+            "i-uKDIVWmghN",
+            "i-AiUKh4C7fx",
+            "i-r42TbM1355",
+            "i-UFMJjng9Ev",
+            "i-Pv5LA1WpOd"
+          ],
+          "mixedListOrder": [
+            "i-JAT4Pva730",
+            "i-uKDIVWmghN",
+            "i-AiUKh4C7fx",
+            "i-r42TbM1355",
+            "i-UFMJjng9Ev",
+            "i-Pv5LA1WpOd"
+          ]
+        },
+        "_updatedAtMs": 1793120033000,
+        "_lastAppliedFullyAtMs": 1793120033000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        }
+      },
+      "position": {
+        "x": 1080,
+        "y": 5542
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-qg45AJZg5A",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

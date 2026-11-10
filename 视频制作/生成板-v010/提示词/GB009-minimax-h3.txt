@@ -1,0 +1,35 @@
+subject_definitions:
+<Subject 1>: DeepSeek, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: Claude, identity and outfit from four-view sheet <Picture 2>.
+<Picture 3>: [Shot 1] composition and state reference; not its first frame.
+<Picture 4>: [Shot 2] composition and state reference; not its first frame.
+<Picture 5>: [Shot 3] composition and state reference; not its first frame.
+<Picture 6>: [Shot 4] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. DeepSeek twice tries to halt the wood carriers while their logs continue upward; her failed resistance is intercut with the growing pile.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Omit the child's descent across the cut and begin her grab at the stair foot; a latch sound behind completes the returning line's entrance. Use <Picture 3> for composition. DeepSeek is now at the bottom of the long stairs, the descent omitted. She grips the projecting end of one black log with both hands, trying to stop its carrier. The cultist still holds the same log and intends to move on. The last cultist closes and bars the entrance behind the line. No hand-held fire appears. At the stair foot, make a short sideways follow of the hands taking the log, retaining the carrier's supporting grip. The last descending footfalls, hurried breathing and hands scraping bark; a subdued door latch behind the returning line.
+[Shot 2] At 00:02.000, Match the held log and grip; the carrier steadies it before using the other hand to push, never using the log as a weapon. Use <Picture 4> for composition. The cultist braces the log with one arm and pushes DeepSeek aside with the other hand. She loses balance, drops into a half-kneel and supports herself with one hand while the other reaches after the departing log. More robed carriers pass her and climb the stairs. She remains half-kneeling at the end. Pan slightly with the shove and tilt down to the half-kneeling child, then let the log carrier pass while retaining her outstretched hand. A fabric shove, knee and palm meeting stone, then continuing log movements and footsteps.
+[Shot 3] At 00:07.000, Match the departing log's direction to its placement at the altar, omitting the stair transit; use the landing thud as the action beat. Use <Picture 5> for composition. At the highest altar, hands emerging from black-and-gold sleeves lay a log horizontally. Another carrier waits beside them with the next log. The successive logs begin to cover Claude's fixed footrest and ankle area and accumulate along her skirt. Only the working hands and cropped lower-body restraint area are shown. Follow one log down in a close-up, then shift slightly toward the footrest edge as it becomes obscured; do not tilt to faces. Heavy logs land with distinct dull thuds and bark friction.
+[Shot 4] At 00:09.000, Carry the continuing wood thuds back to the child rising from the half-kneel; this second attempt targets a different carrier's leg. Use <Picture 6> for composition. DeepSeek pushes herself up from the first shove and lunges to clasp another wood carrier's lower leg. Still holding his log, the cultist brushes her aside with his boot. She slides down at the stair foot, reaching after that leg while the procession keeps moving upward. Return to the same side at the stair foot; track briefly with her grab at the leg, then pan low with her slide, retaining cause and effect. A restrained boot brush, clothing scraping stone and a short breath; avoid an exaggerated impact.
+From 13 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 2s: Cut to the push and continued resistance.
+English speech with lip sync; no audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

@@ -1,0 +1,240 @@
+{
+  "version": "v002",
+  "scope": "画面剪辑EDL；不改原配音速度、文件或作者选择。输出按24fps，所有out为排除端点。",
+  "audio_policy": "不使用变速后的模型原声作终版；已选日语/BGM仍按v025原速全局时码。双人段画面拉长不等于口型同步通过，后期仍需逐句核验。",
+  "items": [
+    {
+      "batch_number": 8,
+      "batch_id": "GB007",
+      "attempt_id": "GB007-r002",
+      "output_duration": 15,
+      "output_fps": 24,
+      "output_frames": 360,
+      "source_sha256": "80aafaed13b3e60a8be14a8a0381e1be2b0fd7d312eae9dfd093e2e521e7207e",
+      "segments": [
+        {
+          "shot_id": "CY013",
+          "display_name": "第8批 · 第1镜",
+          "source": "视频制作/Metaso-H3-v002/产物/GB007-r002.mp4",
+          "source_in_frame": 0,
+          "source_out_frame_exclusive": 82,
+          "source_fps": 24,
+          "source_in": 0.0,
+          "source_out": 3.4166666666666665,
+          "source_duration": 3.4166666666666665,
+          "target_in": 0,
+          "target_out": 3,
+          "target_duration": 3,
+          "target_frames": 72,
+          "setpts_factor": 0.8780487804878049,
+          "playback_speed": 1.1388888888888888,
+          "note": "完整保留Claude低头、担忧及轻摇头；轻微压缩3.416667至3秒。"
+        },
+        {
+          "shot_id": "CY013A",
+          "display_name": "第8批 · 第2镜",
+          "source": "视频制作/Metaso-H3-v002/产物/GB007-r002.mp4",
+          "source_in_frame": 82,
+          "source_out_frame_exclusive": 130,
+          "source_fps": 24,
+          "source_in": 3.4166666666666665,
+          "source_out": 5.416666666666667,
+          "source_duration": 2.0,
+          "target_in": 3,
+          "target_out": 5,
+          "target_duration": 2,
+          "target_frames": 48,
+          "setpts_factor": 1.0,
+          "playback_speed": 1.0,
+          "note": "赤足与踝链段只取连续前2秒；删掉后面近3秒重复静态停留，不截动作因果。"
+        },
+        {
+          "shot_id": "CY015",
+          "display_name": "第8批 · 第3镜",
+          "source": "视频制作/Metaso-H3-v002/产物/GB007-r002.mp4",
+          "source_in_frame": 197,
+          "source_out_frame_exclusive": 272,
+          "source_fps": 24,
+          "source_in": 8.208333333333334,
+          "source_out": 11.333333333333334,
+          "source_duration": 3.125,
+          "target_in": 5,
+          "target_out": 10,
+          "target_duration": 5,
+          "target_frames": 120,
+          "setpts_factor": 1.6,
+          "playback_speed": 0.625,
+          "note": "完整保留Claude与小鱼双人段、伸手够锁；3.125秒扩展至5秒，画面1.6倍时长。"
+        },
+        {
+          "shot_id": "CY016",
+          "display_name": "第8批 · 第4镜",
+          "source": "视频制作/Metaso-H3-v002/产物/GB007-r002.mp4",
+          "source_in_frame": 272,
+          "source_out_frame_exclusive": 362,
+          "source_fps": 24,
+          "source_in": 11.333333333333334,
+          "source_out": 15.083333333333334,
+          "source_duration": 3.75,
+          "target_in": 10,
+          "target_out": 15,
+          "target_duration": 5,
+          "target_frames": 120,
+          "setpts_factor": 1.3333333333333333,
+          "playback_speed": 0.75,
+          "note": "完整保留掰锁失败、转抓横链与拉紧动作；3.75秒扩展至5秒。"
+        }
+      ],
+      "dropped_source_frames": {
+        "start": 130,
+        "end_exclusive": 197,
+        "reason": "足部/踝链静态重复停留；已在82–130保留2秒完整细节。"
+      },
+      "validation": {
+        "hard_cut_frames": [
+          82,
+          197,
+          272
+        ],
+        "source_total_frames": 362,
+        "max_time_stretch": 1.6,
+        "actions_preserved": true,
+        "lip_sync": "not_verified"
+      }
+    },
+    {
+      "batch_number": 21,
+      "batch_id": "GB016-1",
+      "attempt_id": "GB016-1-r003-part4",
+      "target_visual_fix": "passed",
+      "observations": [
+        "约0.75–1.25秒完成一次合拢，1.25秒以后保持闭合；没有再次展开。",
+        "可直接取源0–2秒，完整动作及至少0.75秒稳定尾段均在有效窗口。"
+      ],
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v002/产物/GB016-1-r003-part4.mp4",
+          "source_in_frame": 0,
+          "source_out_frame_exclusive": 48,
+          "source_fps": 24,
+          "source_in": 0,
+          "source_out": 2,
+          "target_in": 9.3,
+          "target_out": 11.3,
+          "target_duration": 2,
+          "setpts_factor": 1,
+          "playback_speed": 1
+        }
+      ],
+      "edit_context": "原LibTV前6秒 + r002-part34源0–3.3秒 + 本片源0–2秒。"
+    },
+    {
+      "batch_number": 29,
+      "batch_id": "GB020-2",
+      "attempt_id": "GB020-2-r003",
+      "target_visual_fix": "failed",
+      "observations": [
+        "即使使用新纯流体参考，前约4.5秒仍生成实体鳞片、牙齿、白鬃及青色亮眼，随后才化水；不能认为已修复。",
+        "尾段纯水不足覆盖5.59秒，拉长超过2倍；不建议用拉伸掩盖缺失。"
+      ],
+      "segments": [],
+      "recommendation": "按父代理提出的官方first_frame模式仅做一次有不同技术依据的修复；不重复reference模式盲抽。"
+    },
+    {
+      "batch_number": 31,
+      "batch_id": "GB022-1",
+      "attempt_id": "GB022-1-r003-part2",
+      "target_visual_fix": "full_frame_failed_close_crop_available",
+      "observations": [
+        "全幅前约2.5秒固定亮青眼仍在；0–1.5秒未完整前指。",
+        "源1.5–3.0秒包含从脸前向前指出及稳定指令，crop640×360,x240,y30将龙首亮眼全程置于画外；8fps连续采样见审查/GB022-1-r003-part2-近景备选.jpg。"
+      ],
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v002/产物/GB022-1-r003-part2.mp4",
+          "source_in_frame": 36,
+          "source_out_frame_exclusive": 72,
+          "source_fps": 24,
+          "source_in": 1.5,
+          "source_out": 3.0,
+          "target_in": 12,
+          "target_out": 13.5,
+          "target_duration": 1.5,
+          "setpts_factor": 1,
+          "playback_speed": 1,
+          "crop": {
+            "width": 640,
+            "height": 360,
+            "x": 240,
+            "y": 30
+          },
+          "use": "fallback_only"
+        }
+      ],
+      "limitations": [
+        "有效细节仅640×360，放大至主片会更软。",
+        "解印前半通过动作切省略；保留清晰的一次向前指令，龙响应接后镜。"
+      ],
+      "first_frame_repair_candidate": {
+        "path": "视频制作/Metaso-H3-v002/审查/GB022-1-r002-part1-11.5.png",
+        "observed": "成功part1尾帧，胸前手印完整，龙眼暗且水体流动；未见额外手/断腕。",
+        "recommendation": "新first_frame修复若通过优先；未通过可使用以上裁切备选并披露画质。"
+      }
+    },
+    {
+      "batch_number": 29,
+      "batch_id": "GB020-2",
+      "attempt_id": "GB020-2-r004",
+      "target_visual_fix": "passed",
+      "observations": [
+        "4fps全段采样及2.0/5.5秒大帧复核：首尾保持流体水脊、折射和泡沫；无固定发光眼、实体鳞甲和牙齿。",
+        "水流向下冲至屋顶接触后形成水花；本轮目标完成，不追加重拍。"
+      ],
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v002/产物/GB020-2-r004.mp4",
+          "source_sha256": "93de6f3a56c3e3ac125e6ede07f27ffd73b61c4a57123069fe020b1fbc4dbb53",
+          "source_in": 0,
+          "source_out": 5.59,
+          "target_in": 0,
+          "target_out": 5.59,
+          "target_duration": 5.59,
+          "setpts_factor": 1,
+          "playback_speed": 1
+        }
+      ],
+      "review_boundary": "仅目标视觉修复验收；最终日语/BGM、撞击音卡点仍归后期声音对位。"
+    },
+    {
+      "batch_number": 31,
+      "batch_id": "GB022-1",
+      "attempt_id": "GB022-1-r004-part2",
+      "target_visual_fix": "passed",
+      "observations": [
+        "4fps全段采样与0.5/1/1.5/2/2.5秒大帧：水龙保持流体暗眼，无固定青色亮眼；GPT以右手一次向前发令。",
+        "源0.5–2.5秒包含手由胸前抬起、一次前指和随后水首启动，取此连续2秒压成1.5秒，不截断指令主体。"
+      ],
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v002/产物/GB022-1-r004-part2.mp4",
+          "source_sha256": "928963a7ac2477f7f8fda39a85e3c7a32f1c2a49ec070cb379f5cc6afca9543a",
+          "source_in_frame": 12,
+          "source_out_frame_exclusive": 60,
+          "source_fps": 24,
+          "source_in": 0.5,
+          "source_out": 2.5,
+          "source_duration": 2,
+          "target_in": 12,
+          "target_out": 13.5,
+          "target_duration": 1.5,
+          "target_frames": 36,
+          "setpts_factor": 0.75,
+          "playback_speed": 1.3333333333333333,
+          "audio": "discard_generated_audio_no_dialogue"
+        }
+      ],
+      "edit_context": "接保留r002-part1前12秒，总13.5秒。原日语/BGM不变速；本段无对白。",
+      "replaces_fallback": "r003裁切备用保留历史，不需采用其360p近景。"
+    }
+  ]
+}

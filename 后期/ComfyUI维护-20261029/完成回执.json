@@ -1,0 +1,84 @@
+{
+  "f11888f9-2e73-4b42-9388-c77e09127f5d": {
+    "prompt": [
+      1,
+      "f11888f9-2e73-4b42-9388-c77e09127f5d",
+      {
+        "1": {
+          "class_type": "EmptyImage",
+          "inputs": {
+            "width": 64,
+            "height": 64,
+            "batch_size": 1,
+            "color": 0
+          }
+        },
+        "2": {
+          "class_type": "SaveImage",
+          "inputs": {
+            "images": [
+              "1",
+              0
+            ],
+            "filename_prefix": "maintenance/20261029-cli-repair"
+          }
+        }
+      },
+      {
+        "comfy_usage_source": "comfy-cli/comfy-mcp",
+        "client_id": "1958b045-e62e-4966-acbd-464a9745525e",
+        "create_time": 1793261984683
+      },
+      [
+        "2"
+      ]
+    ],
+    "outputs": {
+      "2": {
+        "images": [
+          {
+            "filename": "20261029-cli-repair_00001_.png",
+            "subfolder": "maintenance",
+            "type": "output"
+          }
+        ]
+      }
+    },
+    "status": {
+      "status_str": "success",
+      "completed": true,
+      "messages": [
+        [
+          "execution_start",
+          {
+            "prompt_id": "f11888f9-2e73-4b42-9388-c77e09127f5d",
+            "timestamp": 1793261984684
+          }
+        ],
+        [
+          "execution_cached",
+          {
+            "nodes": [],
+            "prompt_id": "f11888f9-2e73-4b42-9388-c77e09127f5d",
+            "timestamp": 1793261984684
+          }
+        ],
+        [
+          "execution_success",
+          {
+            "prompt_id": "f11888f9-2e73-4b42-9388-c77e09127f5d",
+            "timestamp": 1793261984699
+          }
+        ]
+      ]
+    },
+    "meta": {
+      "2": {
+        "node_id": "2",
+        "display_node": "2",
+        "parent_node": null,
+        "real_node_id": "2"
+      }
+    }
+  }
+}

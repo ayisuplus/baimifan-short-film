@@ -1,0 +1,1710 @@
+{
+  "engine": "built-in imagegen",
+  "initial_outputs": {
+    "CY011": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-1bd0d5d7-fa7a-458e-8319-410a4c9ba826.png",
+    "CY011A": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-2ed62987-55d8-4a46-8fff-f0a000c05ef7.png",
+    "CY013": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-ef43d200-bd89-4e79-86ad-3b1dddee40fe.png",
+    "CY021": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-cf8c70e7-6099-4de5-a901-f0aecbb23709.png",
+    "CY027B3": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-81851fbb-d301-4ff7-aee4-da1265dcbd2c.png",
+    "CY027E2": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-c5556733-f0c2-4456-8a45-131a3d658eb3.png",
+    "CY016": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-45740303-3907-4640-9b38-0b24a7f801af.png",
+    "CY010A": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-aba2d5af-7cf3-46c1-baba-c7a5b265ff1d.png",
+    "CY027C": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-945d4e41-b794-40c5-af06-36ae16f3968a.png",
+    "CY001": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-f87f725e-9124-4112-a595-63ef8224435d.png",
+    "CY002": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-cf58485e-9909-413a-85ce-44ec3e1cc8c1.png",
+    "CY003": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-07c172ee-7fec-46fe-8180-a84396e1a95e.png",
+    "CY003A": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-90bf17e0-3625-482a-963f-90a87d0120e6.png",
+    "CY003B": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-f3f67cb5-a555-4ac3-a653-4bda82896881.png",
+    "CY004": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-551af2e6-960e-4624-b975-9d735a74159f.png",
+    "CY004B": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-69243c0c-4415-4add-a6df-0a46d161fb5e.png",
+    "CY005": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-819088f2-3b5d-43aa-98a2-62b4b7b46cc3.png",
+    "CY006": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-51b651ba-c969-457a-9426-613d457558fd.png",
+    "CY007": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-e02ffbb4-b561-4123-bf07-8b52af91c375.png",
+    "CY008": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-add6ed7f-ee99-4883-9d0b-894e8c9c3150.png",
+    "CY009": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-9b11ca30-2a8d-42f5-be9b-d1bb90870734.png",
+    "CY010": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-df281808-860a-42ed-9c81-da05b4e0a706.png",
+    "CY013A": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-ad2c9e37-ee2f-4a99-b920-1c7d94870441.png",
+    "CY015": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-b973a43e-28a4-4bf9-ac16-bcac950ce222.png",
+    "CY016A1": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-0a6ce54d-9dea-409d-8e41-be7fa4481108.png",
+    "CY016A": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-b84a3822-1444-471e-b217-8ed019cc959a.png",
+    "CY016B1": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-250eeca0-ff60-48ae-9879-7f803369335a.png",
+    "CY016C": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-d45f1b3f-7231-4b78-ae86-f2f52de527e6.png",
+    "CY016D": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-b582a8dd-617a-451b-9144-6614b3de22a8.png",
+    "CY017": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-2c47badd-53db-4633-8745-a6f1fac795bc.png",
+    "CY018": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-a2caf4c4-8b71-4c90-b76f-a64616543c5f.png",
+    "CY019": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-b14e9581-1638-4028-9028-69aefca0ce46.png",
+    "CY020": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-436ce1b9-7dda-43f0-a68a-f6d3a1f1a080.png",
+    "CY020B": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-91e9a04e-db32-4d98-9942-1b30020385e7.png",
+    "CY020A": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-0a2cf9dc-a97f-437e-b305-e72917be030b.png",
+    "CY021B": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-44144153-fdf3-4bd9-9e42-0bb7e478bade.png",
+    "CY021A": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-4bbc722c-d958-4d17-8bdd-faf63cc5f06a.png",
+    "CY022A": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-8c5d3289-4912-485e-8457-b235212abc9b.png",
+    "CY022": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-97396334-382c-4d6f-bc0e-a0b45a033462.png",
+    "CY022B": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-d728b796-d49b-47f9-809e-f4122a5b4291.png",
+    "CY022C": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-8ad44eb2-aafb-4ec7-ade7-8c3561a6f2cd.png",
+    "CY023": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-aa8d39b3-b995-40b6-b2aa-a3051b8c1f7e.png",
+    "CY026A": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-40d20880-9e53-4b69-88f5-7f82e2783c84.png",
+    "CY026A1": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-de97818f-bc1a-4abf-8a93-9bf17556cfa5.png",
+    "CY026B": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-1c0aff1a-dea7-41ae-aa32-189edda8dbfd.png",
+    "CY026C": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-e67e8584-99c7-45ef-8619-08f6f601fd2d.png",
+    "CY026D1": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-4480131f-95ca-4f63-a57e-c7ab81a07f3d.png",
+    "CY026D": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-b412e078-9c98-4cc3-96b2-ddec8d93da4b.png",
+    "CY027A": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-5e24741d-5188-4d01-ac98-72b23f1eb518.png",
+    "CY027B": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-180f5530-9b34-4713-8b8e-ff321e6e42a8.png",
+    "CY027B1": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-39b1ef3a-89db-4a85-b837-711c16c1bcd9.png",
+    "CY027B2": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-915d927a-4964-4a74-beee-b5d1c62585b5.png",
+    "CY027E": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-43a79f6a-f37d-4607-b84a-b914f684ca69.png",
+    "CY027E1": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-fe6afdf2-ed07-49dc-a1a1-10700bbd564b.png",
+    "CY027D": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-70ce3ac0-57ec-4af1-b66f-5b3bf34dae31.png",
+    "CY027F1": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-8e47bdea-a72e-4789-a204-1468b8e88ad2.png",
+    "CY027G": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-5a4dd36c-ec0a-428f-8577-9b99b8d089ce.png",
+    "CY028A": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-0249df5f-3282-4fe2-9324-84b1caac9ede.png",
+    "CY028B": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-8c86ff7b-1ad3-4b32-ba83-68a6f3e1c2ab.png",
+    "CY028C": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-dde01e26-36b2-4133-bd85-30885bed0988.png",
+    "CY029": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-65879219-33d8-48f4-9dce-f7bf23a989e5.png",
+    "CY029E": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-ff93ba5e-2d3b-40f6-8b8b-01390c4f4617.png",
+    "CY029B": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-5c16b07d-ad94-4e7c-a98b-8352d943b3d4.png",
+    "CY029C": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-1b8fb183-c887-4f8b-b47e-32b5df188613.png",
+    "CY029D": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-89ba2a37-ffb6-4ab8-968b-29db33dccd9e.png",
+    "CY028": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-c507296b-3af1-4423-b108-4f0467f3783a.png",
+    "CY029A": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-8db5a588-a575-4bb2-a32c-cc95a02921ff.png",
+    "CY031": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-0beaeb98-d58f-4004-a02a-c0e3b9a457a1.png",
+    "CY031A": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-176c0582-40d3-4563-a709-3fc5db146b09.png",
+    "CY033": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-2c02184f-b9a7-4066-9fce-33fba8c86391.png",
+    "CY034": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-074bd201-12c9-45f1-b827-ba0a980e645f.png"
+  },
+  "requests": [
+    {
+      "id": "CY011",
+      "file": "CY011-请求.json",
+      "status": "completed",
+      "request_sha256": "907035487c766eeca9fcc3fae8500b4e6847d27cd353b29b570f4ed1327fd588",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\潜入同一侧墙-四格-v008.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/967c61ba2097024f.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\潜入同一侧墙-四格-v008.png",
+          "sha256": "967c61ba2097024f7307dd79f86b018e93e813e19d58e9ddf9f58b8819c8e99e",
+          "reconstructed_from_retained_original": false
+        },
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\概念参考\\02-DeepSeek-母版概念参考.webp",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/4c5d87b19a5eb37b.webp",
+          "source_original": "E:\\projects\\内容创作\\穿云\\概念参考\\02-DeepSeek-母版概念参考.webp",
+          "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY011A",
+      "file": "CY011A-请求.json",
+      "status": "completed",
+      "request_sha256": "701d46e5b033f2e05d5ad4e6f0c5077d1ed2578184c1ab0c89a6ca002f48c4b7",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\潜入同一侧墙-四格-v008.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/967c61ba2097024f.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\潜入同一侧墙-四格-v008.png",
+          "sha256": "967c61ba2097024f7307dd79f86b018e93e813e19d58e9ddf9f58b8819c8e99e",
+          "reconstructed_from_retained_original": false
+        },
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\概念参考\\02-DeepSeek-母版概念参考.webp",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/4c5d87b19a5eb37b.webp",
+          "source_original": "E:\\projects\\内容创作\\穿云\\概念参考\\02-DeepSeek-母版概念参考.webp",
+          "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY013",
+      "file": "CY013-请求.json",
+      "status": "completed",
+      "request_sha256": "237f269da72f8d5a6c44c186cae45cf8f8397319734b410fafd873a181341e42",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\CY013-祭坛双盆远景-v008.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/25687fad29a3e725.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\CY013-祭坛双盆远景-v008.png",
+          "sha256": "25687fad29a3e725a8270d2baf12136ce3b14912e51507a2c35f2ec595f21cec",
+          "reconstructed_from_retained_original": false
+        },
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\概念参考\\01-Claude-母版概念参考.webp",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/d4bb1e86b085e659.webp",
+          "source_original": "E:\\projects\\内容创作\\穿云\\概念参考\\01-Claude-母版概念参考.webp",
+          "sha256": "d4bb1e86b085e6593aacee04ac15802c07996646bdede8e5f9b047baef7e7cd7",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY021",
+      "file": "CY021-请求.json",
+      "status": "completed",
+      "request_sha256": "88e929e8cf3c881d47c7ac5ab56aaf2d02ad059c9ab34bf65110dcb1c95b2dac",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\CY021-信号近景三阶-v002.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/91bc7990f13e1e9f.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\CY021-信号近景三阶-v002.png",
+          "sha256": "91bc7990f13e1e9f383651c676f375ca75f595edf392e7d8a2e5e91b1ad34299",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY027B3",
+      "file": "CY027B3-请求.json",
+      "status": "completed",
+      "request_sha256": "c45fedbf42f1e4c719c2cf3f4a45fd54aa95bb2b4272c12334b8b533d01e426c",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\变身升空与雨滴-四格-v008.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/b69275f34eb124c9.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\变身升空与雨滴-四格-v008.png",
+          "sha256": "b69275f34eb124c939d760119dc73efcd845c465313e588522d48abc32e6c4e5",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY027E2",
+      "file": "CY027E2-请求.json",
+      "status": "completed",
+      "request_sha256": "a0b11d6b003d5ffd24370fad6e1a9c588d53dbba91870b23763c2f53b8c1ab64",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\CY027E2-教堂外战斗爆闪-v008.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/536fe4e323336c07.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\CY027E2-教堂外战斗爆闪-v008.png",
+          "sha256": "536fe4e323336c078826cc1f5a9c83b7e1e2bff6ee0401c71c4a140ac158d433",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY016",
+      "file": "CY016-请求.json",
+      "status": "completed",
+      "request_sha256": "67a101652b67ba1cb930932b460b3f31409427976b069038d4ca54c52679252b",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\空间修订B-祭坛与锁链-v002.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/3bb946311c77f822.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\空间修订B-祭坛与锁链-v002.png",
+          "sha256": "3bb946311c77f82286b29e304cf52085271ee1fbe5bf75a73a586889d254b454",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY010A",
+      "file": "CY010A-请求.json",
+      "status": "completed",
+      "request_sha256": "6142b55ef0ab0e20b10cce4466514b5d63d452bd1eb60a334ffd03c0487d6037",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\潜入同一侧墙-四格-v008.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/967c61ba2097024f.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\潜入同一侧墙-四格-v008.png",
+          "sha256": "967c61ba2097024f7307dd79f86b018e93e813e19d58e9ddf9f58b8819c8e99e",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY027C",
+      "file": "CY027C-请求.json",
+      "status": "completed",
+      "request_sha256": "e0a069ab267b4bcc4ef0ee71c578956417bf75b780331953a9f49e3ead937398",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\变身升空与雨滴-四格-v008.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/b69275f34eb124c9.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\变身升空与雨滴-四格-v008.png",
+          "sha256": "b69275f34eb124c939d760119dc73efcd845c465313e588522d48abc32e6c4e5",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY001",
+      "file": "CY001-请求.json",
+      "status": "completed",
+      "request_sha256": "df9863057c7cf0a1cb2704901ac25268cc0daba8458a24339312406d8cf2b1a0",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S01-粗分镜-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/8b4e5a8393c43892.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S01-粗分镜-v001.png",
+          "sha256": "8b4e5a8393c43892e3288f287478fff5169b1b0026b25b8a891106168017b73e",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY002",
+      "file": "CY002-请求.json",
+      "status": "completed",
+      "request_sha256": "95b3094fa2798f49c1d61acc4ae311eeb8cbbc74496c203fd9657ff0b59063eb",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S01-粗分镜-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/8b4e5a8393c43892.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S01-粗分镜-v001.png",
+          "sha256": "8b4e5a8393c43892e3288f287478fff5169b1b0026b25b8a891106168017b73e",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY003",
+      "file": "CY003-请求.json",
+      "status": "completed",
+      "request_sha256": "5b38370110cfc52595ca47abe30c4a74e6793ddf5a582d98ea5bd407a9285455",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S01-粗分镜-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/8b4e5a8393c43892.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S01-粗分镜-v001.png",
+          "sha256": "8b4e5a8393c43892e3288f287478fff5169b1b0026b25b8a891106168017b73e",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY003A",
+      "file": "CY003A-请求.json",
+      "status": "completed",
+      "request_sha256": "238acd84d363a99539d5e88897a6effa069362fbd40b806d73c712b2317ef647",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\细节A-递饭与选择-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/a3daed2aa18dcc61.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\细节A-递饭与选择-v001.png",
+          "sha256": "a3daed2aa18dcc61bf295206e2efe16212a3209ccea1681fd66bf0a5dfc1390c",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY003B",
+      "file": "CY003B-请求.json",
+      "status": "completed",
+      "request_sha256": "edb3824f39dacfe8e0147918ba894976f8528ce97a0bd3ee47d41af5066255e2",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\细节A-递饭与选择-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/a3daed2aa18dcc61.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\细节A-递饭与选择-v001.png",
+          "sha256": "a3daed2aa18dcc61bf295206e2efe16212a3209ccea1681fd66bf0a5dfc1390c",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY004",
+      "file": "CY004-请求.json",
+      "status": "completed",
+      "request_sha256": "577be9d7b7c9585a42b142ad9f57f73e70924e724230bb6d1187034b31b1718e",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S01-粗分镜-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/8b4e5a8393c43892.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S01-粗分镜-v001.png",
+          "sha256": "8b4e5a8393c43892e3288f287478fff5169b1b0026b25b8a891106168017b73e",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY004B",
+      "file": "CY004B-请求.json",
+      "status": "completed",
+      "request_sha256": "a0f7d16a99758c38748f327ea2cff11fbb3171e3245d9e138bc3fbf671e52031",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\空间修订A-地点与起飞-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/68c37a9443e0bd64.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\空间修订A-地点与起飞-v001.png",
+          "sha256": "68c37a9443e0bd64cd94f486a8f8f3e8b428733b434d9c3be0bc6cdff1841e81",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY005",
+      "file": "CY005-请求.json",
+      "status": "completed",
+      "request_sha256": "ad3ac03b241721b0ed5cd5a9caeb9d881ac56ef843453020c893576194431e4e",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S02-粗分镜-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/2872500648f54367.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S02-粗分镜-v001.png",
+          "sha256": "2872500648f5436714ed0eba2b50e15a50fe358acfc6163ea13382151cfdcf73",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY006",
+      "file": "CY006-请求.json",
+      "status": "completed",
+      "request_sha256": "102ca2b1d38c13986ef0b1944a05f4aa0cb0aae2f4e20829b31ba55964bb310d",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S02-粗分镜-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/2872500648f54367.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S02-粗分镜-v001.png",
+          "sha256": "2872500648f5436714ed0eba2b50e15a50fe358acfc6163ea13382151cfdcf73",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY007",
+      "file": "CY007-请求.json",
+      "status": "completed",
+      "request_sha256": "3e7ecba43ff19e96df4c757dbd4b6a5c0062ce386b6b78bcf57655caafe0bcb4",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S02-粗分镜-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/2872500648f54367.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S02-粗分镜-v001.png",
+          "sha256": "2872500648f5436714ed0eba2b50e15a50fe358acfc6163ea13382151cfdcf73",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY008",
+      "file": "CY008-请求.json",
+      "status": "completed",
+      "request_sha256": "deb354d9174f699c36b28b92415aa225e725ba7fdbb02b43bfa1d68189e00773",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S02-粗分镜-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/2872500648f54367.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S02-粗分镜-v001.png",
+          "sha256": "2872500648f5436714ed0eba2b50e15a50fe358acfc6163ea13382151cfdcf73",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY009",
+      "file": "CY009-请求.json",
+      "status": "completed",
+      "request_sha256": "a62302bf3bab210d6bf71b6cf4b471a4c44c7fb09b71aa63c941b7755f943fad",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S02-粗分镜-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/2872500648f54367.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S02-粗分镜-v001.png",
+          "sha256": "2872500648f5436714ed0eba2b50e15a50fe358acfc6163ea13382151cfdcf73",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY010",
+      "file": "CY010-请求.json",
+      "status": "completed",
+      "request_sha256": "bc7a9be9ec0fa1b60328c463e02dc6f4e3dd522d4d704938082edbe99812947f",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\细节B-迟疑与回声-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/989047c259845869.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\细节B-迟疑与回声-v001.png",
+          "sha256": "989047c25984586989d3d5aeb4a414ddad83fba49c45da402e328409d357edb8",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY013A",
+      "file": "CY013A-请求.json",
+      "status": "completed",
+      "request_sha256": "8e6189893ce9566a49473706a6c570aea1e55a4ac10cc141d0ef457198faa0b3",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\脚部与营救-四格-v003.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/5f852936ecc308f1.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\脚部与营救-四格-v003.png",
+          "sha256": "5f852936ecc308f16e810f516c74737df80d9f20beebe515214de69590405f89",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY015",
+      "file": "CY015-请求.json",
+      "status": "completed",
+      "request_sha256": "32df90ba4aba49da19d42269e21ebedcdbbe929b6e3fd8607c6c64e43916cf4a",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\脚部与营救-四格-v003.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/5f852936ecc308f1.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\脚部与营救-四格-v003.png",
+          "sha256": "5f852936ecc308f16e810f516c74737df80d9f20beebe515214de69590405f89",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY016A1",
+      "file": "CY016A1-请求.json",
+      "status": "completed",
+      "request_sha256": "4428e78033a3206b0e0ef622f98c46eb743ac812d802f3c88d6765a01dd47d6a",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\细节B-迟疑与回声-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/989047c259845869.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\细节B-迟疑与回声-v001.png",
+          "sha256": "989047c25984586989d3d5aeb4a414ddad83fba49c45da402e328409d357edb8",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY016A",
+      "file": "CY016A-请求.json",
+      "status": "completed",
+      "request_sha256": "eaeaae6b3b828bfcacaeda3920bfdf3ac7f4a6e8dbbdede0aa11b70d580b54c8",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\脚部与营救-四格-v003.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/5f852936ecc308f1.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\脚部与营救-四格-v003.png",
+          "sha256": "5f852936ecc308f16e810f516c74737df80d9f20beebe515214de69590405f89",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY016B1",
+      "file": "CY016B1-请求.json",
+      "status": "completed",
+      "request_sha256": "dfd62e00fdcb5d3056fb0fa8b8d8cc8e1b76b2db23042fda4b31ac5852896058",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\细节B-迟疑与回声-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/989047c259845869.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\细节B-迟疑与回声-v001.png",
+          "sha256": "989047c25984586989d3d5aeb4a414ddad83fba49c45da402e328409d357edb8",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY016C",
+      "file": "CY016C-请求.json",
+      "status": "completed",
+      "request_sha256": "ba3b5a8d33d8e78cccda973a9ff9d7e81f680cb34bbfc7f3ae4684cae88fa43b",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S03B-解锁未成-v003.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/45d97bb6f6a3e772.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S03B-解锁未成-v003.png",
+          "sha256": "45d97bb6f6a3e7720534505dd29735941aefd346fe70834899baa5013e140e4c",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY016D",
+      "file": "CY016D-请求.json",
+      "status": "completed",
+      "request_sha256": "e2ca451b7ea692ecae5ba92becb0606bc39d26095a58531bd55e3d3eab0c3ee0",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\空间修订C-三阶-v004.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/52b6b7a8db253e95.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\空间修订C-三阶-v004.png",
+          "sha256": "52b6b7a8db253e95cc6f1cae569457a234355fc5e9331f02ad36aa32b95a3b1a",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY017",
+      "file": "CY017-请求.json",
+      "status": "completed",
+      "request_sha256": "f68e6ba4cc18f9861d356ec53ec543c04c247feb541e9ecfb2c6d619f67bac66",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S04-三阶祭坛-v004.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/290a4d0206f4e226.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S04-三阶祭坛-v004.png",
+          "sha256": "290a4d0206f4e22642b57de64664e74c0c1019d4e37f43d31bc459fd10e42905",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY018",
+      "file": "CY018-请求.json",
+      "status": "completed",
+      "request_sha256": "9e7a8a680df8e3ee10e8fee534a08cc94eee1149bff86ea1aad3522ace11f752",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S04-三阶祭坛-v004.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/290a4d0206f4e226.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S04-三阶祭坛-v004.png",
+          "sha256": "290a4d0206f4e22642b57de64664e74c0c1019d4e37f43d31bc459fd10e42905",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY019",
+      "file": "CY019-请求.json",
+      "status": "completed",
+      "request_sha256": "deddc4c2a764e7b4d549b4b761debcb27220f55e5845037c07881b55210bd916",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S04-三阶祭坛-v004.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/290a4d0206f4e226.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S04-三阶祭坛-v004.png",
+          "sha256": "290a4d0206f4e22642b57de64664e74c0c1019d4e37f43d31bc459fd10e42905",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY020",
+      "file": "CY020-请求.json",
+      "status": "completed",
+      "request_sha256": "f48820aff20723be4b8cfaa1c0e287e883e27e7cce9ba614b39a999cfb3762f6",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S04-粗分镜-v002.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/cb6d76f294286d55.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S04-粗分镜-v002.png",
+          "sha256": "cb6d76f294286d55acca90c58ffe4cee9ebd9317deee23fbe6925f6dfa466616",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY020B",
+      "file": "CY020B-请求.json",
+      "status": "completed",
+      "request_sha256": "743a34af8da8eb4b95da57fe5a18b8cfc3adc2691e2ac24dbb737349825a6b63",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\阻拦抓袍与破门前-四格-v008.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/5eb68306bb44d098.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\阻拦抓袍与破门前-四格-v008.png",
+          "sha256": "5eb68306bb44d0983d9c1d17d25d0587e6c18ffd3da6a5bd291f540d3bf36850",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY020A",
+      "file": "CY020A-请求.json",
+      "status": "completed",
+      "request_sha256": "7d4bee7921fee9b8586f162bd68b2c1c6ca3df2439dad8cc8590ba0969dc29e1",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\空间修订C-三阶-v004.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/52b6b7a8db253e95.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\空间修订C-三阶-v004.png",
+          "sha256": "52b6b7a8db253e95cc6f1cae569457a234355fc5e9331f02ad36aa32b95a3b1a",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY021B",
+      "file": "CY021B-请求.json",
+      "status": "completed",
+      "request_sha256": "8f435845d585103a41045f2ac96d31587b18be4491996b1c722dde663c562a98",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\阻拦抓袍与破门前-四格-v008.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/5eb68306bb44d098.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\阻拦抓袍与破门前-四格-v008.png",
+          "sha256": "5eb68306bb44d0983d9c1d17d25d0587e6c18ffd3da6a5bd291f540d3bf36850",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY021A",
+      "file": "CY021A-请求.json",
+      "status": "completed",
+      "request_sha256": "4d2b7925f0654574753a2d95edffaab3a079fd93be2831ad735fe8b87ad326eb",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\阻拦抓袍与破门前-四格-v008.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/5eb68306bb44d098.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\阻拦抓袍与破门前-四格-v008.png",
+          "sha256": "5eb68306bb44d0983d9c1d17d25d0587e6c18ffd3da6a5bd291f540d3bf36850",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY022A",
+      "file": "CY022A-请求.json",
+      "status": "completed",
+      "request_sha256": "32ff09bca899b87329c857ab2f74827d4b76ac91b33490192f03952a274e61d6",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\空间修订C-三阶-v004.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/52b6b7a8db253e95.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\空间修订C-三阶-v004.png",
+          "sha256": "52b6b7a8db253e95cc6f1cae569457a234355fc5e9331f02ad36aa32b95a3b1a",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY022",
+      "file": "CY022-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "1b307711813505e5fea81034de8ee71935a1f9380ae1c0e3cff4bd60f80c6e18",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\火焰护罩水魔法-四格-v003.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/052a1f629135863e.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\火焰护罩水魔法-四格-v003.png",
+          "sha256": "052a1f629135863ee5ea08546f3af2d26ed28c6a76a6f3e77ba20ed87ee1cc82",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY022B",
+      "file": "CY022B-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "b6225f2677f358bbb85450ab6d2ef24a2843e0fdc9f752a7f71d4e8b1e9dd286",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\细节C-危局与回应-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/0e03bf65553b8f9b.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\细节C-危局与回应-v001.png",
+          "sha256": "0e03bf65553b8f9bc3b55db5ed532bd9ed3036c45b29a14cc9818c40dedfc2cf",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY022C",
+      "file": "CY022C-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "f13d3ee557cd929e72ab5ec250875b8c2122f5b31a99c072fa06170df9a112d5",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\阻拦抓袍与破门前-四格-v008.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/5eb68306bb44d098.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\阻拦抓袍与破门前-四格-v008.png",
+          "sha256": "5eb68306bb44d0983d9c1d17d25d0587e6c18ffd3da6a5bd291f540d3bf36850",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY023",
+      "file": "CY023-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "1748ddae964466d156f1ed6bbf9e7293497814320fc861325ef9dc4fe282e44b",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S05A-粗分镜-v003.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/47921c1e183b60f8.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S05A-粗分镜-v003.png",
+          "sha256": "47921c1e183b60f8448e382ffe35b0ab811327a8c5d3f5082e935523723a15ea",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY026A",
+      "file": "CY026A-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "29a44b4495d39c6bf353915468decd5f8a70c4ea102c12dec77c1f7e0d3f2860",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S05C-四方邀请-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/469b322b09c6c338.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S05C-四方邀请-v001.png",
+          "sha256": "469b322b09c6c3389eadc071f1fc3c798ea07208f12fbaae69e90948a6402d5f",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY026A1",
+      "file": "CY026A1-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "c4fb952440e5e111d6a06c8678a4d448262e2b5454c7faab9e6db83b9574ddc0",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\细节D-四方应邀-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/6702f4ed9d0d8d30.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\细节D-四方应邀-v001.png",
+          "sha256": "6702f4ed9d0d8d305fb0dfd7afcd5f3b7683054139b17b8aaea3b93867179943",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY026B",
+      "file": "CY026B-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "480030b8eeee792f4b9c393cdf9ce266b1d1c977c9ace7cddc021b24fe45e4ec",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S05C-四方邀请-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/469b322b09c6c338.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S05C-四方邀请-v001.png",
+          "sha256": "469b322b09c6c3389eadc071f1fc3c798ea07208f12fbaae69e90948a6402d5f",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY026C",
+      "file": "CY026C-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "75adc784afba65ad1e9ee101e67f3139d2aa523430da808de4016c9ecae64df5",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S05C-四方邀请-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/469b322b09c6c338.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S05C-四方邀请-v001.png",
+          "sha256": "469b322b09c6c3389eadc071f1fc3c798ea07208f12fbaae69e90948a6402d5f",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY026D1",
+      "file": "CY026D1-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "52a031c20ab58b431ab9d45027083f35b09f35d9288b630731dd6db6061a7cea",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\细节D-四方应邀-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/6702f4ed9d0d8d30.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\细节D-四方应邀-v001.png",
+          "sha256": "6702f4ed9d0d8d305fb0dfd7afcd5f3b7683054139b17b8aaea3b93867179943",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY026D",
+      "file": "CY026D-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "aa122451cf4e96b609438543ab230799f6c08cb020e4fbedfd633366d7b81bc1",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S05C-四方邀请-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/469b322b09c6c338.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S05C-四方邀请-v001.png",
+          "sha256": "469b322b09c6c3389eadc071f1fc3c798ea07208f12fbaae69e90948a6402d5f",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY027A",
+      "file": "CY027A-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "04a3f888b02dc3a27f1e75eb04d3cae55346d607078b398abcb6a9bb6a6abb6e",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S05E-天瀑后对峙-v007.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/ff4aefe96512b729.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S05E-天瀑后对峙-v007.png",
+          "sha256": "ff4aefe96512b729b5194bc679779ebfc42ec9a52fb6e4ec47a8d585283cc68c",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY027B",
+      "file": "CY027B-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "1e1bc1cd09fb956b7632c0b59139a4c9574e00ebb46aeb90cbad4e6c8b279824",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S05E-天瀑后对峙-v007.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/ff4aefe96512b729.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S05E-天瀑后对峙-v007.png",
+          "sha256": "ff4aefe96512b729b5194bc679779ebfc42ec9a52fb6e4ec47a8d585283cc68c",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY027B1",
+      "file": "CY027B1-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "0b42a6d7bbe9d69d471ed3992d87ac1f3822935b90f00fa3d8f49a793d508863",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\变身升空与雨滴-四格-v008.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/b69275f34eb124c9.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\变身升空与雨滴-四格-v008.png",
+          "sha256": "b69275f34eb124c939d760119dc73efcd845c465313e588522d48abc32e6c4e5",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY027B2",
+      "file": "CY027B2-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "d57c44e4eb072a8ebd8cdfe343dd2f078295ea41790a8f9b6521b7040a17860b",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\变身升空与雨滴-四格-v008.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/b69275f34eb124c9.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\变身升空与雨滴-四格-v008.png",
+          "sha256": "b69275f34eb124c939d760119dc73efcd845c465313e588522d48abc32e6c4e5",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY027E",
+      "file": "CY027E-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "a5f0ef31813a9a93a5bce5e916fa4d11f985a25d6f4b94ee9d1629b02b310d58",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S05E-对抗与战后-v004.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/7c6f4f698584dbd8.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S05E-对抗与战后-v004.png",
+          "sha256": "7c6f4f698584dbd83821c1ced7829637d41875900de825c7d1c8fe4f9d291705",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY027E1",
+      "file": "CY027E1-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "48391c97efb791bd345dfb56474f7010781ed4fbe195cc0f1ab5562105f48c4b",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\变身升空与雨滴-四格-v008.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/b69275f34eb124c9.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\变身升空与雨滴-四格-v008.png",
+          "sha256": "b69275f34eb124c939d760119dc73efcd845c465313e588522d48abc32e6c4e5",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY027D",
+      "file": "CY027D-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "1298154f069afd539f8204b4791e56a0ff68e74fb29670bf5091a46de3a9a7d0",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S05E-天瀑后对峙-v007.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/ff4aefe96512b729.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S05E-天瀑后对峙-v007.png",
+          "sha256": "ff4aefe96512b729b5194bc679779ebfc42ec9a52fb6e4ec47a8d585283cc68c",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY027F1",
+      "file": "CY027F1-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "2f6da3f7019ab0dac14148b9ac8ce06f3808136326e51073a2bd51e6fb5044b9",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\脚部与营救-四格-v003.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/5f852936ecc308f1.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\脚部与营救-四格-v003.png",
+          "sha256": "5f852936ecc308f16e810f516c74737df80d9f20beebe515214de69590405f89",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY027G",
+      "file": "CY027G-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "abd2948e635524c18783cb0b5bbcf0f017029f0ff20e0b6371f26191753e469e",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\空间修订F-解锁扶稳-v005.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/850fae018df53e98.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\空间修订F-解锁扶稳-v005.png",
+          "sha256": "850fae018df53e98a096be6fdf104a663ec55380267ea5690e2f74448270db6f",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY028A",
+      "file": "CY028A-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "3632875bd4d01de2f2593e7c2aaa9deea5217b05962833aa8e7c7cbc41df7fa4",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\空间修订F-解锁扶稳-v005.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/850fae018df53e98.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\空间修订F-解锁扶稳-v005.png",
+          "sha256": "850fae018df53e98a096be6fdf104a663ec55380267ea5690e2f74448270db6f",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY028B",
+      "file": "CY028B-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "1d25aa17a91e4b574f9ce9766c57acbff6f2bb89a1b25ede7598724d752bf465",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\Claude-觉醒与焚架-四格-v003.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/23ea8f248bbc60c0.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\Claude-觉醒与焚架-四格-v003.png",
+          "sha256": "23ea8f248bbc60c00b0bc9f205718e029ce79327531d8c299ad051f4a5db5eca",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY028C",
+      "file": "CY028C-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "7acde808463d11a5b89d6452af02ce2ac35b5c4f4eadbc25c7f3a7c627212de1",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\Claude-觉醒与焚架-四格-v003.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/23ea8f248bbc60c0.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\Claude-觉醒与焚架-四格-v003.png",
+          "sha256": "23ea8f248bbc60c00b0bc9f205718e029ce79327531d8c299ad051f4a5db5eca",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY029",
+      "file": "CY029-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "c60db81aefb142f60df1d2aa715e6cbdc603c5f193d82ea5c4846d2f3f7f998c",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\Claude倒影与教主挽留-双格-v008.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/9ce85cddfb3df87c.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\Claude倒影与教主挽留-双格-v008.png",
+          "sha256": "9ce85cddfb3df87c06c93c2824f317c7c5f442adea28fe2153115e157a5720af",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY029E",
+      "file": "CY029E-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "f0d7183c03af3f5fb88cae6aede3ed89410977a45e4d8f47c07d785acbcd39e4",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\Claude倒影与教主挽留-双格-v008.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/9ce85cddfb3df87c.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\Claude倒影与教主挽留-双格-v008.png",
+          "sha256": "9ce85cddfb3df87c06c93c2824f317c7c5f442adea28fe2153115e157a5720af",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY029B",
+      "file": "CY029B-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "6033d624da910ce8feadff09840ab3a4c08101a8a9c66f013f67c30bdf25995c",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\Claude-觉醒与焚架-四格-v003.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/23ea8f248bbc60c0.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\Claude-觉醒与焚架-四格-v003.png",
+          "sha256": "23ea8f248bbc60c00b0bc9f205718e029ce79327531d8c299ad051f4a5db5eca",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY029C",
+      "file": "CY029C-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "244ce4ef8a043d60fbaa03513bbafb5774f9d3f1120a509a576b01f4343ae1bf",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\Claude-力竭接抱-四格-v004.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/f8a7d13e0fc71ccc.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\Claude-力竭接抱-四格-v004.png",
+          "sha256": "f8a7d13e0fc71ccc35df0ff096cd5df8287eefffc30d6e0e274dc91791b410a4",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY029D",
+      "file": "CY029D-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "72de1e178bf61cd0bf9e9f3760178d7e4075d501c81c5798d34a50adc28b3204",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\Claude-力竭接抱-四格-v004.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/f8a7d13e0fc71ccc.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\Claude-力竭接抱-四格-v004.png",
+          "sha256": "f8a7d13e0fc71ccc35df0ff096cd5df8287eefffc30d6e0e274dc91791b410a4",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY028",
+      "file": "CY028-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "2df02cf78f8ad4d394c69fc163e29d3053a69a81475c334aab3237ff719a11f0",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\Claude-力竭接抱-四格-v004.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/f8a7d13e0fc71ccc.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\Claude-力竭接抱-四格-v004.png",
+          "sha256": "f8a7d13e0fc71ccc35df0ff096cd5df8287eefffc30d6e0e274dc91791b410a4",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY029A",
+      "file": "CY029A-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "7baca5031fc23a5ee1eab601ffd22f7954cfc5e21a8f58b6d7879e905dd877d1",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\Claude-力竭接抱-四格-v004.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/f8a7d13e0fc71ccc.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\Claude-力竭接抱-四格-v004.png",
+          "sha256": "f8a7d13e0fc71ccc35df0ff096cd5df8287eefffc30d6e0e274dc91791b410a4",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY031",
+      "file": "CY031-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "0f5c82eea6f99c1e2c7eaae53561f5b6ce78d1ac981260febb1f82108428b72e",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S06-粗分镜-v002.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/20cec5cb26ea4ad0.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S06-粗分镜-v002.png",
+          "sha256": "20cec5cb26ea4ad00a7e14ccebb0c82abb68dd6190a21f1c515b0309bc472164",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY031A",
+      "file": "CY031A-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "6c7cdc9891cd0ebee69fbd678fd5b3c67f7de208b4bcede2f0b729520b505985",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\连续性-动作衔接-v001.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/043ab8e7e200d011.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\连续性-动作衔接-v001.png",
+          "sha256": "043ab8e7e200d011447868153715823f9c3e0bfc40680611aa78d8368e0a2523",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY033",
+      "file": "CY033-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "44ef934041adaec41ebc293550eba80df89116fb4aa91121c927d14f462d3625",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S06-粗分镜-v002.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/20cec5cb26ea4ad0.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S06-粗分镜-v002.png",
+          "sha256": "20cec5cb26ea4ad00a7e14ccebb0c82abb68dd6190a21f1c515b0309bc472164",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY034",
+      "file": "CY034-请求-v002.json",
+      "status": "completed",
+      "request_sha256": "a72f857fbc6d569cd39f0619437cd752e172f4f9c57cff049fbdf1fcb5f32935",
+      "inputs": [
+        {
+          "submitted_path": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S06-粗分镜-v002.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/20cec5cb26ea4ad0.png",
+          "source_original": "E:\\projects\\内容创作\\穿云\\镜头设计\\图像\\S06-粗分镜-v002.png",
+          "sha256": "20cec5cb26ea4ad00a7e14ccebb0c82abb68dd6190a21f1c515b0309bc472164",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY011",
+      "file": "CY011-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "1302e4fe342320c62a35ddffcd530703bb7a622428d8d10d4a98ae0ca86d1f60",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY011A-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/d1fb2800788f966b.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-2ed62987-55d8-4a46-8fff-f0a000c05ef7.png",
+          "sha256": "d1fb2800788f966b41bcd4b2651ae374971e57612b89f9f077937fdcf3d43ffc",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY011A",
+      "file": "CY011A-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "cad79e21a707718a05a1650da50eb9e245d1ccc51b0332238f74fb44f3ddd64c",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY011A-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/d1fb2800788f966b.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-2ed62987-55d8-4a46-8fff-f0a000c05ef7.png",
+          "sha256": "d1fb2800788f966b41bcd4b2651ae374971e57612b89f9f077937fdcf3d43ffc",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY013",
+      "file": "CY013-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "6a6b328ce4226db80c1e1e734c6a74c947b856177b3c850ae6429a5eb9e248ef",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY013-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/0c98a828f477fd5e.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-ef43d200-bd89-4e79-86ad-3b1dddee40fe.png",
+          "sha256": "0c98a828f477fd5ed5af6424af14edb1e341fae6cf00c09ac11911acfe040315",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY016",
+      "file": "CY016-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "e7f2819ca79adc8b452050d8d42497796a5f40ae4f8b7b52031b7301babacfa7",
+      "inputs": [
+        {
+          "submitted_path": "C:/Users/36322/.codex/generated_images/01a1587f-dadf-7201-b369-999281d55060/exec-45740303-3907-4640-9b38-0b24a7f801af.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/02f3c981927a2047.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-45740303-3907-4640-9b38-0b24a7f801af.png",
+          "sha256": "02f3c981927a2047d839eeefa843ff5b28277dd28c577da51d1cb85ec9e9d196",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY027C",
+      "file": "CY027C-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "ca5ffaf4c748ccab366b7ab8cab78314e1e6ad48d1c76bf3b957df45847116cd",
+      "inputs": [
+        {
+          "submitted_path": "C:/Users/36322/.codex/generated_images/01a1587f-dadf-7201-b369-999281d55060/exec-945d4e41-b794-40c5-af06-36ae16f3968a.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/d80fece61d232921.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-945d4e41-b794-40c5-af06-36ae16f3968a.png",
+          "sha256": "d80fece61d232921c7245d5d28f8efb7105c0d147fe0e9765b8a65752ade4faf",
+          "reconstructed_from_retained_original": false
+        },
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY027E2-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/fb47a9c2a957a724.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-c5556733-f0c2-4456-8a45-131a3d658eb3.png",
+          "sha256": "fb47a9c2a957a7243948a62c8bad18fffade5273b68a900cb587b39e71a0cd1c",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY003B",
+      "file": "CY003B-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "b166a060d170773031ba794c20d574d7d737ade323f79149c788b25c63042053",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY003B-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/ec98f7fe572a4c5d.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-f3f67cb5-a555-4ac3-a653-4bda82896881.png",
+          "sha256": "ec98f7fe572a4c5d67e90e77c0fa1483313121fc4d2c31786b90d657f7790026",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY009",
+      "file": "CY009-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "498ae98fb9d577133b91fbe344e13f2b405d4ed1e16b49a38626d5dcfb7f5b8d",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY009-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/60f9cc1b7bd40c76.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-9b11ca30-2a8d-42f5-be9b-d1bb90870734.png",
+          "sha256": "60f9cc1b7bd40c76ad33ebb22bdc0ccc1d528e21a31cc78b0b994c6df7b265dc",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY013A",
+      "file": "CY013A-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "4a36c9c11df63acc341e10670d76ff5b75522e53de2de98fb55ff3b1b4cc58e1",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY013A-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/62a7d323ef6ffe51.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-ad2c9e37-ee2f-4a99-b920-1c7d94870441.png",
+          "sha256": "62a7d323ef6ffe51ca2e6fe9bd671d39e5d1326f006edd93ef040dc65a69ce0d",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY015",
+      "file": "CY015-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "c3a3cc1574d6e171dfe0f997da78e7f215fb7d50b9b1a4d5b4487b8a64aa1a82",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY015-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/37fc36febf743840.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-b973a43e-28a4-4bf9-ac16-bcac950ce222.png",
+          "sha256": "37fc36febf743840fa3c5db6ad2f66d9489c56c6d330a698a622b24181a7e4cc",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY016A1",
+      "file": "CY016A1-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "3cfd26160d2116d75662255d00d5501917fa9113027acf117b3380b5fac626a1",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY016A1-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/e845a318cec35e28.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-0a6ce54d-9dea-409d-8e41-be7fa4481108.png",
+          "sha256": "e845a318cec35e282dced769751a372b3590e3e233b1ba16c110e6a06d347b89",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY016A",
+      "file": "CY016A-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "54f5fe6c89184cc4073e433ee975e5c66616abd499e2a619c844eba517650426",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY016A-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/72cbfe22b04febc5.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-b84a3822-1444-471e-b217-8ed019cc959a.png",
+          "sha256": "72cbfe22b04febc5ca1214939612a8576a60f30958f11e192c9bac91e7c843f4",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY016B1",
+      "file": "CY016B1-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "4e9da0e0ab6404ad9d1945b9cb5cf83e4c9db782625c3d166960b2d97b6f1cbe",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY016B1-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/8b90567605e6f83b.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-250eeca0-ff60-48ae-9879-7f803369335a.png",
+          "sha256": "8b90567605e6f83b5a4a741a20b4f3e6d777c5aafb82de8de6e4cc0827a5c363",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY016C",
+      "file": "CY016C-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "aa0152e88c2f44449058d2f00279ad5f39c56f826ebcceba1c275f3f90a5d4d0",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY016C-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/eb52e6d78ce2bd2e.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-d45f1b3f-7231-4b78-ae86-f2f52de527e6.png",
+          "sha256": "eb52e6d78ce2bd2e4b8609d89c1f18fae87c44557fddcae17456893baa652b2b",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY016D",
+      "file": "CY016D-局修请求-v002.json",
+      "status": "rejected_by_image_safety",
+      "request_sha256": "9677e1819d833cc1f07977a269a9da1c7e833158295acc98ee1a228e8b455fb8",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY016D-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/428bf739875bab22.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-b582a8dd-617a-451b-9144-6614b3de22a8.png",
+          "sha256": "428bf739875bab2221e7d2613619137675109e028d2e3ea1969590ce3083aa47",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY017",
+      "file": "CY017-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "e0e3a19f2ac4066c2d1fd4b392d12f6a71a3bedea71aae5accbe8007de755e66",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY017-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/94e798cdc3b0ba6b.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-2c47badd-53db-4633-8745-a6f1fac795bc.png",
+          "sha256": "94e798cdc3b0ba6b337e3bf5d5c579cfece2bf60b019aad7a329d7d46683c681",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY018",
+      "file": "CY018-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "5b8e792292ebeb81efe83d23d601b283f6d2a6f745c534078f608ae80e2c5cfb",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY018-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/31d963cd5b1d4b3e.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-a2caf4c4-8b71-4c90-b76f-a64616543c5f.png",
+          "sha256": "31d963cd5b1d4b3e600b0ea098a35965d0d3798d2d7e43a5dc434c11d0bcc71d",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY019",
+      "file": "CY019-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "efe946386011eb3d8ea2052e4468f4215f3cba67eb04f083be85b69163b7f538",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY019-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/f0b510b3848dd79e.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-b14e9581-1638-4028-9028-69aefca0ce46.png",
+          "sha256": "f0b510b3848dd79e41c0767d485cd18fd71dbaf546f3467c84b78e79835496f8",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY020",
+      "file": "CY020-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "e48ddbf3cda28d1820ba07e979c05b1d76f561275b11a6e8343f462f31664eb0",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY020-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/5472a2b68f971206.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-436ce1b9-7dda-43f0-a68a-f6d3a1f1a080.png",
+          "sha256": "5472a2b68f97120623859309ac60c784e930346d2def960b86d342d912342679",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY020B",
+      "file": "CY020B-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "3ceb1b38d7255d2593662cd3f4a838c73c04b6d85c434d2e04f9af0525a655cd",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY020B-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/995f44ddada6856f.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-91e9a04e-db32-4d98-9942-1b30020385e7.png",
+          "sha256": "995f44ddada6856ff2da4164124ea93fba8407cd183d275fb7a98baf7ce4fa54",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY021B",
+      "file": "CY021B-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "ce4f0e5fa7d9f5b43a4e5f94b4dbf4bbf8e065f74beb4b9e4eb801a3d84f5f4f",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY021B-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/57fb3dd4877c3462.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-44144153-fdf3-4bd9-9e42-0bb7e478bade.png",
+          "sha256": "57fb3dd4877c34626a0b93fba2e43e0ca63e0af68882fad367515fbed57c8ec3",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY021A",
+      "file": "CY021A-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "f55851aa572b2622baf366ea274e49fc0422bff4a6112688ed9697126ff41b78",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY021A-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/6b1b8a74851671c7.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-4bbc722c-d958-4d17-8bdd-faf63cc5f06a.png",
+          "sha256": "6b1b8a74851671c7f3670273cf4ced986ad5bfeac48741c5d19c65dfae046cd8",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY022A",
+      "file": "CY022A-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "7d666cb9038631be196aeb0ca5296b37efd539492075c95f8f9f417aaaa040e2",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/镜头设计/图像/独立镜头-v009/CY022A-v009.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/a2dad5eea429c8a6.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-8c5d3289-4912-485e-8457-b235212abc9b.png",
+          "sha256": "a2dad5eea429c8a698cae6b9c7e51b1735201c6f07ab4dedba50c2346366d97d",
+          "reconstructed_from_retained_original": true
+        }
+      ]
+    },
+    {
+      "id": "CY017",
+      "file": "CY017-局修请求-v003.json",
+      "status": "completed",
+      "request_sha256": "fb8c9b7363bbcc0ab8aeb49c2d0be31ae41f247ee614abbe888b377411d20f92",
+      "inputs": [
+        {
+          "submitted_path": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-28cb1f46-5235-45a8-a89e-8cf12c2a8972.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/75b08cc42f05bb3d.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-28cb1f46-5235-45a8-a89e-8cf12c2a8972.png",
+          "sha256": "75b08cc42f05bb3d7360b803417e19209c9aeec475d69f584679bc9625afe9ab",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY022A",
+      "file": "CY022A-局修请求-v003.json",
+      "status": "completed",
+      "request_sha256": "9bbb1d8ba41837824835d6ba42d0232ec114b003a02ef07de9890c09fdaf406a",
+      "inputs": [
+        {
+          "submitted_path": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-652b0c6a-d780-409b-8da5-65b394ff1ffb.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/5cb7b59240001b42.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-652b0c6a-d780-409b-8da5-65b394ff1ffb.png",
+          "sha256": "5cb7b59240001b42a72d3bcab9dc4a42aa32645dfe88be2594e57ff45efbc0dc",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY027D",
+      "file": "CY027D-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "caa8a0f0789f8cbb691eba7d3a1be0cf78c6688466e3f715be0b90f1ac27c297",
+      "inputs": [
+        {
+          "submitted_path": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-70ce3ac0-57ec-4af1-b66f-5b3bf34dae31.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/916d6bc240618a21.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-70ce3ac0-57ec-4af1-b66f-5b3bf34dae31.png",
+          "sha256": "916d6bc240618a2160d3af9abc6ce82f7322db9dfda8fd52147075bb4f3e5674",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY027F1",
+      "file": "CY027F1-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "7f7789cb85d48a2244467193f07791907ffd3adbbb5e2bf02544aec38da08a6f",
+      "inputs": [
+        {
+          "submitted_path": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-8e47bdea-a72e-4789-a204-1468b8e88ad2.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/cbc936065ba7c51e.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-8e47bdea-a72e-4789-a204-1468b8e88ad2.png",
+          "sha256": "cbc936065ba7c51e95b00bf94238c5444388c28c4e8cb49d2acee879790a4ec3",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY027G",
+      "file": "CY027G-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "1a0e9989d7afc310a1f1acf8f36240e549de3dd0c429f3b0af7d7a0ada87ecdb",
+      "inputs": [
+        {
+          "submitted_path": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-5a4dd36c-ec0a-428f-8577-9b99b8d089ce.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/29cafa3875e00005.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-5a4dd36c-ec0a-428f-8577-9b99b8d089ce.png",
+          "sha256": "29cafa3875e000051622040ecae6498ec16f7701ec13bb74349bbd999e4cd5c3",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY028A",
+      "file": "CY028A-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "125907fb2de18dbcba71419889a54e07c74a257793f69554d2c4c64a0a2f1133",
+      "inputs": [
+        {
+          "submitted_path": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-0249df5f-3282-4fe2-9324-84b1caac9ede.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/d404b38ddc6f7aad.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-0249df5f-3282-4fe2-9324-84b1caac9ede.png",
+          "sha256": "d404b38ddc6f7aad915f3f6cd09805b59a9db1d9f224e9cb28b22d141c9d0c2e",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY016D",
+      "file": "CY016D-局修请求-v003.json",
+      "status": "completed",
+      "request_sha256": "c9fe5019b5a16c36aba41fdbfad8fa6983e9be5f6e24275b4bb8a6fb66c67d63",
+      "inputs": [
+        {
+          "submitted_path": "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/4c5d87b19a5eb37b.webp",
+          "source_original": "E:\\projects\\内容创作\\穿云\\概念参考\\02-DeepSeek-母版概念参考.webp",
+          "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY022",
+      "file": "CY022-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "76743bf134ba35d73b9a1e442299d86033a601386f9bda9df58406e8ffd7b012",
+      "inputs": [
+        {
+          "submitted_path": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-97396334-382c-4d6f-bc0e-a0b45a033462.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/63729925173d9154.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-97396334-382c-4d6f-bc0e-a0b45a033462.png",
+          "sha256": "63729925173d91544658a1f4a594974a98839a5a35fbe0bcac2806e8bf4bd2a5",
+          "reconstructed_from_retained_original": false
+        },
+        {
+          "submitted_path": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-3c60a1ba-71bf-4778-93b4-d8c8d29b2a56.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/e9ae9d5277826c78.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-3c60a1ba-71bf-4778-93b4-d8c8d29b2a56.png",
+          "sha256": "e9ae9d5277826c78201aabed996b8d49d55aeedcf5b50edef46ad2d33909dc7f",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY029E",
+      "file": "CY029E-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "3952780fd1eade5ff5a5f4762de27912f50bcbacd0076499fce0fb2902e2749a",
+      "inputs": [
+        {
+          "submitted_path": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-ff93ba5e-2d3b-40f6-8b8b-01390c4f4617.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/f68d29eaf301a9d6.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-ff93ba5e-2d3b-40f6-8b8b-01390c4f4617.png",
+          "sha256": "f68d29eaf301a9d6ad9db952bbedbb91e07a64bc8fbf85fb9321768a43fc00d5",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY029C",
+      "file": "CY029C-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "92d8bb1ea9091683f9be2522a0f74df8a5183ece19f56de63d002782db095b04",
+      "inputs": [
+        {
+          "submitted_path": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-1b8fb183-c887-4f8b-b47e-32b5df188613.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/8d3930399442d84f.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-1b8fb183-c887-4f8b-b47e-32b5df188613.png",
+          "sha256": "8d3930399442d84ff75a275c697980a6f2ff09bc086a6a81ee2ae05463a5ae83",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    },
+    {
+      "id": "CY029D",
+      "file": "CY029D-局修请求-v002.json",
+      "status": "completed",
+      "request_sha256": "1a13770d1532ee9f6593f17fce7ae5a2ffdedc9e200a52472750fc0baa5c0d6f",
+      "inputs": [
+        {
+          "submitted_path": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-89ba2a37-ffb6-4ab8-968b-29db33dccd9e.png",
+          "immutable_copy": "镜头设计/生成记录/逐镜独立-v009/输入原件/abaf0963d4d58000.png",
+          "source_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-89ba2a37-ffb6-4ab8-968b-29db33dccd9e.png",
+          "sha256": "abaf0963d4d58000bbae45ab8c03c72e78479fc7b4d2f4868ca4788d0e930403",
+          "reconstructed_from_retained_original": false
+        }
+      ]
+    }
+  ],
+  "unsubmitted_drafts": [
+    "CY022-请求.json",
+    "CY022B-请求.json",
+    "CY022C-请求.json",
+    "CY023-请求.json",
+    "CY026A-请求.json",
+    "CY026A1-请求.json",
+    "CY026B-请求.json",
+    "CY026C-请求.json",
+    "CY026D1-请求.json",
+    "CY026D-请求.json",
+    "CY027A-请求.json",
+    "CY027B-请求.json",
+    "CY027B1-请求.json",
+    "CY027B2-请求.json",
+    "CY027E-请求.json",
+    "CY027E1-请求.json",
+    "CY027D-请求.json",
+    "CY027F1-请求.json",
+    "CY027G-请求.json",
+    "CY028A-请求.json",
+    "CY028B-请求.json",
+    "CY028C-请求.json",
+    "CY029-请求.json",
+    "CY029E-请求.json",
+    "CY029B-请求.json",
+    "CY029C-请求.json",
+    "CY029D-请求.json",
+    "CY028-请求.json",
+    "CY029A-请求.json",
+    "CY031-请求.json",
+    "CY031A-请求.json",
+    "CY033-请求.json",
+    "CY034-请求.json"
+  ],
+  "failure_note": "CY016D局修v002被图像服务安全系统拒绝。没有重试抓扯画面；v003改为不接触的逼近与惊觉反应。",
+  "input_note": "实际请求原文未改。早期局修曾引用展示副本，已按提交时对应的保留生成原件重建输入快照；新局修直接引用不可变原件。生成索引中的 archive hash 仅表示归档时路径内容，以本执行记录的输入原件为重放依据。"
+}

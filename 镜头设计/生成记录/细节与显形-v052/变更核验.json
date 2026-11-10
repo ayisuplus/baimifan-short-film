@@ -1,0 +1,26 @@
+{
+  "shots": 132,
+  "seconds": 434,
+  "new_id": "CY024K00",
+  "new_seconds": 2.5,
+  "changed_images": [
+    "CY018",
+    "CY020B",
+    "CY021A",
+    "CY022",
+    "CY022A",
+    "CY022A1",
+    "CY024A9",
+    "CY024B1",
+    "CY024B3",
+    "CY024K0",
+    "CY024K00",
+    "CY027F"
+  ],
+  "existing_shot_durations": "unchanged",
+  "existing_dialogue_and_audio": "unchanged",
+  "existing_music_marks": "unchanged",
+  "new_music": "BGM-CY-FZ-02",
+  "source_passages": "132 matched",
+  "dynamic_validation": "pending"
+}

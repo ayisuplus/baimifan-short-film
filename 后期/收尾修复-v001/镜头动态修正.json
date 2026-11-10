@@ -1,0 +1,460 @@
+{
+  "schema": "bmr-motion-retime-overrides/v1",
+  "source": "镜头设计/shot-plan-v0.56.json",
+  "source_sha256": "2ac84024c573aa4fa27d8dece3a2bcb69de0d8bdab047d9a3865414a4c9ed80b",
+  "timing_plan": "后期/收尾修复-v001/配音对位方案.json",
+  "scope": "局部修正旧时码及声音/动作因果，不改变人物、美术、镜位、中文或日语台词。英文仅动作说明，不引入英语对白。",
+  "shots": {
+    "CY016A": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "保留呼吸、锁扣摩擦和烛火；Claude画外完整日语0–2秒，小鱼答句2.3–4秒；双方不重叠，尚无人返回。"
+      },
+      "execution_note": "镜长4秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY021": {
+      "direction_override": {
+        "effects_en": "Weak breaths and cloth on stone under Claude's uninterrupted offscreen plea, which continues through the following hand insert; no second fall."
+      },
+      "source_overrides": {
+        "sound": "急促喘息、衣料擦地。Claude完整求情从本镜0秒起，连续5.8秒，跨CY021B结束；宝宝不代说、不张口同步。"
+      },
+      "execution_note": "镜长3.8秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 本镜3.8秒接CY021B两秒；延续唯一一次撑地失败，不再次摔倒。"
+    },
+    "CY021B": {
+      "direction_override": {
+        "effects_en": "The same offscreen plea continues without a restart as cloth tightens and the child breathes; no magical signal."
+      },
+      "source_overrides": {
+        "sound": "攥紧衣料与宝宝喘息；Claude求情承前连续至本镜末，不重说开头，没有穿云信号。"
+      },
+      "execution_note": "镜长2秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 原“无对白”只表示画内人物不说话；承载同一条Claude画外对白余段。"
+    },
+    "CY024": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "GPT完整指令0.15–2.85秒；甲片与门口脚步退低让词清楚。指令完成才切敌方反应。"
+      },
+      "execution_note": "镜长3秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY024R": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "承前门口脚步、甲片尾响与教徒衣料；Kimi画外呼唤0.6–3.32秒完整播放，剩余0.18秒只留环境尾韵。教主不循声发现后窗。"
+      },
+      "execution_note": "镜长3.5秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY024K00": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "完整4秒无新对白。前镜呼唤已结束，只允许自然混响尾韵；夜风、极轻银色气流，保留原0–0.8流入、0.8–1.6汇聚、1.6–3.5凝实、3.5–4悬停，不加撞击。"
+      },
+      "execution_note": "镜长4秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 显形空窗位于第一句呼唤与窗外持刃请求之间，不能误放到请求结束和术名之间。原4秒逐步凝形与正后方运镜完全保留。"
+    },
+    "CY024K0": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "夜风承前。完整请求两句连续0–3.02秒、3.02–5.91秒；5.91秒后短停并投刃，至6.5秒镜末刀已离手。玻璃撞击只在下一镜。",
+        "cinematic_beats": [
+          {
+            "offset": 0,
+            "intent": "完整实体已显形，切斜侧近景；第一请求句开始，左明刃抬向肩侧"
+          },
+          {
+            "offset": 3.02,
+            "intent": "同一口气续请求门扉，右暗刃低持不交换"
+          },
+          {
+            "offset": 5.91,
+            "intent": "完整请求结束后短停并朝右前方投明刃，下一镜才撞玻璃"
+          }
+        ]
+      },
+      "execution_note": "镜长6.5秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 替换旧6秒预算及0.1–5.5秒发声；6.5秒总长，原句与投刃动作完整。"
+    },
+    "CY024K1": {
+      "direction_override": {},
+      "source_overrides": {},
+      "execution_note": "镜长3秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 3秒完整破窗，无咏唱新句；只明刃穿窗，Kimi实体不跟着穿玻璃；显形已在K00完成。"
+    },
+    "CY024K1A": {
+      "direction_override": {
+        "effects_en": "Wood contact and fiber split at 0–0.5 seconds. Keep the complete Japanese spell name clear from 0.6 to 3.85 seconds, then a brief teleport hum. Materialization at the new anchor and the burst occur only after the next cut."
+      },
+      "source_overrides": {
+        "sound": "0–0.5秒刀尖入木与纤维裂响，玻璃尾声退低；0.6–3.85秒完整术名，随后至4秒留短促低鸣。下一镜才瞬移实体出现与爆气震柴。",
+        "cinematic_beats": [
+          {
+            "offset": 0,
+            "intent": "明刃钉木坐标成立，画面无Kimi实体"
+          },
+          {
+            "offset": 0.6,
+            "intent": "完整术名开始，刀稳固且无护罩"
+          },
+          {
+            "offset": 3.85,
+            "intent": "术名完整文件结束，银光聚拢与短促低鸣；切下一镜瞬移"
+          }
+        ]
+      },
+      "execution_note": "镜长4秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY026A": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "完整GPT日语邀请0.1–3.3秒，与书院回忆画面同起，不提前覆盖前一骑士镜。其余书院环境退低。"
+      },
+      "execution_note": "镜长3.3秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY026A1": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "千问完整回应0–2秒，不再套用0.2秒起的旧预算；声线自然速度，结束接下一邀约场景。"
+      },
+      "execution_note": "镜长2秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY026C": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "基地低鸣托底；GPT邀请0.1–2.1秒，Grok回应2.2–3.58秒，保留0.1秒接话间隙；火箭仍未发射。"
+      },
+      "execution_note": "镜长4秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY026E": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "完整跨地点日语回应0–4秒连续，图像切换不重启台词；供能底声压低不抢字。"
+      },
+      "execution_note": "镜长4秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY024A0": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "千问先托稳小鱼，完整日语叮嘱0.1–3.1秒；尾0.1秒随她抬眼转GPT。左臂抱稳、右手持扇。"
+      },
+      "execution_note": "镜长3.2秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 保留左臂抱小鱼/右手持扇的手位约束及原图强首帧限制；新镜长3.2秒。"
+    },
+    "CY024A": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "展翼、振翼与离地按原动作。GPT母版从3.79秒开始，原样保留首0.41秒安静；约4.2秒起实际开口，完整母版首段至7.25秒镜末。千问不重复说话。"
+      },
+      "execution_note": "镜长7.25秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 3.79是音频文件入点，4.2是现有能量起点近似；不等同新增0.41秒停顿。"
+    },
+    "CY024A10": {
+      "direction_override": {},
+      "source_overrides": {},
+      "execution_note": "镜长1.5秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY024A11": {
+      "direction_override": {},
+      "source_overrides": {},
+      "execution_note": "镜长1.5秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY024A1": {
+      "direction_override": {},
+      "source_overrides": {},
+      "execution_note": "镜长2.55秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY024A2": {
+      "direction_override": {},
+      "source_overrides": {},
+      "execution_note": "镜长3.56秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY024A3": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "连续GPT母版原14.57–21.09秒，对应本镜0–6.52秒；仅视觉换镜，声音不重起。液桥轻响和高空长风，无雨雷电。",
+        "cinematic_beats": [
+          {
+            "offset": 0,
+            "intent": "大滴缓升并拉长回弹，小滴接近"
+          },
+          {
+            "offset": 3.26,
+            "intent": "小滴连续融入，云影遮月；上升方向接云腹"
+          }
+        ]
+      },
+      "execution_note": "镜长6.52秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY024A6": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "GPT连续母版两分句在本镜0–2.82秒、2.82–5.04秒连读；高空长风与潮鸣压低，原云腹聚海与中心收拢不变。"
+      },
+      "execution_note": "镜长5.04秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY024A7": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "完整GPT母版原26.13–31.72秒连续覆盖5.59秒；长风与下坠水鸣不盖句末，屋顶第一处裂响落镜末，跨接下一镜同一个撞点。",
+        "cinematic_beats": [
+          {
+            "offset": 0,
+            "intent": "单一水龙从已聚成云海向中央中殿下行"
+          },
+          {
+            "offset": 0.7,
+            "intent": "陡俯跟随同一龙首，保留高度参照"
+          },
+          {
+            "offset": 5.39,
+            "intent": "镜末吻部触同一指定屋顶点，首次裂响；接下镜同一破口"
+          }
+        ]
+      },
+      "execution_note": "镜长5.59秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY024A5A": {
+      "direction_override": {},
+      "source_overrides": {},
+      "execution_note": "镜长1.5秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 保留1.5秒破顶镜，对应母版原31.72秒处插入的1.5秒无新语音空窗；之后续母版31.72，不重起或漏词。"
+    },
+    "CY024A4": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "破顶尾响进入罩内变闷。GPT母版原31.72–36.58秒连续4.86秒画外；Kimi蹲下检查踝扣、锁链轻响与呼吸，最高祭坛不受水撞击。"
+      },
+      "execution_note": "镜长4.86秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY024A8": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "破顶尾响衰减、水身回卷与衣料；GPT母版原36.58–41.8秒连续5.22秒画外。教主只追视与抬手准备，不提前开罩。"
+      },
+      "execution_note": "镜长5.22秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY024A5": {
+      "direction_override": {
+        "effects_en": "The full Japanese prayer occupies 0–5.74 seconds. Leave the 5.74–6.54-second vocal gap and withdraw the music, then keep the complete spell name clear at 6.54–12 seconds. The seal and dragon remain held throughout; no attack or shield impact."
+      },
+      "source_overrides": {
+        "sound": "0–5.74秒完整救赎祈愿；5.74–6.54秒保留0.8秒语音空窗并收音乐；6.54–12秒完整术名。水龙与双手持续蓄势，全镜无攻击、撞盾或提前重音。",
+        "cinematic_beats": [
+          {
+            "offset": 0,
+            "intent": "已盘成的一圈水龙与胸前手印；完整祈愿直接开始，不再前置2.4秒"
+          },
+          {
+            "offset": 5.74,
+            "intent": "祈愿结束，0.8秒语音空窗及音乐收声，手印与水龙保持"
+          },
+          {
+            "offset": 6.54,
+            "intent": "完整术名开始，正常速度持续至镜末"
+          },
+          {
+            "offset": 12,
+            "intent": "完整术名文件结束；切下一镜才解印、指出与水首响应"
+          }
+        ]
+      },
+      "execution_note": "镜长12秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 原2.4/5/5.8/7.9秒说明全部停用；镜末12秒是切点，不在本镜内多加动作。"
+    },
+    "CY024A5B": {
+      "direction_override": {},
+      "source_overrides": {},
+      "execution_note": "镜长1.5秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 承接完整术名结束后的第一镜，沿原0秒锁定/解印、0.5秒指出、1秒水首启动顺序。撞盾仍只落CY024B，不能拿BGM卡点提前放。"
+    },
+    "CY024B": {
+      "direction_override": {},
+      "source_overrides": {},
+      "execution_note": "镜长5秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 沿同一水龙撞盾接触才起重音；前序延时只整体平移本镜，不改变0.8/2.2/4秒既定撞击、冲散、停供水动作。"
+    },
+    "CY027A": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "完整教主日语质问0.1–4.78秒；镜长4.9秒，水声与教堂回声压低，最后0.12秒等GPT回应。"
+      },
+      "execution_note": "镜长4.9秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 台词完整后才切GPT回答，不保留旧2.52秒语音预算。"
+    },
+    "CY028A": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "GPT安抚0.1–2.6秒；Claude站稳后问孩子2.8–6.08秒，中间0.2秒接话间隙，余0.12秒留寻找视线。锁链余响、滴水与搀扶衣料低于对白。",
+        "cinematic_beats": [
+          {
+            "offset": 0,
+            "intent": "GPT折翼扶稳，Claude从同一脚托迈向平台"
+          },
+          {
+            "offset": 0.1,
+            "intent": "GPT完整安抚，Kimi收束具让开"
+          },
+          {
+            "offset": 2.8,
+            "intent": "Claude已站稳，望向阶下并完整询问孩子"
+          },
+          {
+            "offset": 6.08,
+            "intent": "完整问句结束，切寻找孩子的视线"
+          }
+        ]
+      },
+      "execution_note": "镜长6.2秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY028B": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "Claude含停顿母版整段一次播放，不因镜头分句切音频或重起。 本镜0–2.76秒为初句前段，极少暗淡光屑，手指与衣边原状态不变。"
+      },
+      "execution_note": "镜长2.76秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 首句从B到C连续，不在切点硬停。"
+    },
+    "CY028C": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "Claude含停顿母版整段一次播放，不因镜头分句切音频或重起。 本镜0–2.85秒接首句后段；结束后才进入父亲占用的6秒停顿。无重说、无新增治疗声。"
+      },
+      "execution_note": "镜长2.85秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY029": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "Claude母版此处进入既定6秒绝对零停顿。父亲完整日语呼唤从本镜0.3秒开始，持续4.18秒，跨下镜至其0.48秒结束；Claude只眼神微颤，初蓄不灭。"
+      },
+      "execution_note": "镜长4秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 本镜4秒＋CY029E2秒＝完整6秒；不要只以父亲文件4.18秒替代全部停顿。"
+    },
+    "CY029E": {
+      "direction_override": {
+        "transition_zh": "沿倒影匹配同一次抬头伸手，父亲原声连续至本镜0.48秒，不重复整句。6秒打断空窗满后切Claude主动选择。",
+        "effects_en": "Continue the same father recording for the first 0.48 seconds, without restarting or cutting off any remaining words. Then retain breath, drips and decay until the full six-second interruption is complete."
+      },
+      "source_overrides": {
+        "sound": "承接父亲同一条完整呼唤，前0.48秒仍可能有其原声余段；随后环境与自然回声，Claude尚不续咏。两镜累计6秒满后，下一镜E1立即接原母版。"
+      },
+      "execution_note": "镜长2秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY029E1": {
+      "direction_override": {
+        "camera_zh": "Claude面肩近景随她移开视线小幅侧移，面部落入较空的画侧；镜首即续咏，镜头随后轻稳住，保持苍白。",
+        "camera_en": "Slide slightly with Claude averting her pale face; the resumed Japanese phrase starts at the cut while the camera settles, without an extra pause."
+      },
+      "source_overrides": {
+        "sound": "Claude含停顿母版整段一次播放，不因镜头分句切音频或重起。 6秒父亲停顿完成即在镜首续下一句，完整2.7秒；移开视线与续咏同时开始，不额外等运镜停住。"
+      },
+      "execution_note": "镜长2.7秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY029E2": {
+      "direction_override": {},
+      "source_overrides": {
+        "sound": "Claude含停顿母版整段一次播放，不因镜头分句切音频或重起。 本镜2.3秒为父亲发现Claude没有回头的无声反应，Claude画外继续；手僵住再松落，不增加父亲台词。"
+      },
+      "execution_note": "镜长2.3秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY029E3": {
+      "direction_override": {
+        "effects_en": "Keep the mother recording continuous. The next Japanese phrase begins 1.33 seconds into this three-second insert and continues across the following cut; tiny flame remains below the voice."
+      },
+      "source_overrides": {
+        "sound": "Claude含停顿母版整段一次播放，不因镜头分句切音频或重起。 本镜0–1.33秒为掌心分句，1.33秒起同一母版自然进入后句，并跨E4继续；不以镜头句标题强制切音。火种成形后维持，不离手。"
+      },
+      "execution_note": "镜长3秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 保留3秒手部凝种镜；VO-CY029E4-01在本镜1.33秒已画外进入，E4不能再重复起句。"
+    },
+    "CY029E4": {
+      "direction_override": {
+        "transition_zh": "由指间火种切被救孩子，承前已经开始的同一句画外咏唱；空架不燃、不预闪。",
+        "effects_en": "Continue the phrase already begun in the preceding hand insert for the remaining 4.94 seconds. A faint clothing grip sits below it; do not restart the line or anticipate ignition."
+      },
+      "source_overrides": {
+        "sound": "Claude含停顿母版整段一次播放，不因镜头分句切音频或重起。 承前镜1.33秒已开始的同一后句，剩余4.94秒持续画外；小鱼攥衣仰望，火种仍留Claude指间。镜末切术名，不另起后句。"
+      },
+      "execution_note": "镜长4.94秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。"
+    },
+    "CY029B1": {
+      "direction_override": {
+        "action_zh_override": "Claude轻声念出同一条完整星火术名，维持E3已经成形的同一枚火种和左手承托，4.36秒完整文件与词尾全部保留。镜末手指只准备前送，火种仍在指间，不建立离手间隙；实际释放留到下一镜开头。不再在0.7秒提前送出，不重凝、不持续喷火。焦边袖口保留，脸若入画仍苍白无羞红。",
+        "action_en": "Claude names the spell once while holding the same completed ember and supporting her right wrist. Preserve the entire 4.36-second recording and its tail. Near the end, the fingertips prepare to move forward, but the ember remains at her fingers; actual release occurs at the beginning of the next shot. Do not form another ember or sustain a flame jet. Preserve her scorched cuff and pallor.",
+        "camera_zh": "正常速度侧面手部特写轻随指尖准备前送，镜末火种仍在指间；不提前追成离手轨迹。",
+        "camera_en": "In the side hand close-up, follow the fingertips only as they prepare to move forward; keep the ember at the fingers until the cut.",
+        "transition_zh": "承小鱼仰视切回已成形火种，完整术名与词尾只说一次；镜末准备前送，下一镜开头才离手。",
+        "transition_en": "Return to the already formed ember for the complete spell name and tail; preparation leads across the cut to release in the next shot."
+      },
+      "source_overrides": {
+        "sound": "Claude母版完整术名文件0–4.36秒连续播放，词尾和原始尾部全保留，不依据能量阈值提前释放。火焰极轻，实际离手在下一镜开头。",
+        "cinematic_beats": [
+          {
+            "offset": 0,
+            "intent": "已成形火种保持指间，完整术名开始"
+          },
+          {
+            "offset": 4.1,
+            "intent": "只准备前送姿势，火种仍未离手"
+          },
+          {
+            "offset": 4.36,
+            "intent": "完整文件结束并切下一镜，随后才实际释放"
+          }
+        ],
+        "action": "Claude轻声念出同一条完整星火术名，维持E3已经成形的同一枚火种和左手承托，4.36秒完整文件与词尾全部保留。镜末手指只准备前送，火种仍在指间，不建立离手间隙；实际释放留到下一镜开头。不再在0.7秒提前送出，不重凝、不持续喷火。焦边袖口保留，脸若入画仍苍白无羞红。"
+      },
+      "execution_note": "镜长4.36秒；完整自然速度日语术名与词尾全部留在本镜，末尾只准备送出。禁止以未听审能量词界决定提前释放，实际离手放CY029B2开头。",
+      "action_override": "Claude轻声念出同一条完整星火术名，维持E3已经成形的同一枚火种和左手承托，4.36秒完整文件与词尾全部保留。镜末手指只准备前送，火种仍在指间，不建立离手间隙；实际释放留到下一镜开头。不再在0.7秒提前送出，不重凝、不持续喷火。焦边袖口保留，脸若入画仍苍白无羞红。"
+    },
+    "CY029B2": {
+      "direction_override": {
+        "action_zh_override": "前0–0.3秒先延续上一镜侧面手部位置：Claude轻送E3已成形的同一枚火种，左手放松承托，火种与手指之间出现明确空气间隙，不新增火种或持续喷火。0.3秒沿刚释放的飞行方向切入火种主观视角。空十字架位于正前方，沿落点平稳逼近立柱与横木交接铁箍下方的裸露木纹；木纹和空镣铐逐渐放大。主观段中央不出现火种本体，仅边缘少量虚焦橙金火舌与热扰动，中心落点清楚；不翻滚、不绕行。1.6秒起最后一小段提速，1.9秒触木局部闪亮，随后切CY029B外部腾燃。",
+        "action_en": "For the first 0.3 seconds, continue the side hand view: Claude releases the same completed ember, relaxes the supporting left hand and creates a clear gap from her fingertips. Then match its forward direction into the ember viewpoint, approaching bare wood beneath the crossbeam iron band. Keep the target clear; only blurred flame and heat distortion edge the viewpoint frame, with no central ember body. Move steadily without rolling or orbiting, accelerate at 1.6 seconds and touch wood at 1.9 seconds; cut to the external ignition.",
+        "camera_zh": "前0.3秒侧面手部近景轻随离手，明确间隙后匹配切主观；其后平稳沿木纹落点前移，1.6秒起提速，无翻滚环绕。",
+        "camera_en": "Use the first 0.3 seconds for a side hand close-up establishing separation, then match-cut forward into the ember viewpoint. Track steadily toward the exposed wood, accelerating at 1.6 seconds without roll or orbit.",
+        "transition_zh": "承前镜完整术名与准备手势，先看一次实际离手，再顺飞行方向切主观；1.9秒触木一闪接外部腾燃。",
+        "transition_en": "After the preceding complete spell name, show the single release before matching forward into the ember viewpoint; cut to external ignition on wood contact.",
+        "effects_en": "A faint sleeve and flame sound accompanies release, followed by close flame movement in the viewpoint segment. No further speech; ignition belongs to the following shot."
+      },
+      "source_overrides": {
+        "sound": "前0–0.3秒轻送同一火种，微弱衣料与火焰声；无新对白，Claude原术名已完整结束。0.3秒转主观后环境压低，末段提速与触木，腾燃重音留下一镜。",
+        "action": "前0–0.3秒先延续上一镜侧面手部位置：Claude轻送E3已成形的同一枚火种，左手放松承托，火种与手指之间出现明确空气间隙，不新增火种或持续喷火。0.3秒沿刚释放的飞行方向切入火种主观视角。空十字架位于正前方，沿落点平稳逼近立柱与横木交接铁箍下方的裸露木纹；木纹和空镣铐逐渐放大。主观段中央不出现火种本体，仅边缘少量虚焦橙金火舌与热扰动，中心落点清楚；不翻滚、不绕行。1.6秒起最后一小段提速，1.9秒触木局部闪亮，随后切CY029B外部腾燃。",
+        "cinematic_beats": [
+          {
+            "offset": 0,
+            "intent": "侧面手部承接准备姿势，轻送同一火种并显示离手间隙"
+          },
+          {
+            "offset": 0.3,
+            "intent": "沿刚释放的方向切主观，空刑架落点清楚"
+          },
+          {
+            "offset": 1.6,
+            "intent": "最后一小段提速，瞄准交接铁箍下方裸露木纹"
+          },
+          {
+            "offset": 1.9,
+            "intent": "触木局部闪亮，立即切下一镜外部腾燃"
+          }
+        ]
+      },
+      "execution_note": "镜长保持2秒。前0.3秒增补实际离手，余1.7秒沿原主观方向推进；原1.6秒提速、1.9秒触木不变，不让未报完术名的火种先飞。",
+      "action_override": "前0–0.3秒先延续上一镜侧面手部位置：Claude轻送E3已成形的同一枚火种，左手放松承托，火种与手指之间出现明确空气间隙，不新增火种或持续喷火。0.3秒沿刚释放的飞行方向切入火种主观视角。空十字架位于正前方，沿落点平稳逼近立柱与横木交接铁箍下方的裸露木纹；木纹和空镣铐逐渐放大。主观段中央不出现火种本体，仅边缘少量虚焦橙金火舌与热扰动，中心落点清楚；不翻滚、不绕行。1.6秒起最后一小段提速，1.9秒触木局部闪亮，随后切CY029B外部腾燃。"
+    }
+  },
+  "plan_note_replacements": {
+    "shot_notes": {
+      "CY021": "延续同一次撑地失败，不再摔倒；3.8秒本镜接2秒CY021B，完整5.8秒Claude求情画外连续。",
+      "CY024K0": "Kimi现场说话，6.5秒含完整请求5.91秒及投刃；显形已在前镜4秒完成。",
+      "CY031A": "完整现有日语问答在4秒镜内分别1–2.78秒、3.2–4秒，先坐下、后接勺；保留0.42秒接话间隙。"
+    },
+    "batch_text_patches": {
+      "GB014": {
+        "handle_reason": "敌方反应后分批，下一段保留完整4秒显形与6.5秒请求投刃。"
+      },
+      "GB014A": {
+        "group_reason": "4秒月光凝形接6.5秒完整请求与投刃，角色状态与原声连续。",
+        "handle_reason": "有效内容10.5秒；后续镜长按新版重编，不能继续引用旧14秒或剩余5秒预算。"
+      }
+    },
+    "continuous_line_parts_policy": "GPT A9至A1整句连续，中文词碎片仅阅读旧注释，不是五次口播或准确词界。不能按旧万千/深流等硬切母版。"
+  },
+  "checks": {
+    "preserve_kimi_manifest_seconds": 4,
+    "preserve_claude_pause_seconds": 6,
+    "gpt_prayer_end_in_shot": 5.74,
+    "gpt_name_start_in_shot": 6.54,
+    "gpt_name_end_in_shot": 12,
+    "gpt_attack_next_shot": "CY024A5B",
+    "legacy_english_dialogue_added": false,
+    "pronunciation_or_word_alignment_verified": false,
+    "claude_release_next_shot": "CY029B2",
+    "claude_release_established_before_pov_seconds": 0.3
+  }
+}

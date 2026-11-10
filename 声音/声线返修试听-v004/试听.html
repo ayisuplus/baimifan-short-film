@@ -1,0 +1,53 @@
+<!doctype html><html lang="zh"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>白米饭 · 按备注返修试听 v004</title><style>body{max-width:1150px;margin:30px auto;padding:0 22px;background:#121923;color:#eef4ff;font:16px/1.7 system-ui}section{background:#1c2737;border-radius:14px;padding:22px;margin:22px 0}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}article{padding:15px;background:#27364c;border-radius:10px}audio{width:100%}button{padding:9px 14px;border:0;border-radius:7px;background:#b8d8ff;color:#122136;cursor:pointer}input{display:block;width:95%;margin:12px 0;padding:10px;background:#121923;color:white;border:1px solid #789;border-radius:6px}a{color:#abd5ff}.status{color:#9ee6c4}.bar{position:sticky;top:0;background:#121923;padding:12px;z-index:2}</style><h1>白米饭 · 按备注返修试听</h1><p>先听新GPT和Kimi；天使、恶魔GPT已经合并到本体候选中。旧版与作者意见保留，本轮候选均未替换正片。技术检查不等于发音、情绪或音色通过。</p><div class="bar"><button onclick="exportChoices()">导出全部选择</button> <span id="notice">正在读取保存记录…</span></div><nav><a href="#GPT">GPT</a>　<a href="#Kimi">Kimi</a>　<a href="#千问">千问</a>　<a href="#Grok">Grok</a>　<a href="#Claude">Claude</a>　<a href="#教主">教主</a>　<a href="#Gemini">Gemini</a>　<a href="#教徒">教徒</a>　<a href="#小鱼">小鱼</a>　</nav><section id="GPT"><h2>GPT</h2><p>你的备注：咏唱始终不对，没有那种动漫的热血的气</p><p>新候选；包含本体咏唱、安抚、恶魔提醒、天使质问。最后两句必须仍像GPT本人。</p><p class="status" id="status-GPT"></p><div class="grid"><article><h3>候选 1</h3><audio controls preload="metadata" src="GPT-1.mp3"></audio><p><a href="GPT-1.mp3" download>下载原件</a></p><button onclick="saveChoice('GPT',1)">选这版</button></article><article><h3>候选 2</h3><audio controls preload="metadata" src="GPT-2.mp3"></audio><p><a href="GPT-2.mp3" download>下载原件</a></p><button onclick="saveChoice('GPT',2)">选这版</button></article><article><h3>候选 3</h3><audio controls preload="metadata" src="GPT-3.mp3"></audio><p><a href="GPT-3.mp3" download>下载原件</a></p><button onclick="saveChoice('GPT',3)">选这版</button></article></div><details><summary>对照上一轮候选1</summary><audio controls preload="none" src="../ElevenLabs-正式台词试听-v003/GPT-1.mp3"></audio></details><label>本轮备注<input id="note-GPT" aria-label="GPT备注"></label><button onclick="saveChoice('GPT')">保存备注</button> <button onclick="saveChoice('GPT',0)">仍需调整</button></section><section id="Kimi"><h2>Kimi</h2><p>你的备注：不太行，我想要的是一种空灵清冷的少女，你这个不太像</p><p>新候选；同一组四句正式台词重复三轮，只调整声线目标。</p><p class="status" id="status-Kimi"></p><div class="grid"><article><h3>候选 1</h3><audio controls preload="metadata" src="Kimi-1.mp3"></audio><p><a href="Kimi-1.mp3" download>下载原件</a></p><button onclick="saveChoice('Kimi',1)">选这版</button></article><article><h3>候选 2</h3><audio controls preload="metadata" src="Kimi-2.mp3"></audio><p><a href="Kimi-2.mp3" download>下载原件</a></p><button onclick="saveChoice('Kimi',2)">选这版</button></article><article><h3>候选 3</h3><audio controls preload="metadata" src="Kimi-3.mp3"></audio><p><a href="Kimi-3.mp3" download>下载原件</a></p><button onclick="saveChoice('Kimi',3)">选这版</button></article></div><details><summary>对照上一轮候选1</summary><audio controls preload="none" src="../ElevenLabs-正式台词试听-v003/Kimi-1.mp3"></audio></details><label>本轮备注<input id="note-Kimi" aria-label="Kimi备注"></label><button onclick="saveChoice('Kimi')">保存备注</button> <button onclick="saveChoice('Kimi',0)">仍需调整</button></section><section id="千问"><h2>千问</h2><p>你的备注：千问设定是古风美人，我这边建议换个别的工具来生成吧，就用我们本地得breeze来设计</p><p>最新决定：先用Breeze设计中文古风美人，再由IndexTTS克隆成日语。候选3是本轮新方案，候选1/2保留作旧参考对照。</p><p class="status" id="status-千问"></p><div class="grid"><article><h3>千问-IndexTTS25-从容表演</h3><audio controls preload="metadata" src="千问-IndexTTS25-从容表演.wav"></audio><p><a href="千问-IndexTTS25-从容表演.wav" download>下载原件</a></p><button onclick="saveChoice('千问',1)">选这版</button></article><article><h3>千问-IndexTTS25-旧声线验证</h3><audio controls preload="metadata" src="千问-IndexTTS25-旧声线验证.wav"></audio><p><a href="千问-IndexTTS25-旧声线验证.wav" download>下载原件</a></p><button onclick="saveChoice('千问',2)">选这版</button></article><article><h3>新方案：Breeze中文设计 → IndexTTS日语</h3><audio controls preload="metadata" src="../千问跨语言试音-v005/千问-IndexTTS-日语克隆.wav"></audio><p><a href="../千问跨语言试音-v005/千问-IndexTTS-日语克隆.wav" download>下载原件</a></p><button onclick="saveChoice('千问',3)">选这版</button></article></div><h3>新方案的中文声线原件</h3><audio controls preload="metadata" src="../千问跨语言试音-v005/千问-Breeze-中文原声.flac"></audio><p>中文试音附加语句只用于建立参考，不进入剧情。日语正式文本：行きましょう。つかまって。／走吧。抱紧我。</p><label>本轮备注<input id="note-千问" aria-label="千问备注"></label><button onclick="saveChoice('千问')">保存备注</button> <button onclick="saveChoice('千问',0)">仍需调整</button></section><section id="Grok"><h2>Grok</h2><p>你的备注：感觉还不如之前那个，我觉得之前那个还是对味一点，你这个变成小女孩</p><p>依作者意见恢复旧版；正片本轮未动。</p><p class="status" id="status-Grok"></p><div class="grid"><article><h3>原选声音</h3><audio controls preload="metadata" src="Grok-恢复旧版.wav"></audio><p><a href="Grok-恢复旧版.wav" download>下载原件</a></p></article></div></section><section id="Claude"><h2>Claude</h2><p>你的备注：已确认声线，保留。</p><p>此次不重复生成。</p><p class="status" id="status-Claude"></p><div class="grid"><article><h3>已选声音</h3><audio controls preload="metadata" src="../ElevenLabs-正式台词试听-v003/../ElevenLabs-正式台词试听-v002/Claude-1.mp3"></audio><p><a href="../ElevenLabs-正式台词试听-v003/../ElevenLabs-正式台词试听-v002/Claude-1.mp3" download>下载原件</a></p></article></div></section><section id="教主"><h2>教主</h2><p>你的备注：已确认声线，保留。</p><p>此次不重复生成。</p><p class="status" id="status-教主"></p><div class="grid"><article><h3>已选声音</h3><audio controls preload="metadata" src="../ElevenLabs-正式台词试听-v003/教主-1.mp3"></audio><p><a href="../ElevenLabs-正式台词试听-v003/教主-1.mp3" download>下载原件</a></p></article></div></section><section id="Gemini"><h2>Gemini</h2><p>你的备注：已确认声线，保留。</p><p>此次不重复生成。</p><p class="status" id="status-Gemini"></p><div class="grid"><article><h3>已选声音</h3><audio controls preload="metadata" src="../ElevenLabs-正式台词试听-v003/Gemini-直配-oGnIkLaScZshfvIW8YvI.mp3"></audio><p><a href="../ElevenLabs-正式台词试听-v003/Gemini-直配-oGnIkLaScZshfvIW8YvI.mp3" download>下载原件</a></p></article></div></section><section id="教徒"><h2>教徒</h2><p>你的备注：已确认声线，保留。</p><p>此次不重复生成。</p><p class="status" id="status-教徒"></p><div class="grid"><article><h3>已选声音</h3><audio controls preload="metadata" src="../ElevenLabs-正式台词试听-v003/教徒-直配-sBasCmUCkqdPXe3dC2X4.mp3"></audio><p><a href="../ElevenLabs-正式台词试听-v003/教徒-直配-sBasCmUCkqdPXe3dC2X4.mp3" download>下载原件</a></p></article></div></section><section id="小鱼"><h2>小鱼</h2><p>你的备注：暂时保留现有声音。</p><p>未重新生成。</p><p class="status" id="status-小鱼"></p><div class="grid"></div></section><script>const entries=[{"role": "GPT", "kind": "designed", "note": "咏唱始终不对，没有那种动漫的热血的气", "description": "新候选；包含本体咏唱、安抚、恶魔提醒、天使质问。最后两句必须仍像GPT本人。", "previews": [{"candidate": 1, "file": "GPT-1.mp3", "seconds": 29.152625}, {"candidate": 2, "file": "GPT-2.mp3", "seconds": 27.088958}, {"candidate": 3, "file": "GPT-3.mp3", "seconds": 26.279167}]}, {"role": "Kimi", "kind": "designed", "note": "不太行，我想要的是一种空灵清冷的少女，你这个不太像", "description": "新候选；同一组四句正式台词重复三轮，只调整声线目标。", "previews": [{"candidate": 1, "file": "Kimi-1.mp3", "seconds": 40.515917}, {"candidate": 2, "file": "Kimi-2.mp3", "seconds": 38.687333}, {"candidate": 3, "file": "Kimi-3.mp3", "seconds": 36.675917}]}, {"role": "千问", "kind": "direct", "note": "千问设定是古风美人，我这边建议换个别的工具来生成吧，就用我们本地得breeze来设计", "description": "最新决定：先用Breeze设计中文古风美人，再由IndexTTS克隆成日语。候选3是本轮新方案，候选1/2保留作旧参考对照。", "previews": [{"candidate": 1, "file": "千问-IndexTTS25-从容表演.wav", "seconds": 2.0317460317460316, "label": "千问-IndexTTS25-从容表演"}, {"candidate": 2, "file": "千问-IndexTTS25-旧声线验证.wav", "seconds": 3.030204081632653, "label": "千问-IndexTTS25-旧声线验证"}, {"candidate": 3, "file": "../千问跨语言试音-v005/千问-IndexTTS-日语克隆.wav", "seconds": 1.915646, "label": "新方案：Breeze中文设计 → IndexTTS日语"}]}, {"role": "Grok", "kind": "retained", "note": "感觉还不如之前那个，我觉得之前那个还是对味一点，你这个变成小女孩", "description": "依作者意见恢复旧版；正片本轮未动。", "previews": [{"candidate": 1, "file": "Grok-恢复旧版.wav", "label": "原选声音"}]}, {"role": "Claude", "kind": "retained", "note": "已确认声线，保留。", "description": "此次不重复生成。", "previews": [{"candidate": 1, "file": "../ElevenLabs-正式台词试听-v003/../ElevenLabs-正式台词试听-v002/Claude-1.mp3", "label": "已选声音"}]}, {"role": "教主", "kind": "retained", "note": "已确认声线，保留。", "description": "此次不重复生成。", "previews": [{"candidate": 1, "file": "../ElevenLabs-正式台词试听-v003/教主-1.mp3", "label": "已选声音"}]}, {"role": "Gemini", "kind": "retained", "note": "已确认声线，保留。", "description": "此次不重复生成。", "previews": [{"candidate": 1, "file": "../ElevenLabs-正式台词试听-v003/Gemini-直配-oGnIkLaScZshfvIW8YvI.mp3", "label": "已选声音"}]}, {"role": "教徒", "kind": "retained", "note": "已确认声线，保留。", "description": "此次不重复生成。", "previews": [{"candidate": 1, "file": "../ElevenLabs-正式台词试听-v003/教徒-直配-sBasCmUCkqdPXe3dC2X4.mp3", "label": "已选声音"}]}, {"role": "小鱼", "kind": "retained", "note": "暂时保留现有声音。", "description": "未重新生成。", "previews": []}];let choices={
+  "GPT": {
+    "candidate": 1,
+    "note": "",
+    "status": "author_selected",
+    "time": "2026-10-29T15:58:53.068703+08:00",
+    "evidence": "author clicked review page",
+    "timeline_adopted": false,
+    "audio": "GPT-1.mp3"
+  },
+  "Kimi": {
+    "status": "pending",
+    "note": "",
+    "prior_author_note": "不太行，我想要的是一种空灵清冷的少女，你这个不太像"
+  },
+  "千问": {
+    "status": "pending",
+    "note": "这个得重新设计了，得先直接用 Eleven Labs 设计个专门的音色。",
+    "prior_author_note": "千问设定是古风美人，我这边建议换个别的工具来生成吧，就用我们本地得breeze来设计",
+    "note_saved_at": "2026-10-29T16:00:21.099428+08:00",
+    "note_evidence": "review page note edit"
+  },
+  "Grok": {
+    "status": "retain_existing_voice",
+    "note": "",
+    "prior_author_note": "感觉还不如之前那个，我觉得之前那个还是对味一点，你这个变成小女孩"
+  },
+  "Claude": {
+    "status": "retain_existing_voice",
+    "note": "",
+    "prior_author_note": "已确认声线，保留。"
+  },
+  "教主": {
+    "status": "retain_existing_voice",
+    "note": "",
+    "prior_author_note": "已确认声线，保留。"
+  },
+  "Gemini": {
+    "status": "retain_existing_voice",
+    "note": "",
+    "prior_author_note": "已确认声线，保留。"
+  },
+  "教徒": {
+    "status": "retain_existing_voice",
+    "note": "",
+    "prior_author_note": "已确认声线，保留。"
+  },
+  "小鱼": {
+    "status": "retain_existing_voice",
+    "note": "",
+    "prior_author_note": "暂时保留现有声音。"
+  }
+};</script><script src="备注保存.js"></script></html>

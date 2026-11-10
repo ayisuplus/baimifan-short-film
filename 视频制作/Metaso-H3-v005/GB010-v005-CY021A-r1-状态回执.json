@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115300239560609792",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "",
+    "status": "succeeded",
+    "created_at": 1793161852,
+    "updated_at": 1793161875,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115300239560609792/content?expires=1793766772&signature=27f89021b931f44e0195a3eeb591d9db7192b9e16343abc4dff44aff346a62a5"
+    },
+    "resolution": "768P",
+    "duration": 7,
+    "usage": {
+      "total_seconds": 7,
+      "input_seconds": 0,
+      "output_seconds": 7,
+      "input_image_count": 2
+    },
+    "ratio": "16:9",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

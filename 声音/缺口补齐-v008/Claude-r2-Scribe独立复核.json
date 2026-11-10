@@ -1,0 +1,85 @@
+{
+  "status": "completed",
+  "method": "unprompted Scribe v2 Japanese; no expected text or keyterms",
+  "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\声音\\缺口补齐-v008\\VO-CY028B-01__Claude-r2.mp3",
+  "source_sha256": "a5074f76903f00311b3524105c0f07f2b05c6e3c09d6884ad3a5ecb32096ea72",
+  "response": {
+    "language_code": "jpn",
+    "language_probability": 1.0,
+    "text": "灰に眠る微かな光を。",
+    "words": [
+      {
+        "text": "灰",
+        "start": 0.24,
+        "end": 0.34,
+        "type": "word",
+        "logprob": -0.024751203134655952
+      },
+      {
+        "text": "に",
+        "start": 0.42,
+        "end": 0.54,
+        "type": "word",
+        "logprob": -1.2993727978027891e-05
+      },
+      {
+        "text": "眠",
+        "start": 0.54,
+        "end": 0.64,
+        "type": "word",
+        "logprob": -0.00010287232726113871
+      },
+      {
+        "text": "る",
+        "start": 0.7,
+        "end": 0.78,
+        "type": "word",
+        "logprob": -9.059495641849935e-05
+      },
+      {
+        "text": "微",
+        "start": 0.86,
+        "end": 1.02,
+        "type": "word",
+        "logprob": -0.15246234834194183
+      },
+      {
+        "text": "か",
+        "start": 1.02,
+        "end": 1.12,
+        "type": "word",
+        "logprob": -0.0020258158911019564
+      },
+      {
+        "text": "な",
+        "start": 1.12,
+        "end": 1.18,
+        "type": "word",
+        "logprob": -0.0020258158911019564
+      },
+      {
+        "text": "光",
+        "start": 1.24,
+        "end": 1.52,
+        "type": "word",
+        "logprob": -8.583032467868179e-06
+      },
+      {
+        "text": "を",
+        "start": 1.52,
+        "end": 1.58,
+        "type": "word",
+        "logprob": -0.0006644901586696506
+      },
+      {
+        "text": "。",
+        "start": 1.58,
+        "end": 1.58,
+        "type": "word",
+        "logprob": -0.3868747353553772
+      }
+    ],
+    "transcription_id": "NF3BYRnEbKp0vfPzpzso",
+    "audio_duration_secs": 1.857625
+  }
+}

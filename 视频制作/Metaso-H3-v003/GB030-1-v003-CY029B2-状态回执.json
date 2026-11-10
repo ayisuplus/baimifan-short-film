@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115171949392617472",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "火种视角逼近木刑架",
+    "status": "succeeded",
+    "created_at": 1793131265,
+    "updated_at": 1793131294,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115171949392617472/content?expires=1793736388&signature=edfd26a6cf98c985f0a91d42e11a25066d29cc4fe32f07b89349629b9bd7fb4e"
+    },
+    "resolution": "768P",
+    "duration": 4,
+    "usage": {
+      "total_seconds": 4,
+      "input_seconds": 0,
+      "output_seconds": 4,
+      "input_image_count": 1
+    },
+    "ratio": "adaptive",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

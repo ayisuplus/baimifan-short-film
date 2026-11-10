@@ -1,0 +1,44 @@
+{
+  "batch": {
+    "attempt_id": "CY022-v014-grip-free-r2",
+    "batch_number": 16,
+    "batch_id": "GB013",
+    "duration": 4,
+    "prompt": "精细日式二维动画单镜，保持参考线稿与平涂阴影，禁止3D手办材质，无对白字幕音乐。使用参考中蓝发鲸帽宝宝的上臂、袖子与黑袍教徒抓持手的近特写。只看小鱼从肩到腰和抓持手，不露教主，不露火把。0至0.6秒黑金袖口的一只手扣着孩子上臂；画外水花闪光后，0.6至1.5秒这只手受惊，五指张开，整只手明确向画面右上缩回，离开孩子肩臂至少一只手掌的距离；1.5至4秒手完全退出画面，孩子的上臂外侧空出清楚间隙，衣袖回弹，她朝画左挪半步。不得把张开手掌仍搭在肩上，不出多手，不击中孩子，不加其他角色。",
+    "references": [
+      {
+        "path": "视频制作/Metaso-H3-v013/参考/CY022-R1-聚术首帧-r1.png",
+        "role": "reference_image",
+        "sha256": "02bf5eec8f727230ebd519daab95d30ef52dce789392bd3d46bcb4dd41ad8ee5",
+        "visually_reviewed": true
+      }
+    ],
+    "estimated_credits": 40.8,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "拆分先前混淆的空间与接触动作为单一可验收插镜",
+    "repair_of": "v014 rescue r1 rejected"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "精细日式二维动画单镜，保持参考线稿与平涂阴影，禁止3D手办材质，无对白字幕音乐。使用参考中蓝发鲸帽宝宝的上臂、袖子与黑袍教徒抓持手的近特写。只看小鱼从肩到腰和抓持手，不露教主，不露火把。0至0.6秒黑金袖口的一只手扣着孩子上臂；画外水花闪光后，0.6至1.5秒这只手受惊，五指张开，整只手明确向画面右上缩回，离开孩子肩臂至少一只手掌的距离；1.5至4秒手完全退出画面，孩子的上臂外侧空出清楚间隙，衣袖回弹，她朝画左挪半步。不得把张开手掌仍搭在肩上，不出多手，不击中孩子，不加其他角色。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115678936394723328"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 4,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者要求直接修复教堂段，密塔剩余额度优先，不足转本地ComfyUI；现余额971.3，经控制台实时核实。保留历史，不充值，不导出。"
+}

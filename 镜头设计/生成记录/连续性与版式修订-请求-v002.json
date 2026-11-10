@@ -1,0 +1,45 @@
+{
+  "version": "v002",
+  "reason": "S04 remove premature wood flame; split S05 eight panoramic frames into two 2x2 pages, preserving shot IDs and timing.",
+  "requests": [
+    {
+      "id": "S04-v002",
+      "path": "镜头设计/图像/S04-粗分镜-v002.png",
+      "request": {
+        "referenced_image_paths": [
+          "E:/projects/内容创作/穿云/镜头设计/图像/S04-粗分镜-v001.png"
+        ],
+        "transparent_background": false,
+        "prompt": "Edit the attached SIX-panel storyboard sheet, keep exactly the same 2-column 3-row grid, same sizes, characters, poses, lighting, linework, white gutters and all panels. Make ONE local correction in the MIDDLE LEFT panel only (panel 3, small blue whale-hat child with arms spread below the orange-haired woman on cross): remove ALL small flames on the dry firewood pile and steps immediately to the LEFT and RIGHT of the child's body/arms and directly under the orange woman's dress. At this story moment the wood is completely UNLIT. Replace those premature little tongues of flame with dark unlit wooden logs/stone. Preserve background candle flames mounted on tall candlesticks farther behind the characters. The bottom-right panel's large burning wood remains UNCHANGED because the fire starts later there. All other five panels remain unchanged. No text or labels. Strict local continuity correction only; do not redesign."
+      }
+    },
+    {
+      "id": "S05A-v002",
+      "path": "镜头设计/图像/S05A-粗分镜-v002.png",
+      "request": {
+        "referenced_image_paths": [
+          "E:/projects/内容创作/穿云/镜头设计/图像/S05-粗分镜-v001.png",
+          "E:/projects/内容创作/穿云/资产/图像/CHAR-GPT-v003.png",
+          "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp"
+        ],
+        "transparent_background": false,
+        "prompt": "Create a revised storyboard sheet from ONLY the TOP FOUR FRAMES of image 1. RECOMPOSE them as exactly TWO COLUMNS and TWO ROWS, FOUR frames total, each FULL 16:9 widescreen composition. Entire output sheet should be approximately 1672x940 (16:9 overall), because 2x2 equal 16:9 frames preserves 16:9 overall. Do not include any of the original lower four frames. No tiny panoramic strips. Repaint/reframe from the supplied existing visual, maintaining character designs, painterly gothic anime style and same story beats. Thin white gutters. NO text/captions/numbers. Image 2 GPT, image 3 tiny child are identity authorities.\nTop left: GPT white dragon woman kicks open main church door from outside. Inside camera sees cold moonlight behind, ONE proportionate kicking leg contacting wood, one stable supporting leg and coherent hips under her white gown, pale wings and one tail, dust and splinters, door leaf opens inward. Reframe wide enough to show contact and stance. No other character struck, no gore.\nTop right: now-open same main entrance, GPT leads exactly one blonde Grok axe woman, one blue-purple Qwen fan woman, one teal glasses Perplexity staff woman, as in original top-right frame. They are MOVING inside, not posing for a lineup. The altar is behind camera, never behind door.\nBottom left: tiny round original DeepSeek baby at altar steps still too weak to stand, tilted whale hat, lifts her blue eyes toward open door, warm fire remains offscreen edge. No blood.\nBottom right: brief earlier flashback to GPT ALONE on ivory PALACE terrace, raising one hand to send one narrow blue-white signal into night sky. Match original image1 fourth frame but show palace terrace architecture and the distant church across the city, NOT inside church. No companions. Preserve shot order; do not insert any rescue frames."
+      }
+    },
+    {
+      "id": "S05B-v002",
+      "path": "镜头设计/图像/S05B-粗分镜-v002.png",
+      "request": {
+        "referenced_image_paths": [
+          "E:/projects/内容创作/穿云/镜头设计/图像/S05-粗分镜-v001.png",
+          "E:/projects/内容创作/穿云/资产/图像/CHAR-GPT-v003.png",
+          "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+          "E:/projects/内容创作/穿云/资产/图像/C04_Qwen.png"
+        ],
+        "transparent_background": false,
+        "prompt": "Create a revised storyboard sheet from ONLY the BOTTOM FOUR FRAMES of image 1 (its frames5,6,7,8). Recompose them as EXACTLY 2 columns by 2 rows, FOUR full 16:9 frames, final whole sheet approximately1672x940 (16:9 overall). NO shallow panoramic strips or additional panels. Same delicate painterly gothic fantasy anime, characters, costumes and dramatic lighting, but expand the compositions vertically to make support, bindings and hands readable. Thin white gutters, NO text/captions/numbers.\nReferences 2,3,4,5 reinforce GPT, Claude, tiny DeepSeek and Qwen identities. Preserve original DeepSeek round baby proportions. Grok blonde axe warrior and Perplexity teal-haired glasses/staff woman match existing image1.\nTop left = original frame5. Grok blocks hooded cultists defensively with axe on left; Qwen kneels sheltering collapsed baby on lower altar steps. Perplexity to right uses translucent teal barrier to isolate Claude from wood, flames now being suppressed. GPT approaches stairs to help. Unique distinct characters. Same cross far end of church, water basin at altar's right. No one struck, no gore.\nTop right = original frame6, crucial physical rescue. Fire fully extinguished to ash. GPT ALREADY supports Claude's clothed body with one arm behind her upper back, other arm UNDER KNEES before any release. Perplexity on right uses a small tool/magic to release metal connectors of CUFFS from WOOD, with chain across torso now slack. Show attached cuff hardware on wooden cross at side, and an already freed wrist; no metal pierces flesh. Claude is lowering safely into GPT's arms, not leaning out through taut chain. Make support and hand positions coherent. Do not use giant axe near bodies, no extra limbs, no random arms.\nBottom left = original frame7. After safe lowering and detachment, GPT supports Claude upright at base of steps, one arm behind back. Claude's shoulders reflexively tense at unseen father's offscreen voice from behind; then eyes turn toward child offscreen. No chains still attached to wood, no fire. Both adults clear, restrained relief/anxiety.\nBottom right = original frame8. Wider image from altar end looking down center aisle to distant OPEN MAIN DOORS. Priest and altar are entirely BEHIND camera. Claude on her own feet voluntarily holds GPT's offered hand as they turn to leave; hands clearly joined. Qwen is already several steps ahead WALKING AWAY FROM CAMERA toward doors, seen from REAR THREE-QUARTERS, securely carrying tiny exhausted DeepSeek in her arms. Child can look BACK over Qwen's shoulder but Qwen herself must not be walking toward camera. Grok and Perplexity protect sides. This is a quiet collective departure, no battle. Preserve coherent architecture and motion direction.\nExactly four equal16:9 panels. No title or writing. All fully dressed, non-graphic peril only."
+      }
+    }
+  ]
+}

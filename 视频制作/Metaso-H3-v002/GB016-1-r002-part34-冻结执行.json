@@ -1,0 +1,119 @@
+{
+  "batch": {
+    "batch_number": 21,
+    "batch_id": "GB016-1",
+    "attempt_id": "GB016-1-r002-part34",
+    "title": "罩内试镣，见痛收刀、圣骑士鱼贯而入、云宫合扇、合扇就是回答",
+    "shot_ids": [
+      "CY026A",
+      "CY026A1"
+    ],
+    "film_start": 239.062729,
+    "part_offset": 6.0,
+    "used_seconds": 5.3,
+    "duration": 6,
+    "prompt": "优先修正要求：唯一的蓝金折扇从开场到末尾始终由蓝衣千问Qwen右手主握，左手可辅助合扇。白衣白发龙角GPT两手空着，与扇完全无接触。双人镜头看清千问手中的展开扇；随后切同一只蓝袖右手合扇特写，绝不改变持有人。GPT只说邀请，千问画外短答。\nsubject_definitions:\nImage 1=ChatGPT四视图：同一人四角度，身份服饰保持\nImage 2=Qwen四视图：同一人四角度，身份服饰保持\nImage 3=构图状态，非强制首帧\nImage 4=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，6秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–3.3s Image 3；画内:ChatGPT、Qwen。从甲片声切入明确稍早回闪，地点转云宫，教堂战斗声退尽；这是小鱼独自营救期间的邀约。云宫双人中全景以短侧移显出两人面对面及展开折扇，GPT说话时收稳；不先合扇。回到稍早的云宫，GPT站到千问面前问出邀请；千问听完，下一镜才合扇回应。 调度:镜长3.3秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 声音:其余书院环境退低。 GPT在镜内0.1–1.92秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 2] 3.3–5.3s Image 4；画内:Qwen。邀请句结束切同一把展开折扇，先合扇落定再保住短答，Qwen嘴部画外。手与扇骨特写顺扇面合拢轻微横摇，合拢卡定即停住，指尖握持清楚。合扇落定，指尖握住扇骨。 调度:镜长2秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 人物:Qwen仅手与合扇，回答不要求嘴部入画。 声音:声线自然速度，结束接下一邀约场景。 千问在镜内0–1.15秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0.1–1.92s ChatGPT 匹配口型:<d>[Japanese] センモン、人助けに付き合って。</d>；仅一次。\n3.3–4.45s 千问 画外连续，不让在画者代说:<d>[Japanese] 行きましょう。</d>；仅一次。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A\n5.3–6s仅延续最后一个动作的自然余势，无新对白、不重演，后期剪去余量。",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "ChatGPT",
+        "name_en": "ChatGPT",
+        "asset_id": "CHAR-GPT",
+        "status": "候选待作者审阅",
+        "limits": "两侧躯干略带斜角。开衩与腿饰以原图/正面图的角色右腿为准，不按对称读取；尾巴弯曲是姿态参考，侧背含补全。",
+        "purpose": "ChatGPT四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9",
+        "original_slot": 4
+      },
+      {
+        "slot": 2,
+        "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+        "kind": "identity",
+        "person": "Qwen",
+        "name_en": "Qwen",
+        "asset_id": "MULKZI2W5366M",
+        "status": "作者指定复用",
+        "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+        "purpose": "Qwen四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+        "original_slot": 5
+      },
+      {
+        "slot": 3,
+        "path": "镜头设计/图像/独立镜头-v009/CY026A-v009.png",
+        "kind": "composition",
+        "shot_id": "CY026A",
+        "purpose": "构图、空间与代表状态：云宫合扇；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "29a458b3796e581a939537030f3ce8a95161432175951f023b97fbbec867eff1",
+        "original_slot": 8
+      },
+      {
+        "slot": 4,
+        "path": "镜头设计/图像/独立镜头-v009/CY026A1-v009.png",
+        "kind": "composition",
+        "shot_id": "CY026A1",
+        "purpose": "构图、空间与代表状态：合扇就是回答；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "0c51706f021371af875bbc8254743d34d6fcc885f5e4deb1495f5ba4ae7f9cb2",
+        "original_slot": 9
+      }
+    ],
+    "estimated_credits": 61.2,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "只重做云宫两镜，原片前6秒复用；唯一折扇固定千问持有。",
+    "repair_of": {
+      "task_id": "20261028012003652739236",
+      "local_path": "视频制作/LibTV-H3-v001/产物/GB016-1-H3-v001.mp4"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "优先修正要求：唯一的蓝金折扇从开场到末尾始终由蓝衣千问Qwen右手主握，左手可辅助合扇。白衣白发龙角GPT两手空着，与扇完全无接触。双人镜头看清千问手中的展开扇；随后切同一只蓝袖右手合扇特写，绝不改变持有人。GPT只说邀请，千问画外短答。\nsubject_definitions:\nImage 1=ChatGPT四视图：同一人四角度，身份服饰保持\nImage 2=Qwen四视图：同一人四角度，身份服饰保持\nImage 3=构图状态，非强制首帧\nImage 4=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，6秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–3.3s Image 3；画内:ChatGPT、Qwen。从甲片声切入明确稍早回闪，地点转云宫，教堂战斗声退尽；这是小鱼独自营救期间的邀约。云宫双人中全景以短侧移显出两人面对面及展开折扇，GPT说话时收稳；不先合扇。回到稍早的云宫，GPT站到千问面前问出邀请；千问听完，下一镜才合扇回应。 调度:镜长3.3秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 声音:其余书院环境退低。 GPT在镜内0.1–1.92秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 2] 3.3–5.3s Image 4；画内:Qwen。邀请句结束切同一把展开折扇，先合扇落定再保住短答，Qwen嘴部画外。手与扇骨特写顺扇面合拢轻微横摇，合拢卡定即停住，指尖握持清楚。合扇落定，指尖握住扇骨。 调度:镜长2秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 人物:Qwen仅手与合扇，回答不要求嘴部入画。 声音:声线自然速度，结束接下一邀约场景。 千问在镜内0–1.15秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0.1–1.92s ChatGPT 匹配口型:<d>[Japanese] センモン、人助けに付き合って。</d>；仅一次。\n3.3–4.45s 千问 画外连续，不让在画者代说:<d>[Japanese] 行きましょう。</d>；仅一次。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A\n5.3–6s仅延续最后一个动作的自然余势，无新对白、不重演，后期剪去余量。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141276083478528"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115144282224386048"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115146442352156672"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115146453035966464"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 6,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "2026-10-28作者授权：参考图超限想办法砍不重要参考，该返修的都返修；沿用Metaso H3"
+}

@@ -1,0 +1,184 @@
+{
+  "engine": "Local VoxCPM2",
+  "seed": 20261021,
+  "comparison": "A/B文字、种子和全部采样参数一致；B仅增加本轮合成的未采用少女参考。ANCHOR是声线测试文本，不改剧本。",
+  "status": "generated_pending_listen",
+  "listening_review": "未实际听审；不声称B优于A或稳定性已经通过",
+  "results": [
+    {
+      "key": "A",
+      "text": "别碰她！",
+      "voice_design": "十八岁少女声，清柔通透，轻盈自然的中高声区，清晰普通话。为保护朋友，着急而坚定地短促喝止，收住尾音。",
+      "request": "资产/生成记录/VOICE-CLAUDE-v003-A-request.json",
+      "status": "generated_pending_listen",
+      "prompt_id": "214acb6d-3826-4884-bc54-4b33c86fd463",
+      "node_errors": {},
+      "server_status": {
+        "status_str": "success",
+        "completed": true,
+        "messages": [
+          [
+            "execution_start",
+            {
+              "prompt_id": "214acb6d-3826-4884-bc54-4b33c86fd463",
+              "timestamp": 1792556698609
+            }
+          ],
+          [
+            "execution_cached",
+            {
+              "nodes": [],
+              "prompt_id": "214acb6d-3826-4884-bc54-4b33c86fd463",
+              "timestamp": 1792556698610
+            }
+          ],
+          [
+            "execution_success",
+            {
+              "prompt_id": "214acb6d-3826-4884-bc54-4b33c86fd463",
+              "timestamp": 1792556702788
+            }
+          ]
+        ]
+      },
+      "path": "资产/声音/试音/VOICE-CLAUDE-v003-A.flac",
+      "sha256": "160dccddb0621eb371542f75e6d0565293a5a5c3f0e5a349914401ecfaa88b65",
+      "native_output": {
+        "filename": "VOICE-CLAUDE-v003-A_00001.flac",
+        "subfolder": "audio\\chuanyun",
+        "type": "output"
+      },
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "1.760000"
+        }
+      }
+    },
+    {
+      "key": "ANCHOR",
+      "text": "别害怕，我会陪着你。等天亮了，我们一起离开这里。",
+      "voice_design": "十八岁少女声，清柔通透，轻盈自然的中高声区，清晰普通话。安静克制，略带忧伤，自然说话。",
+      "request": "资产/生成记录/VOICE-CLAUDE-v003-ANCHOR-request.json",
+      "status": "generated_pending_listen",
+      "prompt_id": "24488b56-25b2-4148-8c63-6d0db5637e4c",
+      "node_errors": {},
+      "server_status": {
+        "status_str": "success",
+        "completed": true,
+        "messages": [
+          [
+            "execution_start",
+            {
+              "prompt_id": "24488b56-25b2-4148-8c63-6d0db5637e4c",
+              "timestamp": 1792556705171
+            }
+          ],
+          [
+            "execution_cached",
+            {
+              "nodes": [
+                "30"
+              ],
+              "prompt_id": "24488b56-25b2-4148-8c63-6d0db5637e4c",
+              "timestamp": 1792556705171
+            }
+          ],
+          [
+            "execution_success",
+            {
+              "prompt_id": "24488b56-25b2-4148-8c63-6d0db5637e4c",
+              "timestamp": 1792556713943
+            }
+          ]
+        ]
+      },
+      "path": "资产/声音/试音/VOICE-CLAUDE-v003-ANCHOR.flac",
+      "sha256": "68b80eb180203916a9aaa20491f6d48915b4240dce922d99dd426b0c23ebf523",
+      "native_output": {
+        "filename": "VOICE-CLAUDE-v003-ANCHOR_00001.flac",
+        "subfolder": "audio\\chuanyun",
+        "type": "output"
+      },
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "4.640000"
+        }
+      }
+    },
+    {
+      "key": "B",
+      "text": "别碰她！",
+      "voice_design": "十八岁少女声，清柔通透，轻盈自然的中高声区，清晰普通话。为保护朋友，着急而坚定地短促喝止，收住尾音。",
+      "request": "资产/生成记录/VOICE-CLAUDE-v003-B-request.json",
+      "status": "generated_pending_listen",
+      "prompt_id": "26fca4f2-1fbd-4766-b1af-1b8cf8c1807f",
+      "node_errors": {},
+      "server_status": {
+        "status_str": "success",
+        "completed": true,
+        "messages": [
+          [
+            "execution_start",
+            {
+              "prompt_id": "26fca4f2-1fbd-4766-b1af-1b8cf8c1807f",
+              "timestamp": 1792556714471
+            }
+          ],
+          [
+            "execution_cached",
+            {
+              "nodes": [
+                "30"
+              ],
+              "prompt_id": "26fca4f2-1fbd-4766-b1af-1b8cf8c1807f",
+              "timestamp": 1792556714478
+            }
+          ],
+          [
+            "execution_success",
+            {
+              "prompt_id": "26fca4f2-1fbd-4766-b1af-1b8cf8c1807f",
+              "timestamp": 1792556718198
+            }
+          ]
+        ]
+      },
+      "path": "资产/声音/试音/VOICE-CLAUDE-v003-B.flac",
+      "sha256": "83b42c88c35565b9a9a05595958e83384e7f611a94b54bcd2ae2c81480e336b4",
+      "native_output": {
+        "filename": "VOICE-CLAUDE-v003-B_00001.flac",
+        "subfolder": "audio\\chuanyun",
+        "type": "output"
+      },
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "0.640000"
+        }
+      }
+    }
+  ]
+}

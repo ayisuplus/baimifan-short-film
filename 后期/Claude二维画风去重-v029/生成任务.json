@@ -1,0 +1,38 @@
+[
+  {
+    "workflow": "035-r1.api.json",
+    "prompt_id": "f32f6d58-fca7-438b-8a70-025b85e41b43",
+    "host": "127.0.0.1",
+    "port": 8188
+  },
+  {
+    "workflow": "035-r2.api.json",
+    "prompt_id": "8dc894d4-d5c2-43ea-96bf-8a2af99eb5fc",
+    "host": "127.0.0.1",
+    "port": 8188
+  },
+  {
+    "workflow": "035-r3.api.json",
+    "prompt_id": "5fdc3043-0deb-47e4-b033-de3b1e88c550",
+    "host": "127.0.0.1",
+    "port": 8188
+  },
+  {
+    "workflow": "038-r2.api.json",
+    "prompt_id": "447b1ab7-8193-49a3-b382-8bddefd9cead",
+    "host": "127.0.0.1",
+    "port": 8188
+  },
+  {
+    "workflow": "038-r3.api.json",
+    "prompt_id": "1ffdbce8-b6f7-4b66-8ebc-dde48c1f9041",
+    "host": "127.0.0.1",
+    "port": 8188
+  },
+  {
+    "workflow": "Claude-2d-key-r1.api.json",
+    "prompt_id": "f9b5ec7e-7fef-48a1-a795-cc4ddeb0f6aa",
+    "host": "127.0.0.1",
+    "port": 8188
+  }
+]

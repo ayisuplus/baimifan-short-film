@@ -1,0 +1,35 @@
+subject_definitions:
+<Subject 1>: Claude, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: DeepSeek, identity and outfit from four-view sheet <Picture 2>.
+<Picture 3>: [Shot 1] composition and state reference; not its first frame.
+<Picture 4>: [Shot 2] composition and state reference; not its first frame.
+<Picture 5>: [Shot 3] composition and state reference; not its first frame.
+<Picture 6>: [Shot 4] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. A quiet acknowledgement is interrupted by violence. DeepSeek follows to the church, learns of the sacrifice, and leaves her empty bowl to seek help.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Cut from the suspended bowl to the eye watching it; the same market ambience becomes muffled. Use <Picture 3> for composition. Claude remains in the procession's shadow, looking down toward DeepSeek. Only one eye fills the frame; the child's whale hat and offered bowl are tiny reflections, not separate physical figures. Her gratitude is heard while her mouth stays outside the frame. She does not smile or reach for the bowl. Hold a deliberate extreme close-up of one eye; the downward gaze and tiny reflection carry the action, without zooming into the pupil. Muffled market ambience; robe rustle approaches at the end. The bowl strike occurs only after the following cut. From 1.5 to 3 seconds, Claude (S1) speaks outside the frame: <d>[Japanese] ありがとう。</d>.
+[Shot 2] At 00:04.000, Carry in the robe rustle, then sound the metal strike on contact; the reflected bowl becomes the same physical bowl. Use <Picture 4> for composition. A cultist steps between the child and Claude and strikes the bowl rim once. Rice scatters, but DeepSeek retains the opposite side of the bowl, recoiling with raised shoulders. Claude looks back anxiously behind the cultist. The child is forced toward the roadside with the emptied bowl still in her hands. At bowl height, make a short lateral follow of the striking hand, keeping the child and Claude behind her legible; settle on the retained bowl. One palm strike on metal, scattered rice and a short startled intake of breath.
+[Shot 3] At 00:06.000, Elliptically cut past the journey following the procession to the child already at the church entrance; the announcement comes from inside, offscreen. Use <Picture 5> for composition. Seen from behind, DeepSeek holds the emptied bowl low at the church entrance. She listens to the offscreen cultist announcing Claude's sacrifice that night. After understanding the threat, she turns away, retaining the bowl. Claude remains inside and out of sight. Follow a short distance behind DeepSeek in a wide shot, then stop before the church door, preserving its depth. The announcement carries from inside across the steps. After its final words, the closing door suppresses the market sound; hurried steps lead onward. From 6.4 to 9.0722 seconds, the cultists (S2) speaks outside the frame: <d>[Japanese] 今宵、クロードを火の供物に。</d>.
+[Shot 4] At 00:12.000, Cut forward a short distance to the roadside, matching the empty bowl and grip; she releases it only after it rests on the table. Use <Picture 6> for composition. DeepSeek sets the nearly empty bowl, with a few grains remaining, on a low roadside table. She looks anxiously toward the palace and runs to seek help with both hands empty. The bowl remains on the table. In a side medium shot, briefly pan with the bowl onto the low table, then tilt with the child's gaze toward the palace and let her run out of frame. A light bowl contact on the table, followed by departing running footsteps.
+From 14 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 4s: Cut to the bowl being knocked away.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

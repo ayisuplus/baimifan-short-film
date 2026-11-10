@@ -1,0 +1,110 @@
+{
+  "batch": {
+    "batch_number": 41,
+    "batch_id": "GB030-2",
+    "title": "稳稳抱起",
+    "shot_ids": [
+      "CY028"
+    ],
+    "film_start": 454.022729,
+    "duration": 5,
+    "prompt": "subject_definitions:\nImage 1=Claude四视图：同一人四角度，身份服饰保持\nImage 2=ChatGPT四视图：同一人四角度，身份服饰保持\nImage 3=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，5秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–3s Image 3；画内:Claude、ChatGPT。按同一次托起动作匹配切近，重量落稳后才短句；不重新从地上抱起。保持Claude左、GPT右的近景轻随抱起上移后停住，双臂承托与赤足离地能被读懂。Claude 的重量落进 ChatGPT 怀里，被稳稳接住。她赤足悬空，疲倦地靠着 ChatGPT，仍能抬眼看她。 Claude衣边焦损持续，脸出镜时苍白无羞红。 声音:抱稳后GPT轻声说“我们走”；Claude抬眼，下一镜主动搭肩，保留衣料与呼吸声。 GPT在镜内0.8–1.68秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0.8–1.68s ChatGPT 匹配口型:<d>[Japanese] 行こう。</d>；仅一次。\n3–5s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "Claude",
+        "name_en": "Claude",
+        "asset_id": "CHAR-CLAUDE",
+        "status": "候选待作者审阅",
+        "limits": "侧背与下裙含补全，不作为精确工程正交图。受缚至离殿采用赤足，四视图鞋仅为日常服装参考。近景不为展示花饰而换侧；不新增另一朵花。",
+        "purpose": "Claude四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a",
+        "source_path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+        "source_sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+        "sha1": "ecd80984142fead85bfab07ed28c0e7b9c8c05b2",
+        "file_size": 2016603,
+        "width": 2200,
+        "height": 880,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-CLAUDE-TURN-v001-h3-pad.png"
+      },
+      {
+        "slot": 2,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "ChatGPT",
+        "name_en": "ChatGPT",
+        "asset_id": "CHAR-GPT",
+        "status": "候选待作者审阅",
+        "limits": "两侧躯干略带斜角。开衩与腿饰以原图/正面图的角色右腿为准，不按对称读取；尾巴弯曲是姿态参考，侧背含补全。",
+        "purpose": "ChatGPT四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9",
+        "source_path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+        "source_sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+        "sha1": "ff68ef289edac6743d7e87bdfe142f00332d50ce",
+        "file_size": 2143481,
+        "width": 2172,
+        "height": 869,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-GPT-TURN-v001-h3-pad.png"
+      },
+      {
+        "slot": 3,
+        "path": "镜头设计/图像/火焰伤后与星火-v036/CY028-v036-r1.png",
+        "kind": "composition",
+        "shot_id": "CY028",
+        "purpose": "构图、空间与代表状态：稳稳抱起；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "518dd09f75b2f8910e30f8742c7cc1a61d21dbc502e26dd86c8c1b57e8b8be7b",
+        "source_path": "镜头设计/图像/火焰伤后与星火-v036/CY028-v036-r1.png",
+        "source_sha256": "518dd09f75b2f8910e30f8742c7cc1a61d21dbc502e26dd86c8c1b57e8b8be7b",
+        "sha1": "c1e8f586b314a70c30343922367047e14c061028",
+        "file_size": 2826124,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\火焰伤后与星火-v036\\CY028-v036-r1.png"
+      }
+    ],
+    "estimated_credits": 51.0,
+    "status": "prepared",
+    "accepted": false
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "subject_definitions:\nImage 1=Claude四视图：同一人四角度，身份服饰保持\nImage 2=ChatGPT四视图：同一人四角度，身份服饰保持\nImage 3=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，5秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–3s Image 3；画内:Claude、ChatGPT。按同一次托起动作匹配切近，重量落稳后才短句；不重新从地上抱起。保持Claude左、GPT右的近景轻随抱起上移后停住，双臂承托与赤足离地能被读懂。Claude 的重量落进 ChatGPT 怀里，被稳稳接住。她赤足悬空，疲倦地靠着 ChatGPT，仍能抬眼看她。 Claude衣边焦损持续，脸出镜时苍白无羞红。 声音:抱稳后GPT轻声说“我们走”；Claude抬眼，下一镜主动搭肩，保留衣料与呼吸声。 GPT在镜内0.8–1.68秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0.8–1.68s ChatGPT 匹配口型:<d>[Japanese] 行こう。</d>；仅一次。\n3–5s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141454194728960"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141276083478528"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141610595868672"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 5,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "source_sha256": "e31c8f0667be1092066e4307a8784ba2d54ac12d7039479b4edca5704c88c2a7",
+  "approved_scope": "2026-10-28 user requested switching remaining generation to https://metaso.cn/minimax-h3"
+}

@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115303785296236544",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "锁链检查",
+    "status": "succeeded",
+    "created_at": 1793162698,
+    "updated_at": 1793162729,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115303785296236544/content?expires=1793767707&signature=afa63079d4cdef1ec17205b69a7886d15c0795db1420f43992aa8be3a7d4b463"
+    },
+    "resolution": "768P",
+    "duration": 6,
+    "usage": {
+      "total_seconds": 6,
+      "input_seconds": 0,
+      "output_seconds": 6,
+      "input_image_count": 1
+    },
+    "ratio": "adaptive",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

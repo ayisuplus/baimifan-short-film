@@ -1,0 +1,1506 @@
+{
+  "version": "v003-independent-audio-coverage-1",
+  "scope": "只读快照、施工记录、脚本与PCM内存测量；不调用达芬奇、不导出音视频、不联网、不改旧文件。",
+  "audition": "未实际连续听审。电平是12kHz单声道PCM抽样/RMS和成品峰值，不能等同LUFS、听感、对白可懂度或最终验收。",
+  "current_timeline": {
+    "name": "v002_Church_Sound_Reconstruction",
+    "frames": 11203,
+    "seconds": 466.7916666666667,
+    "all_6_tracks_enabled": true,
+    "edit_delta": "B12少20帧；145.583333秒处跨越0.833333秒源；后续画面、对白、音乐、SFX整体前移0.833333秒。"
+  },
+  "main_conclusion": "多处长空白来自原声音设计而非用户删帧；近景拟音电平偏低、身体受力/束链/护罩持续层与祈愿停乐期间的水声存在缺项。186事件计数和PCM不削波都不证明听感完整。",
+  "protected_silences": [
+    {
+      "start": 0,
+      "end": 5,
+      "reason": "开场环境建立，可保留"
+    },
+    {
+      "start": 184.833334,
+      "end": 187.291667,
+      "reason": "破门前预停；原计划2秒，实际至动作音乐进入为2.458333秒；保火/脚步/空间而非数字全静"
+    },
+    {
+      "start": 323.483354,
+      "end": 324.283354,
+      "reason": "固定0.8秒祈愿停顿，必须留水层"
+    },
+    {
+      "start": 462.791667,
+      "end": 466.791667,
+      "reason": "固定结尾4秒无BGM，保自然环境"
+    }
+  ],
+  "existing_design_silences": [
+    {
+      "id": "S01",
+      "current_start": 0.0,
+      "current_end": 5.0,
+      "duration": 5.0,
+      "old_reason": "街市环境声，暂不进音乐",
+      "classification": "既有设计留白，非近期删20帧造成",
+      "recommendation": "保留"
+    },
+    {
+      "id": "S02",
+      "current_start": 184.833334,
+      "current_end": 186.833333,
+      "duration": 1.999999,
+      "old_reason": "保留无词吟唱、环境声，破门前停乐",
+      "classification": "既有设计留白，非近期删20帧造成",
+      "recommendation": "保留"
+    },
+    {
+      "id": "S03",
+      "current_start": 228.500001,
+      "current_end": 257.000001,
+      "duration": 28.5,
+      "old_reason": "召集回闪以对白、角色标志拟音与转场气口连接，避免长曲拖满",
+      "classification": "既有设计留白，非近期删20帧造成",
+      "recommendation": "用户已要求更多覆盖，建议重新打开此长留白：低层音乐连续，句尾局部退让，不整段干掉"
+    },
+    {
+      "id": "S04",
+      "current_start": 323.483354,
+      "current_end": 324.283354,
+      "duration": 0.8,
+      "old_reason": "祈祷到术名的停顿；保留水声",
+      "classification": "既有设计留白，非近期删20帧造成",
+      "recommendation": "保留"
+    },
+    {
+      "id": "S05",
+      "current_start": 337.166668,
+      "current_end": 350.066668,
+      "duration": 12.9,
+      "old_reason": "安慰、落下、条约问答，给角色声音空间",
+      "classification": "既有设计留白，非近期删20帧造成",
+      "recommendation": "用户已要求更多覆盖，建议重新打开此长留白：低层音乐连续，句尾局部退让，不整段干掉"
+    },
+    {
+      "id": "S06",
+      "current_start": 379.083334,
+      "current_end": 408.166668,
+      "duration": 29.083333,
+      "old_reason": "钥匙、撤罩、解链、安抚及父亲停顿以对白与环境声承担",
+      "classification": "既有设计留白，非近期删20帧造成",
+      "recommendation": "用户已要求更多覆盖，建议重新打开此长留白：低层音乐连续，句尾局部退让，不整段干掉"
+    },
+    {
+      "id": "S07",
+      "current_start": 431.110001,
+      "current_end": 442.125001,
+      "duration": 11.015,
+      "old_reason": "接住、抱稳、依靠及离殿保留呼吸脚步",
+      "classification": "既有设计留白，非近期删20帧造成",
+      "recommendation": "用户已要求更多覆盖，建议重新打开此长留白：低层音乐连续，句尾局部退让，不整段干掉"
+    },
+    {
+      "id": "S08",
+      "current_start": 462.791667,
+      "current_end": 466.791667,
+      "duration": 4.0,
+      "old_reason": "末镜无BGM四秒",
+      "classification": "既有设计留白，非近期删20帧造成",
+      "recommendation": "保留"
+    }
+  ],
+  "current_music_cues": [
+    {
+      "id": "M01",
+      "record": 120,
+      "start": 5.0,
+      "end": 28.416666666666668,
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\声音\\BGM\\重选-v002\\BGM-CY-MT-03.m4a",
+      "source_in": 14.549482878787877,
+      "source_out": 37.96614954545454,
+      "action": 19.684437121212124,
+      "transient": 29.23392,
+      "rate": 1,
+      "nominal_gain_db": -17,
+      "duck_db": -7,
+      "actual_start": 5.0,
+      "actual_end": 28.416667
+    },
+    {
+      "id": "M02",
+      "record": 682,
+      "start": 28.416666666666668,
+      "end": 79.58333333333333,
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\声音\\BGM\\重选-v004\\BGM-CY-KH-05.m4a",
+      "source_in": 11.852722333333325,
+      "source_out": 63.01938899999998,
+      "action": 74.03333433333334,
+      "transient": 57.46939,
+      "rate": 1,
+      "nominal_gain_db": -17,
+      "duck_db": -7,
+      "actual_start": 28.416667,
+      "actual_end": 79.583333
+    },
+    {
+      "id": "M03",
+      "record": 1910,
+      "start": 79.58333333333333,
+      "end": 128.29166666666666,
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\声音\\BGM\\重选-v006\\BGM-CY-HP7-02.m4a",
+      "source_in": 29.375016182608697,
+      "source_out": 78.08334951594202,
+      "action": 104.35724715072463,
+      "transient": 54.14893,
+      "rate": 1,
+      "nominal_gain_db": -17,
+      "duck_db": -7,
+      "actual_start": 79.583333,
+      "actual_end": 128.291667
+    },
+    {
+      "id": "M04",
+      "record": 3079,
+      "start": 128.29166666666666,
+      "end": 179.66666666666666,
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\声音\\BGM\\重选-v003\\BGM-CY-RZ-01.m4a",
+      "source_in": 164.912619,
+      "source_out": 216.287619,
+      "action": 168.66666766666665,
+      "transient": 205.28762,
+      "rate": 1,
+      "nominal_gain_db": -17,
+      "duck_db": -7,
+      "actual_start": 128.291667,
+      "actual_end": 178.833333
+    },
+    {
+      "id": "M05",
+      "record": 4312,
+      "start": 179.66666666666666,
+      "end": 185.66666666666666,
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\声音\\BGM\\重选-v001\\BGM-CY-FEAR-001.m4a",
+      "source_in": 14.489249000000003,
+      "source_out": 20.489249,
+      "action": 179.66666766666665,
+      "transient": 14.48925,
+      "rate": 1,
+      "nominal_gain_db": -17,
+      "duck_db": -7,
+      "actual_start": 178.833333,
+      "actual_end": 184.833333
+    },
+    {
+      "id": "M06",
+      "record": 4515,
+      "start": 188.125,
+      "end": 193.16666666666666,
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\声音\\BGM\\重选-v001\\BGM-CY-FEAR-001.m4a",
+      "source_in": 38.38259,
+      "source_out": 43.42425666666666,
+      "action": 188.125,
+      "transient": 38.38259,
+      "rate": 1,
+      "nominal_gain_db": -17,
+      "duck_db": -7,
+      "actual_start": 187.291667,
+      "actual_end": 192.333333
+    },
+    {
+      "id": "M07",
+      "record": 4636,
+      "start": 193.16666666666666,
+      "end": 226.33333333333334,
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\声音\\BGM\\重选-v006\\BGM-CY-FZ-02.m4a",
+      "source_in": 4.659743333333314,
+      "source_out": 37.826409999999996,
+      "action": 216.20833333333334,
+      "transient": 27.70141,
+      "rate": 1,
+      "nominal_gain_db": -17,
+      "duck_db": -7,
+      "actual_start": 192.333333,
+      "actual_end": 225.5
+    },
+    {
+      "id": "M08",
+      "record": 5432,
+      "start": 226.33333333333334,
+      "end": 229.33333333333334,
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\声音\\BGM\\重选-v001\\BGM-CY-FEAR-001.m4a",
+      "source_in": 45.998729000000004,
+      "source_out": 48.998729000000004,
+      "action": 226.33333433333334,
+      "transient": 45.99873,
+      "rate": 1,
+      "nominal_gain_db": -17,
+      "duck_db": -7,
+      "actual_start": 225.5,
+      "actual_end": 228.5
+    },
+    {
+      "id": "M09",
+      "record": 6188,
+      "start": 257.8333333333333,
+      "end": 324.3333333333333,
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\声音\\BGM\\重选-v001\\BGM-CY-FEAR-001.m4a",
+      "source_in": 25.43354566666663,
+      "source_out": 91.93354566666663,
+      "action": 272.2916676666667,
+      "transient": 39.89188,
+      "rate": 1,
+      "nominal_gain_db": -17,
+      "duck_db": -7,
+      "actual_start": 257.0,
+      "actual_end": 323.5
+    },
+    {
+      "id": "M10",
+      "record": 7803,
+      "start": 325.125,
+      "end": 338.0,
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\声音\\BGM\\重选-v001\\BGM-CY-FEAR-001.m4a",
+      "source_in": 97.459969,
+      "source_out": 110.334969,
+      "action": 327.000001,
+      "transient": 99.33497,
+      "rate": 1,
+      "nominal_gain_db": -17,
+      "duck_db": -7,
+      "actual_start": 324.291667,
+      "actual_end": 337.166667
+    },
+    {
+      "id": "M11",
+      "record": 8422,
+      "start": 350.9166666666667,
+      "end": 379.9166666666667,
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\声音\\BGM\\重选-v001\\BGM-CY-FEAR-001.m4a",
+      "source_in": 38.38259,
+      "source_out": 67.38259,
+      "action": 350.9166666666667,
+      "transient": 38.38259,
+      "rate": 1,
+      "nominal_gain_db": -17,
+      "duck_db": -7,
+      "actual_start": 350.083333,
+      "actual_end": 379.083333
+    },
+    {
+      "id": "M12",
+      "record": 9816,
+      "start": 409.0,
+      "end": 431.9583333333333,
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\声音\\BGM\\重选-v001\\BGM-CY-FEAR-001.m4a",
+      "source_in": 81.39163566666667,
+      "source_out": 104.34996899999999,
+      "action": 426.9433343333333,
+      "transient": 99.33497,
+      "rate": 1,
+      "nominal_gain_db": -17,
+      "duck_db": -7,
+      "actual_start": 408.166667,
+      "actual_end": 431.125
+    },
+    {
+      "id": "M13",
+      "record": 10631,
+      "start": 442.9583333333333,
+      "end": 463.625,
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\声音\\BGM\\重选-v001\\BGM-CY-TIME-001.m4a",
+      "source_in": 68.07329,
+      "source_out": 88.73995666666669,
+      "action": null,
+      "transient": null,
+      "rate": 1,
+      "nominal_gain_db": -17,
+      "duck_db": -7,
+      "actual_start": 442.125,
+      "actual_end": 462.791667
+    }
+  ],
+  "music_pcm_silence": [
+    {
+      "start": 0.0,
+      "end": 5.05,
+      "duration": 5.05
+    },
+    {
+      "start": 184.8,
+      "end": 187.25,
+      "duration": 2.45
+    },
+    {
+      "start": 228.5,
+      "end": 257.05,
+      "duration": 28.55
+    },
+    {
+      "start": 323.5,
+      "end": 324.3,
+      "duration": 0.8
+    },
+    {
+      "start": 337.15,
+      "end": 350.05,
+      "duration": 12.9
+    },
+    {
+      "start": 379.05,
+      "end": 408.2,
+      "duration": 29.15
+    },
+    {
+      "start": 431.1,
+      "end": 442.15,
+      "duration": 11.05
+    },
+    {
+      "start": 461.35,
+      "end": 462.4,
+      "duration": 1.05
+    },
+    {
+      "start": 462.7,
+      "end": 466.75,
+      "duration": 4.05
+    }
+  ],
+  "transition_policy": [
+    "现有曲接曲有0.5–0.8秒各自淡到零，无时间重叠；下一轮同情绪跨1–1.5秒等功率，强动作保单次重拍，不能一律crossfade。",
+    "换人物用同一声场/音乐动机，只有叙事视点显著变化才换配器；镜头切换无需每刀whoosh。",
+    "室外→殿内先让殿内混响提前0.5秒，保最后一个脚步尾声；正门/后窗对攻用方向化独立瞬态。",
+    "M04 145.583333处是本次删帧新增的唯一已知音乐源跳接；四段长无音乐都是旧设计。",
+    "所有新入点仅作可执行试听，曲内乐句、重拍、合唱干扰必须实听再采用；不要以曲名决定适配。"
+  ],
+  "proposed_music_segments": [
+    {
+      "id": "N01_flashback",
+      "current_start": 227.7,
+      "current_end": 257.8,
+      "duration": 30.1,
+      "source_id": "BGM-CY-FZ-16",
+      "source_path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-16.m4a",
+      "source_in": 20,
+      "source_out": 50.1,
+      "playback_rate": 1,
+      "fade_in_seconds": 0.8,
+      "fade_out_seconds": 0.8,
+      "role": "召集回闪统一秘密行动气质，接四个场景而非每个人换一曲",
+      "alternative_ids": [
+        "BGM-CY-AC2-19",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "与M08尾和M09头各约0.8秒交叉，月面不加真实风声。若曲内鼓/人声抢对话，改无鼓织体或另找。",
+      "adoption": "待试听候选段，非已认可音乐句法；源范围有效且可直接试排，不宣称听过",
+      "level_method": "先测候选源有效响度再定clip gain；不得继续所有源固定-17dB。音乐相对白普通段低12–18dB为试听起点，动作峰可短抬，按实际遮蔽调整。"
+    },
+    {
+      "id": "N02_aftermath",
+      "current_start": 336.8,
+      "current_end": 350.9,
+      "duration": 14.1,
+      "source_id": "BGM-CY-LIFT-001",
+      "source_path": "资产/声音/BGM/重选-v001/BGM-CY-LIFT-001.m4a",
+      "source_in": 18,
+      "source_out": 32.1,
+      "playback_rate": 1,
+      "fade_in_seconds": 1.0,
+      "fade_out_seconds": 0.8,
+      "role": "水击余波到安慰/问答，留低层余韵而非12.9秒音乐归零",
+      "alternative_ids": [
+        "BGM-CY-FR-13",
+        "BGM-CY-MT-39"
+      ],
+      "note": "优先与M10末尾水击尾韵融接，角色回答只duck；不要把情绪预先写成获胜庆典。",
+      "adoption": "待试听候选段，非已认可音乐句法；源范围有效且可直接试排，不宣称听过",
+      "level_method": "先测候选源有效响度再定clip gain；不得继续所有源固定-17dB。音乐相对白普通段低12–18dB为试听起点，动作峰可短抬，按实际遮蔽调整。"
+    },
+    {
+      "id": "N03_rescue",
+      "current_start": 378.3,
+      "current_end": 408.9,
+      "duration": 30.6,
+      "source_id": "BGM-CY-AC2-19",
+      "source_path": "资产/声音/BGM/重选-v005/BGM-CY-AC2-19.m4a",
+      "source_in": 32,
+      "source_out": 62.6,
+      "playback_rate": 1,
+      "fade_in_seconds": 1.2,
+      "fade_out_seconds": 0.8,
+      "role": "救援、扶下、父亲插话的克制持续底",
+      "alternative_ids": [
+        "BGM-CY-AC2-13",
+        "BGM-CY-HP7-01"
+      ],
+      "note": "连续覆盖原29.083秒大空白；父亲发问前可局部下降4–6dB/0.5秒，不能再清空整个解救段。",
+      "adoption": "待试听候选段，非已认可音乐句法；源范围有效且可直接试排，不宣称听过",
+      "level_method": "先测候选源有效响度再定clip gain；不得继续所有源固定-17dB。音乐相对白普通段低12–18dB为试听起点，动作峰可短抬，按实际遮蔽调整。"
+    },
+    {
+      "id": "N04_carry_exit",
+      "current_start": 430.3,
+      "current_end": 443.0,
+      "duration": 12.7,
+      "source_id": "BGM-CY-LIFT-001",
+      "source_path": "资产/声音/BGM/重选-v001/BGM-CY-LIFT-001.m4a",
+      "source_in": 50,
+      "source_out": 62.7,
+      "playback_rate": 1,
+      "fade_in_seconds": 1.2,
+      "fade_out_seconds": 1.0,
+      "role": "接住—抱稳—离殿的情绪回收，跨空间出门",
+      "alternative_ids": [
+        "BGM-CY-AC2-19",
+        "BGM-CY-MT-20"
+      ],
+      "note": "与M12末尾及M13开头重叠；当前442.125秒进入数日后，音乐可提前0.8秒引出，环境在门外到街市变换。",
+      "adoption": "待试听候选段，非已认可音乐句法；源范围有效且可直接试排，不宣称听过",
+      "level_method": "先测候选源有效响度再定clip gain；不得继续所有源固定-17dB。音乐相对白普通段低12–18dB为试听起点，动作峰可短抬，按实际遮蔽调整。"
+    },
+    {
+      "id": "N05_prayer_palette_trial",
+      "current_start": 316.0,
+      "current_end": 323.483354,
+      "duration": 7.483354,
+      "source_id": "BGM-CY-MAGIC-001",
+      "source_path": "资产/声音/BGM/重选-v001/BGM-CY-MAGIC-001.m4a",
+      "source_in": 35,
+      "source_out": 42.483354,
+      "playback_rate": 1,
+      "fade_in_seconds": 0.8,
+      "fade_out_seconds": 0.7,
+      "role": "可选替换M09末段：GPT祈愿专属低层仪式织体",
+      "alternative_ids": [
+        "BGM-CY-MT-04",
+        "BGM-CY-FZ-01"
+      ],
+      "note": "这是对Fear连续复用的替代试听，不与M09叠满。止于祈愿停顿；323.483354–324.283354仍保0.8秒无音乐。若现有候选人声过密，需另找无唱词仪式底。",
+      "adoption": "待试听候选段，非已认可音乐句法；源范围有效且可直接试排，不宣称听过",
+      "level_method": "先测候选源有效响度再定clip gain；不得继续所有源固定-17dB。音乐相对白普通段低12–18dB为试听起点，动作峰可短抬，按实际遮蔽调整。"
+    }
+  ],
+  "sfx_priority_items": [
+    {
+      "priority": "P0",
+      "id": "chant_water_gap",
+      "batches": [
+        31
+      ],
+      "current_start": 323.066667,
+      "current_end": 324.266667,
+      "problem": "SFX-123盘龙水声只6.4秒，SFX-124在批内7.6秒才开始；中间1.2秒恰覆盖大部分0.8秒停乐。规定保留水声的停顿实际上缺水体层。",
+      "repair": "将盘龙水底连续到术名开始前后，静默段只停BGM；水底用同源连续或0.3秒交叉，不提升成瀑布轰鸣；术名词尾后再抬动作水声。",
+      "category": "明确覆盖缺口",
+      "evidence": [
+        "音效施工记录 SFX-123/SFX-124",
+        "声音施工记录 S04"
+      ]
+    },
+    {
+      "priority": "P1",
+      "id": "quiet_foley",
+      "batches": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "problem": "推搡/撑地成品峰约-42至-46dBFS再统一-3dB，争执段Foley整轨峰-44.83dBFS；动作存在但低到可能被对白/BGM盖住。",
+      "repair": "逐源用有效音段短时RMS/峰值匹配，先把推肩/落地接触提高6–12dB试听；分开衣擦与短低频身体接触，保轻痛感而非爆炸；单个近动作峰试-24至-18dBFS，避免全局一键加大。",
+      "category": "数值可闻性风险，非听审结论"
+    },
+    {
+      "priority": "P1",
+      "id": "body_chain_missing",
+      "batches": [
+        8,
+        9,
+        11,
+        13,
+        14,
+        37
+      ],
+      "problem": "真实束链/锁舌受力、手掌撑石、身体跌坐没有独立匹配源；key1是钥匙质感代用，衣料不能承担落地重量。",
+      "repair": "补真实短链摩擦/金属锁扣张力、掌撑石与衣着身体轻跌；按推肩、撑地、落地分三次，不复制同一击打。先找新源或录制；库内key1保细响但不能替完链条。",
+      "category": "素材种类缺项"
+    },
+    {
+      "priority": "P1",
+      "id": "shield",
+      "batches": [
+        20,
+        26
+      ],
+      "current_start": 218.5,
+      "current_end": 222.5,
+      "problem": "闭罩与3次命中均复用magic-reflection1，没有罩体持续低层与不同命中材质；四秒段Magic峰-32.75/RMS-51.84dBFS，BGM峰-18.79/RMS-31.53dBFS，存在被掩蔽及同样提示音重复风险。",
+      "repair": "罩闭合用低频收拢+短玻璃/空气边缘；薄持续罩体低鸣贯穿4秒。3次命中分别改变短尾和力度，击中时音乐局部duck2–4dB约150–300ms；先提高命中源6–9dB试听。不能据平均RMS声称已听不见。",
+      "category": "层次缺项+电平风险"
+    },
+    {
+      "priority": "P1",
+      "id": "kimi_form",
+      "batches": [
+        18,
+        19
+      ],
+      "problem": "4秒显形只用约1秒magic-wind起音，咏唱与实体凝成之间缺连续声态；投刃/碎玻璃/钉木虽已装配，不能以计数判完整。",
+      "repair": "显形加4秒很薄的连贯月光织体、定形短收束；投刃短whoosh→窗碎尾→木钉接触→瞬移低冲击分层，按现源动作复核。保Kimi咒语清楚，不用配乐合唱代替咒语。",
+      "category": "设计覆盖不足"
+    },
+    {
+      "priority": "P1",
+      "id": "water_state",
+      "batches": [
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "problem": "倒悬海面事件仅覆盖5/10秒，水龙/盘龙各段有量感断层；第30批穿顶水仅2.2秒，后续巨大水体缺连贯基础。",
+      "repair": "从水珠到海面到水龙建立连续可调水底：27轻细滴，28低频渐起贯满可见海面，29–30按距离压缩/放大，31祈愿下降但不断。只在可见状态消失时撤层，不按批号重启同一原声。",
+      "category": "状态连续性缺项"
+    },
+    {
+      "priority": "P1",
+      "id": "ambience_reset",
+      "batches": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        37,
+        38,
+        39,
+        42
+      ],
+      "problem": "每批重启同一低风/火源且独立淡到零；回闪空气RMS-60.5，救援空气RMS-71.15dBFS，静音乐段容易像声轨空掉。",
+      "repair": "同一殿内环境连续铺，近/远用EQ和音量渐变；换场景用0.5–1.5秒L/J-cut而不是每批归零。救援低滴水可提到能感知空间但不抢对白，月面继续不用地面风。",
+      "category": "声音空间组织+电平风险"
+    },
+    {
+      "priority": "P1",
+      "id": "music_edit_join",
+      "current_start": 145.583333,
+      "current_end": 145.583333,
+      "problem": "B12用户删20帧后M04从源17.291667直接跳18.125，约0.833秒原音乐被移除；所有后续声画一起移动，无新长时间空白，但此处音乐节拍/尾音可能突断。",
+      "repair": "画面时长不改，单独重新铺M04完整原速片段跨145.583333；优先保原重拍点，再用1–2秒自然乐句/等功率交叉在安全非重拍处收口，避免从混音整轨直接硬删音乐。",
+      "category": "近期剪接新增风险，未听审"
+    },
+    {
+      "priority": "P2",
+      "id": "source_palette",
+      "problem": "13段中7段来自Fear Brought Me This Far，且M06/M11复用同一38.383秒附近；M05/06/08有6/5.04/3秒碎片。不是13首独立音乐，也不是整体情绪变化已完成。",
+      "repair": "保既有主要主题，额外引入秘密回闪、安慰救援、仪式祈愿三个功能织体；先本地候选对比，不每个人物换一首。",
+      "category": "配器/结构待试听"
+    }
+  ],
+  "local_candidates": [
+    {
+      "id": "BGM-CY-TIME-001",
+      "title": "Time Flows Ever Onward",
+      "display_title": null,
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-TIME-001.m4a",
+      "duration": 138.088844,
+      "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=9",
+      "heard": false,
+      "status": "候选 · 待听审",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-FEAR-001",
+      "title": "Fear Brought Me This Far",
+      "display_title": null,
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-FEAR-001.m4a",
+      "duration": 139.551701,
+      "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=28",
+      "heard": false,
+      "status": "候选 · 待听审",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-LIFT-001",
+      "title": "Lift My Head From Shadow",
+      "display_title": null,
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-LIFT-001.m4a",
+      "duration": 155.08585,
+      "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=30",
+      "heard": false,
+      "status": "候选 · 待听审",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-ZOLTRAAK-001",
+      "title": "Zoltraak",
+      "display_title": null,
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-ZOLTRAAK-001.m4a",
+      "duration": 141.455737,
+      "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=35",
+      "heard": false,
+      "status": "候选 · 待听审",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-SCHEME-001",
+      "title": "Things That Scheme in the Dark",
+      "display_title": null,
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-SCHEME-001.m4a",
+      "duration": 118.050023,
+      "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=39",
+      "heard": false,
+      "status": "候选 · 待听审",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-MAGIC-001",
+      "title": "Ancient Magic",
+      "display_title": null,
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-MAGIC-001.m4a",
+      "duration": 138.947982,
+      "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=52",
+      "heard": false,
+      "status": "候选 · 待听审",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-MT-03",
+      "title": "魔法が存在する世界で",
+      "display_title": "存在魔法的世界",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-03.m4a",
+      "duration": 131.016871,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=3",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-MT-04",
+      "title": "詠唱",
+      "display_title": "咏唱",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-04.m4a",
+      "duration": 104.041882,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=4",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-MT-13",
+      "title": "外には絶望",
+      "display_title": "外面是绝望",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-13.m4a",
+      "duration": 134.013878,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=13",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-MT-15",
+      "title": "師匠のお守り",
+      "display_title": "师父的护身符",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-15.m4a",
+      "duration": 135.014875,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=15",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-MT-18",
+      "title": "思わぬ現実",
+      "display_title": "意料之外的现实",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-18.m4a",
+      "duration": 139.088889,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=18",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-MT-20",
+      "title": "シルフィの涙",
+      "display_title": "希露菲的眼泪",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-20.m4a",
+      "duration": 133.015873,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=20",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-MT-39",
+      "title": "心の奥底",
+      "display_title": "心底",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-39.m4a",
+      "duration": 130.051746,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=39",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-MT-41",
+      "title": "格式ある家系",
+      "display_title": "有威望的家族",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-41.m4a",
+      "duration": 122.02288,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=41",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-MT-42",
+      "title": "計略",
+      "display_title": "计谋",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-42.m4a",
+      "duration": 113.057891,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=42",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-MT-63",
+      "title": "共闘",
+      "display_title": "并肩作战",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-63.m4a",
+      "duration": 138.063878,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=63",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-MT-69",
+      "title": "シーローン王宮",
+      "display_title": "西隆王宫",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-69.m4a",
+      "duration": 111.025873,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=69",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-MT-70",
+      "title": "秘密の作戦",
+      "display_title": "秘密行动",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-70.m4a",
+      "duration": 107.023878,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=70",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-MT-75",
+      "title": "圧倒的力との遭遇",
+      "display_title": "遭遇压倒性的力量",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-75.m4a",
+      "duration": 196.017891,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=75",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-MT-84",
+      "title": "まずい状況",
+      "display_title": "不妙的状况",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-84.m4a",
+      "duration": 120.012018,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=84",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-MT-89",
+      "title": "ミリス神聖国",
+      "display_title": "米里斯神圣国",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-89.m4a",
+      "duration": 120.727007,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=89",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-NA-02",
+      "title": "Evacuating London",
+      "display_title": "离开伦敦",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-NA-02.m4a",
+      "duration": 218.894286,
+      "source": "https://www.bilibili.com/video/BV1QT4y1M79V/?p=2",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-NA-03",
+      "title": "A Narnia Lullaby",
+      "display_title": "纳尼亚摇篮曲",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-NA-03.m4a",
+      "duration": 73.21229,
+      "source": "https://www.bilibili.com/video/BV1QT4y1M79V/?p=3",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-NA-05",
+      "title": "The Wardrobe",
+      "display_title": "魔衣橱",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-NA-05.m4a",
+      "duration": 175.217551,
+      "source": "https://www.bilibili.com/video/BV1QT4y1M79V/?p=5",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-NA-06",
+      "title": "The White Witch",
+      "display_title": "白女巫",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-NA-06.m4a",
+      "duration": 331.185986,
+      "source": "https://www.bilibili.com/video/BV1QT4y1M79V/?p=6",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-NA-11",
+      "title": "The Stone Table",
+      "display_title": "石桌",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-NA-11.m4a",
+      "duration": 487.061542,
+      "source": "https://www.bilibili.com/video/BV1QT4y1M79V/?p=11",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-LR-04",
+      "title": "The Shadow of the Past",
+      "display_title": "往昔的阴影",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-LR-04.m4a",
+      "duration": 218.058163,
+      "source": "https://www.bilibili.com/video/BV1BT411v722/?p=4",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-LR-05",
+      "title": "The Treason of Isengard",
+      "display_title": "艾辛格的背叛",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-LR-05.m4a",
+      "duration": 245.759569,
+      "source": "https://www.bilibili.com/video/BV1BT411v722/?p=5",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-LR-07",
+      "title": "At the Sign of the Prancing Pony",
+      "display_title": "跃马旅店",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-LR-07.m4a",
+      "duration": 199.15712,
+      "source": "https://www.bilibili.com/video/BV1BT411v722/?p=7",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-LR-13",
+      "title": "A Journey in the Dark",
+      "display_title": "黑暗中的旅程",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-LR-13.m4a",
+      "duration": 265.333991,
+      "source": "https://www.bilibili.com/video/BV1BT411v722/?p=13",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-LR-15",
+      "title": "Lothlorien",
+      "display_title": "洛丝萝瑞恩",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-LR-15.m4a",
+      "duration": 279.126644,
+      "source": "https://www.bilibili.com/video/BV1BT411v722/?p=15",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-AM-01",
+      "title": "Lines for the Sadness",
+      "display_title": "悲伤的线条",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-AM-01.m4a",
+      "duration": 229.6525,
+      "source": "https://www.bilibili.com/video/BV1HW41187A4/?p=1",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-AM-30",
+      "title": "弓のアンソロジー",
+      "display_title": "弓弦选集",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-AM-30.m4a",
+      "duration": 172.095167,
+      "source": "https://www.bilibili.com/video/BV1HW41187A4/?p=30",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-AM-14",
+      "title": "Taboo Gimmick",
+      "display_title": "禁忌机关",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-AM-14.m4a",
+      "duration": 136.1485,
+      "source": "https://www.bilibili.com/video/BV1HW41187A4/?p=14",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-AM-18",
+      "title": "In the Ancient Forest",
+      "display_title": "古老森林之中",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-AM-18.m4a",
+      "duration": 115.881833,
+      "source": "https://www.bilibili.com/video/BV1HW41187A4/?p=18",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-AM-26",
+      "title": "Black Windy Days",
+      "display_title": "黑风之日",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-AM-26.m4a",
+      "duration": 132.521833,
+      "source": "https://www.bilibili.com/video/BV1HW41187A4/?p=26",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-FR-13",
+      "title": "Before the Light Fades",
+      "display_title": "在光芒消逝之前",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-FR-13.m4a",
+      "duration": 126.362766,
+      "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=13",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-FR-40",
+      "title": "Deep in the Dungeon",
+      "display_title": "迷宫深处",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-FR-40.m4a",
+      "duration": 113.847211,
+      "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=40",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-FR-53",
+      "title": "Knife to the Throat",
+      "display_title": "刀锋抵喉",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-FR-53.m4a",
+      "duration": 127.059365,
+      "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=53",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-RZ-01",
+      "title": "沈黙のレクイエム",
+      "display_title": "沉默的镇魂曲",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-RZ-01.m4a",
+      "duration": 424.127833,
+      "source": "https://www.bilibili.com/video/BV1Gs411W7UB/?p=1",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-PN-01",
+      "title": "Long, Long Time Ago",
+      "display_title": "很久很久以前",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-PN-01.m4a",
+      "duration": 189.631833,
+      "source": "https://www.bilibili.com/video/BV1wt411y7VQ/?p=1",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-TS-19",
+      "title": "Blackheart",
+      "display_title": "黑心",
+      "path": "资产/声音/BGM/重选-v004/BGM-CY-TS-19.m4a",
+      "duration": 268.09737,
+      "source": "https://www.bilibili.com/video/BV1dV411Y7Ku/?p=19",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-TS-01",
+      "title": "Heart of Courage",
+      "display_title": "勇气之心",
+      "path": "资产/声音/BGM/重选-v004/BGM-CY-TS-01.m4a",
+      "duration": 118.328662,
+      "source": "https://www.bilibili.com/video/BV1dV411Y7Ku/?p=1",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-TS-07",
+      "title": "Archangel",
+      "display_title": "大天使",
+      "path": "资产/声音/BGM/重选-v004/BGM-CY-TS-07.m4a",
+      "duration": 156.386168,
+      "source": "https://www.bilibili.com/video/BV1dV411Y7Ku/?p=7",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-TS-05",
+      "title": "Black Blade",
+      "display_title": "黑刃",
+      "path": "资产/声音/BGM/重选-v004/BGM-CY-TS-05.m4a",
+      "duration": 186.08449,
+      "source": "https://www.bilibili.com/video/BV1dV411Y7Ku/?p=5",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-KH-09",
+      "title": "The King",
+      "display_title": "国王",
+      "path": "资产/声音/BGM/重选-v004/BGM-CY-KH-09.m4a",
+      "duration": 344.0645,
+      "source": "https://www.bilibili.com/video/BV1jm4y1Z7Rb/?p=9",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-KH-05",
+      "title": "To Jerusalem",
+      "display_title": "前往耶路撒冷",
+      "path": "资产/声音/BGM/重选-v004/BGM-CY-KH-05.m4a",
+      "duration": 96.277833,
+      "source": "https://www.bilibili.com/video/BV1jm4y1Z7Rb/?p=5",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-KH-15",
+      "title": "Wall Breached",
+      "display_title": "城墙失守",
+      "path": "资产/声音/BGM/重选-v004/BGM-CY-KH-15.m4a",
+      "duration": 222.507167,
+      "source": "https://www.bilibili.com/video/BV1jm4y1Z7Rb/?p=15",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-AU-01",
+      "title": "Breath and Life",
+      "display_title": "呼吸与生命",
+      "path": "资产/声音/BGM/重选-v004/BGM-CY-AU-01.m4a",
+      "duration": 108.202333,
+      "source": "https://www.bilibili.com/video/BV1ytcpzxEDe/?p=1",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-AC2-06",
+      "title": "Approaching Target 1",
+      "display_title": "接近目标 1",
+      "path": "资产/声音/BGM/重选-v005/BGM-CY-AC2-06.m4a",
+      "duration": 220.543667,
+      "source": "https://www.bilibili.com/video/BV1TQ4y1L7tR/?p=6",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-AC2-28",
+      "title": "Night Mission in Venice",
+      "display_title": "威尼斯夜间任务",
+      "path": "资产/声音/BGM/重选-v005/BGM-CY-AC2-28.m4a",
+      "duration": 134.527667,
+      "source": "https://www.bilibili.com/video/BV1TQ4y1L7tR/?p=28",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-AC2-19",
+      "title": "Sanctuary",
+      "display_title": "庇护所",
+      "path": "资产/声音/BGM/重选-v005/BGM-CY-AC2-19.m4a",
+      "duration": 248.277,
+      "source": "https://www.bilibili.com/video/BV1TQ4y1L7tR/?p=19",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-AC2-13",
+      "title": "Dreams of Venice",
+      "display_title": "威尼斯之梦",
+      "path": "资产/声音/BGM/重选-v005/BGM-CY-AC2-13.m4a",
+      "duration": 266.346333,
+      "source": "https://www.bilibili.com/video/BV1TQ4y1L7tR/?p=13",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-LR3-09",
+      "title": "Cirith Ungol",
+      "display_title": "西力斯昂哥",
+      "path": "资产/声音/BGM/重选-v005/BGM-CY-LR3-09.m4a",
+      "duration": 104.396689,
+      "source": "https://www.bilibili.com/video/BV1az4y1272D/?p=9",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-LR3-06",
+      "title": "Minas Morgul",
+      "display_title": "米那斯魔窟",
+      "path": "资产/声音/BGM/重选-v005/BGM-CY-LR3-06.m4a",
+      "duration": 118.096463,
+      "source": "https://www.bilibili.com/video/BV1az4y1272D/?p=6",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-HP7-01",
+      "title": "Obliviate",
+      "display_title": "一忘皆空",
+      "path": "资产/声音/BGM/重选-v006/BGM-CY-HP7-01.m4a",
+      "duration": 182.250333,
+      "source": "https://www.bilibili.com/video/BV1Y6UtYFEyG/?p=1",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-HP7-02",
+      "title": "Snape to Malfoy Manor",
+      "display_title": "斯内普前往马尔福庄园",
+      "path": "资产/声音/BGM/重选-v006/BGM-CY-HP7-02.m4a",
+      "duration": 118.527667,
+      "source": "https://www.bilibili.com/video/BV1Y6UtYFEyG/?p=2",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-FZ-01",
+      "title": "Point Zero",
+      "display_title": "原点",
+      "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-01.m4a",
+      "duration": 228.761202,
+      "source": "https://www.bilibili.com/video/BV1Vx411G7kG/?p=1",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-FZ-02",
+      "title": "let the stars fall down",
+      "display_title": "让群星陨落",
+      "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-02.m4a",
+      "duration": 125.432834,
+      "source": "https://www.bilibili.com/video/BV1Vx411G7kG/?p=2",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-FZ-16",
+      "title": "secret maneuvers",
+      "display_title": "秘密行动",
+      "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-16.m4a",
+      "duration": 120.417324,
+      "source": "https://www.bilibili.com/video/BV1Vx411G7kG/?p=16",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    },
+    {
+      "id": "BGM-CY-FZ-18",
+      "title": "assassin",
+      "display_title": "暗杀者",
+      "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-18.m4a",
+      "duration": 160.425306,
+      "source": "https://www.bilibili.com/video/BV1Vx411G7kG/?p=18",
+      "heard": false,
+      "status": "候选 · 作者试听比较",
+      "local_exists": true
+    }
+  ],
+  "new_bgm_needed_if_local_tests_fail": [
+    {
+      "function": "救援/父亲插话克制情绪底",
+      "requirements": "无鼓或轻脉动、无歌词、连续30–40秒、可淡出尾音；本地Sanctuary/Lift/Before the Light Fades先试听。"
+    },
+    {
+      "function": "GPT长祈愿与水体凝聚",
+      "requirements": "无唱词的低频仪式织体、能保人声中频、8–15秒渐增而不提前爆发；本地Ancient Magic/詠唱/Point Zero先试听。"
+    },
+    {
+      "function": "回闪对话连场",
+      "requirements": "轻悬念且有温度、约30秒无强鼓爆点；不以更大音量解决。"
+    }
+  ],
+  "source_status": "现有本地电影/游戏原声候选的来源记录已保留；本轮只列本地可试听路径，不新增授权或发行许可判断。",
+  "numeric_evidence": "后期/导演重构-v003/声音覆盖数值证据.json",
+  "measurement_sections": [
+    {
+      "range": [
+        79.58,
+        128.29
+      ],
+      "label": "潜入/开锁",
+      "tracks": {
+        "2": {
+          "peak_dbfs": -20.91,
+          "rms_dbfs": -39.41
+        },
+        "3": {
+          "peak_dbfs": -43.13,
+          "rms_dbfs": -60.28
+        },
+        "4": {
+          "peak_dbfs": -35.06,
+          "rms_dbfs": -76.52
+        },
+        "5": {
+          "peak_dbfs": -200.0,
+          "rms_dbfs": -200.0
+        },
+        "6": {
+          "peak_dbfs": -200.0,
+          "rms_dbfs": -200.0
+        }
+      }
+    },
+    {
+      "range": [
+        128.29,
+        174.83
+      ],
+      "label": "争执/推搡/点燃",
+      "tracks": {
+        "2": {
+          "peak_dbfs": -20.99,
+          "rms_dbfs": -38.1
+        },
+        "3": {
+          "peak_dbfs": -37.07,
+          "rms_dbfs": -57.76
+        },
+        "4": {
+          "peak_dbfs": -44.83,
+          "rms_dbfs": -71.24
+        },
+        "5": {
+          "peak_dbfs": -28.27,
+          "rms_dbfs": -53.15
+        },
+        "6": {
+          "peak_dbfs": -200.0,
+          "rms_dbfs": -200.0
+        }
+      }
+    },
+    {
+      "range": [
+        195.83,
+        208.625
+      ],
+      "label": "Kimi显形咏唱",
+      "tracks": {
+        "2": {
+          "peak_dbfs": -17.88,
+          "rms_dbfs": -34.69
+        },
+        "3": {
+          "peak_dbfs": -36.89,
+          "rms_dbfs": -56.4
+        },
+        "4": {
+          "peak_dbfs": -200.0,
+          "rms_dbfs": -200.0
+        },
+        "5": {
+          "peak_dbfs": -128.98,
+          "rms_dbfs": -178.99
+        },
+        "6": {
+          "peak_dbfs": -24.77,
+          "rms_dbfs": -52.24
+        }
+      }
+    },
+    {
+      "range": [
+        218.5,
+        222.5
+      ],
+      "label": "Kimi护罩",
+      "tracks": {
+        "2": {
+          "peak_dbfs": -18.79,
+          "rms_dbfs": -31.53
+        },
+        "3": {
+          "peak_dbfs": -41.35,
+          "rms_dbfs": -55.25
+        },
+        "4": {
+          "peak_dbfs": -200.0,
+          "rms_dbfs": -200.0
+        },
+        "5": {
+          "peak_dbfs": -200.0,
+          "rms_dbfs": -200.0
+        },
+        "6": {
+          "peak_dbfs": -32.75,
+          "rms_dbfs": -51.84
+        }
+      }
+    },
+    {
+      "range": [
+        316.667,
+        327.667
+      ],
+      "label": "GPT祈愿术名",
+      "tracks": {
+        "2": {
+          "peak_dbfs": -20.11,
+          "rms_dbfs": -38.33
+        },
+        "3": {
+          "peak_dbfs": -39.82,
+          "rms_dbfs": -54.84
+        },
+        "4": {
+          "peak_dbfs": -200.0,
+          "rms_dbfs": -200.0
+        },
+        "5": {
+          "peak_dbfs": -24.38,
+          "rms_dbfs": -44.57
+        },
+        "6": {
+          "peak_dbfs": -200.0,
+          "rms_dbfs": -200.0
+        }
+      }
+    },
+    {
+      "range": [
+        228.5,
+        257
+      ],
+      "label": "回闪无音乐",
+      "tracks": {
+        "2": {
+          "peak_dbfs": -200.0,
+          "rms_dbfs": -200.0
+        },
+        "3": {
+          "peak_dbfs": -37.39,
+          "rms_dbfs": -60.5
+        },
+        "4": {
+          "peak_dbfs": -47.87,
+          "rms_dbfs": -76.1
+        },
+        "5": {
+          "peak_dbfs": -200.0,
+          "rms_dbfs": -200.0
+        },
+        "6": {
+          "peak_dbfs": -200.0,
+          "rms_dbfs": -200.0
+        }
+      }
+    },
+    {
+      "range": [
+        379.083,
+        408.167
+      ],
+      "label": "救援无音乐",
+      "tracks": {
+        "2": {
+          "peak_dbfs": -133.07,
+          "rms_dbfs": -185.62
+        },
+        "3": {
+          "peak_dbfs": -46.04,
+          "rms_dbfs": -71.15
+        },
+        "4": {
+          "peak_dbfs": -33.04,
+          "rms_dbfs": -67.26
+        },
+        "5": {
+          "peak_dbfs": -200.0,
+          "rms_dbfs": -200.0
+        },
+        "6": {
+          "peak_dbfs": -200.0,
+          "rms_dbfs": -200.0
+        }
+      }
+    }
+  ]
+}

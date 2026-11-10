@@ -1,0 +1,7 @@
+{
+  "method": "Linear sum of installed files and clip gains; excludes Resolve bus effects and true-peak reconstruction",
+  "sample_peak": 0.737365186214447,
+  "sample_peak_dbfs": -2.646,
+  "samples_over_full_scale": 0,
+  "continuous_listening_accepted": false
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "envelope/1",
+  "type": "envelope",
+  "ok": true,
+  "command": "workflow validate",
+  "version": "1.22.0",
+  "where": "local",
+  "data": {
+    "workflow": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\workflows\\105-key-r1.api.json",
+    "valid": true,
+    "error_count": 0,
+    "warning_count": 0,
+    "errors": [],
+    "warnings": [],
+    "partner_nodes": [],
+    "spends_credits": false,
+    "object_info_source": {
+      "mode": "local",
+      "host": "127.0.0.1",
+      "port": 8188
+    }
+  },
+  "error": null
+}

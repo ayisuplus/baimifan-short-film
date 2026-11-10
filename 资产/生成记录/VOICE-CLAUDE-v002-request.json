@@ -1,0 +1,28 @@
+{
+  "24": {
+    "class_type": "VoxCPM_TTS",
+    "inputs": {
+      "model_name": "VoxCPM2",
+      "lora_name": "None",
+      "text": "别碰她！",
+      "voice_design": "成熟成年女性的声音，中低音区，温润有厚度的胸腔共鸣，清晰普通话。被囚禁后气息虚弱，突然看见小小的朋友被袭击，压住恐惧急切喝止对方。别碰二字短促坚决，她字收住，保护欲强，略沙哑，不撒娇，不尖叫，不拖长尾音。",
+      "cfg": 2.0,
+      "steps": 10,
+      "normalize_text": false,
+      "seed": 20261021,
+      "force_offload": true,
+      "device": "cuda",
+      "dtype": "bf16"
+    }
+  },
+  "1": {
+    "class_type": "SaveAudio",
+    "inputs": {
+      "audio": [
+        "24",
+        0
+      ],
+      "filename_prefix": "audio/chuanyun/VOICE-CLAUDE-v002"
+    }
+  }
+}

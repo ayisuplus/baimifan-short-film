@@ -1,0 +1,115 @@
+{
+  "version": "v003",
+  "music": [
+    {
+      "id": "BGM-CY-AM-01",
+      "bvid": "BV1HW41187A4",
+      "part": 1,
+      "title": "Lines for the Sadness",
+      "display_title": "悲伤的线条",
+      "work": "魔法使的新娘",
+      "composer": "松本淳一",
+      "source_page_title": "Lines for the Sadness",
+      "navigation_translation": "中文曲名为导航释义；原名保留。"
+    },
+    {
+      "id": "BGM-CY-AM-30",
+      "bvid": "BV1HW41187A4",
+      "part": 30,
+      "title": "弓のアンソロジー",
+      "display_title": "弓弦选集",
+      "work": "魔法使的新娘",
+      "composer": "松本淳一",
+      "source_page_title": "弓のアンソロジー",
+      "navigation_translation": "中文曲名为导航释义；原名保留。"
+    },
+    {
+      "id": "BGM-CY-AM-14",
+      "bvid": "BV1HW41187A4",
+      "part": 14,
+      "title": "Taboo Gimmick",
+      "display_title": "禁忌机关",
+      "work": "魔法使的新娘",
+      "composer": "松本淳一",
+      "source_page_title": "Taboo Gimmick",
+      "navigation_translation": "中文曲名为导航释义；原名保留。"
+    },
+    {
+      "id": "BGM-CY-AM-18",
+      "bvid": "BV1HW41187A4",
+      "part": 18,
+      "title": "In the Ancient Forest",
+      "display_title": "古老森林之中",
+      "work": "魔法使的新娘",
+      "composer": "松本淳一",
+      "source_page_title": "In the Ancient Forest",
+      "navigation_translation": "中文曲名为导航释义；原名保留。"
+    },
+    {
+      "id": "BGM-CY-AM-26",
+      "bvid": "BV1HW41187A4",
+      "part": 26,
+      "title": "Black Windy Days",
+      "display_title": "黑风之日",
+      "work": "魔法使的新娘",
+      "composer": "松本淳一",
+      "source_page_title": "Black Windy Days",
+      "navigation_translation": "中文曲名为导航释义；原名保留。"
+    },
+    {
+      "id": "BGM-CY-FR-13",
+      "bvid": "BV1U6BfBCE5o",
+      "part": 13,
+      "title": "Before the Light Fades",
+      "display_title": "在光芒消逝之前",
+      "work": "葬送的芙莉莲",
+      "composer": "Evan Call",
+      "source_page_title": "13.Before the Light Fades",
+      "navigation_translation": "中文曲名为导航释义；原名保留。"
+    },
+    {
+      "id": "BGM-CY-FR-40",
+      "bvid": "BV1U6BfBCE5o",
+      "part": 40,
+      "title": "Deep in the Dungeon",
+      "display_title": "迷宫深处",
+      "work": "葬送的芙莉莲",
+      "composer": "Evan Call",
+      "source_page_title": "40.Deep in the Dungeon",
+      "navigation_translation": "中文曲名为导航释义；原名保留。"
+    },
+    {
+      "id": "BGM-CY-FR-53",
+      "bvid": "BV1U6BfBCE5o",
+      "part": 53,
+      "title": "Knife to the Throat",
+      "display_title": "刀锋抵喉",
+      "work": "葬送的芙莉莲",
+      "composer": "Evan Call",
+      "source_page_title": "53.Knife to the Throat",
+      "navigation_translation": "中文曲名为导航释义；原名保留。"
+    },
+    {
+      "id": "BGM-CY-RZ-01",
+      "bvid": "BV1Gs411W7UB",
+      "part": 1,
+      "title": "沈黙のレクイエム",
+      "display_title": "沉默的镇魂曲",
+      "work": "Re：从零开始的异世界生活",
+      "composer": "末廣健一郎",
+      "source_page_title": "",
+      "navigation_translation": "中文曲名为导航释义；原名保留。"
+    },
+    {
+      "id": "BGM-CY-PN-01",
+      "bvid": "BV1wt411y7VQ",
+      "part": 1,
+      "title": "Long, Long Time Ago",
+      "display_title": "很久很久以前",
+      "work": "潘神的迷宫",
+      "composer": "Javier Navarrete",
+      "source_page_title": "《Long, Long Time Ago》优美的女生吟唱——2006潘神的迷宫-西班牙",
+      "navigation_translation": "中文曲名为导航释义；原名保留。"
+    }
+  ]
+}

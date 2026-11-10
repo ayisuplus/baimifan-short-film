@@ -1,0 +1,135 @@
+{
+  "batch": {
+    "batch_number": 44,
+    "batch_id": "GB033",
+    "title": "第一口饭与安静收尾",
+    "shot_ids": [
+      "CY034A",
+      "CY034"
+    ],
+    "film_start": 481.022729,
+    "duration": 9,
+    "prompt": "subject_definitions:\nImage 1=Claude四视图：同一人四角度，身份服饰保持\nImage 2=DeepSeek四视图：同一人四角度，身份服饰保持\nImage 3=构图状态，非强制首帧\nImage 4=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，9秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–2s Image 3；画内:Claude。从GPT放松目光切唯一第一口饭，勺从上一批已持稳状态进入，不重拍接勺或舀饭。嘴部与手的局部近景机位固定，只轻微跟焦从勺尖到闭合嘴唇，不推近口腔或放大咀嚼。小口饭送至唇边，嘴唇轻合，空勺退出；只吃这一口，不停留拍咀嚼。 人物:仅Claude鼻尖嘴角、手和勺；饭碗由画外DeepSeek稳住。 声音:柔和街市、轻微餐具声，不放大咀嚼，只一口饭。\n[Shot 2] 2–9s Image 4；画内:DeepSeek、Claude。沿空勺下降匹配切双人，已经吃过不再送入口；先回望后静留，淡出放正片结束而非生成余量起点。双人中近景有意定住七秒，让空勺降低、相视、呼吸和阳光完成收尾；末四秒不推镜催情。回到长椅上的两人。Claude已经吃下第一口，空勺放低到膝前，不再重复舀饭或送入口中。小鱼仰头望着她，笑起来；Claude回望小鱼，嘴角慢慢放松。最后四秒只留两人的呼吸与街市声，阳光落在肩上，结束。 声音:尾乐在本镜前3秒内收尽；最后4秒BGM静音，只留街市声与两人呼吸。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "Claude",
+        "name_en": "Claude",
+        "asset_id": "CHAR-CLAUDE",
+        "status": "候选待作者审阅",
+        "limits": "侧背与下裙含补全，不作为精确工程正交图。受缚至离殿采用赤足，四视图鞋仅为日常服装参考。近景不为展示花饰而换侧；不新增另一朵花。",
+        "purpose": "Claude四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a",
+        "source_path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+        "source_sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+        "sha1": "ecd80984142fead85bfab07ed28c0e7b9c8c05b2",
+        "file_size": 2016603,
+        "width": 2200,
+        "height": 880,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-CLAUDE-TURN-v001-h3-pad.png"
+      },
+      {
+        "slot": 2,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+        "kind": "identity",
+        "person": "DeepSeek",
+        "name_en": "DeepSeek",
+        "asset_id": "CHAR-DEEPSEEK",
+        "status": "候选待作者审阅",
+        "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+        "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+        "source_path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+        "source_sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+        "sha1": "d9d76117c7724d34a366061d3bb38d3a2c70e2c6",
+        "file_size": 1868475,
+        "width": 2169,
+        "height": 868,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-DEEPSEEK-TURN-v003-h3-pad.png"
+      },
+      {
+        "slot": 3,
+        "path": "镜头设计/图像/长吟唱护盾与结尾-v029/CY034A-v029-r1.png",
+        "kind": "composition",
+        "shot_id": "CY034A",
+        "purpose": "构图、空间与代表状态：第一口饭；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "618c7554631a9f03fb6abe13d3943204d2674a69fd378caf105a8176c61cccf8",
+        "source_path": "镜头设计/图像/长吟唱护盾与结尾-v029/CY034A-v029-r1.png",
+        "source_sha256": "618c7554631a9f03fb6abe13d3943204d2674a69fd378caf105a8176c61cccf8",
+        "sha1": "598ffe99824bd77a6d667f49e1583faf5f44eb72",
+        "file_size": 2330583,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\长吟唱护盾与结尾-v029\\CY034A-v029-r1.png"
+      },
+      {
+        "slot": 4,
+        "path": "镜头设计/图像/长吟唱护盾与结尾-v029/CY034-v029-r1.png",
+        "kind": "composition",
+        "shot_id": "CY034",
+        "purpose": "构图、空间与代表状态：阳光里坐一会儿；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "656789f33489f19240985772e1eb5aa272267372f3d310e99f541475b4bc639a",
+        "source_path": "镜头设计/图像/长吟唱护盾与结尾-v029/CY034-v029-r1.png",
+        "source_sha256": "656789f33489f19240985772e1eb5aa272267372f3d310e99f541475b4bc639a",
+        "sha1": "c00b54115b2fafbf82a74f84045fbbe420e63ffe",
+        "file_size": 2812334,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\长吟唱护盾与结尾-v029\\CY034-v029-r1.png"
+      }
+    ],
+    "estimated_credits": 91.8,
+    "status": "prepared",
+    "accepted": false
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "subject_definitions:\nImage 1=Claude四视图：同一人四角度，身份服饰保持\nImage 2=DeepSeek四视图：同一人四角度，身份服饰保持\nImage 3=构图状态，非强制首帧\nImage 4=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，9秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–2s Image 3；画内:Claude。从GPT放松目光切唯一第一口饭，勺从上一批已持稳状态进入，不重拍接勺或舀饭。嘴部与手的局部近景机位固定，只轻微跟焦从勺尖到闭合嘴唇，不推近口腔或放大咀嚼。小口饭送至唇边，嘴唇轻合，空勺退出；只吃这一口，不停留拍咀嚼。 人物:仅Claude鼻尖嘴角、手和勺；饭碗由画外DeepSeek稳住。 声音:柔和街市、轻微餐具声，不放大咀嚼，只一口饭。\n[Shot 2] 2–9s Image 4；画内:DeepSeek、Claude。沿空勺下降匹配切双人，已经吃过不再送入口；先回望后静留，淡出放正片结束而非生成余量起点。双人中近景有意定住七秒，让空勺降低、相视、呼吸和阳光完成收尾；末四秒不推镜催情。回到长椅上的两人。Claude已经吃下第一口，空勺放低到膝前，不再重复舀饭或送入口中。小鱼仰头望着她，笑起来；Claude回望小鱼，嘴角慢慢放松。最后四秒只留两人的呼吸与街市声，阳光落在肩上，结束。 声音:尾乐在本镜前3秒内收尽；最后4秒BGM静音，只留街市声与两人呼吸。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141454194728960"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141523506393088"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141682035220480"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141692761235456"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 9,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "source_sha256": "e31c8f0667be1092066e4307a8784ba2d54ac12d7039479b4edca5704c88c2a7",
+  "approved_scope": "2026-10-28 user requested switching remaining generation to https://metaso.cn/minimax-h3"
+}

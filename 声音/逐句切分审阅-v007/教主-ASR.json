@@ -1,0 +1,138 @@
+{
+  "source": "声音/正式配音准备-v006/已选原件/教主.mp3",
+  "source_sha256": "5bce59ca2d1e9e0b9c5076ac0d0dc6dfef40530bce58ebaddfeac4eba25fdcd0",
+  "seconds": 35.970625,
+  "model": "C:\\Users\\36322\\.cache\\huggingface\\hub\\models--openai--whisper-small\\snapshots\\973afd24965f72e36ca33b3055d56a652f456b4d",
+  "method": "offline Whisper-small; unprompted Japanese word timestamps; not human listening or performance approval",
+  "result": {
+    "text": "我が娘よ 神がお待ちだどけ 負感症条約を破ったなクロード 来なさい我が娘よ 神がお待ちだどけ 負感症条約を破ったなクロード 来なさい我が娘よ 神がお待ちだ 読け 負感症上役を破ったな クロード 来なさい",
+    "chunks": [
+      {
+        "text": "我が娘よ",
+        "timestamp": [
+          0.0,
+          1.18
+        ]
+      },
+      {
+        "text": " 神がお待ちだ",
+        "timestamp": [
+          1.18,
+          3.06
+        ]
+      },
+      {
+        "text": "どけ",
+        "timestamp": [
+          4.24,
+          4.66
+        ]
+      },
+      {
+        "text": " 負感症条約を破ったな",
+        "timestamp": [
+          4.66,
+          7.86
+        ]
+      },
+      {
+        "text": "クロード",
+        "timestamp": [
+          8.78,
+          9.3
+        ]
+      },
+      {
+        "text": " 来なさい",
+        "timestamp": [
+          9.3,
+          10.98
+        ]
+      },
+      {
+        "text": "我が娘よ",
+        "timestamp": [
+          12.2,
+          13.48
+        ]
+      },
+      {
+        "text": " 神がお待ちだ",
+        "timestamp": [
+          13.48,
+          15.34
+        ]
+      },
+      {
+        "text": "どけ",
+        "timestamp": [
+          16.44,
+          16.96
+        ]
+      },
+      {
+        "text": " 負感症条約を破ったな",
+        "timestamp": [
+          16.96,
+          20.04
+        ]
+      },
+      {
+        "text": "クロード",
+        "timestamp": [
+          20.9,
+          21.56
+        ]
+      },
+      {
+        "text": " 来なさい",
+        "timestamp": [
+          21.56,
+          23.36
+        ]
+      },
+      {
+        "text": "我が娘よ",
+        "timestamp": [
+          24.36,
+          25.62
+        ]
+      },
+      {
+        "text": " 神がお待ちだ",
+        "timestamp": [
+          25.62,
+          27.42
+        ]
+      },
+      {
+        "text": " 読け",
+        "timestamp": [
+          27.42,
+          29.36
+        ]
+      },
+      {
+        "text": " 負感症上役を破ったな",
+        "timestamp": [
+          29.36,
+          32.3
+        ]
+      },
+      {
+        "text": " クロード",
+        "timestamp": [
+          32.3,
+          33.98
+        ]
+      },
+      {
+        "text": " 来なさい",
+        "timestamp": [
+          33.98,
+          35.68
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "batch_id": "GB017",
+  "node_id": "v-kavvekQEZN",
+  "quoted_credits": 98,
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-kavvekQEZN",
+    "node": {
+      "id": "v-kavvekQEZN",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第23批 · 发射塔下的点头、月背睁眼 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Mixed 1}} =ChatGPT四视图：同一人四角度，身份服饰保持\n{{Mixed 2}} =Grok四视图：同一人四角度，身份服饰保持\n{{Mixed 3}} =Kimi四视图：同一人四角度，身份服饰保持\n{{Mixed 4}} =构图状态，非强制首帧\n{{Mixed 5}} =构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，7秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–4s {{Mixed 4}} ；画内:ChatGPT、Grok。承前一处邀约直接切到基地；回应后在呼名节奏上切静寂月面，机械底声立即退掉。以双人中景轻微横移到斧柄和Grok回应的同一侧，工业立柱产生视差；不绕过二人轴线。钢架发射塔、储罐和管线旁，GPT邀请Grok；Grok握斧回应。火箭停在发射架，尚未发射。 调度:镜长4秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 声音:基地低鸣托底；火箭仍未发射。 GPT在镜内0.1–1.14秒说完同一句日语；Grok在镜内1.44–2.42秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 2] 4–6.54s {{Mixed 5}} ；画内:Kimi。GPT呼名先入，切眼睛时仍同一次呼唤；睁眼后切宽，不再重复醒来。困眼极近特写定镜，让眼睑从闭到开承担变化，不用推镜制造醒来。月背的Kimi仍伏在月石边，听见GPT画外呼名，困倦的眼睛缓缓睁开。 轻声叫醒，但第二句带来紧迫感；Kimi听见Claude的名字才从困意转为清醒。 人物:Kimi双眼近特写，GPT呼名为画外声。 声音:GPT在画外轻唤“Kimi”，先于双人画面；月面无风声。 GPT在镜内0.1–2.44秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0.1–1.14s ChatGPT 匹配口型:<d>[Japanese] グロック。</d>；仅一次。\n1.44–2.42s Grok 匹配口型:<d>[Japanese] もちろん。</d>；仅一次。\n4.1–6.44s ChatGPT 画外连续，不让在画者代说:<d>[Japanese] キミ。クロードが危ない。</d>；仅一次。\n6.54–7s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-07HfqKjhJ7",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d74110bde0f98a0b44ed3c518d48eaea282c1a87.png",
+              "label": "CHAR-GPT-TURN-v001-h3-pad"
+            },
+            {
+              "nodeId": "i-fNFKWI1pkl",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/38a307ff6ec596fc528ab5c3740b1979336eb9fa.png",
+              "label": "C09_Grok-角色设定卡"
+            },
+            {
+              "nodeId": "i-6n1fSpOePV",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/c9c37061f22385d4bbf0fcbb7cd81f596fc6400c.png",
+              "label": "C03_Kimi-角色设定卡"
+            },
+            {
+              "nodeId": "i-LciS8viwzJ",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/4c09f5d6e1e8aacd9f7e9793bd20197e5bce0821.png",
+              "label": "CY026C-v015-r1"
+            },
+            {
+              "nodeId": "i-8kEhqD0ROf",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/6e403f34ec385130d14d610bd2a8a8899ea83737.png",
+              "label": "CY026D1-v009"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 7
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-07HfqKjhJ7",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d74110bde0f98a0b44ed3c518d48eaea282c1a87.png",
+              "label": "CHAR-GPT-TURN-v001-h3-pad",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-fNFKWI1pkl",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/38a307ff6ec596fc528ab5c3740b1979336eb9fa.png",
+              "label": "C09_Grok-角色设定卡",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-6n1fSpOePV",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/c9c37061f22385d4bbf0fcbb7cd81f596fc6400c.png",
+              "label": "C03_Kimi-角色设定卡",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-LciS8viwzJ",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/4c09f5d6e1e8aacd9f7e9793bd20197e5bce0821.png",
+              "label": "CY026C-v015-r1",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-8kEhqD0ROf",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/6e403f34ec385130d14d610bd2a8a8899ea83737.png",
+              "label": "CY026D1-v009",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-07HfqKjhJ7",
+            "i-fNFKWI1pkl",
+            "i-6n1fSpOePV",
+            "i-LciS8viwzJ",
+            "i-8kEhqD0ROf"
+          ],
+          "mixedListOrder": [
+            "i-07HfqKjhJ7",
+            "i-fNFKWI1pkl",
+            "i-6n1fSpOePV",
+            "i-LciS8viwzJ",
+            "i-8kEhqD0ROf"
+          ]
+        },
+        "_updatedAtMs": 1793121669000,
+        "_lastAppliedFullyAtMs": 1793121669000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        },
+        "taskInfo": {
+          "taskId": "20261028012103919849236",
+          "loading": true,
+          "status": 1,
+          "progressPercent": 0,
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-kavvekQEZN",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793121696256
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805"
+        }
+      },
+      "position": {
+        "x": 5592,
+        "y": 5496
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-kavvekQEZN",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

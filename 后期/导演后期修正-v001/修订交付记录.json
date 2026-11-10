@@ -1,0 +1,1739 @@
+{
+  "timeline": "v001_Director_Post_Repair_Final",
+  "seconds": 460.6666666666667,
+  "frames": 11056,
+  "video_segments": 80,
+  "voice_files": 63,
+  "music_segments": 13,
+  "original_files_preserved": 44,
+  "new_generation_calls": 1,
+  "new_generation_seconds": 7,
+  "adopted_generation_seconds": 6.208333333333333,
+  "estimated_generation_credits": 71.4,
+  "actual_debit_verified": false,
+  "render": "导出/白米饭-导演修订-v001-r3.mp4",
+  "scope": "画面后期修订候选；选定配音与BGM已装配；非发行混音母版",
+  "remaining": [
+    "独立拟音、环境声尚未完成，本候选未混入生成片原声，以免叠出旧台词/音乐。",
+    "未完成连续声音听审、日语发音与逐句口型验收。",
+    "低风险表演残留：第4批发言时仍略带笑意，第39批尾部视线仍偏正前；已减少停顿，不宣称表演被完全改写。"
+  ],
+  "batches": [
+    {
+      "batch": 1,
+      "id": "GB001",
+      "start": 0.0,
+      "end": 15.0,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB001-H3-v002.mp4",
+      "original_sha256": "4b515b4abbc5fec02ff8a87ef77ef8da5346d0dd9e9fa02ff849ed2c3ce5711f",
+      "audit": "初遇、回望、举饭与悬停的情绪递进成立，儿童尺度与黑袍压迫形成对比。",
+      "action": "保留现有画面，按选定配音与整片时间线对齐。",
+      "status": "保留",
+      "segments": [
+        {
+          "batch": 1,
+          "source_batch": 1,
+          "source": "视频制作/LibTV-H3-v001/产物/GB001-H3-v002.mp4",
+          "in": 0,
+          "out": 360,
+          "frames": 360,
+          "props": {},
+          "note": "",
+          "record": 0,
+          "ordinal": 1,
+          "name": "B01_GB001_01",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 2,
+      "id": "GB002",
+      "start": 15.0,
+      "end": 28.416666666666668,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB002-H3-v001.mp4",
+      "original_sha256": "553347c8146d880e82668578eaa5dbe27efdbbcf150443ad2c0a207212c0e449",
+      "audit": "拍翻饭碗与被拒门外的因果清楚，力量和时间压迫应在后期加强。",
+      "action": "拍碗局部提速",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 2,
+          "source_batch": 2,
+          "source": "视频制作/LibTV-H3-v001/产物/GB002-H3-v001.mp4",
+          "in": 0,
+          "out": 112,
+          "frames": 112,
+          "props": {},
+          "note": "",
+          "record": 360,
+          "ordinal": 1,
+          "name": "B02_GB002_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 2,
+          "source_batch": 2,
+          "source": "视频制作/LibTV-H3-v001/产物/GB002-H3-v001.mp4",
+          "in": 112,
+          "out": 156,
+          "frames": 30,
+          "props": {},
+          "note": "拍碗局部提速",
+          "record": 472,
+          "ordinal": 2,
+          "name": "B02_GB002_02",
+          "speed": 146.66666666666666
+        },
+        {
+          "batch": 2,
+          "source_batch": 2,
+          "source": "视频制作/LibTV-H3-v001/产物/GB002-H3-v001.mp4",
+          "in": 156,
+          "out": 336,
+          "frames": 180,
+          "props": {},
+          "note": "",
+          "record": 502,
+          "ordinal": 3,
+          "name": "B02_GB002_03",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 3,
+      "id": "GB003",
+      "start": 28.416666666666668,
+      "end": 39.416666666666664,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB003-H3-v001.mp4",
+      "original_sha256": "69691a0b120f54461f406115c22b34fffc576e8af7a42d7d52ff3f38f0b9d1d7",
+      "audit": "长阶、守门、放行和到卧榻的空间链成立；放行的声音先后需按实际动作重排。",
+      "action": "保留现有画面，按选定配音与整片时间线对齐。",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 3,
+          "source_batch": 3,
+          "source": "视频制作/LibTV-H3-v001/产物/GB003-H3-v001.mp4",
+          "in": 0,
+          "out": 264,
+          "frames": 264,
+          "props": {},
+          "note": "",
+          "record": 682,
+          "ordinal": 1,
+          "name": "B03_GB003_01",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 4,
+      "id": "GB004",
+      "start": 39.416666666666664,
+      "end": 53.416666666666664,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB004-H3-v001.mp4",
+      "original_sha256": "6a0ef8298a0083ffdd8f438dd40b97f114ed62437e3850c404dcc02004545ef1",
+      "audit": "求救—拒绝—沉默反打完整；可用声音与表情选择改善表演强度。",
+      "action": "求救后换闭口等待；拒绝尾音提前落到孩子反应，保留垂眼。",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 4,
+          "source_batch": 4,
+          "source": "视频制作/LibTV-H3-v001/产物/GB004-H3-v001.mp4",
+          "in": 0,
+          "out": 124,
+          "frames": 124,
+          "props": {},
+          "note": "",
+          "record": 946,
+          "ordinal": 1,
+          "name": "B04_GB004_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 4,
+          "source_batch": 4,
+          "source": "视频制作/LibTV-H3-v001/产物/GB004-H3-v001.mp4",
+          "in": 72,
+          "out": 90,
+          "frames": 27,
+          "props": {},
+          "note": "求救后闭口等待，减少笑脸停顿",
+          "record": 1070,
+          "ordinal": 2,
+          "name": "B04_GB004_02",
+          "speed": 66.66666666666667
+        },
+        {
+          "batch": 4,
+          "source_batch": 4,
+          "source": "视频制作/LibTV-H3-v001/产物/GB004-H3-v001.mp4",
+          "in": 151,
+          "out": 234,
+          "frames": 83,
+          "props": {},
+          "note": "",
+          "record": 1097,
+          "ordinal": 3,
+          "name": "B04_GB004_03",
+          "speed": 100.0
+        },
+        {
+          "batch": 4,
+          "source_batch": 4,
+          "source": "视频制作/LibTV-H3-v001/产物/GB004-H3-v001.mp4",
+          "in": 252,
+          "out": 270,
+          "frames": 18,
+          "props": {},
+          "note": "拒绝尾音切孩子反应",
+          "record": 1180,
+          "ordinal": 4,
+          "name": "B04_GB004_04",
+          "speed": 100.0
+        },
+        {
+          "batch": 4,
+          "source_batch": 4,
+          "source": "视频制作/LibTV-H3-v001/产物/GB004-H3-v001.mp4",
+          "in": 270,
+          "out": 336,
+          "frames": 84,
+          "props": {},
+          "note": "",
+          "record": 1198,
+          "ordinal": 5,
+          "name": "B04_GB004_05",
+          "speed": 78.57142857142857
+        }
+      ]
+    },
+    {
+      "batch": 5,
+      "id": "GB004M",
+      "start": 53.416666666666664,
+      "end": 68.33333333333333,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB004M-H3-v001.mp4",
+      "original_sha256": "7f00d82a7122bd61b079fb17bb69e81b8762942fedd695b3adc08cabe1a250a0",
+      "audit": "双分身概念清楚，但长达约15秒的同框平铺应通过构图变化突出争执双方。",
+      "action": "恶魔发言聚焦；天使回应聚焦",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 5,
+          "source_batch": 5,
+          "source": "视频制作/LibTV-H3-v001/产物/GB004M-H3-v001.mp4",
+          "in": 0,
+          "out": 96,
+          "frames": 96,
+          "props": {
+            "ZoomX": 1.8,
+            "ZoomY": 1.8,
+            "Pan": 450,
+            "Tilt": 80
+          },
+          "note": "恶魔发言聚焦",
+          "record": 1282,
+          "ordinal": 1,
+          "name": "B05_GB004M_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 5,
+          "source_batch": 5,
+          "source": "视频制作/LibTV-H3-v001/产物/GB004M-H3-v001.mp4",
+          "in": 96,
+          "out": 358,
+          "frames": 262,
+          "props": {
+            "ZoomX": 1.8,
+            "ZoomY": 1.8,
+            "Pan": -450,
+            "Tilt": 80
+          },
+          "note": "天使回应聚焦",
+          "record": 1378,
+          "ordinal": 2,
+          "name": "B05_GB004M_02",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 6,
+      "id": "GB005",
+      "start": 68.33333333333333,
+      "end": 79.58333333333333,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB005-v003.mp4",
+      "original_sha256": "eca9629e460a6da749193ae0477605518d1458422cfdeee08050609af221334a",
+      "audit": "方向与动作省略成立；离别尾镜的停留偏长，可后期集中到GPT的迟疑。",
+      "action": "收紧送别尾停",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 6,
+          "source_batch": 6,
+          "source": "视频制作/Metaso-H3-v003/剪辑候选/GB005-v003.mp4",
+          "in": 0,
+          "out": 192,
+          "frames": 192,
+          "props": {},
+          "note": "",
+          "record": 1640,
+          "ordinal": 1,
+          "name": "B06_GB005_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 6,
+          "source_batch": 6,
+          "source": "视频制作/Metaso-H3-v003/剪辑候选/GB005-v003.mp4",
+          "in": 192,
+          "out": 270,
+          "frames": 78,
+          "props": {},
+          "note": "收紧送别尾停",
+          "record": 1832,
+          "ordinal": 2,
+          "name": "B06_GB005_02",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 7,
+      "id": "GB006",
+      "start": 79.58333333333333,
+      "end": 91.58333333333333,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB006-H3-v001.mp4",
+      "original_sha256": "8894a4c7272e435dc67b1213db98ba9b41520987bcd11b1fcb2fca921f8ddfcf",
+      "audit": "潜入动机、卡帽阻碍和教堂高差都读得懂，卡帽停顿可缩短。",
+      "action": "去掉卡帽重复保持",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 7,
+          "source_batch": 7,
+          "source": "视频制作/LibTV-H3-v001/产物/GB006-H3-v001.mp4",
+          "in": 0,
+          "out": 126,
+          "frames": 126,
+          "props": {},
+          "note": "",
+          "record": 1910,
+          "ordinal": 1,
+          "name": "B07_GB006_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 7,
+          "source_batch": 7,
+          "source": "视频制作/LibTV-H3-v001/产物/GB006-H3-v001.mp4",
+          "in": 150,
+          "out": 312,
+          "frames": 162,
+          "props": {},
+          "note": "去掉卡帽重复保持",
+          "record": 2036,
+          "ordinal": 2,
+          "name": "B07_GB006_02",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 8,
+      "id": "GB007",
+      "start": 91.58333333333333,
+      "end": 104.29166666666667,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB007-v002.mp4",
+      "original_sha256": "17549fe325b32cd518cf9ae33851f761c8692b3abd763b68eeea55eecb8a14bd",
+      "audit": "救援对象、脚链和腰锁关系完整；动作有拉扯，但现有拉伸使紧迫感偏缓。",
+      "action": "对白后试锁恢复动作压力",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 8,
+          "source_batch": 8,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB007-v002.mp4",
+          "in": 0,
+          "out": 216,
+          "frames": 216,
+          "props": {},
+          "note": "",
+          "record": 2198,
+          "ordinal": 1,
+          "name": "B08_GB007_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 8,
+          "source_batch": 8,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB007-v002.mp4",
+          "in": 216,
+          "out": 331,
+          "frames": 89,
+          "props": {},
+          "note": "对白后试锁恢复动作压力",
+          "record": 2414,
+          "ordinal": 2,
+          "name": "B08_GB007_02",
+          "speed": 129.2134831460674
+        }
+      ]
+    },
+    {
+      "batch": 9,
+      "id": "GB008",
+      "start": 104.29166666666667,
+      "end": 118.29166666666667,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB008-H3-v001.mp4",
+      "original_sha256": "97bf0068eaaf3a073b52960e4fcf8e67878c5c130646eb10285e91e0fc50d3b8",
+      "audit": "烛泪时间省略、疲惫听劝与门外动静的心理链成立。",
+      "action": "保留现有画面，按选定配音与整片时间线对齐。",
+      "status": "保留",
+      "segments": [
+        {
+          "batch": 9,
+          "source_batch": 9,
+          "source": "视频制作/LibTV-H3-v001/产物/GB008-H3-v001.mp4",
+          "in": 0,
+          "out": 336,
+          "frames": 336,
+          "props": {},
+          "note": "",
+          "record": 2503,
+          "ordinal": 1,
+          "name": "B09_GB008_01",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 10,
+      "id": "GB008R2",
+      "start": 118.29166666666667,
+      "end": 122.29166666666667,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB008R2-H3-v001.mp4",
+      "original_sha256": "d90f4e5f5555e437f97060a9f60c8007c31821aaf0e68b562fe8239f3bf9e06c",
+      "audit": "队伍返堂压迫感有效；尾部近景可截短后接孩子阻拦。",
+      "action": "保留现有画面，按选定配音与整片时间线对齐。",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 10,
+          "source_batch": 10,
+          "source": "视频制作/LibTV-H3-v001/产物/GB008R2-H3-v001.mp4",
+          "in": 0,
+          "out": 96,
+          "frames": 96,
+          "props": {},
+          "note": "",
+          "record": 2839,
+          "ordinal": 1,
+          "name": "B10_GB008R2_01",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 11,
+      "id": "GB009",
+      "start": 122.29166666666667,
+      "end": 132.66666666666666,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB009-v003.mp4",
+      "original_sha256": "6a428ce07104875935dd6316b8fd9acd87aabe2292b41357e2bb5679021531d3",
+      "audit": "抓木被拨开、放木、抱靴再被挣脱的因果完整；拨开段力度可用节奏加强。",
+      "action": "拨帽接触后加快失衡；压缩抱靴等待",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 11,
+          "source_batch": 11,
+          "source": "视频制作/Metaso-H3-v003/剪辑候选/GB009-v003.mp4",
+          "in": 0,
+          "out": 48,
+          "frames": 48,
+          "props": {},
+          "note": "",
+          "record": 2935,
+          "ordinal": 1,
+          "name": "B11_GB009_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 11,
+          "source_batch": 11,
+          "source": "视频制作/Metaso-H3-v003/剪辑候选/GB009-v003.mp4",
+          "in": 48,
+          "out": 90,
+          "frames": 28,
+          "props": {},
+          "note": "拨帽接触后加快失衡",
+          "record": 2983,
+          "ordinal": 2,
+          "name": "B11_GB009_02",
+          "speed": 150.0
+        },
+        {
+          "batch": 11,
+          "source_batch": 11,
+          "source": "视频制作/Metaso-H3-v003/剪辑候选/GB009-v003.mp4",
+          "in": 115,
+          "out": 216,
+          "frames": 101,
+          "props": {},
+          "note": "",
+          "record": 3011,
+          "ordinal": 3,
+          "name": "B11_GB009_03",
+          "speed": 100.0
+        },
+        {
+          "batch": 11,
+          "source_batch": 11,
+          "source": "视频制作/Metaso-H3-v003/剪辑候选/GB009-v003.mp4",
+          "in": 216,
+          "out": 240,
+          "frames": 24,
+          "props": {},
+          "note": "",
+          "record": 3112,
+          "ordinal": 4,
+          "name": "B11_GB009_04",
+          "speed": 100.0
+        },
+        {
+          "batch": 11,
+          "source_batch": 11,
+          "source": "视频制作/Metaso-H3-v003/剪辑候选/GB009-v003.mp4",
+          "in": 264,
+          "out": 312,
+          "frames": 48,
+          "props": {},
+          "note": "压缩抱靴等待",
+          "record": 3136,
+          "ordinal": 5,
+          "name": "B11_GB009_05",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 12,
+      "id": "GB010",
+      "start": 132.66666666666666,
+      "end": 146.58333333333334,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB010-H3-v001.mp4",
+      "original_sha256": "b82b9cbd40d8261bded36aa78565360ecd2cf55d1d18b80282c4ad759e9c2e85",
+      "audit": "铺柴完成、父亲接火与孩子最后挡路三步递进清晰，空间高差与唯一火把可追踪。",
+      "action": "保留现有画面，按选定配音与整片时间线对齐。",
+      "status": "保留",
+      "segments": [
+        {
+          "batch": 12,
+          "source_batch": 12,
+          "source": "视频制作/LibTV-H3-v001/产物/GB010-H3-v001.mp4",
+          "in": 0,
+          "out": 334,
+          "frames": 334,
+          "props": {},
+          "note": "",
+          "record": 3184,
+          "ordinal": 1,
+          "name": "B12_GB010_01",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 13,
+      "id": "GB011-1",
+      "start": 146.58333333333334,
+      "end": 156.33333333333334,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB011-1-v002.mp4",
+      "original_sha256": "dae3437088efb0d59e016320354eaf50d88dc87271caa4b52a853b1057782933",
+      "audit": "Claude制止、成人俯视与孩子倒地成立；挥手切反打处有短暂停拍感，应收紧动作接点。",
+      "action": "删除切后正立平台",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 13,
+          "source_batch": 13,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB011-1-v002.mp4",
+          "in": 0,
+          "out": 192,
+          "frames": 192,
+          "props": {},
+          "note": "",
+          "record": 3518,
+          "ordinal": 1,
+          "name": "B13_GB011-1_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 13,
+          "source_batch": 13,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB011-1-v002.mp4",
+          "in": 198,
+          "out": 240,
+          "frames": 42,
+          "props": {},
+          "note": "删除切后正立平台",
+          "record": 3710,
+          "ordinal": 2,
+          "name": "B13_GB011-1_02",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 14,
+      "id": "GB011-2",
+      "start": 156.33333333333334,
+      "end": 162.125,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB011-2-H3-v001.mp4",
+      "original_sha256": "4ee1053a705d2081c8943e5d875f226f726d859923d25e618014ecbdfb91a2be",
+      "audit": "孩子撑地无力、转向袍角并抓住的最后挽留可读，与前后落地和滑脱相连。",
+      "action": "保留现有画面，按选定配音与整片时间线对齐。",
+      "status": "保留",
+      "segments": [
+        {
+          "batch": 14,
+          "source_batch": 14,
+          "source": "视频制作/LibTV-H3-v001/产物/GB011-2-H3-v001.mp4",
+          "in": 0,
+          "out": 139,
+          "frames": 139,
+          "props": {},
+          "note": "",
+          "record": 3752,
+          "ordinal": 1,
+          "name": "B14_GB011-2_01",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 15,
+      "id": "GB012",
+      "start": 162.125,
+      "end": 174.125,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB012-H3-v001.mp4",
+      "original_sha256": "231cb13ac8bcde26629a097fd3fc8b5b2bbe29955741c9edb67d1dd3dc8952a2",
+      "audit": "滑脱、登阶、省略路程、火把触柴后蔓延再到受刑反应，关键因果成立；接第16批全火幕也成立。",
+      "action": "保留现有画面，按选定配音与整片时间线对齐。",
+      "status": "保留",
+      "segments": [
+        {
+          "batch": 15,
+          "source_batch": 15,
+          "source": "视频制作/LibTV-H3-v001/产物/GB012-H3-v001.mp4",
+          "in": 0,
+          "out": 288,
+          "frames": 288,
+          "props": {},
+          "note": "",
+          "record": 3891,
+          "ordinal": 1,
+          "name": "B15_GB012_01",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 16,
+      "id": "GB013",
+      "start": 174.125,
+      "end": 186.70833333333334,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB013-H3-v001.mp4",
+      "original_sha256": "746c48a293fea9fc68fc0abb4cbd947676f1ddc8fbe5bc347ee54e8507955da9",
+      "audit": "黑焰—列阵—脚步—门内静默的蓄势成立；末尾踹门方向错误，先试最短接触插镜，失败才局部补拍。",
+      "action": "只保踹门接触，不暴露反向门洞",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 16,
+          "source_batch": 16,
+          "source": "视频制作/LibTV-H3-v001/产物/GB013-H3-v001.mp4",
+          "in": 0,
+          "out": 288,
+          "frames": 288,
+          "props": {},
+          "note": "",
+          "record": 4179,
+          "ordinal": 1,
+          "name": "B16_GB013_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 16,
+          "source_batch": 16,
+          "source": "视频制作/LibTV-H3-v001/产物/GB013-H3-v001.mp4",
+          "in": 296,
+          "out": 310,
+          "frames": 14,
+          "props": {
+            "ZoomX": 1.7,
+            "ZoomY": 1.7,
+            "Pan": -218,
+            "Tilt": 78
+          },
+          "note": "只保踹门接触，不暴露反向门洞",
+          "record": 4467,
+          "ordinal": 2,
+          "name": "B16_GB013_02",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 17,
+      "id": "GB014",
+      "start": 186.70833333333334,
+      "end": 193.20833333333334,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB014-v002.mp4",
+      "original_sha256": "eb1dec11f95e0c66acb17ba4218a89db8820bc69761e6432b8f74d19e9e4525e",
+      "audit": "正门入场和教主分心的叙事有效，门外昼夜不连续必须修。",
+      "action": "门洞天空局部压暗转冷；动态遮罩避开走近人物。",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 17,
+          "source_batch": 17,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB014-v002.mp4",
+          "in": 0,
+          "out": 72,
+          "frames": 72,
+          "props": {},
+          "note": "night_sky",
+          "record": 4481,
+          "ordinal": 1,
+          "name": "B17_GB014_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 17,
+          "source_batch": 17,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB014-v002.mp4",
+          "in": 72,
+          "out": 156,
+          "frames": 84,
+          "props": {},
+          "note": "",
+          "record": 4553,
+          "ordinal": 2,
+          "name": "B17_GB014_02",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 18,
+      "id": "GB014A",
+      "start": 193.20833333333334,
+      "end": 205.5,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB014A-v002.mp4",
+      "original_sha256": "91e23b9cd3e7bc107f826117f458674a72c2e8ee4174ba1e1248c8be77aef461",
+      "audit": "显形、窗外位置、举刃与投出顺序可读；长咏唱段可做轻微节奏优化，无需为动作少而重生。",
+      "action": "保留现有画面，按选定配音与整片时间线对齐。",
+      "status": "保留",
+      "segments": [
+        {
+          "batch": 18,
+          "source_batch": 18,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB014A-v002.mp4",
+          "in": 0,
+          "out": 295,
+          "frames": 295,
+          "props": {},
+          "note": "",
+          "record": 4637,
+          "ordinal": 1,
+          "name": "B18_GB014A_01",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 19,
+      "id": "GB015-1",
+      "start": 205.5,
+      "end": 216.16666666666666,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB015-1-v002.mp4",
+      "original_sha256": "9c7b3b43a3606c58102f3eb315b3f10e36edc08b65cdd83963bac36ed8da4c28",
+      "audit": "破窗—钉柴—瞬移—敌人反应因果完整；中段停顿过长可收紧。",
+      "action": "保留术名，缩瞬移前等待",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 19,
+          "source_batch": 19,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB015-1-v002.mp4",
+          "in": 0,
+          "out": 112,
+          "frames": 112,
+          "props": {},
+          "note": "",
+          "record": 4932,
+          "ordinal": 1,
+          "name": "B19_GB015-1_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 19,
+          "source_batch": 19,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB015-1-v002.mp4",
+          "in": 144,
+          "out": 288,
+          "frames": 144,
+          "props": {},
+          "note": "保留术名，缩瞬移前等待",
+          "record": 5044,
+          "ordinal": 2,
+          "name": "B19_GB015-1_02",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 20,
+      "id": "GB015-2",
+      "start": 216.16666666666666,
+      "end": 220.16666666666666,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB015-2-v003.mp4",
+      "original_sha256": "d4a18713bc48edc12dd1213f35db82102db1eef9612085e3ad4c30be4ee04f6b",
+      "audit": "新合成能清楚读出先完整闭罩、后法术打在外壳，当前四秒主动作成立。",
+      "action": "保留现有画面，按选定配音与整片时间线对齐。",
+      "status": "保留",
+      "segments": [
+        {
+          "batch": 20,
+          "source_batch": 20,
+          "source": "视频制作/Metaso-H3-v003/剪辑候选/GB015-2-v003.mp4",
+          "in": 0,
+          "out": 96,
+          "frames": 96,
+          "props": {},
+          "note": "",
+          "record": 5188,
+          "ordinal": 1,
+          "name": "B20_GB015-2_01",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 21,
+      "id": "GB016-1",
+      "start": 220.16666666666666,
+      "end": 231.45833333333334,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB016-1-v003.mp4",
+      "original_sha256": "42c885212d37905d098162d491d42c21bad6564b4e592cf68840d627fd54805a",
+      "audit": "试腕、撤刀、骑士分两翼、合扇回答均可读；召集回闪入口需要后期明确时态。",
+      "action": "回闪入口加一次“稍早”。",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 21,
+          "source_batch": 21,
+          "source": "视频制作/Metaso-H3-v003/剪辑候选/GB016-1-v003.mp4",
+          "in": 0,
+          "out": 144,
+          "frames": 144,
+          "props": {},
+          "note": "",
+          "record": 5284,
+          "ordinal": 1,
+          "name": "B21_GB016-1_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 21,
+          "source_batch": 21,
+          "source": "视频制作/Metaso-H3-v003/剪辑候选/GB016-1-v003.mp4",
+          "in": 144,
+          "out": 271,
+          "frames": 127,
+          "props": {},
+          "note": "flashback_entry",
+          "record": 5428,
+          "ordinal": 2,
+          "name": "B21_GB016-1_02",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 22,
+      "id": "GB016-2",
+      "start": 231.45833333333334,
+      "end": 234.95833333333334,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB016-2-H3-v001.mp4",
+      "original_sha256": "26291d14109fc9afa4d24215e4f5d5bb02898fda59b5a6ac5f0742f0d499113b",
+      "audit": "双人邀请与回应成立；末尾回书的多余尾巴削弱已经答应同行的落点。",
+      "action": "答应后及时离开，不回书",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 22,
+          "source_batch": 22,
+          "source": "视频制作/LibTV-H3-v001/产物/GB016-2-H3-v001.mp4",
+          "in": 0,
+          "out": 84,
+          "frames": 84,
+          "props": {},
+          "note": "答应后及时离开，不回书",
+          "record": 5555,
+          "ordinal": 1,
+          "name": "B22_GB016-2_01",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 23,
+      "id": "GB017",
+      "start": 234.95833333333334,
+      "end": 241.5,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB017-H3-v001.mp4",
+      "original_sha256": "39e4475b13d263b09d3998761b887f3287a71469a425217f129767295495b68d",
+      "audit": "发射塔回应与月背睁眼均完成所需信息，当前镜头可用；与下一批避免重复唤醒。",
+      "action": "保留现有画面，按选定配音与整片时间线对齐。",
+      "status": "保留",
+      "segments": [
+        {
+          "batch": 23,
+          "source_batch": 23,
+          "source": "视频制作/LibTV-H3-v001/产物/GB017-H3-v001.mp4",
+          "in": 0,
+          "out": 157,
+          "frames": 157,
+          "props": {},
+          "note": "",
+          "record": 5639,
+          "ordinal": 1,
+          "name": "B23_GB017_01",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 24,
+      "id": "GB017R2",
+      "start": 241.5,
+      "end": 250.66666666666666,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB017R2-H3-v001.mp4",
+      "original_sha256": "fc9fd5ccefe4a1dcb70038420f0bf0133f54d90cc42302c8f1021641ed86b643",
+      "audit": "分路对白的双人关系成立，但开场再次闭眼坐起与第 23 批末态重复。",
+      "action": "去掉重复唤醒，画面轻慢放，原声原速",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 24,
+          "source_batch": 24,
+          "source": "视频制作/LibTV-H3-v001/产物/GB017R2-H3-v001.mp4",
+          "in": 34,
+          "out": 243,
+          "frames": 220,
+          "props": {},
+          "note": "去掉重复唤醒，画面轻慢放，原声原速",
+          "record": 5796,
+          "ordinal": 1,
+          "name": "B24_GB017R2_01",
+          "speed": 95.0
+        }
+      ]
+    },
+    {
+      "batch": 25,
+      "id": "GB018",
+      "start": 250.66666666666666,
+      "end": 265.125,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB018-v002.mp4",
+      "original_sha256": "d59c20c26062cc1a8c0280d000f024dddc81ca8dbe16a8218c26103599be7159",
+      "audit": "群像前两秒未亮区域是灰白空版，必须重组；后半抱稳与展翼可保留。",
+      "action": "完整五列做暗列逐显，消除空版；回现场的音乐入口随新切点重排。",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 25,
+          "source_batch": 25,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB018-v002.mp4",
+          "in": 54,
+          "out": 96,
+          "frames": 96,
+          "props": {},
+          "note": "完整五列铺满，不出现空版",
+          "record": 6016,
+          "ordinal": 1,
+          "name": "B25_GB018_01",
+          "speed": 43.75
+        },
+        {
+          "batch": 25,
+          "source_batch": 25,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB018-v002.mp4",
+          "in": 96,
+          "out": 347,
+          "frames": 251,
+          "props": {},
+          "note": "flashback_return",
+          "record": 6112,
+          "ordinal": 2,
+          "name": "B25_GB018_02",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 26,
+      "id": "GB019",
+      "start": 265.125,
+      "end": 280.0,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB019-v002.mp4",
+      "original_sha256": "829a7eb08090a01a840bfbf3e4694c1fb8e2065c6dda6e86e8cd773b47cf203d",
+      "audit": "单叶截击与罩内照顾均可辨，攻击插镜和安抚形成外紧内静的对照，不因两段节奏不同而要求重生。",
+      "action": "保留现有画面，按选定配音与整片时间线对齐。",
+      "status": "保留",
+      "segments": [
+        {
+          "batch": 26,
+          "source_batch": 26,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB019-v002.mp4",
+          "in": 0,
+          "out": 357,
+          "frames": 357,
+          "props": {},
+          "note": "",
+          "record": 6363,
+          "ordinal": 1,
+          "name": "B26_GB019_01",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 27,
+      "id": "GB020-1",
+      "start": 280.0,
+      "end": 286.5416666666667,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB020-1-H3-v001.mp4",
+      "original_sha256": "9a89f6c291f8cdd943e56db5cc1513c0ff650044ac71c787777fa27b228e2496",
+      "audit": "水滴质感和上浮尺度可用，但实际大滴分裂与聚水意图反向，应在后期改掉分裂展示。",
+      "action": "保留完整水滴，避开分裂；聚水省略：稳定水滴接云海，保留全句",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 27,
+          "source_batch": 27,
+          "source": "视频制作/LibTV-H3-v001/产物/GB020-1-H3-v001.mp4",
+          "in": 0,
+          "out": 42,
+          "frames": 60,
+          "props": {},
+          "note": "保留完整水滴，避开分裂",
+          "record": 6720,
+          "ordinal": 1,
+          "name": "B27_GB020-1_01",
+          "speed": 70.0
+        },
+        {
+          "batch": 27,
+          "source_batch": 27,
+          "source": "视频制作/LibTV-H3-v001/产物/GB020-1-H3-v001.mp4",
+          "in": 120,
+          "out": 175,
+          "frames": 97,
+          "props": {
+            "ZoomX": 3.0,
+            "ZoomY": 3.0,
+            "Tilt": -450
+          },
+          "note": "聚水省略：稳定水滴接云海，保留全句",
+          "record": 6780,
+          "ordinal": 2,
+          "name": "B27_GB020-1_02",
+          "speed": 56.70103092783505
+        }
+      ]
+    },
+    {
+      "batch": 28,
+      "id": "GB020-1R2",
+      "start": 286.5416666666667,
+      "end": 296.5416666666667,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB020-1R2-H3-v001.mp4",
+      "original_sha256": "ffce907919bfebf02dbb28bbe4260ae1539e4de4fb60bd856d0e30e0b4289974",
+      "audit": "云旋与水光有规模感，但前景提前出现地面水浪；舍去或重构低处水浪段，保留后段天空。",
+      "action": "取云海后段，弃提前地面水浪",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 28,
+          "source_batch": 28,
+          "source": "视频制作/LibTV-H3-v001/产物/GB020-1R2-H3-v001.mp4",
+          "in": 96,
+          "out": 294,
+          "frames": 240,
+          "props": {},
+          "note": "取云海后段，弃提前地面水浪",
+          "record": 6877,
+          "ordinal": 1,
+          "name": "B28_GB020-1R2_01",
+          "speed": 82.5
+        }
+      ]
+    },
+    {
+      "batch": 29,
+      "id": "GB020-2",
+      "start": 296.5416666666667,
+      "end": 302.125,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB020-2-v002.mp4",
+      "original_sha256": "f832df6facafb561b2d74d9ec66194e13bcaac0a2347375bac74280924ec16be",
+      "audit": "俯冲方向、中央中殿目标和水体冲击可以读懂；慢速下压受咏唱长度约束，暂无必须重生的问题。",
+      "action": "保留现有画面，按选定配音与整片时间线对齐。",
+      "status": "保留",
+      "segments": [
+        {
+          "batch": 29,
+          "source_batch": 29,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB020-2-v002.mp4",
+          "in": 0,
+          "out": 134,
+          "frames": 134,
+          "props": {},
+          "note": "",
+          "record": 7117,
+          "ordinal": 1,
+          "name": "B29_GB020-2_01",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 30,
+      "id": "GB021",
+      "start": 302.125,
+      "end": 313.7083333333333,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB021-v002.mp4",
+      "original_sha256": "8074667586ca0a35d8a0b17d76b3bf2ee35e9d41f11b0f81eddb981244acc29a",
+      "audit": "试踝镜露出 Claude 已垂下的双手，是必须修的剧情连续性硬伤；局部裁切能保留试踝意图，当前不可原样用。",
+      "action": "踝锁特写排除已自由的双手",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 30,
+          "source_batch": 30,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB021-v002.mp4",
+          "in": 0,
+          "out": 36,
+          "frames": 36,
+          "props": {},
+          "note": "",
+          "record": 7251,
+          "ordinal": 1,
+          "name": "B30_GB021_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 30,
+          "source_batch": 30,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB021-v002.mp4",
+          "in": 36,
+          "out": 153,
+          "frames": 117,
+          "props": {
+            "ZoomX": 2.0,
+            "ZoomY": 2.0,
+            "Pan": -580,
+            "Tilt": 352
+          },
+          "note": "踝锁特写排除已自由的双手",
+          "record": 7287,
+          "ordinal": 2,
+          "name": "B30_GB021_02",
+          "speed": 100.0
+        },
+        {
+          "batch": 30,
+          "source_batch": 30,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB021-v002.mp4",
+          "in": 153,
+          "out": 278,
+          "frames": 125,
+          "props": {},
+          "note": "",
+          "record": 7404,
+          "ordinal": 3,
+          "name": "B30_GB021_03",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 31,
+      "id": "GB022-1",
+      "start": 313.7083333333333,
+      "end": 324.7083333333333,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB022-1-v002.mp4",
+      "original_sha256": "53d4bf45b1dd79ae8ec60154d1890c015c53f1c9916848704e211cbde9db0d87",
+      "audit": "术名与出击之间蓄势偏长，水龙调度本身可读。",
+      "action": "保留祈愿与0.8秒留白，术名后直接解印",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 31,
+          "source_batch": 31,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB022-1-v002.mp4",
+          "in": 0,
+          "out": 228,
+          "frames": 228,
+          "props": {},
+          "note": "",
+          "record": 7529,
+          "ordinal": 1,
+          "name": "B31_GB022-1_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 31,
+          "source_batch": 31,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB022-1-v002.mp4",
+          "in": 288,
+          "out": 324,
+          "frames": 36,
+          "props": {},
+          "note": "保留祈愿与0.8秒留白，术名后直接解印",
+          "record": 7757,
+          "ordinal": 2,
+          "name": "B31_GB022-1_02",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 32,
+      "id": "GB022-2",
+      "start": 324.7083333333333,
+      "end": 329.7083333333333,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB022-2-v002.mp4",
+      "original_sha256": "f9f63eba76d9c106ce2337e5ef65f9025bc3a54e182a8aa4d2c931cc622015ab",
+      "audit": "水首与金罩直接接触，压力和后续化水成立。",
+      "action": "保留现有画面，按选定配音与整片时间线对齐。",
+      "status": "保留",
+      "segments": [
+        {
+          "batch": 32,
+          "source_batch": 32,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB022-2-v002.mp4",
+          "in": 0,
+          "out": 120,
+          "frames": 120,
+          "props": {},
+          "note": "",
+          "record": 7793,
+          "ordinal": 1,
+          "name": "B32_GB022-2_01",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 33,
+      "id": "GB023",
+      "start": 329.7083333333333,
+      "end": 340.2083333333333,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v001\\产物\\GB023-Metaso-H3-v001.mp4",
+      "original_sha256": "2745f22398129130375faff59ab3421926022510740b4b82eac8531fa15a78c5",
+      "audit": "清场、罩内安抚与落地因果可读，但教徒失手动作偏弱。",
+      "action": "余波接空殿，省略未实现的抓空",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 33,
+          "source_batch": 33,
+          "source": "视频制作\\Metaso-H3-v001\\产物\\GB023-Metaso-H3-v001.mp4",
+          "in": 0,
+          "out": 36,
+          "frames": 36,
+          "props": {},
+          "note": "",
+          "record": 7913,
+          "ordinal": 1,
+          "name": "B33_GB023_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 33,
+          "source_batch": 33,
+          "source": "视频制作\\Metaso-H3-v001\\产物\\GB023-Metaso-H3-v001.mp4",
+          "in": 72,
+          "out": 288,
+          "frames": 216,
+          "props": {},
+          "note": "余波接空殿，省略未实现的抓空",
+          "record": 7949,
+          "ordinal": 2,
+          "name": "B33_GB023_02",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 34,
+      "id": "GB024",
+      "start": 340.2083333333333,
+      "end": 354.125,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB024-v002.mp4",
+      "original_sha256": "37a61bdb6d6c1adeb6828eaab6dc9623d5deec39c3a3bec4a32b97881499f495",
+      "audit": "正反打、单一主体化龙及沿既有破顶上升连续成立。",
+      "action": "保留现有画面，按选定配音与整片时间线对齐。",
+      "status": "保留",
+      "segments": [
+        {
+          "batch": 34,
+          "source_batch": 34,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB024-v002.mp4",
+          "in": 0,
+          "out": 334,
+          "frames": 334,
+          "props": {},
+          "note": "",
+          "record": 8165,
+          "ordinal": 1,
+          "name": "B34_GB024_01",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 35,
+      "id": "GB025",
+      "start": 354.125,
+      "end": 367.125,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v001\\产物\\GB025-Metaso-H3-v001.mp4",
+      "original_sha256": "6a916277319e8545f0b1fe6ccc2b3f3781fff6c6a10a20e1fbde249031634725",
+      "audit": "天空省略战斗和外敌逼近结构成立；瞳内龙影过满，情绪反应偏长。",
+      "action": "异常眼段全部移除，换普通小鱼反应；雨空单独慢放，雨地与骑士保持原切点。",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 35,
+          "source_batch": 35,
+          "source": "视频制作\\Metaso-H3-v001\\产物\\GB025-Metaso-H3-v001.mp4",
+          "in": 0,
+          "out": 48,
+          "frames": 48,
+          "props": {},
+          "note": "",
+          "record": 8499,
+          "ordinal": 1,
+          "name": "B35_GB025_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 35,
+          "source_batch": 39,
+          "source": "视频制作/Metaso-H3-v003/剪辑候选/GB029-v003.mp4",
+          "in": 264,
+          "out": 312,
+          "frames": 48,
+          "props": {},
+          "note": "用现有小鱼仰望反应替换异能眼特写",
+          "record": 8547,
+          "ordinal": 2,
+          "name": "B35_GB025_02",
+          "speed": 100.0
+        },
+        {
+          "batch": 35,
+          "source_batch": 35,
+          "source": "视频制作\\Metaso-H3-v001\\产物\\GB025-Metaso-H3-v001.mp4",
+          "in": 166,
+          "out": 255,
+          "frames": 135,
+          "props": {},
+          "note": "完整剔除异常虹膜残帧，仅雨空温和慢放",
+          "record": 8595,
+          "ordinal": 3,
+          "name": "B35_GB025_03",
+          "speed": 65.92592592592592
+        },
+        {
+          "batch": 35,
+          "source_batch": 35,
+          "source": "视频制作\\Metaso-H3-v001\\产物\\GB025-Metaso-H3-v001.mp4",
+          "in": 255,
+          "out": 336,
+          "frames": 81,
+          "props": {},
+          "note": "",
+          "record": 8730,
+          "ordinal": 4,
+          "name": "B35_GB025_04",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 36,
+      "id": "GB026",
+      "start": 367.125,
+      "end": 378.125,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB026-v002.mp4",
+      "original_sha256": "b24db4f03ed8517a52a6d20dca78bcedd611b4f6c40c35731b6a5ad7ec157819",
+      "audit": "守门、战斗省略、胜负与钥匙因果清楚；守门镜仍偏展示阵容。",
+      "action": "收紧守门阵列展示",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 36,
+          "source_batch": 36,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB026-v002.mp4",
+          "in": 0,
+          "out": 48,
+          "frames": 48,
+          "props": {},
+          "note": "",
+          "record": 8811,
+          "ordinal": 1,
+          "name": "B36_GB026_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 36,
+          "source_batch": 36,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB026-v002.mp4",
+          "in": 72,
+          "out": 288,
+          "frames": 216,
+          "props": {},
+          "note": "收紧守门阵列展示",
+          "record": 8859,
+          "ordinal": 2,
+          "name": "B36_GB026_02",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 37,
+      "id": "GB027",
+      "start": 378.125,
+      "end": 392.3333333333333,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB027-v002.mp4",
+      "original_sha256": "af76dea9258613e1a8769b6f0809c9e89df2282bc689cde20e26fce821ee7258",
+      "audit": "钥匙到解锁再迈下动作成立；末镜焦边、领口与头纱连续性必须修。",
+      "action": "旧批前8秒解锁保留，仅CY028A换入新拍0–6.208秒。",
+      "status": "单镜补拍并采用",
+      "segments": [
+        {
+          "batch": 37,
+          "source_batch": 37,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB027-v002.mp4",
+          "in": 0,
+          "out": 192,
+          "frames": 192,
+          "props": {},
+          "note": "",
+          "record": 9075,
+          "ordinal": 1,
+          "name": "B37_GB027_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 37,
+          "source_batch": 37,
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v004\\产物\\GB027-v004-CY028A-r1.mp4",
+          "in": 0,
+          "out": 149,
+          "frames": 149,
+          "props": {},
+          "note": "CY028A单镜H3补拍；只替换扶下6.208秒",
+          "record": 9267,
+          "ordinal": 2,
+          "name": "B37_GB027_02",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 38,
+      "id": "GB028",
+      "start": 392.3333333333333,
+      "end": 406.5833333333333,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB028-v002.mp4",
+      "original_sha256": "424f2d259097f98c4ce77312467eed8cef4354badb2fe938b9fc64e6548e99f6",
+      "audit": "小鱼安好、初蓄、父亲打断可读；眼内倒影过于图标化。",
+      "action": "图标式眼内倒影换父亲实景反打，保留被打断后的停顿。",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 38,
+          "source_batch": 38,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB028-v002.mp4",
+          "in": 0,
+          "out": 156,
+          "frames": 156,
+          "props": {},
+          "note": "",
+          "record": 9416,
+          "ordinal": 1,
+          "name": "B38_GB028_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 38,
+          "source_batch": 39,
+          "source": "视频制作/Metaso-H3-v003/剪辑候选/GB029-v003.mp4",
+          "in": 66,
+          "out": 108,
+          "frames": 42,
+          "props": {},
+          "note": "用父亲反应替换图标式眼内倒影",
+          "record": 9572,
+          "ordinal": 2,
+          "name": "B38_GB028_02",
+          "speed": 100.0
+        },
+        {
+          "batch": 38,
+          "source_batch": 38,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB028-v002.mp4",
+          "in": 198,
+          "out": 341,
+          "frames": 144,
+          "props": {},
+          "note": "",
+          "record": 9614,
+          "ordinal": 3,
+          "name": "B38_GB028_03",
+          "speed": 99.30555555555556
+        }
+      ]
+    },
+    {
+      "batch": 39,
+      "id": "GB029",
+      "start": 406.5833333333333,
+      "end": 418.1666666666667,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB029-v003.mp4",
+      "original_sha256": "9c56d68d82a584a9848d7e6ec26e5d00f51f89eb375cc30a66008d16c24f65c2",
+      "audit": "Claude的继续选择、父亲失落及单枚火种形成可读，小鱼末尾偏望向摄影机。",
+      "action": "保留完整台词，缩小鱼望镜头尾停",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 39,
+          "source_batch": 39,
+          "source": "视频制作/Metaso-H3-v003/剪辑候选/GB029-v003.mp4",
+          "in": 0,
+          "out": 278,
+          "frames": 278,
+          "props": {},
+          "note": "保留完整台词，缩小鱼望镜头尾停",
+          "record": 9758,
+          "ordinal": 1,
+          "name": "B39_GB029_01",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 40,
+      "id": "GB030-1",
+      "start": 418.1666666666667,
+      "end": 431.5416666666667,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB030-1-v003.mp4",
+      "original_sha256": "1a571dad4fff4511de3f8f9f7e854a3ec2dd2490e604a463b1c419f5ff065e08",
+      "audit": "释放、小火种主观推进、刑架独燃与接住完整可读；触木切点还可加强。",
+      "action": "触木切点前两帧加入局部暖光；独立点燃音效仍待声音制作。",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 40,
+          "source_batch": 40,
+          "source": "视频制作/Metaso-H3-v003/剪辑候选/GB030-1-v003.mp4",
+          "in": 0,
+          "out": 321,
+          "frames": 321,
+          "props": {},
+          "note": "",
+          "record": 10036,
+          "ordinal": 1,
+          "name": "B40_GB030-1_01",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 41,
+      "id": "GB030-2",
+      "start": 431.5416666666667,
+      "end": 434.5416666666667,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v001\\产物\\GB030-2-Metaso-H3-v001.mp4",
+      "original_sha256": "0c960e9397f1e03b2574a3c95ecee4ef741a441cf7875c73ec431ae3f11d13e6",
+      "audit": "完整起抱成立，但现5.17秒片需收回预定3秒并装配最终声音。",
+      "action": "连续承重到站稳",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 41,
+          "source_batch": 41,
+          "source": "视频制作\\Metaso-H3-v001\\产物\\GB030-2-Metaso-H3-v001.mp4",
+          "in": 12,
+          "out": 84,
+          "frames": 72,
+          "props": {},
+          "note": "连续承重到站稳",
+          "record": 10357,
+          "ordinal": 1,
+          "name": "B41_GB030-2_01",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 42,
+      "id": "GB031",
+      "start": 434.5416666666667,
+      "end": 442.5416666666667,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB031-v002.mp4",
+      "original_sha256": "75629bb060f76e40b04484f590c59c6bb62887e1516a9a6fda49c0643e23a1e9",
+      "audit": "抱着离殿及数日后长椅转换明确；出口新出现的大火盆应去除。",
+      "action": "保留空刑架火光下的近景；删去新增火盆的离殿远景，接“数日后”长椅。",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 42,
+          "source_batch": 42,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB031-v002.mp4",
+          "in": 0,
+          "out": 72,
+          "frames": 72,
+          "props": {},
+          "note": "",
+          "record": 10429,
+          "ordinal": 1,
+          "name": "B42_GB031_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 42,
+          "source_batch": 42,
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB031-v002.mp4",
+          "in": 216,
+          "out": 336,
+          "frames": 120,
+          "props": {},
+          "note": "days_later",
+          "record": 10501,
+          "ordinal": 2,
+          "name": "B42_GB031_02",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 43,
+      "id": "GB032",
+      "start": 442.5416666666667,
+      "end": 451.6666666666667,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v001\\产物\\GB032-Metaso-H3-v001.mp4",
+      "original_sha256": "bdee79792ea4a114c74b451135bc79d41acf106c5d8c7fd2bd3561d74c7b7bba",
+      "audit": "落座、邀请、单勺交接与同伴热饮总体成立，局部节奏需按实际镜界回配。",
+      "action": "交勺后去重复停顿",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 43,
+          "source_batch": 43,
+          "source": "视频制作\\Metaso-H3-v001\\产物\\GB032-Metaso-H3-v001.mp4",
+          "in": 0,
+          "out": 108,
+          "frames": 108,
+          "props": {},
+          "note": "",
+          "record": 10621,
+          "ordinal": 1,
+          "name": "B43_GB032_01",
+          "speed": 100.0
+        },
+        {
+          "batch": 43,
+          "source_batch": 43,
+          "source": "视频制作\\Metaso-H3-v001\\产物\\GB032-Metaso-H3-v001.mp4",
+          "in": 108,
+          "out": 154,
+          "frames": 46,
+          "props": {},
+          "note": "",
+          "record": 10729,
+          "ordinal": 2,
+          "name": "B43_GB032_02",
+          "speed": 100.0
+        },
+        {
+          "batch": 43,
+          "source_batch": 43,
+          "source": "视频制作\\Metaso-H3-v001\\产物\\GB032-Metaso-H3-v001.mp4",
+          "in": 178,
+          "out": 243,
+          "frames": 65,
+          "props": {},
+          "note": "交勺后去重复停顿",
+          "record": 10775,
+          "ordinal": 3,
+          "name": "B43_GB032_03",
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "batch": 44,
+      "id": "GB033",
+      "start": 451.6666666666667,
+      "end": 460.6666666666667,
+      "original": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v001\\产物\\GB033-Metaso-H3-v001.mp4",
+      "original_sha256": "1af234e7c15ccae323ccfaa00995204f1837691b345fea5b17f6b6258b1c5b57",
+      "audit": "第一口饭与两人相望成立，进食特写偏慢，占掉应留给关系的尾声。",
+      "action": "保留入口合唇空勺退出；把余量留给相望，末4秒无BGM",
+      "status": "后期修订",
+      "segments": [
+        {
+          "batch": 44,
+          "source_batch": 44,
+          "source": "视频制作\\Metaso-H3-v001\\产物\\GB033-Metaso-H3-v001.mp4",
+          "in": 0,
+          "out": 103,
+          "frames": 66,
+          "props": {},
+          "note": "保留入口合唇空勺退出",
+          "record": 10840,
+          "ordinal": 1,
+          "name": "B44_GB033_01",
+          "speed": 156.06060606060606
+        },
+        {
+          "batch": 44,
+          "source_batch": 44,
+          "source": "视频制作\\Metaso-H3-v001\\产物\\GB033-Metaso-H3-v001.mp4",
+          "in": 103,
+          "out": 226,
+          "frames": 150,
+          "props": {},
+          "note": "把余量留给相望，末4秒无BGM",
+          "record": 10906,
+          "ordinal": 2,
+          "name": "B44_GB033_02",
+          "speed": 82.0
+        }
+      ]
+    }
+  ]
+}

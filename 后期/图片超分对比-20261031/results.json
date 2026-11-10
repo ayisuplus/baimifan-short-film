@@ -1,0 +1,454 @@
+[
+  {
+    "sample": "closeup",
+    "method": "realesrgan",
+    "prompt_id": "14eef8ab-8132-4619-87bf-f4bed6c353f3",
+    "status": "completed",
+    "elapsed_seconds": 4.316,
+    "output": "outputs\\closeup_realesrgan.png",
+    "output_size": [
+      3840,
+      2162
+    ],
+    "output_sha256": "aa02694ec741fa46fce9086d4efb3ea2d1cbfbffba73c6d97d140f3054d86c7e",
+    "native_outputs": {
+      "6": {
+        "images": [
+          {
+            "filename": "closeup_realesrgan_00001_.png",
+            "subfolder": "Baimifan\\Upscale_20261031",
+            "type": "output"
+          }
+        ]
+      }
+    },
+    "execution_messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "14eef8ab-8132-4619-87bf-f4bed6c353f3",
+          "timestamp": 1793427170109
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [],
+          "prompt_id": "14eef8ab-8132-4619-87bf-f4bed6c353f3",
+          "timestamp": 1793427170121
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "14eef8ab-8132-4619-87bf-f4bed6c353f3",
+          "timestamp": 1793427174425
+        }
+      ]
+    ]
+  },
+  {
+    "sample": "closeup",
+    "method": "seedvr2",
+    "prompt_id": "c306b9e4-5f0a-433b-82a0-f2c23f4611d4",
+    "status": "completed",
+    "elapsed_seconds": 26.062,
+    "output": "outputs\\closeup_seedvr2.png",
+    "output_size": [
+      3840,
+      2162
+    ],
+    "output_sha256": "4a6b6c5756534f3fbe1d9c06e282d3b2d05c99a68fa029661c87bd6cb04088fe",
+    "native_outputs": {
+      "6": {
+        "images": [
+          {
+            "filename": "closeup_seedvr2_00001_.png",
+            "subfolder": "Baimifan\\Upscale_20261031",
+            "type": "output"
+          }
+        ]
+      }
+    },
+    "execution_messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "c306b9e4-5f0a-433b-82a0-f2c23f4611d4",
+          "timestamp": 1793427193555
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [
+            "1"
+          ],
+          "prompt_id": "c306b9e4-5f0a-433b-82a0-f2c23f4611d4",
+          "timestamp": 1793427193561
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "c306b9e4-5f0a-433b-82a0-f2c23f4611d4",
+          "timestamp": 1793427219617
+        }
+      ]
+    ]
+  },
+  {
+    "sample": "closeup",
+    "method": "rtx",
+    "prompt_id": "43d888da-a229-4f80-8db6-360e357f8d65",
+    "status": "completed",
+    "elapsed_seconds": 1.757,
+    "output": "outputs\\closeup_rtx.png",
+    "output_size": [
+      3840,
+      2162
+    ],
+    "output_sha256": "6b9548781fcddad1bf44a8446b4c84aa4ab56d4ea46ef116970fab17b887c65b",
+    "native_outputs": {
+      "6": {
+        "images": [
+          {
+            "filename": "closeup_rtx_00001_.png",
+            "subfolder": "Baimifan\\Upscale_20261031",
+            "type": "output"
+          }
+        ]
+      }
+    },
+    "execution_messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "43d888da-a229-4f80-8db6-360e357f8d65",
+          "timestamp": 1793427220359
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [
+            "1"
+          ],
+          "prompt_id": "43d888da-a229-4f80-8db6-360e357f8d65",
+          "timestamp": 1793427220366
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "43d888da-a229-4f80-8db6-360e357f8d65",
+          "timestamp": 1793427222116
+        }
+      ]
+    ]
+  },
+  {
+    "sample": "fullbody",
+    "method": "realesrgan",
+    "prompt_id": "f4089e73-8543-49ec-b723-ea1957ae7557",
+    "status": "completed",
+    "elapsed_seconds": 3.372,
+    "output": "outputs\\fullbody_realesrgan.png",
+    "output_size": [
+      3840,
+      1646
+    ],
+    "output_sha256": "a2b7b69bb491ebd5b9fcc36c99b7f9def56d34565b19157cc92e7da2ddd8d1f3",
+    "native_outputs": {
+      "6": {
+        "images": [
+          {
+            "filename": "fullbody_realesrgan_00001_.png",
+            "subfolder": "Baimifan\\Upscale_20261031",
+            "type": "output"
+          }
+        ]
+      }
+    },
+    "execution_messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "f4089e73-8543-49ec-b723-ea1957ae7557",
+          "timestamp": 1793427238943
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [
+            "2"
+          ],
+          "prompt_id": "f4089e73-8543-49ec-b723-ea1957ae7557",
+          "timestamp": 1793427238952
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "f4089e73-8543-49ec-b723-ea1957ae7557",
+          "timestamp": 1793427242315
+        }
+      ]
+    ]
+  },
+  {
+    "sample": "fullbody",
+    "method": "seedvr2",
+    "prompt_id": "05bb044d-38d8-441d-9a34-1caecc20cc18",
+    "status": "completed",
+    "elapsed_seconds": 17.512,
+    "output": "outputs\\fullbody_seedvr2.png",
+    "output_size": [
+      3840,
+      1646
+    ],
+    "output_sha256": "78d5a34df2ab81e02c2e6a793e816201627283133bfea3233caeb8b727e1484c",
+    "native_outputs": {
+      "6": {
+        "images": [
+          {
+            "filename": "fullbody_seedvr2_00001_.png",
+            "subfolder": "Baimifan\\Upscale_20261031",
+            "type": "output"
+          }
+        ]
+      }
+    },
+    "execution_messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "05bb044d-38d8-441d-9a34-1caecc20cc18",
+          "timestamp": 1793427242832
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [
+            "1",
+            "2",
+            "4"
+          ],
+          "prompt_id": "05bb044d-38d8-441d-9a34-1caecc20cc18",
+          "timestamp": 1793427242844
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "05bb044d-38d8-441d-9a34-1caecc20cc18",
+          "timestamp": 1793427260344
+        }
+      ]
+    ]
+  },
+  {
+    "sample": "fullbody",
+    "method": "rtx",
+    "prompt_id": "b3f309d7-dd80-4331-ab8e-ac9c2a511b36",
+    "status": "completed",
+    "elapsed_seconds": 1.001,
+    "output": "outputs\\fullbody_rtx.png",
+    "output_size": [
+      3840,
+      1646
+    ],
+    "output_sha256": "2a4cad4d6fc9c8172e5b64ea4a7488cfda7be2c6d6a4ef14b4f332d144cadfe8",
+    "native_outputs": {
+      "6": {
+        "images": [
+          {
+            "filename": "fullbody_rtx_00001_.png",
+            "subfolder": "Baimifan\\Upscale_20261031",
+            "type": "output"
+          }
+        ]
+      }
+    },
+    "execution_messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "b3f309d7-dd80-4331-ab8e-ac9c2a511b36",
+          "timestamp": 1793427260804
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [
+            "1"
+          ],
+          "prompt_id": "b3f309d7-dd80-4331-ab8e-ac9c2a511b36",
+          "timestamp": 1793427260810
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "b3f309d7-dd80-4331-ab8e-ac9c2a511b36",
+          "timestamp": 1793427261805
+        }
+      ]
+    ]
+  },
+  {
+    "sample": "palace",
+    "method": "realesrgan",
+    "prompt_id": "2d98c163-057e-4df0-8068-14f121ca8d34",
+    "status": "completed",
+    "elapsed_seconds": 3.972,
+    "output": "outputs\\palace_realesrgan.png",
+    "output_size": [
+      3840,
+      2162
+    ],
+    "output_sha256": "8d916dc284a136e7f37fad55ef97e1388c89bc4949011fe2a52b270b2d7e8731",
+    "native_outputs": {
+      "6": {
+        "images": [
+          {
+            "filename": "palace_realesrgan_00001_.png",
+            "subfolder": "Baimifan\\Upscale_20261031",
+            "type": "output"
+          }
+        ]
+      }
+    },
+    "execution_messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "2d98c163-057e-4df0-8068-14f121ca8d34",
+          "timestamp": 1793427261821
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [
+            "2"
+          ],
+          "prompt_id": "2d98c163-057e-4df0-8068-14f121ca8d34",
+          "timestamp": 1793427261847
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "2d98c163-057e-4df0-8068-14f121ca8d34",
+          "timestamp": 1793427265793
+        }
+      ]
+    ]
+  },
+  {
+    "sample": "palace",
+    "method": "seedvr2",
+    "prompt_id": "3ac408ee-fbf5-485d-bc3b-3513c6e079d8",
+    "status": "completed",
+    "elapsed_seconds": 19.574,
+    "output": "outputs\\palace_seedvr2.png",
+    "output_size": [
+      3840,
+      2162
+    ],
+    "output_sha256": "f92f33017d23add88cca67be1fc114d90bdf6cffeb40f4f4f1165bf4d41948e5",
+    "native_outputs": {
+      "6": {
+        "images": [
+          {
+            "filename": "palace_seedvr2_00001_.png",
+            "subfolder": "Baimifan\\Upscale_20261031",
+            "type": "output"
+          }
+        ]
+      }
+    },
+    "execution_messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "3ac408ee-fbf5-485d-bc3b-3513c6e079d8",
+          "timestamp": 1793427265795
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [
+            "1",
+            "2",
+            "4"
+          ],
+          "prompt_id": "3ac408ee-fbf5-485d-bc3b-3513c6e079d8",
+          "timestamp": 1793427265801
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "3ac408ee-fbf5-485d-bc3b-3513c6e079d8",
+          "timestamp": 1793427285369
+        }
+      ]
+    ]
+  },
+  {
+    "sample": "palace",
+    "method": "rtx",
+    "prompt_id": "77b02fd3-4bd0-48b5-838c-491e33023743",
+    "status": "completed",
+    "elapsed_seconds": 1.492,
+    "output": "outputs\\palace_rtx.png",
+    "output_size": [
+      3840,
+      2162
+    ],
+    "output_sha256": "7bb849c67936e321002a9f229e67b643edef725128a0189045c0e384d500d3cb",
+    "native_outputs": {
+      "6": {
+        "images": [
+          {
+            "filename": "palace_rtx_00001_.png",
+            "subfolder": "Baimifan\\Upscale_20261031",
+            "type": "output"
+          }
+        ]
+      }
+    },
+    "execution_messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "77b02fd3-4bd0-48b5-838c-491e33023743",
+          "timestamp": 1793427285786
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [
+            "1"
+          ],
+          "prompt_id": "77b02fd3-4bd0-48b5-838c-491e33023743",
+          "timestamp": 1793427285791
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "77b02fd3-4bd0-48b5-838c-491e33023743",
+          "timestamp": 1793427287278
+        }
+      ]
+    ]
+  }
+]

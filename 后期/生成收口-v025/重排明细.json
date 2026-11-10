@@ -1,0 +1,91 @@
+{
+  "old_seconds": 483.22,
+  "new_seconds": 490.022729,
+  "changed_shots": [
+    {
+      "shot_id": "CY003",
+      "title": "第一次邀请",
+      "old_seconds": 3,
+      "new_seconds": 3.98,
+      "reason": "完整新版日语原速＋必要交接/动作留白"
+    },
+    {
+      "shot_id": "CY003B",
+      "title": "眼底的小小来客",
+      "old_seconds": 4,
+      "new_seconds": 4.692729,
+      "reason": "完整新版日语原速＋必要交接/动作留白"
+    },
+    {
+      "shot_id": "CY021A",
+      "title": "教主接过火把",
+      "old_seconds": 5,
+      "new_seconds": 7.9,
+      "reason": "完整新版日语原速＋必要交接/动作留白"
+    },
+    {
+      "shot_id": "CY026D1",
+      "title": "月背睁眼",
+      "old_seconds": 2,
+      "new_seconds": 2.54,
+      "reason": "完整新版日语原速＋必要交接/动作留白"
+    },
+    {
+      "shot_id": "CY026D",
+      "title": "月背约定，两路救援",
+      "old_seconds": 7.47,
+      "new_seconds": 9.16,
+      "reason": "完整新版日语原速＋必要交接/动作留白"
+    }
+  ],
+  "old_batches": 43,
+  "new_batches": 44,
+  "batch_parents": {
+    "GB001": "GB001",
+    "GB002": "GB002",
+    "GB003": "GB003",
+    "GB004": "GB004",
+    "GB004M": "GB004M",
+    "GB005": "GB005",
+    "GB006": "GB006",
+    "GB007": "GB007",
+    "GB008": "GB008",
+    "GB008R2": "GB008R2",
+    "GB009": "GB009",
+    "GB010": "GB010",
+    "GB011-1": "GB011-1",
+    "GB011-2": "GB011-2",
+    "GB012": "GB012",
+    "GB013": "GB013",
+    "GB014": "GB014",
+    "GB014A": "GB014A",
+    "GB015-1": "GB015-1",
+    "GB015-2": "GB015-2",
+    "GB016-1": "GB016-1",
+    "GB016-2": "GB016-2",
+    "GB017": "GB017",
+    "GB017R2": "GB017",
+    "GB018": "GB018",
+    "GB019": "GB019",
+    "GB020-1": "GB020-1",
+    "GB020-1R2": "GB020-1R2",
+    "GB020-2": "GB020-2",
+    "GB021": "GB021",
+    "GB022-1": "GB022-1",
+    "GB022-2": "GB022-2",
+    "GB023": "GB023",
+    "GB024": "GB024",
+    "GB025": "GB025",
+    "GB026": "GB026",
+    "GB027": "GB027",
+    "GB028": "GB028",
+    "GB029": "GB029",
+    "GB030-1": "GB030-1",
+    "GB030-2": "GB030-2",
+    "GB031": "GB031",
+    "GB032": "GB032",
+    "GB033": "GB033"
+  },
+  "images_unchanged": true,
+  "full_dry_events": 63
+}

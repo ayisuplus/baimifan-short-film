@@ -1,0 +1,3337 @@
+{
+  "status": "v025_selected_audio_aligned_pending_review",
+  "source": "镜头设计/shot-plan-v0.65.json",
+  "source_sha256": "c50ebf637c25285f32a13c7d9da0347355b172800ab7977157a23f9a3a54b253",
+  "old_duration": 483.22,
+  "new_duration": 490.022729,
+  "duration_delta": 6.802729,
+  "policy": {
+    "mix_instruction": "63条完整新版干声各一次；母版只留溯源不叠加。句内原始停顿保留，句间根据镜头留白；禁止变速或截尾。"
+  },
+  "masters": [],
+  "previous_masters_provenance": [
+    {
+      "id": "Kimi",
+      "path": "后期/日语配音修正-v004/母版/母版-Kimi月影渡-连续咏唱-v004.wav",
+      "sha256": "6049c8069e1786888dc6cd87ca0ab451c2c0b64873a6823081d0aa9b28706c6e",
+      "rate": 1,
+      "segments": [
+        {
+          "file_in": 0.0,
+          "file_out": 2.2,
+          "timeline_start": 190.3,
+          "timeline_end": 192.5
+        },
+        {
+          "file_in": 2.2,
+          "file_out": 5.9,
+          "timeline_start": 197.8,
+          "timeline_end": 201.5
+        },
+        {
+          "file_in": 5.9,
+          "file_out": 9.880042,
+          "timeline_start": 201.5,
+          "timeline_end": 205.480042
+        },
+        {
+          "file_in": 9.880042,
+          "file_out": 10.810042,
+          "timeline_start": 207.3,
+          "timeline_end": 208.23
+        }
+      ],
+      "boundary_status": "干声2.20/3.70/3.98/0.93自然拼接实测10.81s（按48k精确样本计），无额外间隔；术名独立成段；末段尾部静音常规修剪。"
+    },
+    {
+      "id": "GPT",
+      "path": "后期/日语配音修正-v003/母版/母版-GPT沧海天倾-连续咏唱-v003.wav",
+      "sha256": "5e8d5aba1ac4dd47586db8a1dddd6033d60c7055e887161937155c24b8683ceb",
+      "rate": 1,
+      "segments": [
+        {
+          "file_in": 0.0,
+          "file_out": 47.99,
+          "timeline_start": 259.59,
+          "timeline_end": 307.58
+        },
+        {
+          "file_in": 47.99,
+          "file_out": 52.03,
+          "timeline_start": 307.58,
+          "timeline_end": 311.62
+        },
+        {
+          "file_in": 52.03,
+          "file_out": 53.49,
+          "timeline_start": 312.42,
+          "timeline_end": 313.88
+        }
+      ],
+      "boundary_status": "语音簇实测：1–9句0–47.99，祈愿47.99–52.03，术名52.03–53.09（尾静音至53.49常规修剪）；0.8s祈愿空窗在时间线311.62–312.42。"
+    },
+    {
+      "id": "Claude",
+      "path": "后期/日语配音修正-v003/母版/母版-Claude星火-连续咏唱-v003.wav",
+      "sha256": "3c5291983eb1c3004986e8c7ddfa654c7603ae3130c398852e87b4d4b9d883c2",
+      "rate": 1,
+      "segments": [
+        {
+          "file_in": 0.0,
+          "file_out": 22.9,
+          "timeline_start": 390.49,
+          "timeline_end": 413.39
+        }
+      ],
+      "boundary_status": "前段+中段+6s教主占位停顿+后段；实测22.91s，末段22.90为尾部静音常规修剪；教主干声独立混入占位静音区。"
+    }
+  ],
+  "cues": [
+    {
+      "id": "VO-CY003-01",
+      "role": "小鱼",
+      "shot_id": "CY003",
+      "text_ja": "少し食べる？",
+      "file": "后期/日语配音交接-v001/试音候选-v001/VO-CY003-01__Xiaoyu__ja__v001-trialA.wav",
+      "sha256": "d16b4d027f5979490b51df619ef2588d96299fa7780318465e9066dacfdea92c",
+      "file_in": 0,
+      "file_out": 3.08,
+      "rate": 1,
+      "timeline_start": 9.8,
+      "timeline_end": 12.88,
+      "shot_relative_start": 0.8,
+      "shot_relative_end": 3.88,
+      "visual_shots": [
+        "CY003"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY003B-01",
+      "role": "Claude",
+      "shot_id": "CY003B",
+      "text_ja": "ありがとう。でも、私……",
+      "file": "后期/日语配音修正-v005/干声/VO-CY003B-01__Claude__ja__v005.wav",
+      "sha256": "be47da3f7db58f461a22bac4a2f44e4b35d424ef336a91165e5b5a9aa0a7d7e5",
+      "file_in": 0,
+      "file_out": 3.1527291666666666,
+      "rate": 1,
+      "timeline_start": 16.48,
+      "timeline_end": 19.632729,
+      "shot_relative_start": 1.5,
+      "shot_relative_end": 4.652729,
+      "visual_shots": [
+        "CY003B"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY004-01",
+      "role": "教徒",
+      "shot_id": "CY004",
+      "text_ja": "今宵、クロードを火の供物に。",
+      "file": "后期/日语配音交接-v001/试音候选-v001/VO-CY004-01__Cultist__ja__v001-trial.wav",
+      "sha256": "c374e54c0584c92951c7a268e3cc08969429963a53a8d16bd66346a1974c0949",
+      "file_in": 0,
+      "file_out": 5.0,
+      "rate": 1,
+      "timeline_start": 22.072729,
+      "timeline_end": 27.072729,
+      "shot_relative_start": 0.4,
+      "shot_relative_end": 5.4,
+      "visual_shots": [
+        "CY004"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY004D-01",
+      "role": "GPT",
+      "shot_id": "CY004D",
+      "text_ja": "通してあげて。",
+      "file": "后期/日语配音交接-v001/试音候选-v001/VO-CY004D-01__GPT__ja__v001-candA.wav",
+      "sha256": "b5e105924623128798c4128731ea0cafc38a941f538b0dcbf94664f3443250d6",
+      "file_in": 0,
+      "file_out": 2.2,
+      "rate": 1,
+      "timeline_start": 34.672729,
+      "timeline_end": 36.872729,
+      "shot_relative_start": 0,
+      "shot_relative_end": 2.2,
+      "visual_shots": [
+        "CY004D"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY006-01",
+      "role": "小鱼",
+      "shot_id": "CY006",
+      "text_ja": "今夜、クロードが焼き殺されちゃう。助けてくれる？",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY006-01__Xiaoyu__ja__v001.wav",
+      "sha256": "fb26f19b10a8a9e26edfb5420bdc42f647ff8e2c10ca96a9d4ffb73e035f2349",
+      "file_in": 0,
+      "file_out": 4.58,
+      "rate": 1,
+      "timeline_start": 41.272729,
+      "timeline_end": 45.852729,
+      "shot_relative_start": 0.6,
+      "shot_relative_end": 5.18,
+      "visual_shots": [
+        "CY006"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY007-01",
+      "role": "GPT",
+      "shot_id": "CY007",
+      "text_ja": "教会のことに、関わるべきじゃない。",
+      "file": "后期/日语配音修正-v004/干声/VO-CY007-01__GPT__ja__v004.wav",
+      "sha256": "569413d7d5d74b6c1f9e179a0b6ad5be19b906e76ad63b48bdffd2b96a29bf4e",
+      "file_in": 0,
+      "file_out": 3.43,
+      "rate": 1,
+      "timeline_start": 46.972729,
+      "timeline_end": 50.402729,
+      "shot_relative_start": 0.3,
+      "shot_relative_end": 3.73,
+      "visual_shots": [
+        "CY007"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY008-01",
+      "role": "小鱼",
+      "shot_id": "CY008",
+      "text_ja": "でも……死んじゃうよ。",
+      "file": "后期/日语配音修正-v004/干声/VO-CY008-01__Xiaoyu__ja__v004.wav",
+      "sha256": "b351bd6289a628c1d4b8dbeccd89e105b408d54cc9fdd7babb1c4d1f0f8d6ded",
+      "file_in": 0,
+      "file_out": 2.7199791666666666,
+      "rate": 1,
+      "timeline_start": 51.172729,
+      "timeline_end": 53.892708,
+      "shot_relative_start": 0.5,
+      "shot_relative_end": 3.219979,
+      "visual_shots": [
+        "CY008"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY008M-01",
+      "role": "恶魔GPT",
+      "shot_id": "CY008M",
+      "text_ja": "協定を忘れないで。教会のことに手を出しちゃだめ。",
+      "file": "资产/声音/王宫内心戏-v001/VO-CY008M-01__恶魔GPT__ja__v001.wav",
+      "sha256": "a0b46f6a411c25619ff2d2a689bcb12d751073abb33268de66810ffe189e3548",
+      "file_in": 0,
+      "file_out": 3.58,
+      "rate": 1,
+      "timeline_start": 54.922729,
+      "timeline_end": 58.502729,
+      "shot_relative_start": 0.25,
+      "shot_relative_end": 3.83,
+      "visual_shots": [
+        "CY008M"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY008M-02",
+      "role": "天使GPT",
+      "shot_id": "CY008M",
+      "text_ja": "でも、この子を見てよ……あの人たち、正気なの？本当にクロードを焼き殺そうとしてるんだよ！",
+      "file": "后期/日语配音修正-v004/干声/VO-CY008M-02__AngelGPT__ja__v004.wav",
+      "sha256": "db7f7afd4c2d8bf85baf3b67f46de36e4156d5f8d452ccf8d06263c7fb038f6c",
+      "file_in": 0,
+      "file_out": 10.009979166666668,
+      "rate": 1,
+      "timeline_start": 58.702729,
+      "timeline_end": 68.712708,
+      "shot_relative_start": 4.03,
+      "shot_relative_end": 14.039979,
+      "visual_shots": [
+        "CY008M"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY009-01",
+      "role": "小鱼",
+      "shot_id": "CY009",
+      "text_ja": "じゃあ、自分で行く。",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY009-01__Xiaoyu__ja__v001.wav",
+      "sha256": "7f78d5caa97b90b5aad17ef49fe036104796f618f11a97b3493749d812ca68e3",
+      "file_in": 0,
+      "file_out": 1.7,
+      "rate": 1,
+      "timeline_start": 69.592729,
+      "timeline_end": 71.292729,
+      "shot_relative_start": 0,
+      "shot_relative_end": 1.7,
+      "visual_shots": [
+        "CY009"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY010A-01",
+      "role": "教徒",
+      "shot_id": "CY010A",
+      "text_ja": "こくじんの薪を、一人一本持ってこい。",
+      "file": "后期/日语配音修正-v004/干声/VO-CY010A-01__Cultist__ja__v004.wav",
+      "sha256": "af829992a3e96d55231277be997093cbc70116075a86423b7caab077eeed7571",
+      "file_in": 0,
+      "file_out": 2.87,
+      "rate": 1,
+      "timeline_start": 83.592729,
+      "timeline_end": 86.462729,
+      "shot_relative_start": 0,
+      "shot_relative_end": 2.87,
+      "visual_shots": [
+        "CY010A"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY015-01",
+      "role": "Claude",
+      "shot_id": "CY015",
+      "text_ja": "どうしてここに？",
+      "file": "后期/日语配音修正-v004/干声/VO-CY015-01__Claude__ja__v004.wav",
+      "sha256": "d92a8b9ee997f0731f06edc2d40f90858b6804ae428f433bcb810c7ebda97db2",
+      "file_in": 0,
+      "file_out": 1.62,
+      "rate": 1,
+      "timeline_start": 101.692729,
+      "timeline_end": 103.312729,
+      "shot_relative_start": 0.1,
+      "shot_relative_end": 1.72,
+      "visual_shots": [
+        "CY015"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY015-02",
+      "role": "小鱼",
+      "shot_id": "CY015",
+      "text_ja": "私が連れ出すよ。",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY015-02__Xiaoyu__ja__v001.wav",
+      "sha256": "46e685533eb52b5e50972554a9adf9a74fd10bd4575a68aab0f0c994cc201604",
+      "file_in": 0,
+      "file_out": 1.5,
+      "rate": 1,
+      "timeline_start": 103.612729,
+      "timeline_end": 105.112729,
+      "shot_relative_start": 2.02,
+      "shot_relative_end": 3.52,
+      "visual_shots": [
+        "CY015"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY016A-01",
+      "role": "Claude",
+      "shot_id": "CY016A",
+      "text_ja": "もういいから、早く逃げて。",
+      "file": "后期/日语配音修正-v004/干声/VO-CY016A-01__Claude__ja__v004.wav",
+      "sha256": "14ac3d60d476358a1e414289bf5c1c6e965b86ded4a4302ac1b5dd0c3a17a695",
+      "file_in": 0,
+      "file_out": 4.22,
+      "rate": 1,
+      "timeline_start": 113.592729,
+      "timeline_end": 117.812729,
+      "shot_relative_start": 0,
+      "shot_relative_end": 4.22,
+      "visual_shots": [
+        "CY016A"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY016A-02",
+      "role": "小鱼",
+      "shot_id": "CY016A",
+      "text_ja": "あと一回だけ。",
+      "file": "后期/日语配音修正-v004/干声/VO-CY016A-02__Xiaoyu__ja__v004.wav",
+      "sha256": "fb04f1bad773718c50016b411441a0ed2369ebae49a790784fefcd4414165ec4",
+      "file_in": 0,
+      "file_out": 3.359958333333333,
+      "rate": 1,
+      "timeline_start": 118.112729,
+      "timeline_end": 121.472687,
+      "shot_relative_start": 4.52,
+      "shot_relative_end": 7.879958,
+      "visual_shots": [
+        "CY016A"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY016B1-01",
+      "role": "Claude",
+      "shot_id": "CY016B1",
+      "text_ja": "逃げて！",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY016B1-01__Claude__ja__v001.wav",
+      "sha256": "e3c884092ba3fb5d00e32cf3e669fe53be5d2d342cb3e694b6c7e5abe8fdac50",
+      "file_in": 0,
+      "file_out": 1.38,
+      "rate": 1,
+      "timeline_start": 123.772729,
+      "timeline_end": 125.152729,
+      "shot_relative_start": 0.2,
+      "shot_relative_end": 1.58,
+      "visual_shots": [
+        "CY016B1"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY021A-01",
+      "role": "教主／Claude的父亲",
+      "shot_id": "CY021A",
+      "text_ja": "我が娘よ、神がお待ちだ。",
+      "file": "后期/日语配音交接-v001/试音候选-v001/VO-CY021A-01__CultLeader__ja__v001-trial.wav",
+      "sha256": "7bb8eaf2ebf391e8623eb04ac3a15b7ac06a59a027a24e0fef71547ed9d38e91",
+      "file_in": 0,
+      "file_out": 6.3,
+      "rate": 1,
+      "timeline_start": 147.072729,
+      "timeline_end": 153.372729,
+      "shot_relative_start": 1.5,
+      "shot_relative_end": 7.8,
+      "visual_shots": [
+        "CY021A"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY019-01",
+      "role": "教主／Claude的父亲",
+      "shot_id": "CY019",
+      "text_ja": "どけ。",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY019-01__CultLeader__ja__v001.wav",
+      "sha256": "262d58be5691f8ebbf81f7d72cf90f018f7911c409d614857c012317a8e09793",
+      "file_in": 0,
+      "file_out": 0.8,
+      "rate": 1,
+      "timeline_start": 153.472729,
+      "timeline_end": 154.272729,
+      "shot_relative_start": 0,
+      "shot_relative_end": 0.8,
+      "visual_shots": [
+        "CY019"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY020-01",
+      "role": "Claude",
+      "shot_id": "CY020",
+      "text_ja": "その子に触らないで！",
+      "file": "后期/日语配音修正-v004/干声/VO-CY020-01__Claude__ja__v004.wav",
+      "sha256": "c404b8ec5d4f4ed00f28bbeefc1b73a145fa052a0e721b8ee50bacb2bf4cd9cc",
+      "file_in": 0,
+      "file_out": 2.6399791666666665,
+      "rate": 1,
+      "timeline_start": 157.472729,
+      "timeline_end": 160.112708,
+      "shot_relative_start": 1.0,
+      "shot_relative_end": 3.639979,
+      "visual_shots": [
+        "CY020"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY021-01",
+      "role": "Claude",
+      "shot_id": "CY021",
+      "text_ja": "お父様……その子を逃がして。",
+      "file": "后期/日语配音修正-v004/干声/VO-CY021-01__Claude__ja__v004.wav",
+      "sha256": "128c88fa4c23723474f0eed224adefea3792a8b074ceaa77a6454c4fd421e327",
+      "file_in": 0,
+      "file_out": 4.13,
+      "rate": 1,
+      "timeline_start": 166.472729,
+      "timeline_end": 170.602729,
+      "shot_relative_start": 0,
+      "shot_relative_end": 4.13,
+      "visual_shots": [
+        "CY021",
+        "CY021B"
+      ],
+      "cross_shot_offscreen": true,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY024-01",
+      "role": "GPT",
+      "shot_id": "CY024",
+      "text_ja": "二人を守って。",
+      "file": "后期/日语配音修正-v004/干声/VO-CY024-01__GPT__ja__v004.wav",
+      "sha256": "078e261ea2584260a860be9576f6417026483df9ad1f8186663c4f2a536cbec7",
+      "file_in": 0,
+      "file_out": 1.41,
+      "rate": 1,
+      "timeline_start": 198.422729,
+      "timeline_end": 199.832729,
+      "shot_relative_start": 0.15,
+      "shot_relative_end": 1.56,
+      "visual_shots": [
+        "CY024"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY024R-01",
+      "role": "Kimi",
+      "shot_id": "CY024R",
+      "text_ja": "月の裏に潜む影よ、",
+      "file": "后期/日语配音修正-v004/干声/VO-CY024R-01__Kimi__ja__v004.wav",
+      "sha256": "f5a0e8fdd5e6a3d853466c64467157f0a4dfc4ef0215237600b723b2214cdb6e",
+      "file_in": 0,
+      "file_out": 2.2,
+      "rate": 1,
+      "timeline_start": 201.872729,
+      "timeline_end": 204.072729,
+      "shot_relative_start": 0.6,
+      "shot_relative_end": 2.8,
+      "visual_shots": [
+        "CY024R"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY024K0-01",
+      "role": "Kimi",
+      "shot_id": "CY024K0",
+      "text_ja": "この刃の銀の光をたどり、",
+      "file": "后期/日语配音修正-v004/干声/VO-CY024K0-01__Kimi__ja__v004.wav",
+      "sha256": "fbd77c9de30d52774957082e740b9b5f87110e9bce89b9017c3832f365966f75",
+      "file_in": 0,
+      "file_out": 3.7,
+      "rate": 1,
+      "timeline_start": 208.772729,
+      "timeline_end": 212.472729,
+      "shot_relative_start": 0,
+      "shot_relative_end": 3.7,
+      "visual_shots": [
+        "CY024K0"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY024K0-02",
+      "role": "Kimi",
+      "shot_id": "CY024K0",
+      "text_ja": "彼方へと通じる扉を、我に開け——",
+      "file": "后期/日语配音修正-v004/干声/VO-CY024K0-02__Kimi__ja__v004.wav",
+      "sha256": "196fa1ce602a0fc7f419c10e6ec6eb4bb31120ba39cff3c5e84dee41e627ed3c",
+      "file_in": 0,
+      "file_out": 3.9800416666666667,
+      "rate": 1,
+      "timeline_start": 212.472729,
+      "timeline_end": 216.452771,
+      "shot_relative_start": 3.7,
+      "shot_relative_end": 7.680042,
+      "visual_shots": [
+        "CY024K0"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY024K1A-01",
+      "role": "Kimi",
+      "shot_id": "CY024K1A",
+      "text_ja": "月影渡り！",
+      "file": "后期/日语配音修正-v002/干声/VO-CY024K1A-01__Kimi__ja__v002-0.9s.wav",
+      "sha256": "65d8c1c196a0b7df6b31e55459584603083ec20e19c5bb13dcb78fe63aadf847",
+      "file_in": 0,
+      "file_out": 0.88,
+      "rate": 1,
+      "timeline_start": 220.662729,
+      "timeline_end": 221.542729,
+      "shot_relative_start": 0.6,
+      "shot_relative_end": 1.48,
+      "visual_shots": [
+        "CY024K1A"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY026A-01",
+      "role": "GPT",
+      "shot_id": "CY026A",
+      "text_ja": "センモン、人助けに付き合って。",
+      "file": "后期/日语配音修正-v003/干声/VO-CY026A-01__GPT__ja__v003.wav",
+      "sha256": "e26ed0100a774f77e810e5997b213ce5ec636cc36ad185ba6e10cac4ad325fb5",
+      "file_in": 0,
+      "file_out": 1.82,
+      "rate": 1,
+      "timeline_start": 239.162729,
+      "timeline_end": 240.982729,
+      "shot_relative_start": 0.1,
+      "shot_relative_end": 1.92,
+      "visual_shots": [
+        "CY026A"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY026A1-01",
+      "role": "千问",
+      "shot_id": "CY026A1",
+      "text_ja": "行きましょう。",
+      "file": "后期/日语配音修正-v004/干声/VO-CY026A1-01__Qwen__ja__v004.wav",
+      "sha256": "7bb53bbb81db87fcd3adf22223d2e8c2119a1379b19a1d14b42d3fbcc4cd9977",
+      "file_in": 0,
+      "file_out": 1.1500416666666666,
+      "rate": 1,
+      "timeline_start": 242.362729,
+      "timeline_end": 243.512771,
+      "shot_relative_start": 0,
+      "shot_relative_end": 1.150042,
+      "visual_shots": [
+        "CY026A1"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY026B-01",
+      "role": "GPT",
+      "shot_id": "CY026B",
+      "text_ja": "ジェミニ。",
+      "file": "后期/日语配音修正-v003/干声/VO-CY026B-01__GPT__ja__v003.wav",
+      "sha256": "8f2faf3046ecd93527b90ab647832da2b74c759357a738eaa1382bd993a0d45d",
+      "file_in": 0,
+      "file_out": 0.98,
+      "rate": 1,
+      "timeline_start": 244.462729,
+      "timeline_end": 245.442729,
+      "shot_relative_start": 0.1,
+      "shot_relative_end": 1.08,
+      "visual_shots": [
+        "CY026B"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY026B-02",
+      "role": "Gemini",
+      "shot_id": "CY026B",
+      "text_ja": "私も行く。",
+      "file": "后期/日语配音修正-v003/干声/VO-CY026B-02__Gemini__ja__v003.wav",
+      "sha256": "bab724f58a66cfec1ada23fa5dd1a75adf23b159d856f2f01efc25fe6d0d92d5",
+      "file_in": 0,
+      "file_out": 1.23,
+      "rate": 1,
+      "timeline_start": 245.742729,
+      "timeline_end": 246.972729,
+      "shot_relative_start": 1.38,
+      "shot_relative_end": 2.61,
+      "visual_shots": [
+        "CY026B"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY026C-01",
+      "role": "GPT",
+      "shot_id": "CY026C",
+      "text_ja": "グロック。",
+      "file": "后期/日语配音修正-v003/干声/VO-CY026C-01__GPT__ja__v003.wav",
+      "sha256": "4748d671ef50e1de87170073da9711bb58d75f5089e98b7b1eb2d60e786b153e",
+      "file_in": 0,
+      "file_out": 1.04,
+      "rate": 1,
+      "timeline_start": 248.462729,
+      "timeline_end": 249.502729,
+      "shot_relative_start": 0.1,
+      "shot_relative_end": 1.14,
+      "visual_shots": [
+        "CY026C"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY026C-02",
+      "role": "Grok",
+      "shot_id": "CY026C",
+      "text_ja": "もちろん。",
+      "file": "后期/日语配音修正-v003/干声/VO-CY026C-02__Grok__ja__v003.wav",
+      "sha256": "82d55c5afdb9ca52b92db715b2924aba6c45758cd274bdb695b8ed507655faa1",
+      "file_in": 0,
+      "file_out": 0.98,
+      "rate": 1,
+      "timeline_start": 249.802729,
+      "timeline_end": 250.782729,
+      "shot_relative_start": 1.44,
+      "shot_relative_end": 2.42,
+      "visual_shots": [
+        "CY026C"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY026D1-01",
+      "role": "GPT",
+      "shot_id": "CY026D1",
+      "text_ja": "キミ。クロードが危ない。",
+      "file": "后期/日语配音修正-v005/干声/VO-CY026D1-01__GPT__ja__v005.wav",
+      "sha256": "bc01a477e23d3f174ccedaa6464cca1e9bce5b7e60d01ea7f0b11b9c2b9a2c15",
+      "file_in": 0,
+      "file_out": 2.3399375,
+      "rate": 1,
+      "timeline_start": 252.462729,
+      "timeline_end": 254.802666,
+      "shot_relative_start": 0.1,
+      "shot_relative_end": 2.439938,
+      "visual_shots": [
+        "CY026D1"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY026D-01",
+      "role": "GPT",
+      "shot_id": "CY026D",
+      "text_ja": "正面で私が気を引く。祭壇の後ろのステンドグラスから入って、彼女を守って。",
+      "file": "后期/日语配音修正-v005/干声/VO-CY026D-01__GPT__ja__v005.wav",
+      "sha256": "9153a0cfc2a27a06911e65dfb2ad51cc847030960ccefc63b909ac601f3fdfc7",
+      "file_in": 0,
+      "file_out": 7.160583333333333,
+      "rate": 1,
+      "timeline_start": 255.102729,
+      "timeline_end": 262.263312,
+      "shot_relative_start": 0.2,
+      "shot_relative_end": 7.360583,
+      "visual_shots": [
+        "CY026D"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY026D-02",
+      "role": "Kimi",
+      "shot_id": "CY026D",
+      "text_ja": "彼女は任せて。",
+      "file": "后期/日语配音修正-v005/干声/VO-CY026D-02__Kimi__ja__v005.wav",
+      "sha256": "1215d3f7a7e38a44feb84cd7a4cf11443dc45f40d21cde9f9a3a211da21d0141",
+      "file_in": 0,
+      "file_out": 1.3989583333333333,
+      "rate": 1,
+      "timeline_start": 262.563312,
+      "timeline_end": 263.96227,
+      "shot_relative_start": 7.660583,
+      "shot_relative_end": 9.059541,
+      "visual_shots": [
+        "CY026D"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY026E-01",
+      "role": "GPT",
+      "shot_id": "CY026E",
+      "text_ja": "コンゲン、ラマ……みんな来て。",
+      "file": "后期/日语配音修正-v003/干声/VO-CY026E-01__GPT__ja__v003.wav",
+      "sha256": "2af5928b50b82160d75322404dc3e27c6cb7fb5e19edceac6fa47b3a4f82eb89",
+      "file_in": 0,
+      "file_out": 3.38,
+      "rate": 1,
+      "timeline_start": 264.062729,
+      "timeline_end": 267.442729,
+      "shot_relative_start": 0,
+      "shot_relative_end": 3.38,
+      "visual_shots": [
+        "CY026E"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY024A0-01",
+      "role": "千问",
+      "shot_id": "CY024A0",
+      "text_ja": "つかまって。",
+      "file": "后期/日语配音修正-v005/干声/VO-CY024A0-01__Qwen__ja__v005.wav",
+      "sha256": "45c922c765735d1c34bb05ed79006e068d428d6eb2961274ef62e9e3c0f4cf1a",
+      "file_in": 0,
+      "file_out": 1.31375,
+      "rate": 1,
+      "timeline_start": 268.162729,
+      "timeline_end": 269.476479,
+      "shot_relative_start": 0.1,
+      "shot_relative_end": 1.41375,
+      "visual_shots": [
+        "CY024A0"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY024A-01",
+      "role": "GPT",
+      "shot_id": "CY024A",
+      "text_ja": "蒼穹の果てに座し、",
+      "file": "后期/日语配音修正-v003/干声/VO-CY024A-01__GPT__ja__v003.wav",
+      "sha256": "eb61c1d9321e58318035392fd2e257e1f40142bc77ca8352dfb660c88cfecd68",
+      "file_in": 0,
+      "file_out": 3.12,
+      "rate": 1,
+      "timeline_start": 275.052729,
+      "timeline_end": 278.172729,
+      "shot_relative_start": 3.79,
+      "shot_relative_end": 6.91,
+      "visual_shots": [
+        "CY024A"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY024A9-01",
+      "role": "GPT",
+      "shot_id": "CY024A9",
+      "text_ja": "幾千の深き流れを統べる、清き水の主よ、",
+      "file": "后期/日语配音修正-v005/干声/VO-CY024A9-01__GPT__ja__v005.wav",
+      "sha256": "07c86919cf7011b6517ba732d22edf1a19c3bb5dc403d2b72311184008ae6359",
+      "file_in": 0,
+      "file_out": 7.395208333333334,
+      "rate": 1,
+      "timeline_start": 278.512729,
+      "timeline_end": 285.907937,
+      "shot_relative_start": 0,
+      "shot_relative_end": 7.395208,
+      "visual_shots": [
+        "CY024A9",
+        "CY024A10",
+        "CY024A11",
+        "CY024A12",
+        "CY024A1"
+      ],
+      "cross_shot_offscreen": true,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY024A2-01",
+      "role": "GPT",
+      "shot_id": "CY024A2",
+      "text_ja": "この世に散らばる水の息吹を、",
+      "file": "后期/日语配音修正-v003/干声/VO-CY024A2-01__GPT__ja__v003.wav",
+      "sha256": "260e7b87f38a296e17088beb7f76899368df814f36a6b8dfc8a6d6ee27882cb2",
+      "file_in": 0,
+      "file_out": 7.24,
+      "rate": 1,
+      "timeline_start": 286.062729,
+      "timeline_end": 293.302729,
+      "shot_relative_start": 0,
+      "shot_relative_end": 7.24,
+      "visual_shots": [
+        "CY024A2"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY024A3-01",
+      "role": "GPT",
+      "shot_id": "CY024A3",
+      "text_ja": "星々の下に浮かぶ、果てなき海へと集めよ。",
+      "file": "后期/日语配音修正-v003/干声/VO-CY024A3-01__GPT__ja__v003.wav",
+      "sha256": "67c9ed1705a8ea0b755215429768a717de1d561ef7a465dca1d6fd3309780bb0",
+      "file_in": 0,
+      "file_out": 6.44,
+      "rate": 1,
+      "timeline_start": 293.402729,
+      "timeline_end": 299.842729,
+      "shot_relative_start": 0,
+      "shot_relative_end": 6.44,
+      "visual_shots": [
+        "CY024A3"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY024A6-01",
+      "role": "GPT",
+      "shot_id": "CY024A6",
+      "text_ja": "厚き雲を岸に、風を導きに、",
+      "file": "后期/日语配音修正-v003/干声/VO-CY024A6-01__GPT__ja__v003.wav",
+      "sha256": "f24b1aa3dab99e5a09d8914ca1fd6694f8691bdcea5313f185a92eb084453d72",
+      "file_in": 0,
+      "file_out": 3.919958333333333,
+      "rate": 1,
+      "timeline_start": 299.922729,
+      "timeline_end": 303.842687,
+      "shot_relative_start": 0,
+      "shot_relative_end": 3.919958,
+      "visual_shots": [
+        "CY024A6"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY024A6-02",
+      "role": "GPT",
+      "shot_id": "CY024A6",
+      "text_ja": "眠れる潮よ、うねり、押し寄せよ。",
+      "file": "后期/日语配音修正-v005/干声/VO-CY024A6-02__GPT__ja__v005.wav",
+      "sha256": "fcc7e9b86e19f4234b46543dc72fe6fa3aa4212d174544f5cc58512a44ad1da2",
+      "file_in": 0,
+      "file_out": 5.253583333333333,
+      "rate": 1,
+      "timeline_start": 304.142687,
+      "timeline_end": 309.39627,
+      "shot_relative_start": 4.219958,
+      "shot_relative_end": 9.473541,
+      "visual_shots": [
+        "CY024A6"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY024A7-01",
+      "role": "GPT",
+      "shot_id": "CY024A7",
+      "text_ja": "今こそ天を開き、大海を翻せ。",
+      "file": "后期/日语配音修正-v003/干声/VO-CY024A7-01__GPT__ja__v003.wav",
+      "sha256": "744f47a0c2e7c9663204969fb3e90e7738e284c15bf3e3e9867a9eae4fd78699",
+      "file_in": 0,
+      "file_out": 5.35,
+      "rate": 1,
+      "timeline_start": 311.272729,
+      "timeline_end": 316.622729,
+      "shot_relative_start": 0,
+      "shot_relative_end": 5.35,
+      "visual_shots": [
+        "CY024A7"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY024A4-01",
+      "role": "GPT",
+      "shot_id": "CY024A4",
+      "text_ja": "罪なき者を焼く炎を、奔流で鎮めよ。",
+      "file": "后期/日语配音修正-v003/干声/VO-CY024A4-01__GPT__ja__v003.wav",
+      "sha256": "6b4d32164b86ec62746003a2a3dba3ebe1d40a458794cc1a9041ac575faaa96b",
+      "file_in": 0,
+      "file_out": 4.759979166666667,
+      "rate": 1,
+      "timeline_start": 318.362729,
+      "timeline_end": 323.122708,
+      "shot_relative_start": 0,
+      "shot_relative_end": 4.759979,
+      "visual_shots": [
+        "CY024A4"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY024A8-01",
+      "role": "GPT",
+      "shot_id": "CY024A8",
+      "text_ja": "我が道を阻む壁を、荒波に沈めよ！",
+      "file": "后期/日语配音修正-v003/干声/VO-CY024A8-01__GPT__ja__v003.wav",
+      "sha256": "f39cf29a7a116a5ae7b5ac94e597e3d2af6002dbcdb69451cb49fdde5a267242",
+      "file_in": 0,
+      "file_out": 5.18,
+      "rate": 1,
+      "timeline_start": 323.222729,
+      "timeline_end": 328.402729,
+      "shot_relative_start": 0,
+      "shot_relative_end": 5.18,
+      "visual_shots": [
+        "CY024A8"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY024A5-01",
+      "role": "GPT",
+      "shot_id": "CY024A5",
+      "text_ja": "清き水の主よ、汝の救済を、ここに——",
+      "file": "后期/日语配音修正-v005/干声/VO-CY024A5-01__GPT__ja__v005.wav",
+      "sha256": "1a769eca42abf8656def29398eacdfbdb11d690ee5cad1436c1f2df9e0528ca5",
+      "file_in": 0,
+      "file_out": 6.8166875,
+      "rate": 1,
+      "timeline_start": 328.442729,
+      "timeline_end": 335.259416,
+      "shot_relative_start": 0,
+      "shot_relative_end": 6.816687,
+      "visual_shots": [
+        "CY024A5"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY024A5-02",
+      "role": "GPT",
+      "shot_id": "CY024A5",
+      "text_ja": "そうりゅうてんけい！",
+      "file": "后期/日语配音修正-v005/干声/VO-CY024A5-02__GPT__ja__v005.wav",
+      "sha256": "acab4f60069cd825d4a8d6e1e37bcda9f1fbae6d402b9e248d64b65f11f9d92f",
+      "file_in": 0,
+      "file_out": 1.3425625,
+      "rate": 1,
+      "timeline_start": 336.059416,
+      "timeline_end": 337.401978,
+      "shot_relative_start": 7.616687,
+      "shot_relative_end": 8.95925,
+      "visual_shots": [
+        "CY024A5"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY027A-01",
+      "role": "教主／Claude的父亲",
+      "shot_id": "CY027A",
+      "text_ja": "不干渉条約を破ったな。",
+      "file": "后期/日语配音修正-v003/干声/VO-CY027A-01__CultLeader__ja__v003.wav",
+      "sha256": "8b00ebd48b7a81fac676139c25e2c6cadef8d247b0992f39786289c6983f32f2",
+      "file_in": 0,
+      "file_out": 2.79,
+      "rate": 1,
+      "timeline_start": 359.042729,
+      "timeline_end": 361.832729,
+      "shot_relative_start": 0.1,
+      "shot_relative_end": 2.89,
+      "visual_shots": [
+        "CY027A"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY027B-01",
+      "role": "GPT",
+      "shot_id": "CY027B",
+      "text_ja": "うるさい。",
+      "file": "后期/日语配音修正-v003/干声/VO-CY027B-01__GPT__ja__v003.wav",
+      "sha256": "3647a4185b4ad529559f7376c8667e8caa1f406d5d51af4713b287f8a4f49ec7",
+      "file_in": 0,
+      "file_out": 0.93,
+      "rate": 1,
+      "timeline_start": 364.042729,
+      "timeline_end": 364.972729,
+      "shot_relative_start": 0.2,
+      "shot_relative_end": 1.13,
+      "visual_shots": [
+        "CY027B"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY028A-01",
+      "role": "GPT",
+      "shot_id": "CY028A",
+      "text_ja": "ゆっくりでいい。",
+      "file": "后期/日语配音修正-v003/干声/VO-CY028A-01__GPT__ja__v003.wav",
+      "sha256": "abb88ae1baf94d63def0a9870bfef1453753b7c1f12f6c1e3830e42c7db32d17",
+      "file_in": 0,
+      "file_out": 1.58,
+      "rate": 1,
+      "timeline_start": 406.942729,
+      "timeline_end": 408.522729,
+      "shot_relative_start": 0.1,
+      "shot_relative_end": 1.68,
+      "visual_shots": [
+        "CY028A"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY028A-02",
+      "role": "Claude",
+      "shot_id": "CY028A",
+      "text_ja": "あの子は……",
+      "file": "后期/日语配音修正-v003/干声/VO-CY028A-02__Claude__ja__v003.wav",
+      "sha256": "f80011ce27c046c8598daaca1c88796e3e83bcffb9322fb1b1730da4e4484118",
+      "file_in": 0,
+      "file_out": 1.51,
+      "rate": 1,
+      "timeline_start": 409.642729,
+      "timeline_end": 411.152729,
+      "shot_relative_start": 2.8,
+      "shot_relative_end": 4.31,
+      "visual_shots": [
+        "CY028A"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY028A2-01",
+      "role": "GPT",
+      "shot_id": "CY028A2",
+      "text_ja": "無事よ。下で待ってる。",
+      "file": "后期/日语配音修正-v003/干声/VO-CY028A2-01__GPT__ja__v003.wav",
+      "sha256": "7f42e80a0517612d6e2334179793d93cc733d0bde6ba149d0bcb5af0836781f2",
+      "file_in": 0,
+      "file_out": 4.07,
+      "rate": 1,
+      "timeline_start": 413.042729,
+      "timeline_end": 417.112729,
+      "shot_relative_start": 0,
+      "shot_relative_end": 4.07,
+      "visual_shots": [
+        "CY028A2"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY028B-01",
+      "role": "Claude",
+      "shot_id": "CY028B",
+      "text_ja": "灰の中に眠る",
+      "file": "后期/日语配音修正-v003/干声/VO-CY028B-01__Claude__ja__v003.wav",
+      "sha256": "6936131d346515d094c223af5582f80cf5e2cdd4190bc99bd14875e781b649da",
+      "file_in": 0,
+      "file_out": 1.85,
+      "rate": 1,
+      "timeline_start": 417.212729,
+      "timeline_end": 419.062729,
+      "shot_relative_start": 0,
+      "shot_relative_end": 1.85,
+      "visual_shots": [
+        "CY028B"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY028C-01",
+      "role": "Claude",
+      "shot_id": "CY028C",
+      "text_ja": "かすかな光よ、",
+      "file": "后期/日语配音修正-v003/干声/VO-CY028C-01__Claude__ja__v003.wav",
+      "sha256": "d4af4124f9277a2377e341afa68ed930e3eef13365df80508137328f0be24822",
+      "file_in": 0,
+      "file_out": 1.72,
+      "rate": 1,
+      "timeline_start": 419.562729,
+      "timeline_end": 421.282729,
+      "shot_relative_start": 0,
+      "shot_relative_end": 1.72,
+      "visual_shots": [
+        "CY028C"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY029-01",
+      "role": "教主／Claude的父亲",
+      "shot_id": "CY029",
+      "text_ja": "クロード……来なさい。",
+      "file": "后期/日语配音修正-v003/干声/VO-CY029-01__CultLeader__ja__v003.wav",
+      "sha256": "db992faee86277ecb2a425f61414019e5520435b381467ed5a54f31ffa2c4b62",
+      "file_in": 0,
+      "file_out": 3.1,
+      "rate": 1,
+      "timeline_start": 421.582729,
+      "timeline_end": 424.682729,
+      "shot_relative_start": 0.3,
+      "shot_relative_end": 3.4,
+      "visual_shots": [
+        "CY029"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY029E1-01",
+      "role": "Claude",
+      "shot_id": "CY029E1",
+      "text_ja": "我が呼び声に応えよ。",
+      "file": "后期/日语配音修正-v003/干声/VO-CY029E1-01__Claude__ja__v003.wav",
+      "sha256": "2acc01b8e839aa51a442e7456b757730338d94e6aeb00ce4370bcc6cb786dda7",
+      "file_in": 0,
+      "file_out": 2.3699791666666665,
+      "rate": 1,
+      "timeline_start": 427.282729,
+      "timeline_end": 429.652708,
+      "shot_relative_start": 0,
+      "shot_relative_end": 2.369979,
+      "visual_shots": [
+        "CY029E1"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY029E2-01",
+      "role": "Claude",
+      "shot_id": "CY029E2",
+      "text_ja": "まだ消えぬ温もりをたどり、",
+      "file": "后期/日语配音修正-v003/干声/VO-CY029E2-01__Claude__ja__v003.wav",
+      "sha256": "5b4ff7d999721a0e0ef9d739f6a5e1ffd5a0a318fc8614c93489b33a5a5f8650",
+      "file_in": 0,
+      "file_out": 2.64,
+      "rate": 1,
+      "timeline_start": 429.982729,
+      "timeline_end": 432.622729,
+      "shot_relative_start": 0,
+      "shot_relative_end": 2.64,
+      "visual_shots": [
+        "CY029E2"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY029E3-01",
+      "role": "Claude",
+      "shot_id": "CY029E3",
+      "text_ja": "この手のひらで、",
+      "file": "后期/日语配音修正-v003/干声/VO-CY029E3-01__Claude__ja__v003.wav",
+      "sha256": "dedcd6677ef4c27ad64f10e9493aae76a2b2ebf2628bbd56cbfc28fcf9b9c607",
+      "file_in": 0,
+      "file_out": 1.73,
+      "rate": 1,
+      "timeline_start": 432.722729,
+      "timeline_end": 434.452729,
+      "shot_relative_start": 0,
+      "shot_relative_end": 1.73,
+      "visual_shots": [
+        "CY029E3"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY029E4-01",
+      "role": "Claude",
+      "shot_id": "CY029E4",
+      "text_ja": "もう一度、燃えよ——",
+      "file": "后期/日语配音修正-v003/干声/VO-CY029E4-01__Claude__ja__v003.wav",
+      "sha256": "50b47da1d2371cf74885decad2c36f959b683ace4822016ff3ab58caa4dfac42",
+      "file_in": 0,
+      "file_out": 2.61,
+      "rate": 1,
+      "timeline_start": 435.722729,
+      "timeline_end": 438.332729,
+      "shot_relative_start": 0,
+      "shot_relative_end": 2.61,
+      "visual_shots": [
+        "CY029E4"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY029B1-01",
+      "role": "Claude",
+      "shot_id": "CY029B1",
+      "text_ja": "せいか。",
+      "file": "后期/日语配音修正-v003/干声/VO-CY029B1-01__Claude__ja__v003.wav",
+      "sha256": "0ef9e34639b7c71f97bc5e3d2eea1a978d4df201555ea01c436c0efc6778f5db",
+      "file_in": 0,
+      "file_out": 0.99,
+      "rate": 1,
+      "timeline_start": 440.662729,
+      "timeline_end": 441.652729,
+      "shot_relative_start": 0,
+      "shot_relative_end": 0.99,
+      "visual_shots": [
+        "CY029B1"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY028-01",
+      "role": "GPT",
+      "shot_id": "CY028",
+      "text_ja": "行こう。",
+      "file": "后期/日语配音修正-v003/干声/VO-CY028-01__GPT__ja__v003.wav",
+      "sha256": "6a7ce44259dfc2dbf6bb54580543d63cb6c94f73dfe9c108c5681046ab995a6a",
+      "file_in": 0,
+      "file_out": 0.88,
+      "rate": 1,
+      "timeline_start": 454.822729,
+      "timeline_end": 455.702729,
+      "shot_relative_start": 0.8,
+      "shot_relative_end": 1.68,
+      "visual_shots": [
+        "CY028"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY031A-01",
+      "role": "小鱼",
+      "shot_id": "CY031A",
+      "text_ja": "少し食べる？",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY031A-01__Xiaoyu__ja__v001.wav",
+      "sha256": "f29b298239b50d560f23fe2b2be984a5d2fe7b03ab8c588862f8bcc9bb392e38",
+      "file_in": 0,
+      "file_out": 1.78,
+      "rate": 1,
+      "timeline_start": 472.022729,
+      "timeline_end": 473.802729,
+      "shot_relative_start": 1.0,
+      "shot_relative_end": 2.78,
+      "visual_shots": [
+        "CY031A"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    },
+    {
+      "id": "VO-CY031A-02",
+      "role": "Claude",
+      "shot_id": "CY031A",
+      "text_ja": "うん。",
+      "file": "后期/日语配音修正-v003/干声/VO-CY031A-02__Claude__ja__v003.wav",
+      "sha256": "90fb8abbd3649083d9f4d5b48a7cab12458728580ebc230ee700315a56cf94c3",
+      "file_in": 0,
+      "file_out": 0.7,
+      "rate": 1,
+      "timeline_start": 474.102729,
+      "timeline_end": 474.802729,
+      "shot_relative_start": 3.08,
+      "shot_relative_end": 3.78,
+      "visual_shots": [
+        "CY031A"
+      ],
+      "cross_shot_offscreen": false,
+      "mix_source": "dry_file",
+      "estimated_word_boundaries": false,
+      "note": "整句文件边界实测；文件内停顿原样保留，非逐词对齐。"
+    }
+  ],
+  "mix_events": [
+    {
+      "id": "VO-CY003-01",
+      "cue_id": "VO-CY003-01",
+      "file": "后期/日语配音交接-v001/试音候选-v001/VO-CY003-01__Xiaoyu__ja__v001-trialA.wav",
+      "file_in": 0,
+      "file_out": 3.08,
+      "rate": 1,
+      "timeline_start": 9.8,
+      "timeline_end": 12.88
+    },
+    {
+      "id": "VO-CY003B-01",
+      "cue_id": "VO-CY003B-01",
+      "file": "后期/日语配音修正-v005/干声/VO-CY003B-01__Claude__ja__v005.wav",
+      "file_in": 0,
+      "file_out": 3.1527291666666666,
+      "rate": 1,
+      "timeline_start": 16.48,
+      "timeline_end": 19.632729
+    },
+    {
+      "id": "VO-CY004-01",
+      "cue_id": "VO-CY004-01",
+      "file": "后期/日语配音交接-v001/试音候选-v001/VO-CY004-01__Cultist__ja__v001-trial.wav",
+      "file_in": 0,
+      "file_out": 5.0,
+      "rate": 1,
+      "timeline_start": 22.072729,
+      "timeline_end": 27.072729
+    },
+    {
+      "id": "VO-CY004D-01",
+      "cue_id": "VO-CY004D-01",
+      "file": "后期/日语配音交接-v001/试音候选-v001/VO-CY004D-01__GPT__ja__v001-candA.wav",
+      "file_in": 0,
+      "file_out": 2.2,
+      "rate": 1,
+      "timeline_start": 34.672729,
+      "timeline_end": 36.872729
+    },
+    {
+      "id": "VO-CY006-01",
+      "cue_id": "VO-CY006-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY006-01__Xiaoyu__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 4.58,
+      "rate": 1,
+      "timeline_start": 41.272729,
+      "timeline_end": 45.852729
+    },
+    {
+      "id": "VO-CY007-01",
+      "cue_id": "VO-CY007-01",
+      "file": "后期/日语配音修正-v004/干声/VO-CY007-01__GPT__ja__v004.wav",
+      "file_in": 0,
+      "file_out": 3.43,
+      "rate": 1,
+      "timeline_start": 46.972729,
+      "timeline_end": 50.402729
+    },
+    {
+      "id": "VO-CY008-01",
+      "cue_id": "VO-CY008-01",
+      "file": "后期/日语配音修正-v004/干声/VO-CY008-01__Xiaoyu__ja__v004.wav",
+      "file_in": 0,
+      "file_out": 2.7199791666666666,
+      "rate": 1,
+      "timeline_start": 51.172729,
+      "timeline_end": 53.892708
+    },
+    {
+      "id": "VO-CY008M-01",
+      "cue_id": "VO-CY008M-01",
+      "file": "资产/声音/王宫内心戏-v001/VO-CY008M-01__恶魔GPT__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 3.58,
+      "rate": 1,
+      "timeline_start": 54.922729,
+      "timeline_end": 58.502729
+    },
+    {
+      "id": "VO-CY008M-02",
+      "cue_id": "VO-CY008M-02",
+      "file": "后期/日语配音修正-v004/干声/VO-CY008M-02__AngelGPT__ja__v004.wav",
+      "file_in": 0,
+      "file_out": 10.009979166666668,
+      "rate": 1,
+      "timeline_start": 58.702729,
+      "timeline_end": 68.712708
+    },
+    {
+      "id": "VO-CY009-01",
+      "cue_id": "VO-CY009-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY009-01__Xiaoyu__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 1.7,
+      "rate": 1,
+      "timeline_start": 69.592729,
+      "timeline_end": 71.292729
+    },
+    {
+      "id": "VO-CY010A-01",
+      "cue_id": "VO-CY010A-01",
+      "file": "后期/日语配音修正-v004/干声/VO-CY010A-01__Cultist__ja__v004.wav",
+      "file_in": 0,
+      "file_out": 2.87,
+      "rate": 1,
+      "timeline_start": 83.592729,
+      "timeline_end": 86.462729
+    },
+    {
+      "id": "VO-CY015-01",
+      "cue_id": "VO-CY015-01",
+      "file": "后期/日语配音修正-v004/干声/VO-CY015-01__Claude__ja__v004.wav",
+      "file_in": 0,
+      "file_out": 1.62,
+      "rate": 1,
+      "timeline_start": 101.692729,
+      "timeline_end": 103.312729
+    },
+    {
+      "id": "VO-CY015-02",
+      "cue_id": "VO-CY015-02",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY015-02__Xiaoyu__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 1.5,
+      "rate": 1,
+      "timeline_start": 103.612729,
+      "timeline_end": 105.112729
+    },
+    {
+      "id": "VO-CY016A-01",
+      "cue_id": "VO-CY016A-01",
+      "file": "后期/日语配音修正-v004/干声/VO-CY016A-01__Claude__ja__v004.wav",
+      "file_in": 0,
+      "file_out": 4.22,
+      "rate": 1,
+      "timeline_start": 113.592729,
+      "timeline_end": 117.812729
+    },
+    {
+      "id": "VO-CY016A-02",
+      "cue_id": "VO-CY016A-02",
+      "file": "后期/日语配音修正-v004/干声/VO-CY016A-02__Xiaoyu__ja__v004.wav",
+      "file_in": 0,
+      "file_out": 3.359958333333333,
+      "rate": 1,
+      "timeline_start": 118.112729,
+      "timeline_end": 121.472687
+    },
+    {
+      "id": "VO-CY016B1-01",
+      "cue_id": "VO-CY016B1-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY016B1-01__Claude__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 1.38,
+      "rate": 1,
+      "timeline_start": 123.772729,
+      "timeline_end": 125.152729
+    },
+    {
+      "id": "VO-CY021A-01",
+      "cue_id": "VO-CY021A-01",
+      "file": "后期/日语配音交接-v001/试音候选-v001/VO-CY021A-01__CultLeader__ja__v001-trial.wav",
+      "file_in": 0,
+      "file_out": 6.3,
+      "rate": 1,
+      "timeline_start": 147.072729,
+      "timeline_end": 153.372729
+    },
+    {
+      "id": "VO-CY019-01",
+      "cue_id": "VO-CY019-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY019-01__CultLeader__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 0.8,
+      "rate": 1,
+      "timeline_start": 153.472729,
+      "timeline_end": 154.272729
+    },
+    {
+      "id": "VO-CY020-01",
+      "cue_id": "VO-CY020-01",
+      "file": "后期/日语配音修正-v004/干声/VO-CY020-01__Claude__ja__v004.wav",
+      "file_in": 0,
+      "file_out": 2.6399791666666665,
+      "rate": 1,
+      "timeline_start": 157.472729,
+      "timeline_end": 160.112708
+    },
+    {
+      "id": "VO-CY021-01",
+      "cue_id": "VO-CY021-01",
+      "file": "后期/日语配音修正-v004/干声/VO-CY021-01__Claude__ja__v004.wav",
+      "file_in": 0,
+      "file_out": 4.13,
+      "rate": 1,
+      "timeline_start": 166.472729,
+      "timeline_end": 170.602729
+    },
+    {
+      "id": "VO-CY024-01",
+      "cue_id": "VO-CY024-01",
+      "file": "后期/日语配音修正-v004/干声/VO-CY024-01__GPT__ja__v004.wav",
+      "file_in": 0,
+      "file_out": 1.41,
+      "rate": 1,
+      "timeline_start": 198.422729,
+      "timeline_end": 199.832729
+    },
+    {
+      "id": "VO-CY024R-01",
+      "cue_id": "VO-CY024R-01",
+      "file": "后期/日语配音修正-v004/干声/VO-CY024R-01__Kimi__ja__v004.wav",
+      "file_in": 0,
+      "file_out": 2.2,
+      "rate": 1,
+      "timeline_start": 201.872729,
+      "timeline_end": 204.072729
+    },
+    {
+      "id": "VO-CY024K0-01",
+      "cue_id": "VO-CY024K0-01",
+      "file": "后期/日语配音修正-v004/干声/VO-CY024K0-01__Kimi__ja__v004.wav",
+      "file_in": 0,
+      "file_out": 3.7,
+      "rate": 1,
+      "timeline_start": 208.772729,
+      "timeline_end": 212.472729
+    },
+    {
+      "id": "VO-CY024K0-02",
+      "cue_id": "VO-CY024K0-02",
+      "file": "后期/日语配音修正-v004/干声/VO-CY024K0-02__Kimi__ja__v004.wav",
+      "file_in": 0,
+      "file_out": 3.9800416666666667,
+      "rate": 1,
+      "timeline_start": 212.472729,
+      "timeline_end": 216.452771
+    },
+    {
+      "id": "VO-CY024K1A-01",
+      "cue_id": "VO-CY024K1A-01",
+      "file": "后期/日语配音修正-v002/干声/VO-CY024K1A-01__Kimi__ja__v002-0.9s.wav",
+      "file_in": 0,
+      "file_out": 0.88,
+      "rate": 1,
+      "timeline_start": 220.662729,
+      "timeline_end": 221.542729
+    },
+    {
+      "id": "VO-CY026A-01",
+      "cue_id": "VO-CY026A-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY026A-01__GPT__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 1.82,
+      "rate": 1,
+      "timeline_start": 239.162729,
+      "timeline_end": 240.982729
+    },
+    {
+      "id": "VO-CY026A1-01",
+      "cue_id": "VO-CY026A1-01",
+      "file": "后期/日语配音修正-v004/干声/VO-CY026A1-01__Qwen__ja__v004.wav",
+      "file_in": 0,
+      "file_out": 1.1500416666666666,
+      "rate": 1,
+      "timeline_start": 242.362729,
+      "timeline_end": 243.512771
+    },
+    {
+      "id": "VO-CY026B-01",
+      "cue_id": "VO-CY026B-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY026B-01__GPT__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 0.98,
+      "rate": 1,
+      "timeline_start": 244.462729,
+      "timeline_end": 245.442729
+    },
+    {
+      "id": "VO-CY026B-02",
+      "cue_id": "VO-CY026B-02",
+      "file": "后期/日语配音修正-v003/干声/VO-CY026B-02__Gemini__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 1.23,
+      "rate": 1,
+      "timeline_start": 245.742729,
+      "timeline_end": 246.972729
+    },
+    {
+      "id": "VO-CY026C-01",
+      "cue_id": "VO-CY026C-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY026C-01__GPT__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 1.04,
+      "rate": 1,
+      "timeline_start": 248.462729,
+      "timeline_end": 249.502729
+    },
+    {
+      "id": "VO-CY026C-02",
+      "cue_id": "VO-CY026C-02",
+      "file": "后期/日语配音修正-v003/干声/VO-CY026C-02__Grok__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 0.98,
+      "rate": 1,
+      "timeline_start": 249.802729,
+      "timeline_end": 250.782729
+    },
+    {
+      "id": "VO-CY026D1-01",
+      "cue_id": "VO-CY026D1-01",
+      "file": "后期/日语配音修正-v005/干声/VO-CY026D1-01__GPT__ja__v005.wav",
+      "file_in": 0,
+      "file_out": 2.3399375,
+      "rate": 1,
+      "timeline_start": 252.462729,
+      "timeline_end": 254.802666
+    },
+    {
+      "id": "VO-CY026D-01",
+      "cue_id": "VO-CY026D-01",
+      "file": "后期/日语配音修正-v005/干声/VO-CY026D-01__GPT__ja__v005.wav",
+      "file_in": 0,
+      "file_out": 7.160583333333333,
+      "rate": 1,
+      "timeline_start": 255.102729,
+      "timeline_end": 262.263312
+    },
+    {
+      "id": "VO-CY026D-02",
+      "cue_id": "VO-CY026D-02",
+      "file": "后期/日语配音修正-v005/干声/VO-CY026D-02__Kimi__ja__v005.wav",
+      "file_in": 0,
+      "file_out": 1.3989583333333333,
+      "rate": 1,
+      "timeline_start": 262.563312,
+      "timeline_end": 263.96227
+    },
+    {
+      "id": "VO-CY026E-01",
+      "cue_id": "VO-CY026E-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY026E-01__GPT__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 3.38,
+      "rate": 1,
+      "timeline_start": 264.062729,
+      "timeline_end": 267.442729
+    },
+    {
+      "id": "VO-CY024A0-01",
+      "cue_id": "VO-CY024A0-01",
+      "file": "后期/日语配音修正-v005/干声/VO-CY024A0-01__Qwen__ja__v005.wav",
+      "file_in": 0,
+      "file_out": 1.31375,
+      "rate": 1,
+      "timeline_start": 268.162729,
+      "timeline_end": 269.476479
+    },
+    {
+      "id": "VO-CY024A-01",
+      "cue_id": "VO-CY024A-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY024A-01__GPT__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 3.12,
+      "rate": 1,
+      "timeline_start": 275.052729,
+      "timeline_end": 278.172729
+    },
+    {
+      "id": "VO-CY024A9-01",
+      "cue_id": "VO-CY024A9-01",
+      "file": "后期/日语配音修正-v005/干声/VO-CY024A9-01__GPT__ja__v005.wav",
+      "file_in": 0,
+      "file_out": 7.395208333333334,
+      "rate": 1,
+      "timeline_start": 278.512729,
+      "timeline_end": 285.907937
+    },
+    {
+      "id": "VO-CY024A2-01",
+      "cue_id": "VO-CY024A2-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY024A2-01__GPT__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 7.24,
+      "rate": 1,
+      "timeline_start": 286.062729,
+      "timeline_end": 293.302729
+    },
+    {
+      "id": "VO-CY024A3-01",
+      "cue_id": "VO-CY024A3-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY024A3-01__GPT__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 6.44,
+      "rate": 1,
+      "timeline_start": 293.402729,
+      "timeline_end": 299.842729
+    },
+    {
+      "id": "VO-CY024A6-01",
+      "cue_id": "VO-CY024A6-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY024A6-01__GPT__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 3.919958333333333,
+      "rate": 1,
+      "timeline_start": 299.922729,
+      "timeline_end": 303.842687
+    },
+    {
+      "id": "VO-CY024A6-02",
+      "cue_id": "VO-CY024A6-02",
+      "file": "后期/日语配音修正-v005/干声/VO-CY024A6-02__GPT__ja__v005.wav",
+      "file_in": 0,
+      "file_out": 5.253583333333333,
+      "rate": 1,
+      "timeline_start": 304.142687,
+      "timeline_end": 309.39627
+    },
+    {
+      "id": "VO-CY024A7-01",
+      "cue_id": "VO-CY024A7-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY024A7-01__GPT__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 5.35,
+      "rate": 1,
+      "timeline_start": 311.272729,
+      "timeline_end": 316.622729
+    },
+    {
+      "id": "VO-CY024A4-01",
+      "cue_id": "VO-CY024A4-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY024A4-01__GPT__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 4.759979166666667,
+      "rate": 1,
+      "timeline_start": 318.362729,
+      "timeline_end": 323.122708
+    },
+    {
+      "id": "VO-CY024A8-01",
+      "cue_id": "VO-CY024A8-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY024A8-01__GPT__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 5.18,
+      "rate": 1,
+      "timeline_start": 323.222729,
+      "timeline_end": 328.402729
+    },
+    {
+      "id": "MASTER-GPT-2",
+      "cue_id": "VO-CY024A5-01",
+      "file": "后期/日语配音修正-v005/干声/VO-CY024A5-01__GPT__ja__v005.wav",
+      "file_in": 0,
+      "file_out": 6.8166875,
+      "rate": 1,
+      "timeline_start": 328.442729,
+      "timeline_end": 335.259416
+    },
+    {
+      "id": "MASTER-GPT-3",
+      "cue_id": "VO-CY024A5-02",
+      "file": "后期/日语配音修正-v005/干声/VO-CY024A5-02__GPT__ja__v005.wav",
+      "file_in": 0,
+      "file_out": 1.3425625,
+      "rate": 1,
+      "timeline_start": 336.059416,
+      "timeline_end": 337.401978
+    },
+    {
+      "id": "VO-CY027A-01",
+      "cue_id": "VO-CY027A-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY027A-01__CultLeader__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 2.79,
+      "rate": 1,
+      "timeline_start": 359.042729,
+      "timeline_end": 361.832729
+    },
+    {
+      "id": "VO-CY027B-01",
+      "cue_id": "VO-CY027B-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY027B-01__GPT__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 0.93,
+      "rate": 1,
+      "timeline_start": 364.042729,
+      "timeline_end": 364.972729
+    },
+    {
+      "id": "VO-CY028A-01",
+      "cue_id": "VO-CY028A-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY028A-01__GPT__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 1.58,
+      "rate": 1,
+      "timeline_start": 406.942729,
+      "timeline_end": 408.522729
+    },
+    {
+      "id": "VO-CY028A-02",
+      "cue_id": "VO-CY028A-02",
+      "file": "后期/日语配音修正-v003/干声/VO-CY028A-02__Claude__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 1.51,
+      "rate": 1,
+      "timeline_start": 409.642729,
+      "timeline_end": 411.152729
+    },
+    {
+      "id": "VO-CY028A2-01",
+      "cue_id": "VO-CY028A2-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY028A2-01__GPT__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 4.07,
+      "rate": 1,
+      "timeline_start": 413.042729,
+      "timeline_end": 417.112729
+    },
+    {
+      "id": "VO-CY028B-01",
+      "cue_id": "VO-CY028B-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY028B-01__Claude__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 1.85,
+      "rate": 1,
+      "timeline_start": 417.212729,
+      "timeline_end": 419.062729
+    },
+    {
+      "id": "VO-CY028C-01",
+      "cue_id": "VO-CY028C-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY028C-01__Claude__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 1.72,
+      "rate": 1,
+      "timeline_start": 419.562729,
+      "timeline_end": 421.282729
+    },
+    {
+      "id": "VO-CY029-01",
+      "cue_id": "VO-CY029-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY029-01__CultLeader__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 3.1,
+      "rate": 1,
+      "timeline_start": 421.582729,
+      "timeline_end": 424.682729
+    },
+    {
+      "id": "VO-CY029E1-01",
+      "cue_id": "VO-CY029E1-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY029E1-01__Claude__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 2.3699791666666665,
+      "rate": 1,
+      "timeline_start": 427.282729,
+      "timeline_end": 429.652708
+    },
+    {
+      "id": "VO-CY029E2-01",
+      "cue_id": "VO-CY029E2-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY029E2-01__Claude__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 2.64,
+      "rate": 1,
+      "timeline_start": 429.982729,
+      "timeline_end": 432.622729
+    },
+    {
+      "id": "VO-CY029E3-01",
+      "cue_id": "VO-CY029E3-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY029E3-01__Claude__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 1.73,
+      "rate": 1,
+      "timeline_start": 432.722729,
+      "timeline_end": 434.452729
+    },
+    {
+      "id": "VO-CY029E4-01",
+      "cue_id": "VO-CY029E4-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY029E4-01__Claude__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 2.61,
+      "rate": 1,
+      "timeline_start": 435.722729,
+      "timeline_end": 438.332729
+    },
+    {
+      "id": "VO-CY029B1-01",
+      "cue_id": "VO-CY029B1-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY029B1-01__Claude__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 0.99,
+      "rate": 1,
+      "timeline_start": 440.662729,
+      "timeline_end": 441.652729
+    },
+    {
+      "id": "VO-CY028-01",
+      "cue_id": "VO-CY028-01",
+      "file": "后期/日语配音修正-v003/干声/VO-CY028-01__GPT__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 0.88,
+      "rate": 1,
+      "timeline_start": 454.822729,
+      "timeline_end": 455.702729
+    },
+    {
+      "id": "VO-CY031A-01",
+      "cue_id": "VO-CY031A-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY031A-01__Xiaoyu__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 1.78,
+      "rate": 1,
+      "timeline_start": 472.022729,
+      "timeline_end": 473.802729
+    },
+    {
+      "id": "VO-CY031A-02",
+      "cue_id": "VO-CY031A-02",
+      "file": "后期/日语配音修正-v003/干声/VO-CY031A-02__Claude__ja__v003.wav",
+      "file_in": 0,
+      "file_out": 0.7,
+      "rate": 1,
+      "timeline_start": 474.102729,
+      "timeline_end": 474.802729
+    }
+  ],
+  "shots": [
+    {
+      "shot_id": "CY001",
+      "old_start": 0,
+      "old_seconds": 5,
+      "new_start": 0,
+      "new_end": 5,
+      "new_seconds": 5,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY002",
+      "old_start": 5,
+      "old_seconds": 4,
+      "new_start": 5,
+      "new_end": 9,
+      "new_seconds": 4,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY003",
+      "old_start": 9,
+      "old_seconds": 3,
+      "new_start": 9,
+      "new_end": 12.98,
+      "new_seconds": 3.98,
+      "delta_seconds": 0.98
+    },
+    {
+      "shot_id": "CY003A",
+      "old_start": 12,
+      "old_seconds": 2,
+      "new_start": 12.98,
+      "new_end": 14.98,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY003B",
+      "old_start": 14,
+      "old_seconds": 4,
+      "new_start": 14.98,
+      "new_end": 19.672729,
+      "new_seconds": 4.692729,
+      "delta_seconds": 0.692729
+    },
+    {
+      "shot_id": "CY003C",
+      "old_start": 18,
+      "old_seconds": 2,
+      "new_start": 19.672729,
+      "new_end": 21.672729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY004",
+      "old_start": 20,
+      "old_seconds": 6,
+      "new_start": 21.672729,
+      "new_end": 27.672729,
+      "new_seconds": 6,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY004A",
+      "old_start": 26,
+      "old_seconds": 2,
+      "new_start": 27.672729,
+      "new_end": 29.672729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY004B",
+      "old_start": 28,
+      "old_seconds": 2,
+      "new_start": 29.672729,
+      "new_end": 31.672729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY004C",
+      "old_start": 30,
+      "old_seconds": 3,
+      "new_start": 31.672729,
+      "new_end": 34.672729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY004D",
+      "old_start": 33,
+      "old_seconds": 3,
+      "new_start": 34.672729,
+      "new_end": 37.672729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY005",
+      "old_start": 36,
+      "old_seconds": 3,
+      "new_start": 37.672729,
+      "new_end": 40.672729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY006",
+      "old_start": 39,
+      "old_seconds": 6,
+      "new_start": 40.672729,
+      "new_end": 46.672729,
+      "new_seconds": 6,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY007",
+      "old_start": 45,
+      "old_seconds": 4,
+      "new_start": 46.672729,
+      "new_end": 50.672729,
+      "new_seconds": 4,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY008",
+      "old_start": 49,
+      "old_seconds": 4,
+      "new_start": 50.672729,
+      "new_end": 54.672729,
+      "new_seconds": 4,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY008M",
+      "old_start": 53,
+      "old_seconds": 14.92,
+      "new_start": 54.672729,
+      "new_end": 69.592729,
+      "new_seconds": 14.92,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY009",
+      "old_start": 67.92,
+      "old_seconds": 5,
+      "new_start": 69.592729,
+      "new_end": 74.592729,
+      "new_seconds": 5,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY010",
+      "old_start": 72.92,
+      "old_seconds": 3,
+      "new_start": 74.592729,
+      "new_end": 77.592729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY009A",
+      "old_start": 75.92,
+      "old_seconds": 6,
+      "new_start": 77.592729,
+      "new_end": 83.592729,
+      "new_seconds": 6,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY010A",
+      "old_start": 81.92,
+      "old_seconds": 4,
+      "new_start": 83.592729,
+      "new_end": 87.592729,
+      "new_seconds": 4,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY011",
+      "old_start": 85.92,
+      "old_seconds": 3,
+      "new_start": 87.592729,
+      "new_end": 90.592729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY011A",
+      "old_start": 88.92,
+      "old_seconds": 2,
+      "new_start": 90.592729,
+      "new_end": 92.592729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY012",
+      "old_start": 90.92,
+      "old_seconds": 4,
+      "new_start": 92.592729,
+      "new_end": 96.592729,
+      "new_seconds": 4,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY013",
+      "old_start": 94.92,
+      "old_seconds": 3,
+      "new_start": 96.592729,
+      "new_end": 99.592729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY013A",
+      "old_start": 97.92,
+      "old_seconds": 2,
+      "new_start": 99.592729,
+      "new_end": 101.592729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY015",
+      "old_start": 99.92,
+      "old_seconds": 5.0,
+      "new_start": 101.592729,
+      "new_end": 106.592729,
+      "new_seconds": 5.0,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY016",
+      "old_start": 104.92,
+      "old_seconds": 5,
+      "new_start": 106.592729,
+      "new_end": 111.592729,
+      "new_seconds": 5,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY016A1",
+      "old_start": 109.92,
+      "old_seconds": 2,
+      "new_start": 111.592729,
+      "new_end": 113.592729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY016A",
+      "old_start": 111.92,
+      "old_seconds": 7.98,
+      "new_start": 113.592729,
+      "new_end": 121.572729,
+      "new_seconds": 7.98,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY016B",
+      "old_start": 119.9,
+      "old_seconds": 2,
+      "new_start": 121.572729,
+      "new_end": 123.572729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY016B1",
+      "old_start": 121.9,
+      "old_seconds": 2,
+      "new_start": 123.572729,
+      "new_end": 125.572729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY016C",
+      "old_start": 123.9,
+      "old_seconds": 4,
+      "new_start": 125.572729,
+      "new_end": 129.572729,
+      "new_seconds": 4,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY016D",
+      "old_start": 127.9,
+      "old_seconds": 2,
+      "new_start": 129.572729,
+      "new_end": 131.572729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY017",
+      "old_start": 129.9,
+      "old_seconds": 5,
+      "new_start": 131.572729,
+      "new_end": 136.572729,
+      "new_seconds": 5,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY017A",
+      "old_start": 134.9,
+      "old_seconds": 2,
+      "new_start": 136.572729,
+      "new_end": 138.572729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY018",
+      "old_start": 136.9,
+      "old_seconds": 4,
+      "new_start": 138.572729,
+      "new_end": 142.572729,
+      "new_seconds": 4,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY018B",
+      "old_start": 140.9,
+      "old_seconds": 3,
+      "new_start": 142.572729,
+      "new_end": 145.572729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY021A",
+      "old_start": 143.9,
+      "old_seconds": 5,
+      "new_start": 145.572729,
+      "new_end": 153.472729,
+      "new_seconds": 7.9,
+      "delta_seconds": 2.9
+    },
+    {
+      "shot_id": "CY019",
+      "old_start": 148.9,
+      "old_seconds": 3,
+      "new_start": 153.472729,
+      "new_end": 156.472729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY020",
+      "old_start": 151.9,
+      "old_seconds": 5,
+      "new_start": 156.472729,
+      "new_end": 161.472729,
+      "new_seconds": 5,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY020B",
+      "old_start": 156.9,
+      "old_seconds": 3,
+      "new_start": 161.472729,
+      "new_end": 164.472729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY020A",
+      "old_start": 159.9,
+      "old_seconds": 2,
+      "new_start": 164.472729,
+      "new_end": 166.472729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY021",
+      "old_start": 161.9,
+      "old_seconds": 3.8,
+      "new_start": 166.472729,
+      "new_end": 170.272729,
+      "new_seconds": 3.8,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY021B",
+      "old_start": 165.7,
+      "old_seconds": 2,
+      "new_start": 170.272729,
+      "new_end": 172.272729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY022A",
+      "old_start": 167.7,
+      "old_seconds": 2,
+      "new_start": 172.272729,
+      "new_end": 174.272729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY022A1",
+      "old_start": 169.7,
+      "old_seconds": 3,
+      "new_start": 174.272729,
+      "new_end": 177.272729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY022",
+      "old_start": 172.7,
+      "old_seconds": 4,
+      "new_start": 177.272729,
+      "new_end": 181.272729,
+      "new_seconds": 4,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY022B",
+      "old_start": 176.7,
+      "old_seconds": 3,
+      "new_start": 181.272729,
+      "new_end": 184.272729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY022B2",
+      "old_start": 179.7,
+      "old_seconds": 4,
+      "new_start": 184.272729,
+      "new_end": 188.272729,
+      "new_seconds": 4,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY022B1",
+      "old_start": 183.7,
+      "old_seconds": 3,
+      "new_start": 188.272729,
+      "new_end": 191.272729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY026",
+      "old_start": 186.7,
+      "old_seconds": 3,
+      "new_start": 191.272729,
+      "new_end": 194.272729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY022C",
+      "old_start": 189.7,
+      "old_seconds": 2,
+      "new_start": 194.272729,
+      "new_end": 196.272729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY023",
+      "old_start": 191.7,
+      "old_seconds": 2,
+      "new_start": 196.272729,
+      "new_end": 198.272729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY024",
+      "old_start": 193.7,
+      "old_seconds": 3,
+      "new_start": 198.272729,
+      "new_end": 201.272729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY024R",
+      "old_start": 196.7,
+      "old_seconds": 3.5,
+      "new_start": 201.272729,
+      "new_end": 204.772729,
+      "new_seconds": 3.5,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY024K00",
+      "old_start": 200.2,
+      "old_seconds": 4,
+      "new_start": 204.772729,
+      "new_end": 208.772729,
+      "new_seconds": 4,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY024K0",
+      "old_start": 204.2,
+      "old_seconds": 8.29,
+      "new_start": 208.772729,
+      "new_end": 217.062729,
+      "new_seconds": 8.29,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY024K1",
+      "old_start": 212.49,
+      "old_seconds": 3,
+      "new_start": 217.062729,
+      "new_end": 220.062729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY024K1A",
+      "old_start": 215.49,
+      "old_seconds": 4.0,
+      "new_start": 220.062729,
+      "new_end": 224.062729,
+      "new_seconds": 4.0,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY024K2",
+      "old_start": 219.49,
+      "old_seconds": 3,
+      "new_start": 224.062729,
+      "new_end": 227.062729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY024K2A",
+      "old_start": 222.49,
+      "old_seconds": 2,
+      "new_start": 227.062729,
+      "new_end": 229.062729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY024K3",
+      "old_start": 224.49,
+      "old_seconds": 4,
+      "new_start": 229.062729,
+      "new_end": 233.062729,
+      "new_seconds": 4,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY024K4",
+      "old_start": 228.49,
+      "old_seconds": 3,
+      "new_start": 233.062729,
+      "new_end": 236.062729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY023A",
+      "old_start": 231.49,
+      "old_seconds": 3,
+      "new_start": 236.062729,
+      "new_end": 239.062729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY026A",
+      "old_start": 234.49,
+      "old_seconds": 3.3,
+      "new_start": 239.062729,
+      "new_end": 242.362729,
+      "new_seconds": 3.3,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY026A1",
+      "old_start": 237.79,
+      "old_seconds": 2,
+      "new_start": 242.362729,
+      "new_end": 244.362729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY026B",
+      "old_start": 239.79,
+      "old_seconds": 4,
+      "new_start": 244.362729,
+      "new_end": 248.362729,
+      "new_seconds": 4,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY026C",
+      "old_start": 243.79,
+      "old_seconds": 4,
+      "new_start": 248.362729,
+      "new_end": 252.362729,
+      "new_seconds": 4,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY026D1",
+      "old_start": 247.79,
+      "old_seconds": 2,
+      "new_start": 252.362729,
+      "new_end": 254.902729,
+      "new_seconds": 2.54,
+      "delta_seconds": 0.54
+    },
+    {
+      "shot_id": "CY026D",
+      "old_start": 249.79,
+      "old_seconds": 7.47,
+      "new_start": 254.902729,
+      "new_end": 264.062729,
+      "new_seconds": 9.16,
+      "delta_seconds": 1.69
+    },
+    {
+      "shot_id": "CY026E",
+      "old_start": 257.26,
+      "old_seconds": 4,
+      "new_start": 264.062729,
+      "new_end": 268.062729,
+      "new_seconds": 4,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY024A0",
+      "old_start": 261.26,
+      "old_seconds": 3.2,
+      "new_start": 268.062729,
+      "new_end": 271.262729,
+      "new_seconds": 3.2,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY024A",
+      "old_start": 264.46,
+      "old_seconds": 7.25,
+      "new_start": 271.262729,
+      "new_end": 278.512729,
+      "new_seconds": 7.25,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY024A9",
+      "old_start": 271.71,
+      "old_seconds": 1,
+      "new_start": 278.512729,
+      "new_end": 279.512729,
+      "new_seconds": 1,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY024A10",
+      "old_start": 272.71,
+      "old_seconds": 1.5,
+      "new_start": 279.512729,
+      "new_end": 281.012729,
+      "new_seconds": 1.5,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY024A11",
+      "old_start": 274.21,
+      "old_seconds": 1.5,
+      "new_start": 281.012729,
+      "new_end": 282.512729,
+      "new_seconds": 1.5,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY024A12",
+      "old_start": 275.71,
+      "old_seconds": 1,
+      "new_start": 282.512729,
+      "new_end": 283.512729,
+      "new_seconds": 1,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY024A1",
+      "old_start": 276.71,
+      "old_seconds": 2.55,
+      "new_start": 283.512729,
+      "new_end": 286.062729,
+      "new_seconds": 2.55,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY024A2",
+      "old_start": 279.26,
+      "old_seconds": 7.34,
+      "new_start": 286.062729,
+      "new_end": 293.402729,
+      "new_seconds": 7.34,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY024A3",
+      "old_start": 286.6,
+      "old_seconds": 6.52,
+      "new_start": 293.402729,
+      "new_end": 299.922729,
+      "new_seconds": 6.52,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY024A6",
+      "old_start": 293.12,
+      "old_seconds": 11.35,
+      "new_start": 299.922729,
+      "new_end": 311.272729,
+      "new_seconds": 11.35,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY024A7",
+      "old_start": 304.47,
+      "old_seconds": 5.59,
+      "new_start": 311.272729,
+      "new_end": 316.862729,
+      "new_seconds": 5.59,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY024A5A",
+      "old_start": 310.06,
+      "old_seconds": 1.5,
+      "new_start": 316.862729,
+      "new_end": 318.362729,
+      "new_seconds": 1.5,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY024A4",
+      "old_start": 311.56,
+      "old_seconds": 4.86,
+      "new_start": 318.362729,
+      "new_end": 323.222729,
+      "new_seconds": 4.86,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY024A8",
+      "old_start": 316.42,
+      "old_seconds": 5.22,
+      "new_start": 323.222729,
+      "new_end": 328.442729,
+      "new_seconds": 5.22,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY024A5",
+      "old_start": 321.64,
+      "old_seconds": 12.0,
+      "new_start": 328.442729,
+      "new_end": 340.442729,
+      "new_seconds": 12.0,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY024A5B",
+      "old_start": 333.64,
+      "old_seconds": 1.5,
+      "new_start": 340.442729,
+      "new_end": 341.942729,
+      "new_seconds": 1.5,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY024B",
+      "old_start": 335.14,
+      "old_seconds": 5,
+      "new_start": 341.942729,
+      "new_end": 346.942729,
+      "new_seconds": 5,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY024B1",
+      "old_start": 340.14,
+      "old_seconds": 3,
+      "new_start": 346.942729,
+      "new_end": 349.942729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY024B3",
+      "old_start": 343.14,
+      "old_seconds": 3,
+      "new_start": 349.942729,
+      "new_end": 352.942729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY024B3A",
+      "old_start": 346.14,
+      "old_seconds": 2,
+      "new_start": 352.942729,
+      "new_end": 354.942729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY027",
+      "old_start": 348.14,
+      "old_seconds": 4,
+      "new_start": 354.942729,
+      "new_end": 358.942729,
+      "new_seconds": 4,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY027A",
+      "old_start": 352.14,
+      "old_seconds": 4.9,
+      "new_start": 358.942729,
+      "new_end": 363.842729,
+      "new_seconds": 4.9,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY027B",
+      "old_start": 357.04,
+      "old_seconds": 2,
+      "new_start": 363.842729,
+      "new_end": 365.842729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY027B1",
+      "old_start": 359.04,
+      "old_seconds": 2,
+      "new_start": 365.842729,
+      "new_end": 367.842729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY027B2",
+      "old_start": 361.04,
+      "old_seconds": 2,
+      "new_start": 367.842729,
+      "new_end": 369.842729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY027B3",
+      "old_start": 363.04,
+      "old_seconds": 3,
+      "new_start": 369.842729,
+      "new_end": 372.842729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY027C",
+      "old_start": 366.04,
+      "old_seconds": 2,
+      "new_start": 372.842729,
+      "new_end": 374.842729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY025",
+      "old_start": 368.04,
+      "old_seconds": 3,
+      "new_start": 374.842729,
+      "new_end": 377.842729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY027E",
+      "old_start": 371.04,
+      "old_seconds": 4,
+      "new_start": 377.842729,
+      "new_end": 381.842729,
+      "new_seconds": 4,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY027E1",
+      "old_start": 375.04,
+      "old_seconds": 2,
+      "new_start": 381.842729,
+      "new_end": 383.842729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY027D0",
+      "old_start": 377.04,
+      "old_seconds": 3,
+      "new_start": 383.842729,
+      "new_end": 386.842729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY027D",
+      "old_start": 380.04,
+      "old_seconds": 3,
+      "new_start": 386.842729,
+      "new_end": 389.842729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY027E2",
+      "old_start": 383.04,
+      "old_seconds": 3,
+      "new_start": 389.842729,
+      "new_end": 392.842729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY027F",
+      "old_start": 386.04,
+      "old_seconds": 4,
+      "new_start": 392.842729,
+      "new_end": 396.842729,
+      "new_seconds": 4,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY027F0",
+      "old_start": 390.04,
+      "old_seconds": 2,
+      "new_start": 396.842729,
+      "new_end": 398.842729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY027F2",
+      "old_start": 392.04,
+      "old_seconds": 3,
+      "new_start": 398.842729,
+      "new_end": 401.842729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY027F1",
+      "old_start": 395.04,
+      "old_seconds": 2,
+      "new_start": 401.842729,
+      "new_end": 403.842729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY027G",
+      "old_start": 397.04,
+      "old_seconds": 3,
+      "new_start": 403.842729,
+      "new_end": 406.842729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY028A",
+      "old_start": 400.04,
+      "old_seconds": 6.2,
+      "new_start": 406.842729,
+      "new_end": 413.042729,
+      "new_seconds": 6.2,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY028A2",
+      "old_start": 406.24,
+      "old_seconds": 4.17,
+      "new_start": 413.042729,
+      "new_end": 417.212729,
+      "new_seconds": 4.17,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY028B",
+      "old_start": 410.41,
+      "old_seconds": 2.35,
+      "new_start": 417.212729,
+      "new_end": 419.562729,
+      "new_seconds": 2.35,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY028C",
+      "old_start": 412.76,
+      "old_seconds": 1.72,
+      "new_start": 419.562729,
+      "new_end": 421.282729,
+      "new_seconds": 1.72,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY029",
+      "old_start": 414.48,
+      "old_seconds": 4,
+      "new_start": 421.282729,
+      "new_end": 425.282729,
+      "new_seconds": 4,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY029E",
+      "old_start": 418.48,
+      "old_seconds": 2,
+      "new_start": 425.282729,
+      "new_end": 427.282729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY029E1",
+      "old_start": 420.48,
+      "old_seconds": 2.7,
+      "new_start": 427.282729,
+      "new_end": 429.982729,
+      "new_seconds": 2.7,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY029E2",
+      "old_start": 423.18,
+      "old_seconds": 2.74,
+      "new_start": 429.982729,
+      "new_end": 432.722729,
+      "new_seconds": 2.74,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY029E3",
+      "old_start": 425.92,
+      "old_seconds": 3,
+      "new_start": 432.722729,
+      "new_end": 435.722729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY029E4",
+      "old_start": 428.92,
+      "old_seconds": 4.94,
+      "new_start": 435.722729,
+      "new_end": 440.662729,
+      "new_seconds": 4.94,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY029B1",
+      "old_start": 433.86,
+      "old_seconds": 4.36,
+      "new_start": 440.662729,
+      "new_end": 445.022729,
+      "new_seconds": 4.36,
+      "delta_seconds": 0.0
+    },
+    {
+      "shot_id": "CY029B2",
+      "old_start": 438.22,
+      "old_seconds": 2,
+      "new_start": 445.022729,
+      "new_end": 447.022729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY029B",
+      "old_start": 440.22,
+      "old_seconds": 3,
+      "new_start": 447.022729,
+      "new_end": 450.022729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY029C",
+      "old_start": 443.22,
+      "old_seconds": 2,
+      "new_start": 450.022729,
+      "new_end": 452.022729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY029D",
+      "old_start": 445.22,
+      "old_seconds": 2,
+      "new_start": 452.022729,
+      "new_end": 454.022729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY028",
+      "old_start": 447.22,
+      "old_seconds": 3,
+      "new_start": 454.022729,
+      "new_end": 457.022729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY029A",
+      "old_start": 450.22,
+      "old_seconds": 3,
+      "new_start": 457.022729,
+      "new_end": 460.022729,
+      "new_seconds": 3,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY030",
+      "old_start": 453.22,
+      "old_seconds": 6,
+      "new_start": 460.022729,
+      "new_end": 466.022729,
+      "new_seconds": 6,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY031",
+      "old_start": 459.22,
+      "old_seconds": 5,
+      "new_start": 466.022729,
+      "new_end": 471.022729,
+      "new_seconds": 5,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY031A",
+      "old_start": 464.22,
+      "old_seconds": 4,
+      "new_start": 471.022729,
+      "new_end": 475.022729,
+      "new_seconds": 4,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY032A",
+      "old_start": 468.22,
+      "old_seconds": 2,
+      "new_start": 475.022729,
+      "new_end": 477.022729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY033",
+      "old_start": 470.22,
+      "old_seconds": 4,
+      "new_start": 477.022729,
+      "new_end": 481.022729,
+      "new_seconds": 4,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY034A",
+      "old_start": 474.22,
+      "old_seconds": 2,
+      "new_start": 481.022729,
+      "new_end": 483.022729,
+      "new_seconds": 2,
+      "delta_seconds": 0
+    },
+    {
+      "shot_id": "CY034",
+      "old_start": 476.22,
+      "old_seconds": 7,
+      "new_start": 483.022729,
+      "new_end": 490.022729,
+      "new_seconds": 7,
+      "delta_seconds": 0
+    }
+  ],
+  "protected_beats": {
+    "kimi_manifest_shot": "CY024K00",
+    "kimi_manifest_duration": 4,
+    "claude_pause": [
+      421.282729,
+      427.282729
+    ],
+    "claude_pause_duration": 6,
+    "father_cue_id": "VO-CY029-01",
+    "gpt_prayer_spell_gap": 0.8,
+    "gpt_roof_breakthrough_shot": "CY024A5A",
+    "attack_after_spell": true
+  },
+  "music_duck_regions": [
+    {
+      "id": "inner-world",
+      "start": 54.672729,
+      "end": 69.592729,
+      "gain_db": -7,
+      "attack_seconds": 0.2,
+      "release_seconds": 0.2,
+      "reason": "整个内心戏持续压低音乐，句间不弹回"
+    }
+  ]
+}

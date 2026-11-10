@@ -1,0 +1,19 @@
+{
+  "id": "CY021A",
+  "input": {
+    "transparent_background": false,
+    "referenced_image_paths": [
+      "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/动作收尾-v015/CY021A-v015-r1.png"
+    ],
+    "prompt": "Local edit of exactly this anime image. Keep both men's identity, poses, hands gripping the SINGLE torch, black-gold vestments, framing, cathedral, stained glass. Replace ONLY the orange/red/yellow flame atop the hand-held torch with supernatural BLACK FLAME: opaque ink-black tongues with charcoal inner wisps and extremely thin muted violet-silver edges separating it from background. Clear tapered licking FLAME silhouette rising from torch cup, NOT round smoke cloud, not extinguished torch, not purple fire. Remove torch-caused bright red/orange reflections on their near hands/faces and replace them with restrained neutral/cool edge light; retain original golden costume trim and existing room light. No new magic ring, text, changes to anatomy or extra torch."
+  },
+  "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-0108b224-45fb-4ce5-923b-1a28afff559a.png",
+  "output": "镜头设计/图像/细节与显形-v052/CY021A-v052-r1.png",
+  "sha256": "a16bdb87274b9d16222eb170f95b2fc0e7b5cecca6006f7f94c852114c6fb4a7",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "engine": "built-in image_gen",
+  "status": "pending_author_visual_review"
+}

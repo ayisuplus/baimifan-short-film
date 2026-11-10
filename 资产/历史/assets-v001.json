@@ -1,0 +1,236 @@
+{
+  "title": "《穿云》资产图册 · v0.1",
+  "scope": "首批 15 项核心资产与 2 幅母版概念参考：8 项复用、7 项新制作候选。新候选待作者审阅；动态图、配音、分镜、背面补图和伤后状态未自动视为完成。点击主图查看原尺寸，展开来源可查看完整制作提示词。",
+  "assets": [
+    {
+      "id": "CHAR-CLAUDE",
+      "name": "Claude · 白礼服与头纱",
+      "category": "主角",
+      "version": "v001",
+      "status": "候选待作者审阅",
+      "path": "资产/图像/CHAR-CLAUDE-v001.png",
+      "role": "主全身、背面及肖像，延续橙发、琥珀眼、橙花与白色刺绣礼服；用于 S01、S03—S06。",
+      "limits": "裙身下部、背部、鞋和长发长度含合理补全，待作者确认；不是精确建模正交图，表情和受损状态按分镜补。",
+      "source": "资产/生成记录/CHAR-CLAUDE-v001.json",
+      "related": [
+        {
+          "path": "概念参考/01-Claude-母版概念参考.webp",
+          "role": "身份与服装原始依据"
+        }
+      ]
+    },
+    {
+      "id": "CHAR-DEEPSEEK",
+      "name": "DeepSeek · 蓝鲸绒边斗篷",
+      "category": "主角",
+      "version": "原件",
+      "status": "作者指定复用",
+      "path": "资产/图像/CHAR-DEEPSEEK_服装母版.png",
+      "role": "沿用作者已有完整人物与穿搭拆解。鲸帽、蓝白色块、绒边、短靴作为一致性依据。",
+      "limits": "这是服装参考总图，未另行重绘；伤后灰尘、破损和绷带按实际镜头补。",
+      "source": "资产/复用来源.json",
+      "related": []
+    },
+    {
+      "id": "CHAR-GPT",
+      "name": "ChatGPT · 白龙娘净版",
+      "category": "主角",
+      "version": "v003",
+      "status": "候选待作者审阅",
+      "path": "资产/图像/CHAR-GPT-v003.png",
+      "role": "按用户指定截图保留龙角、翼、尾、银白长发与礼服，去除解说文字、播放器覆盖和悬浮小云。",
+      "limits": "浅灰色不透明背景的再生成候选，底部遮挡部分有补全；不是透明合成素材，也不是逐像素原图裁切。",
+      "source": "资产/生成记录/CHAR-GPT-v003.json",
+      "related": [
+        {
+          "path": "概念参考/04-ChatGPT-用户指定龙娘.png",
+          "role": "作者本轮指定的主要形象参考"
+        },
+        {
+          "path": "资产/图像/CHAR-GPT-v001.png",
+          "role": "历史 v001：轮廓有杂色，保留追溯"
+        },
+        {
+          "path": "资产/生成记录/CHAR-GPT-v001.json",
+          "role": "首版调用记录"
+        },
+        {
+          "path": "资产/图像/CHAR-GPT-v002.png",
+          "role": "历史 v002：透明边缘仍有杂色"
+        },
+        {
+          "path": "资产/生成记录/CHAR-GPT-v002.json",
+          "role": "第二版调用记录"
+        }
+      ]
+    },
+    {
+      "id": "ENV-STREET",
+      "name": "街市 · 阳光与长椅",
+      "category": "场景",
+      "version": "v001",
+      "status": "候选待作者审阅",
+      "path": "资产/图像/ENV-STREET-v001.png",
+      "role": "S01 相遇与 S06 分饭的环境母版；暖阳、蓝白棚布、开放通道、长椅与远处教堂。",
+      "limits": "原图被遮挡的空间、长椅和教堂外观为本版提案；非原图无损净版，人物尺度及教堂内外衔接待分镜验证。",
+      "source": "资产/生成记录/ENV-STREET-v001.json",
+      "related": []
+    },
+    {
+      "id": "ENV-PALACE",
+      "name": "宫殿 · 独座与高台",
+      "category": "场景",
+      "version": "v001",
+      "status": "候选待作者审阅",
+      "path": "资产/图像/ENV-PALACE-v001.png",
+      "role": "S02 求助与 S05 信号回闪的环境母版；一个座位、空旷大厅、侧边露台。",
+      "limits": "完整宫殿为新候选；椅子供龙翼与尾巴的实际坐姿、入口反向及露台角度尚待验证。",
+      "source": "资产/生成记录/ENV-PALACE-v001.json",
+      "related": []
+    },
+    {
+      "id": "ENV-CHURCH",
+      "name": "教堂 · 祭坛与侧墙洞口",
+      "category": "场景",
+      "version": "v001",
+      "status": "候选待作者审阅",
+      "path": "资产/图像/ENV-CHURCH-v001.png",
+      "role": "S03—S05 场景母版：侧墙低洞、长椅、中央通道、祭坛、十字架、未燃柴薪和水盆。",
+      "limits": "当前单视点；大门位于镜头后方，反向视角未制作。狗洞与鲸帽、十字架与 Claude 的尺度及火焰状态待分镜确认。",
+      "source": "资产/生成记录/ENV-CHURCH-v001.json",
+      "related": []
+    },
+    {
+      "id": "CHAR-PRIEST",
+      "name": "教主 · 黑金礼服",
+      "category": "配角",
+      "version": "v001",
+      "status": "候选待作者审阅",
+      "path": "资产/图像/CHAR-PRIEST-v001.png",
+      "role": "虚构父亲角色的全身与肖像，持未点燃火把；属于同一黑袍教会。",
+      "limits": "新创作候选，无现实人物相貌依据；服饰、年龄与面容尚待作者采用。",
+      "source": "资产/生成记录/CHAR-PRIEST-v001.json",
+      "related": []
+    },
+    {
+      "id": "CHAR-CULTIST",
+      "name": "教徒 · 黑袍正背参考",
+      "category": "配角",
+      "version": "v001",
+      "status": "候选待作者审阅",
+      "path": "资产/图像/CHAR-CULTIST-v001.png",
+      "role": "依据母版黑袍群体补全的一套通用正背造型，可供不同教徒复用。",
+      "limits": "背面与下身含补全；不是已验证的角色群体动态或战斗动作。",
+      "source": "资产/生成记录/CHAR-CULTIST-v001.json",
+      "related": []
+    },
+    {
+      "id": "MULKZI2WM2FEL",
+      "name": "Grok · Eagle 原图",
+      "category": "援军参考",
+      "version": "原件",
+      "status": "作者指定复用",
+      "path": "资产/图像/C09_Grok.png",
+      "role": "作者指定沿用的援军角色参考；原字节复制，保留人物、服装和配色。",
+      "limits": "最终出场数量、站位与动态能力待分镜；合景时统一渲染和光照，不改本色。",
+      "source": "资产/复用来源.json",
+      "related": []
+    },
+    {
+      "id": "MULKZI2WI4VGS",
+      "name": "Mistral · Eagle 原图",
+      "category": "援军参考",
+      "version": "原件",
+      "status": "作者指定复用",
+      "path": "资产/图像/C08_Mistral.png",
+      "role": "作者指定沿用的援军角色参考；原字节复制，保留人物、服装和配色。",
+      "limits": "最终出场数量、站位与动态能力待分镜；合景时统一渲染和光照，不改本色。",
+      "source": "资产/复用来源.json",
+      "related": []
+    },
+    {
+      "id": "MULKZI2W3JZ5F",
+      "name": "Perplexity · Eagle 原图",
+      "category": "援军参考",
+      "version": "原件",
+      "status": "作者指定复用",
+      "path": "资产/图像/C07_Perplexity.png",
+      "role": "作者指定沿用的援军角色参考；原字节复制，保留人物、服装和配色。",
+      "limits": "最终出场数量、站位与动态能力待分镜；合景时统一渲染和光照，不改本色。",
+      "source": "资产/复用来源.json",
+      "related": []
+    },
+    {
+      "id": "MULKZI2W8B4P3",
+      "name": "Gemini · Eagle 原图",
+      "category": "援军参考",
+      "version": "原件",
+      "status": "作者指定复用",
+      "path": "资产/图像/C06_Gemini.png",
+      "role": "作者指定沿用的援军角色参考；原字节复制，保留人物、服装和配色。",
+      "limits": "最终出场数量、站位与动态能力待分镜；合景时统一渲染和光照，不改本色。",
+      "source": "资产/复用来源.json",
+      "related": []
+    },
+    {
+      "id": "MULKZI2WQUZ98",
+      "name": "Zai-GLM · Eagle 原图",
+      "category": "援军参考",
+      "version": "原件",
+      "status": "作者指定复用",
+      "path": "资产/图像/C05_Zai-GLM.png",
+      "role": "作者指定沿用的援军角色参考；原字节复制，保留人物、服装和配色。",
+      "limits": "最终出场数量、站位与动态能力待分镜；合景时统一渲染和光照，不改本色。",
+      "source": "资产/复用来源.json",
+      "related": []
+    },
+    {
+      "id": "MULKZI2W5366M",
+      "name": "Qwen · Eagle 原图",
+      "category": "援军参考",
+      "version": "原件",
+      "status": "作者指定复用",
+      "path": "资产/图像/C04_Qwen.png",
+      "role": "作者指定沿用的援军角色参考；原字节复制，保留人物、服装和配色。",
+      "limits": "最终出场数量、站位与动态能力待分镜；合景时统一渲染和光照，不改本色。",
+      "source": "资产/复用来源.json",
+      "related": []
+    },
+    {
+      "id": "MULKZI2WMFNJE",
+      "name": "Kimi · Eagle 原图",
+      "category": "援军参考",
+      "version": "原件",
+      "status": "作者指定复用",
+      "path": "资产/图像/C03_Kimi.png",
+      "role": "作者指定沿用的援军角色参考；原字节复制，保留人物、服装和配色。",
+      "limits": "最终出场数量、站位与动态能力待分镜；合景时统一渲染和光照，不改本色。",
+      "source": "资产/复用来源.json",
+      "related": []
+    },
+    {
+      "id": "REF-CLAUDE",
+      "name": "母版概念 · Claude 与黑袍人群",
+      "category": "概念参考",
+      "version": "原件",
+      "status": "作者指定母版",
+      "path": "概念参考/01-Claude-母版概念参考.webp",
+      "role": "作者指定：Claude 身份、服装色彩及哥特式画面氛围。",
+      "limits": "原图只展示局部人物；裙身、背面及完整教堂结构需要补全候选。",
+      "source": "制作进度.md",
+      "related": []
+    },
+    {
+      "id": "REF-STREET",
+      "name": "母版概念 · 阳光街市与小鱼",
+      "category": "概念参考",
+      "version": "原件",
+      "status": "作者指定母版",
+      "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+      "role": "作者指定：街市光影、DeepSeek 身份、体态与捧饭道具关系。",
+      "limits": "黑袍遮挡区域不可见；饭盆与小鱼的接触仅是静态参考，未完成动作验证。",
+      "source": "制作进度.md",
+      "related": []
+    }
+  ]
+}

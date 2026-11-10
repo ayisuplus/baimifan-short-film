@@ -1,0 +1,639 @@
+{
+  "version": "v004",
+  "title": "白米饭 · 全片生成板",
+  "source": "镜头设计/shot-plan-v0.54.json",
+  "assets": "资产/assets.json",
+  "output": "视频制作/生成板-v004",
+  "request_seconds": 15,
+  "cast_review": "视频制作/生成板-v004/人物核对.json",
+  "sound_review": "视频制作/生成板-v004/声音核对.json",
+  "navigation": {
+    "home": "00_打开项目.html",
+    "previs": "镜头设计/带图分镜.html#previs",
+    "review": "后期/生成前复核-v001/审查报告.md"
+  },
+  "style": "沿用本片当前哥特式异世界动画母版及逐镜参考，人物设计、服装本色、眼色与画风一致。",
+  "constraints": "按各镜起止状态连续表演，不重复已完成动作。现有图片用于身份、构图和状态参考，不把静帧终态当起帧。画内只出现本镜动作指定的人物，参考卡不表示全部入场。",
+  "sound_policy": "说话语言为中文，原句只说规定次数。画内说话者自然口型，画外声不让在画人物代说；连续咏唱跨镜保持同一声线。环境音与动作音随动作发生；既有BGM与全片连续配音由后期统筹，不在每个15秒重新起乐。正式声线与口型待验。",
+  "batches": [
+    {
+      "id": "GB001",
+      "title": "初遇与递饭",
+      "shot_ids": [
+        "CY001",
+        "CY002",
+        "CY003",
+        "CY003A"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB002",
+      "title": "善意受阻与消息",
+      "shot_ids": [
+        "CY003B",
+        "CY003C",
+        "CY004",
+        "CY004A"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB003",
+      "title": "宫门放行与独座",
+      "shot_ids": [
+        "CY004B",
+        "CY004C",
+        "CY004D",
+        "CY005"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB004",
+      "title": "求救、拒绝与追问",
+      "shot_ids": [
+        "CY006",
+        "CY007",
+        "CY008"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB005",
+      "title": "决定独自前去与长殿目送",
+      "shot_ids": [
+        "CY009",
+        "CY010",
+        "CY009A"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB006",
+      "title": "等待与钻洞",
+      "shot_ids": [
+        "CY010A",
+        "CY011",
+        "CY011A",
+        "CY012"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB007",
+      "title": "察觉与试锁",
+      "shot_ids": [
+        "CY013",
+        "CY013A",
+        "CY015",
+        "CY016"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB008",
+      "title": "劝离与脚步逼近",
+      "shot_ids": [
+        "CY016A1",
+        "CY016A",
+        "CY016B",
+        "CY016B1",
+        "CY016C"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB009",
+      "title": "抓柴与受阻",
+      "shot_ids": [
+        "CY016D",
+        "CY017",
+        "CY017A",
+        "CY018"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB010",
+      "title": "铺柴与教主",
+      "shot_ids": [
+        "CY018B",
+        "CY021A",
+        "CY019"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB011",
+      "title": "保护、推倒与抓袍",
+      "shot_ids": [
+        "CY020",
+        "CY020B",
+        "CY020A",
+        "CY021",
+        "CY021B"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB012",
+      "title": "登阶与点火",
+      "shot_ids": [
+        "CY022A",
+        "CY022A1",
+        "CY022",
+        "CY022B"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB013",
+      "title": "黑焰、列阵与破门",
+      "shot_ids": [
+        "CY022B2",
+        "CY022B1",
+        "CY026",
+        "CY022C",
+        "CY023"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB014",
+      "title": "正门吸引注意",
+      "shot_ids": [
+        "CY024",
+        "CY024R"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "在注意力转向正门的反应后分批，保留下一批完整4秒显形和6秒咏唱。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB014A",
+      "title": "月光流入，背影显形与举刃",
+      "shot_ids": [
+        "CY024K00",
+        "CY024K0"
+      ],
+      "group_reason": "4秒月光凝形接6秒完整请求与投刃，角色状态与声线连续。",
+      "handle_reason": "10秒有效内容；后续破窗至护罩为14秒完整动作链，无法整体并入剩余5秒；不拆断后续动作链。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB015",
+      "title": "破窗、循刃瞬移与护罩",
+      "shot_ids": [
+        "CY024K1",
+        "CY024K1A",
+        "CY024K2",
+        "CY024K2A",
+        "CY024K3"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB016",
+      "title": "试镣、骑士入场与首轮邀约",
+      "shot_ids": [
+        "CY024K4",
+        "CY023A",
+        "CY026A",
+        "CY026A1",
+        "CY026B"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB017",
+      "title": "基地与月背约定",
+      "shot_ids": [
+        "CY026C",
+        "CY026D1",
+        "CY026D"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB018",
+      "title": "各路回应、抱紧宝宝与起咏",
+      "shot_ids": [
+        "CY026E",
+        "CY024A0",
+        "CY024A"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB019",
+      "title": "截击与罩内安抚",
+      "shot_ids": [
+        "CY024A9",
+        "CY024A10",
+        "CY024A11",
+        "CY024A12",
+        "CY024A1",
+        "CY024A2"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB020",
+      "title": "聚水与俯冲",
+      "shot_ids": [
+        "CY024A3",
+        "CY024A6",
+        "CY024A7"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB021",
+      "title": "破顶与双向反应",
+      "shot_ids": [
+        "CY024A5A",
+        "CY024A4",
+        "CY024A8"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB022",
+      "title": "结印、出击与撞盾",
+      "shot_ids": [
+        "CY024A5",
+        "CY024A5B",
+        "CY024B"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB023",
+      "title": "清场余波与降落",
+      "shot_ids": [
+        "CY024B1",
+        "CY024B3",
+        "CY024B3A",
+        "CY027"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB024",
+      "title": "对峙与变身腾空",
+      "shot_ids": [
+        "CY027A",
+        "CY027B",
+        "CY027B1",
+        "CY027B2",
+        "CY027B3"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB025",
+      "title": "天空省略与外敌逼近",
+      "shot_ids": [
+        "CY027C",
+        "CY025",
+        "CY027E",
+        "CY027E1",
+        "CY027D0"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB026",
+      "title": "守门、胜负与取钥匙",
+      "shot_ids": [
+        "CY027D",
+        "CY027E2",
+        "CY027F",
+        "CY027F0"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB027",
+      "title": "撤罩、解锁与落脚",
+      "shot_ids": [
+        "CY027F2",
+        "CY027F1",
+        "CY027G",
+        "CY028A"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB028",
+      "title": "确认宝宝、初咏与父亲打断",
+      "shot_ids": [
+        "CY028A2",
+        "CY028B",
+        "CY028C",
+        "CY029",
+        "CY029E"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB029",
+      "title": "选择继续与凝种",
+      "shot_ids": [
+        "CY029E1",
+        "CY029E2",
+        "CY029E3",
+        "CY029E4"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB030",
+      "title": "星火、脱力与接抱",
+      "shot_ids": [
+        "CY029B1",
+        "CY029B2",
+        "CY029B",
+        "CY029C",
+        "CY029D",
+        "CY028"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB031",
+      "title": "离殿与数日后",
+      "shot_ids": [
+        "CY029A",
+        "CY030",
+        "CY031"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB032",
+      "title": "落座、接勺与热饮",
+      "shot_ids": [
+        "CY031A",
+        "CY032A",
+        "CY033"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    },
+    {
+      "id": "GB033",
+      "title": "第一口饭与安静收尾",
+      "shot_ids": [
+        "CY034A",
+        "CY034"
+      ],
+      "group_reason": "保持本组动作因果与完整台词；切点落在镜头边界。",
+      "handle_reason": "与下一组的时空或叙事阶段分开，保留剪辑余量；不增加正片时长。",
+      "status": "draft_not_submitted"
+    }
+  ],
+  "speech_modes": {
+    "CY003B": "说话者嘴部不在画面；声音连续，不让在画者代说",
+    "CY016B1": "说话者嘴部不在画面；声音连续，不让在画者代说",
+    "CY021": "说话者嘴部不在画面；声音连续，不让在画者代说",
+    "CY026A1": "说话者嘴部不在画面；声音连续，不让在画者代说",
+    "CY026D1": "说话者嘴部不在画面；声音连续，不让在画者代说",
+    "CY026E": "说话者嘴部不在画面；声音连续，不让在画者代说",
+    "CY028B": "说话者嘴部不在画面；声音连续，不让在画者代说",
+    "CY028C": "说话者嘴部不在画面；声音连续，不让在画者代说",
+    "CY029": "说话者嘴部不在画面；声音连续，不让在画者代说",
+    "CY029E2": "说话者嘴部不在画面；声音连续，不让在画者代说",
+    "CY029E3": "说话者嘴部不在画面；声音连续，不让在画者代说",
+    "CY029E4": "说话者嘴部不在画面；声音连续，不让在画者代说",
+    "CY029B1": "说话者嘴部不在画面；声音连续，不让在画者代说"
+  },
+  "execution_notes": {
+    "CY016D": "下长阶过程剪辑省略，本镜从阶下抓木开始。",
+    "CY020A": "本镜只演一次被推倒，落地后手肘开始撑地；撑起失败留到下一镜。",
+    "CY021": "延续上一镜同一次撑地，完成唯一一次撑起失败，不再次摔倒。",
+    "CY022": "展示火把接触柴堆与火焰蔓延；教主返回阶下的移动过程用后续切镜省略。",
+    "CY024K4": "重点演见痛撤刀；双刃收后腰在下次罩内镜前用剪辑省略，后续双手已腾出。",
+    "CY027F1": "省略重复开锁操作，画内展示最后一只踝扣打开，结束两踝均开。",
+    "CY027G": "中间腰链及另一腕扣用剪辑省略，重点是GPT先扶稳再开最后腕扣；结束五扣全开。"
+  },
+  "shot_notes": {
+    "CY016D": "下长阶过程用切镜省略，本镜从阶下接抓木；不要2秒走完整长阶。",
+    "CY020B": "此分镜火把形制与前面交接火把的镜头有历史差异；须统一为同一短柄仪式火把，修正前不冻结输入。",
+    "CY020A": "推倒只发生一次，本镜结束在落地后手肘开始撑地；起身失败在CY021完成。",
+    "CY021": "延续同一次撑地失败，不再摔倒。原句2秒为预算，正式表演待验。",
+    "CY022": "先展示点柴接触与燃起；返下阶用下一场面剪辑省略，不要求4秒完整走完。",
+    "CY024K0": "已按当前画面核对为Kimi现场说话；6秒含完整请求与投刃，口型与留白待验。",
+    "CY024K4": "3秒重点是见痛撤刀；双刃收后腰可在后续罩内镜前省略，不做重复试镣。",
+    "CY024A0": "分镜图手位与动态要求相反：必须千问左臂抱小鱼、右手持扇；不得用作强约束首帧，修正或替换后再冻结。",
+    "CY027F1": "先交代钥匙转动与踝扣打开，用剪辑省略第二扣重复操作。",
+    "CY027G": "GPT扶稳先于最后腕扣解开；中间腰链与另一腕扣用剪辑省略，五扣均须已解除。",
+    "CY031A": "先坐下后接勺；4秒含问答为预算，需正式读稿验证。",
+    "CY032A": "分镜图中Claude已经持勺；此图只能作交接后的构图参考，不能指定首帧，必须先演宝宝递柄、Claude握牢、宝宝松手。",
+    "CY024K00": "正后方同机位起中终状态参考；预演为静帧切换，动态须连续凝形，不把三图切成三个镜头。"
+  },
+  "mix_notes": [
+    "七首曲从music_adoption.marks读取；源in/out未定，禁止按批次重播或自动循环。",
+    "Fear在205.5–411.5秒的206秒段落长于139.551701秒源曲，须乐句重编与留白。",
+    "431.5–435.5秒BGM静音，只留街市与呼吸。"
+  ],
+  "global_gaps": [
+    "所有批次待作者审阅，尚未上传、冻结或提交。",
+    "正式声线、完整连续配音、音效与混音听审尚未完成；现有时码是预演预算。",
+    "模型模板已核对官方文档，具体执行入口、参数、账户能力及槽位绑定待现场核实。"
+  ],
+  "direction_reviews": [
+    "视频制作/生成板-v004/动态审查.json"
+  ],
+  "pilot_prompts": {
+    "seedance25": "视频制作/生成板-v002-试写/GB001-seedance25.txt",
+    "minimax-h3": "视频制作/生成板-v002-试写/GB001-minimax-h3.txt"
+  },
+  "identity_inputs": {
+    "DeepSeek": {
+      "name_en": "DeepSeek",
+      "asset_id": "CHAR-DEEPSEEK",
+      "kind": "four_view"
+    },
+    "Claude": {
+      "name_en": "Claude",
+      "asset_id": "CHAR-CLAUDE",
+      "kind": "four_view"
+    },
+    "ChatGPT": {
+      "name_en": "ChatGPT",
+      "asset_id": "CHAR-GPT",
+      "kind": "four_view"
+    },
+    "Qwen": {
+      "name_en": "Qwen",
+      "asset_id": "MULKZI2W5366M",
+      "kind": "four_view"
+    },
+    "Kimi": {
+      "name_en": "Kimi",
+      "asset_id": "MULKZI2WMFNJE",
+      "kind": "four_view"
+    },
+    "Grok": {
+      "name_en": "Grok",
+      "asset_id": "MULKZI2WM2FEL",
+      "kind": "four_view"
+    },
+    "Gemini": {
+      "name_en": "Gemini",
+      "asset_id": "MULKZI2W8B4P3",
+      "kind": "four_view"
+    },
+    "混元": {
+      "name_en": "Hunyuan",
+      "asset_id": "MULKZI2W35NQQ",
+      "kind": "four_view"
+    },
+    "Llama": {
+      "name_en": "Llama",
+      "asset_id": "MULKZI2WY07S2",
+      "kind": "four_view"
+    },
+    "智谱": {
+      "name_en": "Zhipu",
+      "asset_id": "MULKZI2WQUZ98",
+      "kind": "four_view"
+    },
+    "Mistral": {
+      "name_en": "Mistral",
+      "asset_id": "MULKZI2WI4VGS",
+      "kind": "four_view"
+    },
+    "Perplexity": {
+      "name_en": "Perplexity",
+      "asset_id": "MULKZI2W3JZ5F",
+      "kind": "four_view"
+    },
+    "教主": {
+      "name_en": "the High Priest",
+      "asset_id": null,
+      "kind": "missing",
+      "gap": "教主目前只有立绘，缺少四视图；身份槽位待补，未以概念图代替。"
+    },
+    "教徒": {
+      "name_en": "the cultists",
+      "asset_id": null,
+      "kind": "background"
+    },
+    "圣骑士": {
+      "name_en": "the palace paladins",
+      "asset_id": "CHAR-PALADIN",
+      "kind": "four_view"
+    },
+    "街市行人": {
+      "name_en": "market pedestrians",
+      "asset_id": null,
+      "kind": "background"
+    }
+  },
+  "model_contracts": {
+    "seedance25": {
+      "max_images": 30
+    },
+    "minimax-h3": {
+      "max_images": 9,
+      "max_chars": 7000
+    },
+    "verified": "2026-10-25官方资料；实际执行入口仍需核实"
+  },
+  "cast_overrides": {
+    "CY003A": {
+      "visible": [
+        "DeepSeek",
+        "Claude"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "只有小鱼的手与局部身体、Claude右缘裙装与橙发；Claude接碗手不入画。"
+    }
+  },
+  "action_overrides": {
+    "CY003A": "继承已经递出的饭碗，双手悬停，热气升起；右侧没有接碗手。"
+  },
+  "character_continuity_zh": {
+    "Claude": "Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。"
+  },
+  "character_continuity_en": {
+    "Claude": "Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene."
+  },
+  "pilot_batch": "GB001",
+  "continuous_line_parts": {
+    "CY024A9": "统御",
+    "CY024A10": "万千",
+    "CY024A11": "深流",
+    "CY024A12": "的",
+    "CY024A1": "水之灵啊，"
+  },
+  "pilot_reference_order": [
+    "CHAR-DEEPSEEK",
+    "CHAR-CLAUDE"
+  ]
+}

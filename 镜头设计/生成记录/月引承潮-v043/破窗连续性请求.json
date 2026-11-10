@@ -1,0 +1,29 @@
+[
+  {
+    "id": "CY024K1",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/月刃救援-v041/CY024K1-v041-r1.png",
+      "镜头设计/图像/月引承潮-v043/CY024K2-v043-r1.png"
+    ],
+    "prompt": "Continuity edit of reference1 airborne Kimi entrance. Keep her pose, two small round crescent blades (ownright dark, ownleft ivory), two intact anatomical hands, exact long lilac hair and navy-white-gold outfit, Claude upright bound cross and huge purple-black burning wood foreground. No shield or floor magic yet. Reference2 establishes exact window geometry immediately AFTER this action, same church and cross. Rebuild ONLY rearleft window opening of ref1 so its resulting hole matches ref2: one large elongated irregular vertical hole in the upper-left window left of the cross, surrounded by attached blue triangular shards, two pointed remnants rising from bottom lip, stone outer frame intact, next windows all intact. The existing opening in ref1 is too round, extend down into that same tall irregular profile of ref2. Full moon outside appears through the upper part of hole. This is the ONLY frame with a burst of loose glass: show a small coherent falling fan dropping down-left close to the rear wall, not glass all across Claude/foreground and not confetti hovering everywhere. No glass touches Claude or moves toward her. A few shards just separate from hole edges, they will rest at wall base in following shots. Keep cinematic angle, 16:9, lighting and high-end anime. No text."
+  },
+  {
+    "id": "CY027F2",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/月刃救援-v041/CY027F2-v041-r2.png",
+      "镜头设计/图像/月引承潮-v043/CY024K2-v043-r1.png"
+    ],
+    "prompt": "BACKGROUND CONTINUITY EDIT ONLY of reference1, 16:9 same polished anime image. Preserve all three characters EXACTLY, their faces, hair, costumes, hands, GPT transferring black iron key into Kimi's open palm, Kimi dual crescent weapons stowed at rearwaist, Claude upright with wrists and ankles cuffed on cross and bare feet on narrow post ledge, wet burned dress, all poses and lighting. Ward has been dismissed, no magic symbols or rim. All fires out, wet stone. The original background incorrectly makes several tall windows open to night with a moon directly behind Claude. RESTORE intact dark blue stained glass in the central/right windows behind Claude and GPT. Only ONE broken window remains to the LEFT of the cross, behind and above Kimi, matching reference2's same tall irregular opening, two pointed blue-glass teeth on its bottom edge and attached blue triangles at its sides, stone frame intact. This tighter camera may crop part of hole at upperLEFT; just show the correct partly clipped jagged edge and dark night through it. Do NOT move moon into center for beauty; moon is offscreen at this camera angle. Restored intact glass is dark cobalt lit by moonlight after battle, no warm candlelight. Glass fragments clustered at rearleft wall base; no airborne shards. No new holes in other windows, no repaired damaged opening. Only background changes, no character or key modifications, no text."
+  },
+  {
+    "id": "CY028A",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/月刃救援-v041/CY028A-v041-r1.png",
+      "镜头设计/图像/月引承潮-v043/CY024K2-v043-r1.png"
+    ],
+    "prompt": "BACKGROUND CONTINUITY EDIT ONLY reference1. Keep same three women precisely, all expressions, poses, support grip, faces, outfits, water, cross and opened cuffs. This is AFTER all unlocking; Claude stands barefoot supported by white dragon GPT, Kimi stands left with stowed blades holding removed cuffs. Preserve original modest burned dress, no injuries added, no sitting. The tiny hole high left is incorrect. Replace that tiny hole with the SAME LARGE ELONGATED JAGGED OPENING as reference2 in the window LEFT of the cross. Match recognizable silhouette: broad vertical missing glass area, attached blue triangles down both edges, two pointed remnants at bottom lip, upperpart partly out of frame for this angle. No expansion to neighboring windows. The other tall blue stainedglass windows remain intact and dark moonlit. Do NOT insert a new fullmoon elsewhere in frame; at this lower/closer angle it can be offscreen. Resting blueglass fragments cluster beneath the broken window at rearleft wall base, some wet glints, none flying/hovering. All fires out. Retain no shield/no floor magic. 16:9 polished fantasy anime, exact existing composition and characters, no text."
+  }
+]

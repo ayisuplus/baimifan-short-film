@@ -1,0 +1,106 @@
+{
+  "records": [
+    {
+      "id": "CY008M-S01",
+      "path": "镜头设计/图像/王宫内心戏-v001/CY008M-S01-恶魔提醒.png",
+      "sha256": "b2c9a7e7c1c28212834d58fe64ff0a155ef2d2045b29349addcb4d4fe700c617",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "generated_candidate_pending_author_review",
+      "engine": "built-in image_gen",
+      "prompt": "镜头设计/生成记录/王宫内心戏-v001/S01-prompt.txt",
+      "actual_inputs": [
+        {
+          "path": "镜头设计/图像/数学宫殿-v056/CY007.png",
+          "sha256": "fdc72190014d8d66af8cc7d7efb8c02fca68616106e83a23823fb3f05b7d7dc7",
+          "size": [
+            1672,
+            941
+          ]
+        },
+        {
+          "path": "资产/图像/王宫内心戏-v001/CHAR-GPT-ANGEL-TURN-v003.png",
+          "sha256": "8e5b7ef471ca677b2751891edd36282e0b2ad84d33cd03e132fdb98771a2ab4b",
+          "size": [
+            2172,
+            724
+          ]
+        },
+        {
+          "path": "资产/图像/王宫内心戏-v001/CHAR-GPT-DEVIL-TURN-v003.png",
+          "sha256": "e44ded7f0a9e27a70ff2980d4d95a331882f929efe7394257daab0cc01910b15",
+          "size": [
+            2172,
+            724
+          ]
+        }
+      ],
+      "original_output": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-296a6bb6-616e-42fc-ab0d-95eedbaf63b8.png"
+    },
+    {
+      "id": "CY008M-S02",
+      "path": "镜头设计/图像/王宫内心戏-v001/CY008M-S02-天使反驳.png",
+      "sha256": "3b21ea1d04bb76d884155b53fc81f54cd173fd21e1cac3ebd80dd74709d2b2ce",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "generated_candidate_pending_author_review",
+      "engine": "built-in image_gen",
+      "prompt": "镜头设计/生成记录/王宫内心戏-v001/S02-prompt.txt",
+      "actual_inputs": [
+        {
+          "path": "镜头设计/图像/王宫内心戏-v001/CY008M-S01-恶魔提醒.png",
+          "sha256": "b2c9a7e7c1c28212834d58fe64ff0a155ef2d2045b29349addcb4d4fe700c617",
+          "size": [
+            1672,
+            941
+          ]
+        }
+      ],
+      "original_output": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-baf21807-cce0-4a15-be99-77a6776150a6.png"
+    },
+    {
+      "id": "CY008M-S03",
+      "path": "镜头设计/图像/王宫内心戏-v001/CY008M-S03-等待回答.png",
+      "sha256": "9876de5f18b9512da8138dd9d4dca8736735629eb2c41d882e2236c2f9e760bf",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "generated_candidate_pending_author_review",
+      "engine": "built-in image_gen",
+      "prompt": "镜头设计/生成记录/王宫内心戏-v001/S03-prompt.txt",
+      "actual_inputs": [
+        {
+          "path": "镜头设计/图像/王宫内心戏-v001/CY008M-S02-天使反驳.png",
+          "sha256": "3b21ea1d04bb76d884155b53fc81f54cd173fd21e1cac3ebd80dd74709d2b2ce",
+          "size": [
+            1672,
+            941
+          ]
+        },
+        {
+          "path": "资产/图像/王宫内心戏-v001/CHAR-GPT-ANGEL-TURN-v003.png",
+          "sha256": "8e5b7ef471ca677b2751891edd36282e0b2ad84d33cd03e132fdb98771a2ab4b",
+          "size": [
+            2172,
+            724
+          ]
+        },
+        {
+          "path": "资产/图像/王宫内心戏-v001/CHAR-GPT-DEVIL-TURN-v003.png",
+          "sha256": "e44ded7f0a9e27a70ff2980d4d95a331882f929efe7394257daab0cc01910b15",
+          "size": [
+            2172,
+            724
+          ]
+        }
+      ],
+      "original_output": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-d3691d9c-1002-4d85-8cfa-6693ef0d43bd.png"
+    }
+  ],
+  "limits": "三张为同一镜头的状态参考，不是三个必切镜头；生成图背景视觉延续但非像素锁定。动态口型、转头、饰物遮挡和背景定格需视频/合成验证。"
+}

@@ -1,0 +1,235 @@
+{
+  "status": "PASS_STRUCTURE_AND_PRESERVATION",
+  "reviewer": "style_audit_early independent",
+  "baseline": "v005_2D_Anime_Fixes",
+  "current": "v008_Local_Continuity_Fixes",
+  "frame_count": 11497,
+  "video_count_before": 121,
+  "video_count_after": 123,
+  "audio_count_before": 85,
+  "audio_count_after": 85,
+  "local_replacements": [
+    {
+      "name": "B10_v008_3043",
+      "passed": true,
+      "timeline": [
+        3043,
+        3085
+      ],
+      "source": [
+        6,
+        48
+      ],
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v006\\产物\\GB008R2-v006-CY016C-decision-r1.mp4"
+    },
+    {
+      "name": "B10_v008_3085",
+      "passed": true,
+      "timeline": [
+        3085,
+        3175
+      ],
+      "source": [
+        12,
+        102
+      ],
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v005\\产物\\GB008R2-v005-CY016D-transition-r3.mp4"
+    },
+    {
+      "name": "B13_v008_3818",
+      "passed": true,
+      "timeline": [
+        3818,
+        3914
+      ],
+      "source": [
+        12,
+        108
+      ],
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v011\\产物\\GB011-1-v011-father-force-2d-r1.mp4"
+    }
+  ],
+  "all_unaffected_video": {
+    "checked_count": 110,
+    "fields": [
+      "name",
+      "start",
+      "end",
+      "path",
+      "source_in",
+      "source_out",
+      "speed",
+      "props"
+    ],
+    "differences": [],
+    "names": [
+      "B01_GB001_01",
+      "B02_GB002_01",
+      "B02_GB002_02",
+      "B02_GB002_03",
+      "B03_GB003_01",
+      "B04_GB004_01",
+      "B04_GB004_02",
+      "B04_GB004_03",
+      "B04_GB004_04",
+      "B04_GB004_05",
+      "B05_v004_1282_01",
+      "B05_v004_1378_01",
+      "B06_v004_1640_01",
+      "B06_v004_1640_02",
+      "B06_GB005_01_v004_keep",
+      "B06_GB005_02",
+      "B07_GB006_01",
+      "B07_GB006_02",
+      "B07_v005_2D_2126",
+      "B07_v004_2126_02",
+      "B07_GB006_03",
+      "B08_GB007_01",
+      "B08_GB007_02",
+      "B08_GB007_03",
+      "B08_GB007_04",
+      "B09_GB008_01",
+      "B09_GB008_02",
+      "B09_GB008_03",
+      "B09_GB008_04",
+      "B10_GB008R2_01",
+      "B11_v003_acolyte_force_01",
+      "B11_v003_acolyte_force_02",
+      "B11_GB009_02",
+      "B11_GB009_03",
+      "B11_GB009_04",
+      "B12_GB010_01",
+      "B12_v004_3478_01",
+      "B12_v004_3478_02",
+      "B12_GB010_06",
+      "B13_v004_3644_01",
+      "B13_GB011-1_01_v004_keep",
+      "B14_v004_3914_01",
+      "B14_v004_3914_02",
+      "B14_v003_father_refusal_01",
+      "B15_GB012_01",
+      "B16_GB013_01",
+      "B16_GB013_02",
+      "B17_GB014_02",
+      "B18_GB014A_01_v004_keep",
+      "B18_v004_5018_01",
+      "B18_v004_5018_02",
+      "B18_v004_5018_03",
+      "B19_GB015-1_01",
+      "B19_GB015-1_02",
+      "B19_GB015-1_03",
+      "B19_GB015-1_04",
+      "B19_GB015-1_05",
+      "B20_v003_kimi_defense_01",
+      "B20_v003_kimi_defense_02",
+      "B20_v003_kimi_defense_03",
+      "B21_GB016-1_01",
+      "B21_GB016-1_02",
+      "B22_GB016-2_01",
+      "B23_GB017_01",
+      "B24_GB017R2_01",
+      "B25_GB018_01",
+      "B25_GB018_02_v004_keep",
+      "B25_v005_2D_6476",
+      "B25_v005_2D_6560",
+      "B25_v005_2D_6578",
+      "B25_v005_2D_6628",
+      "B26_v003_gpt_chant_01",
+      "B26_v003_gpt_chant_02",
+      "B26_v003_gpt_chant_03",
+      "B27_GB020-1_01",
+      "B28_GB020-1R2_01",
+      "B28_GB020-1R2_02",
+      "B29_GB020-2_01",
+      "B30_GB021_01",
+      "B30_GB021_02",
+      "B30_GB021_03",
+      "B31_GB022-1_01",
+      "B31_GB022-1_02",
+      "B32_GB022-2_01",
+      "B33_GB023_01",
+      "B33_v003_retreating_water_01",
+      "B33_v003_aftermath_space_01",
+      "B33_GB023_02",
+      "B34_GB024_01",
+      "B35_GB025_01",
+      "B35_GB025_02",
+      "B35_GB025_03",
+      "B35_GB025_04",
+      "B36_GB026_01",
+      "B36_GB026_02",
+      "B37_GB027_01",
+      "B38_GB028_01",
+      "B38_GB028_02",
+      "B38_GB028_03",
+      "B38_GB028_04",
+      "B39_GB029_01",
+      "B39_GB029_02",
+      "B39_GB029_03",
+      "B42_GB031_02",
+      "B42_GB031_03",
+      "B43_GB032_01",
+      "B43_GB032_02",
+      "B43_GB032_03",
+      "B44_GB033_01",
+      "B44_GB033_02"
+    ]
+  },
+  "B40_preserved_prefix": {
+    "timeline": [
+      10368,
+      10641
+    ],
+    "source": [
+      0,
+      273
+    ],
+    "path_same": true,
+    "speed_same": true,
+    "all_props_same": true,
+    "resolved_note": "初读发现MotionEstimation由4变0；主审修复后重新读取更新快照，现所有props与修前完全一致。"
+  },
+  "B12_author_cut_preserved": {
+    "timeline": [
+      3406,
+      3644
+    ],
+    "frames": 238,
+    "clips": 4,
+    "all_actual_sources_ranges_speeds_props_equal": true,
+    "explanation": "以修前实际v005为作者已有20帧删改后的基线，四段逐字段保留，不以更旧EDL恢复片长；其父亲对白两工作源切片时间/源秒数亦实时一致。"
+  },
+  "voice_preservation": {
+    "count": 64,
+    "live_read_only_comparison": true,
+    "source_and_timeline_positions_full_precision_unchanged": true,
+    "speed_pitch_unchanged": true,
+    "gain_changes_count": 13,
+    "gain_changes_match_explicit_plan": true,
+    "important_units": "修前快照source_in/out为帧、end为整数；修后音频source_in/out为秒、end为精确浮点帧。另实时读取v005/v008同一API消除单位/舍入歧义，64对白源秒数/起止/速度全一致。"
+  },
+  "other_audio": {
+    "changed_only": [
+      "M09",
+      "N01_flashback",
+      "Foley",
+      "Action"
+    ],
+    "matches_declared_scope": true,
+    "all_v008_audio_tracks_enabled": true,
+    "additional_properties": "实时v008返回更多默认禁用的VoiceIsolation/DialogueLeveler字段；共有的音高/声像等属性无改动。"
+  },
+  "continuity": {
+    "no_timeline_gaps_or_overlaps": true,
+    "B12_B14_Claude_unchanged": true
+  },
+  "limitations": [
+    "这是结构、源范围与声音保留复核，不替代连续原速观感/音素口型/响度听审。",
+    "本子代理未修改Resolve；后段新画面本身的视觉通过由对应主审负责。"
+  ],
+  "inputs": {
+    "修前实际状态.json": "3ee6f5c0a7d2b9ecddda014467566ca23e74676826da3684631690ad63aae790",
+    "修后实际状态.json": "f4f9a2f42390353df8984f053b268d0c1bdbcb4498269379023716ac9c5b4545",
+    "剪辑施工增量.json": "3db8b84218fff9201c061ab91a5d9cde402aae47571521623b14c4c642887868"
+  }
+}

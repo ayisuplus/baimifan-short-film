@@ -1,0 +1,151 @@
+{
+  "scope": "仅本轮8个返修候选的目标视觉缺陷/关键动作/实测硬切；未听审、未逐帧口型验收、未最终采用。",
+  "method": "半秒全段采样+列明关键大帧；ffmpeg scene阈值0.25辅助切点检查，目视核实。",
+  "items": [
+    {
+      "attempt_id": "GB007-r002",
+      "batch_number": 8,
+      "task_id": "2115146381669228544",
+      "source": "视频制作/Metaso-H3-v002/产物/GB007-r002.mp4",
+      "status": "visual_content_usable_timing_edit_required",
+      "findings": [
+        "Claude受缚赤足、孩子保证和掰锁失败均出现；锁链保持闭合，未见工具或解除束缚。",
+        "实测硬切点3.416667/8.208333/11.333333秒，目标3/5/10秒；足部静态段过长，双人对话段仅3.125秒，比目标5秒短，不能直接宣称v025声音已对位。"
+      ],
+      "fix": {
+        "recommendation": "保留候选，后期按0–3、3–5、5–10、10–15窗口分别重排；不因纯时长偏差整批重抽。原配音原速保持，双人段需再核口型/使用反应余白，不能机械拉伸原声。",
+        "detected_cut_seconds": [
+          3.416667,
+          8.208333,
+          11.333333
+        ]
+      }
+    },
+    {
+      "attempt_id": "GB011-1-r002-part1",
+      "batch_number": 13,
+      "task_id": "2115146401666363392",
+      "source": "视频制作/Metaso-H3-v002/产物/GB011-1-r002-part1.mp4",
+      "status": "target_visual_fix_passed",
+      "findings": [
+        "0–5秒均为橙发成人Claude受缚近景，无小鱼替代。",
+        "当前采样不构成日语逐字听审或动态口型验收。"
+      ],
+      "fix": {
+        "source_in": 0,
+        "source_out": 5,
+        "target_duration": 5
+      }
+    },
+    {
+      "attempt_id": "GB011-1-r002-part23",
+      "batch_number": 13,
+      "task_id": "2115146427864379392",
+      "source": "视频制作/Metaso-H3-v002/产物/GB011-1-r002-part23.mp4",
+      "status": "target_visual_fix_passed_with_staging_caveat",
+      "findings": [
+        "2.5–2.9秒教主以左臂挥向孩子，右手一直持火把；2.958333秒切低位，孩子随即失衡倒地，靴子留在地上，未见踢腿动作。",
+        "推倒因果通过手势与切镜表达，实际手掌接触被切镜省略；不能宣称已看到完整接触过程。"
+      ],
+      "fix": {
+        "source_in": 0,
+        "source_out": 5,
+        "target_duration": 5,
+        "recommendation": "可与part1接成10秒候选；若要更写实接触则单独补接触插镜，但当前并非踢人错误。"
+      }
+    },
+    {
+      "attempt_id": "GB016-1-r002-part34",
+      "batch_number": 21,
+      "task_id": "2115146465432891392",
+      "source": "视频制作/Metaso-H3-v002/产物/GB016-1-r002-part34.mp4",
+      "status": "needs_local_repair",
+      "findings": [
+        "千问持扇而GPT空手，扇主已修正。",
+        "3.7–4.4秒双人镜内逐渐合扇；4.583333秒切到特写时扇又完全展开，直到6.3秒仍开着，末态违背合扇。"
+      ],
+      "fix": {
+        "reuse_in": 0,
+        "reuse_out": 3.3,
+        "repair_plan": "合扇单镜返修-r003-准备.json",
+        "recommendation": "只补2秒有效合扇特写，原LibTV前6秒和r002双人前3.3秒保留。"
+      }
+    },
+    {
+      "attempt_id": "GB020-2-r002",
+      "batch_number": 29,
+      "task_id": "2115146615909572608",
+      "source": "视频制作/Metaso-H3-v002/产物/GB020-2-r002.mp4",
+      "status": "needs_reference_material_repair",
+      "findings": [
+        "0–约3.5秒长颈和龙首有清晰固定鳞甲及硬质背鬃，约4秒后才转成泡沫水体，仍违背首尾纯流体要求。",
+        "无脸部眼神问题可从背视观察，但实体材质未修复。"
+      ],
+      "fix": {
+        "recommendation": "先改构图参考的鳞甲/背鬃为连续水流，保留深蓝体积、下坠方向和教堂尺度，再重拍单镜；不要原提示词盲重试。"
+      }
+    },
+    {
+      "attempt_id": "GB022-1-r002-part1",
+      "batch_number": 31,
+      "task_id": "2115146626202656769",
+      "source": "视频制作/Metaso-H3-v002/产物/GB022-1-r002-part1.mp4",
+      "status": "target_visual_fix_passed",
+      "findings": [
+        "0.1/6.0/11.5秒大帧与全段半秒采样：眼部为暗色凹陷，无固定发光眼；龙体由流线与泡沫构成。",
+        "全片保持单一中远景及胸前手印，未在10秒提前切近/发令。12秒蓄势修复通过。"
+      ],
+      "fix": {
+        "source_in": 0,
+        "source_out": 12,
+        "target_duration": 12,
+        "recommendation": "保留这12秒，不重复花费。可提取尾帧作为下一发令镜参考。"
+      }
+    },
+    {
+      "attempt_id": "GB022-1-r002-part2",
+      "batch_number": 31,
+      "task_id": "2115146635011612672",
+      "source": "视频制作/Metaso-H3-v002/产物/GB022-1-r002-part2.mp4",
+      "status": "needs_local_material_repair",
+      "findings": [
+        "1.5与2.0秒大帧存在巨大固定青色发光眼、明显实体鳞纹和牙齿，不能采用。",
+        "前1.5秒仍主要为解印抬手，向前指出在约2–2.5秒才完成；仅剪前1.5秒会丢关键发令。"
+      ],
+      "fix": {
+        "recommendation": "仅补发令镜。成功part1尾帧用于流体龙一致性；单镜描述明确快速一次指出，生成后按实际动作选连续1.5秒。源1.5–3.0包含部分发令但眼鳞阻断仍在，后移剪辑不能解决材质。"
+      }
+    },
+    {
+      "attempt_id": "GB022-2-r002",
+      "batch_number": 32,
+      "task_id": "2115146783286157312",
+      "source": "视频制作/Metaso-H3-v002/产物/GB022-2-r002.mp4",
+      "status": "target_visual_fix_passed",
+      "findings": [
+        "0.1/0.8/1.6秒大帧和半秒全段：龙首无固定亮眼，冲盾接触处变白浪，随后龙身散为水幕；教主承压举手，整体主因果成立。",
+        "最初约0.1秒颈部轮廓较平滑但无明确硬鳞重复格，后续明确流体，不作为再次付费重试理由。"
+      ],
+      "fix": {
+        "source_in": 0,
+        "source_out": 5,
+        "target_duration": 5,
+        "recommendation": "保留，后期再核撞盾音重拍点与剪接方向。"
+      }
+    }
+  ],
+  "needs_new_generation": [
+    "GB016-1-r002-part34:仅第4镜",
+    "GB020-2-r002",
+    "GB022-1-r002-part2"
+  ],
+  "recommend_keep": [
+    "GB011-1-r002-part1",
+    "GB011-1-r002-part23",
+    "GB022-1-r002-part1",
+    "GB022-2-r002"
+  ],
+  "timing_edit_only": [
+    "GB007-r002"
+  ]
+}

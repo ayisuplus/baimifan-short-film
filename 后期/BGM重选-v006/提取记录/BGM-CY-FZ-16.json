@@ -1,0 +1,45 @@
+{
+  "id": "BGM-CY-FZ-16",
+  "bvid": "BV1Vx411G7kG",
+  "part": 16,
+  "title": "secret maneuvers",
+  "display_title": "秘密行动",
+  "work": "Fate/Zero",
+  "composer": "梶浦由記",
+  "source_page_title": "secret maneuvers",
+  "navigation_translation": "中文译名仅供本项目导航；保留原曲名与来源分P。",
+  "cid": 23944252,
+  "source": "https://www.bilibili.com/video/BV1Vx411G7kG/?p=16",
+  "uploader": "天使动漫",
+  "video_title": "【Fate/Zero】OST原声集完全版 / 音乐：梶浦由記",
+  "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-16.m4a",
+  "bytes": 2933185,
+  "sha256": "5c0906667789122a46992ebb0bfbac6d6102dee4ab4e7161383cd4fa4f31f369",
+  "duration": 120.417324,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "193421"
+      }
+    ],
+    "format": {
+      "duration": "120.417324"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "AAC stream copied from retained public muxed video with ffmpeg -vn -c:a copy; no re-encoding, cuts, pitch, speed or gain changes.",
+  "source_media": {
+    "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-16-source.mp4",
+    "bytes": 4797717,
+    "sha256": "f27a72cb42109420fba09164339ea00fdecf6a85c64d2ba812e047f6a09132dc"
+  }
+}

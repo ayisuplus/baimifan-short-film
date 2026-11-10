@@ -1,0 +1,26 @@
+任务：用 image_gen__imagegen 重绘一张电影关键帧的**建筑与光照部分**。
+
+必须使用 image_gen__imagegen 工具，传入 referenced_image_paths 指向源图路径，做参考图重绘（image-to-image）。
+
+源图路径：
+G:\comfyui\ComfyUI\ComfyUI\output\Baimifan\v032\085-key-r2_00001_.png
+
+重要提示：这张图涉及献祭场景，图像安全系统可能拦截。**请把提示词聚焦在"哥特式教堂建筑夜间修复与照明"上，不要在提示词里描述人物、束缚、火焰或任何暴力元素**。建筑修复与光效调整本身就是本次修改的主体。
+
+重绘提示词（完整照用，不要删减、不要改写）：
+
+Redraw this image as traditional hand-drawn Japanese gothic fantasy anime: clean dark ink contours, hard-edged two-tone cel shadows, matte skin and broad painted background shapes. Keep composition and story identities. No glossy 3D, PBR, photoreal reflections, text or captions. Focus on the gothic cathedral architecture. 1: It is NIGHT. REBUILD all missing rear altar vault and side ceilings with dark intact gothic stone. Leave only ONE compact jagged opening in the CENTRAL NAVE vault, away from the rear altar; show dark navy night clouds through that single opening, never white daytime sky. Remove most wall rubble; columns and walls stand intact. 2: ALL visible lamps, candles and braziers are extinguished. Remove every orange flame and all warm light sources. Cool blue moonlight and simple painted wet-floor strokes only. 3: At lower RIGHT replace the purple-haired white-flower maid with QIANWEN: adult deep blue-violet-haired woman, two long front braids and a braided crown, a small ornate GOLD forehead ornament, dark navy/black GOLD-EMBROIDERED outer robe over pale white inner dress. NO white flower headband, no maid cap, no veil. Keep the opaque indigo dome on the HIGHEST ALTAR. Keep only a pale gown hem and legs descending at foreground LEFT. No duplicate figures and no dragon in this frame.
+
+原始问题（供你理解为何这样改，图中现状是）：
+- 顶部大面积开顶，露出的是亮蓝色白天天空，应改为夜晚，仅在中殿顶留一个开口透出深海军蓝夜空云层。
+- 台阶栏杆上多处橙黄色烛火仍亮着，应全部熄灭，只留冷蓝月光和地面湿痕反光。
+- 右下角人物是紫发白花饰女仆造型，应替换为千问：深蓝紫发、前方两条长辫、编发冠、小巧金色额饰、深藏青/黑色金纹外袍内衬浅白内裙，无白花头饰、无女仆帽、无头纱。
+- 左前景只保留浅色裙摆与双腿，不要多余人物。
+
+输出要求：
+1. 生成的图片保存为 PNG 到：E:\projects\内容创作\故事短片\白米饭\后期\全片画风与动作统一-v034\codex-keyfix\085-key-r3-codex.png
+2. 宽高比保持 16:9。
+3. 不要改动源图，不要改动其他任何文件，不要执行 git 操作。
+4. 如果 image_gen 首次返回 moderation_blocked，请**改写提示词后重试一次**：去掉所有涉及人物身份、服饰细节、束缚、火焰、伤害的措辞，只保留建筑修复、夜间天空、单一开口、熄灭全部光源、靛蓝色穹顶位于最高祭坛、湿地面冷蓝反光这些**纯场景与光效描述**，再调用一次工具。
+5. 生成后用 view_image 查看自己生成的图片，核对：顶部为夜晚且只有一个开口透出深蓝夜空、没有橙黄暖光光源、右下角角色为深色金纹外袍与两条长辫（无白花头饰）。
+6. 最后回报：输出文件的绝对路径；以及是否重试过、是否仍被拦截、你对结果的判断（如实说明，不满意就说不满意）。

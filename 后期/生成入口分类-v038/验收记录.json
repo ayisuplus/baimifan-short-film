@@ -1,0 +1,726 @@
+{
+  "clip_count": 118,
+  "contexts": [
+    {
+      "id": "CUT001",
+      "revision": 0,
+      "prompt_groups": 2,
+      "media": 11
+    },
+    {
+      "id": "CUT002",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 5
+    },
+    {
+      "id": "CUT003",
+      "revision": 1,
+      "prompt_groups": 1,
+      "media": 6
+    },
+    {
+      "id": "CUT004",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT005",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT006",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 3
+    },
+    {
+      "id": "CUT007",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT008",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT009",
+      "revision": 0,
+      "prompt_groups": 2,
+      "media": 3
+    },
+    {
+      "id": "CUT010",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 3
+    },
+    {
+      "id": "CUT011",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT012",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 7
+    },
+    {
+      "id": "CUT013",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT014",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 7
+    },
+    {
+      "id": "CUT015",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 7
+    },
+    {
+      "id": "CUT016",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 7
+    },
+    {
+      "id": "CUT017",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 7
+    },
+    {
+      "id": "CUT018",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 7
+    },
+    {
+      "id": "CUT019",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 7
+    },
+    {
+      "id": "CUT020",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 7
+    },
+    {
+      "id": "CUT021",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 7
+    },
+    {
+      "id": "CUT022",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT023",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT024",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT025",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT026",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT027",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT028",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT029",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT030",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 7
+    },
+    {
+      "id": "CUT031",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT032",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT033",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 7
+    },
+    {
+      "id": "CUT034",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT035",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 5
+    },
+    {
+      "id": "CUT036",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT037",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT038",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 7
+    },
+    {
+      "id": "CUT039",
+      "revision": 0,
+      "prompt_groups": 4,
+      "media": 5
+    },
+    {
+      "id": "CUT040",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT041",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT042",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT043",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT044",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT045",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT046",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT047",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT048",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT049",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT050",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 6
+    },
+    {
+      "id": "CUT051",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 3
+    },
+    {
+      "id": "CUT052",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 3
+    },
+    {
+      "id": "CUT053",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 7
+    },
+    {
+      "id": "CUT054",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 7
+    },
+    {
+      "id": "CUT055",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 5
+    },
+    {
+      "id": "CUT056",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 5
+    },
+    {
+      "id": "CUT057",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 7
+    },
+    {
+      "id": "CUT058",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 3
+    },
+    {
+      "id": "CUT059",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 10
+    },
+    {
+      "id": "CUT060",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 3
+    },
+    {
+      "id": "CUT061",
+      "revision": 0,
+      "prompt_groups": 2,
+      "media": 3
+    },
+    {
+      "id": "CUT062",
+      "revision": 0,
+      "prompt_groups": 2,
+      "media": 5
+    },
+    {
+      "id": "CUT063",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 4
+    },
+    {
+      "id": "CUT064",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 6
+    },
+    {
+      "id": "CUT065",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 4
+    },
+    {
+      "id": "CUT066",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 10
+    },
+    {
+      "id": "CUT067",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 10
+    },
+    {
+      "id": "CUT068",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT069",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT070",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 10
+    },
+    {
+      "id": "CUT071",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT072",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 9
+    },
+    {
+      "id": "CUT073",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT074",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT075",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT076",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT077",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 7
+    },
+    {
+      "id": "CUT078",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 7
+    },
+    {
+      "id": "CUT079",
+      "revision": 0,
+      "prompt_groups": 2,
+      "media": 4
+    },
+    {
+      "id": "CUT080",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 3
+    },
+    {
+      "id": "CUT081",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 9
+    },
+    {
+      "id": "CUT082",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 9
+    },
+    {
+      "id": "CUT083",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 9
+    },
+    {
+      "id": "CUT084",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 9
+    },
+    {
+      "id": "CUT085",
+      "revision": 0,
+      "prompt_groups": 3,
+      "media": 8
+    },
+    {
+      "id": "CUT086",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 10
+    },
+    {
+      "id": "CUT087",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT088",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 10
+    },
+    {
+      "id": "CUT089",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 10
+    },
+    {
+      "id": "CUT090",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT091",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 10
+    },
+    {
+      "id": "CUT092",
+      "revision": 0,
+      "prompt_groups": 3,
+      "media": 4
+    },
+    {
+      "id": "CUT093",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT094",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT095",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT096",
+      "revision": 0,
+      "prompt_groups": 2,
+      "media": 10
+    },
+    {
+      "id": "CUT097",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 10
+    },
+    {
+      "id": "CUT098",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 10
+    },
+    {
+      "id": "CUT099",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT100",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT101",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT102",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT103",
+      "revision": 0,
+      "prompt_groups": 2,
+      "media": 3
+    },
+    {
+      "id": "CUT104",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT105",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 8
+    },
+    {
+      "id": "CUT106",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 8
+    },
+    {
+      "id": "CUT107",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT108",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT109",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT110",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT111",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 2
+    },
+    {
+      "id": "CUT112",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 6
+    },
+    {
+      "id": "CUT113",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 10
+    },
+    {
+      "id": "CUT114",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 8
+    },
+    {
+      "id": "CUT115",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 8
+    },
+    {
+      "id": "CUT116",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 8
+    },
+    {
+      "id": "CUT117",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 5
+    },
+    {
+      "id": "CUT118",
+      "revision": 0,
+      "prompt_groups": 1,
+      "media": 5
+    }
+  ],
+  "creative_files_compared": 97,
+  "creative_changed": [
+    "creative\\owner.json",
+    "creative\\source-owner.json",
+    "creative\\write.lock",
+    "creative\\asset-library\\write.lock",
+    "creative\\upscale\\.lock",
+    "creative\\writing\\restored-ad3867fc-177c-4371-bb51-7ed75d686e30\\write.lock"
+  ],
+  "uploaded": false,
+  "submitted": false,
+  "creative_changed_explanation": "Only runtime owner/source-owner and lock files are absent from portable backups; all 97 shared creative files are byte-identical.",
+  "timeline_dom_matches_saved_bindings": true
+}

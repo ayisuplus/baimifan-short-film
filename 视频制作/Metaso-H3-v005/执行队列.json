@@ -1,0 +1,675 @@
+{
+  "model": "MiniMax-H3",
+  "resolution": "768P",
+  "ratio": "16:9",
+  "spending_ceiling_credits": 1500,
+  "authorization": "作者已授权：后期优先，不能修复的只补对应镜头，Metaso H3延续；本轮教堂至Kimi段修复，非整批重做。",
+  "items": [
+    {
+      "batch_number": 11,
+      "batch_id": "GB009",
+      "shot_ids": [
+        "CY016D",
+        "CY017"
+      ],
+      "duration": 5,
+      "effective_duration": 5,
+      "mode": "first_frame",
+      "prompt": "16:9电影级日系动画，5秒单一连续镜头，严格从首帧现有抓木起态继续，不重新摆人物。小鱼在画左双脚落地双手抓住粗木左端，黑金袍搬柴教徒在画右，长阶向后上方，顶端Claude保持远处直立受缚。0–0.8秒小鱼紧抓木头后倾阻拦；0.8–1.6秒教徒用一臂抱稳同一根木头，空出的另一只手确实接触小鱼上臂/肩侧，向画左侧方只推开一次。先接触、再失衡，接触至少清晰保持数帧。1.6–3秒小鱼一脚短滑，身体侧倾下降，一只膝盖与一只手掌先后撑住石地，另一手还朝木头伸出。双脚不得同时腾空，不主动跳跃，不摸帽，不蹦到蹲姿。3–5秒教徒带着木头向右后上阶继续走，小鱼仍半跪撑地追望；她不是安稳下蹲，不重复摔倒。摄影机保持首帧同侧低机位，轻微跟随她的下降，不切镜、不绕轴、不升到正面大全景。只有这一根木头，木头不穿身体；没有流血或夸张伤害。正常速度，完整受力与落地，不用慢动作冻结掩盖接触。无对白、无字幕、无配乐，衣料、滑步、膝掌落地可有轻微原生环境声供参考。",
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v005/参考/CY017-抓木起态.png",
+          "role": "first_frame",
+          "visually_checked": true,
+          "purpose": "first_frame",
+          "sha256": "bd9f76ce46b00d464bd6630bd744cab03c7b1403ba6afae45014712d76437e1f"
+        }
+      ],
+      "change_reason": "现源片推开变成双脚离地的小跳，后期150%又放大跳跃感；恢复可读的接触、重心转移、半跪落地",
+      "拟替换v001时间段": {
+        "start": 122.291667,
+        "end": 127.791667,
+        "note": "原抓木至半跪段，最终剪口按回片确认；保留后面的搬柴上阶，不压缩新推开至150%"
+      },
+      "acceptance": [
+        "推手真正接触后孩子才失衡",
+        "双脚不同时弹起",
+        "一手撑地另一手伸木",
+        "教徒继续上阶而非停留摆姿"
+      ],
+      "attempt_id": "GB009-v005-CY016D-r1",
+      "estimated_credits": 51.0,
+      "repair_of": "导演后期修正-v001现行剪辑对应镜头",
+      "status": "downloaded_candidate",
+      "submit_started": "2026-10-28T12:30:45+0800",
+      "task_id": "2115300221738094592",
+      "local_path": "视频制作/Metaso-H3-v005/产物/GB009-v005-CY016D-r1.mp4",
+      "sha256": "b8a70b96fe3849d0b03a2555ec5fc84acd416441fe7e17dfb24109c7a573ca25",
+      "bytes": 6561567
+    },
+    {
+      "batch_number": 12,
+      "batch_id": "GB010",
+      "shot_ids": [
+        "CY021A"
+      ],
+      "duration": 7,
+      "effective_duration": 7,
+      "mode": "reference",
+      "prompt": "16:9日系动画电影，7秒连续近景。参考1只负责教主棕发、成熟面貌、黑金长袍身份；参考2只负责同场景蓝彩窗与暖烛的光色、唯一黑芯暗紫细边笼式仪式火把和交接状态，不照搬它面向相反方向的机位。摄影机在通往高坛的台阶一侧，从受缚Claude方向看向下方教主，教主三分之二侧脸和嘴全程清楚，目光微抬向镜头旁高处Claude，绝不俯看小鱼说‘我的女儿’。Claude与小鱼均在画外。0–0.4秒教主右手已经握紧火把，前景教徒递火手松开退出，交接立即结束。0.4–6.7秒教主冷静压低声音，连贯说完整一句日语：<d>[Japanese] 我が娘よ、神がお待ちだ。</d>含句中自然停顿，共6.3秒。嘴部从0.4秒开始明确说话，停顿时自然合唇，不能前4秒接火闭口、最后才张嘴。语气近乎温柔的宣判，目光始终向高处女儿，面部绝不夸张咆哮。6.7–7秒合唇，右手稳持同一支火把。摄影机极轻推近，稳定轴线；无多人对话、无切到孩子、无文字。仪式木柴尚未点燃，仅这支手持火把黑紫火，固定火盆与蜡烛是暖火。参考图中背景Claude不作为新人物复制到镜头前；不得添加火把或让火把换手。",
+      "references": [
+        {
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "role": "reference_image",
+          "visually_checked": true,
+          "purpose": "identity",
+          "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031"
+        },
+        {
+          "path": "镜头设计/图像/关键动作-v062/CY021A-v062-r2.png",
+          "role": "reference_image",
+          "visually_checked": true,
+          "purpose": "prop_state_and_lighting_only",
+          "sha256": "cb335f88a74a1ae130cd923035c9d71b10308411f186099f4e5e1ee23a54c1dc"
+        }
+      ],
+      "change_reason": "现配音137.1667秒开始，角色约141.5秒才明显发话；原速源片自身表演迟到。新机位明确教主对高处Claude讲话，同时保持嘴可见",
+      "拟替换v001时间段": {
+        "start": 135.666667,
+        "end": 143.966667,
+        "note": "替换接火/宣判镜全部，保留前面铺柴与后面小鱼张臂；voice随新画面从本镜0.4秒起完整原速6.3秒，不拘泥旧绝对时间"
+      },
+      "voice": {
+        "id": "VO-CY021A-01",
+        "speaker": "教主",
+        "offset": 0.4,
+        "duration": 6.3,
+        "text_ja": "我が娘よ、神がお待ちだ。"
+      },
+      "acceptance": [
+        "嘴部0.4–6.7秒对应完整发话，非延迟启动",
+        "对高处Claude的视线明确",
+        "唯一火把右手且柴堆未燃"
+      ],
+      "attempt_id": "GB010-v005-CY021A-r1",
+      "estimated_credits": 71.4,
+      "repair_of": "导演后期修正-v001现行剪辑对应镜头",
+      "status": "downloaded_candidate",
+      "submit_started": "2026-10-28T12:30:49+0800",
+      "task_id": "2115300239560609792",
+      "local_path": "视频制作/Metaso-H3-v005/产物/GB010-v005-CY021A-r1.mp4",
+      "sha256": "3410ad537cf03b2218116ab674f435bbb505d30ceaee167f609ee308cf602246",
+      "bytes": 5878170,
+      "visual_verdict": "rejected_wrong_eyeline",
+      "visual_issue": "Claude在背后，教主面向递火者，未按新机位对女儿说话"
+    },
+    {
+      "batch_number": 14,
+      "batch_id": "GB011-2",
+      "shot_ids": [
+        "CY021"
+      ],
+      "duration": 5,
+      "effective_duration": 4.7,
+      "mode": "reference",
+      "prompt": "16:9电影级日系动画，5秒单镜近景，画面只有受缚Claude。参考1四视图负责身份、发色与饰物设计；参考2是当前刑架镜头的实际服装状态、束缚、链条、同场灯光与构图，必须保留图2露肩白金裙、胸前黑色蝴蝶结与后置白纱，不把图1裹身头纱重新盖上肩胸，不换成高领长披巾。不要沿用图2怒喊表情。Claude橙棕长发、橙色花饰在自身左鬓、黑缎带、细金饰、象牙白蕾丝头纱，脸与双眼不被头纱遮住。她仍直立固定在高坛横木上，双腕横向受缚，前后状态不改变；下方木柴尚未点燃，只有远处普通烛火暖边光。她看到阶下孩子摔倒，视线先向画面右下的孩子，再望稍高一点但仍位于阶下的父亲，眼神从惊惧变恳求，不能平视镜头像演讲。0–0.25秒压住急促呼吸，0.25–4.38秒完整说日语<d>[Japanese] お父様……その子を逃がして。</d>，共4.13秒，父亲称呼后保留脆弱停顿，声音是恳求而非怒吼；口型全句可见且从起点说话，不提前闭口。4.38–5秒合唇等待，没有回答，眼中仍有泪意。画面缓慢推近但不跨轴，不重复挣脱、不扭头藏嘴。小鱼和教主不入画也不代说。无字幕、无新增对白、无配乐。",
+      "references": [
+        {
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+          "role": "reference_image",
+          "visually_checked": true,
+          "purpose": "identity",
+          "sha256": "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a",
+          "original_path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+          "adaptation": "existing lossless letterbox for service aspect limit, no character edit"
+        },
+        {
+          "path": "镜头设计/图像/天瀑空间-v014/CY020-v014-r4.png",
+          "role": "reference_image",
+          "visually_checked": true,
+          "purpose": "restraint_state_and_lighting_only",
+          "sha256": "939e6566ac8060679a9ae17b973eaa0d07d65a4b57ecfd5be61b4a7d65eff6b6"
+        }
+      ],
+      "change_reason": "现4.13秒Claude恳求全压在张嘴抬头的小鱼脸上，发话主体容易误读，且缺少父亲称呼后的情绪停留。补明确Claude主镜，旧小鱼素材仍可作短无声反应",
+      "拟替换v001时间段": {
+        "start": 156.333333,
+        "end": 159.708333,
+        "note": "用4.7秒新Claude主镜替换旧孩子撑地近景约3.375秒；保留其后抓袍手部。整句voice从新镜0.25秒原速开始，后续时间整体重算，不能截短句尾"
+      },
+      "voice": {
+        "id": "VO-CY021-01",
+        "speaker": "Claude",
+        "offset": 0.25,
+        "duration": 4.13,
+        "text_ja": "お父様……その子を逃がして。"
+      },
+      "acceptance": [
+        "全句说话者明确为Claude",
+        "受缚未解除且柴未燃",
+        "原有父亲称呼停顿保留",
+        "句尾后至少0.3秒等待"
+      ],
+      "attempt_id": "GB011-2-v005-CY021-r1",
+      "estimated_credits": 51.0,
+      "repair_of": "导演后期修正-v001现行剪辑对应镜头",
+      "status": "downloaded_candidate",
+      "submit_started": "2026-10-28T12:32:49+0800",
+      "task_id": "2115300737403260928",
+      "provider_status": "running",
+      "local_path": "视频制作/Metaso-H3-v005/产物/GB011-2-v005-CY021-r1.mp4",
+      "sha256": "2455406268bbdff2570e1f62122b894d5c46fbfb7d25c05932942dd787eee20b",
+      "bytes": 4470725
+    },
+    {
+      "batch_number": 12,
+      "batch_id": "GB010",
+      "shot_ids": [
+        "CY021A"
+      ],
+      "duration": 7,
+      "effective_duration": 7,
+      "mode": "reference",
+      "prompt": "7秒单一日系动画电影近景。只使用参考四视图中的同一个棕发成熟教主身份、黑金祭司长袍；四个人像是同一人的四个视角，正片只有一个教主。摄影机位于教堂高坛边缘，朝阶下与远处紧闭的正门方向俯看。教主站在阶下，仰起脸看向摄影机旁高处被绑的女儿；胸上三分之二正面近景，脸和嘴清楚，背景只能是下方石地与虚化的深暗正门，不能出现刑架、Claude或高坛在他背后。0秒他右手已稳稳握住唯一黑铁笼式火把，下画缘露少许暗紫火光，不拍接火、不伸手、不再转身等待。0.3秒立即带近乎温柔的冷酷开口，连续完整说6.3秒一次<d>[Japanese] 我が娘よ、神がお待ちだ。</d>，说话至6.6秒，其间自然轻微嘴唇开合，目光始终向高处女儿，句尾6.6–7秒合唇等待。摄影机微微压近眼神与嘴，勿横移或绕轴，不能低头对旁人讲话。周围蓝色月光与金色蜡烛边缘光，教堂尚无柴堆大火。无其他人物、无字幕、无音乐、无新对白、无镜头切换。",
+      "references": [
+        {
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "role": "reference_image",
+          "visually_checked": true,
+          "purpose": "identity",
+          "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031"
+        }
+      ],
+      "change_reason": "r1沿构图参考复制错误说话视线。r2去掉构图图，仅四视图身份；取消交接，镜头反向从高坛向门，明确仰望女儿。",
+      "拟替换v001时间段": {
+        "start": 135.666667,
+        "end": 143.966667,
+        "note": "替换接火/宣判镜全部，保留前面铺柴与后面小鱼张臂；voice随新画面从本镜0.4秒起完整原速6.3秒，不拘泥旧绝对时间"
+      },
+      "voice": {
+        "id": "VO-CY021A-01",
+        "speaker": "教主",
+        "offset": 0.4,
+        "duration": 6.3,
+        "text_ja": "我が娘よ、神がお待ちだ。"
+      },
+      "acceptance": [
+        "嘴部0.4–6.7秒对应完整发话，非延迟启动",
+        "对高处Claude的视线明确",
+        "唯一火把右手且柴堆未燃"
+      ],
+      "attempt_id": "GB010-v005-CY021A-r2",
+      "estimated_credits": 71.4,
+      "repair_of": "GB010-v005-CY021A-r1",
+      "status": "downloaded_candidate",
+      "submit_started": "2026-10-28T12:34:05+0800",
+      "task_id": "2115301052949794816",
+      "provider_status": "running",
+      "local_path": "视频制作/Metaso-H3-v005/产物/GB010-v005-CY021A-r2.mp4",
+      "sha256": "f71644765cb3dc35b9c7e96c0372c6bbf5caa74e923360e2725ad1135010f6a9",
+      "bytes": 5651493
+    },
+    {
+      "batch_number": 13,
+      "batch_id": "GB011-1",
+      "shot_ids": [
+        "CY020A"
+      ],
+      "duration": 4,
+      "effective_duration": 3,
+      "mode": "reference",
+      "prompt": "16:9电影级日系动画，4秒单一连续动作镜头。参考1和2分别只决定小鱼与教主身份，参考3提供本场人物左右、视线、黑紫火把与光照状态。用同侧略低机位中近景，稍宽于参考3，必须同时看见教主左手、小鱼肩和双脚到石地，不沿用终态落地图。小鱼画左，教主画右，两人近距离相对。0–0.6秒小鱼张臂挡路，教主右手持唯一黑芯暗紫细边火把，左手尚未触人。0.6–1.2秒教主左掌接触小鱼上臂肩侧，实在接触清楚可见后向画左推开一次。1.2–2.3秒孩子脚短滑、身体朝左侧倾，先手肘或手掌接石地后侧臀落地，不飞出去、不连续翻滚、不主动跳。教主停在右侧，火把全程右手，不靠近孩子头发。2.3–4秒小鱼在地面清醒喘气望右上，教主袍靴仍在右边近处，不踩她、不另推一次。摄影机可微俯跟随下降但不跨轴、不切镜、不用闪光遮挡接触。正常速度，孩子无流血，尚未起身抓袍。保持现行场景服装，不因四视图改披风或增加角色。没有对白、没有字幕、没有配乐。",
+      "references": [
+        {
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+          "role": "reference_image",
+          "visually_checked": true,
+          "purpose": "identity",
+          "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+          "original_path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png"
+        },
+        {
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "role": "reference_image",
+          "visually_checked": true,
+          "purpose": "identity",
+          "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031"
+        },
+        {
+          "path": "镜头设计/图像/张力与机位-v060/CY020B-v060-r1.png",
+          "role": "reference_image",
+          "visually_checked": true,
+          "purpose": "staging_and_prop_state",
+          "sha256": "5211c4758c0713a866e8c1d52d7a584258d78eac4948709d6b39096c4ddd63d6"
+        }
+      ],
+      "change_reason": "补足左手接触→孩子失衡→落地的一次明确因果，现成片有落地无清楚触碰。",
+      "拟替换v001时间段": {
+        "start": 153.833333,
+        "end": 156.333333,
+        "note": "只替换对视末至落地；保留先前Claude制止。接触动作必须保留，不能为保持旧总长再删掉。"
+      },
+      "attempt_id": "GB011-1-v005-CY020A-r1",
+      "estimated_credits": 40.8,
+      "repair_of": "导演后期修正-v001现行剪辑对应镜头",
+      "status": "downloaded_candidate",
+      "submit_started": "2026-10-28T12:44:02+0800",
+      "task_id": "2115303558563958784",
+      "local_path": "视频制作/Metaso-H3-v005/产物/GB011-1-v005-CY020A-r1.mp4",
+      "sha256": "9f180c9a964172256bc5cbc2423677c532e4d3e48f5a7c0c6c60368a4977090a",
+      "bytes": 4596193
+    },
+    {
+      "batch_number": 7,
+      "batch_id": "GB006",
+      "shot_ids": [
+        "CY012",
+        "CY013-transition"
+      ],
+      "duration": 4,
+      "effective_duration": 2.5,
+      "mode": "first_frame",
+      "prompt": "16:9日系动画，4秒单镜续接首帧，不重置场景。小鱼在画面左前方最低层地面，唯一Claude仍在正中最上层刑架，双腕受缚。小鱼凝神望高坛一瞬，沿画面左前向中央后上方奔上最近几级台阶，身体远离摄影机、体积逐渐变小，帽尾和发梢落后于急促小步。镜头轻微向前跟随，清楚看脚先踏上一阶再上下一阶，不能穿阶或滑行，不必4秒跑到最高刑架，更不能瞬移到顶端。该镜只交代她开始攀阶；下一镜Claude俯视允许时间省略。保持三段长阶、中央刑架、两侧火盆和单一高烛环，Claude不下台，小鱼不分身。潜入状态低声谨慎，后半略加快但正常动作速度。没有对白、字幕、配乐；轻脚步可供后期参考。",
+      "references": [
+        {
+          "path": "后期/声画重构-v002/证据/独立01-15/B07-end.png",
+          "role": "first_frame",
+          "visually_checked": true,
+          "purpose": "first_frame",
+          "sha256": "6971865650038320153fce2a416bcd86880ca209c18709b512850e4874268664"
+        }
+      ],
+      "change_reason": "低层入殿直接切高坛偷救缺攀阶动作。只增加攀登启动，不拍全程。",
+      "拟替换v001时间段": {
+        "start": 91.583333,
+        "end": 91.583333,
+        "note": "在B7/B8边界插入约2.5秒，旧B7末可略收短避免重复前冲；不覆盖Claude问句。"
+      },
+      "attempt_id": "GB006-v005-CY012-r1",
+      "estimated_credits": 40.8,
+      "repair_of": "导演后期修正-v001现行剪辑对应镜头",
+      "status": "downloaded_candidate",
+      "submit_started": "2026-10-28T12:40:31+0800",
+      "task_id": "2115302679132311552",
+      "local_path": "视频制作/Metaso-H3-v005/产物/GB006-v005-CY012-r1.mp4",
+      "sha256": "0d8511acfc81622c4f599075c3aaf5d70e6672ae0866884ad6e65fdf37a94503",
+      "bytes": 5354630,
+      "visual_verdict": "rejected_no_visible_stair_step"
+    },
+    {
+      "batch_number": 10,
+      "batch_id": "GB008R2",
+      "shot_ids": [
+        "CY016D-transition"
+      ],
+      "duration": 4,
+      "effective_duration": 2.5,
+      "mode": "first_frame",
+      "prompt": "16:9日系动画4秒连续镜头，固定从首帧现有高坛位置继续。左前景仍是受缚Claude部分衣裙与锁链，小鱼在她旁边，远处是门和正在向祭坛走来的搬柴队伍。小鱼看见木头后立刻放开近旁锁链，转身从画面左前沿中央台阶向画面中央偏右的下方远处跑下几级，离摄影机越来越远，朝队伍前端去；这与上一镜低处向高处的上阶方向相反。摄影机位于高坛朝门，跟随轻俯，不绕到教堂外，不镜像场景。必须看见脚一阶一阶下降与身体前倾的决定，不能像漂浮滑行。4秒只拍下阶起步到中段，允许下一镜已到低阶抓木，不必跑完整长阶。搬柴队伍继续向高坛走，与她相向，但本镜不发生接触、不把木头交给她；Claude仍在原刑架不移动，小鱼只有一个。参考帧只一个，保持其人物和服装；无对白、字幕、配乐。",
+      "references": [
+        {
+          "path": "后期/声画重构-v002/证据/独立01-15/B10-high-start.png",
+          "role": "first_frame",
+          "visually_checked": true,
+          "purpose": "first_frame",
+          "sha256": "6e78c5eabc182b575771e04d02ef02a64a3e6c2fb343c0eb2c7371689bb346c4"
+        }
+      ],
+      "change_reason": "高坛偷救转为下阶拦柴缺决定与位置变化。此桥应插在队伍近景后，以新动机重返孩子启动动作，不重复原静态观察。",
+      "拟替换v001时间段": {
+        "start": 122.291667,
+        "end": 122.291667,
+        "note": "B10/B11边界插入约2.5秒。若回片转身与脚步最清楚段在中段，取完整动作段，不固定只取前2.5秒。"
+      },
+      "attempt_id": "GB008R2-v005-CY016D-transition-r1",
+      "estimated_credits": 40.8,
+      "repair_of": "导演后期修正-v001现行剪辑对应镜头",
+      "status": "downloaded_candidate",
+      "submit_started": "2026-10-28T12:40:35+0800",
+      "task_id": "2115302692084846592",
+      "local_path": "视频制作/Metaso-H3-v005/产物/GB008R2-v005-CY016D-transition-r1.mp4",
+      "sha256": "f474ee1c86b058e7f5eb5b10a8b53098bb5a7681eb043670f6d56390e4d7f727",
+      "bytes": 5487595,
+      "visual_verdict": "rejected_no_visible_stair_step"
+    },
+    {
+      "batch_number": 16,
+      "batch_id": "GB013",
+      "shot_ids": [
+        "CY023"
+      ],
+      "duration": 4,
+      "prompt": "日式电影动画，单镜头4秒，无对白。图片1是开场构图与状态参考：教堂内低机位斜看紧闭双扇木门，门缝冷蓝夜光，殿内火光为暖橙。图片2四视图只绑定门外一位白发龙女GPT的鞋、白裙和腿部饰物。0–0.4秒紧闭门静压；0.4–1.1秒门外GPT右脚一次强力踹中门锁附近，先接触、木栓断裂，双门随冲力向室内敞开，木屑向镜头前方飞；1.1–2.7秒白裙下右腿由撞击伸直收回，鞋落在门槛，门扇继续惯性摆动；2.7–4秒门扇稳定敞开、尘屑下落，留出下一镜正面群像入口。镜头始终在室内门侧低处，保持腿部和门的受力关系可读，GPT头脸画外。门外冷蓝夜色，室内橙色火光，动作短促有重量，余势完整。 木门未破时不透视看到门外腿部，门栓先受撞击、门板向室内打开，才露出同一次踹击伸入的右脚；脚不穿过完整门板。",
+      "references": [
+        {
+          "path": "镜头设计/图像/天瀑空间-v014/CY022C-v014-r3.png",
+          "role": "reference_image",
+          "purpose": "完整闭门和室内低机位起态",
+          "sha256": "d8a109fc20db99f6c25827c5984d49a0395baef52fe8930c1385850e5ba727b0"
+        },
+        {
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+          "role": "reference_image",
+          "purpose": "GPT身份/服装/鞋/腿部饰物，沿用已有上传适配",
+          "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9"
+        }
+      ],
+      "change_reason": "当前成片破门局部只有约0.58秒且混入前镜帧，缺少门开与落脚；新源保留完整一次受力。",
+      "拟替换v001时间段": {
+        "start": 186.125,
+        "end": 186.708333,
+        "time_basis": "r3成片秒数",
+        "new_edit_seconds": "约2.5–3秒，按实测完整撞击至落脚裁取"
+      },
+      "adjacent_edit": "第17批不重生：沿用现源1–3秒已开门群像，轻慢到2.5秒，承接原速1.41秒GPT命令；沿用既有nightmask。移除旧群像再开门的起态，后接敌方反应。",
+      "audio": "本镜无对白；由后期添加门锁断裂、门板撞击、脚落地、木屑与混响，并在撞击点截断教徒吟唱。",
+      "attempt_id": "GB013-v005-CY023-r1",
+      "estimated_credits": 40.8,
+      "repair_of": "导演后期修正-v001现行剪辑对应镜头",
+      "status": "downloaded_candidate",
+      "submit_started": "2026-10-28T12:40:00+0800",
+      "task_id": "2115302546613145600",
+      "local_path": "视频制作/Metaso-H3-v005/产物/GB013-v005-CY023-r1.mp4",
+      "sha256": "e0ddba6f3fe703ffeac3afe6222cf57c3ce1f0ddecabf474fad7c453d289b95b",
+      "bytes": 4140673
+    },
+    {
+      "batch_number": 19,
+      "batch_id": "GB015-1",
+      "shot_ids": [
+        "CY024K2"
+      ],
+      "duration": 5,
+      "prompt": "日式电影动画，连续单镜头5秒，无对白。图片1为开场构图与状态参考：银白月刃尖端已插入黑焰中的柴木，刃尖是唯一传送坐标。图片2四视图绑定唯一Kimi，图片3四视图绑定后方唯一成人Claude，图片4仅为完成后空间关系和姿态参考，不能提前出现其已被分开的柴堆。0–0.5秒月刃插木位置银光一闪，镜头从刃尖向后拉开；0.5–1.8秒银流从刃尖沿地面向外展开并向上凝成半蹲的Kimi，脚与膝始终从同一地面坐标成形，身体先虚后实。1.8–3.3秒Kimi在原处凝实并压低重心，冲击环从脚下水平推开周边柴木，黑焰被排向两侧，白月刃回到她左手，右手保持黑月刃。3.3–5秒低机位中景稳住：前景Kimi半蹲，后方成人Claude仍被锁在高处十字架上，双臂受缚、受伤白裙、赤足留在窄足托，阶台高度不变；中央后窗已有破口，旁侧窗保持完整。让观众先看见刃尖落点，后看见身体在此凝实，最后才看见木柴被推开的救援通路。Kimi成形全过程在地面附近，镜头水平拉开，角色保持闭口。 重要：不是从画面上方坠落，不跳跃，不从窗户飞进。Kimi从地面银光就地显现。延续图片1当前火焰暖橙核心与黑紫边缘，不让色温突然变化；Claude保持图片4既有露肩、黑蝴蝶结、后置头纱和受刑衣物状态，不按四视图重新包裹头纱或穿鞋。",
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v005/参考/CY024K2-前接.png",
+          "role": "reference_image",
+          "purpose": "月刃已插入柴木，尚未清开柴堆的安全起态",
+          "sha256": "e9b93a47164db1cde8f866db469a0c6c9645df037c037499c0a06191c691a381",
+          "original_path": "镜头设计/图像/暗月瞬临-v045/CY024K1A-v045-r1.png"
+        },
+        {
+          "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+          "role": "reference_image",
+          "purpose": "Kimi身份/发饰/服装",
+          "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc"
+        },
+        {
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+          "role": "reference_image",
+          "purpose": "Claude成人身份；沿用适配避免原四视图宽高比超限",
+          "sha256": "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a"
+        },
+        {
+          "path": "镜头设计/图像/暗月瞬临-v045/CY024K2-v045-r1.png",
+          "role": "reference_image",
+          "purpose": "完成后Kimi/Claude/十字架空间与双月刃归属，仅作终态",
+          "sha256": "26268718c9c1cc60205640cae55c9d37d3965978385a387760f091a85b8a82c8"
+        }
+      ],
+      "change_reason": "当前211.125秒附近Kimi从画面上方落入，违背由刃尖坐标凝实；早于击木的宽镜还提前泄露柴堆已清开。",
+      "拟替换v001时间段": {
+        "start": 211.125,
+        "end": 214.25,
+        "time_basis": "r3成片近似动作范围，最终按实际切点裁取",
+        "new_edit_seconds": "约4–5秒，保留凝实后冲击及稳定落点"
+      },
+      "adjacent_edit": "先删当前源GB015-1-v002约2–3秒提前展示分开柴堆/Claude全身的宽镜（r3约207.5–208.5秒，切点需逐帧核定）；保留飞刃破窗→刃尖击木，冲击后才展示救援通路。前镜已有插木时，新片从插木后第一银光开始接，不重复插木。术名0.88秒保持原速，可跨前镜击木与银光起点，但凝实完成后不补说。",
+      "audio": "配音保留现选术名文件，后期补飞刃穿空、插木闷响、银流凝实、冲击扫柴、余烬下落；不生成新对白。",
+      "attempt_id": "GB015-1-v005-CY024K2-r1",
+      "estimated_credits": 51.0,
+      "repair_of": "导演后期修正-v001现行剪辑对应镜头",
+      "status": "downloaded_candidate",
+      "submit_started": "2026-10-28T12:40:03+0800",
+      "task_id": "2115302563185364992",
+      "local_path": "视频制作/Metaso-H3-v005/产物/GB015-1-v005-CY024K2-r1.mp4",
+      "sha256": "2998faeec7f9c41350fc4b65244f979962c4adc2fd5203a1bcd79eb056f4b937",
+      "bytes": 9340431
+    },
+    {
+      "batch_number": 7,
+      "batch_id": "GB006",
+      "shot_ids": [
+        "CY012",
+        "CY013-transition"
+      ],
+      "duration": 4,
+      "effective_duration": 2.5,
+      "mode": "reference_image",
+      "prompt": "日系动画电影4秒单镜，无对白。只拍小鱼上教堂石阶的脚部动作，唯一身份参考是一位同一小女孩的四视图，不能出现四个人。背后左侧膝下近景，只看见蓝色短靴、白色长袜与一角蓝白蓬裙，小鱼正面朝画面右上方高处。脚下近处较低、画面右上方较高。先右脚踩在高一级阶面上、后左脚蹬地抬高踩上更高一级，再右脚续上一级，重心逐级上升，镜头跟着两脚慢慢抬高。 黑灰石制宽阶，每级约12厘米，至少四条清楚的阶沿形成可辨高差，不是平地地砖。冷蓝月光和远处金色烛光反在石阶上；以鞋底接触与负重为中心，动作急切但谨慎，正常速度，裙边轻摆。0–0.4秒一脚在已踩稳的阶面上，0.4–3秒完成上述三级脚步，3–4秒继续向既定方向出画。不能原地跑、不能在平地滑行、不能跳过所有台阶、不双脚腾空、不腾跃、不旋转镜头、不出脸或其他人、不加文字、无配乐。",
+      "references": [
+        {
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+          "role": "reference_image",
+          "purpose": "小鱼鞋袜和衣摆身份四视图",
+          "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3"
+        }
+      ],
+      "change_reason": "r1只有平地奔跑，缺实际阶梯高差。r2改膝下近景拍清逐级踏阶。",
+      "拟替换v001时间段": {
+        "start": 91.583333,
+        "end": 91.583333,
+        "note": "在B7/B8边界插入约2.5秒，旧B7末可略收短避免重复前冲；不覆盖Claude问句。"
+      },
+      "attempt_id": "GB006-v005-CY012-r2",
+      "estimated_credits": 40.8,
+      "repair_of": "GB006-v005-CY012-r1",
+      "status": "downloaded_candidate",
+      "submit_started": "2026-10-28T12:44:03+0800",
+      "task_id": "2115303562957225984",
+      "local_path": "视频制作/Metaso-H3-v005/产物/GB006-v005-CY012-r2.mp4",
+      "sha256": "f0712aa2b3fdf6b61d74866b1a0bc182d4f10b38a36ec788ffb252fd8ce0abf5",
+      "bytes": 2706607,
+      "visual_verdict": "rejected_long_legs_wrong_shoes_and_setting"
+    },
+    {
+      "batch_number": 10,
+      "batch_id": "GB008R2",
+      "shot_ids": [
+        "CY016D-transition"
+      ],
+      "duration": 4,
+      "effective_duration": 2.5,
+      "mode": "reference_image",
+      "prompt": "日系动画电影4秒单镜，无对白。只拍小鱼下教堂石阶的脚部动作，唯一身份参考是一位同一小女孩的四视图，不能出现四个人。背后右侧膝下近景，只看见蓝色短靴、白色长袜与一角蓝白蓬裙，小鱼面朝画面左下方低处。脚下近处较高、画面左下方远处较低。先右脚跨落低一级阶面、左脚跟着落到更低一级，再右脚下一级。每次落脚都踩实平整阶面，重心逐级下降，镜头跟着轻轻下摇。 黑灰石制宽阶，每级约12厘米，至少四条清楚的阶沿形成可辨高差，不是平地地砖。冷蓝月光和远处金色烛光反在石阶上；以鞋底接触与负重为中心，动作急切但谨慎，正常速度，裙边轻摆。0–0.4秒一脚在已踩稳的阶面上，0.4–3秒完成上述三级脚步，3–4秒继续向既定方向出画。不能原地跑、不能在平地滑行、不能跳过所有台阶、不双脚腾空、不腾跃、不旋转镜头、不出脸或其他人、不加文字、无配乐。",
+      "references": [
+        {
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+          "role": "reference_image",
+          "purpose": "小鱼鞋袜和衣摆身份四视图",
+          "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3"
+        }
+      ],
+      "change_reason": "r1只有平地奔跑，缺实际阶梯高差。r2改膝下近景拍清逐级踏阶。",
+      "拟替换v001时间段": {
+        "start": 122.291667,
+        "end": 122.291667,
+        "note": "B10/B11边界插入约2.5秒。若回片转身与脚步最清楚段在中段，取完整动作段，不固定只取前2.5秒。"
+      },
+      "attempt_id": "GB008R2-v005-CY016D-transition-r2",
+      "estimated_credits": 40.8,
+      "repair_of": "GB008R2-v005-CY016D-transition-r1",
+      "status": "downloaded_candidate",
+      "submit_started": "2026-10-28T12:44:04+0800",
+      "task_id": "2115303571471663141",
+      "local_path": "视频制作/Metaso-H3-v005/产物/GB008R2-v005-CY016D-transition-r2.mp4",
+      "sha256": "c681139681a64f0ffdc3ed0c046818d3f6c07d7690ec638877d57ddc4b93ba16",
+      "bytes": 3319082,
+      "visual_verdict": "rejected_long_legs_wrong_shoes_and_setting"
+    },
+    {
+      "batch_number": 27,
+      "batch_id": "GB020-1",
+      "shot_ids": [
+        "CY024A3"
+      ],
+      "duration": 7,
+      "prompt": "日式电影动画，7秒连续微距镜头。严格从图片1开始，深蓝月夜中的透明大水珠悬在前景，教堂完整尖塔和橙色窗光虚化在后，月亮在左上。0–1.5秒主水珠轻微晃动，表面张力拉长后回弹；1.5–4秒下方两颗小水滴向上移动，先接触主水珠下缘，再连续融入同一水体，接触处涟漪扫过，大水珠体积略增；4–5.5秒合并后的水珠缓缓向画面上方浮起，镜头轻随上移但保留教堂尖顶方位；5.5–7秒云影逐渐遮月，水珠朝高空云腹继续升起。银蓝高光来自月光，水透明、边缘柔软，合并动作清楚，不把小滴当向下下落的雨。主水珠始终是可变形液体，完成合并和上升再结束。无人物、无对白。",
+      "references": [
+        {
+          "path": "镜头设计/图像/水珠与云顶-v030/CY024A3-v030-r1.png",
+          "role": "first_frame",
+          "purpose": "水滴/完整教堂/月亮三层构图与水体材质",
+          "sha256": "99412e6f86943a7dca59b5cb73445272b7582d8f82a08d2a6d43ab8b1a76614b"
+        }
+      ],
+      "change_reason": "现片用两次慢放拼接静浮水滴，没有清楚的小滴向上融入、主滴向云腹上升因果。",
+      "拟替换v001时间段": {
+        "start": 280,
+        "end": 286.541667,
+        "time_basis": "r3成片秒数",
+        "new_edit_seconds": "约6.54–7秒，完整覆盖原速6.44秒祈愿"
+      },
+      "audio": "GPT画外祈愿原文件完整原速；以小滴接触的清脆水声、轻柔表面振动及向上风声补动作，不新增对白。",
+      "attempt_id": "GB020-1-v005-CY024A3-r1",
+      "estimated_credits": 71.4,
+      "repair_of": "导演后期修正-v001现行剪辑对应镜头",
+      "status": "downloaded_candidate",
+      "submit_started": "2026-10-28T12:44:41+0800",
+      "task_id": "2115303726855950336",
+      "provider_status": "running",
+      "local_path": "视频制作/Metaso-H3-v005/产物/GB020-1-v005-CY024A3-r1.mp4",
+      "sha256": "982f027402336cd16669568ea95c8d0cfb76a4c4e519276b0f1688bb16aeddc6",
+      "bytes": 5673748
+    },
+    {
+      "batch_number": 28,
+      "batch_id": "GB020-1R2",
+      "shot_ids": [
+        "CY024A6"
+      ],
+      "duration": 5,
+      "prompt": "日式电影动画，5秒连续仰拍。严格沿用图片1的低位广角与完整教堂尖塔，云层和悬天水面占画面上方四分之三。0–1秒保持云层之间已有的深蓝连续水面可读，银色月光在平滑大涟漪上游走；1–3秒更多上浮小水滴从画面下方进入高空水面，层层云壁缓慢向中央旋卷，云缝打开，让人清晰看见仿佛整片深蓝海面悬在夜空；3–5秒这片相连水面逐步向中殿正上方收拢，中央水面下压蓄势，镜头微微仰摇让水面具有压顶尺度。云是柔软云体，水是连续透明深蓝液体，二者边界和涟漪明显。教堂屋顶和尖塔全程完整，橙色窗光稳定。此镜只完成高空聚水，保持下一镜水龙下行前的蓄势状态。无人物、无对白。",
+      "references": [
+        {
+          "path": "镜头设计/图像/结印盘龙-v050/CY024A6-v050-r1.png",
+          "role": "first_frame",
+          "purpose": "完整屋顶、云壁、已有云间水面与月色",
+          "sha256": "7d47a428f4731958e5ff81d617dcaf42ae7d40c2f5234d3aa312c32f0d9b70ae"
+        }
+      ],
+      "change_reason": "现片只有云漏斗旋卷，悬天水面没有清楚建立；缺聚水转为水龙的物质与尺度桥梁。",
+      "拟替换v001时间段": {
+        "start": 289.041667,
+        "end": 296.541667,
+        "time_basis": "r3后半段候选范围，按旧云层动作实切",
+        "new_edit_seconds": "新源5秒；保留旧云景约2.5–3秒，必要时延长旧景以容两句完整原声总约9.25秒及间隙"
+      },
+      "adjacent_edit": "不能将本批机械缩为7.5秒：现两句实际文件3.919958与5.253583秒，含间隔需要约9.5–10秒声音窗口。优先旧云景前4.5–5秒接新5秒，或声音向第27批末/第29批起少量跨镜而保持语义次序，严禁截句/加速声轨。",
+      "audio": "保留GPT两段画外原速祈愿；后期以低风压、云层远鸣和水体涌流区分云与水，不添加雷电。",
+      "attempt_id": "GB020-1R2-v005-CY024A6-r1",
+      "estimated_credits": 51.0,
+      "repair_of": "导演后期修正-v001现行剪辑对应镜头",
+      "status": "downloaded_candidate",
+      "submit_started": "2026-10-28T12:44:54+0800",
+      "task_id": "2115303779859894272",
+      "local_path": "视频制作/Metaso-H3-v005/产物/GB020-1R2-v005-CY024A6-r1.mp4",
+      "sha256": "140fa2de26213bf27a79e14db398dd1c998d354c8774d3e774fc07143593e2fd",
+      "bytes": 7551281
+    },
+    {
+      "batch_number": 30,
+      "batch_id": "GB021",
+      "shot_ids": [
+        "CY024A4"
+      ],
+      "duration": 6,
+      "prompt": "日式电影动画，6秒单镜头。图片1严格作为首帧，罩内侧面中近景：Kimi蹲在左侧，专注侧脸、双手、Claude双踝与窄脚托同框。保持首帧Kimi的身份与服装、Claude的烧损白裙和赤足受缚状态，不能换衣或重置人物。0–1.5秒Kimi一手轻托踝扣上方的小腿，另一手沿外侧链环轻触检查；1.5–3.5秒她用指腹试探锁扣连接处，略转手腕感受阻力，Claude双脚稳定踩在脚托、踝锁位置不变；3.5–5秒Kimi确认强拉不可行，手指停住，视线从锁扣缓缓抬向画外Claude；5–6秒保留一拍闭口思考与呼吸。镜头只有极轻向脸部靠近，始终保留足托和双手，Claude上半身保持画外且身体仍绑在十字架上。两把月刃收在Kimi后腰，画内双手是空手。光线为护罩内柔和冷蓝反光，地面干净，人物安静闭口，画外祈愿由后期加入。",
+      "references": [
+        {
+          "path": "镜头设计/图像/暗月瞬临-v045/CY024A4-v045-r3.png",
+          "role": "first_frame",
+          "purpose": "已有合格起态：Kimi侧脸与两手/双踝/足托同框，Claude双腕保持画外",
+          "sha256": "09fa6831cbf4932b0636636dfddc49845ee1b67bedf2877e20e9ade483bba9ea"
+        }
+      ],
+      "change_reason": "当前为回避自由手穿帮把整镜裁为脚与手，丢失Kimi专注观察和确认锁扣的主体；首帧可直接恢复合格侧面机位，无需重生整批。",
+      "拟替换v001时间段": {
+        "start": 303.625,
+        "end": 308.5,
+        "time_basis": "r3成片秒数",
+        "new_edit_seconds": "约5–5.5秒保完整检查后停手，覆盖4.759979秒原速祈愿"
+      },
+      "audio": "画内Kimi闭口，GPT画外祈愿按原速完整保留；补两次轻链响和罩内低闷水声。",
+      "attempt_id": "GB021-v005-CY024A4-r1",
+      "estimated_credits": 61.2,
+      "repair_of": "导演后期修正-v001现行剪辑对应镜头",
+      "status": "downloaded_candidate",
+      "submit_started": "2026-10-28T12:44:56+0800",
+      "task_id": "2115303785296236544",
+      "local_path": "视频制作/Metaso-H3-v005/产物/GB021-v005-CY024A4-r1.mp4",
+      "sha256": "ebc2ab6c26494cc9bcc65b71037489cffba256368fd5c5e672ce7221736991fd",
+      "bytes": 9280499
+    },
+    {
+      "batch_number": 7,
+      "batch_id": "GB006",
+      "shot_ids": [
+        "CY012",
+        "CY013-transition"
+      ],
+      "duration": 4,
+      "effective_duration": 2.5,
+      "mode": "first_frame",
+      "prompt": "从这张首帧原样延续4秒单一电影动画镜头。小鱼朝右上方高处连续迈上三级石阶，先后把两只圆胖小靴踩到更高的阶面，重心随每步上升。动作急切但谨慎、只走跑不跳跃，不双脚腾空。保持首帧小鱼二头身幼小体型，极短的腿、圆胖毛边蓝色雪地靴、毛球、鲸帽、厚蓝白冬裙和全部饰物，不能长高、不能变成长袜或普通皮鞋。镜头同侧轻跟随，始终看清鞋踩在有高低差的石阶上；身体逐渐往指定方向离开起点，不原地摆腿不脚穿石阶。始终是首帧封闭教堂内部、冷蓝窗光与暖火盆，不出现室外树木。0–0.25秒接起态，0.25–3.4秒三级连续脚步，3.4–4秒继续既定方向。没有对白、文字、音乐、新人或新道具。",
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v005/参考/CY012-上阶首帧-v003.png",
+          "sha256": "d7126b00a9e12ef983927989acd5a467acb17da1d99c9ec2d3315e576ba3b98f",
+          "role": "first_frame",
+          "purpose": "内置imagegen新镜头首帧；四视图和实际教堂双参考；已实看短腿毛边靴及室内石阶"
+        }
+      ],
+      "change_reason": "前两次未交代踏阶或身份失真。锁定正确小鱼/毛边靴/石阶高差首帧后，只延续三级脚步。",
+      "拟替换v001时间段": {
+        "start": 91.583333,
+        "end": 91.583333,
+        "note": "在B7/B8边界插入约2.5秒，旧B7末可略收短避免重复前冲；不覆盖Claude问句。"
+      },
+      "attempt_id": "GB006-v005-CY012-r3",
+      "estimated_credits": 40.8,
+      "repair_of": "GB006-v005-CY012-r2",
+      "status": "downloaded_candidate",
+      "submit_started": "2026-10-28T12:48:31+0800",
+      "task_id": "2115304687830110208",
+      "local_path": "视频制作/Metaso-H3-v005/产物/GB006-v005-CY012-r3.mp4",
+      "sha256": "ee1d247517fb36f7f940a72028ececf5ce049d7c582e7080e641e51a5c6b483f",
+      "bytes": 4474805
+    },
+    {
+      "batch_number": 10,
+      "batch_id": "GB008R2",
+      "shot_ids": [
+        "CY016D-transition"
+      ],
+      "duration": 4,
+      "effective_duration": 2.5,
+      "mode": "first_frame",
+      "prompt": "从这张首帧原样延续4秒单一电影动画镜头。小鱼朝左下方低处连续迈下三级石阶，每步踩实低一级宽阶面后另一脚再下，重心随脚步下降。动作急切但谨慎、只走跑不跳跃，不双脚腾空。保持首帧小鱼二头身幼小体型，极短的腿、圆胖毛边蓝色雪地靴、毛球、鲸帽、厚蓝白冬裙和全部饰物，不能长高、不能变成长袜或普通皮鞋。镜头同侧轻跟随，始终看清鞋踩在有高低差的石阶上；身体逐渐往指定方向离开起点，不原地摆腿不脚穿石阶。始终是首帧封闭教堂内部、冷蓝窗光与暖火盆，不出现室外树木。0–0.25秒接起态，0.25–3.4秒三级连续脚步，3.4–4秒继续既定方向。没有对白、文字、音乐、新人或新道具。",
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v005/参考/CY016D-下阶首帧-v003.png",
+          "sha256": "00637b4984f6b97f5a55a8cd5ec97a68025dd5793c8d5096507300edc8f5429e",
+          "role": "first_frame",
+          "purpose": "内置imagegen新镜头首帧；四视图和实际教堂双参考；已实看短腿毛边靴及室内石阶"
+        }
+      ],
+      "change_reason": "前两次未交代踏阶或身份失真。锁定正确小鱼/毛边靴/石阶高差首帧后，只延续三级脚步。",
+      "拟替换v001时间段": {
+        "start": 122.291667,
+        "end": 122.291667,
+        "note": "B10/B11边界插入约2.5秒。若回片转身与脚步最清楚段在中段，取完整动作段，不固定只取前2.5秒。"
+      },
+      "attempt_id": "GB008R2-v005-CY016D-transition-r3",
+      "estimated_credits": 40.8,
+      "repair_of": "GB008R2-v005-CY016D-transition-r2",
+      "status": "downloaded_candidate",
+      "submit_started": "2026-10-28T12:48:35+0800",
+      "task_id": "2115304704527110144",
+      "local_path": "视频制作/Metaso-H3-v005/产物/GB008R2-v005-CY016D-transition-r3.mp4",
+      "sha256": "94c7926b00f59a342f118a9c67209bc2046894dff41d7eef2bccefe3187e00b3",
+      "bytes": 6885389
+    }
+  ]
+}

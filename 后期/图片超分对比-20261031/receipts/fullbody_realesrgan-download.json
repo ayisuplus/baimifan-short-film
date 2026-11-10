@@ -1,0 +1,1 @@
+{"schema": "envelope/1", "type": "envelope", "ok": true, "command": "download", "version": "1.22.0", "where": "local", "data": {"prompt_id": "f4089e73-8543-49ec-b723-ea1957ae7557", "urls": ["http://127.0.0.1:8188/view?filename=fullbody_realesrgan_00001_.png&subfolder=Baimifan%5CUpscale_20261031&type=output"]}, "error": null}

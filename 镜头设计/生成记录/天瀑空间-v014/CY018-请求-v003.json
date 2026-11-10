@@ -1,0 +1,13 @@
+{
+  "id": "CY018",
+  "take": 3,
+  "destination": "镜头设计/图像/天瀑空间-v014/CY018-v014-r3.png",
+  "request": "镜头设计/生成记录/天瀑空间-v014/CY018-请求-v003.json",
+  "input": {
+    "prompt": "保留前景火把跌进右侧铜火盆的动作和盆中火焰，只清除背景密集蜡烛和烛台，改为暗石柱。不要改变火盆和手部构图。",
+    "referenced_image_paths": [
+      "E:/projects/内容创作/穿云/镜头设计/图像/空间因果-v011/CY018-v011.png"
+    ],
+    "transparent_background": false
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "review_type": "独立首六批回片目视复核",
+  "created_at": "2026-10-28T02:23:14.190578",
+  "scope": "六张半秒采样表与列出的放大关键帧；ffmpeg scene阈值0.28辅助定位切点；未听音、未执行生成、未改队列或源输入。",
+  "timing_precision": "切点来自帧级检测，行为判断主要半秒采样；具体动作交接仍应逐帧/全速确认。",
+  "reference_sources": [
+    "视频制作/Metaso-H3-v002/执行队列.json",
+    "后期/生成收口-v025/逐批输入审阅快照.json",
+    "后期/制作工作台-v025/工作台数据.json"
+  ],
+  "results": [
+    {
+      "batch_number": 18,
+      "batch_id": "GB014A",
+      "attempt_id": "GB014A-r001",
+      "local_path": "视频制作/Metaso-H3-v002/产物/GB014A-r001.mp4",
+      "source_sha256": "463c6eff8a72bbfe124c09d9429e57bd1c7a8fe16cf373eef52d15d6b94cdbc7",
+      "requested_used_seconds": 12.29,
+      "observed_scene_cuts_seconds": [
+        8.291667
+      ],
+      "verdict": "必须补拍第二镜；第一镜可保留",
+      "issues": [
+        {
+          "code": "missing_throw",
+          "priority": "P1",
+          "observed_time_seconds": [
+            11.8,
+            12.8
+          ],
+          "observed": "12.8秒左手仍握亮月刃，动作终态是伸手而非投掷离手。",
+          "expected_v025": "11.68秒两句结束，短停后投刃；12.29秒前明刃离手，玻璃仍完整。",
+          "repair_class": "缺少必要画面，不能靠裁切补出。",
+          "evidence": "审查/GB014A-r001-独立复核-12.8.jpg"
+        },
+        {
+          "code": "late_closeup",
+          "priority": "P1",
+          "observed_time_seconds": [
+            4,
+            8.291667
+          ],
+          "observed": "完整背影远景持续到8.291667秒，才切到窗外侧近景；侧近景原片不足4.71秒。",
+          "expected_v025": "4秒切侧近景，承载7.68秒完整请求及投刃。",
+          "repair_class": "原声不变时无法把不足4.71秒说话段安全填为8.29秒；重拍第二镜。",
+          "evidence": null
+        }
+      ],
+      "observed_positive_evidence": [
+        "0–4秒月光逐步凝形、背影朝窗连续，未见黑烟/门户；第一镜可原速保留。",
+        "亮刃左手、暗刃右手在末段清楚可辨，未提前破窗。"
+      ],
+      "audio_and_lipsync": "未听音；未通过口型、日语发音或最终混音验收",
+      "evidence_sheet": "视频制作/Metaso-H3-v002/审查/GB014A-r001-半秒采样.jpg"
+    },
+    {
+      "batch_number": 19,
+      "batch_id": "GB015-1",
+      "attempt_id": "GB015-1-r001",
+      "local_path": "视频制作/Metaso-H3-v002/产物/GB015-1-r001.mp4",
+      "source_sha256": "40625ec1f26998f4ada7ec777e9bc1ce8d1ff98bc4724af471ef09767d21cf30",
+      "requested_used_seconds": 12.0,
+      "observed_scene_cuts_seconds": [
+        4.5,
+        8.041667,
+        10.333333
+      ],
+      "verdict": "先做剪辑对位验证，不因切点后移自动重发整批",
+      "issues": [
+        {
+          "code": "anchor_late",
+          "priority": "P1",
+          "observed_time_seconds": [
+            3,
+            4.5
+          ],
+          "observed": "刀入木特写到4.5秒才出现；3.6–4.48秒计划术名窗口内，采样仍在刀飞行/降落。",
+          "expected_v025": "3秒进入刀嵌木，术名3.6–4.48在坐标落实后，7秒Kimi出现。",
+          "repair_class": "四个必要动作段齐全，优先缩短前飞行段并重新定位木桩静止段，再按原速配音检查。未经听音不称实际术名错位。",
+          "evidence": null
+        },
+        {
+          "code": "arrival_late",
+          "priority": "P2",
+          "observed_time_seconds": [
+            7,
+            8.041667
+          ],
+          "observed": "Kimi出现在8.041667秒，近接下一段冲突至10.333秒。",
+          "expected_v025": "7–10秒瞬临拔刃震开燃木；10秒敌众逼近。",
+          "repair_class": "剪辑候选，可裁去飞行与木桩重复等待；需检查拔刃连续性。",
+          "evidence": null
+        }
+      ],
+      "observed_positive_evidence": [
+        "四个事件均可辨：破窗、落木、Kimi瞬临/震柴、敌众逼近。",
+        "未见Kimi肉身穿窗，未见第二个Kimi或Claude被冲下刑架。"
+      ],
+      "audio_and_lipsync": "未听音；未通过口型、日语发音或最终混音验收",
+      "evidence_sheet": "视频制作/Metaso-H3-v002/审查/GB015-1-r001-半秒采样.jpg"
+    },
+    {
+      "batch_number": 26,
+      "batch_id": "GB019",
+      "attempt_id": "GB019-r001",
+      "local_path": "视频制作/Metaso-H3-v002/产物/GB019-r001.mp4",
+      "source_sha256": "a0c6d5725e36bee46c692a9b0667f7ce8ce0529a5d12d592c27423a32dd99e35",
+      "requested_used_seconds": 14.89,
+      "observed_scene_cuts_seconds": [
+        1.75,
+        3.166667,
+        4.958333,
+        7.958333,
+        10.625
+      ],
+      "verdict": "可剪辑修复候选；先对位，不直接采用",
+      "issues": [
+        {
+          "code": "cumulative_delay",
+          "priority": "P1",
+          "observed_time_seconds": [
+            1.75,
+            14.5
+          ],
+          "observed": "扇轴1.75秒、飞叶3.166667秒、碰撞4.958333秒、罩内7.958333秒、拭汗10.625秒；相对目标逐渐后移。",
+          "expected_v025": "各切点为1、2.5、4、5、7.55秒；最后近景持续至14.89秒。",
+          "repair_class": "前半飞行/碰撞有冗余可缩短，罩内近景源长约4.375秒短于目标7.34秒；须用同镜可用呼吸/拭汗余量做实际剪辑试验。不能移动或加速原声填洞。",
+          "evidence": null
+        }
+      ],
+      "observed_positive_evidence": [
+        "六段叙事均出现，单片实体扇叶有紫色法术边缘。",
+        "罩内拭汗与伤衣检查存在，未见换成脱衣或打开护罩。"
+      ],
+      "audio_and_lipsync": "未听音；未通过口型、日语发音或最终混音验收",
+      "evidence_sheet": "视频制作/Metaso-H3-v002/审查/GB019-r001-半秒采样.jpg"
+    },
+    {
+      "batch_number": 30,
+      "batch_id": "GB021",
+      "attempt_id": "GB021-r001",
+      "local_path": "视频制作/Metaso-H3-v002/产物/GB021-r001.mp4",
+      "source_sha256": "e59a0acbfe7525a9ec59cb9b07edbf20b0e640a199d31a7d74df898c8122bd46",
+      "requested_used_seconds": 11.58,
+      "observed_scene_cuts_seconds": [
+        2.75,
+        3.791667,
+        8.333333
+      ],
+      "verdict": "局部剪辑修复优先；眼部仅采样观察未见固定亮白眼球",
+      "issues": [
+        {
+          "code": "unplanned_hall_insert",
+          "priority": "P1",
+          "observed_time_seconds": [
+            2.75,
+            3.791667
+          ],
+          "observed": "破顶近景之后额外出现完整教堂中殿和龙身圆环远景；切罩内延后至3.791667秒。",
+          "expected_v025": "0–1.5秒近景掠过，直接切罩内；回卷应由反应切镜跨切完成，不增加全殿展示。",
+          "repair_class": "删中殿圆环插镜并缩短近景至1.5秒；罩内手部与教主反应可重排，画外原声保持。",
+          "evidence": "审查/GB021-r001-独立复核-3.0.jpg"
+        },
+        {
+          "code": "priest_window_short",
+          "priority": "P2",
+          "observed_time_seconds": [
+            8.333333,
+            12
+          ],
+          "observed": "教主反应到8.333333秒才开始，源长约3.667秒。",
+          "expected_v025": "6.36–11.58秒反应共5.22秒。",
+          "repair_class": "无画内对白，可先检查反应镜适度慢放/保留反应是否自然；最终动作尾点需验证。",
+          "evidence": null
+        }
+      ],
+      "observed_positive_evidence": [
+        "近景水龙朝右下掠过方向与完整提示词一致，不将其误判为冲向错误方向。",
+        "0.5秒放大眼窝主要为深暗水体折射，未见上一轮固定白亮眼球；鳞状水纹是否过实仍需全速审美确认。",
+        "Kimi查看踝扣，双脚仍在脚托，采样未见解锁；教主未提前开罩。"
+      ],
+      "audio_and_lipsync": "未听音；未通过口型、日语发音或最终混音验收",
+      "evidence_sheet": "视频制作/Metaso-H3-v002/审查/GB021-r001-半秒采样.jpg"
+    },
+    {
+      "batch_number": 34,
+      "batch_id": "GB024",
+      "attempt_id": "GB024-r001",
+      "local_path": "视频制作/Metaso-H3-v002/产物/GB024-r001.mp4",
+      "source_sha256": "cdccc76caef14fdf364c50b49ed0a4f06049216d6c737830cc8b6b5d16aab7e8",
+      "requested_used_seconds": 13.9,
+      "observed_scene_cuts_seconds": [
+        5.708333,
+        7.583333,
+        9.875,
+        12.625
+      ],
+      "verdict": "化龙局部必须返修；其余段保留为剪辑候选",
+      "issues": [
+        {
+          "code": "dragon_costume_residue",
+          "priority": "P1",
+          "observed_time_seconds": [
+            9.5,
+            9.875
+          ],
+          "observed": "9.5秒龙形胸腹和尾后仍挂大片裙褶与玫瑰饰片，接教主镜前仍呈带衣龙。",
+          "expected_v025": "6.9–8.9秒完成同一身体化龙，镜尾衣物全部消散，不留下穿衣龙。",
+          "repair_class": "重拍单一化龙镜；不要继续上传含完整衣饰的旧过渡图作为终态。",
+          "evidence": "审查/GB024-r001-独立复核-9.5.jpg"
+        },
+        {
+          "code": "reactions_and_exit_late",
+          "priority": "P1",
+          "observed_time_seconds": [
+            5.708333,
+            14
+          ],
+          "observed": "GPT近景5.708333秒才开始、化龙7.583333秒、鸦翼9.875秒、共空间12.625秒；13.5秒二者仍在殿内。",
+          "expected_v025": "切点4.9、6.9、8.9、10.9秒；13.9秒前二者穿同一破口。",
+          "repair_class": "对白段可优先裁切重排但口型需重验。共同穿出镜源约1.375秒，必要的出洞终态采样未证实，不能用普通慢放冒充穿出；建议另补单镜。",
+          "evidence": null
+        }
+      ],
+      "observed_positive_evidence": [
+        "同一GPT身体转龙，未见另一个完整人形GPT站在龙旁。",
+        "教主鸦翼身份清楚，未见第二教主。"
+      ],
+      "audio_and_lipsync": "未听音；未通过口型、日语发音或最终混音验收",
+      "evidence_sheet": "视频制作/Metaso-H3-v002/审查/GB024-r001-半秒采样.jpg"
+    },
+    {
+      "batch_number": 37,
+      "batch_id": "GB027",
+      "attempt_id": "GB027-r001",
+      "local_path": "视频制作/Metaso-H3-v002/产物/GB027-r001.mp4",
+      "source_sha256": "61488840941f10c387709789147c8fc42db5e1782208ba5beb0eb05ce1ec7d9b",
+      "requested_used_seconds": 14.2,
+      "observed_scene_cuts_seconds": [
+        2.833333,
+        6.083333
+      ],
+      "verdict": "服装与环境连续性必须返修；踝扣近景可局部保留",
+      "issues": [
+        {
+          "code": "gpt_kimi_costume_mix",
+          "priority": "P1",
+          "observed_time_seconds": [
+            6.083333,
+            14.5
+          ],
+          "observed": "GPT龙角翅膀仍在，但服装变成Kimi黑紫星月罩衣、白荷叶边与K徽章。",
+          "expected_v025": "GPT始终白银服装/玫瑰饰件；Kimi单独保留黑紫星月服与K饰。",
+          "repair_class": "上身解腕和扶下近景重拍，不能用调色把错误服装结构修好。",
+          "evidence": "审查/GB027-r001-独立复核-12.0.jpg"
+        },
+        {
+          "code": "candles_relight",
+          "priority": "P1",
+          "observed_time_seconds": [
+            0,
+            14.5
+          ],
+          "observed": "首段祭坛左右烛台全部燃烧；后续上身和近景边缘仍有烛火。",
+          "expected_v025": "撤罩后全殿普通烛火与散柴已熄灭，只有冷月反光。",
+          "repair_class": "首镜/上身/扶下各独立重拍或局部合成灭灯；源剧情不能改为重新点灯。",
+          "evidence": null
+        },
+        {
+          "code": "restraints_end_not_clear",
+          "priority": "P1",
+          "observed_time_seconds": [
+            8.5,
+            12
+          ],
+          "observed": "解腕后Claude前臂仍戴闭合黑腕扣并带长链；Kimi手持链，未看清原钥匙转动最后腕扣。",
+          "expected_v025": "GPT先承托，Kimi以原钥匙开最后腕扣；8秒前五处束缚全部解除。",
+          "repair_class": "补拍最后腕扣实际张开脱离；已解开的腕部不得在扶下近景重新戴闭扣。",
+          "evidence": "审查/GB027-r001-独立复核-8.5.jpg"
+        },
+        {
+          "code": "stepdown_not_shown",
+          "priority": "P2",
+          "observed_time_seconds": [
+            8,
+            10.7
+          ],
+          "observed": "采样中上身逐步下沉并推近，但足部始终画外，无法确认从脚托迈下后站稳；Kimi在近景中仍正脸清楚。",
+          "expected_v025": "8–10.7秒先保留足部落地和GPT承托，站稳后收至双人近景；Kimi退为左缘虚焦。",
+          "repair_class": "扶下单镜明确起段脚与落地，再推近；不新增切镜。",
+          "evidence": null
+        }
+      ],
+      "observed_positive_evidence": [
+        "3.8–5.8秒踝部能见最后踝扣张开并移离，双足保持脚托，可作为2秒源片候选。",
+        "头发/花饰和焦损总体延续；踝部衣边存在暖橙发光，复用前需确认并消除仍燃烧观感。"
+      ],
+      "audio_and_lipsync": "未听音；未通过口型、日语发音或最终混音验收",
+      "evidence_sheet": "视频制作/Metaso-H3-v002/审查/GB027-r001-半秒采样.jpg"
+    }
+  ],
+  "blocking_repair_batches": [
+    "GB014A",
+    "GB024",
+    "GB027"
+  ],
+  "editing_first_batches": [
+    "GB015-1",
+    "GB019",
+    "GB021"
+  ],
+  "accepted": false
+}

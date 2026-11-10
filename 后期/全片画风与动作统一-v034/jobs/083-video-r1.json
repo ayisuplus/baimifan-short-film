@@ -1,0 +1,9 @@
+{
+  "name": "083-video-r1",
+  "type": "video",
+  "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\083-key-r2_00001_.png",
+  "key_review": "pass",
+  "prompt": "Animate this exact hand-drawn Japanese gothic 2D anime image. Keep strong ink outlines, hard-edged two-tone cel shadows, matte skin, broad connected hair locks and painted backgrounds in every frame. No photorealistic fluid, PBR, plastic skin, 3D animation, random cuts, camera orbit, changing identities, extra people or extra limbs. Shallow water outside the indigo dome flows off the high platform and down the stairs. The dome remains firmly anchored, with faint smooth protective lines moving once across its surface. The camera slowly pulls back just enough to show the high platform, stair edge and lower flooded nave in one readable hierarchy. No moving cross, no new opening, no fire reigniting and no transparent dome exposing dry characters to rain. Preserve the exact starting spatial layout and architecture. No newly lit candles, no extra roof destruction.  The dome remains completely opaque and its base does not drift or float. Water runs from the high platform down over the front step; it cannot climb upward. Preserve the vertical separation of highest altar and lower nave. This is late night, no daylight and no flames.",
+  "frames": 60,
+  "seed": 202610303443
+}

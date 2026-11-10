@@ -1,0 +1,519 @@
+{
+  "method": "10ms active RMS and sample peak, not LUFS or listening; no automatic normalization of acting dynamics",
+  "items": [
+    {
+      "id": "VO-CY003-01",
+      "role": "小鱼",
+      "record": 235,
+      "active_rms_db": -30.64,
+      "sample_peak_db": -16.17,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY003B-01",
+      "role": "Claude",
+      "record": 396,
+      "active_rms_db": -19.07,
+      "sample_peak_db": -6.13,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY004-01",
+      "role": "教徒",
+      "record": 516,
+      "active_rms_db": -21.95,
+      "sample_peak_db": -9.22,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY004D-01",
+      "role": "GPT",
+      "record": 790,
+      "active_rms_db": -18.51,
+      "sample_peak_db": -5.68,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY006-01",
+      "role": "小鱼",
+      "record": 960,
+      "active_rms_db": -27.96,
+      "sample_peak_db": -14.64,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY007-01",
+      "role": "GPT",
+      "record": 1097,
+      "active_rms_db": -19.65,
+      "sample_peak_db": -6.09,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY008-01",
+      "role": "小鱼",
+      "record": 1198,
+      "active_rms_db": -20.27,
+      "sample_peak_db": -6.05,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY008M-01",
+      "role": "恶魔GPT",
+      "record": 1288,
+      "active_rms_db": -21.4,
+      "sample_peak_db": -8.17,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY008M-02",
+      "role": "天使GPT",
+      "record": 1379,
+      "active_rms_db": -19.87,
+      "sample_peak_db": -6.11,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY009-01",
+      "role": "小鱼",
+      "record": 1647,
+      "active_rms_db": -32.64,
+      "sample_peak_db": -16.72,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY010A-01",
+      "role": "教徒",
+      "record": 1910,
+      "active_rms_db": -23.81,
+      "sample_peak_db": -6.05,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY015-01",
+      "role": "Claude",
+      "record": 2428,
+      "active_rms_db": -20.28,
+      "sample_peak_db": -5.61,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY015-02",
+      "role": "小鱼",
+      "record": 2474,
+      "active_rms_db": -34.07,
+      "sample_peak_db": -21.16,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY016A-01",
+      "role": "Claude",
+      "record": 2659,
+      "active_rms_db": -17.15,
+      "sample_peak_db": -6.15,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY016A-02",
+      "role": "小鱼",
+      "record": 2767,
+      "active_rms_db": -21.79,
+      "sample_peak_db": -5.98,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY016B1-01",
+      "role": "Claude",
+      "record": 2903,
+      "active_rms_db": -30.23,
+      "sample_peak_db": -17.84,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY021A-01",
+      "role": "教主／Claude的父亲",
+      "record": 3486,
+      "active_rms_db": -18.35,
+      "sample_peak_db": -2.0,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY021A-01",
+      "role": "教主／Claude的父亲",
+      "record": 3592,
+      "active_rms_db": -200.0,
+      "sample_peak_db": -80.74,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY019-01",
+      "role": "教主／Claude的父亲",
+      "record": 3622,
+      "active_rms_db": -25.06,
+      "sample_peak_db": -11.49,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY020-01",
+      "role": "Claude",
+      "record": 3668,
+      "active_rms_db": -19.83,
+      "sample_peak_db": -6.14,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY021-01",
+      "role": "Claude",
+      "record": 3924,
+      "active_rms_db": -18.36,
+      "sample_peak_db": -6.09,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY024-01",
+      "role": "GPT",
+      "record": 4786,
+      "active_rms_db": -19.23,
+      "sample_peak_db": -6.11,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY024R-01",
+      "role": "Kimi",
+      "record": 4852,
+      "active_rms_db": -18.84,
+      "sample_peak_db": -5.8,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY024K0-01",
+      "role": "Kimi",
+      "record": 5018,
+      "active_rms_db": -18.36,
+      "sample_peak_db": -5.81,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY024K0-02",
+      "role": "Kimi",
+      "record": 5107,
+      "active_rms_db": -22.8,
+      "sample_peak_db": -6.13,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY024K1A-01",
+      "role": "Kimi",
+      "record": 5301,
+      "active_rms_db": -16.08,
+      "sample_peak_db": -3.85,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY026A-01",
+      "role": "GPT",
+      "record": 5717,
+      "active_rms_db": -25.3,
+      "sample_peak_db": -12.87,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY026A1-01",
+      "role": "千问",
+      "record": 5805,
+      "active_rms_db": -16.83,
+      "sample_peak_db": -6.11,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY026B-01",
+      "role": "GPT",
+      "record": 5844,
+      "active_rms_db": -27.71,
+      "sample_peak_db": -14.74,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY026B-02",
+      "role": "Gemini",
+      "record": 5875,
+      "active_rms_db": -22.73,
+      "sample_peak_db": -8.56,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY026C-01",
+      "role": "GPT",
+      "record": 5928,
+      "active_rms_db": -28.04,
+      "sample_peak_db": -16.0,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY026C-02",
+      "role": "Grok",
+      "record": 5961,
+      "active_rms_db": -15.64,
+      "sample_peak_db": -4.44,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY026D1-01",
+      "role": "GPT",
+      "record": 6024,
+      "active_rms_db": -19.97,
+      "sample_peak_db": -6.14,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY026D-01",
+      "role": "GPT",
+      "record": 6088,
+      "active_rms_db": -19.42,
+      "sample_peak_db": -6.04,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY026D-02",
+      "role": "Kimi",
+      "record": 6267,
+      "active_rms_db": -22.81,
+      "sample_peak_db": -6.11,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY026E-01",
+      "role": "GPT",
+      "record": 6303,
+      "active_rms_db": -25.0,
+      "sample_peak_db": -11.72,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY024A0-01",
+      "role": "千问",
+      "record": 6401,
+      "active_rms_db": -24.81,
+      "sample_peak_db": -6.12,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY024A-01",
+      "role": "GPT",
+      "record": 6567,
+      "active_rms_db": -36.67,
+      "sample_peak_db": -22.13,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY024A9-01",
+      "role": "GPT",
+      "record": 6656,
+      "active_rms_db": -20.86,
+      "sample_peak_db": -6.72,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY024A2-01",
+      "role": "GPT",
+      "record": 6819,
+      "active_rms_db": -21.23,
+      "sample_peak_db": -5.5,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY024A3-01",
+      "role": "GPT",
+      "record": 7010,
+      "active_rms_db": -29.62,
+      "sample_peak_db": -12.24,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY024A6-01",
+      "role": "GPT",
+      "record": 7167,
+      "active_rms_db": -34.84,
+      "sample_peak_db": -22.24,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY024A6-02",
+      "role": "GPT",
+      "record": 7268,
+      "active_rms_db": -18.34,
+      "sample_peak_db": -6.09,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY024A7-01",
+      "role": "GPT",
+      "record": 7407,
+      "active_rms_db": -21.94,
+      "sample_peak_db": -7.4,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY024A4-01",
+      "role": "GPT",
+      "record": 7577,
+      "active_rms_db": -22.7,
+      "sample_peak_db": -8.05,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY024A8-01",
+      "role": "GPT",
+      "record": 7709,
+      "active_rms_db": -22.11,
+      "sample_peak_db": -6.54,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY024A5-01",
+      "role": "GPT",
+      "record": 7834,
+      "active_rms_db": -18.92,
+      "sample_peak_db": -6.11,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY024A5-02",
+      "role": "GPT",
+      "record": 8017,
+      "active_rms_db": -17.82,
+      "sample_peak_db": -6.13,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY027A-01",
+      "role": "教主／Claude的父亲",
+      "record": 8532,
+      "active_rms_db": -21.19,
+      "sample_peak_db": -8.35,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY027B-01",
+      "role": "GPT",
+      "record": 8665,
+      "active_rms_db": -26.7,
+      "sample_peak_db": -15.04,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY028A-01",
+      "role": "GPT",
+      "record": 9634,
+      "active_rms_db": -44.06,
+      "sample_peak_db": -29.52,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY028A-02",
+      "role": "Claude",
+      "record": 9699,
+      "active_rms_db": -41.79,
+      "sample_peak_db": -27.43,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY028A2-01",
+      "role": "GPT",
+      "record": 9781,
+      "active_rms_db": -24.06,
+      "sample_peak_db": -9.24,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY028B-01",
+      "role": "Claude",
+      "record": 9881,
+      "active_rms_db": -43.62,
+      "sample_peak_db": -27.02,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY028C-01",
+      "role": "Claude",
+      "record": 9937,
+      "active_rms_db": -46.59,
+      "sample_peak_db": -29.13,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY029-01",
+      "role": "教主／Claude的父亲",
+      "record": 9986,
+      "active_rms_db": -24.51,
+      "sample_peak_db": -8.73,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY029E1-01",
+      "role": "Claude",
+      "record": 10090,
+      "active_rms_db": -13.7,
+      "sample_peak_db": -3.54,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY029E2-01",
+      "role": "Claude",
+      "record": 10155,
+      "active_rms_db": -13.22,
+      "sample_peak_db": -3.75,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY029E3-01",
+      "role": "Claude",
+      "record": 10221,
+      "active_rms_db": -17.53,
+      "sample_peak_db": -5.41,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY029E4-01",
+      "role": "Claude",
+      "record": 10293,
+      "active_rms_db": -13.66,
+      "sample_peak_db": -3.41,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY029B1-01",
+      "role": "Claude",
+      "record": 10368,
+      "active_rms_db": -17.17,
+      "sample_peak_db": -4.22,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY028-01",
+      "role": "GPT",
+      "record": 10708,
+      "active_rms_db": -26.62,
+      "sample_peak_db": -14.43,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY031A-01",
+      "role": "小鱼",
+      "record": 11049,
+      "active_rms_db": -32.29,
+      "sample_peak_db": -17.24,
+      "unchanged": true
+    },
+    {
+      "id": "VO-CY031A-02",
+      "role": "Claude",
+      "record": 11099,
+      "active_rms_db": -34.8,
+      "sample_peak_db": -27.11,
+      "unchanged": true
+    }
+  ],
+  "voices_changed": false,
+  "timbre_changed": false
+}

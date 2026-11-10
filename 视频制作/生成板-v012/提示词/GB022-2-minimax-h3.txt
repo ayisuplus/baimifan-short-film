@@ -1,0 +1,21 @@
+subject_definitions:
+<Picture 1>: [Shot 1] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. Continue the actions below in their listed order, without restarting ongoing motion or speech.
+
+retention_analysis:
+<Picture 1>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Match the upper-left to lower-right attack; impact sounds only on shield contact. The dissolving head passes its momentum into the lower steps. Use <Picture 1> for composition. The leader braces in the right foreground, knees bent and arms raised beneath his newly formed dark-gold shield. The dragon drives from upper left onto the shield's upper-left curve; its muzzle becomes heavy surf only at contact while brow, eye and trailing neck remain readable. The shield compresses locally, robe and body recoil without falling. Following water rushes down the side steps, dispersing cultists and extinguishing remaining fire. GPT and the highest altar stay offscreen and unharmed; the head dissolves fully and supply stops, leaving retreating water without new structural damage. Hold a 24mm knee-high view behind the leader's side, recoil briefly at contact, then stabilize while foreground water passes and the contact point remains readable. One low contact impact and brief shield resonance, followed by heavy water on stone, snapping fabric and distant wordless cries. No thunder or allied-shield impact.
+From 5 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 0s: Cut to the low-angle shield collision shot.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

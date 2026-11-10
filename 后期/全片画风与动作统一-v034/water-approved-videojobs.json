@@ -1,0 +1,38 @@
+[
+  {
+    "name": "073-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\073-key-r2_00001_.png",
+    "key_review": "pass",
+    "prompt": "Animate this exact hand-drawn Japanese gothic 2D anime image. Keep strong ink outlines, hard-edged two-tone cel shadows, matte skin, broad connected hair locks and painted backgrounds in every frame. No photorealistic fluid, PBR, plastic skin, 3D animation, random cuts, camera orbit, changing identities, extra people or extra limbs. Kimi puts a steady supporting arm behind Claude upper back. Claude leans a little into the support while both chained wrists remain fixed to the cross. Kimi glances toward the outside threat; Claude breathes unevenly but does not stand free or recover. Fixed medium shot, subtle weight transfer only, retain restraints, costume damage and high platform floor. Preserve the exact starting spatial layout and architecture. No newly lit candles, no extra roof destruction.  Keep Claude restrained to the wooden cross throughout, ankles on the footrest, both wrist cuffs remain attached. Her LEFT orange flower and black ribbon stay on the same side. Kimi has no visible drawn blades; the dark-indigo curved dome fills the entire background, no windows or stars.",
+    "frames": 60,
+    "seed": 202610303440
+  },
+  {
+    "name": "078-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\078-key-r2_00001_.png",
+    "key_review": "pass",
+    "prompt": "Animate this exact hand-drawn Japanese gothic 2D anime image. Keep strong ink outlines, hard-edged two-tone cel shadows, matte skin, broad connected hair locks and painted backgrounds in every frame. No photorealistic fluid, PBR, plastic skin, 3D animation, random cuts, camera orbit, changing identities, extra people or extra limbs. The existing blue water dragon continues downward from the single opening at upper left. Its head and neck sweep into the central nave, a few loose stones fall behind. Camera tilts down slightly following its head. The repaired upper right ceiling remains solid and intact; no new impact or opening, no entire cathedral collapse. Preserve the exact starting spatial layout and architecture. No newly lit candles, no extra roof destruction.  The head leads the heavy neck down with a crisp short downward acceleration; maintain ONE jagged opening at upper left, solid vaulted ceiling at upper right, and intact side windows. Debris falls only from that existing left opening. Small transient impact shake only; no sustained oscillation.",
+    "frames": 48,
+    "seed": 202610303441
+  },
+  {
+    "name": "082-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\082-key-r2_00001_.png",
+    "key_review": "pass",
+    "prompt": "Animate this exact hand-drawn Japanese gothic 2D anime image. Keep strong ink outlines, hard-edged two-tone cel shadows, matte skin, broad connected hair locks and painted backgrounds in every frame. No photorealistic fluid, PBR, plastic skin, 3D animation, random cuts, camera orbit, changing identities, extra people or extra limbs. The acolyte clings to the step with both hands as one pulse of water pulls his robe downstream. His elbows bend to resist and his knees scrape the next step. The pulse subsides and water drains down the stairs, leaving him still exhausted and gripping the edge. Fixed low camera, short action and settle, no repeated identical flood pulses and no floating body. Preserve the exact starting spatial layout and architecture. No newly lit candles, no extra roof destruction.  The black hooded figure remains a dark-haired male acolyte, not Claude. Hands remain planted on the same step edge, fingers curl around the stone under strain. The blue opaque dome remains high in the distant background. All lamps stay extinguished.",
+    "frames": 84,
+    "seed": 202610303442
+  },
+  {
+    "name": "083-video-r1",
+    "type": "video",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\083-key-r2_00001_.png",
+    "key_review": "pass",
+    "prompt": "Animate this exact hand-drawn Japanese gothic 2D anime image. Keep strong ink outlines, hard-edged two-tone cel shadows, matte skin, broad connected hair locks and painted backgrounds in every frame. No photorealistic fluid, PBR, plastic skin, 3D animation, random cuts, camera orbit, changing identities, extra people or extra limbs. Shallow water outside the indigo dome flows off the high platform and down the stairs. The dome remains firmly anchored, with faint smooth protective lines moving once across its surface. The camera slowly pulls back just enough to show the high platform, stair edge and lower flooded nave in one readable hierarchy. No moving cross, no new opening, no fire reigniting and no transparent dome exposing dry characters to rain. Preserve the exact starting spatial layout and architecture. No newly lit candles, no extra roof destruction.  The dome remains completely opaque and its base does not drift or float. Water runs from the high platform down over the front step; it cannot climb upward. Preserve the vertical separation of highest altar and lower nave. This is late night, no daylight and no flames.",
+    "frames": 60,
+    "seed": 202610303443
+  }
+]

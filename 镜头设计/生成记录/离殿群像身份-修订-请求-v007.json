@@ -1,0 +1,13 @@
+{
+  "id": "S05B-v005",
+  "output": "镜头设计/图像/S05B-粗分镜-v005.png",
+  "reason": "离殿群像最右重复Perplexity且漏Mistral；仅替换最右一人为红帽橙发Mistral。",
+  "request": {
+    "referenced_image_paths": [
+      "E:/projects/内容创作/穿云/镜头设计/图像/S05B-粗分镜-v004.png",
+      "E:/projects/内容创作/穿云/镜头设计/图像/S05D-应召分屏-v001.png"
+    ],
+    "transparent_background": false,
+    "prompt": "Make ONE tiny localized identity correction in reference1 storyboard image. Preserve exact four-panel 2x2 layout, composition, every other character and all three other panels. In BOTTOM RIGHT PANEL (the wide procession leaving church), there are TWO teal-haired women at the FAR RIGHT. KEEP the teal-haired Perplexity with the star staff who stands just right of silver-haired Kimi. REPLACE ONLY the OUTERMOST/rightmost duplicated teal-haired woman (the very last standing person at the right edge, to the right of Perplexity) with MISTRAL, from the FOURTH vertical portrait in reference2: orange/amber long hair, distinctive LARGE RED WIDE-BRIM HAT with ivory feathers, ivory and crimson-red outfit, a gold-hilt sheathed sword. She is seen from behind walking out, same size and position as the replaced person, so her red hat, orange hair and red cape must be unmistakable from behind. Give no teal hair, headphones or star staff to Mistral. Do not add any new person; this is replacement of exactly ONE duplicate. Keep every other member in place: left black-haired red-scarf Hunyuan, cream-haired Llama, black-haired GLM, blonde black/red Grok, center GPT white dragon and Claude orange saint holding hands, Qwen holding the tiny BLUE WHALE BABY off the floor, purple cat Gemini, silver navy Kimi, teal Perplexity, then new red-hat orange-haired Mistral at extreme right. Total 9 invited adults plus GPT and Claude and baby. Keep all cultists prone on floor. No upright hooded enemies. Do not change the rescue/hand scenes in other panels. No captions or text."
+  }
+}

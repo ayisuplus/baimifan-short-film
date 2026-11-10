@@ -1,0 +1,90 @@
+[
+  {
+    "source": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+    "source_sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+    "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+    "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+    "sha1": "d9d76117c7724d34a366061d3bb38d3a2c70e2c6",
+    "file_size": 1868475,
+    "source_size": [
+      2169,
+      725
+    ],
+    "upload_size": [
+      2169,
+      868
+    ],
+    "offset": [
+      0,
+      71
+    ],
+    "source_pixels_preserved": true,
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-pad-6f2666bafdb26102360d9f17",
+    "resourceId": "res_8fdbe650d19440128b892d8a9e4df750",
+    "nodeId": "i-JAT4Pva730",
+    "task_id": "cop_e2f8dd49054ed94dcf9b02b32f443620",
+    "resource": {
+      "resource_id": "res_8fdbe650d19440128b892d8a9e4df750",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-pad-6f2666bafdb26102360d9f17",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  },
+  {
+    "source": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+    "source_sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+    "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+    "sha256": "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a",
+    "sha1": "ecd80984142fead85bfab07ed28c0e7b9c8c05b2",
+    "file_size": 2016603,
+    "source_size": [
+      2200,
+      715
+    ],
+    "upload_size": [
+      2200,
+      880
+    ],
+    "offset": [
+      0,
+      82
+    ],
+    "source_pixels_preserved": true,
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "status": "completed",
+    "idempotencyKey": "bmf-h3-pad-81b841cea65e3ad3e7ed435e",
+    "resourceId": "res_60d384be28d640589d18839de08ad517",
+    "nodeId": "i-uKDIVWmghN",
+    "task_id": "cop_dc18d2683bf18f7a1ea2ee96ef5d3cf8",
+    "resource": {
+      "resource_id": "res_60d384be28d640589d18839de08ad517",
+      "remote_registered": true,
+      "review": {
+        "state": "passed"
+      }
+    },
+    "replayed": false,
+    "recovery": {
+      "action": "none",
+      "tool": "upload_media",
+      "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+      "idempotencyKey": "bmf-h3-pad-81b841cea65e3ad3e7ed435e",
+      "preserveOriginalArguments": true
+    },
+    "message": "Media was attached to the canvas; use nodeId and resourceId below. A replay returns the original attachment receipt, not proof of current playback or rendering.",
+    "errorCode": null
+  }
+]

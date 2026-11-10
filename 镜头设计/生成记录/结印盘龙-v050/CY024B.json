@@ -1,0 +1,32 @@
+{
+  "id": "CY024B",
+  "rev": 2,
+  "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-d3bf6e98-14e0-4357-874e-be6f29d56e9d.png",
+  "input": {
+    "transparent_background": false,
+    "referenced_image_paths": [
+      "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-17f5ccca-7f92-4482-99cb-d49f0600e484.png"
+    ],
+    "prompt": "ONE targeted contact correction of this exact 16:9 image. Preserve composition, airborne woman, anatomy, wings, cathedral, cultists, safe dry upper altar, friendly dark dome, water dragon neck and liquid design. Fix ONLY the enemy impact at LOWER CENTER. Currently the dragon's muzzle floats above the small GOLD shield with an air/spray gap and can read as a dragon spitting water. We need a HEAD-ON PHYSICAL WATER-MASS COLLISION: extend/bend the last segment of neck downward so the dragon's NOSE AND FOREMOST CLOSED MUZZLE directly PRESS INTO and OVERLAP the TOP SURFACE of the gold shield. The lower front tip of the dragon snout must be partially erased/disintegrating exactly where it touches gold, with gold shield arc visible through the translucent collapsing muzzle. Absolutely NO AIR GAP between nose and shield, NO thin water jet or stream from mouth, NO spitting, mouth nearly CLOSED. Keep dragon brow/eye, side of face, jaw behind contact and rear neck clearly readable above; only the foremost 15 percent of muzzle bursts into thick radial white splashes at contact. White water spray fans outward left and right FROM THE GOLD CONTACT POINT, not from a suspended mouth. Gold shield locally indents under the nose pressure but remains closed around enemy. Do not lower/move the enemy or platform, do not change any other figure or friendly dome. Show one unmistakable instant of a massive WATER DRAGON RAMMING the shield, not breathing an attack. Pure blue water, no electricity, fire, new dragons, text or borders."
+  },
+  "previous_candidate": {
+    "id": "CY024B",
+    "input": {
+      "transparent_background": false,
+      "referenced_image_paths": [
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/水龙召临-v001/impact-r1.png",
+        "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-a508fada-d8d5-47b4-b4cd-dce5622e2c3c.png"
+      ],
+      "prompt": "ONE 16:9 cinematic anime storyboard EDIT of reference1's impact wide composition, redesigned to match reference2's more vivid SCULPTURAL WATER DRAGON. Preserve exact airborne GPT at left foreground viewed from back, her white/silver gown, hair, pale membrane wings, central low landing with enemy dark-gold shield, black-gold cultists on side stairs, vast gothic nave and far upper-right DRY altar with opaque dark-indigo friendly dome. The heroine has just unlocked a two-hand seal and made ONE decisive anatomical RIGHT INDEX POINT forward/down at enemy leader; left hand rests near chest. No repeated target switching. Change dominant main water mass into one clearly readable dragon head + long neck with robust ROUND volume, brow ridge, long muzzle, separated lower jaw and backward flowing wave-horns matching ref2, shown THREE-QUARTER SIDE VIEW with visible forehead side plane, not just a thin tapered water spike viewed head-on. It arcs from above/behind caster through upper center to lower-center gold shield, one neck following an elegant thick S curve, varying thickness with perspective, no uniform cylindrical pipe. At this key instant its snout touches enemy GOLD shield and just the foremost tip erupts into heavy white spray; keep the full rest of dragon face and neck recognizable and solidly made of liquid. Mouth slightly open as liquid contour, never biting the person. Pure transparent deep cobalt water, broad continuous shadowed belly, silver reflections and foam only along mane/crest edges and real collision; no solid scales, ice, lightning, purple mane or hard white horns. The trailing body feeds ordinary runoff into the two low side aisles sweeping black-robed cultists and extinguishing fires; no second or third dragon, no extra aerial streams. Far friendly dark-indigo dome and upper central stairs stay visibly dry with large safe separation from all water; no water aimed at it. Side windows and rear apse remain intact; central rear window retains its prior broken opening. No burning candle points after this impact. Keep high-view composition, clear scale and precise anatomy; water is independent of caster, never from her fingers. No text, symbols, magic rings, borders, or panels."
+    },
+    "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-17f5ccca-7f92-4482-99cb-d49f0600e484.png"
+  },
+  "output": "镜头设计/图像/结印盘龙-v050/CY024B-v050-r2.png",
+  "sha256": "9800a16cc1edadbdd2a8629fe768fcf7df8f317b6acd21ba283bf3ba687cb612",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "engine": "built-in image_gen",
+  "status": "revised_storyboard_candidate_pending_author_visual_review"
+}

@@ -1,0 +1,28 @@
+{
+  "24": {
+    "class_type": "VoxCPM_TTS",
+    "inputs": {
+      "model_name": "VoxCPM2",
+      "lora_name": "None",
+      "text": "别碰她！",
+      "voice_design": "年轻女性的声音，细腻柔软，略微虚弱带气息。看到朋友被伤害，突然着急地出声阻止，短促有力，尾音力竭，普通话。",
+      "cfg": 2.0,
+      "steps": 10,
+      "normalize_text": false,
+      "seed": 20261021,
+      "force_offload": true,
+      "device": "cuda",
+      "dtype": "bf16"
+    }
+  },
+  "1": {
+    "class_type": "SaveAudio",
+    "inputs": {
+      "audio": [
+        "24",
+        0
+      ],
+      "filename_prefix": "audio/chuanyun/VOICE-CLAUDE-v001"
+    }
+  }
+}

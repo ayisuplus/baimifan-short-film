@@ -1,0 +1,11 @@
+{
+  "state": "63_cues_aligned",
+  "original_choices_preserved": true,
+  "choices_sha256": "8313fd133ec38dba85a9b189c924f01cee4418b0e49b11a6a98856ce17b59e2e",
+  "alignment_only": [
+    "VO-CY026D-02",
+    "VO-CY024A5-01"
+  ],
+  "timing_source": "镜头设计/shot-plan-v0.65.json",
+  "video_generated": false
+}

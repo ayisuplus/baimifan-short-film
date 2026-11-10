@@ -1,0 +1,13 @@
+{
+  "task": "20261028002003358429236",
+  "node": "v-r3gqLtruuN",
+  "intended_batch": "GB004M",
+  "actual_batch": "GB003",
+  "quoted_credits": 154,
+  "status": "cancelled_in_web_original_success_restored",
+  "refund": "Cancellation dialog warned no refund; later observed balance recovered to2769. Final charge/refund not verified against transaction ledger. Do not claim154 confirmed net loss.",
+  "reason": "Canvas node changed during globally located submit click",
+  "mitigation": "future submit scoped to data-nodeid, verify screenshot and node task identity",
+  "final_node_task": "20261028001103732479236",
+  "observed_balance_after_cancel": 2769
+}

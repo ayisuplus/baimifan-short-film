@@ -1,0 +1,11 @@
+{
+  "shot_id": "CY012",
+  "tool": "image_gen__imagegen",
+  "input": {
+    "prompt": "仅给远处十字架上的橙发Claude明确补上浅象牙色透明蕾丝头纱：头顶后部有浅色蕾丝边，纱从脑后沿两肩外侧垂到腰背，轮廓清楚，透见橙发。她左鬓（画面右）有大橙花与黑缎带。保持她在远处的大小与位置，脸露出，其他人物、动作、服装、火盆、三级台阶、蜡烛和完整构图不变。不要放大人物。无字。",
+    "referenced_image_paths": [
+      "E:/projects/内容创作/穿云/镜头设计/图像/头纱连续-v013/CY012-v013.png"
+    ],
+    "transparent_background": false
+  }
+}

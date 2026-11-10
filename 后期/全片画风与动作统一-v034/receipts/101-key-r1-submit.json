@@ -1,0 +1,21 @@
+{
+  "schema": "envelope/1",
+  "type": "envelope",
+  "ok": true,
+  "command": "run",
+  "version": "1.22.0",
+  "where": "local",
+  "data": {
+    "workflow": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\workflows\\101-key-r1.api.json",
+    "status": "queued",
+    "prompt_id": "a30d512a-429e-4368-ab44-6b02de020170",
+    "client_id": "8bedf9db-69df-4c37-8035-2204abbdaf82",
+    "outputs": [],
+    "elapsed_seconds": null,
+    "host": "127.0.0.1",
+    "port": 8188,
+    "state_file": "C:\\Users\\36322\\.codex\\runtimes\\comfy-mcp\\local-state\\jobs\\a30d512a-429e-4368-ab44-6b02de020170.json",
+    "watcher_spawned": false
+  },
+  "error": null
+}

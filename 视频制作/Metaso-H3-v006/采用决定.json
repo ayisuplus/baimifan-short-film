@@ -1,0 +1,59 @@
+{
+  "timeline": "v003_Dramatic_Reconstruction",
+  "items": [
+    {
+      "attempt_id": "GB011-2-v006-CY021-audio-r1",
+      "task_id": "2115320487297617920",
+      "status": "adopted_edit_candidate_not_author_final",
+      "reason": "采用窗口与裁切见后期/导演重构-v003/后期执行计划.json"
+    },
+    {
+      "attempt_id": "GB015-2-v006-CY024K3-defense-r1",
+      "task_id": "2115323065994125312",
+      "status": "adopted_edit_candidate_not_author_final",
+      "reason": "采用窗口与裁切见后期/导演重构-v003/后期执行计划.json"
+    },
+    {
+      "attempt_id": "GB019-v006-CY024A9-caster-r1",
+      "task_id": "2115323086299668480",
+      "status": "adopted_edit_candidate_not_author_final",
+      "reason": "采用窗口与裁切见后期/导演重构-v003/后期执行计划.json"
+    },
+    {
+      "attempt_id": "GB009-v006-CY016D-force-r1",
+      "task_id": "2115326630083633152",
+      "status": "adopted_edit_candidate_not_author_final",
+      "reason": "采用窗口与裁切见后期/导演重构-v003/后期执行计划.json"
+    },
+    {
+      "attempt_id": "GB011-1-v006-CY020A-force-r1",
+      "task_id": "2115326650664427520",
+      "status": "rejected_preserved",
+      "reason": "悬浮轻放，二轮替换"
+    },
+    {
+      "attempt_id": "GB008R2-v006-CY016C-decision-r1",
+      "task_id": "2115326669624909824",
+      "status": "adopted_edit_candidate_not_author_final",
+      "reason": "采用窗口与裁切见后期/导演重构-v003/后期执行计划.json"
+    },
+    {
+      "attempt_id": "GB011-2-v006-CY021-father-r1",
+      "task_id": "2115326691772272640",
+      "status": "adopted_edit_candidate_not_author_final",
+      "reason": "采用窗口与裁切见后期/导演重构-v003/后期执行计划.json"
+    },
+    {
+      "attempt_id": "GB010-v006-CY021A-audio-r1",
+      "task_id": "2115330314184105984",
+      "status": "adopted_edit_candidate_not_author_final",
+      "reason": "采用窗口与裁切见后期/导演重构-v003/后期执行计划.json"
+    },
+    {
+      "attempt_id": "GB011-1-v006-CY020A-force-r2",
+      "task_id": "2115331078556815360",
+      "status": "adopted_edit_candidate_not_author_final",
+      "reason": "采用窗口与裁切见后期/导演重构-v003/后期执行计划.json"
+    }
+  ]
+}

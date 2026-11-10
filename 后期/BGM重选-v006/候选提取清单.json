@@ -1,0 +1,71 @@
+{
+  "version": "v006",
+  "music": [
+    {
+      "id": "BGM-CY-HP7-01",
+      "bvid": "BV1Y6UtYFEyG",
+      "part": 1,
+      "title": "Obliviate",
+      "display_title": "一忘皆空",
+      "work": "哈利·波特与死亡圣器（上）",
+      "composer": "Alexandre Desplat",
+      "source_page_title": "01. Obliviate - Alexandre Desplat",
+      "navigation_translation": "中文译名仅供本项目导航；保留原曲名与来源分P。"
+    },
+    {
+      "id": "BGM-CY-HP7-02",
+      "bvid": "BV1Y6UtYFEyG",
+      "part": 2,
+      "title": "Snape to Malfoy Manor",
+      "display_title": "斯内普前往马尔福庄园",
+      "work": "哈利·波特与死亡圣器（上）",
+      "composer": "Alexandre Desplat",
+      "source_page_title": "02. Snape to Malfoy Manor - Alexandre Desplat",
+      "navigation_translation": "中文译名仅供本项目导航；保留原曲名与来源分P。"
+    },
+    {
+      "id": "BGM-CY-FZ-01",
+      "bvid": "BV1Vx411G7kG",
+      "part": 1,
+      "title": "Point Zero",
+      "display_title": "原点",
+      "work": "Fate/Zero",
+      "composer": "梶浦由記",
+      "source_page_title": "Point Zero",
+      "navigation_translation": "中文译名仅供本项目导航；保留原曲名与来源分P。"
+    },
+    {
+      "id": "BGM-CY-FZ-02",
+      "bvid": "BV1Vx411G7kG",
+      "part": 2,
+      "title": "let the stars fall down",
+      "display_title": "让群星陨落",
+      "work": "Fate/Zero",
+      "composer": "梶浦由記",
+      "source_page_title": "let the stars fall down",
+      "navigation_translation": "中文译名仅供本项目导航；保留原曲名与来源分P。"
+    },
+    {
+      "id": "BGM-CY-FZ-16",
+      "bvid": "BV1Vx411G7kG",
+      "part": 16,
+      "title": "secret maneuvers",
+      "display_title": "秘密行动",
+      "work": "Fate/Zero",
+      "composer": "梶浦由記",
+      "source_page_title": "secret maneuvers",
+      "navigation_translation": "中文译名仅供本项目导航；保留原曲名与来源分P。"
+    },
+    {
+      "id": "BGM-CY-FZ-18",
+      "bvid": "BV1Vx411G7kG",
+      "part": 18,
+      "title": "assassin",
+      "display_title": "暗杀者",
+      "work": "Fate/Zero",
+      "composer": "梶浦由記",
+      "source_page_title": "assassin",
+      "navigation_translation": "中文译名仅供本项目导航；保留原曲名与来源分P。"
+    }
+  ]
+}

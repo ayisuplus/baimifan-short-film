@@ -1,0 +1,18 @@
+{
+  "version": "v011",
+  "shot_cards": 89,
+  "seconds": 286,
+  "scenes": 6,
+  "checked_html_links": 575,
+  "missing_links": [],
+  "unique_ids": true,
+  "all_images_full_frame": true,
+  "source_quotes": 89,
+  "new_image_candidates": 16,
+  "generated_outputs_including_revisions": 24,
+  "asset_references_resolve": true,
+  "active_water_basin_text_removed": true,
+  "browser_playback": "not_run",
+  "audio_listening": "not_run",
+  "old_roughcut_unchanged": true
+}

@@ -1,0 +1,40 @@
+{
+  "id": "BGM-CY-PN-01",
+  "bvid": "BV1wt411y7VQ",
+  "part": 1,
+  "title": "Long, Long Time Ago",
+  "display_title": "很久很久以前",
+  "work": "潘神的迷宫",
+  "composer": "Javier Navarrete",
+  "source_page_title": "《Long, Long Time Ago》优美的女生吟唱——2006潘神的迷宫-西班牙",
+  "navigation_translation": "中文曲名为导航释义；原名保留。",
+  "cid": 64124046,
+  "source": "https://www.bilibili.com/video/BV1wt411y7VQ/?p=1",
+  "uploader": "法尔梅大兄弟",
+  "video_title": "《Long, Long Time Ago》优美的女生吟唱——2006潘神的迷宫-西班牙",
+  "path": "资产/声音/BGM/重选-v003/BGM-CY-PN-01.m4a",
+  "bytes": 3077245,
+  "sha256": "1eec84fba62c85c869a158a73a96e071a1253f25bf5debcfe50c1cd61c286b87",
+  "duration": 189.631833,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "bit_rate": "128638"
+      }
+    ],
+    "format": {
+      "duration": "189.631833"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

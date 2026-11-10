@@ -1,0 +1,114 @@
+{
+  "1": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "Baimifan_v034_108-key-r2.png"
+    }
+  },
+  "5": {
+    "class_type": "UNETLoader",
+    "inputs": {
+      "unet_name": "qwen_image_2.1_bf16.safetensors",
+      "weight_dtype": "fp8_e4m3fn"
+    }
+  },
+  "6": {
+    "class_type": "CLIPLoader",
+    "inputs": {
+      "clip_name": "qwen3vl_8b_fp8_scaled.safetensors",
+      "type": "qwen_image",
+      "device": "cpu"
+    }
+  },
+  "7": {
+    "class_type": "VAELoader",
+    "inputs": {
+      "vae_name": "qwen_image_2.1_vae_bf16.safetensors"
+    }
+  },
+  "8": {
+    "class_type": "QwenImage21Cache",
+    "inputs": {
+      "model": [
+        "5",
+        0
+      ],
+      "device": "cpu",
+      "dtype": "default"
+    }
+  },
+  "9": {
+    "class_type": "TextEncodeQwenImage21",
+    "inputs": {
+      "clip": [
+        "6",
+        0
+      ],
+      "vae": [
+        "7",
+        0
+      ],
+      "images.image_1": [
+        "1",
+        0
+      ],
+      "prompt": "Traditional hand-drawn 2D Japanese gothic anime matching the established Claude struggle shot: confident dark ink contours, clearly grouped orange or white-lilac hair locks, matte flat skin, hard-edged two-tone cel shadows, hand-painted dark backgrounds. Retain drawn lace and charred fabric texture; do not erase lace or replace costumes with generic plain dresses. No CGI, plastic skin, volumetric beauty rendering, shiny doll faces or photographic hair. Correct the beginning of a SINGLE bridal lift, without putting Claude in the carried pose yet. Both women stand on the SAME highest flat altar platform. Move the foreground pair UP onto the top level together with the EMPTY cross; all descending stairs lie in the LOWER FOREGROUND toward camera, never rising behind their feet. Claude on LEFT stands on BOTH bare feet, knees just beginning to soften, torso leaning toward GPT on RIGHT, both arms lowered weakly rather than pointing at the cross. GPT bends both knees slightly, one hand already contacting Claude's upper back and the other arm free near Claude's knees, ready to slide underneath both knees. Feet and both heads fully visible with headroom. Keep her TWO lavender dragon MEMBRANE wings folded compactly, thin finger ribs and smooth webbing, NEVER feathers; one tail lies clear of both sets of feet. The SAME EMPTY cross behind LEFT is BURNING now, with localized orange fire wrapping only its wooden upright and crossbar. No person on the cross. All candles and braziers completely extinguished with dark wicks. Wet floor and fallen logs do not burn. Central rear window has ONE existing broken opening, side windows and vault intact, blue moonlit night. Preserve Claude's torn scorched lace and veil, no magical healing. GPT receives weight from the side; no seated start, no kneeling Claude, no early floating feet.",
+      "negative_prompt": "3d, cgi, photorealism, glossy plastic skin, realistic hair strands, volumetric rendering, text, watermark",
+      "resolution": 992
+    }
+  },
+  "10": {
+    "class_type": "KSampler",
+    "inputs": {
+      "model": [
+        "8",
+        0
+      ],
+      "positive": [
+        "9",
+        0
+      ],
+      "negative": [
+        "9",
+        1
+      ],
+      "latent_image": [
+        "9",
+        2
+      ],
+      "seed": 202610303711,
+      "steps": 40,
+      "cfg": 1.0,
+      "sampler_name": "euler",
+      "scheduler": "simple",
+      "denoise": 1.0
+    }
+  },
+  "11": {
+    "class_type": "VAEDecodeTiled",
+    "inputs": {
+      "samples": [
+        "10",
+        0
+      ],
+      "vae": [
+        "7",
+        0
+      ],
+      "tile_size": 512,
+      "overlap": 64,
+      "temporal_size": 64,
+      "temporal_overlap": 8
+    }
+  },
+  "18": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "11",
+        0
+      ],
+      "filename_prefix": "Baimifan/v034/108-key-r2"
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "prompt": [
+    5,
+    "b1d7f87b-3d5c-454d-84c6-b73d321a6d7f",
+    {
+      "1": {
+        "class_type": "BreezeTTS2LoadModel",
+        "inputs": {
+          "model": "bf16 (best quality)",
+          "dtype": "bf16",
+          "device": "cuda",
+          "attention": "sdpa",
+          "decode_mode": "eager",
+          "download_if_missing": false
+        }
+      },
+      "2": {
+        "class_type": "BreezeTTS2VoiceDesign",
+        "inputs": {
+          "breeze_model": [
+            "1",
+            0
+          ],
+          "text": "Would you like some? One more try. I'll get you out of here.",
+          "instruction": "A little girl with a soft, rounded, youthful voice and natural English pronunciation. She sounds sincere, friendly and quietly determined. Speak naturally, with a brief pause between sentences.",
+          "cfg_scale": 4.0,
+          "max_new_tokens": 256,
+          "temperature": 0.9,
+          "top_k": 50,
+          "top_p": 1.0,
+          "repetition_penalty": 1.1,
+          "depth_temperature": 0.9,
+          "depth_top_k": 50,
+          "depth_top_p": 1.0,
+          "seed": 20261026
+        }
+      },
+      "3": {
+        "class_type": "SaveAudio",
+        "inputs": {
+          "audio": [
+            "2",
+            0
+          ],
+          "filename_prefix": "audio/BreezeTTS2/WhiteRice-English-v001/xiaoyu-B"
+        }
+      }
+    },
+    {
+      "client_id": "white-rice-english-voice-auditions-v001",
+      "create_time": 1792990659842
+    },
+    [
+      "3"
+    ]
+  ],
+  "outputs": {
+    "3": {
+      "audio": [
+        {
+          "filename": "xiaoyu-B_00001.flac",
+          "subfolder": "audio\\BreezeTTS2\\WhiteRice-English-v001",
+          "type": "output"
+        }
+      ]
+    }
+  },
+  "status": {
+    "status_str": "success",
+    "completed": true,
+    "messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "b1d7f87b-3d5c-454d-84c6-b73d321a6d7f",
+          "timestamp": 1792990659843
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [
+            "1"
+          ],
+          "prompt_id": "b1d7f87b-3d5c-454d-84c6-b73d321a6d7f",
+          "timestamp": 1792990659844
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "b1d7f87b-3d5c-454d-84c6-b73d321a6d7f",
+          "timestamp": 1792990671786
+        }
+      ]
+    ]
+  },
+  "meta": {
+    "3": {
+      "node_id": "3",
+      "display_node": "3",
+      "parent_node": null,
+      "real_node_id": "3"
+    }
+  }
+}

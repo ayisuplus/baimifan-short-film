@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-31",
+  "shots": 3,
+  "frames": 336,
+  "media_sha256_verified": 11,
+  "source_files_unchanged": 7,
+  "prompt_matches_actual_request": true,
+  "story_cue_boundaries_verified": true,
+  "http_range_and_wrong_package_and_cross_origin": "passed",
+  "browser_verified": [
+    "三镜选择与资料联动",
+    "资产图片完整解码",
+    "GPT配音readyState4并播放",
+    "切镜停止试听",
+    "拆分左右段保留绑定",
+    "拆分后重新加载保留绑定",
+    "复制片段保留绑定",
+    "实际提交prompt原文显示",
+    "原生片段属性可切换",
+    "最终三镜工程重新打开"
+  ],
+  "full_repo_typecheck": "41条其他模块/依赖错误；本轮新增目录及修改文件无类型错误",
+  "prototype_url": "http://127.0.0.1:8978/editor/79d4ad8a-fc76-49dc-9797-913ded176ff2",
+  "verification_project_url": "http://127.0.0.1:8978/editor/0628e1c1-57e3-461a-a347-c59552474293"
+}

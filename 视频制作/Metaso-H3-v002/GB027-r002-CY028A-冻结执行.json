@@ -1,0 +1,99 @@
+{
+  "batch": {
+    "batch_number": 37,
+    "batch_id": "GB027",
+    "attempt_id": "GB027-r002-CY028A",
+    "title": "撤罩、解锁与落脚",
+    "shot_ids": [
+      "CY028A"
+    ],
+    "film_start": 406.842729,
+    "part_offset": 8,
+    "used_seconds": 6.2,
+    "duration": 7,
+    "prompt": "哥特异世界动画，16:9，保持既有素材的精细二次元风格、服装本色和人物脸。单一连续镜头，不插入其他镜头，不重演前后剧情。无字幕、水印、BGM。7秒。Image 1只定义GPT白银服装、银玫瑰和龙角翼尾，Image 2定义Claude橙发、自己左鬓花饰、白金衣焦黑边缘和赤足。Image 3只用于起段三人空间与脚托位置，Image 4用于站稳后的胸上双人近景；Image 3、4里左侧黑紫服Kimi只是同一背景人物，不将她的星月服/K徽章复制给GPT。GPT一直白银服，Claude一直焦损白金服，二人手腕没有黑扣或链。\n全程一个连续镜头，无跳切。所有烛台与散柴都熄灭，衣缘无火星、无橙红余烬；湿石只有冷月反射。开始双踝、腰和双腕五处束缚均已完全解除，刑架留在后方。画面右侧GPT先支撑Claude上臂与背，开头较宽，让Claude赤足及固定脚托同时入画。\n0–2.2秒GPT折拢翅膀，扶Claude从固定脚托缓慢迈到地面；镜头清楚看到赤足落地与承重，GPT一直支撑，不悬空瞬移，不直接公主抱。Kimi收好张开的束具，退向左侧后方。2.2–2.7秒确认Claude站稳后，摄影机沿同侧连续靠近至Image 4胸上近景；Kimi只留左缘虚焦衣肩，不占主要面部。2.7–6.2秒Claude疲惫地朝阶下画外寻找小鱼，GPT手始终扶其上臂与背。6.2–7秒保持末态供裁切。\nGPT在0.1–1.68秒自然说一次日语「ゆっくりでいい。」；Claude在2.8–4.31秒自然说一次「あの子は……」。完整原文、说话角色、时间窗不变，其余闭口表演。只这两句，不能让Kimi代说。声场为轻步、衣料和余水滴落，无音乐。",
+    "references": [
+      {
+        "slot": 1,
+        "original_batch_slot": 1,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9"
+      },
+      {
+        "slot": 2,
+        "original_batch_slot": 3,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "sha256": "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a"
+      },
+      {
+        "slot": 3,
+        "original_batch_slot": 8,
+        "path": "镜头设计/图像/目光与入场-v048/CY028A-v048-r1.png",
+        "kind": "state",
+        "sha256": "02236be584cb2307c450932230f9ae951ab0f052342f0048c5b907e2ba47cc76"
+      },
+      {
+        "slot": 4,
+        "original_batch_slot": 7,
+        "path": "镜头设计/图像/关键动作-v062/CY028A-v062-r1.png",
+        "kind": "composition",
+        "sha256": "66c1e6a1e927241ff33e2e5b8ba3290917711e12b62b95cc8c0803c6549f9497"
+      }
+    ],
+    "change_reason": "独立回片复核明确缺陷：GB027-CY028A-局部准备",
+    "repair_of": {
+      "attempt_id": "GB027-r001",
+      "task_id": "2115144502695096320",
+      "local_path": "视频制作/Metaso-H3-v002/产物/GB027-r001.mp4"
+    },
+    "source": "新增问题返修-准备.json",
+    "status": "prepared",
+    "accepted": false,
+    "estimated_credits": 71.4
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "哥特异世界动画，16:9，保持既有素材的精细二次元风格、服装本色和人物脸。单一连续镜头，不插入其他镜头，不重演前后剧情。无字幕、水印、BGM。7秒。Image 1只定义GPT白银服装、银玫瑰和龙角翼尾，Image 2定义Claude橙发、自己左鬓花饰、白金衣焦黑边缘和赤足。Image 3只用于起段三人空间与脚托位置，Image 4用于站稳后的胸上双人近景；Image 3、4里左侧黑紫服Kimi只是同一背景人物，不将她的星月服/K徽章复制给GPT。GPT一直白银服，Claude一直焦损白金服，二人手腕没有黑扣或链。\n全程一个连续镜头，无跳切。所有烛台与散柴都熄灭，衣缘无火星、无橙红余烬；湿石只有冷月反射。开始双踝、腰和双腕五处束缚均已完全解除，刑架留在后方。画面右侧GPT先支撑Claude上臂与背，开头较宽，让Claude赤足及固定脚托同时入画。\n0–2.2秒GPT折拢翅膀，扶Claude从固定脚托缓慢迈到地面；镜头清楚看到赤足落地与承重，GPT一直支撑，不悬空瞬移，不直接公主抱。Kimi收好张开的束具，退向左侧后方。2.2–2.7秒确认Claude站稳后，摄影机沿同侧连续靠近至Image 4胸上近景；Kimi只留左缘虚焦衣肩，不占主要面部。2.7–6.2秒Claude疲惫地朝阶下画外寻找小鱼，GPT手始终扶其上臂与背。6.2–7秒保持末态供裁切。\nGPT在0.1–1.68秒自然说一次日语「ゆっくりでいい。」；Claude在2.8–4.31秒自然说一次「あの子は……」。完整原文、说话角色、时间窗不变，其余闭口表演。只这两句，不能让Kimi代说。声场为轻步、衣料和余水滴落，无音乐。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141276083478528"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141454194728960"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115144488065363968"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115144476516343808"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 7,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "2026-10-28作者授权：参考图超限想办法砍不重要参考，该返修的都返修；沿用Metaso H3"
+}

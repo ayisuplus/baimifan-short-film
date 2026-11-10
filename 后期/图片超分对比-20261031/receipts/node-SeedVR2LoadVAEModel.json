@@ -1,0 +1,213 @@
+{
+  "schema": "envelope/1",
+  "type": "envelope",
+  "ok": true,
+  "command": "nodes show",
+  "version": "1.22.0",
+  "where": "local",
+  "data": {
+    "id": "SeedVR2LoadVAEModel",
+    "name": "SeedVR2LoadVAEModel",
+    "display_name": "SeedVR2 (Down)Load VAE Model",
+    "description": "Load and configure SeedVR2 VAE (Variational Autoencoder) for encoding/decoding video frames to/from latent space. Supports tiled processing to handle high resolutions on limited VRAM, model caching, multi-GPU offloading, and torch.compile acceleration. \n\nConnect to Video Upscaler node.",
+    "category": "SEEDVR2",
+    "output_types": [
+      "SEEDVR2_VAE"
+    ],
+    "output_node": false,
+    "is_api_node": false,
+    "deprecated": false,
+    "pack": "seedvr2_videoupscaler",
+    "labels": [],
+    "cloud_disabled": false,
+    "inputs": [
+      {
+        "name": "model",
+        "type": "COMBO",
+        "required": true,
+        "is_link": false,
+        "section": "required",
+        "choices": [
+          "ema_vae_fp16.safetensors"
+        ],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": "ema_vae_fp16.safetensors"
+        }
+      },
+      {
+        "name": "device",
+        "type": "COMBO",
+        "required": true,
+        "is_link": false,
+        "section": "required",
+        "choices": [
+          "cuda:0"
+        ],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": "cuda:0"
+        }
+      },
+      {
+        "name": "encode_tiled",
+        "type": "BOOLEAN",
+        "required": false,
+        "is_link": false,
+        "section": "optional",
+        "choices": [],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": false
+        }
+      },
+      {
+        "name": "encode_tile_size",
+        "type": "INT",
+        "required": false,
+        "is_link": false,
+        "section": "optional",
+        "choices": [],
+        "options": {
+          "min": 64,
+          "max": null,
+          "step": 32,
+          "default": 1024
+        }
+      },
+      {
+        "name": "encode_tile_overlap",
+        "type": "INT",
+        "required": false,
+        "is_link": false,
+        "section": "optional",
+        "choices": [],
+        "options": {
+          "min": 0,
+          "max": null,
+          "step": 32,
+          "default": 128
+        }
+      },
+      {
+        "name": "decode_tiled",
+        "type": "BOOLEAN",
+        "required": false,
+        "is_link": false,
+        "section": "optional",
+        "choices": [],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": false
+        }
+      },
+      {
+        "name": "decode_tile_size",
+        "type": "INT",
+        "required": false,
+        "is_link": false,
+        "section": "optional",
+        "choices": [],
+        "options": {
+          "min": 64,
+          "max": null,
+          "step": 32,
+          "default": 1024
+        }
+      },
+      {
+        "name": "decode_tile_overlap",
+        "type": "INT",
+        "required": false,
+        "is_link": false,
+        "section": "optional",
+        "choices": [],
+        "options": {
+          "min": 0,
+          "max": null,
+          "step": 32,
+          "default": 128
+        }
+      },
+      {
+        "name": "tile_debug",
+        "type": "COMBO",
+        "required": false,
+        "is_link": false,
+        "section": "optional",
+        "choices": [
+          "false",
+          "encode",
+          "decode"
+        ],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": "false"
+        }
+      },
+      {
+        "name": "offload_device",
+        "type": "COMBO",
+        "required": false,
+        "is_link": false,
+        "section": "optional",
+        "choices": [
+          "none",
+          "cpu",
+          "cuda:0"
+        ],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": "none"
+        }
+      },
+      {
+        "name": "cache_model",
+        "type": "BOOLEAN",
+        "required": false,
+        "is_link": false,
+        "section": "optional",
+        "choices": [],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": false
+        }
+      },
+      {
+        "name": "torch_compile_args",
+        "type": "TORCH_COMPILE_ARGS",
+        "required": false,
+        "is_link": true,
+        "section": "optional",
+        "choices": [],
+        "options": {
+          "min": null,
+          "max": null,
+          "step": null,
+          "default": null
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "SEEDVR2_VAE",
+        "type": "SEEDVR2_VAE"
+      }
+    ]
+  },
+  "error": null
+}

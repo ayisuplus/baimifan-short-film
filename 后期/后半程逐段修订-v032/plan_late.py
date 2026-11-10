@@ -1,0 +1,53 @@
+import json
+from pathlib import Path
+P=Path(__file__).resolve().parent
+def s(id,source,frame,gen,target,camera,key,motion):
+ return dict(id=id,source_shot=source,source_frame=frame,generate_frames=gen,target_frames=target,camera=camera,key_prompt=key,motion_prompt=motion,single_reference=True)
+def write(group,rows):
+ for r in rows:r['group']=group
+ (P/f'group-{group:02}.json').write_text(json.dumps(rows,ensure_ascii=False,indent=2),encoding='utf8')
+SPACE='The cathedral has ONLY one jagged opening in the central nave roof. Rear altar vault, side walls and blue windows remain intact; only the rear central pane was broken earlier. The high altar dome remains opaque indigo. Wet floor is painted with simple blue strokes, no mirror CGI. '
+write(5,[
+s('086a','086',12,96,60,'GPT肩后对峙，教主一步压近',
+SPACE+'Preserve white-haired horned GPT back/shoulder at left foreground and red-haired black-gold priest farther ahead. Maintain wet night clothes and spatial distance. Restore the side walls instead of making the whole church open ruins. Matte faces and solid inked embroidery.',
+'Over GPT shoulder, the priest takes one short step closer and speaks with tightly controlled anger. His hand rises slightly to emphasize the threat, then stops. GPT remains grounded, facing him, wings folded. Fixed camera; keep the distance readable, no long walking or repeated stare.'),
+s('086b','086',120,72,42,'反打GPT决断，目光和一句回应',
+SPACE+'Preserve GPT close view with the priest shoulder at right edge. Same two horns, pale silver hair, purple eyes and white-lilac dress. Keep her eyes focused on him, calm but firm. No dragon yet.',
+'GPT takes one controlled breath, raises her chin and delivers a short firm reply. Her gaze stays on the priest; her expression tightens into resolve at the end. Fixed close view, a single restrained performance, no smiling turn to camera.'),
+s('086c','086',168,96,72,'低仰近中景，人形连续转成白紫龙',
+SPACE+'Preserve GPT alone in low angle medium-full view, pale gown and two horns. She is still completely HUMAN at the beginning. Her gown folds have a faint white-violet edge light, preparing transformation. No separate dragon or duplicate body. Keep intact vault around the single roof opening.',
+'GPT transforms continuously into ONE white-violet dragon: pale garment folds briefly become overlapping scale shapes, her own body lengthens upward, head extends into the dragon head, and the human silhouette disappears completely into this same body. Lavender mane follows the head, white scales are graphic cel shapes. End with only the dragon, no intact human left below, no human riding or summoning a second dragon. Camera tilts up following the single transformation, controlled drawn effects, no blue water texture.'),
+s('086d','086',216,60,36,'教主反打展翼，黑金轮廓一张即止',
+SPACE+'Preserve red-haired priest wearing black-gold vestments. TWO black feathered wings with restrained gold edges extend partly from his back, not separate birds. Keep his boots on the wet stone at the start. Painted feathers in broad groups, not realistic strand detail.',
+'The priest spreads his two black-gold wings in one forceful movement, bends his knees, then pushes off the wet floor once. His robe trails downward and the wings beat once to lift. Fixed low camera with slight upward follow. No extra wings, no long static pose and no second leap.'),
+s('086e','086',264,84,54,'内仰景双方向上，穿同一破口',
+SPACE+'Preserve a single white-violet long dragon and the black-gold winged priest rising through the central nave. The dragon is GPT transformed, no humanoid GPT elsewhere. One defined roof hole overhead, intact vault around it. Scale dragon and priest clearly against the same opening.',
+'The white-violet dragon coils upward through the central roof opening and the black-winged priest follows into the same opening a little to its side. Both ascend away from the camera, decreasing in size. The dragon tail is last to leave. Camera tilts up then holds on the existing hole, no further wall collapse or second roof opening.'),
+s('087','087',0,72,48,'塔尖外宽景，双方对峙转成冲入云层',
+'Preserve the white-violet scale dragon at left and single black-gold winged priest at right above gothic towers at night. Dragon is solid scaled flesh with lavender mane, NOT the earlier blue water construct. Broad painted clouds, hard cel shadows, no photoreal scales or volumetric cloud simulation.',
+'The white-violet dragon draws its head back briefly, then lunges toward the black-winged priest. He banks upward to meet it and both disappear into the dark cloud edge beyond the spires. Keep their starting sides and closing directions readable. Camera holds wide for scale, a short follow toward the cloud only, no orbit and no repeated circling.'),
+s('088','088',0,72,42,'柱后孩子近景，仰视空战',
+SPACE+'Preserve Xiaoyu blue whale hood, small soft child proportions and Qianwen supporting her in the LEFT arm behind a stone pillar. Remove doll-like glossy eyes/skin, use clear dark outlines and flat shades. Qianwen right-hand fan stays out of this tight framing; do not add a second child.',
+'The tired child looks upward toward the roof opening and clutches Qianwen robe once. A faint white-violet flash crosses her eyes, then she tucks slightly closer into the supporting arm. Fixed close shot, tiny breathing, no repeated blink loop and no sudden smile.'),
+s('089','089',4,96,72,'塔尖和云层固定，闪电省略空战',
+'Night gothic cathedral spires under broad dark blue storm clouds. Retain architecture silhouette and painted inked cloud edges. No visible characters, no new creature, no daytime. One concentrated white-violet glow behind cloud layers, not a nuclear blast.',
+'Two irregular white-violet lightning pulses illuminate the cloud layers, separated by a short dark pause. A distant black-gold silhouette crosses within the first pulse only, too small for a new fight scene. Rain begins as thin drawn diagonal streaks. Fixed wide night sky and spires, let the second flash decay quickly into rain. Do not loop clouds or add repeated explosions.'),
+s('090a','090',0,48,30,'地面雨滴短特写，接云层落雨',
+SPACE+'Low close view of shallow water on cathedral stone tiles under the central roof opening. Draw reflections as flat muted blue patches and simple white rain rings. No people or newly collapsed walls in this insert.',
+'Several rain drops fall into shallow puddles, making small expanding drawn rings that overlap and fade. The camera creeps a few centimeters across the wet stone toward the doorway light. Short atmospheric beat, no waterfall or large flood returning.'),
+s('090b','090',36,72,48,'门内望外，外院教徒逼近守卫',
+'Preserve two silver armored knights at the open cathedral door foreground, facing outward toward black-robed reinforcements arriving from the OUTER COURTYARD. Closed helmets, no named heroine faces. Keep blue night sky and gothic courtyard walls. These reinforcements enter from far outside, not bodies rising from the floor.',
+'The distant black-robed group advances two grounded steps across the outer courtyard toward the gate. The two silver knights lower their spears across the doorway approach and brace their feet. Camera stays inside looking outward, preserving the defensive line. No teleport, no identical march loop, no knight walking backward through the door.'),
+s('091','091',0,72,48,'守护同伴群像，前后分层、持械警戒',
+SPACE+'Preserve the established allied women and silver knights from the source, with distinct original faces, hair colors, clothes and weapons. Keep Qianwen with the small blue whale child sheltered at right. Remove any lavender-haired star-maid Kimi from this group: Kimi remains inside the altar dome. Remove humanoid GPT if present: GPT is still fighting in dragon form above. Stage the remaining allies in staggered defensive positions, not a symmetrical poster. Maintain the high altar dome in distance.',
+'The front allies plant their feet and lift their existing weapons toward the doorway, glancing toward the approaching threat off camera. Rear allies shift half a step to cover the side aisles. Qianwen holds the child securely behind the pillar. A brief low lateral camera move reveals the layered defense, then stops. No synchronized posing, duplicated characters, weapon swaps or march toward camera.'),
+s('092a','092',0,60,36,'教堂远外景，单次战斗终点闪光',
+'High wide exterior view of the gothic cathedral at rainy blue night. ONLY the central nave roof has an existing hole; all surrounding towers, rear roof and walls remain standing. A restrained white-violet glow is forming through that central opening. Painted architecture and cloud layers, no people in foreground.',
+'One strong white-violet flash fills the existing central roof opening, briefly lights the surrounding towers, then contracts rapidly to darkness and falling rain. Do not create a second explosion or spread structural damage. Fixed aerial wide shot, one decisive end-of-battle beat.'),
+s('092b','092',120,84,54,'胜负结果中景，GPT立即俯身取钥匙',
+SPACE+'Preserve GPT restored to her single humanoid white-lilac dragon-girl form, standing beside the defeated red-haired priest on the wet nave floor. Two folded wings, one tail, same horns. Remove the crowd display: keep only distant allies at the sides and Qianwen holding ONE child behind right pillar. Kimi absent, still at altar. Priest remains clothed and unconscious, no gore.',
+'GPT checks the fallen priest with a quick downward glance, steps to his belt and immediately bends one knee to reach toward the visible key ring. Her wings stay folded, tail trails low and clear of the body. The allies keep watch instead of posing. Camera lowers slightly with her reach, cut before the hand close-up; no victory smile or long held tableau.'),
+s('092c','092',166,60,42,'腰扣取钥匙特写，明确分离',
+'Preserve close framing of the priest black-gold belt at left and GPT white lace sleeve and hand entering from right. One small brass key ring is visibly ATTACHED to an openable hook on the belt. No face needed. Matte cel skin and simplified gold outlines, wet floor painted blue, no CGI jewelry.',
+'GPT fingers close around the ONE key ring, lift it off the belt hook and carry it fully away to the upper right. Show a small gap between ring and hook before the hand leaves. The priest body stays still. Fixed detail shot, no duplicate keys, no key dissolving, no long pause after retrieval.')
+])

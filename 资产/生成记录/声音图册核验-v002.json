@@ -1,0 +1,57 @@
+{
+  "local_audio_players": 10,
+  "playback_progressed": true,
+  "durations": [
+    {
+      "src": "%E5%A3%B0%E9%9F%B3/%E8%AF%95%E9%85%8D/Victory-%E6%8F%B4%E5%86%9B%E7%99%BB%E5%9C%BA-v001.m4a",
+      "duration": 13
+    },
+    {
+      "src": "%E5%A3%B0%E9%9F%B3/BGM/BGM-HOPE-001.mp3",
+      "duration": 342.600544
+    },
+    {
+      "src": "%E5%A3%B0%E9%9F%B3/BGM/BGM-DESCENT-001.mp3",
+      "duration": 137.693152
+    },
+    {
+      "src": "%E5%A3%B0%E9%9F%B3/BGM/BGM-TITAN-001.mp3",
+      "duration": 175.756735
+    },
+    {
+      "src": "%E5%A3%B0%E9%9F%B3/%E8%AF%95%E9%9F%B3/VOICE-DS-v002.flac",
+      "duration": 2.56
+    },
+    {
+      "src": "%E5%A3%B0%E9%9F%B3/%E5%8F%82%E8%80%83/DS-%E8%BF%99%E4%B8%AA%E5%88%80%E5%AD%90%E7%9C%9F%E7%94%9C-%E5%8F%82%E8%80%83-v001.wav",
+      "duration": 4.649958
+    },
+    {
+      "src": "%E5%A3%B0%E9%9F%B3/%E8%AF%95%E9%9F%B3/VOICE-DS-v001.flac",
+      "duration": 2.56
+    },
+    {
+      "src": "%E5%A3%B0%E9%9F%B3/%E8%AF%95%E9%9F%B3/VOICE-GPT-v001.flac",
+      "duration": 2.08
+    },
+    {
+      "src": "%E5%A3%B0%E9%9F%B3/%E8%AF%95%E9%9F%B3/VOICE-CLAUDE-v002.flac",
+      "duration": 0.8
+    },
+    {
+      "src": "%E5%A3%B0%E9%9F%B3/%E8%AF%95%E9%9F%B3/VOICE-CLAUDE-v001.flac",
+      "duration": 1.76
+    }
+  ],
+  "videos": [
+    {
+      "src": "%E5%A3%B0%E9%9F%B3/%E8%AF%95%E9%85%8D/Victory-%E6%8F%B4%E5%86%9B%E7%99%BB%E5%9C%BA-v001.mp4",
+      "duration": 13,
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "mobile_overflow": false,
+  "javascript_errors": [],
+  "listening_review": "pending; browser decoding and playback are not human listening"
+}

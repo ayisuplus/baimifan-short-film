@@ -1,0 +1,40 @@
+{
+  "id": "BGM-CY-HP7-02",
+  "bvid": "BV1Y6UtYFEyG",
+  "part": 2,
+  "title": "Snape to Malfoy Manor",
+  "display_title": "斯内普前往马尔福庄园",
+  "work": "哈利·波特与死亡圣器（上）",
+  "composer": "Alexandre Desplat",
+  "source_page_title": "02. Snape to Malfoy Manor - Alexandre Desplat",
+  "navigation_translation": "中文译名仅供本项目导航；保留原曲名与来源分P。",
+  "cid": 26834177989,
+  "source": "https://www.bilibili.com/video/BV1Y6UtYFEyG/?p=2",
+  "uploader": "Wayne_Chi",
+  "video_title": "[FLAC无损]《哈利·波特与死亡圣器(上)》电影原声带",
+  "path": "资产/声音/BGM/重选-v006/BGM-CY-HP7-02.m4a",
+  "bytes": 3151417,
+  "sha256": "ea9165c4b1ba540803c7de7fb08b011aee084d696aadf2cb9962e7acd23a6fdb",
+  "duration": 118.527667,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "bit_rate": "253784"
+      }
+    ],
+    "format": {
+      "duration": "118.527667"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

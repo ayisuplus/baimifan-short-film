@@ -1,0 +1,9 @@
+{
+  "name": "073-video-r1",
+  "type": "video",
+  "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\073-key-r2_00001_.png",
+  "key_review": "pass",
+  "prompt": "Animate this exact hand-drawn Japanese gothic 2D anime image. Keep strong ink outlines, hard-edged two-tone cel shadows, matte skin, broad connected hair locks and painted backgrounds in every frame. No photorealistic fluid, PBR, plastic skin, 3D animation, random cuts, camera orbit, changing identities, extra people or extra limbs. Kimi puts a steady supporting arm behind Claude upper back. Claude leans a little into the support while both chained wrists remain fixed to the cross. Kimi glances toward the outside threat; Claude breathes unevenly but does not stand free or recover. Fixed medium shot, subtle weight transfer only, retain restraints, costume damage and high platform floor. Preserve the exact starting spatial layout and architecture. No newly lit candles, no extra roof destruction.  Keep Claude restrained to the wooden cross throughout, ankles on the footrest, both wrist cuffs remain attached. Her LEFT orange flower and black ribbon stay on the same side. Kimi has no visible drawn blades; the dark-indigo curved dome fills the entire background, no windows or stars.",
+  "frames": 60,
+  "seed": 202610303440
+}

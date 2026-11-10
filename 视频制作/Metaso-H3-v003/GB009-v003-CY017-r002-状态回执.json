@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115191818715848704",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "教徒轻推小鱼后携木离去",
+    "status": "succeeded",
+    "created_at": 1793136003,
+    "updated_at": 1793136031,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115191818715848704/content?expires=1793741627&signature=fdb41d29e55332690dd8293ef0172f83c1421d4b5d876417d823b8367f47a68f"
+    },
+    "resolution": "768P",
+    "duration": 5,
+    "usage": {
+      "total_seconds": 5,
+      "input_seconds": 0,
+      "output_seconds": 5,
+      "input_image_count": 1
+    },
+    "ratio": "adaptive",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

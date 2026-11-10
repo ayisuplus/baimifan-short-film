@@ -1,0 +1,6 @@
+{
+  "attempt": 1,
+  "engine": "built-in imagegen",
+  "error": "image generation failed: connection failed: error sending request",
+  "output_created": false
+}

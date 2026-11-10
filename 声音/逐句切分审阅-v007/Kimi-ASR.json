@@ -1,0 +1,26 @@
+{
+  "source": "声音/正式配音准备-v006/已选原件/Kimi.mp3",
+  "source_sha256": "ed4ad7d1c3aed6eef26ed59c05693891dab655ba93d7b78c137124e32e8756e1",
+  "seconds": 40.5159375,
+  "model": "C:\\Users\\36322\\.cache\\huggingface\\hub\\models--openai--whisper-small\\snapshots\\973afd24965f72e36ca33b3055d56a652f456b4d",
+  "method": "offline Whisper-small; unprompted Japanese word timestamps; not human listening or performance approval",
+  "result": {
+    "text": "月の裏に眠る古き石を、この刃を知るべに道を開け、 月かげ渡り、任せて、月の裏に眠る古き石を、この刃を知るべに道をあけ、つきかねわたり、まかせて、つきのうらにねむる、ふるき石を、このやいばをしるべに、道をあけ、つきかねわたり、まかせて。",
+    "chunks": [
+      {
+        "text": "月の裏に眠る古き石を、この刃を知るべに道を開け、",
+        "timestamp": [
+          0.0,
+          9.0
+        ]
+      },
+      {
+        "text": " 月かげ渡り、任せて、月の裏に眠る古き石を、この刃を知るべに道をあけ、つきかねわたり、まかせて、つきのうらにねむる、ふるき石を、このやいばをしるべに、道をあけ、つきかねわたり、まかせて。",
+        "timestamp": [
+          9.0,
+          40.5
+        ]
+      }
+    ]
+  }
+}

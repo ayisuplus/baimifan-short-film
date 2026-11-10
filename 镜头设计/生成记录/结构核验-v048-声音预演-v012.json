@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "storyboard": "E:\\projects\\内容创作\\故事短片\\穿云\\镜头设计\\带图分镜.html",
+  "shots": 131,
+  "duration_seconds": 431.5,
+  "scenes": 6,
+  "dialogue_clips": 19,
+  "source_passages_verified": 131,
+  "video_produced": false,
+  "image_editing": "none by renderer; original images displayed using declared regions",
+  "audio_review": "duration checked, actual listening pending",
+  "script_sha256": "c07a251cd3e88d0e1610c1f7e59e08ce45061c74376a981ed83951afdb5a92ff",
+  "music_candidates": 37,
+  "music_archived": 24,
+  "effects_descriptions": 131,
+  "music_status": "candidate not adopted"
+}

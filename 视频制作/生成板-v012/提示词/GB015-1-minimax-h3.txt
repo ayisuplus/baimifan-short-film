@@ -1,0 +1,35 @@
+subject_definitions:
+<Subject 1>: Kimi, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: Claude, identity and outfit from four-view sheet <Picture 2>.
+<Picture 3>: [Shot 1] composition and state reference; not its first frame.
+<Picture 4>: [Shot 2] composition and state reference; not its first frame.
+<Picture 5>: [Shot 3] composition and state reference; not its first frame.
+<Picture 6>: [Shot 4] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. Continue the actions below in their listed order, without restarting ongoing motion or speech.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Match the previous throw; glass breaks only on contact. Use <Picture 3> for composition. The bright blade cracks the central blue window, breaks local mullions and passes through a broad vertical opening toward the woodpile's outer edge. Stone frame, lower mullions and side windows remain. Fragments fall behind the cross, away from Claude. Kimi stays outside. Hold the impact close-up, then follow briefly downward inside. Hard impact, glass burst, passing blade, falling fragments; decay lowers.
+[Shot 2] At 00:03.000, Match the flight into wood; Kimi remains offscreen. Use <Picture 4> for composition. The bright blade embeds point-down in a black log at the burning pile's front outer edge, not the floor. Fibers split and silver light flashes. The anchor is firmly established before the offscreen spell name; light gathers afterward. No body or shield appears. Follow the descending tip closely; stop when anchored. Effect timings are relative to this shot start: Wood contact and fiber split at 0–0.5 seconds. Keep the complete Japanese spell name clear from 0.6 to 3.85 seconds, then a brief teleport hum. Materialization at the new anchor and the burst occur only after the next cut. From 3.6 to 6.85 seconds, Kimi (S1) speaks outside the frame: <d>[Japanese] 月影渡り！</d>.
+[Shot 3] At 00:07.000, Match the anchor flash to one arrival. Use <Picture 5> for composition. Kimi teleports directly to the anchored blade, reclaiming it left-handed. Lowering her stance, she blasts heavy logs outward and down to both sides. She lands on cleared stone, right-hand dark blade low and outward. Claude remains calm at center, upright on the exposed fixed footrest, all five restraints closed. Displaced wood still burns; no shield yet. Retreat slightly in a low medium-full view. Teleport hum, pressure burst, heavy timber scraping.
+[Shot 4] At 00:10.000, Continue falling timber; do not repeat the blast. Use <Picture 6> for composition. Cultists in the altar's outer lanes turn inward, gathering amber energy in raised palms and staff tips toward Kimi and Claude. Kimi turns low toward them, lifting her right-hand dark blade; the bright blade stays outside her left side. Claude remains bound upright on the fixed footrest. All stay clear of burning logs; no shield yet. Pan briefly from foreground cultist arms toward Kimi behind. Rolling logs, hurried robe movements, rising energy.
+From 12 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 7s: Begin the blade-linked arrival shot.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

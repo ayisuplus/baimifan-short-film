@@ -1,0 +1,26 @@
+subject_definitions:
+<Subject 1>: ChatGPT, identity and outfit from four-view sheet <Picture 1>.
+<Picture 2>: [Shot 1] composition and state reference; not its first frame.
+<Picture 3>: [Shot 2] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. Continue the actions below in their listed order, without restarting ongoing motion or speech.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Picture 2>: weak_reference - shot layout; animate the specified action.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Cut along the leader's raised eyeline to the caster; the dragon is already coiled. Leave the planned sonic gap before the spell name. Use <Picture 2> for composition. GPT hovers upright with wings spread and both hands joined at her chest, paired index fingers raised. The water dragon forms one loose spatial coil, high behind the wings and low before her knees, its head beside the right shoulder facing the enemy below. Its liquid depth, mane and taper remain visible; it is neither ice nor a flat ring. She completes the prayer and names the spell without stroking it or pointing. The hands remain sealed and the dragon does not attack yet. Push in slowly from a slightly low frontal medium-wide view, preserving the face, chest-level seal and three-dimensional dragon coil; settle at the spell name. Effect timings are relative to this shot start: The full Japanese prayer occupies 0–5.74 seconds. Leave the 5.74–6.54-second vocal gap and withdraw the music, then keep the complete spell name clear at 6.54–12 seconds. The seal and dragon remain held throughout; no attack or shield impact. From 0 to 5.74 seconds, ChatGPT (S1) speaks with matching lip movement: <d>[Japanese] 汝の救済を、ここに——</d>. From 6.54 to 12 seconds, ChatGPT (S1) speaks with matching lip movement: <d>[Japanese] そうかいてんけい！</d>.
+[Shot 2] At 00:12.000, Cut closer after the name while the hands remain joined; the seal opens before the dragon responds, launching down toward screen right. Use <Picture 3> for composition. GPT first fixes her gaze on the leader below, separates her hands, retains the left at her chest and drives her right arm forward and down once with the index finger extended. No water comes from the fingertip. The dragon turns its head, twists the long neck and opens its raised-back, lowered-front coil into one descent toward the right foreground. The gesture precedes the response; no shield splash or contact occurs yet. From the same side in a knee-up view, track slightly with the right shoulder thrust, keeping hand and dragon head visible without crossing the axis. Quiet sleeves as the hands separate, then accelerating water after the single forward point. Save impact for the next shot.
+From 13.5 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 5.74s: Pause the incantation during the seal shot; 12s: Release the seal and begin pointing.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

@@ -1,0 +1,19 @@
+{
+  "manifest": "声音/正式配音准备-v006/正式配音清单.json",
+  "voice_status": "author_approved",
+  "roles": [
+    "GPT",
+    "Kimi",
+    "千问",
+    "Grok",
+    "Claude",
+    "教主",
+    "Gemini",
+    "教徒",
+    "小鱼"
+  ],
+  "timeline_adopted": false,
+  "current_dialogue_assembly": "后期/对白补齐-v009/对白装配计划.json",
+  "resolve_timeline": "v009_Selected_Voices_Assembly",
+  "completion_note": "已定身份沿v006；本轮12句补齐和4句读音修正已装片，表演与口型未代作者终验。"
+}

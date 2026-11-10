@@ -1,0 +1,98 @@
+{
+  "title": "《白米饭》宫殿柔光与盘尾修订",
+  "date": "2026-10-25",
+  "engine": "built-in image_gen",
+  "status": "候选待作者审阅；未替换v0.54当前预演与生成板",
+  "original_images": [
+    "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/独立镜头-v009/CY005-v009.png",
+    "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/独立镜头-v009/CY007-v009.png",
+    "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/独立镜头-v009/CY006-v009.png",
+    "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/末轮叙事优化-v035/CY009A-v035-r1.png"
+  ],
+  "lighting_guide": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-8b99569a-4313-4e96-95a6-f2f3baedc989.png",
+  "outputs": [
+    {
+      "source": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-8b99569a-4313-4e96-95a6-f2f3baedc989.png",
+      "path": "镜头设计/图像/宫殿柔光-v055/CY005-柔光.png",
+      "prompt": "Use case: lighting-weather. Edit the supplied image, the existing film storyboard frame of a small blue whale-hat girl running toward a seated white dragon woman in a lavish cathedral throne hall. Return ONE full-frame landscape image, same 1672x941 composition. Change only environmental illumination and glare/material highlight response. Preserve camera, framing, every character identity, age/proportions, face, costume design and intrinsic blue/white colors, pose, object locations, architecture and detailed anime illustration style. Art direction: restrained luminous ivory-gold-lavender palace, solemn and spacious, soft dusk window light. Substantially reduce the competing near-white window glare: retain windows and their sky/view detail with softly luminous pale peach/lavender panes; gold tracery is muted physical metal, not emitting light. Make marble floor soft polished/satin with low-contrast diffuse reflections, no brilliant mirror duplicate windows, no glittering streaks or star sparkles. Leave architecture visible in quiet lavender middle tones, controlled gentle shadows. Gently light the running child and seated woman's face and white costume so their silhouettes stand out. Preserve readable white clothes and white hair as white, not dirty gray; preserve blue costume saturation, do not globally desaturate or put an overall dark filter. Keep all candles and flowers in place but candle highlights small and subordinate. No additional objects/people, no changed poses, no text, no watermark, no collage.",
+      "status": "current_candidate",
+      "sha256": "bd5ae0e54b3df1447cec6d37b26705b1027825624013adfbd15cd19e37290754",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "source": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-876ecfdf-8924-4e64-8472-e4139bdc9548.png",
+      "path": "镜头设计/图像/宫殿柔光-v055/CY006-柔光.png",
+      "prompt": "Use case: lighting-weather. Image 1 is EDIT TARGET: crying blue whale-hat child facing white-haired woman out-of-focus at right foreground. Image 2 is LIGHTING REFERENCE ONLY for the same palace. Return one landscape image in exactly image 1's composition. Preserve every detail of child's face, blue eyes, tears, open mouth pleading expression, clasped fists pose, whale hat, hair, costume colors, proportions, framing, over-shoulder white-haired foreground woman's shape and focus, architecture and props. Change only environmental illumination, glaring specular highlights and reflection intensity to the subdued softly lit ivory/gold/lavender palace of image 2. Floor is gently satin polished with subdued diffuse low-contrast reflections, remove the intense white-gold mirror glare to the right and behind the child, no sparkling floor streaks. Windows retain soft peach-lavender light and detail, no glaring white strips. Dim gold filigree gleam and keep candles small. Retain clean soft light on the child's tearful face and blue eyes, natural warm skin without blazing rim-light on hat or hair. Foreground white shoulder and hair receive gentle soft light without harsh white streaks; keep them recognizable white with lavender shadows and subordinate to the child. Preserve intrinsic colors, anime rendering and depth of field, don't gray all whites, don't turn night, don't globally desaturate. No changed expression, identity, pose or composition; no new people/objects, text or watermark, no collage.",
+      "status": "current_candidate",
+      "sha256": "8ca461435d5d54e73ccdeb6f712b707f26a0e0b710474bff28f71a08c643fd2c",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "source": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-1e78fe66-27da-4834-a1a9-846728ff944f.png",
+      "path": "镜头设计/图像/宫殿柔光-v055/CY009A-柔光.png",
+      "prompt": "Use case: lighting-weather. Image 1 is the EDIT TARGET, white dragon woman standing beside empty throne screen-left, watching tiny blue child departing down the vast palace toward far door on right. Image 2 is ONLY LIGHTING continuity reference. Return one full-frame landscape image, exact image 1 camera, character positions and poses, perspective, architecture and detailed anime rendering. Preserve white dragon woman's identity, horns, long hair, white gown, wings, ONE tail rooted low at rear pelvis descending behind gown to floor, child whale hat blue clothes, size and positions, all flowers/candles/metalwork. Revise only light/reflections: restrained dusk ivory-gold-lavender palace matching image 2. Turn large blinding near-white side windows into gently luminous peach-lavender panes with visible detail. Reduce strong beams and golden glitter, no intense white-gold reflecting streaks filling floor. Marble is softly polished satin with subdued low contrast reflections and visible quiet broad surfaces. Gold filigree reflects softly instead of glowing. Foreground throne and side walls sit in calm lavender middle-shadow tones; woman retains soft readable white hair/dress and small gentle edge light, not dirty gray or silhouette. Retain the far EXIT as the purposeful brightest area, a soft controlled glow framing departing blue child, without huge blown out pool or beams. This luminous destination emphasizes distance from the observer; overall rich elegant color remains, solemn spacious mood, not night or globally desaturated dark filter. No new objects, people, text, watermark or collage.",
+      "status": "current_candidate",
+      "sha256": "444d2a9a15bf04cb90245e8045c1b3e974351cefaf7c9e07d034b3a8b477d804",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "source": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-8b8aa1da-7b02-4fb3-a262-ce65d0e0271a.png",
+      "path": "镜头设计/图像/宫殿柔光-v055/CY007-柔光-尾巴未修.png",
+      "prompt": "Use case: lighting-weather. Image 1 is the EDIT TARGET: seated white dragon woman close-up. Image 2 is ONLY the approved softer palace LIGHTING reference, do not borrow its camera or poses. Return one full-frame landscape frame at same composition and aspect ratio as image 1. Preserve precisely the target's character face/expression, lilac eyes, white long hair, horns, white costume, accessories, wing and tail anatomy, exact seated pose and hands on armrests, crop and camera, all architecture and flowers/candles. Change only environmental illumination, glare and reflective response, matching the restrained ivory-gold-lavender palace in image 2. Lower blinding white windows to softly luminous peach-lavender with visible pane detail. Tone down gold tracery and candle sparkle, reflective floor hot spots, strong white rim glow and hard bright streaks on skin and dress. Quiet lavender middle-toned background; face the principal attention point with gentle soft side fill, readable eyes and expression, white hair and dress still clean white in soft light with pale lavender folds rather than dirty gray. Preserve intrinsic colors and high-quality detailed anime rendering, do not globally desaturate/darken, no night conversion. The mood is calm restrained emotional distance, not celebratory glitter. No new people, no new objects, no text, no watermark, no collage.",
+      "status": "rejected_tail",
+      "sha256": "12e9051b929a46c8caa9a6523f286958ae81615422a0640a91c904006b482191",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "source": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-28b6e8d9-f448-440a-805b-f44092c7c580.png",
+      "path": "镜头设计/图像/宫殿柔光-v055/CY007-尾巴穿侧板-未采用.png",
+      "prompt": "Use case: precise-object-edit. Edit ONLY the anatomically incorrect dragon tail in the lower-right of this image. The current large vertical coil seems to attach to the right wing or chair arm. REMOVE that oversized upright coil completely and reconstruct the unobstructed wing, chair side and background it previously covered. The woman has exactly ONE white lavender scaled tail anatomically emerging from her lower back/sacrum BEHIND her seated pelvis: its root and proximal length are occluded by her body and the throne seat/back. Show ONLY a modest distal section, low at the very bottom-right of the frame beside the chair base, curling naturally along the floor and tapering toward its tip; much of it may be below the crop. The tail must NOT originate at the wing, shoulder, wrist, armrest, gown front or thigh, must NOT thread through solid chair metal, must NOT rise vertically across the armrest, and must NOT float. Readable foreground/background occlusion: wing is high behind arm, chair arm unobstructed in front, tail stays low behind/along outside chair base. Keep EXACT same face, eyes, expression, horns, hair, costume, jewelry, seated pose, hands, BOTH wings and their attachment, framing, palace lighting and muted window/floor glare from this corrected-light image. Preserve detailed anime style and original landscape aspect ratio. Do not change lighting or brighten the background again. No text, no collage, one complete image.",
+      "status": "rejected_tail",
+      "sha256": "e2cb957407a4129ff9c3909b3f1a5aa2807a1eac863d064fff3168c209737788",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "source": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-4a35253f-bfe2-4444-b457-3ae3c9372df6.png",
+      "path": "镜头设计/图像/宫殿柔光-v055/CY007-小盘尾-未采用.png",
+      "prompt": "Use case: precise-object-edit. Correct ONLY the dragon tail arrangement in this existing seated white dragon woman illustration. USER SPECIFIC DIRECTION: coil her tail on the spare seat cushion NEXT TO HER THIGHS, INSIDE the throne armrests. Remove entirely the current giant upright tail loop OUTSIDE the right armrest. Replace with ONE moderately slender white-lavender scaled dragon tail: anatomically attached at the sacrum behind pelvis (root naturally occluded by hip/hair); it curves FORWARD around the outside of her hip while remaining INSIDE the chair, then rests as a compact flat relaxed coil on the spare cushion between her draped thighs and the INNER face of the screen-right armrest. The coil is below her elbow, next to the thigh, supported by cushion, with a clearly visible tapered tip tucked into the coil. It may softly press adjacent skirt fabric. Clear spatial layering: her thigh to screen-left of coil; coil on cushion in the middle; intact gold armrest to screen-right and in FRONT of any portion it occludes. NO tail crosses, penetrates or emerges through the solid armrest, chair side panel, seat front, or chair back. NO tail outside the armrests, on floor, in bottom-right foreground or attached to wings. No huge upright loop. Show the seated tail's relaxed compact shape visibly, do not just remove/hide the tail. Preserve all other details EXACTLY: identity, face, expression, horns, white hair, clothes and jewelry, hands resting on armrests, original seated posture, both wings, camera angle, original landscape framing, muted soft palace illumination, restrained windows and floor reflections. Restore previously obscured wing/chair/background where old external tail was. One full-frame image, no text, no collage.",
+      "status": "rejected_size",
+      "sha256": "9635c6a7c88f59f0a8130bacca2f0cd618a50d229767de32d8c4e3607f73e6b3",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "source": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-f2162398-748b-4824-b28b-6702b0fe0910.png",
+      "path": "镜头设计/图像/宫殿柔光-v055/CY007-大盘尾-候选.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target: correct location for a coiled tail inside the throne, but the tail is FAR TOO SMALL/SHORT. Image 2 supplies ONLY the original full-sized thick long white dragon-tail SCALE and mass (its exterior placement is incorrect, do NOT copy that placement or the bright lighting). USER CORRECTION: retain her substantial long thick dragon tail; coil it next to her legs, do not miniaturize it to fit the cushion. In image 1 replace the tiny compact coil with a FULL-SIZED heavy long tail, proximal thickness comparable to her upper thigh, retaining the imposing mass of image 2. It emerges from the sacrum behind the pelvis, wraps visibly around her screen-right hip on the body side of the armrest, then makes a broad heavy relaxed loop BESIDE AND PARTLY IN FRONT OF her draped thighs. The loop can extend onto the skirt/lap and across the front of the cushion to accommodate the original length and mass, visibly depressing fabric. Use a long broad oval curve, not a tiny tight snail shell. Keep a continuous readable taper to a long pointed tip resting along the outer skirt toward knees. Tail all supported by lap/cushion; intact armrest is OUTSIDE and in front of tail where overlapping. No tail passes through any chair part, no exterior hanging tail, no tail on floor, no disconnected coil. Do not shrink tail anatomy to fit; use the available foreground lap/seat space while preserving same chair scale. Preserve face, expression, identity, hair, horns, jewelry, hands on armrests, BOTH wings, seated leg pose, architecture and camera framing from image 1. Keep image 1's restrained soft lighting; do NOT copy brighter windows/floor from image 2. Preserve white/lavender scales and existing anime style. One full landscape image, no writing, no collage.",
+      "status": "current_candidate",
+      "sha256": "09cf059e28e6f1e0a79d41d3efd290b8c8a2896277e33db63a6fa0e238479a49",
+      "dimensions": [
+        1672,
+        941
+      ]
+    }
+  ],
+  "notes": [
+    "四张宫殿静帧完成环境高光收敛，保留白金淡紫与蓝色角色本色；降低窗户白光与地面镜面碎亮。",
+    "CY007原柔光稿尾巴外置、第一次低垂版穿侧板、第二次盘尾版体量不足，均按作者反馈留作未采用。",
+    "最新按原图粗长体量，尾巴在扶手内侧绕过身侧，在腿旁及裙摆前盘成大弯；根部被身体遮挡。人物手指与袖口存在生成重绘，不能声称像素不变。",
+    "四张为静帧候选，不代表动画、动态尾巴连续性或作者采用。"
+  ]
+}

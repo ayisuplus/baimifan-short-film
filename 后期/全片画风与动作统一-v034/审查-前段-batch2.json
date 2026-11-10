@@ -1,0 +1,56 @@
+{
+  "scope": [
+    "015a",
+    "015b",
+    "016",
+    "017",
+    "018",
+    "021"
+  ],
+  "status": "CPU review completed; prepared only; stop after this batch per user GPU pause",
+  "key_review": "all six pass",
+  "rows": [
+    {
+      "id": "015a",
+      "decision": "pass",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\015a-key-r1_00001_.png",
+      "frames": 72,
+      "evidence": "脸/发束为二维块面，左侧花饰正确；双臂横向受束，画缘袖口与闭合腕铐相接。未见解束或悬空姿态。"
+    },
+    {
+      "id": "015b",
+      "decision": "pass",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\015b-key-r1_00001_.png",
+      "frames": 48,
+      "evidence": "双裸足由同一木脚托承接；五趾轮廓可读，两只踝铐闭合，两链连向木结构。底部既有少量木材未燃，不把它扩大成已完成柴堆。"
+    },
+    {
+      "id": "016",
+      "decision": "pass",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\016-key-r1_00001_.png",
+      "frames": 48,
+      "evidence": "小鱼画左仰望，身高到成人腰胸以下，Claude双腕闭合锁在横木；腰锁闭合，动作起点可抬手够锁。"
+    },
+    {
+      "id": "017",
+      "decision": "pass",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\017-key-r1_00001_.png",
+      "frames": 48,
+      "evidence": "两手分列同一锁，指节与锁表面接触；U形锁梁两端在锁体中，链条闭合连续。衣服蕾丝为墨线/硬边阴影，不因装饰细节多而返修。"
+    },
+    {
+      "id": "018",
+      "decision": "pass",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\018-key-r1_00001_.png",
+      "frames": 82,
+      "evidence": "小鱼侧脸/两手/同一腰锁空间清楚，锁梁闭合；身体被缚上下文保留。可做一次失败短试，不能解锁。"
+    },
+    {
+      "id": "021",
+      "decision": "pass",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v034\\021-key-r1_00001_.png",
+      "frames": 84,
+      "evidence": "大锁单一且闭合，双手未长出额外指肢，右手托下缘、左手准备碰锁。可以先轻触再听脚步停住，不要求静帧已表现停止结果。"
+    }
+  ]
+}

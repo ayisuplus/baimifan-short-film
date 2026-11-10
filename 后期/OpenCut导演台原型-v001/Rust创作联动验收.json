@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-31",
+  "entry": "http://127.0.0.1:8978/editor/79d4ad8a-fc76-49dc-9797-913ded176ff2",
+  "engine": "OpenCut rust/crates/creative: native persistence + cached WASM timeline index",
+  "legacy_revision": 12,
+  "native_revision": 3,
+  "legacy_source_graph_and_all_history_copied_byte_exact": true,
+  "old_service_stopped": true,
+  "old_store_write_rejected": true,
+  "source_hash_checks": {
+    "后期/制作工作台-v025/工作台数据.json": true,
+    "剧本/白米饭-场景剧本-v0.69.md": true,
+    "视频制作/LibTV-H3-v001/GB004-冻结执行.json": true,
+    "剧本/白米饭-日语对白-v0.69.json": true,
+    "后期/独立剪辑-v017/剪辑清单.json": true,
+    "后期/宫殿调色-v014/after.json": true,
+    "后期/迁回达芬奇-v033/迁移剪辑清单.json": true
+  },
+  "formal_scene_and_prompt_restored": true,
+  "rust_contract_tests": 8,
+  "draft_regression_tests": 3,
+  "python_writing_tests": 7,
+  "ui_checks": [
+    "原生界面无 iframe，重载读取 Rust revision 3",
+    "上方点 CY008，时间线选中并定位 00:00:09:18",
+    "下方点 CY006，剧本切到对应内容及 00:00:00:00",
+    "实际播放 00:00:05:18 CY006 到 00:00:11:09 CY008，剧本跟随且没有反向 seek",
+    "未保存 CY007 时游标改为 00:00:11:00，仍保留 CY007 输入",
+    "切到同场 CY008 再返回，动作/对白测试稿保留",
+    "原生页面保存版本2，HTTP读回两字段一致",
+    "恢复版本1产生版本3，脏稿保留并显示冲突，未核对保存禁用；随后使用最新稿清除测试输入",
+    "00:00:08:00 切分 CY007，剧本关联到 right；上方定位保留 right 和新起点；撤销后恢复三镜",
+    "最终 WASM 缓存版重载正常，原生 revision 3 与三个片段保持",
+    "输入框仅获焦、正文未改变时，播放到片尾仍保留原字段；失焦后恢复跟随",
+    "片尾空白状态提供镜号入口，点 CY007 可恢复 00:00:06:07 的上下联动"
+  ],
+  "api_checks": {
+    "wrong_origin": 403,
+    "stale_revision": 409
+  },
+  "limits": [
+    "全仓 TypeScript 仍有既有问题，当前创作/director 文件无诊断",
+    "没有完成 OpenCut 整仓 Rust 迁移或上游 SDK 接入",
+    "不代表录音、画面、字幕或作者创作终验"
+  ],
+  "rust_python_lock_exclusion_verified": true,
+  "independent_review": "迁移完成闸门、漏镜保护、clean buffer 遮盖新版、迟到保存覆盖新草稿、输入焦点保护均已修复并有针对性验证"
+}

@@ -1,0 +1,59 @@
+{
+  "prompt": {
+    "1": {
+      "class_type": "BreezeTTS2LoadModel",
+      "inputs": {
+        "model": "bf16 (best quality)",
+        "dtype": "bf16",
+        "device": "cuda",
+        "attention": "sdpa",
+        "decode_mode": "eager",
+        "download_if_missing": false
+      }
+    },
+    "2": {
+      "class_type": "BreezeTTS2VoiceDirection",
+      "inputs": {
+        "breeze_model": [
+          "1",
+          0
+        ],
+        "text": "Would you like some? One more try. I'll get you out of here.",
+        "reference_audio": [
+          "4",
+          0
+        ],
+        "reference_text": "Would you like some? One more try. I'll get you out of here.",
+        "instruction": "Speak English as a Japanese anime voice actress. Keep the reference speaker's identity and soft, rounded timbre. Stubbornly determined, insisting with a little defiant spirit. She refuses to give up. Say only the provided text, with a brief pause between sentences.",
+        "cfg_scale": 4.0,
+        "stitch_reference": "none",
+        "max_new_tokens": 256,
+        "temperature": 0.9,
+        "top_k": 50,
+        "top_p": 1.0,
+        "repetition_penalty": 1.1,
+        "depth_temperature": 0.9,
+        "depth_top_k": 50,
+        "depth_top_p": 1.0,
+        "seed": 20261027
+      }
+    },
+    "3": {
+      "class_type": "SaveAudio",
+      "inputs": {
+        "audio": [
+          "2",
+          0
+        ],
+        "filename_prefix": "audio/BreezeTTS2/WhiteRice-Xiaoyu-v007/stubborn"
+      }
+    },
+    "4": {
+      "class_type": "LoadAudio",
+      "inputs": {
+        "audio": "white-rice-xiaoyu-v006-approved.flac"
+      }
+    }
+  },
+  "client_id": "xiaoyu-emotions-v007"
+}

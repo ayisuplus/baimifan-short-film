@@ -1,0 +1,46 @@
+{
+  "shots": 133,
+  "batches": 43,
+  "cues": 63,
+  "selected": 60,
+  "rejected_ids": [
+    "VO-CY024A0-01",
+    "VO-CY024A6-02",
+    "VO-CY024A5-02"
+  ],
+  "revision_ids": [
+    "VO-CY003B-01",
+    "VO-CY026D1-01",
+    "VO-CY026D-01",
+    "VO-CY026D-02",
+    "VO-CY024A9-01",
+    "VO-CY024A5-01",
+    "VO-CY024A5-02"
+  ],
+  "revision_batches": [
+    2,
+    23,
+    25,
+    30
+  ],
+  "valid_audio_hashes": 60,
+  "rerecord_scope_count": 9,
+  "delivered_v005_ids": [
+    "VO-CY003B-01",
+    "VO-CY026D1-01",
+    "VO-CY026D-01",
+    "VO-CY026D-02",
+    "VO-CY024A0-01",
+    "VO-CY024A9-01",
+    "VO-CY024A6-02",
+    "VO-CY024A5-01",
+    "VO-CY024A5-02"
+  ],
+  "needs_rerecord_if_revisions_adopted": 0,
+  "selected_source_sha256": "916327ec24c75ce04376bce5289acf0f4a3d123245adb111ab09211456057d80",
+  "completed_pass_snapshot_sha256": "916327ec24c75ce04376bce5289acf0f4a3d123245adb111ab09211456057d80",
+  "invalid_choices": [],
+  "preserved_original_choices": true,
+  "candidate_text_not_adopted": true,
+  "no_generated_media": true
+}

@@ -1,0 +1,9 @@
+{
+  "name": "082-video-r1",
+  "type": "video",
+  "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\082-key-r2_00001_.png",
+  "key_review": "pass",
+  "prompt": "Animate this exact hand-drawn Japanese gothic 2D anime image. Keep strong ink outlines, hard-edged two-tone cel shadows, matte skin, broad connected hair locks and painted backgrounds in every frame. No photorealistic fluid, PBR, plastic skin, 3D animation, random cuts, camera orbit, changing identities, extra people or extra limbs. The acolyte clings to the step with both hands as one pulse of water pulls his robe downstream. His elbows bend to resist and his knees scrape the next step. The pulse subsides and water drains down the stairs, leaving him still exhausted and gripping the edge. Fixed low camera, short action and settle, no repeated identical flood pulses and no floating body. Preserve the exact starting spatial layout and architecture. No newly lit candles, no extra roof destruction.  The black hooded figure remains a dark-haired male acolyte, not Claude. Hands remain planted on the same step edge, fingers curl around the stone under strain. The blue opaque dome remains high in the distant background. All lamps stay extinguished.",
+  "frames": 84,
+  "seed": 202610303442
+}

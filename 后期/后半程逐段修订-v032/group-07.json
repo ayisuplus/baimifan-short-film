@@ -1,0 +1,86 @@
+[
+  {
+    "id": "113",
+    "source_shot": "113",
+    "source_frame": 0,
+    "generate_frames": 96,
+    "target_frames": 72,
+    "camera": "背后全景缓跟，队伍朝入口走远",
+    "key_prompt": "Preserve the original exit composition: back view of GPT carrying orange-haired Claude in BOTH arms, Qianwen carrying blue whale-hooded child on left arm nearby, companions walking away toward the FRONT ENTRANCE visible far ahead. Keep same number of visible allies as source, never duplicate Kimi or child. GPT wings folded, Claude charred clothing, cathedral wet and dark after flood, all candles extinguished. Fallen acolytes remain at edges, living knights guard behind rather than joining the group.",
+    "motion_prompt": "The existing group walks steadily away from camera toward the distant open entrance, two or three grounded steps. GPT supports Claude upper back and knees securely; Claude head remains rested against her shoulder, no bouncing. Qianwen child secure. Hair and hems follow each step, no one walks toward the altar. Slow restrained forward camera follow, preserve wide depth and diminishing figures. Fallen people stay still. No new characters or newly lit lamps.",
+    "group": 7,
+    "single_reference": true
+  },
+  {
+    "id": "114",
+    "source_shot": "114",
+    "source_frame": 6,
+    "generate_frames": 120,
+    "target_frames": 96,
+    "camera": "日间街市固定中景，留出新时间段的呼吸",
+    "key_prompt": "This is SEVERAL DAYS LATER in the original sunlit medieval market, not inside the cathedral. Keep warm cream daylight, soft golden shadows, pastel painted masonry, clean restored everyday clothing. Retain the same clean ink outlines, hard cel shadows and matte skin as the night scenes, but NEVER import blue night, candles, columns or a cross. Preserve the small blue whale-hooded Xiaoyu sitting on the same wooden bench and holding the same single bowl of white rice. Correct anatomy only as needed while retaining baby-like face, blue eyes, short limbs and original costume. Child on source side of bench, empty place beside her reserved for Claude. No adult added.",
+    "motion_prompt": "Xiaoyu sits securely, both feet dangling naturally, both hands holding the single rice bowl near her lap. She looks down at the rice then glances toward the empty bench space beside her as someone approaches off screen. A small contented breath, one brief foot swing, market background only subtle distant motion. Locked medium camera; no spinning bowl or extra utensils.",
+    "group": 7,
+    "single_reference": true
+  },
+  {
+    "id": "115",
+    "source_shot": "115",
+    "source_frame": 0,
+    "generate_frames": 120,
+    "target_frames": 96,
+    "camera": "同侧双人中景，走近到落座的连续重心",
+    "key_prompt": "This is SEVERAL DAYS LATER in the original sunlit medieval market, not inside the cathedral. Keep warm cream daylight, soft golden shadows, pastel painted masonry, clean restored everyday clothing. Retain the same clean ink outlines, hard cel shadows and matte skin as the night scenes, but NEVER import blue night, candles, columns or a cross. Keep the original orange-haired Claude approaching the bench beside the small whale-hooded child. Claude now wears the source clean white/orange outfit and veil with flower on HER LEFT. Same bench, same bowl in child hands and same daytime market. Claude starts standing beside the empty part of bench, feet visible, knees not intersecting wood.",
+    "motion_prompt": "Claude takes one small step beside the bench, turns toward the child, bends hips and knees and sits gently on the empty bench space. Her body weight settles into the seat; her skirt folds naturally rather than clipping through wood. Child watches her and keeps the bowl steady. Claude turns a warm small smile toward the child. Camera remains fixed on the same side, no camera orbit or second sit.",
+    "group": 7,
+    "single_reference": true
+  },
+  {
+    "id": "116",
+    "source_shot": "116",
+    "source_frame": 0,
+    "generate_frames": 72,
+    "target_frames": 46,
+    "camera": "手部近摄，勺柄交接一次完成",
+    "key_prompt": "This is SEVERAL DAYS LATER in the original sunlit medieval market, not inside the cathedral. Keep warm cream daylight, soft golden shadows, pastel painted masonry, clean restored everyday clothing. Retain the same clean ink outlines, hard cel shadows and matte skin as the night scenes, but NEVER import blue night, candles, columns or a cross. Preserve the original close view of child small hand offering the wooden spoon HANDLE toward Claude adult hand, with rice bowl stable below. No faces added to this detail. One spoon only and five believable fingers per visible hand; no spoon already in adult grip before transfer.",
+    "motion_prompt": "Child extends the spoon by its handle. Claude opens her fingers, grasps the handle gently, and only after the adult grip is secure the child releases it and draws the hand back. The one spoon stays physically continuous, rice bowl remains steady. Fixed detail shot, no feeding mouth and no duplicated hand or spoon.",
+    "group": 7,
+    "single_reference": true
+  },
+  {
+    "id": "117",
+    "source_shot": "117",
+    "source_frame": 0,
+    "generate_frames": 84,
+    "target_frames": 65,
+    "camera": "两位旁观者中景，反应给饭碗让位",
+    "key_prompt": "This is SEVERAL DAYS LATER in the original sunlit medieval market, not inside the cathedral. Keep warm cream daylight, soft golden shadows, pastel painted masonry, clean restored everyday clothing. Retain the same clean ink outlines, hard cel shadows and matte skin as the night scenes, but NEVER import blue night, candles, columns or a cross. Preserve blonde black-red Grok and white-haired horned GPT watching off screen, exactly two people as source. Keep original metal rice bowl held securely, GPT two folded wings and one tail if visible, Grok axe stored safely or offscreen as source. Outlined metal with simple cel highlight, no mirror PBR.",
+    "motion_prompt": "The two quietly watch Claude and child off screen. Grok gives a small relieved smile, GPT softens her eyes and lets out a relaxed breath. Keep their eyeline on the bench. The held metal bowl stays steady. Minimal cloth and hair motion, fixed medium shot, no broad laughter or new food prop.",
+    "group": 7,
+    "single_reference": true
+  },
+  {
+    "id": "118",
+    "source_shot": "118",
+    "source_frame": 0,
+    "generate_frames": 120,
+    "target_frames": 103,
+    "camera": "Claude吃饭近景，动作落在吞咽后的眼神",
+    "key_prompt": "This is SEVERAL DAYS LATER in the original sunlit medieval market, not inside the cathedral. Keep warm cream daylight, soft golden shadows, pastel painted masonry, clean restored everyday clothing. Retain the same clean ink outlines, hard cel shadows and matte skin as the night scenes, but NEVER import blue night, candles, columns or a cross. Preserve close view of Claude in clean original white veil, orange hair and LEFT flower. One wooden spoon and the same bowl of white rice. Gentle tired eyes recovering warmth, no excessive blush, glassy skin or overly realistic hair. Spoon starts just below her lips with a small bite of rice.",
+    "motion_prompt": "Claude raises the single spoon to her lips, takes one small bite, closes her lips gently and withdraws the now-empty spoon downward. She swallows, pauses and her eyes warm into a quiet relieved smile. Do not repeat eating cycles or chew with exaggerated open mouth. Locked close-up with tiny natural head motion, enough stillness after swallowing for the emotion to register.",
+    "group": 7,
+    "single_reference": true
+  },
+  {
+    "id": "119",
+    "source_shot": "119",
+    "source_frame": 0,
+    "generate_frames": 156,
+    "target_frames": 144,
+    "camera": "双人静镜留白，回到饭与陪伴",
+    "key_prompt": "This is SEVERAL DAYS LATER in the original sunlit medieval market, not inside the cathedral. Keep warm cream daylight, soft golden shadows, pastel painted masonry, clean restored everyday clothing. Retain the same clean ink outlines, hard cel shadows and matte skin as the night scenes, but NEVER import blue night, candles, columns or a cross. Preserve original final two-shot of orange-haired Claude and small blue whale-hooded Xiaoyu sitting close together on the same bench, one rice bowl and spoon. Warm afternoon street behind, consistent scale and matching clean costumes from prior shots. Gentle happiness with normal anime proportions, not doll-like CGI. Keep original framing and who sits on which side.",
+    "motion_prompt": "Claude turns her softened gaze from the rice bowl toward Xiaoyu. The child looks back and gives a small smile; Claude responds with a quiet smile and relaxes her shoulders. They settle together, sharing the same bowl with hands calm. Hold this companionship for the ending with subtle breathing, hair and cloth motion only. No repeated feeding, no extra spoon, no orbit or push-in, no dramatic new event.",
+    "group": 7,
+    "single_reference": true
+  }
+]

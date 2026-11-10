@@ -1,0 +1,210 @@
+{
+  "prompt": [
+    41,
+    "1001c02e-c38f-482e-8243-7ab50b1544d6",
+    {
+      "1": {
+        "class_type": "UNETLoader",
+        "inputs": {
+          "unet_name": "minimax_h3_fl2va_pruned_fp8_scaled.safetensors",
+          "weight_dtype": "default"
+        }
+      },
+      "2": {
+        "class_type": "MiniMaxH3MemoryEfficientSageAttentionPatch",
+        "inputs": {
+          "model": [
+            "1",
+            0
+          ]
+        }
+      },
+      "3": {
+        "class_type": "LoraLoaderModelOnly",
+        "inputs": {
+          "model": [
+            "2",
+            0
+          ],
+          "lora_name": "minimax_h3_fl2v_turbo_8step_v1.0_768p_comfyui_bf16.safetensors",
+          "strength_model": 1.0
+        }
+      },
+      "4": {
+        "class_type": "CLIPLoader",
+        "inputs": {
+          "clip_name": "qwen3vl_32b_minimax_h3_int8_convrot.safetensors",
+          "type": "minimax",
+          "device": "default"
+        }
+      },
+      "5": {
+        "class_type": "VAELoader",
+        "inputs": {
+          "vae_name": "minimax_h3_video_vae_fp16.safetensors"
+        }
+      },
+      "6": {
+        "class_type": "VAELoader",
+        "inputs": {
+          "vae_name": "minimax_h3_audio_vae_fp32.safetensors"
+        }
+      },
+      "7": {
+        "class_type": "LoadImage",
+        "inputs": {
+          "image": "Baimifan_v032_047_key.png"
+        }
+      },
+      "8": {
+        "class_type": "MiniMaxH3DirectorGroupImageToVideo",
+        "inputs": {
+          "prompt": "Animate this exact hand-drawn 2D Japanese anime frame. Preserve ink outlines, hard-edged cel shading, flat matte skin, broad hair locks and painted gothic backgrounds throughout. Preserve identities, clothing, number of characters and established scenery. Intentional animation with anticipation, force, follow-through and settle; no loop, CGI, extra limbs, character morphing, unrelated cut, orbit or unmotivated zoom. The amber projectile travels from the priest at screen right toward the girl at screen left. Before it reaches the girl, the narrow blue water strike enters from screen left and collides with the amber projectile in CLEAR EMPTY AIR to the right of her silhouette, at least one head width away. On contact both attacks break into a compact splash of blue water and fading amber fragments. The girl flinches once with eyes closed; the acolyte recoils and starts loosening his hand. Her body is never struck or obscured by the collision, the splash stays local, the altar fire remains burning. Fixed camera, one collision only, strong drawn impact silhouette then fast dissipation.",
+          "duration_sec": 2.5,
+          "first_frame": [
+            "7",
+            0
+          ]
+        }
+      },
+      "12": {
+        "class_type": "MiniMaxH3Director",
+        "inputs": {
+          "model": [
+            "3",
+            0
+          ],
+          "video_vae": [
+            "5",
+            0
+          ],
+          "audio_vae": [
+            "6",
+            0
+          ],
+          "clip": [
+            "4",
+            0
+          ],
+          "task_type": "i2v — 图生视频(Image to Video)",
+          "global_prompt": "Animate this exact hand-drawn 2D Japanese anime frame. Preserve ink outlines, hard-edged cel shading, flat matte skin, broad hair locks and painted gothic backgrounds throughout. Preserve identities, clothing, number of characters and established scenery. Intentional animation with anticipation, force, follow-through and settle; no loop, CGI, extra limbs, character morphing, unrelated cut, orbit or unmotivated zoom. The amber projectile travels from the priest at screen right toward the girl at screen left. Before it reaches the girl, the narrow blue water strike enters from screen left and collides with the amber projectile in CLEAR EMPTY AIR to the right of her silhouette, at least one head width away. On contact both attacks break into a compact splash of blue water and fading amber fragments. The girl flinches once with eyes closed; the acolyte recoils and starts loosening his hand. Her body is never struck or obscured by the collision, the splash stays local, the altar fire remains burning. Fixed camera, one collision only, strong drawn impact silhouette then fast dissipation.",
+          "bd_grp_sample": "采样设置",
+          "cfg": 1.0,
+          "seed": 202610303504,
+          "frame_rate": 24.0,
+          "width": 1344,
+          "height": 768,
+          "ref_max_size": 1344,
+          "total_frames": 60,
+          "timeline_data": "{\"output\": {\"mode\": \"fixed\", \"width\": 1344, \"height\": 768, \"audioMode\": \"generate\", \"exportMode\": \"all\", \"continuityEnabled\": false}}",
+          "i2v_groups": [
+            "8",
+            0
+          ],
+          "steps": 8,
+          "sampler": "euler",
+          "scheduler": "simple",
+          "shift_video": 6.0,
+          "shift_audio": 3.0,
+          "clear_vram_between_segments": false,
+          "clear_vram_before_refine": false,
+          "clear_vram_before_face_refine": false,
+          "cache_frames_codec": "raw",
+          "export_source_images": false,
+          "export_pre_face_refine": false
+        }
+      },
+      "13": {
+        "class_type": "CreateVideo",
+        "inputs": {
+          "images": [
+            "12",
+            0
+          ],
+          "fps": [
+            "12",
+            2
+          ]
+        }
+      },
+      "14": {
+        "class_type": "SaveVideo",
+        "inputs": {
+          "video": [
+            "13",
+            0
+          ],
+          "filename_prefix": "Baimifan/v032/047-video-r1-no-upscale",
+          "format": "mp4",
+          "codec": "h264",
+          "format.codec": "h264"
+        }
+      }
+    },
+    {
+      "comfy_usage_source": "comfy-cli/pipe",
+      "client_id": "8f9ea89d-ebac-43d8-8411-95a54d351929",
+      "create_time": 1793342754854
+    },
+    [
+      "14"
+    ]
+  ],
+  "outputs": {
+    "14": {
+      "images": [
+        {
+          "filename": "047-video-r1-no-upscale_00001_.mp4",
+          "subfolder": "Baimifan\\v032",
+          "type": "output"
+        }
+      ],
+      "animated": [
+        true
+      ]
+    }
+  },
+  "status": {
+    "status_str": "success",
+    "completed": true,
+    "messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "1001c02e-c38f-482e-8243-7ab50b1544d6",
+          "timestamp": 1793342754855
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "prompt_id": "1001c02e-c38f-482e-8243-7ab50b1544d6",
+          "timestamp": 1793342754863
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "1001c02e-c38f-482e-8243-7ab50b1544d6",
+          "timestamp": 1793342808025
+        }
+      ]
+    ]
+  },
+  "meta": {
+    "14": {
+      "node_id": "14",
+      "display_node": "14",
+      "parent_node": null,
+      "real_node_id": "14"
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "batch_id": "GB016-2",
+  "node_id": "v-SRsE59Iaa1",
+  "quoted_credits": 70,
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-SRsE59Iaa1",
+    "node": {
+      "id": "v-SRsE59Iaa1",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第22批 · 小屋里的回应 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Mixed 1}} =ChatGPT四视图：同一人四角度，身份服饰保持\n{{Mixed 2}} =Gemini四视图：同一人四角度，身份服饰保持\n{{Mixed 3}} =构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，5秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–4s {{Mixed 3}} ；画内:ChatGPT、Gemini。合扇声收尾后明确切回闪中的另一地点，不声称两人当场走入小屋；书在开镜时已摊开。小屋双人中景从摊开的书与Gemini微微抬构图纳入桌旁GPT，随后保持两人同框完成呼名和回答。同一个双人镜内，GPT呼名，Gemini从已经摊开的书上抬眼回应。 声音:呼名、短停、回应完整留在本镜；室内灯火与纸页微响，不另切书页特写。 GPT在镜内0.1–1.08秒说完同一句日语；Gemini在镜内1.38–2.61秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0.1–1.08s ChatGPT 匹配口型:<d>[Japanese] ジェミニ。</d>；仅一次。\n1.38–2.61s Gemini 匹配口型:<d>[Japanese] 私も行く。</d>；仅一次。\n4–5s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-07HfqKjhJ7",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d74110bde0f98a0b44ed3c518d48eaea282c1a87.png",
+              "label": "CHAR-GPT-TURN-v001-h3-pad"
+            },
+            {
+              "nodeId": "i-CecC9uRF7p",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/43474b657c35a7e84369b01ca148c2018c10a860.png",
+              "label": "C06_Gemini-角色设定卡"
+            },
+            {
+              "nodeId": "i-mPf36fwkVE",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/bbab327b27cca706524774d9b9160b81c3e4682a.png",
+              "label": "CY026B-v033-r1"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 5
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-07HfqKjhJ7",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d74110bde0f98a0b44ed3c518d48eaea282c1a87.png",
+              "label": "CHAR-GPT-TURN-v001-h3-pad",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-CecC9uRF7p",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/43474b657c35a7e84369b01ca148c2018c10a860.png",
+              "label": "C06_Gemini-角色设定卡",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-mPf36fwkVE",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/bbab327b27cca706524774d9b9160b81c3e4682a.png",
+              "label": "CY026B-v033-r1",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-07HfqKjhJ7",
+            "i-CecC9uRF7p",
+            "i-mPf36fwkVE"
+          ],
+          "mixedListOrder": [
+            "i-07HfqKjhJ7",
+            "i-CecC9uRF7p",
+            "i-mPf36fwkVE"
+          ]
+        },
+        "_updatedAtMs": 1793121636000,
+        "_lastAppliedFullyAtMs": 1793121636000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        },
+        "taskInfo": {
+          "loading": true,
+          "taskId": "20261028012003685749236",
+          "status": 0,
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-SRsE59Iaa1",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793121646809
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805"
+        }
+      },
+      "position": {
+        "x": 5592,
+        "y": 5046
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-SRsE59Iaa1",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

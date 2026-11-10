@@ -1,0 +1,2989 @@
+{
+  "schema": "baimifan-script-excerpts-audit-v1",
+  "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+  "source_sha256": "ceaf6f38c7d4aa664d4a45db3a945a751cfcd69c7bc1a25a9e2108e891828b9a",
+  "mapping_policy": "Literal excerpts only. Narrative usage is independent of reused media generation shot IDs. Parent must validate against current native manuscript before attachment.",
+  "clips": [
+    {
+      "element_id": "b332ceb7-d22f-5fed-b848-663ef9d10dcc",
+      "name": "01_登阶与守卫放行.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S02",
+          "label": "登阶与宫门放行",
+          "quote": "暮色里，小鱼空着双手跑上宫殿外的长阶。紫色旗帜垂在高门两旁。\n\n两名白银盔甲、淡紫披风的圣骑士守在宫门，封闭头盔不露面容，各持一柄长枪。小鱼跑到长阶顶端，两柄枪交叉挡住去路。她急切地抬头。\n\n殿内传来仍侧躺在卧榻上的ChatGPT的声音。\n\n**GPT** · `VO-CY004D-01`\n\n> 通してあげて。\n\n中文回译：让她过去吧。\n\n圣骑士收起交叉的枪，将枪身竖直，退守门两侧。宫门向内打开，小鱼从让出的通道跑进去。",
+          "line_start": 79,
+          "line_end": 91,
+          "source_character_start": 2071,
+          "source_character_end_exclusive": 2283,
+          "paragraph_start": 35,
+          "paragraph_end_inclusive": 41,
+          "cue_ids": [
+            "VO-CY004D-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "e4e97ae3-93aa-5345-ac16-dd687e7f1336",
+      "name": "02_俯拍行进与亮灯.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S02",
+          "label": "跑入宫殿与环境",
+          "quote": "小鱼气喘吁吁地跑进来，已经顾不上带饭碗。\n\n高大的立柱尽头，横向对称的金色卧榻背靠殿尾短墙，正面朝着对端入口。ChatGPT独自侧躺其上，头在正面画面左侧、脚向右伸；自身右手托腮，右肘倚着靠垫，自身左手松松搭在淡紫座垫前缘。她的双翼有支撑地舒展，长尾沿腿边自然延伸。窗光和地面反射柔和，殿内只留下小鱼的脚步与喘息。 卧榻头端的小几上摆着翻开的几何手稿、圆规、透明多面体压纸和茶杯，旁边一盏扭转带状小灯泛着柔光；另一端的环仪与多面体安静陈列。殿内两侧的十二面体灯罩包着乳白灯芯，高处悬着少量倾斜椭圆金环，墙面交圆纹样与原有龙徽并存。中央长廊与台阶仍然畅通。",
+          "line_start": 93,
+          "line_end": 95,
+          "source_character_start": 2285,
+          "source_character_end_exclusive": 2562,
+          "paragraph_start": 42,
+          "paragraph_end_inclusive": 43,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "09491bae-db7c-5c40-8d1d-1fa3ba46bf22",
+      "name": "03_接小鱼与GPT对话.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S02",
+          "label": "求救、守约与追问",
+          "quote": "**小鱼** · `VO-CY006-01`\n\n> 今夜、クロードが焼かれちゃう。お願い、助けて。\n\n中文回译：今晚他们要烧死Claude。求你，救救她。\n\n听见小鱼说Claude会被烧死时，ChatGPT立即停止托腮。右手放下，左掌撑垫抬起上身；她看向台阶前喘息的小鱼。身上的闲适停住了，尚未站起。\n\n小鱼等着。暮光沿着地面缓缓移过两人之间的距离。\n\n她看了孩子一会儿，目光迟疑，却仍选择守住自己许下的约定。她认真回答，不是随意打发访客。\n\n**GPT** · `VO-CY007-01`\n\n> 教会には手を出さない。……そう約束したの。\n\n中文回译：我答应过，不干涉教会。\n\n**小鱼** · `VO-CY008-01`\n\n> でも……死んじゃうよ。\n\n中文回译：可是……她会死的。",
+          "line_start": 97,
+          "line_end": 119,
+          "source_character_start": 2564,
+          "source_character_end_exclusive": 2907,
+          "paragraph_start": 44,
+          "paragraph_end_inclusive": 55,
+          "cue_ids": [
+            "VO-CY006-01",
+            "VO-CY007-01",
+            "VO-CY008-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "c6bc30ec-10b0-5a09-b670-361c2fdf0f1a",
+      "name": "004_B05_v004_1282_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S02",
+          "label": "恶魔GPT提醒约定",
+          "quote": "切回GPT已经撑起身体的反应。她的目光微微停住，本体与王宫背景定格、柔和虚化；前景浮现天使与恶魔两只Q版GPT。两者保留同一白龙娘的辨识特征与本片画风，只有Q版分身继续活动。现实环境声退远，孩子仍在等待；不切成综艺空间，不让本体重新躺回去。\n\n恶魔GPT抱臂，压低声音短促提醒；天使GPT看向小鱼，再向本体发问。两句紧凑相接，不夸张打闹，不用笑声，不复述整件事。\n\n**恶魔GPT** · `VO-CY008M-01`\n\n> 協定を忘れないで。\n\n中文回译：别忘了协议。",
+          "line_start": 123,
+          "line_end": 131,
+          "source_character_start": 2927,
+          "source_character_end_exclusive": 3162,
+          "paragraph_start": 57,
+          "paragraph_end_inclusive": 61,
+          "cue_ids": [
+            "VO-CY008M-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "2478ed91-2aba-576a-b92c-9bb03edd4a2c",
+      "name": "005_B05_v004_1378_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S02",
+          "label": "天使GPT质问与等待",
+          "quote": "恶魔GPT抱臂，压低声音短促提醒；天使GPT看向小鱼，再向本体发问。两句紧凑相接，不夸张打闹，不用笑声，不复述整件事。\n\n**恶魔GPT** · `VO-CY008M-01`\n\n> 協定を忘れないで。\n\n中文回译：别忘了协议。\n\n**天使GPT** · `VO-CY008M-02`\n\n> それで、見殺しにするの？\n\n中文回译：所以，就眼看着她死吗？\n\n两只Q版GPT一起看向本体，等待回答。GPT尚未表态，不表现任何一方已经说服她，也不新增她与Claude是“好闺蜜”的关系设定。",
+          "line_start": 125,
+          "line_end": 139,
+          "source_character_start": 3049,
+          "source_character_end_exclusive": 3290,
+          "paragraph_start": 58,
+          "paragraph_end_inclusive": 65,
+          "cue_ids": [
+            "VO-CY008M-01",
+            "VO-CY008M-02"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "89cd072d-6358-56b0-990b-0292ae9d06b3",
+      "name": "006_小鱼背影回走入口_v020.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S02",
+          "label": "回答与转身离去",
+          "quote": "**小鱼** · `VO-CY009-01`\n\n> じゃあ、自分で行く。\n\n中文回译：那我自己去。\n\n小鱼这句从现实传来，开始时两只Q版GPT仍在等待。声音打断内心戏：Q版分身消失，背景恢复清晰与运动，切回小鱼。此句只说一次，不在切回后重复；新版配音尚未生成。\n\n小鱼已慢慢低下头，用袖口擦过脸；恢复现实后接她转身离去的动作，随后仍接GPT轻轻搓手、起身目送。\n\n她转过身，走向长殿尽头的出口，脚步声越来越远；她还没有走出宫门。",
+          "line_start": 141,
+          "line_end": 151,
+          "source_character_start": 3292,
+          "source_character_end_exclusive": 3506,
+          "paragraph_start": 66,
+          "paragraph_end_inclusive": 71,
+          "cue_ids": [
+            "VO-CY009-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "ef6323a7-55f1-50a2-96f7-5dc7a39ef508",
+      "name": "007_小鱼离开_逐灯熄灭_v019.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S02",
+          "label": "走向出口",
+          "quote": "她转过身，走向长殿尽头的出口，脚步声越来越远；她还没有走出宫门。\n\nChatGPT 仍看着门口。",
+          "line_start": 151,
+          "line_end": 153,
+          "source_character_start": 3474,
+          "source_character_end_exclusive": 3522,
+          "paragraph_start": 71,
+          "paragraph_end_inclusive": 72,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "13761f51-69cd-5a26-a68d-75a6c2a6803e",
+      "name": "009_离殿远景_灯光渐熄_v019.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S02",
+          "label": "离殿与目送",
+          "quote": "ChatGPT分开双手，以左掌撑垫，收腿落脚后站起。肩后近景随头肩升起，收翼与尾巴离垫连续完成。焦点落在长殿尽头的小鱼背影上。小鱼走出宫门，GPT站定目送；她尚未说出决定，也没有表现为从一开始便暗中答应。\n\n切入夜色，暂不展示她如何召集同伴。",
+          "line_start": 159,
+          "line_end": 161,
+          "source_character_start": 3604,
+          "source_character_end_exclusive": 3725,
+          "paragraph_start": 75,
+          "paragraph_end_inclusive": 76,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "2a6fc06c-20e1-574f-b3a0-1b9f43dac85f",
+      "name": "010_教徒退场通道清空_v022.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S03",
+          "label": "教徒取柴离堂",
+          "quote": "仪式尚未正式开始。侧院柴库传来召令，教徒们依仪式集体离堂，每人须取一根乌烬木再列队回堂。最后一盏提灯从侧门转过，脚步渐远。\n\n**教徒** · `VO-CY010A-01`\n\n> こくじんの薪を、一人一本持ってこい。\n\n中文回译：取乌烬木，一人一根。\n\n小鱼躲在教堂本体侧墙的阴影里，身边就是贴地的扁窄破洞，洞口低于蓬松鲸帽的自然高度。她等到最后一盏灯转入侧院，才挪到洞口。",
+          "line_start": 167,
+          "line_end": 175,
+          "source_character_start": 3779,
+          "source_character_end_exclusive": 3966,
+          "paragraph_start": 79,
+          "paragraph_end_inclusive": 83,
+          "cue_ids": [
+            "VO-CY010A-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "d6e2a056-ba67-57ea-94bf-6c5be884243c",
+      "name": "011_钻洞脱困_v022.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S03",
+          "label": "钻洞脱困",
+          "quote": "她扒开狗洞边的碎石，几乎贴着地面向里挤。石沿同时挤压帽顶和两侧，身体无法直接穿过。鲸鱼帽子的侧鳍被凸出的石沿挂住。小鱼卡在洞口，皱眉屏住呼吸，两只小手把软帽往下压，试着让侧鳍脱开。\n\n侧鳍在按压下脱开石沿，软帽仍被低矮洞顶压扁。她将头肩从同一左侧墙洞一点点挤入，双手撑住堂内地面，再把身体拖进来。",
+          "line_start": 177,
+          "line_end": 179,
+          "source_character_start": 3968,
+          "source_character_end_exclusive": 4116,
+          "paragraph_start": 84,
+          "paragraph_end_inclusive": 85,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "d12df1c8-c565-50af-ad52-e41435035f00",
+      "name": "012_继续爬入同画风_v022.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S03",
+          "label": "继续爬入",
+          "quote": "侧鳍在按压下脱开石沿，软帽仍被低矮洞顶压扁。她将头肩从同一左侧墙洞一点点挤入，双手撑住堂内地面，再把身体拖进来。\n\n她落在教堂内侧的地上，忍住声音，抬起头。",
+          "line_start": 179,
+          "line_end": 181,
+          "source_character_start": 4060,
+          "source_character_end_exclusive": 4138,
+          "paragraph_start": 85,
+          "paragraph_end_inclusive": 86,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "005f33ef-65f8-53db-9540-1ce0a2ba58f3",
+      "name": "013_B07_v004_2126_02.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S03",
+          "label": "空教堂与祭坛",
+          "quote": "十字架后方，两把深色木长椅靠着左右后墙，稳稳落在最高石台上；椅背上方各有一只单根壁挂烛台。中殿高处悬着一盏通透的环形烛式吊灯，中央通道敞开。\n\nClaude 低头看见远处的 小鱼，先是一怔，随即忧虑地轻轻摇头，示意她不要靠近。\n\n长椅间空无一人。教堂安静得只听见烛火的轻响。\n\n高处祭坛上，只剩 Claude 被固定在十字架上。铁钉将腕部束具钉入木架，腰前只有一道横链。Claude 赤足站在十字架竖柱固定的小木脚托上，脚踝各有锁链连向竖柱；脚托下方两侧只放预先铺好的低矮底柴，裙摆与脚趾没有埋进木柴。柴薪还没有点燃。中央长阶经缓台通向高处祭坛，Claude与祭架位于顶端平整平台；阶梯、缓台和栏杆沿用当前母版。\n\n长阶下、中、上各设一对低铜火盆，共六只；每对同高度、同进深、左右对称，中央通道留空。中殿高处悬挂一盏通透环形烛式吊灯；下段两侧对应石座各一支蜡烛。盆里盛着炭火，是献祭仪式的长明火源，与尚未点燃的十字架低柴分开。腰前只有一道横链和一枚竖向长方锁，两腕分别固定在横木上。",
+          "line_start": 183,
+          "line_end": 191,
+          "source_character_start": 4140,
+          "source_character_end_exclusive": 4581,
+          "paragraph_start": 87,
+          "paragraph_end_inclusive": 91,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "b35c2324-1130-5811-9418-d83b35441293",
+      "name": "014_B07_GB006_03.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S03",
+          "label": "走到祭坛",
+          "quote": "小鱼沿左侧阴影走到长阶，省略途中登阶，站到木架左侧的平整平台上。\n\n等她来到木架旁，Claude才压低声音开口。",
+          "line_start": 193,
+          "line_end": 195,
+          "source_character_start": 4583,
+          "source_character_end_exclusive": 4639,
+          "paragraph_start": 92,
+          "paragraph_end_inclusive": 93,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "344a818b-77f1-56dc-9f4d-9d29e52be426",
+      "name": "015_B08_GB007_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S03",
+          "label": "015_B08_GB007_01",
+          "quote": "等她来到木架旁，Claude才压低声音开口。\n\n**Claude** · `VO-CY015-01`\n\n> どうしてここに？\n\n中文回译：你怎么来了？\n\nClaude认出了街市上递饭的孩子，惊讶中带着担忧，并不是责问。\n\n小鱼指了指来时的方向，又指指她，露出一个努力让她安心的笑容。\n\n**小鱼** · `VO-CY015-02`\n\n> 迎えに来たの。\n\n中文回译：我来接你呀。",
+          "line_start": 195,
+          "line_end": 211,
+          "source_character_start": 4617,
+          "source_character_end_exclusive": 4806,
+          "paragraph_start": 93,
+          "paragraph_end_inclusive": 101,
+          "cue_ids": [
+            "VO-CY015-01",
+            "VO-CY015-02"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "975c4d58-8df8-5e26-923a-197e55b52a63",
+      "name": "016_B08_GB007_02.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S03",
+          "label": "016_B08_GB007_02",
+          "quote": "小鱼说完就伸手去够Claude腰前的锁，没有解释去过宫殿，也没有等待回应。\n\n小鱼踮起脚试着掰锁，扣锁纹丝不动。她改为握紧腰前横链往外拉，锁链撞上木架，发出清脆的响声。\n\n声音在空堂里回荡。没有人回应。",
+          "line_start": 213,
+          "line_end": 217,
+          "source_character_start": 4808,
+          "source_character_end_exclusive": 4909,
+          "paragraph_start": 102,
+          "paragraph_end_inclusive": 104,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "d7a391e6-6eb1-5f8b-9173-867b81a08129",
+      "name": "017_B08_GB007_03.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S03",
+          "label": "017_B08_GB007_03",
+          "quote": "小鱼踮起脚试着掰锁，扣锁纹丝不动。她改为握紧腰前横链往外拉，锁链撞上木架，发出清脆的响声。\n\n声音在空堂里回荡。没有人回应。\n\n小鱼换了一个站位，双脚踩稳平台，又试了一次。锁扣仍纹丝不动。",
+          "line_start": 215,
+          "line_end": 219,
+          "source_character_start": 4847,
+          "source_character_end_exclusive": 4941,
+          "paragraph_start": 103,
+          "paragraph_end_inclusive": 105,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "29aa1f8b-7624-542a-8ad4-2895cb83bdae",
+      "name": "018_B08_GB007_04.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S03",
+          "label": "018_B08_GB007_04",
+          "quote": "小鱼换了一个站位，双脚踩稳平台，又试了一次。锁扣仍纹丝不动。\n\n下段左侧石座上那支蜡烛，一滴烛泪沿旧蜡痕缓缓滑落，空堂里只剩烛芯的轻响。\n\n再回到两人时，小鱼的帽子已经歪了，额前的头发贴在脸上，手指发红；可锁链始终没有松开。\n\nClaude 低头望着她，眼中的担忧越来越重。小鱼缓了一口气，还想再试。",
+          "line_start": 219,
+          "line_end": 225,
+          "source_character_start": 4911,
+          "source_character_end_exclusive": 5061,
+          "paragraph_start": 105,
+          "paragraph_end_inclusive": 108,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "fb7745c0-3358-53c7-a442-a0c90e67bc68",
+      "name": "019_B09_GB008_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S03",
+          "label": "019_B09_GB008_01",
+          "quote": "下段左侧石座上那支蜡烛，一滴烛泪沿旧蜡痕缓缓滑落，空堂里只剩烛芯的轻响。\n\n再回到两人时，小鱼的帽子已经歪了，额前的头发贴在脸上，手指发红；可锁链始终没有松开。\n\nClaude 低头望着她，眼中的担忧越来越重。小鱼缓了一口气，还想再试。\n\n**Claude** · `VO-CY016A-01`\n\n> もういいから、早く逃げて。\n\n中文回译：已经够了，快逃吧。\n\n她看见小鱼在勉强自己，担心逐渐压过获救的希望。小鱼缓了一口气，仍盯着锁。\n\n**小鱼** · `VO-CY016A-02`\n\n> あと一回だけ。\n\n中文回译：再试一下。\n\n声音比刚才弱一些，她却又把手抬了起来。",
+          "line_start": 221,
+          "line_end": 241,
+          "source_character_start": 4943,
+          "source_character_end_exclusive": 5230,
+          "paragraph_start": 106,
+          "paragraph_end_inclusive": 116,
+          "cue_ids": [
+            "VO-CY016A-01",
+            "VO-CY016A-02"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "4f1eafe1-c5da-5a33-bb66-5fab904e7e0b",
+      "name": "020_B09_GB008_02.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S03",
+          "label": "020_B09_GB008_02",
+          "quote": "**Claude** · `VO-CY016A-01`\n\n> もういいから、早く逃げて。\n\n中文回译：已经够了，快逃吧。\n\n她看见小鱼在勉强自己，担心逐渐压过获救的希望。小鱼缓了一口气，仍盯着锁。\n\n**小鱼** · `VO-CY016A-02`\n\n> あと一回だけ。\n\n中文回译：再试一下。\n\n声音比刚才弱一些，她却又把手抬了起来。\n\n这时，门外传来熟悉的脚步、木头磕碰与低语。\n\n小小的手指还搭着没有打开的锁扣，忽然不动了。Claude 的瞳孔向门口偏去，担忧先于来人进入画面。",
+          "line_start": 227,
+          "line_end": 245,
+          "source_character_start": 5063,
+          "source_character_end_exclusive": 5304,
+          "paragraph_start": 109,
+          "paragraph_end_inclusive": 118,
+          "cue_ids": [
+            "VO-CY016A-01",
+            "VO-CY016A-02"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "eddfcdad-949c-513e-938e-248d36306418",
+      "name": "021_B09_GB008_03.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S03",
+          "label": "021_B09_GB008_03",
+          "quote": "这时，门外传来熟悉的脚步、木头磕碰与低语。\n\n小小的手指还搭着没有打开的锁扣，忽然不动了。Claude 的瞳孔向门口偏去，担忧先于来人进入画面。",
+          "line_start": 243,
+          "line_end": 245,
+          "source_character_start": 5232,
+          "source_character_end_exclusive": 5304,
+          "paragraph_start": 117,
+          "paragraph_end_inclusive": 118,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "f2bb95d6-8984-561a-a7d9-a8c5bab97296",
+      "name": "022_B09_GB008_04.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S03",
+          "label": "022_B09_GB008_04",
+          "quote": "小小的手指还搭着没有打开的锁扣，忽然不动了。Claude 的瞳孔向门口偏去，担忧先于来人进入画面。\n\n**Claude** · `VO-CY016B1-01`\n\n> 逃げて！\n\n中文回译：快走！\n\n这次短而急，声音仍压着，却已经藏不住害怕。",
+          "line_start": 245,
+          "line_end": 253,
+          "source_character_start": 5255,
+          "source_character_end_exclusive": 5375,
+          "paragraph_start": 118,
+          "paragraph_end_inclusive": 122,
+          "cue_ids": [
+            "VO-CY016B1-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "950ba682-6976-59b5-8157-e03950a7f71b",
+      "name": "023_B10_GB008R2_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S03",
+          "label": "023_B10_GB008R2_01",
+          "quote": "门被推开。取柴回来的教徒每人横抱一根粗黑色乌烬木，前列有人一臂托木、一手提灯，沿中央通道列队进入。他们看见了站在Claude身旁的小鱼。\n\n最前面的教徒停了一下。后面的黑袍抱着木头越过他，朝祭坛走来。小鱼来不及退回侧道，只能抓紧手里的锁链。",
+          "line_start": 255,
+          "line_end": 257,
+          "source_character_start": 5377,
+          "source_character_end_exclusive": 5497,
+          "paragraph_start": 123,
+          "paragraph_end_inclusive": 124,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "e5151671-0852-5c37-830b-7aa78d1c6e34",
+      "name": "024_B10_v008_3043.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S03",
+          "label": "024_B10_v008_3043",
+          "quote": "门被推开。取柴回来的教徒每人横抱一根粗黑色乌烬木，前列有人一臂托木、一手提灯，沿中央通道列队进入。他们看见了站在Claude身旁的小鱼。\n\n最前面的教徒停了一下。后面的黑袍抱着木头越过他，朝祭坛走来。小鱼来不及退回侧道，只能抓紧手里的锁链。\n\n## S04｜教堂祭坛·夜·内\n\n人物：小鱼、Claude、教主、黑袍教徒。\n\n最后一名教徒在队尾掩门落闩。小鱼松开没能打开的锁，急切地沿长阶冲到下端，双手抓住一名搬柴教徒怀中乌烬木伸出的那一端，想拦住他。",
+          "line_start": 255,
+          "line_end": 263,
+          "source_character_start": 5377,
+          "source_character_end_exclusive": 5602,
+          "paragraph_start": 123,
+          "paragraph_end_inclusive": 127,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "9c7a51df-577f-5b52-9f2f-e88c5c5499fe",
+      "name": "025_B10_v008_3085.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S04",
+          "label": "025_B10_v008_3085",
+          "quote": "最后一名教徒在队尾掩门落闩。小鱼松开没能打开的锁，急切地沿长阶冲到下端，双手抓住一名搬柴教徒怀中乌烬木伸出的那一端，想拦住他。\n\n教徒一臂抱稳木头，另一只手猛地推开小鱼。她先被推出重心，再半跪撑地，手仍朝木头伸着。教徒不看她，不等她站好；更多黑袍从她身旁挤过，搬柴没有中断。",
+          "line_start": 263,
+          "line_end": 265,
+          "source_character_start": 5539,
+          "source_character_end_exclusive": 5676,
+          "paragraph_start": 127,
+          "paragraph_end_inclusive": 128,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "51f567b8-4c44-586a-8fc4-33276a532e2d",
+      "name": "026_B11_v003_acolyte_force_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S04",
+          "label": "026_B11_v003_acolyte_force_01",
+          "quote": "最后一名教徒在队尾掩门落闩。小鱼松开没能打开的锁，急切地沿长阶冲到下端，双手抓住一名搬柴教徒怀中乌烬木伸出的那一端，想拦住他。\n\n教徒一臂抱稳木头，另一只手猛地推开小鱼。她先被推出重心，再半跪撑地，手仍朝木头伸着。教徒不看她，不等她站好；更多黑袍从她身旁挤过，搬柴没有中断。",
+          "line_start": 263,
+          "line_end": 265,
+          "source_character_start": 5539,
+          "source_character_end_exclusive": 5676,
+          "paragraph_start": 127,
+          "paragraph_end_inclusive": 128,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "8576f017-0e68-56f8-aeb3-c7abf9ca4ac9",
+      "name": "027_抽柴失衡撑地_v025.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S04",
+          "label": "阻拦失败与撑地",
+          "quote": "教徒一臂抱稳木头，另一只手猛地推开小鱼。她先被推出重心，再半跪撑地，手仍朝木头伸着。教徒不看她，不等她站好；更多黑袍从她身旁挤过，搬柴没有中断。\n\n祭坛上，一双黑金袍袖里的手把乌烬木横放下去。后一名教徒抱着下一根等在旁边。木头相继落下，先遮住固定脚托和脚踝，又沿白裙往上堆。\n\n小鱼想沿经过的靴子撑起身，伸手拦住另一人；对方一步挣脱，短促将她挤倒。重心丢失、触地和那只落空的手清楚相接，不再重复一轮抱腿拉扯。黑袍仍不停步，木头连续落在高处。",
+          "line_start": 265,
+          "line_end": 269,
+          "source_character_start": 5604,
+          "source_character_end_exclusive": 5824,
+          "paragraph_start": 128,
+          "paragraph_end_inclusive": 130,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。 v025采用动作是抽柴失衡；v0.69原文写推开，是可见版本差异，不改写摘录以伪造一致。"
+      ]
+    },
+    {
+      "element_id": "c5685a3d-0d56-50c9-9c23-27ae5c8b7d4c",
+      "name": "028_B11_GB009_02.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S04",
+          "label": "028_B11_GB009_02",
+          "quote": "小鱼想沿经过的靴子撑起身，伸手拦住另一人；对方一步挣脱，短促将她挤倒。重心丢失、触地和那只落空的手清楚相接，不再重复一轮抱腿拉扯。黑袍仍不停步，木头连续落在高处。",
+          "line_start": 269,
+          "line_end": 269,
+          "source_character_start": 5743,
+          "source_character_end_exclusive": 5824,
+          "paragraph_start": 130,
+          "paragraph_end_inclusive": 130,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "33e77a1b-5d9a-51e9-b740-b9c263feff3d",
+      "name": "029_B11_GB009_03.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S04",
+          "label": "029_B11_GB009_03",
+          "quote": "小鱼想沿经过的靴子撑起身，伸手拦住另一人；对方一步挣脱，短促将她挤倒。重心丢失、触地和那只落空的手清楚相接，不再重复一轮抱腿拉扯。黑袍仍不停步，木头连续落在高处。",
+          "line_start": 269,
+          "line_end": 269,
+          "source_character_start": 5743,
+          "source_character_end_exclusive": 5824,
+          "paragraph_start": 130,
+          "paragraph_end_inclusive": 130,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "b675ebda-b02e-5e14-98d7-b0451e4a5784",
+      "name": "030_B11_GB009_04.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S04",
+          "label": "030_B11_GB009_04",
+          "quote": "小鱼想沿经过的靴子撑起身，伸手拦住另一人；对方一步挣脱，短促将她挤倒。重心丢失、触地和那只落空的手清楚相接，不再重复一轮抱腿拉扯。黑袍仍不停步，木头连续落在高处。",
+          "line_start": 269,
+          "line_end": 269,
+          "source_character_start": 5743,
+          "source_character_end_exclusive": 5824,
+          "paragraph_start": 130,
+          "paragraph_end_inclusive": 130,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "736f2a69-2607-5c6f-9dae-828c45720fe0",
+      "name": "031_B12_GB010_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S04",
+          "label": "031_B12_GB010_01",
+          "quote": "祭坛上，一双黑金袍袖里的手把乌烬木横放下去。后一名教徒抱着下一根等在旁边。木头相继落下，先遮住固定脚托和脚踝，又沿白裙往上堆。\n\n小鱼想沿经过的靴子撑起身，伸手拦住另一人；对方一步挣脱，短促将她挤倒。重心丢失、触地和那只落空的手清楚相接，不再重复一轮抱腿拉扯。黑袍仍不停步，木头连续落在高处。\n\n最后一根乌烬木被放上去。低机位看，粗黑木堆一直压到Claude腰腹，把白裙下半部和固定脚托吞没；她的脸、胸口和受缚双臂还露在上方。教徒空手退下，所有柴尚未点燃。",
+          "line_start": 267,
+          "line_end": 271,
+          "source_character_start": 5678,
+          "source_character_end_exclusive": 5906,
+          "paragraph_start": 129,
+          "paragraph_end_inclusive": 131,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "84e709e4-4f7e-58c0-8fa4-df63c63a5525",
+      "name": "032_B12_v004_3478_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S04",
+          "label": "032_B12_v004_3478_01",
+          "quote": "机位贴在递火教徒肩侧：右手与火把在前景，父亲侧脸在中景，高处受缚Claude留成虚焦白色轮廓。接牢后一次短拉焦连接工具、父亲目光与女儿，不增加犹豫。\n\nClaude的父亲穿着教主礼服走到长阶下端。一名教徒递来唯一的仪式火把，杯口燃着黑芯、暗紫细边的火焰；教主右手接牢，抬头望向被高柴围住的Claude。固定火盆和蜡烛仍是普通暖色火，不随仪式火把变黑。\n\n**教主／Claude的父亲** · `VO-CY021A-01`\n\n> 我が娘よ、神がお待ちだ。\n\n中文回译：我的女儿，神明在等你。",
+          "line_start": 273,
+          "line_end": 281,
+          "source_character_start": 5908,
+          "source_character_end_exclusive": 6152,
+          "paragraph_start": 132,
+          "paragraph_end_inclusive": 136,
+          "cue_ids": [
+            "VO-CY021A-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "12c8d2b2-8e9b-544b-b24e-e25e592cf3ee",
+      "name": "033_B12_v004_3478_02.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S04",
+          "label": "033_B12_v004_3478_02",
+          "quote": "Claude的父亲穿着教主礼服走到长阶下端。一名教徒递来唯一的仪式火把，杯口燃着黑芯、暗紫细边的火焰；教主右手接牢，抬头望向被高柴围住的Claude。固定火盆和蜡烛仍是普通暖色火，不随仪式火把变黑。\n\n**教主／Claude的父亲** · `VO-CY021A-01`\n\n> 我が娘よ、神がお待ちだ。\n\n中文回译：我的女儿，神明在等你。",
+          "line_start": 275,
+          "line_end": 281,
+          "source_character_start": 5984,
+          "source_character_end_exclusive": 6152,
+          "paragraph_start": 133,
+          "paragraph_end_inclusive": 136,
+          "cue_ids": [
+            "VO-CY021A-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "691d8e17-a34e-5776-9133-e93c76a55af5",
+      "name": "034_B12_GB010_06.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S04",
+          "label": "034_B12_GB010_06",
+          "quote": "小鱼看见教主接过火把，双手撑地，踉跄站起来，重新挪到长阶下端中央，张开双臂挡住通往Claude的路。帽子歪了，腿在发抖，她用身体挡路，没有施放魔法。\n\n**教主／Claude的父亲** · `VO-CY019-01`\n\n> どけ。\n\n中文回译：让开。\n\n**小鱼** · `VO-CY019-02`\n\n> いや。\n\n中文回译：不要。\n\n教主习惯别人服从，命令短促。小鱼的拒绝也短，声音发颤，脚却没有退；张开的手臂仍挡着。",
+          "line_start": 283,
+          "line_end": 297,
+          "source_character_start": 6154,
+          "source_character_end_exclusive": 6364,
+          "paragraph_start": 137,
+          "paragraph_end_inclusive": 144,
+          "cue_ids": [
+            "VO-CY019-01",
+            "VO-CY019-02"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "bfbb864c-8a72-5552-82ac-60e8e5a7ed4f",
+      "name": "035_Claude二维制止_v029.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S04",
+          "label": "035_Claude二维制止_v029",
+          "quote": "教主一步步逼近小鱼。衣袍摩擦声压过她的喘息。画面留在 Claude 的脸上，她的目光随着下方的动静一次次移动。\n\n**Claude** · `VO-CY020-01`\n\n> その子に触らないで！\n\n中文回译：别碰那孩子！\n\n她猛然挣扎，木架与锁链一同震响。\n\n教主的身影压近，小鱼抬头却不退。逼近与推开的动作连着发生，不留一段嘴角轻蔑、身体放松的静止对视。Claude听见下方的脚步与喘息，锁链被她骤然绷紧。",
+          "line_start": 299,
+          "line_end": 309,
+          "source_character_start": 6366,
+          "source_character_end_exclusive": 6570,
+          "paragraph_start": 145,
+          "paragraph_end_inclusive": 150,
+          "cue_ids": [
+            "VO-CY020-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "6ae64ba7-797c-594d-bc92-d4457b8ff963",
+      "name": "036_B13_GB011-1_01_v004_keep.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S04",
+          "label": "逼近与推开上下文",
+          "quote": "教主的身影压近，小鱼抬头却不退。逼近与推开的动作连着发生，不留一段嘴角轻蔑、身体放松的静止对视。Claude听见下方的脚步与喘息，锁链被她骤然绷紧。\n\n承接逼近动作，切近阶下。教主左手从画边推开挡路的小鱼，右手仍持火；小鱼失衡倒向同一片地面。落地后她用手肘撑地，想再站起来，手臂却软下去，喘着气望向身旁教主的袍尾。现有静帧只表示倒地后的终态，推开起点与落地轨迹留待动态制作，不把静态对视误当成已经推过。",
+          "line_start": 309,
+          "line_end": 311,
+          "source_character_start": 6496,
+          "source_character_end_exclusive": 6697,
+          "paragraph_start": 150,
+          "paragraph_end_inclusive": 151,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "28ffa6b2-9a7a-55da-862b-83bf69c73b97",
+      "name": "037_小鱼推离撑地_二维_v030.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S04",
+          "label": "037_小鱼推离撑地_二维_v030",
+          "quote": "承接逼近动作，切近阶下。教主左手从画边推开挡路的小鱼，右手仍持火；小鱼失衡倒向同一片地面。落地后她用手肘撑地，想再站起来，手臂却软下去，喘着气望向身旁教主的袍尾。现有静帧只表示倒地后的终态，推开起点与落地轨迹留待动态制作，不把静态对视误当成已经推过。",
+          "line_start": 311,
+          "line_end": 311,
+          "source_character_start": 6572,
+          "source_character_end_exclusive": 6697,
+          "paragraph_start": 151,
+          "paragraph_end_inclusive": 151,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "f94c04cc-848c-52a4-91e0-7c874c84977b",
+      "name": "038_Claude二维恳求_v029.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S04",
+          "label": "038_Claude二维恳求_v029",
+          "quote": "Claude望着她，再看向父亲。\n\n**Claude** · `VO-CY021-01`\n\n> お父様……その子だけは、帰して。\n\n中文回译：父亲……至少让那孩子回去吧。\n\n声音比“别碰她”低下来；她试着叫住父亲，让他听进去。教主没有回答。",
+          "line_start": 313,
+          "line_end": 321,
+          "source_character_start": 6699,
+          "source_character_end_exclusive": 6819,
+          "paragraph_start": 152,
+          "paragraph_end_inclusive": 156,
+          "cue_ids": [
+            "VO-CY021-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "b9d8921b-85a6-5c07-988a-6e981240a730",
+      "name": "040_B14_v011_4004_0.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S04",
+          "label": "040_B14_v011_4004_0",
+          "quote": "贴近地面，只见小鱼的绒边袖口、前臂与小手攥紧教主黑金长袍的拖尾，衣料被拉出绷紧的褶皱。",
+          "line_start": 323,
+          "line_end": 323,
+          "source_character_start": 6821,
+          "source_character_end_exclusive": 6864,
+          "paragraph_start": 157,
+          "paragraph_end_inclusive": 157,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "47528ba2-812d-5763-879c-77927efe3f89",
+      "name": "041_小鱼脱手与点火_二维_v030.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S04",
+          "label": "抓袍脱手、登阶与点火",
+          "quote": "贴近地面，只见小鱼的绒边袖口、前臂与小手攥紧教主黑金长袍的拖尾，衣料被拉出绷紧的褶皱。\n\n贴地斜侧紧近景，延续小手攥住袍尾。最后一折布料从指尖滑过，小鱼试合一次却落空；半张脸与下垂小手留在画左，袍尾向画右离去。此镜不退成教堂全景，下一镜才交代登阶距离。\n\n教主继续迈步。教主右手持同一支黑焰仪式火把，向长阶迈步，衣角从小鱼手中滑脱；高处柴堆仍未燃。普通固定火盆、蜡烛火色不变。\n\n背后低机位沿长阶中轴望向Claude。教主右手握着同一支黑焰仪式火把，头、肩、骨盆及双脚都朝向最高祭坛，背对镜头一步一步上阶；不回头，不侧身偏向画面右侧。前脚踩上高一级石阶，后脚跟进，披风顺背向下拖曳。高处Claude直立受缚，腰腹以下仍陷在黑木堆里，小鱼留在下端。固定火盆与蜡烛仍是普通暖色火。\n\n近处，教主将右手黑焰火把压向高高堆起的乌烬木下侧。同一种黑芯暗紫细边的火舌从火把接入木缝，树脂裂隙亮起细小余烬，黑焰沿层叠乌烬木向上蔓延，不再先有橙色火头再变黑。教主收回同一支火把，返回长阶下段；高柴的黑焰迅速连成一片，卷向祭架中央。",
+          "line_start": 323,
+          "line_end": 331,
+          "source_character_start": 6821,
+          "source_character_end_exclusive": 7278,
+          "paragraph_start": 157,
+          "paragraph_end_inclusive": 161,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        },
+        {
+          "scene_id": "S04",
+          "label": "抓袍脱手、登阶与点火",
+          "quote": "黑焰猛地从下方卷起。切到火中的Claude面肩特写：前后火舌包围她，胸以下与部分肩袖被厚重黑焰遮住，脸从火隙中短暂显露。她咬牙、流泪，肩背向后绷紧，手腕被镣铐截住，漏出痛苦喘息；外袖蕾丝边和头纱尾端已经焦黑破损，面颊沾少量烟灰。没有皮肤灼毁的画面。\n\n吟唱逐渐增强，盖过木柴的爆裂声。\n\n镜头拉开到教堂大景。教徒围着长阶和祭坛吟唱，教主立在下段，小鱼倒在阶下。最高石台上的乌烬木已连成高耸翻卷的黑焰火海，Claude全身与面孔都被遮住，只偶尔露出十字架上端；火没有向教徒或楼梯扩散。普通火盆仍是橙色，群体吟唱压住火中喘息。",
+          "line_start": 335,
+          "line_end": 339,
+          "source_character_start": 7305,
+          "source_character_end_exclusive": 7566,
+          "paragraph_start": 163,
+          "paragraph_end_inclusive": 165,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "bf44bfef-95f4-5a9f-a021-4348bbf925bf",
+      "name": "042_阶下逼近_二维_v032.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S04",
+          "label": "042_阶下逼近_二维_v032",
+          "quote": "教主从阶上回到下层。小鱼望见火里的Claude，勉强撑起身，踉跄着再向阶上扑去；一名教徒从侧后扣住她的上臂，把她拦在低于教主的阶下位置，身体挡住向侧道逃开的路。她挣脱不了，脚在石面上乱蹭。没人围着她笑，也没人等她重新站好。\n\n教主把同一支黑焰火把交回身旁教徒。空出的右手抬起，掌心琥珀色火光旋紧、压成一束细而尖锐的术光，指向小鱼。短促蓄力让方向和目标清楚可见；不再加解释杀意的台词，不新增刀具。Claude在高处火中看见他转向孩子，挣动的锁链声被吟唱吞没。",
+          "line_start": 341,
+          "line_end": 343,
+          "source_character_start": 7568,
+          "source_character_end_exclusive": 7796,
+          "paragraph_start": 166,
+          "paragraph_end_inclusive": 167,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "6fcf275b-0a71-5dc4-9969-c885438c13df",
+      "name": "043_起身受制_二维_v032.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S04",
+          "label": "043_起身受制_二维_v032",
+          "quote": "教主从阶上回到下层。小鱼望见火里的Claude，勉强撑起身，踉跄着再向阶上扑去；一名教徒从侧后扣住她的上臂，把她拦在低于教主的阶下位置，身体挡住向侧道逃开的路。她挣脱不了，脚在石面上乱蹭。没人围着她笑，也没人等她重新站好。\n\n教主把同一支黑焰火把交回身旁教徒。空出的右手抬起，掌心琥珀色火光旋紧、压成一束细而尖锐的术光，指向小鱼。短促蓄力让方向和目标清楚可见；不再加解释杀意的台词，不新增刀具。Claude在高处火中看见他转向孩子，挣动的锁链声被吟唱吞没。\n\n交叉切到教堂外：紧闭正门与旗帜被风拉紧的一瞬预兆。白银淡紫圣骑士已经控制外院两侧通道，先遣同伴贴近正门；不展示完整列阵和逐个走过的裙摆。此时教主仍在聚力，攻击没有离掌。\n\n切回阶下，小鱼后退的肩碰上黑袍。术光在教主掌前压紧，手腕即将向前推出。",
+          "line_start": 341,
+          "line_end": 347,
+          "source_character_start": 7568,
+          "source_character_end_exclusive": 7919,
+          "paragraph_start": 166,
+          "paragraph_end_inclusive": 169,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "e7d77cd5-599c-55df-a004-71234ba40c97",
+      "name": "045_破门冲击_二维_v032.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "045_破门冲击_二维_v032",
+          "quote": "以下动作交叉剪成同一紧迫瞬间，不是让已发出的攻击停在半空等门打开：教主手腕前推，琥珀术光离掌；同一瞬间，GPT的脚撞裂正门。\n\n砰！\n\n门板裂口形成的刹那，GPT已经蓄好的窄水击从掌前穿过开口，沿阶下侧前方的净空斜线截向来袭术光。水击紧接破门声，两道力量立即在小鱼身前相撞；尖锐术光被截碎，余火向无人侧地熄散。GPT此时才收脚落稳，不插入亮相、站定或起手蓄法的等待。交汇点在孩子身体之外，水击不穿闭门、不先穿过孩子；高祭坛的黑焰仍在燃烧。",
+          "line_start": 353,
+          "line_end": 357,
+          "source_character_start": 8041,
+          "source_character_end_exclusive": 8260,
+          "paragraph_start": 172,
+          "paragraph_end_inclusive": 174,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "ba2ed1ac-db4c-5b41-82d9-6bbfe7104e79",
+      "name": "044_术光离掌_收紧_v032.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "044_术光离掌_收紧_v032",
+          "quote": "以下动作交叉剪成同一紧迫瞬间，不是让已发出的攻击停在半空等门打开：教主手腕前推，琥珀术光离掌；同一瞬间，GPT的脚撞裂正门。",
+          "line_start": 353,
+          "line_end": 353,
+          "source_character_start": 8041,
+          "source_character_end_exclusive": 8103,
+          "paragraph_start": 172,
+          "paragraph_end_inclusive": 172,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "45fd34fa-b3fa-524b-96a3-9917ad496ce2",
+      "name": "046_窄水击出手_二维_v032.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "046_窄水击出手_二维_v032",
+          "quote": "门板裂口形成的刹那，GPT已经蓄好的窄水击从掌前穿过开口，沿阶下侧前方的净空斜线截向来袭术光。水击紧接破门声，两道力量立即在小鱼身前相撞；尖锐术光被截碎，余火向无人侧地熄散。GPT此时才收脚落稳，不插入亮相、站定或起手蓄法的等待。交汇点在孩子身体之外，水击不穿闭门、不先穿过孩子；高祭坛的黑焰仍在燃烧。",
+          "line_start": 357,
+          "line_end": 357,
+          "source_character_start": 8109,
+          "source_character_end_exclusive": 8260,
+          "paragraph_start": 174,
+          "paragraph_end_inclusive": 174,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "0cfddf9f-9ca1-5bf8-a7e3-fe642c8e82ba",
+      "name": "047_身前截击_二维_v032.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "047_身前截击_二维_v032",
+          "quote": "门板裂口形成的刹那，GPT已经蓄好的窄水击从掌前穿过开口，沿阶下侧前方的净空斜线截向来袭术光。水击紧接破门声，两道力量立即在小鱼身前相撞；尖锐术光被截碎，余火向无人侧地熄散。GPT此时才收脚落稳，不插入亮相、站定或起手蓄法的等待。交汇点在孩子身体之外，水击不穿闭门、不先穿过孩子；高祭坛的黑焰仍在燃烧。",
+          "line_start": 357,
+          "line_end": 357,
+          "source_character_start": 8109,
+          "source_character_end_exclusive": 8260,
+          "paragraph_start": 174,
+          "paragraph_end_inclusive": 174,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "50a318f7-ab0c-5dce-87d0-6fd9aa01f035",
+      "name": "048_受惊反应_收紧_v032.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "048_受惊反应_收紧_v032",
+          "quote": "扣着小鱼的教徒被侧前方的溅水和局部冲击逼得缩手、侧身，力道不将孩子掀飞。千问紧随GPT切入，趁松脱的间隙拉开小鱼，与压住她的黑袍分离，再用左臂托起孩子，退到面向祭坛的右侧石柱内侧。她右手的折扇仍在，没有换抱或丢扇。",
+          "line_start": 359,
+          "line_end": 359,
+          "source_character_start": 8262,
+          "source_character_end_exclusive": 8369,
+          "paragraph_start": 175,
+          "paragraph_end_inclusive": 175,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "f9a15288-98c6-5020-8b8b-a48e624db0f5",
+      "name": "049a_低位抱起_二维_v032.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "抱离小鱼与退到柱内",
+          "quote": "扣着小鱼的教徒被侧前方的溅水和局部冲击逼得缩手、侧身，力道不将孩子掀飞。千问紧随GPT切入，趁松脱的间隙拉开小鱼，与压住她的黑袍分离，再用左臂托起孩子，退到面向祭坛的右侧石柱内侧。她右手的折扇仍在，没有换抱或丢扇。\n\n观众先看清小鱼从攻击线上脱险，再看清GPT跨过破门、目光锁住教主。水只在入口至阶下的交汇点留下少量溅痕，未形成洪水，没有浇灭祭坛高柴；GPT在本次拦截后立即收束水击。",
+          "line_start": 359,
+          "line_end": 361,
+          "source_character_start": 8262,
+          "source_character_end_exclusive": 8454,
+          "paragraph_start": 175,
+          "paragraph_end_inclusive": 176,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "2eaa9dce-eb03-57cd-81ff-721d8af5ac64",
+      "name": "050_教主回望_二维_v032.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "050_教主回望_二维_v032",
+          "quote": "千问已经抱着小鱼，收紧左臂回应；其他人挡住教徒向右侧石柱靠近的路线。破门救孩子的重音已经落下，教主转向入口，接后窗救Claude的行动。\n\n教主在长阶下段缓台转向正门，刚释放术光的右手收回，眉眼绷紧；附近黑袍教徒也被真正打断攻击的水击吸引。注意力留在正门，没有提前仰看后窗或云层。画外渐入Kimi的呼唤，先让观众听见声音，再切中央高窗揭示她的位置；教主不因此抢先发现后窗的人。",
+          "line_start": 373,
+          "line_end": 375,
+          "source_character_start": 8661,
+          "source_character_end_exclusive": 8849,
+          "paragraph_start": 182,
+          "paragraph_end_inclusive": 183,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "5a92d375-d528-5182-8ab4-ca841c7f82a5",
+      "name": "049b_退入柱后_二维_v032.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "抱离小鱼与退到柱内",
+          "quote": "扣着小鱼的教徒被侧前方的溅水和局部冲击逼得缩手、侧身，力道不将孩子掀飞。千问紧随GPT切入，趁松脱的间隙拉开小鱼，与压住她的黑袍分离，再用左臂托起孩子，退到面向祭坛的右侧石柱内侧。她右手的折扇仍在，没有换抱或丢扇。\n\n观众先看清小鱼从攻击线上脱险，再看清GPT跨过破门、目光锁住教主。水只在入口至阶下的交汇点留下少量溅痕，未形成洪水，没有浇灭祭坛高柴；GPT在本次拦截后立即收束水击。",
+          "line_start": 359,
+          "line_end": 361,
+          "source_character_start": 8262,
+          "source_character_end_exclusive": 8454,
+          "paragraph_start": 175,
+          "paragraph_end_inclusive": 176,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "9b5aa81e-1ba0-52c0-9370-760b6660e1a5",
+      "name": "051_B18_GB014A_01_v004_keep.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "051_B18_GB014A_01_v004_keep",
+          "quote": "切到教堂正后中央高窗外，摄影机退到Kimi将显形位置的正后方。完整蓝色尖拱彩窗正对镜头，高墙与扶壁压住画面两侧；人物最终仅占画高约一半，头饰至靴尖完整可见。窗前先无人形，银白月光从镜头左后侧流入，放缓、折回汇聚，勾出背对镜头的轮廓；头发与肩背先凝实，裙摆、双腿和双刃由相连光丝逐步形成，背景仍可从未凝实处看见。不能以整个人透明度淡入代替。显形动作完成后，Kimi完整悬停，脸正朝玻璃，不回头，左手明刃与右手暗刃低持，长发裙摆轻向画面左侧飘动。月光来自镜头后方偏左，实月不入画；没有黑烟、月环或传送门。摄影机沿正后轴线缓慢前移少许，到身形凝实即收停，全程保持远景比例与完整窗框；玻璃和拱顶完好，不提前举刃或破窗。",
+          "line_start": 383,
+          "line_end": 383,
+          "source_character_start": 8914,
+          "source_character_end_exclusive": 9219,
+          "paragraph_start": 187,
+          "paragraph_end_inclusive": 187,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "393b9d04-2401-59f0-bd21-cbab136ba95d",
+      "name": "052_B18_v004_5018_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "052_B18_v004_5018_01",
+          "quote": "承接窗外全身显形，由正后远景切到既有窗外斜侧半身近景：摄影机切位，Kimi身体与目光始终朝向同一面玻璃，不为展示脸而转身，中央彩窗的完整玻璃与石框留在画面右缘。她清晰可见地望向窗内，左手将小尺寸明刃抬到肩旁，右暗刃仍低持；长发向同一方向飘动，不再隔着玻璃显示模糊影子。她说出完整请求句，末尾留半拍，左臂随后朝右前方甩出明刃，接下一镜从殿内看明刃破窗。Kimi本人仍在窗外，双刃左右手不交换；此刻不出现护罩、阵纹或额外月环。\n\n**Kimi** · `VO-CY024K0-01`\n\n> この刃を標に、道を開け。\n\n中文回译：以这把刀为路标，开出一条路。\n\n说得平稳而紧凑。前一句呼唤古老意志，这一句请求开路；明刃的银光随举臂压紧，投掷之前能看清蓄力。千问此刻已抱着小鱼退到柱内；Kimi从后窗救Claude，衔接正门刚完成的救命动作。",
+          "line_start": 385,
+          "line_end": 393,
+          "source_character_start": 9221,
+          "source_character_end_exclusive": 9588,
+          "paragraph_start": 188,
+          "paragraph_end_inclusive": 192,
+          "cue_ids": [
+            "VO-CY024K0-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "b9ae2074-54ac-51ef-b53a-372a3db4f0f1",
+      "name": "053_B18_v004_5018_03.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "053_B18_v004_5018_03",
+          "quote": "承接窗外全身显形，由正后远景切到既有窗外斜侧半身近景：摄影机切位，Kimi身体与目光始终朝向同一面玻璃，不为展示脸而转身，中央彩窗的完整玻璃与石框留在画面右缘。她清晰可见地望向窗内，左手将小尺寸明刃抬到肩旁，右暗刃仍低持；长发向同一方向飘动，不再隔着玻璃显示模糊影子。她说出完整请求句，末尾留半拍，左臂随后朝右前方甩出明刃，接下一镜从殿内看明刃破窗。Kimi本人仍在窗外，双刃左右手不交换；此刻不出现护罩、阵纹或额外月环。\n\n**Kimi** · `VO-CY024K0-01`\n\n> この刃を標に、道を開け。\n\n中文回译：以这把刀为路标，开出一条路。\n\n说得平稳而紧凑。前一句呼唤古老意志，这一句请求开路；明刃的银光随举臂压紧，投掷之前能看清蓄力。千问此刻已抱着小鱼退到柱内；Kimi从后窗救Claude，衔接正门刚完成的救命动作。",
+          "line_start": 385,
+          "line_end": 393,
+          "source_character_start": 9221,
+          "source_character_end_exclusive": 9588,
+          "paragraph_start": 188,
+          "paragraph_end_inclusive": 192,
+          "cue_ids": [
+            "VO-CY024K0-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "36a69736-bb9f-5d93-be81-a6b0af2815de",
+      "name": "054_B19_GB015-1_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "054_B19_GB015-1_01",
+          "quote": "切中央彩窗的近距离特写。Kimi从窗外甩出的明刃斜向下撞入玻璃，刀锋先顶裂受力点，窗棂局部折断，厚蓝玻璃沿放射裂纹炸开。近处碎片冲过镜头形成速度与纵深，明刃穿过宽阔纵向破口飞向柴堆外缘；外石框和下部窗棂保留，左右窗完整。Kimi本人不穿窗，玻璃随后落在祭架后方与后墙边，避开Claude。",
+          "line_start": 395,
+          "line_end": 395,
+          "source_character_start": 9590,
+          "source_character_end_exclusive": 9734,
+          "paragraph_start": 193,
+          "paragraph_end_inclusive": 193,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "cf89e525-67b5-5e20-99be-9adfb7eac2ab",
+      "name": "055_B19_GB015-1_02.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "055_B19_GB015-1_02",
+          "quote": "明刃下尖钉入柴堆前侧外缘的一根乌烬木，木纤维裂开。接触点的银光短促亮起，刀已稳稳留在木上，Kimi才从画外报出术名“月影渡”。镜末银光收拢，接她沿坐标瞬移现身；刀不插地、不展开护罩，高柴仍燃烧。画面此刻还没有Kimi实体。\n\n**Kimi** · `VO-CY024K1A-01`\n\n> 月影渡り！\n\n中文回译：月影渡！",
+          "line_start": 397,
+          "line_end": 403,
+          "source_character_start": 9736,
+          "source_character_end_exclusive": 9896,
+          "paragraph_start": 194,
+          "paragraph_end_inclusive": 197,
+          "cue_ids": [
+            "VO-CY024K1A-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "7b3b2094-d704-5a2e-a331-7f8572d30c83",
+      "name": "056_B19_GB015-1_03.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "056_B19_GB015-1_03",
+          "quote": "银光一闪，Kimi在柴堆前侧外缘循明刃瞬移现身，左手握回明刃。她压低重心，气浪沿石面向两侧外下方爆开，将重柴成片推开；木头翻滚、刮地、撞击，Claude与祭架所在的中央保持平静。Kimi双脚落在腾出的石地上，右手暗刃朝外低垂，刀口远离Claude。此时尚未闭罩，残柴在两侧继续燃烧；Claude仍直立受缚，腕踝扣与固定脚托露出。身影只有少量消散的银色余光，不出现第二个身体。",
+          "line_start": 405,
+          "line_end": 405,
+          "source_character_start": 9898,
+          "source_character_end_exclusive": 10085,
+          "paragraph_start": 198,
+          "paragraph_end_inclusive": 198,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "cbdec171-768e-54e0-8c64-d150ef9fa9e1",
+      "name": "057_B19_GB015-1_04.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "057_B19_GB015-1_04",
+          "quote": "银光一闪，Kimi在柴堆前侧外缘循明刃瞬移现身，左手握回明刃。她压低重心，气浪沿石面向两侧外下方爆开，将重柴成片推开；木头翻滚、刮地、撞击，Claude与祭架所在的中央保持平静。Kimi双脚落在腾出的石地上，右手暗刃朝外低垂，刀口远离Claude。此时尚未闭罩，残柴在两侧继续燃烧；Claude仍直立受缚，腕踝扣与固定脚托露出。身影只有少量消散的银色余光，不出现第二个身体。\n\n柴堆被震开，祭坛两侧的黑金袍教徒转身围向中央。近景有人抬起空手，有人举杖，琥珀色火星在掌心和杖端收拢，攻击方向朝向后方Kimi与Claude。Kimi尚未闭罩，压低重心转向攻击者，右暗刃抬起，左明刃保持在身体外侧；Claude直立受缚，腕踝锁扣和固定脚托不变。人物分处散柴外侧通道与中央净空区，互不穿过火堆。",
+          "line_start": 405,
+          "line_end": 407,
+          "source_character_start": 9898,
+          "source_character_end_exclusive": 10241,
+          "paragraph_start": 198,
+          "paragraph_end_inclusive": 199,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "10a84793-db51-5d67-8ad7-b52225d6d5f2",
+      "name": "058_B19_GB015-1_05.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "058_B19_GB015-1_05",
+          "quote": "柴堆被震开，祭坛两侧的黑金袍教徒转身围向中央。近景有人抬起空手，有人举杖，琥珀色火星在掌心和杖端收拢，攻击方向朝向后方Kimi与Claude。Kimi尚未闭罩，压低重心转向攻击者，右暗刃抬起，左明刃保持在身体外侧；Claude直立受缚，腕踝锁扣和固定脚托不变。人物分处散柴外侧通道与中央净空区，互不穿过火堆。",
+          "line_start": 407,
+          "line_end": 407,
+          "source_character_start": 10087,
+          "source_character_end_exclusive": 10241,
+          "paragraph_start": 199,
+          "paragraph_end_inclusive": 199,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "3e05fa03-053f-5b6f-8af9-4baf44e5991f",
+      "name": "059_B20_v011_5245_0.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "059_B20_v011_5245_0",
+          "quote": "祭坛两侧教徒已经举手施法，琥珀色光束朝Kimi与Claude逼近。Kimi退到Claude身前，右手暗刃向上划弧，深靛暗月罩迅速闭合，完整包住两人、祭架和脚托。关键帧停在敌方法术撞上外壳、碎成短促火星的一刻，画面两侧仍看得到教徒的施法手和法杖，攻击方向明确。暗罩完全不透明，外面看不到人物或十字架。所有燃木留在罩外，罩面完整；罩施放后持续存在，Kimi可以收刃照顾Claude。此时GPT仅在阶下完成过一次局部拦截，尚未施展大规模水术，祭坛残柴仍燃。",
+          "line_start": 409,
+          "line_end": 409,
+          "source_character_start": 10243,
+          "source_character_end_exclusive": 10468,
+          "paragraph_start": 200,
+          "paragraph_end_inclusive": 200,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "8bc8bb5e-fd77-5134-94ac-6043dc2ffde6",
+      "name": "060_B20_v011_5277_1.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "060_B20_v011_5277_1",
+          "quote": "教主在长阶下段缓台转向正门，刚释放术光的右手收回，眉眼绷紧；附近黑袍教徒也被真正打断攻击的水击吸引。注意力留在正门，没有提前仰看后窗或云层。画外渐入Kimi的呼唤，先让观众听见声音，再切中央高窗揭示她的位置；教主不因此抢先发现后窗的人。",
+          "line_start": 375,
+          "line_end": 375,
+          "source_character_start": 8731,
+          "source_character_end_exclusive": 8849,
+          "paragraph_start": 183,
+          "paragraph_end_inclusive": 183,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "82a8b883-b4f4-521e-be50-870e072c0d57",
+      "name": "061_B20_v011_5289_2.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "061_B20_v011_5289_2",
+          "quote": "祭坛两侧教徒已经举手施法，琥珀色光束朝Kimi与Claude逼近。Kimi退到Claude身前，右手暗刃向上划弧，深靛暗月罩迅速闭合，完整包住两人、祭架和脚托。关键帧停在敌方法术撞上外壳、碎成短促火星的一刻，画面两侧仍看得到教徒的施法手和法杖，攻击方向明确。暗罩完全不透明，外面看不到人物或十字架。所有燃木留在罩外，罩面完整；罩施放后持续存在，Kimi可以收刃照顾Claude。此时GPT仅在阶下完成过一次局部拦截，尚未施展大规模水术，祭坛残柴仍燃。\n\n切入暗月罩内。Kimi从侧下方以右手暗刃轻试Claude腕镣接缝，腕扣细小紫纹反噬，Claude吃痛；她立即把刀退到自己外侧髋边，刃口朝外下，担忧地看锁扣。关键帧停在已经收刀的一刻。确认不能强拆后，她将一明一暗两刃扣回后腰，腾出双手照顾Claude；护罩保持。背景只见暗膜内侧，不透出教堂、烛火或窗。",
+          "line_start": 409,
+          "line_end": 411,
+          "source_character_start": 10243,
+          "source_character_end_exclusive": 10620,
+          "paragraph_start": 200,
+          "paragraph_end_inclusive": 201,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "75009a2b-be25-57c2-922c-725a5ab294b9",
+      "name": "062_B21_GB016-1_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "062_B21_GB016-1_01",
+          "quote": "切入暗月罩内。Kimi从侧下方以右手暗刃轻试Claude腕镣接缝，腕扣细小紫纹反噬，Claude吃痛；她立即把刀退到自己外侧髋边，刃口朝外下，担忧地看锁扣。关键帧停在已经收刀的一刻。确认不能强拆后，她将一明一暗两刃扣回后腰，腾出双手照顾Claude；护罩保持。背景只见暗膜内侧，不透出教堂、烛火或窗。\n\nAI先遣队越过门口后，预留的入口岗哨继续守住门外侧口，其余圣骑士从后方鱼贯入殿，沿两翼柱廊散开。中央主通道留给ChatGPT，岗哨与入殿队不是同一批人同时出现在两处。",
+          "line_start": 411,
+          "line_end": 413,
+          "source_character_start": 10470,
+          "source_character_end_exclusive": 10705,
+          "paragraph_start": 201,
+          "paragraph_end_inclusive": 202,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "7a652796-7d79-56ac-a6b6-3c7f5d8eeeb7",
+      "name": "063_B21_GB016-1_02.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "063_B21_GB016-1_02",
+          "quote": "由骑士跟进接入稍早的召集回闪。回闪是叙事插入，不计作现场继续焚烧的等待时间；现实中的Kimi保护已经开始。云宫画面上短暂出现“稍早”二字；此段发生在小鱼独自营救期间，GPT 此刻没有离开教堂。\n\n同一道窄窄的光门在不同地点接续出现，省去路程。ChatGPT 每次都亲自站到受邀者面前。\n\n云海环绕的宫殿，千问站在栏前，手中展开折扇。ChatGPT 从光门走来，与她相对。\n\n**GPT** · `VO-CY026A-01`\n\n> センモン、人助けに付き合って。\n\n中文回译：千问，陪我去救个人。\n\n千问看了她一眼。扇骨在她指间并拢，清脆的一声落在邀请之后。\n\n**千问** · `VO-CY026A1-01`\n\n> 行きましょう。\n\n中文回译：走吧。",
+          "line_start": 415,
+          "line_end": 433,
+          "source_character_start": 10707,
+          "source_character_end_exclusive": 11032,
+          "paragraph_start": 203,
+          "paragraph_end_inclusive": 212,
+          "cue_ids": [
+            "VO-CY026A-01",
+            "VO-CY026A1-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "d16cec29-0ef0-5cc0-b6fe-ddfb60b7db0e",
+      "name": "064_B22_GB016-2_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "064_B22_GB016-2_01",
+          "quote": "切到 Gemini 的小屋。暖灯照着书桌，窗外是夜色。ChatGPT 站在门边；Gemini 的书已经摊在桌上。她抬头迎上来人的视线，手停在书页边；回答与表情留在同一个双人画面里。\n\n**GPT** · `VO-CY026B-01`\n\n> ジェミニ。\n\n中文回译：Gemini。\n\n**Gemini** · `VO-CY026B-02`\n\n> 私も行く。\n\n中文回译：我也去。",
+          "line_start": 435,
+          "line_end": 447,
+          "source_character_start": 11034,
+          "source_character_end_exclusive": 11222,
+          "paragraph_start": 213,
+          "paragraph_end_inclusive": 219,
+          "cue_ids": [
+            "VO-CY026B-01",
+            "VO-CY026B-02"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "a8b77fe9-06fc-5f99-9056-d859354cc075",
+      "name": "065_B23_GB017_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "065_B23_GB017_01",
+          "quote": "切到 Grok 的火箭发射基地。高处的巨型火箭与支架立在夜色中，Grok 倚着巨斧，听见脚步后回身。\n\n**GPT** · `VO-CY026C-01`\n\n> グロック。\n\n中文回译：Grok。\n\n工业发射塔旁，钢架、储罐与管线延伸到远处。Grok 本就握着斧柄，她抬起下巴，嘴角一扬；回应落在同一个双人画面里。发射塔的红灯在远处闪着。\n\n**Grok** · `VO-CY026C-02`\n\n> もちろん。\n\n中文回译：当然。",
+          "line_start": 449,
+          "line_end": 463,
+          "source_character_start": 11224,
+          "source_character_end_exclusive": 11438,
+          "paragraph_start": 220,
+          "paragraph_end_inclusive": 227,
+          "cue_ids": [
+            "VO-CY026C-01",
+            "VO-CY026C-02"
+          ],
+          "literal_source_substring_verified": true
+        },
+        {
+          "scene_id": "S05",
+          "label": "065_B23_GB017_01",
+          "quote": "切到寂静月背。Kimi 靠在低矮的月石旁安眠，银白长发铺在深蓝裙边。ChatGPT 在光门前俯身，轻轻叫她。\n\n**GPT** · `VO-CY026D1-01`\n\n> キミ。クロードが危ない。\n\n中文回译：Kimi，Claude有危险。\n\nKimi听见声音，眼睑轻动，然后真正睁开。她用手肘撑起身体，银发从月石上滑落；视线先找声音，再落在俯身等她的GPT脸上。安眠、醒来、坐起和认出对方连成一个反应，不在切镜后重新闭眼，不直接跳成已经坐直的长谈。\n\nGPT等她清醒。没有路线交代，只有两人的目光相接。",
+          "line_start": 465,
+          "line_end": 475,
+          "source_character_start": 11440,
+          "source_character_end_exclusive": 11691,
+          "paragraph_start": 228,
+          "paragraph_end_inclusive": 233,
+          "cue_ids": [
+            "VO-CY026D1-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "619c84b3-e986-534f-91ba-cce794091abc",
+      "name": "066_B24_GB017R2_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "066_B24_GB017R2_01",
+          "quote": "切到寂静月背。Kimi 靠在低矮的月石旁安眠，银白长发铺在深蓝裙边。ChatGPT 在光门前俯身，轻轻叫她。\n\n**GPT** · `VO-CY026D1-01`\n\n> キミ。クロードが危ない。\n\n中文回译：Kimi，Claude有危险。\n\nKimi听见声音，眼睑轻动，然后真正睁开。她用手肘撑起身体，银发从月石上滑落；视线先找声音，再落在俯身等她的GPT脸上。安眠、醒来、坐起和认出对方连成一个反应，不在切镜后重新闭眼，不直接跳成已经坐直的长谈。\n\nGPT等她清醒。没有路线交代，只有两人的目光相接。\n\n**Kimi** · `VO-CY026D-02`\n\n> 任せて。\n\n中文回译：交给我。\n\nKimi答应后才收住困意，准备起身。不给再睡回去的动作，也不延长成说明救援计划的对话。",
+          "line_start": 465,
+          "line_end": 483,
+          "source_character_start": 11440,
+          "source_character_end_exclusive": 11782,
+          "paragraph_start": 228,
+          "paragraph_end_inclusive": 237,
+          "cue_ids": [
+            "VO-CY026D1-01",
+            "VO-CY026D-02"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "cd873c11-91b4-5f81-bd92-4d080c9048d2",
+      "name": "067_B25_v011_6075_0.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "067_B25_v011_6075_0",
+          "quote": "邀请声继续。画面进入同屏快闪：混元的红围巾被风带起，她抬眼回应；Llama 放下揉眼的手；智谱合上书；Mistral 提起佩剑；Perplexity 扶正眼镜，握紧法杖。五块画面从左至右依次亮起，前面的画面保留，最后短暂合成完整分屏。\n\n**GPT** · `VO-CY026E-01`\n\n> コンゲン、ラマ……みんな来て。\n\n中文回译：混元，Llama……都来。\n\n最后一声回应落下，硬切回教堂并恢复空旷的殿内回声。画面短暂标注“此刻”。此刻柴火仍燃，ChatGPT 准备施展沧龙天倾。\n\n从敞开的门内望向祭坛，ChatGPT沿中央通道前行；千问已在右侧柱内抱着小鱼，Kimi在最高祭坛维持覆盖两人与祭架的不透明暗月罩。回忆没有撤销已完成的救援，不能重新从地上抱起孩子。",
+          "line_start": 485,
+          "line_end": 495,
+          "source_character_start": 11784,
+          "source_character_end_exclusive": 12120,
+          "paragraph_start": 238,
+          "paragraph_end_inclusive": 243,
+          "cue_ids": [
+            "VO-CY026E-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "9f8b5f19-6eba-5edb-b9f0-978b3f1804a1",
+      "name": "068_B25_v011_6117_1.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "068_B25_v011_6117_1",
+          "quote": "回闪结束，回到此刻的教堂。切千问与小鱼的双人近景，两人的脸和承托动作清楚可见。千问已退到右侧石柱内侧，用左臂将小鱼托稳、稍稍收紧抱持，右手在腰侧握着尚未打开的折扇。她低头看着孩子，轻声说：\n\n**千问** · `VO-CY024A0-01`\n\n> つかまって。\n\n中文回译：抱紧我。\n\n小鱼攥紧千问的衣襟，向她靠过去。千问随后抬眼望向画外的GPT。近旁圣骑士护住柱外，Kimi在最高祭坛持续保护Claude。大规模水术尚未释放；入口至阶下交汇点保留初次拦截的局部溅痕，其他地面与衣发不因这一击整体湿透。",
+          "line_start": 497,
+          "line_end": 505,
+          "source_character_start": 12122,
+          "source_character_end_exclusive": 12373,
+          "paragraph_start": 244,
+          "paragraph_end_inclusive": 248,
+          "cue_ids": [
+            "VO-CY024A0-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "f903d455-749f-5bcc-9665-78e3cf118f22",
+      "name": "069_B25_v011_6171_2.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "069_B25_v011_6171_2",
+          "quote": "镜头转向ChatGPT，由低机位全身景随她上升：背后的两片淡紫白色膜翼展开，一次有力的向下扇动扬起尘埃，裙摆与长发随风抬起，双脚清楚离地。她升到完整穹顶下方，避开中央吊灯与拱肋，停在靠入口、主落水区侧前方的高处。殿内潮湿空气凝成大小水珠，从低处和柱边缓缓向上漂浮，绕过振翼的气流，在她身前、身后形成疏密不同的纵深；不是雨向下落，也不从地板抽水。振翼转为缓慢稳定的悬停后，她才抬掌起咏。",
+          "line_start": 507,
+          "line_end": 507,
+          "source_character_start": 12375,
+          "source_character_end_exclusive": 12567,
+          "paragraph_start": 249,
+          "paragraph_end_inclusive": 249,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "5ac74d4f-f4a8-5858-a2b1-2e2fe773cf4a",
+      "name": "070_B26_v011_6273_3.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "070_B26_v011_6273_3",
+          "quote": "镜头转向ChatGPT，由低机位全身景随她上升：背后的两片淡紫白色膜翼展开，一次有力的向下扇动扬起尘埃，裙摆与长发随风抬起，双脚清楚离地。她升到完整穹顶下方，避开中央吊灯与拱肋，停在靠入口、主落水区侧前方的高处。殿内潮湿空气凝成大小水珠，从低处和柱边缓缓向上漂浮，绕过振翼的气流，在她身前、身后形成疏密不同的纵深；不是雨向下落，也不从地板抽水。振翼转为缓慢稳定的悬停后，她才抬掌起咏。\n\n**GPT** · `VO-CY024A-01`\n\n> 清き水の主よ。\n\n中文回译：纯水之主啊。\n\n教主仍在下段中央缓台，刚才攻击小鱼的术光已被截散。他重新收拢掌力，抬臂瞄准高处GPT，展开第二次攻击。低机位贴近他的右臂和侧脸，右肩带动手臂向左上方猛然推出，左臂后收稳住重心，黑金袍摆被发力带起。一枚暗金术矛从掌前迸出，掌根近处有厚实的短促压光，矛体越远越收细，朝高处GPT疾射。攻击只有这一枚离手的实体化术光，不是不断供能的巨炮，也不增加多弹；后镜千问用单枚扇叶偏转它的侧面轨迹。他未变身、未开罩，屋顶此时完整。\n\nChatGPT接着短促唤水，声音跨过阻击切镜。句子说完后让法术与动作继续，不为了铺满画面而拖长音节。\n\n**GPT** · `VO-CY024A2-01`\n\n> 水よ、集え。\n\n中文回译：水啊，汇聚吧。",
+          "line_start": 507,
+          "line_end": 523,
+          "source_character_start": 12375,
+          "source_character_end_exclusive": 12929,
+          "paragraph_start": 249,
+          "paragraph_end_inclusive": 257,
+          "cue_ids": [
+            "VO-CY024A-01",
+            "VO-CY024A2-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "08988357-b2fd-58a0-8f72-b2260c41110f",
+      "name": "071_B26_v011_6327_4.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "071_B26_v011_6327_4",
+          "quote": "教主仍在下段中央缓台，刚才攻击小鱼的术光已被截散。他重新收拢掌力，抬臂瞄准高处GPT，展开第二次攻击。低机位贴近他的右臂和侧脸，右肩带动手臂向左上方猛然推出，左臂后收稳住重心，黑金袍摆被发力带起。一枚暗金术矛从掌前迸出，掌根近处有厚实的短促压光，矛体越远越收细，朝高处GPT疾射。攻击只有这一枚离手的实体化术光，不是不断供能的巨炮，也不增加多弹；后镜千问用单枚扇叶偏转它的侧面轨迹。他未变身、未开罩，屋顶此时完整。",
+          "line_start": 515,
+          "line_end": 515,
+          "source_character_start": 12619,
+          "source_character_end_exclusive": 12826,
+          "paragraph_start": 253,
+          "paragraph_end_inclusive": 253,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        },
+        {
+          "scene_id": "S05",
+          "label": "071_B26_v011_6327_4",
+          "quote": "切千问右手扇轴与外缘叶根的极近斜侧特写，沿扇骨贴近拍摄，扇面越过画框。拇指拨扣后，扇骨依次展开；青紫魔力从轴心沿既有金线亮起，汇向唯一外缘实体叶，冷光映亮指尖。蓝底花纹、细金刃和手柄仍清楚，光不覆盖整张扇面。\n\n外缘叶根卡扣解锁，叶尖微抬；同一枚狭长实体叶在镜末斜向上脱离，立即接伴飞。扇轴、柄与余扇始终留在右手，左臂画外持续托住小鱼，不换抱。轴扣、展开、叶扣松开、释放连续完成；准确镜长待预演，法术嗡鸣避让GPT的短句。\n\n切刃尖侧前下方的贴近伴飞极特写。尖端在右上逼近镜头，方形叶尾向左下退远虚化；同一实体叶持续由左下向右上爬升。青紫薄光贴住金刃，短尾迹留在叶尾后方，原蓝底花纹可读。背景柱廊虚焦掠过，竖向参照保持，不滚转相机。此镜无敌方术矛或撞击，视觉上的短暂放慢不改变配音音高或拉长字音，咏唱结束后的余势交给声音与动作。\n\n切同轴约70度的侧面低机位撞击近景，比上一镜稍宽，留少量柱廊和高处石檐交代半空。扇叶左下至右上、暗金术矛右下至左上，两条上升轨迹交汇。接触瞬间恢复常速，青紫薄光在接触处压成小弧面，白青亮点及少量青紫光屑局部碎散；实体扇叶完整，术光偏折并向无人空处消散。碰撞失速后，叶片才落向空侧廊，不提前下坠、不复制光刃或多弹、不加巨大法阵。千问在画外合拢余扇收回胸侧，左臂始终未松开小鱼。\n\n教主收回被震偏的手，发现两侧骑士已经封住接近路线。掩护仍在画外持续，Kimi继续施法；教主转向判断头顶潮声，逐步改为自保，而不是原地等待。\n\n罩内，Kimi已经收好双刃，空手靠到Claude身前偏左，托住肩背，另一只手轻扶上臂，额侧贴近她的头。Claude仍直立受缚，双腕没有离开横木，只把头轻轻靠向Kimi的肩，缓下一口气。Kimi听向罩外教徒法术的闷响与远处潮声，同时继续托稳她；没有解锁，也没有将她抱离脚托。",
+          "line_start": 525,
+          "line_end": 535,
+          "source_character_start": 12931,
+          "source_character_end_exclusive": 13693,
+          "paragraph_start": 258,
+          "paragraph_end_inclusive": 263,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "18269ec3-2df9-5d76-aabc-6c54e3d5a697",
+      "name": "072_B26_v011_6447_5.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "072_B26_v011_6447_5",
+          "quote": "ChatGPT接着短促唤水，声音跨过阻击切镜。句子说完后让法术与动作继续，不为了铺满画面而拖长音节。\n\n**GPT** · `VO-CY024A2-01`\n\n> 水よ、集え。\n\n中文回译：水啊，汇聚吧。",
+          "line_start": 517,
+          "line_end": 523,
+          "source_character_start": 12828,
+          "source_character_end_exclusive": 12929,
+          "paragraph_start": 254,
+          "paragraph_end_inclusive": 257,
+          "cue_ids": [
+            "VO-CY024A2-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "fbba1765-f5a3-5525-a31a-1448d8064a1b",
+      "name": "073_B30_v011_6519_6.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "罩内安抚上下文",
+          "quote": "罩内，Kimi已经收好双刃，空手靠到Claude身前偏左，托住肩背，另一只手轻扶上臂，额侧贴近她的头。Claude仍直立受缚，双腕没有离开横木，只把头轻轻靠向Kimi的肩，缓下一口气。Kimi听向罩外教徒法术的闷响与远处潮声，同时继续托稳她；没有解锁，也没有将她抱离脚托。\n\nGPT唤水的短句已经结束，此处只留罩外的闷响、潮声和两人的呼吸，不重复起句。\n\nKimi轻轻拨开Claude额前汗湿的发丝，指尖拭去鬓侧汗水；另一只手拨开落在领侧的发梢，查看肩侧衣料焦损与可见皮肤。Claude疲惫地望向她，把头微微靠向触碰。检查不掀衣、不拉扯束具，腕扣仍锁着，焦损衣料没有恢复。暗膜内侧遮住全部外景，柔和冷光托出两人的表情。",
+          "line_start": 535,
+          "line_end": 539,
+          "source_character_start": 13557,
+          "source_character_end_exclusive": 13866,
+          "paragraph_start": 263,
+          "paragraph_end_inclusive": 265,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。 GB023较晚批次的罩内拥抱被提前复用，摘录选前段罩内安抚语境。"
+      ]
+    },
+    {
+      "element_id": "7d6e64b8-bdeb-5ac9-8a1d-68dff7d021ec",
+      "name": "074_B27_v011_6555_7.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "074_B27_v011_6555_7",
+          "quote": "切到教堂屋顶上方空气中的水珠特写。一颗较大的透明水珠轻轻颤动，被向上的力量拉长，又回弹；两三颗小水珠靠近、融入，接触处形成细小液桥。它晃动一下继续上升，背景更多微小水珠朝同一方向聚拢。水珠由高处水雾凝成，不从殿内地面抽水，也不是向下落的雨。月光与教堂尖塔在液面形成微小折射，云影逐渐遮住月色；云腹尚未释放水龙。\n\n**GPT** · `VO-CY024A3-01`\n\n> 雲の上に、海を成せ。\n\n中文回译：在云层之上，化作大海。",
+          "line_start": 541,
+          "line_end": 547,
+          "source_character_start": 13868,
+          "source_character_end_exclusive": 14082,
+          "paragraph_start": 266,
+          "paragraph_end_inclusive": 269,
+          "cue_ids": [
+            "VO-CY024A3-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "1032d85a-2cbd-5e50-8cb2-a0ad641f3d17",
+      "name": "075_B28_v011_6615_8.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "075_B28_v011_6615_8",
+          "quote": "切到教堂外低处，从地面仰拍中殿上空。完整尖塔与屋顶轮廓压在下缘，层层深蓝云壁向中心旋卷，上浮水珠融入云腹；云褶之间托住连续的深蓝水面，银色月光沿涟漪流动，仿佛整片海悬于夜空。水只在高空汇聚，没有闪电或发光法环。云心正对中央中殿，后殿不在破坏区。镜末水面向中心收拢，为下一镜水龙下行蓄势。",
+          "line_start": 549,
+          "line_end": 549,
+          "source_character_start": 14084,
+          "source_character_end_exclusive": 14227,
+          "paragraph_start": 270,
+          "paragraph_end_inclusive": 270,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "2e46fd7b-dca3-5cab-9c9d-20c6933f3e4f",
+      "name": "076_B26_v011_6723_9.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "076_B26_v011_6723_9",
+          "quote": "ChatGPT接着短促唤水，声音跨过阻击切镜。句子说完后让法术与动作继续，不为了铺满画面而拖长音节。\n\n**GPT** · `VO-CY024A2-01`\n\n> 水よ、集え。\n\n中文回译：水啊，汇聚吧。",
+          "line_start": 517,
+          "line_end": 523,
+          "source_character_start": 12828,
+          "source_character_end_exclusive": 12929,
+          "paragraph_start": 254,
+          "paragraph_end_inclusive": 257,
+          "cue_ids": [
+            "VO-CY024A2-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "e9aba92d-72fd-5836-8b0d-31db7b761425",
+      "name": "077_B29_v011_6765_10.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "077_B29_v011_6765_10",
+          "quote": "摄影机切到教堂上方，以陡俯视角随水龙从云腹向下。近处是水龙向下弯折的厚重长颈与龙首背面，远处尖塔、长条中殿屋脊和后殿构成高度参照。单一深蓝水龙从前景上方斜冲中央中殿屋顶，体躯有明显透视缩短，龙首先至、长身随后。镜末吻部撞上中殿指定位置，石瓦开裂形成第一处缺口；后殿屋顶与左右侧窗完整。水龙没有从手或地面生出。",
+          "line_start": 551,
+          "line_end": 551,
+          "source_character_start": 14229,
+          "source_character_end_exclusive": 14383,
+          "paragraph_start": 271,
+          "paragraph_end_inclusive": 271,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "eacf2d9a-cd19-5642-821f-c97af02d3da5",
+      "name": "078_B30_v011_6863_11.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "078_B30_v011_6863_11",
+          "quote": "承接俯视镜末的同一撞点，机位藏在中殿穹顶破口下沿，偏离水龙轴线，以超广角向上迎拍。龙首从左上远处猛冲向右下近处，鼻吻和下颌迅速放大并掠出画边，长颈缩向同一破口，保留龙眉与一只眼的清晰体积。近前景一块断拱石擦过画边，后层小碎石与粉尘沿冲势飞落，形成明确的近大远小；运动模糊集中于碎石边缘与背景，水首关键轮廓仍清楚。先听石材断裂，后见厚重水腹掠过机位；摄影机只在擦过瞬间短促受震，不持续乱抖。水龙进入中殿后转向GPT外侧，碎块落往无人侧廊，避开吊灯和友方。始终只有中央中殿同一个破口，后殿不受损；接Kimi与教主反应切镜，跨切完成回卷盘身。",
+          "line_start": 553,
+          "line_end": 553,
+          "source_character_start": 14385,
+          "source_character_end_exclusive": 14653,
+          "paragraph_start": 272,
+          "paragraph_end_inclusive": 272,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "0099962b-ec74-59b6-ad22-8490b42c8b3b",
+      "name": "079_B30_v011_6899_12.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "079_B30_v011_6899_12",
+          "quote": "Kimi在脚托旁蹲下，一只空手轻托Claude踝扣上方的小腿，另一只手查看外侧链环与锁扣连接，动作轻，不强拉、不解锁。Claude双腿垂直，双踝仍锁，赤足稳踩十字架立柱上的窄脚托。镜头带到Kimi专注的脸与双手，双刃收在后腰；衣裙自然垂落，原有白金纹样和黑色焦损保持。罩内石地净空，没有燃木和外界窗光。\n\n**GPT** · `VO-CY024A4-01`\n\n> 炎を鎮め、\n\n中文回译：平息烈焰，\n\n教主仍在下段中央缓台，听到破顶巨响，抬眼追踪已经入殿的水龙；眉眼绷紧，另一只手抬起准备护身。画外龙身经过高处投下流动的银蓝反光，脸侧仍有尚未扑灭的火盆暖光。这个近景不显示屋顶；中殿已破，后殿完整，教主衣袍只有阶下初击留下的少量溅痕，尚未被洪水浸透，暗金护罩尚未展开。GPT在反应切镜期间持续结印，水龙沿她身后外侧回卷。",
+          "line_start": 555,
+          "line_end": 563,
+          "source_character_start": 14655,
+          "source_character_end_exclusive": 15015,
+          "paragraph_start": 273,
+          "paragraph_end_inclusive": 277,
+          "cue_ids": [
+            "VO-CY024A4-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "bfb9b3bd-9cbe-5cfa-b517-450ff477744e",
+      "name": "080_B31_v011_6935_13.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "080_B31_v011_6935_13",
+          "quote": "切回正面略低的中远景。GPT悬空直立在构图中央，双翼舒展，双手在胸前结印：两手相扣、食指并拢竖起，手腕与肘部自然，面部与手势完整可见。水龙已经在她周围盘成宽松立体的一圈，后段高过翼背，近处前段低于膝部，体躯前粗后细、有透视缩短，不勒住人物。龙首停在画面右侧肩旁，三分之二侧面朝向前下方敌人，深蓝水腹有眉骨、吻部、下颌与转颈的体积，浪鬃沿脊背流动；不是实体冰龙或平面圆环。她不伸手抚龙，不反复指点。镜头缓慢靠近，接完「炎を鎮め、」后的连续祈愿再报术名；不把两半祈愿各拉成长停顿。术名之前音乐短暂让出重音。术名最后一字只完成蓄势，双手仍未解印，水龙仍盘在身边，没有提前攻击。\n\n**GPT** · `VO-CY024A5-01`\n\n> 罪なき者に、救いを――\n\n中文回译：让无辜之人，得到救赎——\n\n**GPT** · `VO-CY024A5-02`\n\n> 蒼龍天傾！\n\n中文回译：沧龙天倾！\n\n同侧动作轴切近至膝上，承接上一镜仍相扣的双手。GPT先抬眼锁定画外前下方的教主，双手分开，左手留在胸前，右肩带动右臂向前下方一次指出，食指伸出，其他手指自然收拢。指尖不喷水。水龙先转首响应，长颈随之扭转，后高前低的盘势舒展开，整条水龙向画面右前下方冲去。先有人物指令，后有水首响应；本镜只启动俯冲，不提前出现撞盾水花。",
+          "line_start": 565,
+          "line_end": 579,
+          "source_character_start": 15017,
+          "source_character_end_exclusive": 15572,
+          "paragraph_start": 278,
+          "paragraph_end_inclusive": 285,
+          "cue_ids": [
+            "VO-CY024A5-01",
+            "VO-CY024A5-02"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "3fd053bd-6967-55af-bfc9-1a61c4565180",
+      "name": "081_B32_v011_6983_14.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "081_B32_v011_6983_14",
+          "quote": "承接GPT一次前指，切到教主侧后方、护罩外的膝高低机位，保持水龙从左上冲向右下的屏幕方向。教主在右侧近前景以错步屈膝站稳，双臂上举撑住已经成形的暗金罩，仰头迎着压来的龙首；没有跪下或转身逃跑。巨大龙首从高处压入金罩左上弧面，鼻吻在直接接触处才碎成厚重白浪，眉骨、眼和后颈仍可辨，不留空隙、不张口吐水。金罩在同一接触点局部压平，金色纹路沿罩面扩开，放射水幕从接触区向画边掀出；教主外袍向后翻起，身体承压后移但尚未跌倒。后随水身继续冲入，画面下缘的余水沿两侧石阶冲散边缘教徒并扑灭残柴。GPT和最高祭坛此镜均在画外；友方暗月罩安稳，中央上层石阶允许浅水和低缓退浪，后续B3再交代整体安全空间。镜末水首完全散成浪，画外GPT收势停止补水，余水继续下行；不新增破口、不破侧窗，不让友方护罩承受水流。",
+          "line_start": 581,
+          "line_end": 581,
+          "source_character_start": 15574,
+          "source_character_end_exclusive": 15919,
+          "paragraph_start": 286,
+          "paragraph_end_inclusive": 286,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "646eb1f9-15ae-53ad-87f4-551f928f84aa",
+      "name": "082_B33_v011_7103_15.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "082_B33_v011_7103_15",
+          "quote": "镜头切到更低的外侧台阶，贴近水面斜拍汇向下方的余浪。前景一名黑金袍教徒身体被水推向下游，扭身伸手抓湿石沿，指尖刚刚滑脱；腰胸被厚水遮住，袍摆顺水拉开。中景另一人侧向失足，后景第三人转身抬手却来不及，前后位置和姿态错开，不再整齐排成一行。一根法杖脱手顺流打转，近前景浪头越过一级石阶，以深蓝水腹和局部白沫体现重量，人物不飞天。远处上层暗月罩边只有低缓浅水，近处较大的浪来自下层台阶汇流；不把上层罩边重新画成水墙。",
+          "line_start": 583,
+          "line_end": 583,
+          "source_character_start": 15921,
+          "source_character_end_exclusive": 16126,
+          "paragraph_start": 287,
+          "paragraph_end_inclusive": 287,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "32d1e26f-bc09-554a-901d-e89e8ab69940",
+      "name": "083_B33_v011_7181_16.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "083_B33_v011_7181_16",
+          "quote": "切祭坛左侧的斜侧高机位，暗月罩位于上层平台中后景，表面平静且完全不透明。水龙已经化散；罩边只剩湿石面上的浅水、细涟漪和低缓退浪，可以流到罩脚附近，不再刻意留干燥隔离带。少量余水沿两侧外阶向低处排走，在台阶落差处翻起小水花，没有围罩的高水墙，也不做左右完全对称的浪槽。普通灯火已灭，中央后窗保留破口，侧窗和后殿完整。护罩主要防教徒法术，GPT的主龙和高压冲击只指向敌方；此镜罩面不受冲撞、罩内仍平静。",
+          "line_start": 585,
+          "line_end": 585,
+          "source_character_start": 16128,
+          "source_character_end_exclusive": 16327,
+          "paragraph_start": 288,
+          "paragraph_end_inclusive": 288,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "c7f99f12-1f11-5607-ba3e-d5652953f832",
+      "name": "084_B33_v011_7229_17.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "084_B33_v011_7229_17",
+          "quote": "罩内只传来隔远的水声。外面的冲击已经结束，Claude听着渐远的余水声，疲惫地靠近Kimi；Kimi一只空手轻扶她的后脑，另一臂托住肩背与上臂，额侧贴近，以安稳的神情让她慢慢松下紧张。Claude仍直立受缚，双腕固定在横木，双踝与脚托没有变化；双刃都已收在Kimi后腰。暗膜内侧平静、不透明，没有水压凹痕、应力闪光或外景。Kimi不用手撑墙，也没有对抗GPT法术的吃力表情。",
+          "line_start": 587,
+          "line_end": 587,
+          "source_character_start": 16329,
+          "source_character_end_exclusive": 16516,
+          "paragraph_start": 289,
+          "paragraph_end_inclusive": 289,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "97cb97a4-ef2d-5424-ae5f-757e5d483fc4",
+      "name": "085_B33_v011_7253_18.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "085_B33_v011_7253_18",
+          "quote": "沧龙天倾已经收势，龙形化散，上方供水停下；云旋松散，月光重新透下。洪水沿敞开的正门与两侧通道排走，石地上只剩流动浅水。湿黑柴堆和火盆冒着水汽。所有烛芯湿黑，烛焰及暖色倒影消失；破碎中殿穹顶与彩窗透入银蓝月光，照亮人物和湿地。后殿仍由彩窗透光，不增加新的破顶。教主仍在原位，暗金护罩逐渐消散；ChatGPT从入口侧高处缓缓下降，膜翼轻振制动，一只鞋尖先点入浅水、荡开小圈涟漪，另一只脚随之落稳；她收拢双翼，再从入口方向走近，在破碎穹顶正下方与他对视。远处多段长阶通向高祭坛，Claude仍在最高平台。千问仍在教主侧旁的柱边抱护小鱼，Claude 尚未解锁。",
+          "line_start": 589,
+          "line_end": 589,
+          "source_character_start": 16518,
+          "source_character_end_exclusive": 16795,
+          "paragraph_start": 290,
+          "paragraph_end_inclusive": 290,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "94440c8e-1220-5819-b43d-8eda1e2af2e4",
+      "name": "086_B34_GB024_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "086_B34_GB024_01",
+          "quote": "教主拦住通往祭坛的路。他看着 ChatGPT，声音压低。\n\n**教主／Claude的父亲** · `VO-CY027A-01`\n\n> 不干渉条約を破ったな。\n\n中文回译：你违反了互不干涉条约。\n\nChatGPT 抬起眼睛，停了极短的一拍。\n\n**GPT** · `VO-CY027B-01`\n\n> うるさい。\n\n中文回译：吵死了。\n\n白紫水光裹住 ChatGPT，她沿同一轨迹腾起，人形轮廓连续转为白紫长身水龙。白角与紫鬃延展，衣褶与饰物在水光中消散转为鳞片；镜尾服装残形完全消失，画面只有她这一条完整龙，不并列完整人形与另一条召唤龙。\n\n教主离地升起，黑金羽翼在背后展开，进入人形鸦翼战斗态，面容仍然可辨。\n\n从湿石地面向上仰望，白紫水龙和黑金鸦翼教主沿高耸石柱之间拔地腾空，一前一后穿过中殿已经破开的穹顶。\n\n两人已经来到教堂上空。白紫水龙盘起长身，黑金鸦翼教主悬在对面，两道力量隔着夜空对峙。",
+          "line_start": 591,
+          "line_end": 613,
+          "source_character_start": 16797,
+          "source_character_end_exclusive": 17196,
+          "paragraph_start": 291,
+          "paragraph_end_inclusive": 302,
+          "cue_ids": [
+            "VO-CY027A-01",
+            "VO-CY027B-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "50bbb82a-5986-5c37-8025-43afb83c1484",
+      "name": "087_B35_GB025_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "087_B35_GB025_01",
+          "quote": "两人已经来到教堂上空。白紫水龙盘起长身，黑金鸦翼教主悬在对面，两道力量隔着夜空对峙。",
+          "line_start": 613,
+          "line_end": 613,
+          "source_character_start": 17154,
+          "source_character_end_exclusive": 17196,
+          "paragraph_start": 302,
+          "paragraph_end_inclusive": 302,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "cbe4b801-7072-511d-801e-c87c37d8f56a",
+      "name": "088_B35_GB025_02.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "仰望天空反应：复用画面",
+          "quote": "小鱼靠在千问怀里，疲倦地抬眼。蓝色眼睛中只映出白紫水龙腾空时模糊的光影，瞳孔仍清楚可见，泪光微微一颤。",
+          "line_start": 615,
+          "line_end": 615,
+          "source_character_start": 17198,
+          "source_character_end_exclusive": 17249,
+          "paragraph_start": 303,
+          "paragraph_end_inclusive": 303,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。 本段复用较晚生成的CY029E4画面；摘录按当前叙事用途定位，实际prompt仍保留该生成来源。"
+      ]
+    },
+    {
+      "element_id": "c9fcae3b-189e-5b74-86bf-ba68a0d307cb",
+      "name": "089_B35_GB025_03.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "089_B35_GB025_03",
+          "quote": "保留钟楼上方的天空特写。夜云被闪电照亮，雨逐渐落下，几声沉闷的雷响带过空中的激战。\n\n不展开双方的战斗招式。\n\n雨滴穿过中殿穹顶破口，打在湿石地板上，涟漪里晃过白紫和暗金闪光。雷声由远及近，又渐渐退去。",
+          "line_start": 617,
+          "line_end": 621,
+          "source_character_start": 17251,
+          "source_character_end_exclusive": 17352,
+          "paragraph_start": 304,
+          "paragraph_end_inclusive": 306,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "48a295be-ddc4-5470-9977-5a9c2ffa8d6d",
+      "name": "090_B35_GB025_04.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "090_B35_GB025_04",
+          "quote": "雨滴穿过中殿穹顶破口，打在湿石地板上，涟漪里晃过白紫和暗金闪光。雷声由远及近，又渐渐退去。\n\n正门外，外院和侧廊传来密集脚步。镜头从教堂门槛内向外望：两侧回廊里赶来的黑袍教徒在外院汇成半包围，逼近已被踹开的正门。留守的圣骑士收拢到入口两侧，横枪封住门槛，向殿内发出一声示警。这是原本没有参加殿内仪式的外院教徒；被水流击倒的那批没有重新站起。",
+          "line_start": 621,
+          "line_end": 623,
+          "source_character_start": 17307,
+          "source_character_end_exclusive": 17477,
+          "paragraph_start": 306,
+          "paragraph_end_inclusive": 307,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "7f4e7b03-f5e6-5f14-8250-96a929136901",
+      "name": "091_B36_GB026_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "091_B36_GB026_01",
+          "quote": "听见入口示警，八位同伴在长阶下形成第二道防线，千问仍抱着小鱼。两翼骑士守住柱廊，前排迎向门外教徒。远处最高祭坛的不透明暗月罩持续存在，Kimi在内守着Claude，没有回到队伍；外景看不到二人与祭架。Perplexity持杖警戒，中央高窗破口保留，左右窗完整。门槛岗哨顶住第一波冲击，前排同伴赶到前中殿接应；少数突破门槛的黑袍立即被拦在入口附近，不能凭空出现在后排。祭坛暗月罩始终不透明，罩外不见人物和祭架；罩内Claude的束具仍未解除。",
+          "line_start": 625,
+          "line_end": 625,
+          "source_character_start": 17479,
+          "source_character_end_exclusive": 17699,
+          "paragraph_start": 308,
+          "paragraph_end_inclusive": 308,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "8d8e701c-619c-5054-afd5-3f4f6f97e4e9",
+      "name": "092_B36_GB026_02.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "092_B36_GB026_02",
+          "quote": "从高处俯视雨中的整座教堂和周围空地。中殿破口露出殿内闪光，后殿拱顶仍完整。闪光集中在正门、前中殿与邻近侧窗，几次短促爆闪和闷响带过阻击外院教徒的交战；建筑没有持续起火。\n\n雨渐停，水雾缓缓散去。教主倒在祭坛下的石阶旁，教徒们横七竖八地倒在通道两侧，已经无力阻挡。广角中八位 AI 娘在下层，Kimi留在画外最高祭坛：有人站立，有人坐低或半蹲歇息，都已收住攻势；千问仍抱着小鱼。没有血腥细节。\n\n圣骑士收住攻势，分守敞开的正门与两翼，照看倒地的教徒。\n\n战斗结束，雨渐停。ChatGPT已恢复人形，稳稳站在湿地，膜翼自然收拢，双臂松松交抱在身前。她略侧头、垂眼看向前景倒下的教主，眉梢轻抬，嘴角带一点冷淡的讥讽；视线落在敌人的脸上，不看镜头，也不提前弯腰取钥匙。教主与教徒倒地，八位同伴在下层收势，千问仍抱着小鱼；Kimi继续在最高祭坛守护Claude。停住这一眼后，GPT才松开双臂、转看腰间钥匙，接下一镜取钥匙。\n\nChatGPT俯身，从倒地教主腰间的扣环上取下黑铁钥匙。钥匙离开腰带，齿形在冷月光里清楚一闪；她握住它，独自朝长阶走去。",
+          "line_start": 627,
+          "line_end": 635,
+          "source_character_start": 17701,
+          "source_character_end_exclusive": 18170,
+          "paragraph_start": 309,
+          "paragraph_end_inclusive": 313,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "e77396d3-dcf1-5b9f-9698-51372fb0508f",
+      "name": "093_B37_GB027_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "093_B37_GB027_01",
+          "quote": "GPT携教主原钥匙来到最高祭坛。确认危险解除，Kimi让暗月罩散尽；双刃早已收在后腰，双手腾出，接过GPT递来的黑铁钥匙。Claude仍直立踩固定脚托，腕踝锁扣未开。身后的中央彩窗破口保留，左右窗完整，所有烛火和散柴都已熄灭，湿石面只有冷月反光。\n\nKimi蹲在Claude脚托旁，用原钥匙打开两只踝扣并移开短链。锁芯正常转动，抗破坏符纹没有亮起；Claude的赤足仍踩着固定脚托，双腕暂未解除。\n\n已在顶部平台的ChatGPT扶稳Claude。Kimi随后用原钥匙解除腰链和腕部束具。\n\nGPT从画面右侧扶住Claude腰背和上臂。Kimi在左侧用原钥匙解除腰链，再依次打开两只腕扣；最后一扣解除前GPT已经扶稳，符纹没有被暴力触发。Claude身体仍由脚托和GPT承托，没有突然跌落，木架留在最高祭坛。\n\nKimi收好刚解开的束具，留在祭架旁让出位置。ChatGPT折拢膜翼，扶住Claude，等她从固定脚托上迈下。",
+          "line_start": 637,
+          "line_end": 645,
+          "source_character_start": 18172,
+          "source_character_end_exclusive": 18582,
+          "paragraph_start": 314,
+          "paragraph_end_inclusive": 318,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "3f60c4cc-bd0e-552f-babc-6cb401d6e7ad",
+      "name": "094_B37_v008_9632.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "094_B37_v008_9632",
+          "quote": "Kimi收好刚解开的束具，留在祭架旁让出位置。ChatGPT折拢膜翼，扶住Claude，等她从固定脚托上迈下。\n\n**GPT** · `VO-CY028A-01`\n\n> ゆっくりでいい。\n\n中文回译：慢慢来。\n\nClaude的赤足站稳同一祭坛平台。镜头由全景沿同侧收至胸上双人近景，GPT扶上臂的手与Claude寻找阶下孩子的眼睛同框，Kimi退入虚焦。收近在Claude起句前后到位，保持动作和视线连续，准确时长待新对白试读。\n\n**Claude** · `VO-CY028A-02`\n\n> あの子は……\n\n中文回译：那个孩子……",
+          "line_start": 645,
+          "line_end": 659,
+          "source_character_start": 18527,
+          "source_character_end_exclusive": 18793,
+          "paragraph_start": 318,
+          "paragraph_end_inclusive": 325,
+          "cue_ids": [
+            "VO-CY028A-01",
+            "VO-CY028A-02"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "a77ae638-0477-58f2-aee5-361c20ee3a8c",
+      "name": "095_B37_v008_9666.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "095_B37_v008_9666",
+          "quote": "Claude的赤足站稳同一祭坛平台。镜头由全景沿同侧收至胸上双人近景，GPT扶上臂的手与Claude寻找阶下孩子的眼睛同框，Kimi退入虚焦。收近在Claude起句前后到位，保持动作和视线连续，准确时长待新对白试读。\n\n**Claude** · `VO-CY028A-02`\n\n> あの子は……\n\n中文回译：那个孩子……",
+          "line_start": 653,
+          "line_end": 659,
+          "source_character_start": 18633,
+          "source_character_end_exclusive": 18793,
+          "paragraph_start": 322,
+          "paragraph_end_inclusive": 325,
+          "cue_ids": [
+            "VO-CY028A-02"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "b9c81e89-b271-52b7-9457-e7e452a06f20",
+      "name": "096_B37_v008_9699.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "确认孩子平安：复用画面",
+          "quote": "切到阶下千问怀里的小鱼特写：蓝鲸帽下的小脸还留着泪痕，蓝色眼睛疲倦却清醒地抬向高处祭坛；她轻轻攥着千问的衣襟，后背与身体被稳稳承托。千问低头照看她。此刻只有冷月光，祭架尚未重新点燃。\n\n**GPT** · `VO-CY028A2-01`\n\n> 無事よ。下で待ってる。\n\n中文回译：她没事。在下面等着呢。",
+          "line_start": 661,
+          "line_end": 667,
+          "source_character_start": 18795,
+          "source_character_end_exclusive": 18946,
+          "paragraph_start": 326,
+          "paragraph_end_inclusive": 329,
+          "cue_ids": [
+            "VO-CY028A2-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。 本段复用较晚生成的CY029E4画面；摘录按当前叙事用途定位，实际prompt仍保留该生成来源。"
+      ]
+    },
+    {
+      "element_id": "7d522336-d015-5777-8531-2cf49f51bc3a",
+      "name": "097_B38_GB028_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "097_B38_GB028_01",
+          "quote": "切到阶下千问怀里的小鱼特写：蓝鲸帽下的小脸还留着泪痕，蓝色眼睛疲倦却清醒地抬向高处祭坛；她轻轻攥着千问的衣襟，后背与身体被稳稳承托。千问低头照看她。此刻只有冷月光，祭架尚未重新点燃。\n\n**GPT** · `VO-CY028A2-01`\n\n> 無事よ。下で待ってる。\n\n中文回译：她没事。在下面等着呢。\n\nClaude松一口气，视线从下方转向空祭架。她用左手扶稳微颤的右腕，作出自己的选择，再开始咏唱。不新增握手，也不先说“还有一件事”。\n\n束具已全部解除。Claude站在GPT身侧，垂下的手指轻轻发颤；指尖只有两三粒暗淡橙金光屑向内聚拢，没有完整火焰，更没有可飞出的火种。袖口干燥，原有焦黑边缘保留。她在此开始同一段咏唱，声音跨切下一镜。\n\n**Claude** · `VO-CY028B-01`\n\n> 灰に眠る、かすかな光よ。\n\n中文回译：沉睡于灰烬中的微光啊。\n\n咏唱尾半句跨切Claude已经解放的右手腕特写。浅淡束缚压痕仍在，焦边蕾丝袖口保留；手指起初微颤，随日语首句的尾音「かすかな光よ」慢慢稳住。极少橙金光屑轻映指节，仍是初蓄，未形成完整火种。手与衣料没有挂水、没有蒸汽，压痕不消退，衣物不修复；没有新增治疗法术。",
+          "line_start": 661,
+          "line_end": 679,
+          "source_character_start": 18795,
+          "source_character_end_exclusive": 19310,
+          "paragraph_start": 326,
+          "paragraph_end_inclusive": 335,
+          "cue_ids": [
+            "VO-CY028A2-01",
+            "VO-CY028B-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "80561ece-df36-54d2-ae6e-e0d2b53de9c2",
+      "name": "098_B38_GB028_02.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "098_B38_GB028_02",
+          "quote": "咏唱尾半句跨切Claude已经解放的右手腕特写。浅淡束缚压痕仍在，焦边蕾丝袖口保留；手指起初微颤，随日语首句的尾音「かすかな光よ」慢慢稳住。极少橙金光屑轻映指节，仍是初蓄，未形成完整火种。手与衣料没有挂水、没有蒸汽，压痕不消退，衣物不修复；没有新增治疗法术。\n\n倒在阶下的教主勉强抬起头，仍想叫住她。\n\n**教主／Claude的父亲** · `VO-CY029-01`\n\n> クロード……来なさい。\n\n中文回译：Claude……过来。\n\nClaude的咏唱停在换气处，目光转向父亲。画外手中初蓄微光仍在，没有熄灭或重新起法。\n\n教主叫她的名字时带着虚弱，后半句仍保留惯于命令她的口气。\n\nClaude 的肩膀下意识一缩。\n\n父亲的声音传来，Claude 的金色眼睛里映出他趴在湿地上、抬头伸手的身影。她的目光颤了一下。",
+          "line_start": 679,
+          "line_end": 695,
+          "source_character_start": 19181,
+          "source_character_end_exclusive": 19540,
+          "paragraph_start": 335,
+          "paragraph_end_inclusive": 343,
+          "cue_ids": [
+            "VO-CY029-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "127b5d8c-2faa-5795-b09f-bdac3a4af790",
+      "name": "099_B38_GB028_03.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "099_B38_GB028_03",
+          "quote": "倒在阶下的教主勉强抬起头，仍想叫住她。\n\n**教主／Claude的父亲** · `VO-CY029-01`\n\n> クロード……来なさい。\n\n中文回译：Claude……过来。\n\nClaude的咏唱停在换气处，目光转向父亲。画外手中初蓄微光仍在，没有熄灭或重新起法。\n\n教主叫她的名字时带着虚弱，后半句仍保留惯于命令她的口气。\n\nClaude 的肩膀下意识一缩。\n\n父亲的声音传来，Claude 的金色眼睛里映出他趴在湿地上、抬头伸手的身影。她的目光颤了一下。\n\n反打看清倒影中的教主：他趴在湿地上，肘撑着身体，已经抬起头，伸手挽留 Claude。呼唤的尾音在殿中回荡，他再没有力气站起来。 Claude静默看着他，随后选择继续；这段停顿不重念已经说出的咒语。",
+          "line_start": 681,
+          "line_end": 697,
+          "source_character_start": 19312,
+          "source_character_end_exclusive": 19640,
+          "paragraph_start": 336,
+          "paragraph_end_inclusive": 344,
+          "cue_ids": [
+            "VO-CY029-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "99925f87-753f-574e-ae75-39d0bfaca9fd",
+      "name": "100_B38_GB028_04.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "100_B38_GB028_04",
+          "quote": "切教主。他听见女儿继续咏唱，原本伸向她的手慢慢僵住，指尖落下；眼神由挽留转为惊疑。他没有再开口，Claude的短句已经落下，余下反应由父亲僵住的手与殿内回声承担。",
+          "line_start": 707,
+          "line_end": 707,
+          "source_character_start": 19774,
+          "source_character_end_exclusive": 19855,
+          "paragraph_start": 349,
+          "paragraph_end_inclusive": 349,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "1f7dbc3a-f8f5-5b85-b432-b14e0e1ca3f9",
+      "name": "101_B39_GB029_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "101_B39_GB029_01",
+          "quote": "Claude移开看向父亲的目光，转向空祭架。苍白的面颊没有红晕，唇色浅，疲惫的眼神仍坚持。她选择续上刚才的咏唱，不从第一句重念；手中的微光继续汇聚。\n\n**Claude** · `VO-CY029E1-01`\n\n> この手に、宿れ。\n\n中文回译：来到我手中吧。",
+          "line_start": 699,
+          "line_end": 705,
+          "source_character_start": 19642,
+          "source_character_end_exclusive": 19772,
+          "paragraph_start": 345,
+          "paragraph_end_inclusive": 348,
+          "cue_ids": [
+            "VO-CY029E1-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "1116ebaf-1788-5673-8a24-c116b70ff89f",
+      "name": "102_B39_v011_8962_0.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "102_B39_v011_8962_0",
+          "quote": "切Claude手腕与指节。浅浅束具压痕仍在，焦黑袖口没有恢复。她用左手稳住发颤的右腕；指间的光屑已经凝成一枚有稳定焰芯的小小橙金火种。短焰舌轻轻摇动，火种仍停在指间尚未释放，不再重复初蓄微光的状态。",
+          "line_start": 709,
+          "line_end": 709,
+          "source_character_start": 19857,
+          "source_character_end_exclusive": 19956,
+          "paragraph_start": 350,
+          "paragraph_end_inclusive": 350,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "3f8a7f23-8e52-5290-ab73-6f806176e56e",
+      "name": "103_B39_GB029_03.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "103_B39_GB029_03",
+          "quote": "切千问怀里的小鱼。小鱼抬头望向祭坛上的Claude，听见她继续咏唱的声音，攥紧千问衣襟，嘴唇轻轻抿住。千问的左臂始终稳稳托着她；空祭架尚未燃起，画外那枚火种仍在Claude指间维持。\n\n**Claude** · `VO-CY029E4-01`\n\n> もう一度、燃えよ――\n\n中文回译：再燃一次——\n\n她仍望着空祭架，身侧的ChatGPT安静守着她。",
+          "line_start": 711,
+          "line_end": 719,
+          "source_character_start": 19958,
+          "source_character_end_exclusive": 20132,
+          "paragraph_start": 351,
+          "paragraph_end_inclusive": 355,
+          "cue_ids": [
+            "VO-CY029E4-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "e8d0ab5e-38e4-5a10-9a7e-a005c7454ced",
+      "name": "104_B40_v011_9109_0.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "104_B40_v011_9109_0",
+          "quote": "切回Claude指尖，她轻轻吐出法术名字。\n\n**Claude** · `VO-CY029B1-01`\n\n> 星火。\n\n中文回译：星火。\n\n刚才已经成形的同一枚橙金火种随指尖轻送离开，与手之间拉开空气间隙；此处只释放，不再次凝种。她松开支撑右腕的左手，手指放松，不再输出火焰。焦损袖口和头纱仍在，脚边乌烬木保持熄灭。\n\n切入火种的主观视角。空十字架位于正前方，镜头沿火种飞行方向缓缓逼近立柱与横木交接处铁箍下方的裸露木纹；木纹与空镣铐逐渐放大。画面中央不出现火种本体，仅边缘掠过少量虚焦橙金火舌与轻微热扰动，中心落点始终清楚。镜头平稳前行，仅有轻微漂移，不翻滚、不绕行。最后一小段提速，触及木料时局部闪亮，随即切回外部视角，接空祭架骤燃。",
+          "line_start": 721,
+          "line_end": 731,
+          "source_character_start": 20134,
+          "source_character_end_exclusive": 20453,
+          "paragraph_start": 356,
+          "paragraph_end_inclusive": 361,
+          "cue_ids": [
+            "VO-CY029B1-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "d7b285f0-39d3-521c-a6dc-9d7584cff4f9",
+      "name": "105_B40_v011_9139_1.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "火种主观推进",
+          "quote": "切入火种的主观视角。空十字架位于正前方，镜头沿火种飞行方向缓缓逼近立柱与横木交接处铁箍下方的裸露木纹；木纹与空镣铐逐渐放大。画面中央不出现火种本体，仅边缘掠过少量虚焦橙金火舌与轻微热扰动，中心落点始终清楚。镜头平稳前行，仅有轻微漂移，不翻滚、不绕行。最后一小段提速，触及木料时局部闪亮，随即切回外部视角，接空祭架骤燃。",
+          "line_start": 731,
+          "line_end": 731,
+          "source_character_start": 20294,
+          "source_character_end_exclusive": 20453,
+          "paragraph_start": 361,
+          "paragraph_end_inclusive": 361,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "949126c6-e7f5-5927-9074-577211cbb690",
+      "name": "106_B40_v011_9157_2.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "106_B40_v011_9157_2",
+          "quote": "切回低位大火镜：着火点沿木纹骤然窜开，厚实火焰沿立柱与横木翻卷上冲，空十字架和锁链仍从火隙中显露。Claude已经放下施法的手，祭架自行燃烧；她与祭架之间没有火流。ChatGPT守在她身侧。火势止于空祭架，没有扑向人物或点燃建筑，普通灯具仍熄灭。短促腾燃声打破飞行时的安静，随后转为持续燃烧声。\n\n火焰已经攀上空木架，退在画缘虚焦。水平腰高侧中景中，Claude放下施法手，膝盖微软，髋在左下、肩头向右侧GPT倾去；手垂直落下，与躯干形成方向反差。她仍站立而失衡，没有跪地或摔地。GPT跨入弯膝，一手开始接住上背，另一手向膝部下降。",
+          "line_start": 733,
+          "line_end": 735,
+          "source_character_start": 20455,
+          "source_character_end_exclusive": 20721,
+          "paragraph_start": 362,
+          "paragraph_end_inclusive": 363,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "6fcc7ad7-a34c-55fb-8dbc-283c523ada65",
+      "name": "107_B40_v011_9232_3.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "107_B40_v011_9232_3",
+          "quote": "火焰已经攀上空木架，退在画缘虚焦。水平腰高侧中景中，Claude放下施法手，膝盖微软，髋在左下、肩头向右侧GPT倾去；手垂直落下，与躯干形成方向反差。她仍站立而失衡，没有跪地或摔地。GPT跨入弯膝，一手开始接住上背，另一手向膝部下降。\n\n延续同一次接重：ChatGPT一臂托背、另一臂探进Claude膝弯，弯膝承担重量后开始起抱，Claude赤足刚离地、手仍垂落。此刻两人头部不贴近；下一镜才站直抱稳，之后Claude才主动搭肩。",
+          "line_start": 735,
+          "line_end": 737,
+          "source_character_start": 20604,
+          "source_character_end_exclusive": 20819,
+          "paragraph_start": 363,
+          "paragraph_end_inclusive": 364,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "aa4b6643-c215-57fa-baab-fd332f2c2d3a",
+      "name": "108_B40_v011_9256_4.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "108_B40_v011_9256_4",
+          "quote": "火焰已经攀上空木架，退在画缘虚焦。水平腰高侧中景中，Claude放下施法手，膝盖微软，髋在左下、肩头向右侧GPT倾去；手垂直落下，与躯干形成方向反差。她仍站立而失衡，没有跪地或摔地。GPT跨入弯膝，一手开始接住上背，另一手向膝部下降。\n\n延续同一次接重：ChatGPT一臂托背、另一臂探进Claude膝弯，弯膝承担重量后开始起抱，Claude赤足刚离地、手仍垂落。此刻两人头部不贴近；下一镜才站直抱稳，之后Claude才主动搭肩。\n\nClaude 的重量落进 ChatGPT 怀里，被稳稳接住。她赤足悬空，疲倦地靠着 ChatGPT，仍能抬眼看她。",
+          "line_start": 735,
+          "line_end": 739,
+          "source_character_start": 20604,
+          "source_character_end_exclusive": 20878,
+          "paragraph_start": 363,
+          "paragraph_end_inclusive": 365,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "00cace71-3ee8-59c7-8e45-54f55e7c9695",
+      "name": "109_B41_v008_10689.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "109_B41_v008_10689",
+          "quote": "Claude 的重量落进 ChatGPT 怀里，被稳稳接住。她赤足悬空，疲倦地靠着 ChatGPT，仍能抬眼看她。\n\n**GPT** · `VO-CY028-01`\n\n> 行こう。\n\n中文回译：我们走。",
+          "line_start": 739,
+          "line_end": 745,
+          "source_character_start": 20821,
+          "source_character_end_exclusive": 20922,
+          "paragraph_start": 365,
+          "paragraph_end_inclusive": 368,
+          "cue_ids": [
+            "VO-CY028-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "6694cec9-a6d2-5a8f-b432-655b7ba3dc2c",
+      "name": "110_B41_v008_10708.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "110_B41_v008_10708",
+          "quote": "Claude 的重量落进 ChatGPT 怀里，被稳稳接住。她赤足悬空，疲倦地靠着 ChatGPT，仍能抬眼看她。\n\n**GPT** · `VO-CY028-01`\n\n> 行こう。\n\n中文回译：我们走。\n\nClaude 轻轻把手搭上 ChatGPT 的肩，主动靠近她。ChatGPT 一臂托背、一臂托膝，在顶部平台抱着她转向下行长阶，始终没有将她放下。",
+          "line_start": 739,
+          "line_end": 747,
+          "source_character_start": 20821,
+          "source_character_end_exclusive": 20997,
+          "paragraph_start": 365,
+          "paragraph_end_inclusive": 369,
+          "cue_ids": [
+            "VO-CY028-01"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "ba8a76df-4f01-5182-8187-4f9213cce12c",
+      "name": "111_B41_v008_10732.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "111_B41_v008_10732",
+          "quote": "Claude 轻轻把手搭上 ChatGPT 的肩，主动靠近她。ChatGPT 一臂托背、一臂托膝，在顶部平台抱着她转向下行长阶，始终没有将她放下。",
+          "line_start": 747,
+          "line_end": 747,
+          "source_character_start": 20924,
+          "source_character_end_exclusive": 20997,
+          "paragraph_start": 369,
+          "paragraph_end_inclusive": 369,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "91dcd6c3-386e-5f89-9a05-35c0f8e285e5",
+      "name": "112_B42_v008_10761.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "112_B42_v008_10761",
+          "quote": "Claude 轻轻把手搭上 ChatGPT 的肩，主动靠近她。ChatGPT 一臂托背、一臂托膝，在顶部平台抱着她转向下行长阶，始终没有将她放下。\n\n省略下阶过程，GPT抱着Claude来到下层中殿，与千问抱宝宝的队伍汇合，众人护着她们走向门外。镜头退到大殿广角，GPT 抱着 Claude 居中，千问抱着小鱼，另外八位同伴分布在两侧和后方。通道旁的教徒仍倒在地上。教主留在地上，声音被留在空荡的教堂里。圣骑士留下控制教堂和守住两侧出口，不混入十二位核心角色的离殿队形。",
+          "line_start": 747,
+          "line_end": 749,
+          "source_character_start": 20924,
+          "source_character_end_exclusive": 21159,
+          "paragraph_start": 369,
+          "paragraph_end_inclusive": 370,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "1c1bb20e-5598-5712-aa27-c7d6d0ff4f85",
+      "name": "113_B42_GB031_02.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S05",
+          "label": "113_B42_GB031_02",
+          "quote": "省略下阶过程，GPT抱着Claude来到下层中殿，与千问抱宝宝的队伍汇合，众人护着她们走向门外。镜头退到大殿广角，GPT 抱着 Claude 居中，千问抱着小鱼，另外八位同伴分布在两侧和后方。通道旁的教徒仍倒在地上。教主留在地上，声音被留在空荡的教堂里。圣骑士留下控制教堂和守住两侧出口，不混入十二位核心角色的离殿队形。",
+          "line_start": 749,
+          "line_end": 749,
+          "source_character_start": 20999,
+          "source_character_end_exclusive": 21159,
+          "paragraph_start": 370,
+          "paragraph_end_inclusive": 370,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "da717fd2-157c-5bbd-a319-bab94a50272e",
+      "name": "114_B42_GB031_03.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S06",
+          "label": "114_B42_GB031_03",
+          "quote": "叫卖声重新响起。阳光照在石板路上，和初见那天一样。\n\n画面短暂标注“数日后”。小鱼已能安稳地坐在街边长椅上，腿还够不到地，衣服已经洗净。她抱着一碗热饭，右侧留着一个空位。\n\n熟悉的白色裙摆出现在旁边。\n\nClaude 站在阳光里，没有教徒跟着。她看着小鱼，神情还有些拘谨。",
+          "line_start": 755,
+          "line_end": 761,
+          "source_character_start": 21215,
+          "source_character_end_exclusive": 21351,
+          "paragraph_start": 373,
+          "paragraph_end_inclusive": 376,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "112ee971-95c4-5362-aa14-668f160d8ecd",
+      "name": "115_B43_GB032_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S06",
+          "label": "115_B43_GB032_01",
+          "quote": "熟悉的白色裙摆出现在旁边。\n\nClaude 站在阳光里，没有教徒跟着。她看着小鱼，神情还有些拘谨。\n\n小鱼往左挪出位置，左臂稳住膝上的饭碗，右手握着勺柄望向 Claude。Claude 从画面右侧靠近，扶着长椅慢慢坐下；她的手里还没有餐具。\n\n**小鱼** · `VO-CY031A-01`\n\n> 少し食べる？\n\n中文回译：你要吃一点吗？\n\nClaude看向小鱼，轻轻点头，露出一点笑意。\n\n**Claude** · `VO-CY031A-02`\n\n> うん。\n\n中文回译：好。",
+          "line_start": 759,
+          "line_end": 777,
+          "source_character_start": 21302,
+          "source_character_end_exclusive": 21541,
+          "paragraph_start": 375,
+          "paragraph_end_inclusive": 384,
+          "cue_ids": [
+            "VO-CY031A-01",
+            "VO-CY031A-02"
+          ],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "e2df9ca6-546c-5ad4-bb2f-d96676ab9819",
+      "name": "116_B43_GB032_02.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S06",
+          "label": "116_B43_GB032_02",
+          "quote": "小鱼把勺柄递向右侧，她伸手握住勺柄，小鱼才松开。饭碗仍稳在小鱼膝上；这一次，递出去的善意有人接住。蒸汽从两只手之间升起。",
+          "line_start": 779,
+          "line_end": 779,
+          "source_character_start": 21543,
+          "source_character_end_exclusive": 21603,
+          "paragraph_start": 385,
+          "paragraph_end_inclusive": 385,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "fc0d29c7-4af5-5156-af91-d8a167aec1af",
+      "name": "117_B43_GB032_03.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S06",
+          "label": "117_B43_GB032_03",
+          "quote": "街边另一处，ChatGPT 看了她们一眼。Grok 将一杯热饮放进她手里，她接过，靠在同伴身旁。",
+          "line_start": 781,
+          "line_end": 781,
+          "source_character_start": 21605,
+          "source_character_end_exclusive": 21653,
+          "paragraph_start": 386,
+          "paragraph_end_inclusive": 386,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "51305fc5-05fe-5c3e-af4c-2a7bc629a3a0",
+      "name": "118_B44_GB033_01.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S06",
+          "label": "第一口饭与回应",
+          "quote": "切Claude第一口饭的嘴部近景，画面带到鼻尖、嘴角、手与勺子。她将小口热饭送入口中，嘴唇轻轻合拢，空勺随即退出；只表现这一口，不停留展示咀嚼。饭碗仍由小鱼稳在膝上。\n\n回到长椅上的两人。Claude已经吃下第一口，空勺放低到膝前，不再重复舀饭或送入口中。小鱼仰头望着她，笑起来；Claude回望小鱼，嘴角慢慢放松。最后四秒只留两人的呼吸与街市声，阳光落在肩上，结束。",
+          "line_start": 783,
+          "line_end": 785,
+          "source_character_start": 21655,
+          "source_character_end_exclusive": 21839,
+          "paragraph_start": 387,
+          "paragraph_end_inclusive": 388,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    },
+    {
+      "element_id": "10f62de2-bb24-57dc-b586-be9b264490af",
+      "name": "119_B44_GB033_02.mp4",
+      "source_file": "剧本/白米饭-场景剧本-v0.69.md",
+      "mapping_status": "reviewed_narrative_context_not_frame_alignment",
+      "excerpts": [
+        {
+          "scene_id": "S06",
+          "label": "阳光中收尾",
+          "quote": "回到长椅上的两人。Claude已经吃下第一口，空勺放低到膝前，不再重复舀饭或送入口中。小鱼仰头望着她，笑起来；Claude回望小鱼，嘴角慢慢放松。最后四秒只留两人的呼吸与街市声，阳光落在肩上，结束。\n\n结束。",
+          "line_start": 785,
+          "line_end": 788,
+          "source_character_start": 21740,
+          "source_character_end_exclusive": 21845,
+          "paragraph_start": 388,
+          "paragraph_end_inclusive": 389,
+          "cue_ids": [],
+          "literal_source_substring_verified": true
+        }
+      ],
+      "notes": [
+        "依据当前剪辑次序、采用修订动作与执行来源，引用当前剧本的局部上下文；不是逐帧视觉或对白同步验收。"
+      ]
+    }
+  ],
+  "validation": {
+    "count": 118,
+    "every_quote_is_literal_substring": true,
+    "original_source_unmodified": true
+  }
+}

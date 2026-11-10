@@ -1,0 +1,373 @@
+{
+  "scope": "v005 nine delivered cues",
+  "rows": [
+    {
+      "cue": "VO-CY003B-01",
+      "location": "第2批 · 第1镜",
+      "role": "Claude",
+      "text": "ありがとう。でも、私……",
+      "delivery_text_matches": true,
+      "baseline_window": 2.28,
+      "duration_change": 0.872725,
+      "files": [
+        {
+          "kind": "干声",
+          "path": "后期/日语配音修正-v005/干声/VO-CY003B-01__Claude__ja__v005.wav",
+          "sha256": "be47da3f7db58f461a22bac4a2f44e4b35d424ef336a91165e5b5a9aa0a7d7e5",
+          "seconds": 3.152725,
+          "sample_rate": 40000,
+          "channels": 1,
+          "peak": 0.698333740234375,
+          "tail_10ms_rms_dbfs": -49.024,
+          "tail_below_minus40_db_seconds": 0.0569,
+          "complete_decode": true,
+          "nonfinite_samples": 0,
+          "samples_at_fullscale": 0
+        },
+        {
+          "kind": "原生",
+          "path": "后期/日语配音修正-v005/原生/VO-CY003B-01__Claude__ja__v005.wav",
+          "sha256": "f8dd18ecb7abf54678d582a3b4382f84ccbc4ab1762044a62e20398033fe55a2",
+          "seconds": 5.0,
+          "sample_rate": 40000,
+          "channels": 2,
+          "peak": 0.18383309245109558,
+          "tail_10ms_rms_dbfs": -116.33,
+          "tail_below_minus40_db_seconds": 0.6197,
+          "complete_decode": true,
+          "nonfinite_samples": 0,
+          "samples_at_fullscale": 0
+        }
+      ],
+      "flag": null
+    },
+    {
+      "cue": "VO-CY026D1-01",
+      "location": "第23批 · 第2镜",
+      "role": "GPT",
+      "text": "キミ。クロードが危ない。",
+      "delivery_text_matches": true,
+      "baseline_window": 0.98,
+      "duration_change": 1.359925,
+      "files": [
+        {
+          "kind": "干声",
+          "path": "后期/日语配音修正-v005/干声/VO-CY026D1-01__GPT__ja__v005.wav",
+          "sha256": "bc01a477e23d3f174ccedaa6464cca1e9bce5b7e60d01ea7f0b11b9c2b9a2c15",
+          "seconds": 2.339925,
+          "sample_rate": 40000,
+          "channels": 1,
+          "peak": 0.700286865234375,
+          "tail_10ms_rms_dbfs": -200.0,
+          "tail_below_minus40_db_seconds": 0.074775,
+          "complete_decode": true,
+          "nonfinite_samples": 0,
+          "samples_at_fullscale": 0
+        },
+        {
+          "kind": "原生",
+          "path": "后期/日语配音修正-v005/原生/VO-CY026D1-01__GPT__ja__v005.wav",
+          "sha256": "3a4e93db9ec7d3c3ecf801c44db7b410677bd23ec56d15ee2db875d2243c7177",
+          "seconds": 2.58,
+          "sample_rate": 40000,
+          "channels": 2,
+          "peak": 0.842753529548645,
+          "tail_10ms_rms_dbfs": -116.33,
+          "tail_below_minus40_db_seconds": 0.117325,
+          "complete_decode": true,
+          "nonfinite_samples": 0,
+          "samples_at_fullscale": 0
+        }
+      ],
+      "flag": null
+    },
+    {
+      "cue": "VO-CY026D-01",
+      "location": "第23批 · 第3镜",
+      "role": "GPT",
+      "text": "正面で私が気を引く。祭壇の後ろのステンドグラスから入って、彼女を守って。",
+      "delivery_text_matches": true,
+      "baseline_window": 6.36,
+      "duration_change": 0.800575,
+      "files": [
+        {
+          "kind": "干声",
+          "path": "后期/日语配音修正-v005/干声/VO-CY026D-01__GPT__ja__v005.wav",
+          "sha256": "9153a0cfc2a27a06911e65dfb2ad51cc847030960ccefc63b909ac601f3fdfc7",
+          "seconds": 7.160575,
+          "sample_rate": 40000,
+          "channels": 1,
+          "peak": 0.703338623046875,
+          "tail_10ms_rms_dbfs": -30.127,
+          "tail_below_minus40_db_seconds": 0.0,
+          "complete_decode": true,
+          "nonfinite_samples": 0,
+          "samples_at_fullscale": 0
+        },
+        {
+          "kind": "原生",
+          "path": "后期/日语配音修正-v005/原生/VO-CY026D-01__GPT__ja__v005.wav",
+          "sha256": "9b1844d078fbdd1474f86eec526198901ba0dcbfea20548cbc915864196f9b39",
+          "seconds": 7.18,
+          "sample_rate": 40000,
+          "channels": 2,
+          "peak": 0.5923486351966858,
+          "tail_10ms_rms_dbfs": -31.622,
+          "tail_below_minus40_db_seconds": 0.0,
+          "complete_decode": true,
+          "nonfinite_samples": 0,
+          "samples_at_fullscale": 0
+        }
+      ],
+      "flag": "native_tail_needs_listening"
+    },
+    {
+      "cue": "VO-CY026D-02",
+      "location": "第23批 · 第3镜",
+      "role": "Kimi",
+      "text": "彼女は任せて。",
+      "delivery_text_matches": true,
+      "baseline_window": 0.51,
+      "duration_change": 0.88895,
+      "files": [
+        {
+          "kind": "干声",
+          "path": "后期/日语配音修正-v005/干声/VO-CY026D-02__Kimi__ja__v005.wav",
+          "sha256": "1215d3f7a7e38a44feb84cd7a4cf11443dc45f40d21cde9f9a3a211da21d0141",
+          "seconds": 1.39895,
+          "sample_rate": 40000,
+          "channels": 1,
+          "peak": 0.70013427734375,
+          "tail_10ms_rms_dbfs": -77.742,
+          "tail_below_minus40_db_seconds": 0.072375,
+          "complete_decode": true,
+          "nonfinite_samples": 0,
+          "samples_at_fullscale": 0
+        },
+        {
+          "kind": "原生",
+          "path": "后期/日语配音修正-v005/原生/VO-CY026D-02__Kimi__ja__v005.wav",
+          "sha256": "a484be4eee6a4523fe813c2260679e15c9cc470f6c64865dd309e6826d2e862f",
+          "seconds": 2.0,
+          "sample_rate": 40000,
+          "channels": 2,
+          "peak": 0.8328918218612671,
+          "tail_10ms_rms_dbfs": -119.34,
+          "tail_below_minus40_db_seconds": 0.25875,
+          "complete_decode": true,
+          "nonfinite_samples": 0,
+          "samples_at_fullscale": 0
+        }
+      ],
+      "flag": null
+    },
+    {
+      "cue": "VO-CY024A9-01",
+      "location": "第25批 · 第1镜",
+      "role": "GPT",
+      "text": "幾千の深き流れを統べる、清き水の主よ、",
+      "delivery_text_matches": true,
+      "baseline_window": 5.1,
+      "duration_change": 2.2952,
+      "files": [
+        {
+          "kind": "干声",
+          "path": "后期/日语配音修正-v005/干声/VO-CY024A9-01__GPT__ja__v005.wav",
+          "sha256": "07c86919cf7011b6517ba732d22edf1a19c3bb5dc403d2b72311184008ae6359",
+          "seconds": 7.3952,
+          "sample_rate": 40000,
+          "channels": 1,
+          "peak": 0.697784423828125,
+          "tail_10ms_rms_dbfs": -99.17,
+          "tail_below_minus40_db_seconds": 0.021625,
+          "complete_decode": true,
+          "nonfinite_samples": 0,
+          "samples_at_fullscale": 0
+        },
+        {
+          "kind": "原生",
+          "path": "后期/日语配音修正-v005/原生/VO-CY024A9-01__GPT__ja__v005.wav",
+          "sha256": "2056b14711fdb5888a35929c97c07051b91247b7991b402bd27d5160f588950b",
+          "seconds": 7.5,
+          "sample_rate": 40000,
+          "channels": 2,
+          "peak": 0.4944438934326172,
+          "tail_10ms_rms_dbfs": -101.487,
+          "tail_below_minus40_db_seconds": 0.021675,
+          "complete_decode": true,
+          "nonfinite_samples": 0,
+          "samples_at_fullscale": 0
+        }
+      ],
+      "flag": null
+    },
+    {
+      "cue": "VO-CY024A5-01",
+      "location": "第30批 · 第1镜",
+      "role": "GPT",
+      "text": "清き水の主よ、汝の救済を、ここに——",
+      "delivery_text_matches": true,
+      "baseline_window": 3.8,
+      "duration_change": 3.016675,
+      "files": [
+        {
+          "kind": "干声",
+          "path": "后期/日语配音修正-v005/干声/VO-CY024A5-01__GPT__ja__v005.wav",
+          "sha256": "1a769eca42abf8656def29398eacdfbdb11d690ee5cad1436c1f2df9e0528ca5",
+          "seconds": 6.816675,
+          "sample_rate": 40000,
+          "channels": 1,
+          "peak": 0.700408935546875,
+          "tail_10ms_rms_dbfs": -72.908,
+          "tail_below_minus40_db_seconds": 0.07745,
+          "complete_decode": true,
+          "nonfinite_samples": 0,
+          "samples_at_fullscale": 0
+        },
+        {
+          "kind": "原生",
+          "path": "后期/日语配音修正-v005/原生/VO-CY024A5-01__GPT__ja__v005.wav",
+          "sha256": "88bc4c8395b3122838a7da04bc1c26140dfd66227d6fb6effddea757807e4d0c",
+          "seconds": 8.0,
+          "sample_rate": 40000,
+          "channels": 2,
+          "peak": 0.3167824447154999,
+          "tail_10ms_rms_dbfs": -116.33,
+          "tail_below_minus40_db_seconds": 0.7703,
+          "complete_decode": true,
+          "nonfinite_samples": 0,
+          "samples_at_fullscale": 0
+        }
+      ],
+      "flag": null
+    },
+    {
+      "cue": "VO-CY024A5-02",
+      "location": "第30批 · 第1镜",
+      "role": "GPT",
+      "text": "そうりゅうてんけい！",
+      "delivery_text_matches": true,
+      "baseline_window": 1.51,
+      "duration_change": -0.16745,
+      "files": [
+        {
+          "kind": "干声",
+          "path": "后期/日语配音修正-v005/干声/VO-CY024A5-02__GPT__ja__v005.wav",
+          "sha256": "acab4f60069cd825d4a8d6e1e37bcda9f1fbae6d402b9e248d64b65f11f9d92f",
+          "seconds": 1.34255,
+          "sample_rate": 40000,
+          "channels": 1,
+          "peak": 0.6983642578125,
+          "tail_10ms_rms_dbfs": -200.0,
+          "tail_below_minus40_db_seconds": 0.07875,
+          "complete_decode": true,
+          "nonfinite_samples": 0,
+          "samples_at_fullscale": 0
+        },
+        {
+          "kind": "原生",
+          "path": "后期/日语配音修正-v005/原生/VO-CY024A5-02__GPT__ja__v005.wav",
+          "sha256": "4cda4c52a6a1f1c6a1e48bacafee85c8f355c4ab37192d25d176fb4aca5e94a9",
+          "seconds": 1.5,
+          "sample_rate": 40000,
+          "channels": 2,
+          "peak": 0.8699216842651367,
+          "tail_10ms_rms_dbfs": -200.0,
+          "tail_below_minus40_db_seconds": 0.1301,
+          "complete_decode": true,
+          "nonfinite_samples": 0,
+          "samples_at_fullscale": 0
+        }
+      ],
+      "flag": null
+    },
+    {
+      "cue": "VO-CY024A0-01",
+      "location": "第24批 · 第2镜",
+      "role": "千问",
+      "text": "つかまって。",
+      "delivery_text_matches": true,
+      "baseline_window": 2.36,
+      "duration_change": -1.04625,
+      "files": [
+        {
+          "kind": "干声",
+          "path": "后期/日语配音修正-v005/干声/VO-CY024A0-01__Qwen__ja__v005.wav",
+          "sha256": "45c922c765735d1c34bb05ed79006e068d428d6eb2961274ef62e9e3c0f4cf1a",
+          "seconds": 1.31375,
+          "sample_rate": 40000,
+          "channels": 1,
+          "peak": 0.699066162109375,
+          "tail_10ms_rms_dbfs": -200.0,
+          "tail_below_minus40_db_seconds": 0.080975,
+          "complete_decode": true,
+          "nonfinite_samples": 0,
+          "samples_at_fullscale": 0
+        },
+        {
+          "kind": "原生",
+          "path": "后期/日语配音修正-v005/原生/VO-CY024A0-01__Qwen__ja__v005.wav",
+          "sha256": "7d6c0213892092b2bd967a27c57962abf67dc1d5aa7aa1ec82185d0c531825c7",
+          "seconds": 2.5,
+          "sample_rate": 40000,
+          "channels": 2,
+          "peak": 0.13029512763023376,
+          "tail_10ms_rms_dbfs": -116.33,
+          "tail_below_minus40_db_seconds": 0.119725,
+          "complete_decode": true,
+          "nonfinite_samples": 0,
+          "samples_at_fullscale": 0
+        }
+      ],
+      "flag": null
+    },
+    {
+      "cue": "VO-CY024A6-02",
+      "location": "第27批 · 第1镜",
+      "role": "GPT",
+      "text": "眠れる潮よ、うねり、押し寄せよ。",
+      "delivery_text_matches": true,
+      "baseline_window": 7.03,
+      "duration_change": -1.776425,
+      "files": [
+        {
+          "kind": "干声",
+          "path": "后期/日语配音修正-v005/干声/VO-CY024A6-02__GPT__ja__v005.wav",
+          "sha256": "fcc7e9b86e19f4234b46543dc72fe6fa3aa4212d174544f5cc58512a44ad1da2",
+          "seconds": 5.253575,
+          "sample_rate": 40000,
+          "channels": 1,
+          "peak": 0.700103759765625,
+          "tail_10ms_rms_dbfs": -56.906,
+          "tail_below_minus40_db_seconds": 0.02485,
+          "complete_decode": true,
+          "nonfinite_samples": 0,
+          "samples_at_fullscale": 0
+        },
+        {
+          "kind": "原生",
+          "path": "后期/日语配音修正-v005/原生/VO-CY024A6-02__GPT__ja__v005.wav",
+          "sha256": "1e31a9f17329b031607ce9a31bc61d27cdffb704c9762493f6ca1ca3df3dcadd",
+          "seconds": 5.9,
+          "sample_rate": 40000,
+          "channels": 2,
+          "peak": 0.1822146475315094,
+          "tail_10ms_rms_dbfs": -116.33,
+          "tail_below_minus40_db_seconds": 0.5283,
+          "complete_decode": true,
+          "nonfinite_samples": 0,
+          "samples_at_fullscale": 0
+        }
+      ],
+      "flag": null
+    }
+  ],
+  "decode_pass": true,
+  "text_check": "delivery specifications only; no ASR or listening claim",
+  "listening_completed": false,
+  "tail_attention": [
+    "VO-CY026D-01"
+  ],
+  "voice_choices_changed": false,
+  "timing_remixed": false
+}

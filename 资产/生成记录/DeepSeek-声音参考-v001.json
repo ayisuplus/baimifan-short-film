@@ -1,0 +1,19 @@
+{
+  "creator": "这个刀子真甜",
+  "title": "DeepSeek这个蓝色大肥鱼！",
+  "source_url": "https://www.bilibili.com/video/BV11wMh6DE41/",
+  "raw_path": "资产/声音/参考/这个刀子真甜-BV11wMh6DE41.mp4",
+  "reference_path": "资产/声音/参考/DS-这个刀子真甜-参考-v001.wav",
+  "source_range_seconds": [
+    2.15,
+    6.8
+  ],
+  "speaker_evidence": "逐秒查看原片：开头画外提问；约2秒后镜头中Q版DeepSeek开口，字幕为自称蓝色大肥鱼的回答。作者明确允许女仆造型作为声音参考；本片视觉仍为鲸帽母本。",
+  "processing": "仅截取、转24kHz单声道；不变调，不做声源分离，不能保证无背景音乐与混响。",
+  "review": "角色与字幕/口型画面已核对；未完成实际听审，参考纯净度、口音和音色匹配待作者试听。",
+  "permission_scope": "按作者要求做本地参考条件合成试音；未联系博主，未取得对外使用授权。",
+  "rejected_source": "资产/声音/参考/这个刀子真甜-BV1EvKK6NEoi.mp4",
+  "rejected_reason": "多人同框对白更难分离，本轮改用单角色短片。",
+  "raw_path_sha256": "c1b15225db7773ba937e54185f69856662a89799b038addedaeb4e1b8f44ccfd",
+  "reference_path_sha256": "561e3a331a0e6c7de1cb8ee9955a118a2c253aaa9a932fe665ab0f893686294e"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "CY019",
+  "take": 5,
+  "destination": "镜头设计/图像/天瀑空间-v014/CY019-v014-r5.png",
+  "request": "镜头设计/生成记录/天瀑空间-v014/CY019-请求-v005.json",
+  "input": {
+    "prompt": "仅删除画面左下教徒身后、阶梯外侧多出来的单只大火盆（约横向23%、纵向70%）。阶梯上现有三对火盆原样保留，其他完全不变。",
+    "referenced_image_paths": [
+      "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-f6eefafe-3ab6-476c-974f-4f1a71f669ff.png"
+    ],
+    "transparent_background": false
+  }
+}

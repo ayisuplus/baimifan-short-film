@@ -1,0 +1,25 @@
+subject_definitions:
+<Subject 1>: DeepSeek, identity and outfit from four-view sheet <Picture 1>.
+<Picture 2>: [Shot 1] composition and state reference; not its first frame.
+<Picture 3>: [Shot 2] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. Continue the actions below in their listed order, without restarting ongoing motion or speech.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Picture 2>: weak_reference - shot layout; animate the specified action.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Match the beginning of the same attempt to rise and complete its single failure; Claude's plea comes from above offscreen. Use <Picture 2> for composition. DeepSeek tries to raise herself from the previous elbow brace but her strength fails. She remains on the floor at the stair foot, looks toward the priest's nearby robe hem, and starts reaching for it. Only the robe fragment accompanies her in frame. Claude's plea is heard offscreen; the child does not speak it. At floor level, continue the same elbow support and shift slightly toward the nearby robe as her gaze turns; she does not fall a second time. Weak breaths and cloth on stone under Claude's uninterrupted offscreen plea, which continues through the following hand insert; no second fall. From 0 to 5.8 seconds, Claude (S1) speaks outside the frame: <d>[Japanese] お父様……その子を逃がして。</d>.
+[Shot 2] At 00:03.800, Cut along the continuing reach to the same hem, gripping it once on arrival rather than starting a second reach. Use <Picture 3> for composition. Only DeepSeek's sleeve, forearm and small hand are shown as she clenches the black-and-gold hem of the priest's robe. The cloth tightens. Her head and body remain outside the frame, and the priest still carries the same torch as he prepares to move. Follow the fingertips a short distance in extreme close-up, then settle as the grip turns the loose robe fabric taut. The same offscreen plea continues without a restart as cloth tightens and the child breathes; no magical signal.
+From 5.8 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

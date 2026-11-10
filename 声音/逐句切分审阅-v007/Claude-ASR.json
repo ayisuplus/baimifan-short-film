@@ -1,0 +1,103 @@
+{
+  "source": "声音/正式配音准备-v006/已选原件/Claude.mp3",
+  "source_sha256": "13fed1a0af3a5d348dea33d014dec7206ef835c0fdc5ff888cee1aee41774cc8",
+  "seconds": 26.5926875,
+  "model": "C:\\Users\\36322\\.cache\\huggingface\\hub\\models--openai--whisper-small\\snapshots\\973afd24965f72e36ca33b3055d56a652f456b4d",
+  "method": "offline Whisper-small; unprompted Japanese word timestamps; not human listening or performance approval",
+  "result": {
+    "text": "ありがとうどうしてここにもういいから早く逃げて逃げてその子に触らないでお父様その子だけは返してあの子は足にめむるかすかな光よこの手に宿れもう一度燃えよ。せいか。うぅ。",
+    "chunks": [
+      {
+        "text": "ありがとう",
+        "timestamp": [
+          0.0,
+          0.5
+        ]
+      },
+      {
+        "text": "どうしてここに",
+        "timestamp": [
+          1.92,
+          2.9
+        ]
+      },
+      {
+        "text": "もういいから",
+        "timestamp": [
+          3.42,
+          4.16
+        ]
+      },
+      {
+        "text": "早く逃げて",
+        "timestamp": [
+          4.54,
+          5.3
+        ]
+      },
+      {
+        "text": "逃げて",
+        "timestamp": [
+          5.9,
+          6.5
+        ]
+      },
+      {
+        "text": "その子に触らないで",
+        "timestamp": [
+          6.98,
+          8.1
+        ]
+      },
+      {
+        "text": "お父様",
+        "timestamp": [
+          8.78,
+          9.5
+        ]
+      },
+      {
+        "text": "その子だけは返して",
+        "timestamp": [
+          10.22,
+          11.74
+        ]
+      },
+      {
+        "text": "あの子は",
+        "timestamp": [
+          13.08,
+          14.02
+        ]
+      },
+      {
+        "text": "足にめむるかすかな光よ",
+        "timestamp": [
+          14.86,
+          16.76
+        ]
+      },
+      {
+        "text": "この手に宿れ",
+        "timestamp": [
+          17.82,
+          19.58
+        ]
+      },
+      {
+        "text": "もう一度燃えよ。",
+        "timestamp": [
+          21.0,
+          24.16
+        ]
+      },
+      {
+        "text": "せいか。うぅ。",
+        "timestamp": [
+          24.18,
+          26.58
+        ]
+      }
+    ]
+  }
+}

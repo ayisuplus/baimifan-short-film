@@ -1,0 +1,45 @@
+{
+  "line_id": "VO-CY004D-01",
+  "role": "GPT",
+  "line": {
+    "id": "VO-CY004D-01",
+    "role": "GPT",
+    "previous_batch": 3,
+    "previous_record_frame": 790,
+    "previous_ja": "通してあげて。",
+    "previous_zh": "让她进来。",
+    "previous_audio_duration_seconds": 2.199999999999998,
+    "status": "retained_in_draft",
+    "ja": "通してあげて。",
+    "zh_back_translation": "让她过去吧。",
+    "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+    "reading_hints": {},
+    "voice_role": "GPT",
+    "performance_direction_v004": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+    "tts_reading_text": "通してあげて。",
+    "voice_asset": "GPT",
+    "timeline_adopted": false,
+    "performance_acceptance": "逐句表演与准确性待验收；作者已确认声线",
+    "audio_state": "needs_recording"
+  },
+  "voice_id": "tsunTpzA4d2kBihHrZ2R",
+  "voice_source": "selected v004 candidate 1",
+  "body": {
+    "text": "通してあげて。",
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "ja"
+  },
+  "status": "saved_pending_review",
+  "author_performance_accepted": false,
+  "request_id": "JbV0YQJLbLpYQA96Vkxa",
+  "character_cost_header": "7",
+  "file": "声音/缺口补齐-v008/VO-CY004D-01__GPT.mp3",
+  "bytes": 20941,
+  "sha256": "efc2bc954130a61a14c8a9abbd488d843a762a2b49858d2dc2680238c1e8cabd",
+  "media": {
+    "format": {
+      "duration": "1.253878"
+    }
+  },
+  "decode_ok": true
+}

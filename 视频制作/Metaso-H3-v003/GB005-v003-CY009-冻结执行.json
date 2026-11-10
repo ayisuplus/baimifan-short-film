@@ -1,0 +1,55 @@
+{
+  "batch": {
+    "batch_number": 6,
+    "batch_id": "GB005",
+    "attempt_id": "GB005-v003-CY009",
+    "title": "独自离去、搓手迟疑与起身目送",
+    "shot_ids": [
+      "CY009"
+    ],
+    "film_start": 69.592729,
+    "part_offset": 0,
+    "used_seconds": 5,
+    "duration": 5,
+    "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。5秒。鲸帽孩子已经背对远处软榻，朝镜头方向离开。她一边轻擦眼泪一边沿地面缓慢走近镜头，不回头、不转身、不走向软榻；相机缓缓后退保持孩子全身。远处白衣GPT始终横躺在同一榻上，头左脚右，只用眼睛跟随孩子，不起身。孩子0–1.7秒轻声说一次<d>[Japanese] じゃあ、自分で行く。</d>，随后嘴闭合，难过却坚持地走。宫殿台阶、软榻、窗格位置不变。",
+    "references": [
+      {
+        "slot": 1,
+        "path": "镜头设计/图像/数学宫殿-v056/CY009.png",
+        "sha256": "50c30570f97b23d3209329d6b7985de58d8eb56a2fa05fbe30257c6235ca9ab0",
+        "role": "first_frame"
+      }
+    ],
+    "estimated_credits": 51.0,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "原图已面向离开方向，取消额外转身；锁定背景GPT躺姿，孩子向近处退出。",
+    "repair_of": {
+      "author_rejected_version": "v002",
+      "batch_id": "GB005"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json",
+    "mode": "first_frame"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。5秒。鲸帽孩子已经背对远处软榻，朝镜头方向离开。她一边轻擦眼泪一边沿地面缓慢走近镜头，不回头、不转身、不走向软榻；相机缓缓后退保持孩子全身。远处白衣GPT始终横躺在同一榻上，头左脚右，只用眼睛跟随孩子，不起身。孩子0–1.7秒轻声说一次<d>[Japanese] じゃあ、自分で行く。</d>，随后嘴闭合，难过却坚持地走。宫殿台阶、软榻、窗格位置不变。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115169766116225024"
+        },
+        "role": "first_frame"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 5,
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者要求修复第6、11、20、21、39批剧情与空间错误，沿用已授权Metaso H3积分；40仅必要接头。无充值。"
+}

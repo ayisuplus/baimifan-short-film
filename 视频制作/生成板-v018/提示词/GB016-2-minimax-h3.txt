@@ -1,0 +1,17 @@
+subject_definitions:
+<Picture 1>=ChatGPT四视图：同一人四角度，身份服饰保持
+<Picture 2>=Gemini四视图：同一人四角度，身份服饰保持
+<Picture 3>=构图状态，非强制首帧
+summary:
+[reference generation] 哥特异世界动画，16:9，15秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。
+retention_analysis:
+身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。
+detailed_description:
+[Shot 1] 0–4s <Picture 3>；画内:ChatGPT、Gemini。合扇声收尾后明确切回闪中的另一地点，不声称两人当场走入小屋；书在开镜时已摊开。小屋双人中景从摊开的书与Gemini微微抬构图纳入桌旁GPT，随后保持两人同框完成呼名和回答。同一个双人镜内，GPT呼名，Gemini从已经摊开的书上抬眼回应。 声音:室内灯火、纸页微响，呼名与回应完整清楚。
+0.1–1.8s ChatGPT 匹配口型:<d>[Japanese] ジェミニ。</d>；仅一次。
+2–3.28s Gemini 匹配口型:<d>[Japanese] 私も行く。</d>；仅一次。
+4–15s保持末态微动，无新动作台词，剪去余量。
+overall_soundscape:
+仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。
+non_diegetic_music:
+N/A

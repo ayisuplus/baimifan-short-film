@@ -1,0 +1,132 @@
+{
+  "role": "千问",
+  "status": "web_direct_tts_saved_pending_review",
+  "lines": [
+    {
+      "id": "VO-CY026A1-01",
+      "role": "千问",
+      "previous_batch": 21,
+      "previous_record_frame": 5805,
+      "previous_ja": "行きましょう。",
+      "previous_zh": "走吧。",
+      "previous_audio_duration_seconds": 1.1500249999999899,
+      "status": "retained_in_draft",
+      "ja": "行きましょう。",
+      "zh_back_translation": "走吧。",
+      "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+      "reading_hints": {}
+    },
+    {
+      "id": "VO-CY024A0-01",
+      "role": "千问",
+      "previous_batch": 25,
+      "previous_record_frame": 6401,
+      "previous_ja": "つかまって。",
+      "previous_zh": "抱紧我。",
+      "previous_audio_duration_seconds": 1.3137499999999893,
+      "status": "retained_in_draft",
+      "ja": "つかまって。",
+      "zh_back_translation": "抱紧我。",
+      "direction": "回忆结束时千问已经在右侧柱内抱稳小鱼，只收紧抱持，不再次从地面抱起；低声安抚，随后看向GPT。",
+      "reading_hints": {}
+    }
+  ],
+  "previews": [
+    {
+      "file": "千问-直配-2wqApxs9dzFQNUwgr6qw.mp3",
+      "candidate": 1,
+      "history": {
+        "alignments": null,
+        "avatar_context": null,
+        "character_count_change_from": 709,
+        "character_count_change_to": 723,
+        "content_type": "audio/mpeg",
+        "date_unix": 1793257129,
+        "dialogue": [
+          {
+            "text": "行きましょう。\nつかまって。",
+            "voice_id": "4lOQ7A2l7HPuG7UIHiKA",
+            "voice_name": "Kyoko"
+          }
+        ],
+        "feedback": null,
+        "history_item_id": "2wqApxs9dzFQNUwgr6qw",
+        "model_id": "eleven_v4",
+        "output_format": "mp3_44100_128",
+        "request_id": "IC9HQL5heZvmDpnpjgz5",
+        "settings": {
+          "focus": null,
+          "internal_sampling_config": null,
+          "similarity": 0.75,
+          "stability": 0.5,
+          "text_boost": false
+        },
+        "share_link_id": null,
+        "source": "TTS",
+        "state": "created",
+        "text": null,
+        "voice_category": null,
+        "voice_id": null,
+        "voice_name": null
+      },
+      "sha256": "0d8d9d9c143d007274fcd1f8d0807a4c68bf670dfaa083d9b5999511349f99ad",
+      "bytes": 48283,
+      "media": {
+        "format": {
+          "duration": "1.959125"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    },
+    {
+      "file": "千问-直配-fdLllESjpHB5Ma8cj8dS.mp3",
+      "candidate": 2,
+      "history": {
+        "alignments": null,
+        "avatar_context": null,
+        "character_count_change_from": 709,
+        "character_count_change_to": 709,
+        "content_type": "audio/mpeg",
+        "date_unix": 1793257130,
+        "dialogue": [
+          {
+            "text": "行きましょう。\nつかまって。",
+            "voice_id": "4lOQ7A2l7HPuG7UIHiKA",
+            "voice_name": "Kyoko"
+          }
+        ],
+        "feedback": null,
+        "history_item_id": "fdLllESjpHB5Ma8cj8dS",
+        "model_id": "eleven_v4_exp",
+        "output_format": "mp3_44100_128",
+        "request_id": "isvcwwqJmTwiCFM71Dyy",
+        "settings": {
+          "focus": null,
+          "internal_sampling_config": null,
+          "similarity": 0.75,
+          "stability": 0.5,
+          "text_boost": false
+        },
+        "share_link_id": null,
+        "source": "TTS",
+        "state": "created",
+        "text": null,
+        "voice_category": null,
+        "voice_id": null,
+        "voice_name": null
+      },
+      "sha256": "2af0de8fbba4773f98a642875bd2b14e08f2cf78d82183da23bea4f7037011aa",
+      "bytes": 48283,
+      "media": {
+        "format": {
+          "duration": "1.959125"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    }
+  ],
+  "generation_count": 1,
+  "note": "One web submission can produce main and experimental variants; history records actual charge."
+}

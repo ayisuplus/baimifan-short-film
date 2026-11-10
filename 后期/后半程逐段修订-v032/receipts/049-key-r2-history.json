@@ -1,0 +1,187 @@
+{
+  "prompt": [
+    43,
+    "19154b6d-3f1d-4128-b8c2-1c6547450f75",
+    {
+      "1": {
+        "class_type": "LoadImage",
+        "inputs": {
+          "image": "Baimifan_v032_049_source.png"
+        }
+      },
+      "5": {
+        "class_type": "UNETLoader",
+        "inputs": {
+          "unet_name": "qwen_image_2.1_bf16.safetensors",
+          "weight_dtype": "fp8_e4m3fn"
+        }
+      },
+      "6": {
+        "class_type": "CLIPLoader",
+        "inputs": {
+          "clip_name": "qwen3vl_8b_fp8_scaled.safetensors",
+          "type": "qwen_image",
+          "device": "cpu"
+        }
+      },
+      "7": {
+        "class_type": "VAELoader",
+        "inputs": {
+          "vae_name": "qwen_image_2.1_vae_bf16.safetensors"
+        }
+      },
+      "8": {
+        "class_type": "QwenImage21Cache",
+        "inputs": {
+          "model": [
+            "5",
+            0
+          ],
+          "device": "cpu",
+          "dtype": "default"
+        }
+      },
+      "9": {
+        "class_type": "TextEncodeQwenImage21",
+        "inputs": {
+          "clip": [
+            "6",
+            0
+          ],
+          "vae": [
+            "7",
+            0
+          ],
+          "images.image_1": [
+            "1",
+            0
+          ],
+          "prompt": "Redraw the editable source image1 as traditional hand-drawn Japanese gothic fantasy anime, matching ONLY the drawing style of image2: confident clean dark ink contours, flat matte skin colors, hard-edged two-tone cel shadows, broad connected anime hair locks with simple highlight bands, graphic fabric folds and hand-drawn embroidery. Painted gouache background, consistent line weight and selective detail. Preserve source character identity, costume and story unless the specific correction says otherwise. No glossy 3D, plastic skin, realistic single hair strands, photorealistic cloth, PBR metal, CGI, excessive bloom, depth-of-field blur, text or captions. Blue moonlit cathedral, restrained amber candles. Preserve the exact blue-violet braided adult Qianwen and blue whale-hooded child from the source, with original outfits and folded fan. Re-stage the moment just after the guard releases the child: the child is at screen CENTER LEFT, off balance taking a step away from a black-robed acolyte whose empty hand is visible at the FAR LEFT edge. Qianwen enters from screen RIGHT, low in a half crouch, her LEFT forearm already reaching firmly behind the child's back and under the near arm; her RIGHT hand holds the folded fan close to her own body. Put the thick stone refuge pillar at the RIGHT edge, with open floor between child and pillar. The child is not standing calmly posing beside her. The small child is about half the adult's height, not an infant. Clear feet and support contacts, blue night glass and muted amber candle light; no daytime lighting. CRITICAL ANATOMICAL HANDEDNESS: Qianwen faces the camera. Her RIGHT hand is on the VIEWER LEFT and holds the closed fan next to her RIGHT hip on VIEWER LEFT. Her LEFT arm is on VIEWER RIGHT and supports the girl on VIEWER RIGHT of her torso. Place the girl immediately to the VIEWER RIGHT of Qianwen, between Qianwen and the refuge pillar. Qianwen twists left to scoop the child. Do not put the fan in the viewer-right hand. Keep the guard well behind them to far left.",
+          "negative_prompt": "3d, cgi, photorealism, glossy plastic skin, realistic hair strands, volumetric rendering, text, watermark",
+          "resolution": 992,
+          "images.image_2": [
+            "2",
+            0
+          ]
+        }
+      },
+      "10": {
+        "class_type": "KSampler",
+        "inputs": {
+          "model": [
+            "8",
+            0
+          ],
+          "positive": [
+            "9",
+            0
+          ],
+          "negative": [
+            "9",
+            1
+          ],
+          "latent_image": [
+            "9",
+            2
+          ],
+          "seed": 202610304205,
+          "steps": 40,
+          "cfg": 1.0,
+          "sampler_name": "euler",
+          "scheduler": "simple",
+          "denoise": 1.0
+        }
+      },
+      "11": {
+        "class_type": "VAEDecodeTiled",
+        "inputs": {
+          "samples": [
+            "10",
+            0
+          ],
+          "vae": [
+            "7",
+            0
+          ],
+          "tile_size": 512,
+          "overlap": 64,
+          "temporal_size": 64,
+          "temporal_overlap": 8
+        }
+      },
+      "18": {
+        "class_type": "SaveImage",
+        "inputs": {
+          "images": [
+            "11",
+            0
+          ],
+          "filename_prefix": "Baimifan/v032/049-key-r2"
+        }
+      },
+      "2": {
+        "class_type": "LoadImage",
+        "inputs": {
+          "image": "Baimifan_v032_style.png"
+        }
+      }
+    },
+    {
+      "comfy_usage_source": "comfy-cli/pipe",
+      "client_id": "676acb6d-82eb-4a36-a2c4-b84e62b693e1",
+      "create_time": 1793342765720
+    },
+    [
+      "18"
+    ]
+  ],
+  "outputs": {
+    "18": {
+      "images": [
+        {
+          "filename": "049-key-r2_00001_.png",
+          "subfolder": "Baimifan\\v032",
+          "type": "output"
+        }
+      ]
+    }
+  },
+  "status": {
+    "status_str": "success",
+    "completed": true,
+    "messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "19154b6d-3f1d-4128-b8c2-1c6547450f75",
+          "timestamp": 1793342867383
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [
+            "2"
+          ],
+          "prompt_id": "19154b6d-3f1d-4128-b8c2-1c6547450f75",
+          "timestamp": 1793342867434
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "19154b6d-3f1d-4128-b8c2-1c6547450f75",
+          "timestamp": 1793342996065
+        }
+      ]
+    ]
+  },
+  "meta": {
+    "18": {
+      "node_id": "18",
+      "display_node": "18",
+      "parent_node": null,
+      "real_node_id": "18"
+    }
+  }
+}

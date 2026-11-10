@@ -1,0 +1,114 @@
+{
+  "1": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "Baimifan_v034_113-key-r2.png"
+    }
+  },
+  "5": {
+    "class_type": "UNETLoader",
+    "inputs": {
+      "unet_name": "qwen_image_2.1_bf16.safetensors",
+      "weight_dtype": "fp8_e4m3fn"
+    }
+  },
+  "6": {
+    "class_type": "CLIPLoader",
+    "inputs": {
+      "clip_name": "qwen3vl_8b_fp8_scaled.safetensors",
+      "type": "qwen_image",
+      "device": "cpu"
+    }
+  },
+  "7": {
+    "class_type": "VAELoader",
+    "inputs": {
+      "vae_name": "qwen_image_2.1_vae_bf16.safetensors"
+    }
+  },
+  "8": {
+    "class_type": "QwenImage21Cache",
+    "inputs": {
+      "model": [
+        "5",
+        0
+      ],
+      "device": "cpu",
+      "dtype": "default"
+    }
+  },
+  "9": {
+    "class_type": "TextEncodeQwenImage21",
+    "inputs": {
+      "clip": [
+        "6",
+        0
+      ],
+      "vae": [
+        "7",
+        0
+      ],
+      "images.image_1": [
+        "1",
+        0
+      ],
+      "prompt": "Traditional hand-drawn 2D Japanese gothic anime matching the established Claude struggle shot: confident dark ink contours, clearly grouped orange or white-lilac hair locks, matte flat skin, hard-edged two-tone cel shadows, hand-painted dark backgrounds. Retain drawn lace and charred fabric texture; do not erase lace or replace costumes with generic plain dresses. No CGI, plastic skin, volumetric beauty rendering, shiny doll faces or photographic hair. Recompose this as a clean intimate rear FOLLOW SHOT showing ONLY TWO people: GPT carrying Claude away from camera toward the FRONT ENTRANCE and moonlit city visible ahead. Keep the existing enormous open entrance, blue night moon, wet aisle, carved columns and distant depth. REMOVE ALL figures on both sides: no cat-eared girls, no white infinity-mark girl, no hooded adult, no knights, no standing companions, no child anywhere in frame. The other companions remain entirely OFF SCREEN, this is a closer framing following the preceding two-person close-up; do not show anybody dissolving. Place the two-person silhouette slightly RIGHT of center so the long aisle and entrance remain clearly visible to its LEFT. GPT faces away from camera. Claude is in a clearly HORIZONTAL BRIDAL CARRY across GPT's front, never sitting vertically on a hip and never riding piggyback: her upper back lies against GPT's supporting arm, both bent knees are supported from BELOW by GPT's other forearm, and both bare lower legs project together toward screen RIGHT. Her orange-haired head rests close to GPT's shoulder. Keep Claude's charred torn lace and damaged veil, not restored white clothing. GPT's TWO lavender DRAGON MEMBRANE wings are folded tight against her back, finger ribs and smooth webbing, not wide open, never feathers; her one tail trails low clear of her feet. Show enough of GPT's feet and the aisle to permit two grounded walking steps away from camera. All interior candles and braziers are extinguished; no flames on wet floor or logs. The burning empty cross is far behind the camera and not visible here. No new bodies, no duplicated people, no child.",
+      "negative_prompt": "3d, cgi, photorealism, glossy plastic skin, realistic hair strands, volumetric rendering, text, watermark",
+      "resolution": 992
+    }
+  },
+  "10": {
+    "class_type": "KSampler",
+    "inputs": {
+      "model": [
+        "8",
+        0
+      ],
+      "positive": [
+        "9",
+        0
+      ],
+      "negative": [
+        "9",
+        1
+      ],
+      "latent_image": [
+        "9",
+        2
+      ],
+      "seed": 202610303713,
+      "steps": 40,
+      "cfg": 1.0,
+      "sampler_name": "euler",
+      "scheduler": "simple",
+      "denoise": 1.0
+    }
+  },
+  "11": {
+    "class_type": "VAEDecodeTiled",
+    "inputs": {
+      "samples": [
+        "10",
+        0
+      ],
+      "vae": [
+        "7",
+        0
+      ],
+      "tile_size": 512,
+      "overlap": 64,
+      "temporal_size": 64,
+      "temporal_overlap": 8
+    }
+  },
+  "18": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "11",
+        0
+      ],
+      "filename_prefix": "Baimifan/v034/113-key-r2"
+    }
+  }
+}

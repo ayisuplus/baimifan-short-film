@@ -1,0 +1,275 @@
+{
+  "batch": {
+    "batch_number": 22,
+    "batch_id": "GB016-2",
+    "title": "小屋里的回应",
+    "shot_ids": [
+      "CY026B"
+    ],
+    "film_start": 244.362729,
+    "film_end": 248.362729,
+    "used_seconds": 4,
+    "original_duration": 15,
+    "duration": 5,
+    "prompt": "subject_definitions:\n<Picture 1>=ChatGPT四视图：同一人四角度，身份服饰保持\n<Picture 2>=Gemini四视图：同一人四角度，身份服饰保持\n<Picture 3>=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，5秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–4s <Picture 3>；画内:ChatGPT、Gemini。合扇声收尾后明确切回闪中的另一地点，不声称两人当场走入小屋；书在开镜时已摊开。小屋双人中景从摊开的书与Gemini微微抬构图纳入桌旁GPT，随后保持两人同框完成呼名和回答。同一个双人镜内，GPT呼名，Gemini从已经摊开的书上抬眼回应。 声音:呼名、短停、回应完整留在本镜；室内灯火与纸页微响，不另切书页特写。 GPT在镜内0.1–1.08秒说完同一句日语；Gemini在镜内1.38–2.61秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0.1–1.08s ChatGPT 匹配口型:<d>[Japanese] ジェミニ。</d>；仅一次。\n1.38–2.61s Gemini 匹配口型:<d>[Japanese] 私も行く。</d>；仅一次。\n4–5s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "ChatGPT",
+        "name_en": "ChatGPT",
+        "asset_id": "CHAR-GPT",
+        "status": "候选待作者审阅",
+        "limits": "两侧躯干略带斜角。开衩与腿饰以原图/正面图的角色右腿为准，不按对称读取；尾巴弯曲是姿态参考，侧背含补全。",
+        "purpose": "ChatGPT四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9",
+        "source_path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+        "source_sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+        "sha1": "ff68ef289edac6743d7e87bdfe142f00332d50ce",
+        "file_size": 2143481,
+        "width": 2172,
+        "height": 869,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-GPT-TURN-v001-h3-pad.png"
+      },
+      {
+        "slot": 2,
+        "path": "资产/图像/四视图复用/C06_Gemini-角色设定卡.png",
+        "kind": "identity",
+        "person": "Gemini",
+        "name_en": "Gemini",
+        "asset_id": "MULKZI2W8B4P3",
+        "status": "作者指定复用",
+        "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+        "purpose": "Gemini四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "93b967c7dc79a90087885ddf096a8f6a3c2b531d562f930e3191de49deff8dab",
+        "source_path": "资产/图像/四视图复用/C06_Gemini-角色设定卡.png",
+        "source_sha256": "93b967c7dc79a90087885ddf096a8f6a3c2b531d562f930e3191de49deff8dab",
+        "sha1": "87025d41bd771a9d4389b4dfcaa14f62ace4db5a",
+        "file_size": 2783902,
+        "width": 1448,
+        "height": 1086,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\图像\\四视图复用\\C06_Gemini-角色设定卡.png"
+      },
+      {
+        "slot": 3,
+        "path": "镜头设计/图像/展翼与扇叶-v033/CY026B-v033-r1.png",
+        "kind": "composition",
+        "shot_id": "CY026B",
+        "purpose": "构图、空间与代表状态：小屋里的回应；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "1b41aa668b4b916d1ad6c83fa23e045d20cf4129cd6ad75b2ee56c24b1b997f4",
+        "source_path": "镜头设计/图像/展翼与扇叶-v033/CY026B-v033-r1.png",
+        "source_sha256": "1b41aa668b4b916d1ad6c83fa23e045d20cf4129cd6ad75b2ee56c24b1b997f4",
+        "sha1": "0d8f32e834333c0cc3a212a92cea076e4671ab23",
+        "file_size": 2481439,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\展翼与扇叶-v033\\CY026B-v033-r1.png"
+      }
+    ],
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 5,
+      "count": 1
+    },
+    "estimated_credits": 70,
+    "estimate_basis": "15秒报价210，按秒计费推算，提交前以网页实价为准",
+    "budget_selected": true,
+    "status": "prepared_not_submitted",
+    "task_id": null,
+    "node_id": "v-SRsE59Iaa1",
+    "display_name": "第22批 · 小屋里的回应 · H3 v001"
+  },
+  "request": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "node": "v-SRsE59Iaa1",
+    "idempotencyKey": "bmf-h3-GB016-2-wire-full",
+    "model": "MiniMax-Hailuo-H3",
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 5,
+      "count": 1
+    },
+    "prompt": "subject_definitions:\n{{Node i-07HfqKjhJ7}}=ChatGPT四视图：同一人四角度，身份服饰保持\n{{Node i-CecC9uRF7p}}=Gemini四视图：同一人四角度，身份服饰保持\n{{Node i-mPf36fwkVE}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，5秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–4s {{Node i-mPf36fwkVE}}；画内:ChatGPT、Gemini。合扇声收尾后明确切回闪中的另一地点，不声称两人当场走入小屋；书在开镜时已摊开。小屋双人中景从摊开的书与Gemini微微抬构图纳入桌旁GPT，随后保持两人同框完成呼名和回答。同一个双人镜内，GPT呼名，Gemini从已经摊开的书上抬眼回应。 声音:呼名、短停、回应完整留在本镜；室内灯火与纸页微响，不另切书页特写。 GPT在镜内0.1–1.08秒说完同一句日语；Gemini在镜内1.38–2.61秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0.1–1.08s ChatGPT 匹配口型:<d>[Japanese] ジェミニ。</d>；仅一次。\n1.38–2.61s Gemini 匹配口型:<d>[Japanese] 私も行く。</d>；仅一次。\n4–5s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "leftEnsure": [
+      "i-07HfqKjhJ7",
+      "i-CecC9uRF7p",
+      "i-mPf36fwkVE"
+    ],
+    "newName": "第22批 · 小屋里的回应 · H3 v001",
+    "run": false
+  },
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-SRsE59Iaa1",
+    "node": {
+      "id": "v-SRsE59Iaa1",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第22批 · 小屋里的回应 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Image 1}}=ChatGPT四视图：同一人四角度，身份服饰保持\n{{Image 2}}=Gemini四视图：同一人四角度，身份服饰保持\n{{Image 3}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，5秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–4s {{Image 3}}；画内:ChatGPT、Gemini。合扇声收尾后明确切回闪中的另一地点，不声称两人当场走入小屋；书在开镜时已摊开。小屋双人中景从摊开的书与Gemini微微抬构图纳入桌旁GPT，随后保持两人同框完成呼名和回答。同一个双人镜内，GPT呼名，Gemini从已经摊开的书上抬眼回应。 声音:呼名、短停、回应完整留在本镜；室内灯火与纸页微响，不另切书页特写。 GPT在镜内0.1–1.08秒说完同一句日语；Gemini在镜内1.38–2.61秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0.1–1.08s ChatGPT 匹配口型:<d>[Japanese] ジェミニ。</d>；仅一次。\n1.38–2.61s Gemini 匹配口型:<d>[Japanese] 私も行く。</d>；仅一次。\n4–5s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-07HfqKjhJ7",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d74110bde0f98a0b44ed3c518d48eaea282c1a87.png"
+            },
+            {
+              "nodeId": "i-CecC9uRF7p",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/43474b657c35a7e84369b01ca148c2018c10a860.png"
+            },
+            {
+              "nodeId": "i-mPf36fwkVE",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/bbab327b27cca706524774d9b9160b81c3e4682a.png"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 5
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-6n1fSpOePV",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/c9c37061f22385d4bbf0fcbb7cd81f596fc6400c.png",
+              "label": "C03_Kimi-角色设定卡",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-uKDIVWmghN",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/88234e0405150bf25c82642dd7493f40996749c6.png",
+              "label": "CHAR-CLAUDE-TURN-v001 · H3留白适配",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-KjFmn9fH3P",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/461e6b5fb5c0520134c1af43198c6212fb916260.png",
+              "label": "CHAR-PALADIN-v001",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-07HfqKjhJ7",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d74110bde0f98a0b44ed3c518d48eaea282c1a87.png",
+              "label": "CHAR-GPT-TURN-v001-h3-pad",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-CW9KxwOOL4",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/96a6b1e660d5ca934f5a6e6289c6e5ba50a842df.png",
+              "label": "C04_Qwen-角色设定卡",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-u7aIUezhCP",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/798c59ea4a28ef7edf0d831a526f9e5402f08162.png",
+              "label": "CY024K4-v048-r1",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-DHGEy2XRXM",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/9632c73ba1bb02cb4981b7568489557afdc39e81.png",
+              "label": "CY023A-v014-r3",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-yIfqhCJ6tM",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/66d78992742266c07e2adc63a2e5918c48396005.png",
+              "label": "CY026A-v009",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-82KjbDDJMc",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/b7249248150a5e04dfe06488a6c6cb68a8eb6d5b.png",
+              "label": "CY026A1-v009",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-07HfqKjhJ7",
+            "i-CecC9uRF7p",
+            "i-mPf36fwkVE"
+          ],
+          "mixedListOrder": [
+            "i-07HfqKjhJ7",
+            "i-CecC9uRF7p",
+            "i-mPf36fwkVE"
+          ]
+        },
+        "_updatedAtMs": 1793121580000,
+        "_lastAppliedFullyAtMs": 1793121580000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        }
+      },
+      "position": {
+        "x": 5592,
+        "y": 5046
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-SRsE59Iaa1",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

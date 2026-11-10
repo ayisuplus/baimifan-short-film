@@ -1,0 +1,40 @@
+{
+  "id": "BGM-CY-AM-26",
+  "bvid": "BV1HW41187A4",
+  "part": 26,
+  "title": "Black Windy Days",
+  "display_title": "黑风之日",
+  "work": "魔法使的新娘",
+  "composer": "松本淳一",
+  "source_page_title": "Black Windy Days",
+  "navigation_translation": "中文曲名为导航释义；原名保留。",
+  "cid": 28511863,
+  "source": "https://www.bilibili.com/video/BV1HW41187A4/?p=26",
+  "uploader": "天使动漫",
+  "video_title": "【魔法使的新娘】OST原声集正式版 插曲收录",
+  "path": "资产/声音/BGM/重选-v003/BGM-CY-AM-26.m4a",
+  "bytes": 2201260,
+  "sha256": "a876b4ab70681b94d0f9182b67f02e631af083145d29c64feb3e070040939286",
+  "duration": 132.521833,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "bit_rate": "131814"
+      }
+    ],
+    "format": {
+      "duration": "132.521833"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

@@ -1,0 +1,44 @@
+{
+  "1": {
+    "class_type": "BreezeTTS2LoadModel",
+    "inputs": {
+      "model": "bf16 (best quality)",
+      "dtype": "bf16",
+      "device": "cuda",
+      "attention": "sdpa",
+      "decode_mode": "eager",
+      "download_if_missing": false
+    }
+  },
+  "2": {
+    "class_type": "BreezeTTS2VoiceDesign",
+    "inputs": {
+      "breeze_model": [
+        "1",
+        0
+      ],
+      "text": "走吧。别怕，抱紧我。夜风虽凉，有我在，你不必独自面对。等这一切平息，我会带你平安回去。",
+      "instruction": "一位古风美人的声音，端雅、从容，温柔中有笃定的保护感。用自然清晰的普通话说话，像近距离安抚身边的人，不要播音腔或吟诗腔。",
+      "cfg_scale": 4.0,
+      "max_new_tokens": 256,
+      "temperature": 0.9,
+      "top_k": 50,
+      "top_p": 1.0,
+      "repetition_penalty": 1.1,
+      "depth_temperature": 0.9,
+      "depth_top_k": 50,
+      "depth_top_p": 1.0,
+      "seed": 20261029
+    }
+  },
+  "3": {
+    "class_type": "SaveAudio",
+    "inputs": {
+      "audio": [
+        "2",
+        0
+      ],
+      "filename_prefix": "audio/BreezeTTS2/WhiteRice-Qwen-v005/Chinese-Design"
+    }
+  }
+}

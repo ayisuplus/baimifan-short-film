@@ -1,0 +1,25 @@
+{
+  "role": "Grok",
+  "voice_description": "Native Japanese, standard Japanese. An adult female warrior in a dramatic fantasy anime. A slightly husky lower voice, bold, relaxed and self-assured. Short replies sound willing and fearless, with dry warmth. Natural dialogue rather than a trailer announcer. Studio-quality recording.",
+  "text": "もちろん。\nもちろん。\nもちろん。\nもちろん。\nもちろん。\nもちろん。\nもちろん。\nもちろん。\nもちろん。\nもちろん。\nもちろん。\nもちろん。\nもちろん。\nもちろん。\nもちろん。\nもちろん。\nもちろん。",
+  "repeats": 17,
+  "lines": [
+    {
+      "id": "VO-CY026C-02",
+      "role": "Grok",
+      "previous_batch": 23,
+      "previous_record_frame": 5961,
+      "previous_ja": "もちろん。",
+      "previous_zh": "当然。",
+      "previous_audio_duration_seconds": 0.9800000000000182,
+      "status": "retained_in_draft",
+      "ja": "もちろん。",
+      "zh_back_translation": "当然。",
+      "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+      "reading_hints": {}
+    }
+  ],
+  "source_sha256": "f652eb4cb0f7759bcb90f84a1e2072367f00125d3bd7883bc5284ccc4c283477",
+  "status": "design_not_submitted_superseded_by_direct_tts",
+  "superseded_reason": "author requested direct synthesis for short dialogue"
+}

@@ -1,0 +1,21 @@
+任务：用 image_gen__imagegen 重绘一张电影关键帧，做参考图重绘（image-to-image）。
+
+必须使用 image_gen__imagegen 工具，传入 referenced_image_paths 指向源图路径。
+
+源图路径：
+G:\comfyui\ComfyUI\ComfyUI\output\Baimifan\v032\065b-key-r2_00001_.png
+
+重绘提示词（完整照用，不要删减、不要改写）：
+
+Redraw this image as traditional hand-drawn Japanese gothic fantasy anime: clean dark ink contours, hard-edged two-tone cel shadows, matte skin and broad painted background shapes. Keep composition and story identities. No glossy 3D, PBR, photoreal reflections, text or captions. Keep the same close-up framing: the pale white-haired young woman with her eyes gently closed, seen from slightly above, her long hair spreading across the frame, the dark star-patterned garment at the bottom, and the cold starry night behind her. 1: Redraw the face and skin in flat cel style with clean dark ink contours on the eyelids, lashes and nose line, hard-edged two-tone shadow on the cheeks and nose bridge, and matte skin with NO glossy gradient, NO airbrushed soft shading, NO photographic skin texture. 2: Redraw the hair as broad flat connected locks with dark ink separation lines and two or three flat cool values, not individually rendered glossy strands and not 3D hair shading. 3: Keep the night background as flat painted star shapes and simple dark blue brush shapes, with the same cold blue palette. 4: Keep the calm closed-eye expression and the exact framing of the head in the frame.
+
+原始问题（供你理解为何这样改，图中现状是）：
+- 这张特写是软渲染/3D 化的皮肤与光影，头发是逐根写实发丝，和全片其余镜头的平涂墨线赛璐璐画风不一致。
+- 同段的 063/064/066 等回忆镜头已是手绘二维，需要对齐。
+
+输出要求：
+1. 生成的图片保存为 PNG 到：E:\projects\内容创作\故事短片\白米饭\后期\全片画风与动作统一-v034\codex-keyfix\065b-style-codex.png
+2. 宽高比保持 16:9，与源图一致。
+3. 不要改动源图，不要改动其他任何文件，不要执行 git 操作。
+4. 生成后用 view_image 查看自己生成的图片，核对：面部是否已是墨线加硬边平涂、无油亮渐变；头发是否已是块面发束；构图与闭眼表情是否保持。
+5. 最后回报：输出文件的绝对路径，以及你对自己生成结果是否满足上述三点的判断（如实说明，不满意就说不满意）。

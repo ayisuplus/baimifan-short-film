@@ -1,0 +1,415 @@
+{
+  "batch": {
+    "batch_number": 16,
+    "batch_id": "GB013",
+    "title": "黑焰、列阵与破门",
+    "shot_ids": [
+      "CY022B2",
+      "CY022B1",
+      "CY026",
+      "CY022C",
+      "CY023"
+    ],
+    "film_start": 184.272729,
+    "film_end": 198.272729,
+    "used_seconds": 14,
+    "original_duration": 15,
+    "duration": 14,
+    "prompt": "subject_definitions:\n<Picture 1>=教主四视图：同一人四角度，身份服饰保持\n<Picture 2>=DeepSeek四视图：同一人四角度，身份服饰保持\n<Picture 3>=圣骑士四视图：同一人四角度，身份服饰保持\n<Picture 4>=ChatGPT四视图：同一人四角度，身份服饰保持\n<Picture 5>=构图状态，非强制首帧\n<Picture 6>=构图状态，非强制首帧\n<Picture 7>=构图状态，非强制首帧\n<Picture 8>=构图状态，非强制首帧\n<Picture 9>=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，14秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–4s <Picture 5>；画内:教主、教徒、DeepSeek。接同一持续火势，近景可见的人物变成火幕完全遮蔽；吟唱保持连续。中殿后部低位大全景缓缓后移，拉开教徒环列和火海尺度，始终不越过火幕寻找Claude。远景用连续黑焰完全遮住Claude；教徒环列吟唱，普通火盆保持橙色。 人物:Claude完全被黑焰遮蔽，不出现可辨认身体或脸。 声音:教徒低沉齐声吟唱、殿内混响与柴火爆裂；不添加可辨歌词。跨切外景<Picture 6>后由风声压低，回室内<Picture 8>恢复，<Picture 9>破门时骤停。\n[Shot 2] 4–7s <Picture 6>；画内:圣骑士。切门外同一时刻，室内吟唱变闷被夜风压低；甲靴声从后方接近，不提前揭GPT。门外低位中远景轻向后移给骑士越前，再随两列分流作小幅横向构图调整，中央通道保持空。两列骑士从后方越前，分往两翼列队，侧口岗哨转身警戒，中央留空。 人物:不提前露GPT。 声音:甲靴齐步由后及前、甲片轻碰；最后两声枪尾触地接下一镜脚步。承上镜室内吟唱在外景压低，保留旗帜风声。\n[Shot 3] 7–10s <Picture 7>；画内:ChatGPT、圣骑士。由枪尾触地节奏接银白鞋跟，不再重演骑士列队；沿留出的中路前进。侧后低机位腿部平行跟拍两步，构图上缘严格停在腰下，保留两翼甲靴与枪杆作尺度。只见GPT双腿、银白鞋、裙摆与尾部向前走过列队，头脸始终画外。 人物:GPT只露腰下腿、裙摆、单尾；骑士可见甲靴与枪杆。 声音:两步清晰鞋跟声、衣料掠动，不提前放踹门重音。\n[Shot 4] 10–12s <Picture 8>；画内:环境。从门外脚步切门内对应位置，吟唱恢复清楚；震动是破门动作的预备，不另演一次完整撞门。门内中央通道远景刻意稳住，以门缝冷光和门板的一次震动建立预兆，不穿门展示来者。火光掠过空旷的中央通道，尽头正门已经关紧。冷光从门缝漏入，门板忽然一震。 人物:门内环境空镜，教徒吟唱和门外动静画外。 声音:回到室内恢复清楚的无词集体吟唱与殿内混响，门板震动，接<Picture 9>破门时吟唱骤停。\n[Shot 5] 12–14s <Picture 9>；画内:ChatGPT。接门板同一次震动完成一次踹开，破门重音此刻落下，吟唱立即断掉。摄影机贴近门内侧，从右上踢来的鞋底与向镜头掠过的门板形成斜线；撞击轻震后定住，脸不必入画。GPT从门外以右脚一次踹开门扇。鞋底撞击处木料破裂，门板向殿内掠过，冷月光从裂口涌入；木屑沿受力方向飞散。她收脚落地跨入，2秒内完成，不重复踹。下一镜才完整揭示GPT与八位援军。 调度:摄影机贴近门内侧，从右上踢来的鞋底与向镜头掠过的门板形成斜线；撞击轻震后定住，脸不必入画。 本图是撞击瞬间，不是已完成破门的首帧。前景踢腿为右腿且保留腿饰；后景支撑左腿由长裙遮住，最多露鞋尖。脸在画外，力量由门板与碎屑体现。 注意:本图是撞击瞬间，不是已完成破门的首帧。前景踢腿为右腿且保留腿饰；后景支撑左腿由长裙遮住，最多露鞋尖。脸在画外，力量由门板与碎屑体现。 人物:GPT只见鞋、腿和衣摆，完整面容与队伍下一镜揭示。 声音:一次干脆破门声，教徒吟唱立刻切断。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+        "kind": "identity",
+        "person": "教主",
+        "name_en": "the High Priest",
+        "asset_id": "CHAR-PRIEST",
+        "status": "生成前修正候选，待作者审阅",
+        "limits": "四幅全身正、朝左、背、朝右；侧背结构为基于原立绘的合理补全，待作者确认。",
+        "purpose": "教主四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+        "source_path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+        "source_sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+        "sha1": "34f6c0a8dc9ecb9773d855ad67bb2225c2b36a57",
+        "file_size": 2283123,
+        "width": 1774,
+        "height": 887,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\图像\\四视图\\CHAR-PRIEST-TURN-v001.png"
+      },
+      {
+        "slot": 2,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+        "kind": "identity",
+        "person": "DeepSeek",
+        "name_en": "DeepSeek",
+        "asset_id": "CHAR-DEEPSEEK",
+        "status": "候选待作者审阅",
+        "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+        "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+        "source_path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+        "source_sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+        "sha1": "d9d76117c7724d34a366061d3bb38d3a2c70e2c6",
+        "file_size": 1868475,
+        "width": 2169,
+        "height": 868,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-DEEPSEEK-TURN-v003-h3-pad.png"
+      },
+      {
+        "slot": 3,
+        "path": "资产/图像/CHAR-PALADIN-v001.png",
+        "kind": "identity",
+        "person": "圣骑士",
+        "name_en": "the palace paladins",
+        "asset_id": "CHAR-PALADIN",
+        "status": "候选待作者审阅",
+        "limits": "侧背结构是设计补全，不作为精确工程正交图。队伍枪距、披风碰撞与行进连续性待动态验证。",
+        "purpose": "圣骑士四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d",
+        "source_path": "资产/图像/CHAR-PALADIN-v001.png",
+        "source_sha256": "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d",
+        "sha1": "8c06ab19982eec42c5594e272e81b2a8deb88052",
+        "file_size": 2428509,
+        "width": 1774,
+        "height": 887,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\图像\\CHAR-PALADIN-v001.png"
+      },
+      {
+        "slot": 4,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "ChatGPT",
+        "name_en": "ChatGPT",
+        "asset_id": "CHAR-GPT",
+        "status": "候选待作者审阅",
+        "limits": "两侧躯干略带斜角。开衩与腿饰以原图/正面图的角色右腿为准，不按对称读取；尾巴弯曲是姿态参考，侧背含补全。",
+        "purpose": "ChatGPT四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9",
+        "source_path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+        "source_sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+        "sha1": "ff68ef289edac6743d7e87bdfe142f00332d50ce",
+        "file_size": 2143481,
+        "width": 2172,
+        "height": 869,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-GPT-TURN-v001-h3-pad.png"
+      },
+      {
+        "slot": 5,
+        "path": "镜头设计/图像/火焰伤后与星火-v036/CY022B2-v036-r1.png",
+        "kind": "composition",
+        "shot_id": "CY022B2",
+        "purpose": "构图、空间与代表状态：黑焰吞没祭坛；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "2d47549f41bd9c4fb7637ecd6ac240a5286d1f502ec361d72aea4fb391007444",
+        "source_path": "镜头设计/图像/火焰伤后与星火-v036/CY022B2-v036-r1.png",
+        "source_sha256": "2d47549f41bd9c4fb7637ecd6ac240a5286d1f502ec361d72aea4fb391007444",
+        "sha1": "a5c308458dd38d2f8955543b450adadc2ed72bd9",
+        "file_size": 2508817,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\火焰伤后与星火-v036\\CY022B2-v036-r1.png"
+      },
+      {
+        "slot": 6,
+        "path": "镜头设计/图像/末轮叙事优化-v035/CY022B1-v035-r1.png",
+        "kind": "composition",
+        "shot_id": "CY022B1",
+        "purpose": "构图、空间与代表状态：甲靴越前，两翼列阵；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "b6dc0f3001d95affeeaca4dc3c376f70fba876397b2f55cb3ce4df7b46cee892",
+        "source_path": "镜头设计/图像/末轮叙事优化-v035/CY022B1-v035-r1.png",
+        "source_sha256": "b6dc0f3001d95affeeaca4dc3c376f70fba876397b2f55cb3ce4df7b46cee892",
+        "sha1": "a6a108cc84e791718b9f299a918d6a53a7f905d0",
+        "file_size": 2884122,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\末轮叙事优化-v035\\CY022B1-v035-r1.png"
+      },
+      {
+        "slot": 7,
+        "path": "镜头设计/图像/末轮叙事优化-v035/CY026-v035-r1.png",
+        "kind": "composition",
+        "shot_id": "CY026",
+        "purpose": "构图、空间与代表状态：裙摆先至，迈步向门；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "e5ec5b2810b465a6519e546a8bc771a04b7ce5928413a906d638f7a75d3f3c3f",
+        "source_path": "镜头设计/图像/末轮叙事优化-v035/CY026-v035-r1.png",
+        "source_sha256": "e5ec5b2810b465a6519e546a8bc771a04b7ce5928413a906d638f7a75d3f3c3f",
+        "sha1": "0f67636a5efb515fcd2a8dff40b1fd977369e8ec",
+        "file_size": 2736047,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\末轮叙事优化-v035\\CY026-v035-r1.png"
+      },
+      {
+        "slot": 8,
+        "path": "镜头设计/图像/天瀑空间-v014/CY022C-v014-r3.png",
+        "kind": "composition",
+        "shot_id": "CY022C",
+        "purpose": "构图、空间与代表状态：破门前的静默；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "d8a109fc20db99f6c25827c5984d49a0395baef52fe8930c1385850e5ba727b0",
+        "source_path": "镜头设计/图像/天瀑空间-v014/CY022C-v014-r3.png",
+        "source_sha256": "d8a109fc20db99f6c25827c5984d49a0395baef52fe8930c1385850e5ba727b0",
+        "sha1": "71dbef66161c983a15edbcb50bf65ba0f4359b75",
+        "file_size": 2532166,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\天瀑空间-v014\\CY022C-v014-r3.png"
+      },
+      {
+        "slot": 9,
+        "path": "镜头设计/图像/关键动作-v062/CY023-v062-r2.png",
+        "kind": "composition",
+        "shot_id": "CY023",
+        "purpose": "构图、空间与代表状态：砰；不是默认首帧",
+        "status": "v062关键动作新候选，作者已授权改拍，待成图审阅",
+        "limits": "",
+        "sha256": "54bb90cf93b1efd26d744fca02fb9cc57188cae66efdbc955a5081700909fefd",
+        "source_path": "镜头设计/图像/关键动作-v062/CY023-v062-r2.png",
+        "source_sha256": "54bb90cf93b1efd26d744fca02fb9cc57188cae66efdbc955a5081700909fefd",
+        "sha1": "1ef88bdad924c85478c556da03706453aac7ffad",
+        "file_size": 2408200,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\关键动作-v062\\CY023-v062-r2.png"
+      }
+    ],
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 14,
+      "count": 1
+    },
+    "estimated_credits": 196,
+    "estimate_basis": "15秒报价210，按秒计费推算，提交前以网页实价为准",
+    "budget_selected": true,
+    "status": "prepared_not_submitted",
+    "task_id": null,
+    "node_id": "v-QHVfr6WhnF",
+    "display_name": "第16批 · 黑焰、列阵与破门 · H3 v001"
+  },
+  "request": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "node": "v-QHVfr6WhnF",
+    "idempotencyKey": "bmf-h3-GB013-wire-full",
+    "model": "MiniMax-Hailuo-H3",
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 14,
+      "count": 1
+    },
+    "prompt": "subject_definitions:\n{{Node i-rFc0P8dawG}}=教主四视图：同一人四角度，身份服饰保持\n{{Node i-JAT4Pva730}}=DeepSeek四视图：同一人四角度，身份服饰保持\n{{Node i-KjFmn9fH3P}}=圣骑士四视图：同一人四角度，身份服饰保持\n{{Node i-07HfqKjhJ7}}=ChatGPT四视图：同一人四角度，身份服饰保持\n{{Node i-lQgWPU0LAW}}=构图状态，非强制首帧\n{{Node i-AHhtjic4WU}}=构图状态，非强制首帧\n{{Node i-l5ihdqFDBm}}=构图状态，非强制首帧\n{{Node i-bd6oeNGJcq}}=构图状态，非强制首帧\n{{Node i-HmcgOpWenS}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，14秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–4s {{Node i-lQgWPU0LAW}}；画内:教主、教徒、DeepSeek。接同一持续火势，近景可见的人物变成火幕完全遮蔽；吟唱保持连续。中殿后部低位大全景缓缓后移，拉开教徒环列和火海尺度，始终不越过火幕寻找Claude。远景用连续黑焰完全遮住Claude；教徒环列吟唱，普通火盆保持橙色。 人物:Claude完全被黑焰遮蔽，不出现可辨认身体或脸。 声音:教徒低沉齐声吟唱、殿内混响与柴火爆裂；不添加可辨歌词。跨切外景{{Node i-AHhtjic4WU}}后由风声压低，回室内{{Node i-bd6oeNGJcq}}恢复，{{Node i-HmcgOpWenS}}破门时骤停。\n[Shot 2] 4–7s {{Node i-AHhtjic4WU}}；画内:圣骑士。切门外同一时刻，室内吟唱变闷被夜风压低；甲靴声从后方接近，不提前揭GPT。门外低位中远景轻向后移给骑士越前，再随两列分流作小幅横向构图调整，中央通道保持空。两列骑士从后方越前，分往两翼列队，侧口岗哨转身警戒，中央留空。 人物:不提前露GPT。 声音:甲靴齐步由后及前、甲片轻碰；最后两声枪尾触地接下一镜脚步。承上镜室内吟唱在外景压低，保留旗帜风声。\n[Shot 3] 7–10s {{Node i-l5ihdqFDBm}}；画内:ChatGPT、圣骑士。由枪尾触地节奏接银白鞋跟，不再重演骑士列队；沿留出的中路前进。侧后低机位腿部平行跟拍两步，构图上缘严格停在腰下，保留两翼甲靴与枪杆作尺度。只见GPT双腿、银白鞋、裙摆与尾部向前走过列队，头脸始终画外。 人物:GPT只露腰下腿、裙摆、单尾；骑士可见甲靴与枪杆。 声音:两步清晰鞋跟声、衣料掠动，不提前放踹门重音。\n[Shot 4] 10–12s {{Node i-bd6oeNGJcq}}；画内:环境。从门外脚步切门内对应位置，吟唱恢复清楚；震动是破门动作的预备，不另演一次完整撞门。门内中央通道远景刻意稳住，以门缝冷光和门板的一次震动建立预兆，不穿门展示来者。火光掠过空旷的中央通道，尽头正门已经关紧。冷光从门缝漏入，门板忽然一震。 人物:门内环境空镜，教徒吟唱和门外动静画外。 声音:回到室内恢复清楚的无词集体吟唱与殿内混响，门板震动，接{{Node i-HmcgOpWenS}}破门时吟唱骤停。\n[Shot 5] 12–14s {{Node i-HmcgOpWenS}}；画内:ChatGPT。接门板同一次震动完成一次踹开，破门重音此刻落下，吟唱立即断掉。摄影机贴近门内侧，从右上踢来的鞋底与向镜头掠过的门板形成斜线；撞击轻震后定住，脸不必入画。GPT从门外以右脚一次踹开门扇。鞋底撞击处木料破裂，门板向殿内掠过，冷月光从裂口涌入；木屑沿受力方向飞散。她收脚落地跨入，2秒内完成，不重复踹。下一镜才完整揭示GPT与八位援军。 调度:摄影机贴近门内侧，从右上踢来的鞋底与向镜头掠过的门板形成斜线；撞击轻震后定住，脸不必入画。 本图是撞击瞬间，不是已完成破门的首帧。前景踢腿为右腿且保留腿饰；后景支撑左腿由长裙遮住，最多露鞋尖。脸在画外，力量由门板与碎屑体现。 注意:本图是撞击瞬间，不是已完成破门的首帧。前景踢腿为右腿且保留腿饰；后景支撑左腿由长裙遮住，最多露鞋尖。脸在画外，力量由门板与碎屑体现。 人物:GPT只见鞋、腿和衣摆，完整面容与队伍下一镜揭示。 声音:一次干脆破门声，教徒吟唱立刻切断。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "leftEnsure": [
+      "i-rFc0P8dawG",
+      "i-JAT4Pva730",
+      "i-KjFmn9fH3P",
+      "i-07HfqKjhJ7",
+      "i-lQgWPU0LAW",
+      "i-AHhtjic4WU",
+      "i-l5ihdqFDBm",
+      "i-bd6oeNGJcq",
+      "i-HmcgOpWenS"
+    ],
+    "newName": "第16批 · 黑焰、列阵与破门 · H3 v001",
+    "run": false
+  },
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-QHVfr6WhnF",
+    "node": {
+      "id": "v-QHVfr6WhnF",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第16批 · 黑焰、列阵与破门 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Image 2}}=教主四视图：同一人四角度，身份服饰保持\n{{Image 1}}=DeepSeek四视图：同一人四角度，身份服饰保持\n{{Image 3}}=圣骑士四视图：同一人四角度，身份服饰保持\n{{Image 4}}=ChatGPT四视图：同一人四角度，身份服饰保持\n{{Image 5}}=构图状态，非强制首帧\n{{Image 6}}=构图状态，非强制首帧\n{{Image 7}}=构图状态，非强制首帧\n{{Image 8}}=构图状态，非强制首帧\n{{Image 9}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，14秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–4s {{Image 5}}；画内:教主、教徒、DeepSeek。接同一持续火势，近景可见的人物变成火幕完全遮蔽；吟唱保持连续。中殿后部低位大全景缓缓后移，拉开教徒环列和火海尺度，始终不越过火幕寻找Claude。远景用连续黑焰完全遮住Claude；教徒环列吟唱，普通火盆保持橙色。 人物:Claude完全被黑焰遮蔽，不出现可辨认身体或脸。 声音:教徒低沉齐声吟唱、殿内混响与柴火爆裂；不添加可辨歌词。跨切外景{{Image 6}}后由风声压低，回室内{{Image 8}}恢复，{{Image 9}}破门时骤停。\n[Shot 2] 4–7s {{Image 6}}；画内:圣骑士。切门外同一时刻，室内吟唱变闷被夜风压低；甲靴声从后方接近，不提前揭GPT。门外低位中远景轻向后移给骑士越前，再随两列分流作小幅横向构图调整，中央通道保持空。两列骑士从后方越前，分往两翼列队，侧口岗哨转身警戒，中央留空。 人物:不提前露GPT。 声音:甲靴齐步由后及前、甲片轻碰；最后两声枪尾触地接下一镜脚步。承上镜室内吟唱在外景压低，保留旗帜风声。\n[Shot 3] 7–10s {{Image 7}}；画内:ChatGPT、圣骑士。由枪尾触地节奏接银白鞋跟，不再重演骑士列队；沿留出的中路前进。侧后低机位腿部平行跟拍两步，构图上缘严格停在腰下，保留两翼甲靴与枪杆作尺度。只见GPT双腿、银白鞋、裙摆与尾部向前走过列队，头脸始终画外。 人物:GPT只露腰下腿、裙摆、单尾；骑士可见甲靴与枪杆。 声音:两步清晰鞋跟声、衣料掠动，不提前放踹门重音。\n[Shot 4] 10–12s {{Image 8}}；画内:环境。从门外脚步切门内对应位置，吟唱恢复清楚；震动是破门动作的预备，不另演一次完整撞门。门内中央通道远景刻意稳住，以门缝冷光和门板的一次震动建立预兆，不穿门展示来者。火光掠过空旷的中央通道，尽头正门已经关紧。冷光从门缝漏入，门板忽然一震。 人物:门内环境空镜，教徒吟唱和门外动静画外。 声音:回到室内恢复清楚的无词集体吟唱与殿内混响，门板震动，接{{Image 9}}破门时吟唱骤停。\n[Shot 5] 12–14s {{Image 9}}；画内:ChatGPT。接门板同一次震动完成一次踹开，破门重音此刻落下，吟唱立即断掉。摄影机贴近门内侧，从右上踢来的鞋底与向镜头掠过的门板形成斜线；撞击轻震后定住，脸不必入画。GPT从门外以右脚一次踹开门扇。鞋底撞击处木料破裂，门板向殿内掠过，冷月光从裂口涌入；木屑沿受力方向飞散。她收脚落地跨入，2秒内完成，不重复踹。下一镜才完整揭示GPT与八位援军。 调度:摄影机贴近门内侧，从右上踢来的鞋底与向镜头掠过的门板形成斜线；撞击轻震后定住，脸不必入画。 本图是撞击瞬间，不是已完成破门的首帧。前景踢腿为右腿且保留腿饰；后景支撑左腿由长裙遮住，最多露鞋尖。脸在画外，力量由门板与碎屑体现。 注意:本图是撞击瞬间，不是已完成破门的首帧。前景踢腿为右腿且保留腿饰；后景支撑左腿由长裙遮住，最多露鞋尖。脸在画外，力量由门板与碎屑体现。 人物:GPT只见鞋、腿和衣摆，完整面容与队伍下一镜揭示。 声音:一次干脆破门声，教徒吟唱立刻切断。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png"
+            },
+            {
+              "nodeId": "i-rFc0P8dawG",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/fa4f10b325b23f5ceaddd2850fbe68978ba0c04d.png"
+            },
+            {
+              "nodeId": "i-KjFmn9fH3P",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/461e6b5fb5c0520134c1af43198c6212fb916260.png"
+            },
+            {
+              "nodeId": "i-07HfqKjhJ7",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d74110bde0f98a0b44ed3c518d48eaea282c1a87.png"
+            },
+            {
+              "nodeId": "i-lQgWPU0LAW",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/61ac7c385b6bef27e7af16b6ed059dc89b343ba3.png"
+            },
+            {
+              "nodeId": "i-AHhtjic4WU",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/03926efaa901a541cef873b44790576e9231dc32.png"
+            },
+            {
+              "nodeId": "i-l5ihdqFDBm",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/3bd5b620bbd0113a98b70563581099470c6e5099.png"
+            },
+            {
+              "nodeId": "i-bd6oeNGJcq",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/05ca84e63525c64accfed4851fb61b23ced94842.png"
+            },
+            {
+              "nodeId": "i-HmcgOpWenS",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/2072e64337ac97a565c62569d6e213de056059cc.png"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 14
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png",
+              "label": "CHAR-DEEPSEEK-TURN-v003 · H3留白适配",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-rFc0P8dawG",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/fa4f10b325b23f5ceaddd2850fbe68978ba0c04d.png",
+              "label": "CHAR-PRIEST-TURN-v001",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-uKDIVWmghN",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/88234e0405150bf25c82642dd7493f40996749c6.png",
+              "label": "CHAR-CLAUDE-TURN-v001 · H3留白适配",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-KiDw9ecrZh",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/b16c6069eb13fc9722369b8cb10d14ee66a03740.png",
+              "label": "CY022A-v062-r1",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-tdtSgV5ZJB",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/036d88d215da2e8a26401be33893ff04b4249ed0.png",
+              "label": "CY022A1-v052-r1",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-lKpBceV0nT",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/f57c84180caad748ef69650022a3fc95709fa279.png",
+              "label": "CY022-v052-r1",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-dN44fu5hM0",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5fe54c51bc1f92173cfa81f1f7c4282ea7cb5a51.png",
+              "label": "CY022B-v036-r2",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-JAT4Pva730",
+            "i-rFc0P8dawG",
+            "i-KjFmn9fH3P",
+            "i-07HfqKjhJ7",
+            "i-lQgWPU0LAW",
+            "i-AHhtjic4WU",
+            "i-l5ihdqFDBm",
+            "i-bd6oeNGJcq",
+            "i-HmcgOpWenS"
+          ],
+          "mixedListOrder": [
+            "i-JAT4Pva730",
+            "i-rFc0P8dawG",
+            "i-KjFmn9fH3P",
+            "i-07HfqKjhJ7",
+            "i-lQgWPU0LAW",
+            "i-AHhtjic4WU",
+            "i-l5ihdqFDBm",
+            "i-bd6oeNGJcq",
+            "i-HmcgOpWenS"
+          ]
+        },
+        "_updatedAtMs": 1793121319000,
+        "_lastAppliedFullyAtMs": 1793121319000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        }
+      },
+      "position": {
+        "x": 5592,
+        "y": 3696
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-QHVfr6WhnF",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

@@ -1,0 +1,3146 @@
+{
+  "schema": "bmr-audio-preview-edit/v1",
+  "status": "rendered_candidate_not_audition_approved",
+  "source": "镜头设计/shot-plan-v0.57.json",
+  "source_sha256": "83d23bc169a8bcdc862aecf8bbd7306668800f2651ae6e86fe6c252811df3287",
+  "bgm_plan_sha256": "abac8f23da60bc4ca7358f03f2a04e63af326a8436c35c759e64711a844c1bb5",
+  "voice_plan_sha256": "4b8cce41e70518b26f27f90dad08eb97f314822b0c60a8f3433130f7ddccd571",
+  "film_seconds": 450.9,
+  "sample_rate": 48000,
+  "cues": [
+    {
+      "id": "M01",
+      "music_id": "BGM-CY-MT-03",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-03.m4a",
+      "start_anchor": {
+        "shot_id": "CY002",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 5
+      },
+      "end_anchor": {
+        "shot_id": "CY004B",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 28
+      },
+      "baseline_start": 5,
+      "baseline_end": 28,
+      "baseline_duration": 23,
+      "source_in": 16.23392,
+      "source_out": 39.23392,
+      "playback_rate": 1.0,
+      "fade_in_seconds": 0.8,
+      "fade_out_seconds": 0.6,
+      "fade_curve": "equal_power",
+      "overlap_seconds": 0,
+      "nominal_gain_db": -17,
+      "dialogue_duck_additional_db": -7,
+      "duck_attack_seconds": 0.1,
+      "duck_release_seconds": 0.45,
+      "editorial_note": "黑袍回望时音乐进入；饭碗被掀翻落到测得瞬态。街市开头保留5秒环境声。",
+      "status": "renderable_candidate_needs_listening",
+      "source_alignment": {
+        "action_anchor": {
+          "shot_id": "CY003C",
+          "offset_seconds": 0,
+          "baseline_film_seconds": 18
+        },
+        "evidence": {
+          "kind": "measured_spectral_flux_peak_candidate",
+          "source_seconds": 29.23392,
+          "score": 0.500727,
+          "listening_verified": false,
+          "not_claimed": "musical downbeat or phrase boundary"
+        },
+        "alignment_kind": "transient_candidate_not_verified_beat"
+      },
+      "aligned_action_timeline": 18,
+      "measured_source_transient": 29.23392,
+      "timeline_start": 5,
+      "timeline_end": 28,
+      "duration": 23,
+      "original_source_in": 16.23392,
+      "original_source_out": 39.23392,
+      "rendered_source_samples": [
+        779228,
+        1883228
+      ],
+      "rendered_timeline_samples": [
+        240000,
+        1344000
+      ]
+    },
+    {
+      "id": "M02",
+      "music_id": "BGM-CY-KH-05",
+      "path": "资产/声音/BGM/重选-v004/BGM-CY-KH-05.m4a",
+      "start_anchor": {
+        "shot_id": "CY004B",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 28
+      },
+      "end_anchor": {
+        "shot_id": "CY010A",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 67
+      },
+      "baseline_start": 28,
+      "baseline_end": 67,
+      "baseline_duration": 39,
+      "source_in": 26.76939,
+      "source_out": 65.76939,
+      "playback_rate": 1.0,
+      "fade_in_seconds": 0.7,
+      "fade_out_seconds": 0.7,
+      "fade_curve": "equal_power",
+      "overlap_seconds": 0,
+      "nominal_gain_db": -17,
+      "dialogue_duck_additional_db": -7,
+      "duck_attack_seconds": 0.1,
+      "duck_release_seconds": 0.45,
+      "editorial_note": "宫殿慵懒到搓手迟疑；测得瞬态只作搓手动作候选，不把轻动作剪成重击。",
+      "status": "renderable_candidate_needs_listening",
+      "source_alignment": {
+        "action_anchor": {
+          "shot_id": "CY010",
+          "offset_seconds": 0.7,
+          "baseline_film_seconds": 58.7
+        },
+        "evidence": {
+          "kind": "measured_spectral_flux_peak_candidate",
+          "source_seconds": 57.46939,
+          "score": 0.499931,
+          "listening_verified": false,
+          "not_claimed": "musical downbeat or phrase boundary"
+        },
+        "alignment_kind": "transient_candidate_not_verified_beat"
+      },
+      "aligned_action_timeline": 58.7,
+      "measured_source_transient": 57.46939,
+      "timeline_start": 28,
+      "timeline_end": 67,
+      "duration": 39,
+      "original_source_in": 26.76939,
+      "original_source_out": 65.76939,
+      "rendered_source_samples": [
+        1284931,
+        3156931
+      ],
+      "rendered_timeline_samples": [
+        1344000,
+        3216000
+      ]
+    },
+    {
+      "id": "M03",
+      "music_id": "BGM-CY-HP7-02",
+      "path": "资产/声音/BGM/重选-v006/BGM-CY-HP7-02.m4a",
+      "start_anchor": {
+        "shot_id": "CY010A",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 67
+      },
+      "end_anchor": {
+        "shot_id": "CY016D",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 108
+      },
+      "baseline_start": 67,
+      "baseline_end": 108,
+      "baseline_duration": 41,
+      "source_in": 32.14893,
+      "source_out": 73.14893,
+      "playback_rate": 1.0,
+      "fade_in_seconds": 0.6,
+      "fade_out_seconds": 0.6,
+      "fade_curve": "equal_power",
+      "overlap_seconds": 0,
+      "nominal_gain_db": -17,
+      "dialogue_duck_additional_db": -7,
+      "duck_attack_seconds": 0.1,
+      "duck_release_seconds": 0.45,
+      "editorial_note": "潜入至锁扣，以试锁瞬态候选组织；鲸帽和脚步仍以拟音承担。",
+      "status": "renderable_candidate_needs_listening",
+      "source_alignment": {
+        "action_anchor": {
+          "shot_id": "CY016",
+          "offset_seconds": 0,
+          "baseline_film_seconds": 89
+        },
+        "evidence": {
+          "kind": "measured_spectral_flux_peak_candidate",
+          "source_seconds": 54.14893,
+          "score": 0.289475,
+          "listening_verified": false,
+          "not_claimed": "musical downbeat or phrase boundary"
+        },
+        "alignment_kind": "transient_candidate_not_verified_beat"
+      },
+      "aligned_action_timeline": 89,
+      "measured_source_transient": 54.14893,
+      "timeline_start": 67,
+      "timeline_end": 108,
+      "duration": 41,
+      "original_source_in": 32.14893,
+      "original_source_out": 73.14893,
+      "rendered_source_samples": [
+        1543149,
+        3511149
+      ],
+      "rendered_timeline_samples": [
+        3216000,
+        5184000
+      ]
+    },
+    {
+      "id": "M04",
+      "music_id": "BGM-CY-RZ-01",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-RZ-01.m4a",
+      "start_anchor": {
+        "shot_id": "CY016D",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 108
+      },
+      "end_anchor": {
+        "shot_id": "CY022B1",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 162
+      },
+      "baseline_start": 108,
+      "baseline_end": 162,
+      "baseline_duration": 54,
+      "source_in": 160.48762,
+      "source_out": 216.28762,
+      "playback_rate": 1.0,
+      "fade_in_seconds": 0.7,
+      "fade_out_seconds": 0.5,
+      "fade_curve": "equal_power",
+      "overlap_seconds": 0,
+      "nominal_gain_db": -17,
+      "dialogue_duck_additional_db": -7,
+      "duck_attack_seconds": 0.1,
+      "duck_release_seconds": 0.45,
+      "editorial_note": "柴堆到点燃；点火对准测得瞬态，台词期间音乐压低。",
+      "status": "renderable_candidate_needs_listening",
+      "source_alignment": {
+        "action_anchor": {
+          "shot_id": "CY022",
+          "offset_seconds": 0,
+          "baseline_film_seconds": 151
+        },
+        "evidence": {
+          "kind": "measured_spectral_flux_peak_candidate",
+          "source_seconds": 205.28762,
+          "score": 0.250763,
+          "listening_verified": false,
+          "not_claimed": "musical downbeat or phrase boundary"
+        },
+        "alignment_kind": "transient_candidate_not_verified_beat"
+      },
+      "aligned_action_timeline": 152.8,
+      "measured_source_transient": 205.28762,
+      "timeline_start": 108,
+      "timeline_end": 163.8,
+      "duration": 55.8,
+      "original_source_in": 162.28762,
+      "original_source_out": 216.28762,
+      "rendered_source_samples": [
+        7703406,
+        10381806
+      ],
+      "rendered_timeline_samples": [
+        5184000,
+        7862400
+      ]
+    },
+    {
+      "id": "M05",
+      "music_id": "BGM-CY-FEAR-001",
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-FEAR-001.m4a",
+      "start_anchor": {
+        "shot_id": "CY022B1",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 162
+      },
+      "end_anchor": {
+        "shot_id": "CY022C",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 168
+      },
+      "baseline_start": 162,
+      "baseline_end": 168,
+      "baseline_duration": 6,
+      "source_in": 14.48925,
+      "source_out": 20.48925,
+      "playback_rate": 1.0,
+      "fade_in_seconds": 0.35,
+      "fade_out_seconds": 0.5,
+      "fade_curve": "equal_power",
+      "overlap_seconds": 0,
+      "nominal_gain_db": -17,
+      "dialogue_duck_additional_db": -7,
+      "duck_attack_seconds": 0.1,
+      "duck_release_seconds": 0.45,
+      "editorial_note": "援军脚步预示，门前留白前收住。",
+      "status": "renderable_candidate_needs_listening",
+      "source_alignment": {
+        "action_anchor": {
+          "shot_id": "CY022B1",
+          "offset_seconds": 0,
+          "baseline_film_seconds": 162
+        },
+        "evidence": {
+          "kind": "measured_spectral_flux_peak_candidate",
+          "source_seconds": 14.48925,
+          "score": 0.235781,
+          "listening_verified": false,
+          "not_claimed": "musical downbeat or phrase boundary"
+        },
+        "alignment_kind": "transient_candidate_not_verified_beat"
+      },
+      "aligned_action_timeline": 163.8,
+      "measured_source_transient": 14.48925,
+      "timeline_start": 163.8,
+      "timeline_end": 169.8,
+      "duration": 6.0,
+      "original_source_in": 14.48925,
+      "original_source_out": 20.48925,
+      "rendered_source_samples": [
+        695484,
+        983484
+      ],
+      "rendered_timeline_samples": [
+        7862400,
+        8150400
+      ]
+    },
+    {
+      "id": "M06",
+      "music_id": "BGM-CY-FEAR-001",
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-FEAR-001.m4a",
+      "start_anchor": {
+        "shot_id": "CY023",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 170
+      },
+      "end_anchor": {
+        "shot_id": "CY024R",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 175
+      },
+      "baseline_start": 170,
+      "baseline_end": 175,
+      "baseline_duration": 5,
+      "source_in": 38.38259,
+      "source_out": 43.38259,
+      "playback_rate": 1.0,
+      "fade_in_seconds": 0.025,
+      "fade_out_seconds": 0.25,
+      "fade_curve": "equal_power",
+      "overlap_seconds": 0,
+      "nominal_gain_db": -17,
+      "dialogue_duck_additional_db": -7,
+      "duck_attack_seconds": 0.1,
+      "duck_release_seconds": 0.45,
+      "editorial_note": "破门瞬态进入，构成英雄动机首次清楚出现。",
+      "status": "renderable_candidate_needs_listening",
+      "source_alignment": {
+        "action_anchor": {
+          "shot_id": "CY023",
+          "offset_seconds": 0,
+          "baseline_film_seconds": 170
+        },
+        "evidence": {
+          "kind": "measured_spectral_flux_peak_candidate",
+          "source_seconds": 38.38259,
+          "score": 0.330921,
+          "listening_verified": false,
+          "not_claimed": "musical downbeat or phrase boundary"
+        },
+        "alignment_kind": "transient_candidate_not_verified_beat"
+      },
+      "aligned_action_timeline": 171.8,
+      "measured_source_transient": 38.38259,
+      "timeline_start": 171.8,
+      "timeline_end": 176.8,
+      "duration": 5.0,
+      "original_source_in": 38.38259,
+      "original_source_out": 43.38259,
+      "rendered_source_samples": [
+        1842364,
+        2082364
+      ],
+      "rendered_timeline_samples": [
+        8246400,
+        8486400
+      ]
+    },
+    {
+      "id": "M07",
+      "music_id": "BGM-CY-FZ-02",
+      "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-02.m4a",
+      "start_anchor": {
+        "shot_id": "CY024R",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 175
+      },
+      "end_anchor": {
+        "shot_id": "CY023A",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 205.5
+      },
+      "baseline_start": 175,
+      "baseline_end": 205.5,
+      "baseline_duration": 30.5,
+      "source_in": 1.29116,
+      "source_out": 34.29116,
+      "playback_rate": 1.0,
+      "fade_in_seconds": 0.35,
+      "fade_out_seconds": 0.35,
+      "fade_curve": "equal_power",
+      "overlap_seconds": 0,
+      "nominal_gain_db": -17,
+      "dialogue_duck_additional_db": -7,
+      "duck_attack_seconds": 0.1,
+      "duck_release_seconds": 0.45,
+      "editorial_note": "Kimi出场保持月光显形4秒；落地对准测得瞬态。",
+      "status": "renderable_candidate_needs_listening",
+      "source_alignment": {
+        "action_anchor": {
+          "shot_id": "CY024K2",
+          "offset_seconds": 0.0,
+          "baseline_film_seconds": 193.5
+        },
+        "evidence": {
+          "kind": "measured_spectral_flux_peak_candidate",
+          "source_seconds": 22.29116,
+          "score": 0.499045,
+          "listening_verified": false,
+          "not_claimed": "musical downbeat or phrase boundary"
+        },
+        "alignment_kind": "transient_candidate_not_verified_beat"
+      },
+      "aligned_action_timeline": 197.8,
+      "measured_source_transient": 22.29116,
+      "timeline_start": 176.8,
+      "timeline_end": 209.8,
+      "duration": 33.0,
+      "original_source_in": 3.79116,
+      "original_source_out": 34.29116,
+      "rendered_source_samples": [
+        61976,
+        1645976
+      ],
+      "rendered_timeline_samples": [
+        8486400,
+        10070400
+      ]
+    },
+    {
+      "id": "M08",
+      "music_id": "BGM-CY-FEAR-001",
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-FEAR-001.m4a",
+      "start_anchor": {
+        "shot_id": "CY023A",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 205.5
+      },
+      "end_anchor": {
+        "shot_id": "CY026A",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 208.5
+      },
+      "baseline_start": 205.5,
+      "baseline_end": 208.5,
+      "baseline_duration": 3.0,
+      "source_in": 45.99873,
+      "source_out": 48.99873,
+      "playback_rate": 1.0,
+      "fade_in_seconds": 0.025,
+      "fade_out_seconds": 0.45,
+      "fade_curve": "equal_power",
+      "overlap_seconds": 0,
+      "nominal_gain_db": -17,
+      "dialogue_duck_additional_db": -7,
+      "duck_attack_seconds": 0.1,
+      "duck_release_seconds": 0.45,
+      "editorial_note": "骑士进殿再次出现同一曲动机，切回召集时主动停乐。",
+      "status": "renderable_candidate_needs_listening",
+      "source_alignment": {
+        "action_anchor": {
+          "shot_id": "CY023A",
+          "offset_seconds": 0.0,
+          "baseline_film_seconds": 205.5
+        },
+        "evidence": {
+          "kind": "measured_spectral_flux_peak_candidate",
+          "source_seconds": 45.99873,
+          "score": 0.335928,
+          "listening_verified": false,
+          "not_claimed": "musical downbeat or phrase boundary"
+        },
+        "alignment_kind": "transient_candidate_not_verified_beat"
+      },
+      "aligned_action_timeline": 209.8,
+      "measured_source_transient": 45.99873,
+      "timeline_start": 209.8,
+      "timeline_end": 212.8,
+      "duration": 3.0,
+      "original_source_in": 45.99873,
+      "original_source_out": 48.99873,
+      "rendered_source_samples": [
+        2207939,
+        2351939
+      ],
+      "rendered_timeline_samples": [
+        10070400,
+        10214400
+      ]
+    },
+    {
+      "id": "M09",
+      "music_id": "BGM-CY-FEAR-001",
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-FEAR-001.m4a",
+      "start_anchor": {
+        "shot_id": "CY024A0",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 234.5
+      },
+      "end_anchor": {
+        "shot_id": "CY024A5",
+        "offset_seconds": 5.0,
+        "baseline_film_seconds": 286
+      },
+      "baseline_start": 234.5,
+      "baseline_end": 286,
+      "baseline_duration": 51.5,
+      "source_in": 25.44188,
+      "source_out": 81.47188,
+      "playback_rate": 1.0,
+      "fade_in_seconds": 0.8,
+      "fade_out_seconds": 0.7,
+      "fade_curve": "equal_power",
+      "overlap_seconds": 0,
+      "nominal_gain_db": -17,
+      "dialogue_duck_additional_db": -7,
+      "duck_attack_seconds": 0.1,
+      "duck_release_seconds": 0.45,
+      "editorial_note": "从抱紧转入水术连贯长段；扇刃拦截对准测得瞬态，其他动作交给拟音而不硬卡。",
+      "status": "renderable_candidate_needs_listening",
+      "source_alignment": {
+        "action_anchor": {
+          "shot_id": "CY024A12",
+          "offset_seconds": 0.0,
+          "baseline_film_seconds": 248.5
+        },
+        "evidence": {
+          "kind": "measured_spectral_flux_peak_candidate",
+          "source_seconds": 39.89188,
+          "score": 0.345593,
+          "listening_verified": false,
+          "not_claimed": "musical downbeat or phrase boundary"
+        },
+        "alignment_kind": "transient_candidate_not_verified_beat"
+      },
+      "aligned_action_timeline": 253.55,
+      "measured_source_transient": 39.89188,
+      "timeline_start": 239.1,
+      "timeline_end": 295.13,
+      "duration": 56.03,
+      "original_source_in": 25.89188,
+      "original_source_out": 77.39188,
+      "rendered_source_samples": [
+        1221210,
+        3910650
+      ],
+      "rendered_timeline_samples": [
+        11476800,
+        14166240
+      ]
+    },
+    {
+      "id": "M10",
+      "music_id": "BGM-CY-FEAR-001",
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-FEAR-001.m4a",
+      "start_anchor": {
+        "shot_id": "CY024A5",
+        "offset_seconds": 5.8,
+        "baseline_film_seconds": 286.8
+      },
+      "end_anchor": {
+        "shot_id": "CY024B3A",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 301.5
+      },
+      "baseline_start": 286.8,
+      "baseline_end": 301.5,
+      "baseline_duration": 14.699999999999989,
+      "source_in": 93.87497,
+      "source_out": 111.83497,
+      "playback_rate": 1.0,
+      "fade_in_seconds": 0.12,
+      "fade_out_seconds": 0.7,
+      "fade_curve": "equal_power",
+      "overlap_seconds": 0,
+      "nominal_gain_db": -17,
+      "dialogue_duck_additional_db": -7,
+      "duck_attack_seconds": 0.1,
+      "duck_release_seconds": 0.45,
+      "editorial_note": "祈祷后留白0.8秒，攻击指向对准较强瞬态；盾破、浪涌保持一段。",
+      "status": "renderable_candidate_needs_listening",
+      "source_alignment": {
+        "action_anchor": {
+          "shot_id": "CY024A5B",
+          "offset_seconds": 0.0,
+          "baseline_film_seconds": 289
+        },
+        "evidence": {
+          "kind": "measured_spectral_flux_peak_candidate",
+          "source_seconds": 99.33497,
+          "score": 0.361513,
+          "listening_verified": false,
+          "not_claimed": "musical downbeat or phrase boundary"
+        },
+        "alignment_kind": "transient_candidate_not_verified_beat"
+      },
+      "aligned_action_timeline": 301.39,
+      "measured_source_transient": 99.33497,
+      "timeline_start": 295.93,
+      "timeline_end": 313.89,
+      "duration": 17.96,
+      "original_source_in": 97.13497,
+      "original_source_out": 111.83497,
+      "rendered_source_samples": [
+        4505999,
+        5368079
+      ],
+      "rendered_timeline_samples": [
+        14204640,
+        15066720
+      ]
+    },
+    {
+      "id": "M11",
+      "music_id": "BGM-CY-FEAR-001",
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-FEAR-001.m4a",
+      "start_anchor": {
+        "shot_id": "CY027B1",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 313.5
+      },
+      "end_anchor": {
+        "shot_id": "CY027F0",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 344.5
+      },
+      "baseline_start": 313.5,
+      "baseline_end": 344.5,
+      "baseline_duration": 31.0,
+      "source_in": 38.38259,
+      "source_out": 69.38259,
+      "playback_rate": 1.0,
+      "fade_in_seconds": 0.025,
+      "fade_out_seconds": 0.9,
+      "fade_curve": "equal_power",
+      "overlap_seconds": 0,
+      "nominal_gain_db": -17,
+      "dialogue_duck_additional_db": -7,
+      "duck_attack_seconds": 0.1,
+      "duck_release_seconds": 0.45,
+      "editorial_note": "变龙时重奏已出现的英雄动机；天战与胜负后收住。",
+      "status": "renderable_candidate_needs_listening",
+      "source_alignment": {
+        "action_anchor": {
+          "shot_id": "CY027B1",
+          "offset_seconds": 0.0,
+          "baseline_film_seconds": 313.5
+        },
+        "evidence": {
+          "kind": "measured_spectral_flux_peak_candidate",
+          "source_seconds": 38.38259,
+          "score": 0.330921,
+          "listening_verified": false,
+          "not_claimed": "musical downbeat or phrase boundary"
+        },
+        "alignment_kind": "transient_candidate_not_verified_beat"
+      },
+      "aligned_action_timeline": 326.79,
+      "measured_source_transient": 38.38259,
+      "timeline_start": 326.79,
+      "timeline_end": 357.79,
+      "duration": 31.0,
+      "original_source_in": 38.38259,
+      "original_source_out": 69.38259,
+      "rendered_source_samples": [
+        1842364,
+        3330364
+      ],
+      "rendered_timeline_samples": [
+        15685920,
+        17173920
+      ]
+    },
+    {
+      "id": "M12",
+      "music_id": "BGM-CY-FEAR-001",
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-FEAR-001.m4a",
+      "start_anchor": {
+        "shot_id": "CY029E1",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 372.5
+      },
+      "end_anchor": {
+        "shot_id": "CY029D",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 397.5
+      },
+      "baseline_start": 372.5,
+      "baseline_end": 397.5,
+      "baseline_duration": 25.0,
+      "source_in": 80.03497,
+      "source_out": 104.33497,
+      "playback_rate": 1.0,
+      "fade_in_seconds": 0.8,
+      "fade_out_seconds": 1.0,
+      "fade_curve": "equal_power",
+      "overlap_seconds": 0,
+      "nominal_gain_db": -17,
+      "dialogue_duck_additional_db": -7,
+      "duck_attack_seconds": 0.1,
+      "duck_release_seconds": 0.45,
+      "editorial_note": "Claude重新作出选择后返乐；木柴点燃对准攻击段相同瞬态，形成火焰动机回扣。",
+      "status": "renderable_candidate_needs_listening",
+      "source_alignment": {
+        "action_anchor": {
+          "shot_id": "CY029B",
+          "offset_seconds": 0.0,
+          "baseline_film_seconds": 392.5
+        },
+        "evidence": {
+          "kind": "measured_spectral_flux_peak_candidate",
+          "source_seconds": 99.33497,
+          "score": 0.361513,
+          "listening_verified": false,
+          "not_claimed": "musical downbeat or phrase boundary"
+        },
+        "alignment_kind": "transient_candidate_not_verified_beat"
+      },
+      "aligned_action_timeline": 407.9,
+      "measured_source_transient": 99.33497,
+      "timeline_start": 388.6,
+      "timeline_end": 412.9,
+      "duration": 24.3,
+      "original_source_in": 79.33497,
+      "original_source_out": 104.33497,
+      "rendered_source_samples": [
+        3841679,
+        5008079
+      ],
+      "rendered_timeline_samples": [
+        18652800,
+        19819200
+      ]
+    },
+    {
+      "id": "M13",
+      "music_id": "BGM-CY-TIME-001",
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-TIME-001.m4a",
+      "start_anchor": {
+        "shot_id": "CY031",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 411.5
+      },
+      "end_anchor": {
+        "shot_id": "CY034",
+        "offset_seconds": 3.0,
+        "baseline_film_seconds": 431.5
+      },
+      "baseline_start": 411.5,
+      "baseline_end": 431.5,
+      "baseline_duration": 20.0,
+      "source_in": 68.07329,
+      "source_out": 88.07329,
+      "playback_rate": 1.0,
+      "fade_in_seconds": 1.5,
+      "fade_out_seconds": 2.5,
+      "fade_curve": "equal_power",
+      "overlap_seconds": 0,
+      "nominal_gain_db": -17,
+      "dialogue_duck_additional_db": -7,
+      "duck_attack_seconds": 0.1,
+      "duck_release_seconds": 0.45,
+      "editorial_note": "数日后至吃下第一口；源88.07329秒为实测低能量谷，顺势淡出，尾镜四秒不铺音乐。",
+      "status": "renderable_candidate_needs_listening",
+      "end_evidence": {
+        "kind": "measured_low_energy_valley",
+        "source_seconds": 88.07329,
+        "rms_dbfs": -60.097,
+        "listening_verified": false
+      },
+      "timeline_start": 426.9,
+      "timeline_end": 446.9,
+      "duration": 20.0,
+      "original_source_in": 68.07329,
+      "original_source_out": 88.07329,
+      "rendered_source_samples": [
+        3267518,
+        4227518
+      ],
+      "rendered_timeline_samples": [
+        20491200,
+        21451200
+      ]
+    }
+  ],
+  "silences": [
+    {
+      "id": "S01",
+      "start_anchor": {
+        "shot_id": "CY001",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 0
+      },
+      "end_anchor": {
+        "shot_id": "CY002",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 5
+      },
+      "baseline_start": 0,
+      "baseline_end": 5,
+      "bgm_gain": "off",
+      "sfx_ambience": "keep",
+      "reason": "街市环境声，暂不进音乐",
+      "timeline_start": 0,
+      "timeline_end": 5,
+      "duration": 5
+    },
+    {
+      "id": "S02",
+      "start_anchor": {
+        "shot_id": "CY022C",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 168
+      },
+      "end_anchor": {
+        "shot_id": "CY023",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 170
+      },
+      "baseline_start": 168,
+      "baseline_end": 170,
+      "bgm_gain": "off",
+      "sfx_ambience": "keep",
+      "reason": "保留无词吟唱、环境声，破门前停乐",
+      "timeline_start": 169.8,
+      "timeline_end": 171.8,
+      "duration": 2.0
+    },
+    {
+      "id": "S03",
+      "start_anchor": {
+        "shot_id": "CY026A",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 208.5
+      },
+      "end_anchor": {
+        "shot_id": "CY024A0",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 234.5
+      },
+      "baseline_start": 208.5,
+      "baseline_end": 234.5,
+      "bgm_gain": "off",
+      "sfx_ambience": "keep",
+      "reason": "召集回闪以对白、角色标志拟音与转场气口连接，避免长曲拖满",
+      "timeline_start": 212.8,
+      "timeline_end": 239.1,
+      "duration": 26.3
+    },
+    {
+      "id": "S04",
+      "start_anchor": {
+        "shot_id": "CY024A5",
+        "offset_seconds": 5.0,
+        "baseline_film_seconds": 286
+      },
+      "end_anchor": {
+        "shot_id": "CY024A5",
+        "offset_seconds": 5.8,
+        "baseline_film_seconds": 286.8
+      },
+      "baseline_start": 286,
+      "baseline_end": 286.8,
+      "bgm_gain": "off",
+      "sfx_ambience": "keep",
+      "reason": "祈祷到术名的停顿；保留水声",
+      "timeline_start": 295.13,
+      "timeline_end": 295.93,
+      "duration": 0.8
+    },
+    {
+      "id": "S05",
+      "start_anchor": {
+        "shot_id": "CY024B3A",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 301.5
+      },
+      "end_anchor": {
+        "shot_id": "CY027B1",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 313.5
+      },
+      "baseline_start": 301.5,
+      "baseline_end": 313.5,
+      "bgm_gain": "off",
+      "sfx_ambience": "keep",
+      "reason": "安慰、落下、条约问答，给角色声音空间",
+      "timeline_start": 313.89,
+      "timeline_end": 326.79,
+      "duration": 12.9
+    },
+    {
+      "id": "S06",
+      "start_anchor": {
+        "shot_id": "CY027F0",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 344.5
+      },
+      "end_anchor": {
+        "shot_id": "CY029E1",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 372.5
+      },
+      "baseline_start": 344.5,
+      "baseline_end": 372.5,
+      "bgm_gain": "off",
+      "sfx_ambience": "keep",
+      "reason": "钥匙、撤罩、解链、安抚及父亲停顿以对白与环境声承担",
+      "timeline_start": 357.79,
+      "timeline_end": 388.6,
+      "duration": 30.81
+    },
+    {
+      "id": "S07",
+      "start_anchor": {
+        "shot_id": "CY029D",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 397.5
+      },
+      "end_anchor": {
+        "shot_id": "CY031",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 411.5
+      },
+      "baseline_start": 397.5,
+      "baseline_end": 411.5,
+      "bgm_gain": "off",
+      "sfx_ambience": "keep",
+      "reason": "接住、抱稳、依靠及离殿保留呼吸脚步",
+      "timeline_start": 412.9,
+      "timeline_end": 426.9,
+      "duration": 14.0
+    },
+    {
+      "id": "S08",
+      "start_anchor": {
+        "shot_id": "CY034",
+        "offset_seconds": 3.0,
+        "baseline_film_seconds": 431.5
+      },
+      "end_anchor": {
+        "shot_id": "CY034",
+        "offset_seconds": 7,
+        "baseline_film_seconds": 435.5,
+        "edge": "end"
+      },
+      "baseline_start": 431.5,
+      "baseline_end": 435.5,
+      "bgm_gain": "off",
+      "sfx_ambience": "keep",
+      "reason": "末镜无BGM四秒",
+      "timeline_start": 446.9,
+      "timeline_end": 450.9,
+      "duration": 4.0
+    }
+  ],
+  "action_points": [
+    {
+      "batch_id": "GB001",
+      "shot_id": "CY003A",
+      "time": 12,
+      "action_zh": "饭碗递出后切近景，不重递",
+      "action_en": "Match-cut to the offered bowl",
+      "music_intent": "轻落点：乐句轻收，不加打击音",
+      "source_seconds": 23.23392,
+      "film_time": 12,
+      "anchor": {
+        "shot_id": "CY003A",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 12
+      },
+      "cue_id": "M01",
+      "music_id": "BGM-CY-MT-03",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 12
+    },
+    {
+      "batch_id": "GB002",
+      "shot_id": "CY003C",
+      "time": 4,
+      "action_zh": "切入饭碗被掀翻镜头",
+      "action_en": "Cut to the bowl being knocked away",
+      "music_intent": "转折重音候选；随后给火祭消息留出空间",
+      "source_seconds": 29.23392,
+      "film_time": 18,
+      "anchor": {
+        "shot_id": "CY003C",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 18
+      },
+      "cue_id": "M01",
+      "music_id": "BGM-CY-MT-03",
+      "alignment_status": "measured_transient_candidate_needs_listening",
+      "execution": "候选瞬态对齐，听审确认强弱是否合适",
+      "timeline_time": 18
+    },
+    {
+      "batch_id": "GB003",
+      "shot_id": "CY004D",
+      "time": 5,
+      "action_zh": "GPT画外允许入内，守卫开始让路",
+      "action_en": "GPT permits entry; guards begin clearing the way",
+      "music_intent": "弱起进入，不用重击抢对白",
+      "source_seconds": 31.76939,
+      "film_time": 33,
+      "anchor": {
+        "shot_id": "CY004D",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 33
+      },
+      "cue_id": "M02",
+      "music_id": "BGM-CY-KH-05",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 33
+    },
+    {
+      "batch_id": "GB004",
+      "shot_id": "CY007",
+      "time": 6,
+      "action_zh": "切到GPT拒绝的反应",
+      "action_en": "Cut to GPT refusing",
+      "music_intent": "乐句收窄，避让对白；不把拒绝做成暴怒重击",
+      "source_seconds": 43.76939,
+      "film_time": 45,
+      "anchor": {
+        "shot_id": "CY007",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 45
+      },
+      "cue_id": "M02",
+      "music_id": "BGM-CY-KH-05",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 45
+    },
+    {
+      "batch_id": "GB005",
+      "shot_id": "CY010",
+      "time": 5.7,
+      "action_zh": "右手放下后开始轻搓双手",
+      "action_en": "Begin the gentle hand rub after lowering the right hand",
+      "music_intent": "低动态延续；这一点是表演节奏，不强加重拍",
+      "source_seconds": 57.46939,
+      "film_time": 58.7,
+      "anchor": {
+        "shot_id": "CY010",
+        "offset_seconds": 0.7,
+        "baseline_film_seconds": 58.7
+      },
+      "cue_id": "M02",
+      "music_id": "BGM-CY-KH-05",
+      "alignment_status": "measured_transient_candidate_needs_listening",
+      "execution": "候选瞬态对齐，听审确认强弱是否合适",
+      "timeline_time": 58.7
+    },
+    {
+      "batch_id": "GB005",
+      "shot_id": "CY009A",
+      "time": 8,
+      "action_zh": "切到肩后，双手分开后准备起身",
+      "action_en": "Cut behind the shoulder; separate hands to begin rising",
+      "music_intent": "情绪开始转向；音乐不在切批处重启",
+      "source_seconds": 59.76939,
+      "film_time": 61,
+      "anchor": {
+        "shot_id": "CY009A",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 61
+      },
+      "cue_id": "M02",
+      "music_id": "BGM-CY-KH-05",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 61
+    },
+    {
+      "batch_id": "GB006",
+      "shot_id": "CY011",
+      "time": 4,
+      "action_zh": "进入鲸帽卡住石沿的镜头",
+      "action_en": "Cut to the hat catching the stone edge",
+      "music_intent": "用轻悬念脉冲；接触声前景",
+      "source_seconds": 36.14893,
+      "film_time": 71,
+      "anchor": {
+        "shot_id": "CY011",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 71
+      },
+      "cue_id": "M03",
+      "music_id": "BGM-CY-HP7-02",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 71
+    },
+    {
+      "batch_id": "GB007",
+      "shot_id": "CY016",
+      "time": 9,
+      "action_zh": "转入试锁和拉链动作",
+      "action_en": "Begin checking the lock and chain",
+      "music_intent": "弱拍延续，金属声清晰",
+      "source_seconds": 54.14893,
+      "film_time": 89,
+      "anchor": {
+        "shot_id": "CY016",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 89
+      },
+      "cue_id": "M03",
+      "music_id": "BGM-CY-HP7-02",
+      "alignment_status": "measured_transient_candidate_needs_listening",
+      "execution": "候选瞬态对齐，听审确认强弱是否合适",
+      "timeline_time": 89
+    },
+    {
+      "batch_id": "GB008",
+      "shot_id": "CY016B",
+      "time": 6,
+      "action_zh": "手停在锁扣上，脚步先到",
+      "action_en": "Hand stops at the lock as footsteps arrive",
+      "music_intent": "压低配乐，给画外脚步留白",
+      "source_seconds": 65.14893,
+      "film_time": 100,
+      "anchor": {
+        "shot_id": "CY016B",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 100
+      },
+      "cue_id": "M03",
+      "music_id": "BGM-CY-HP7-02",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 100
+    },
+    {
+      "batch_id": "GB009",
+      "shot_id": "CY017",
+      "time": 2,
+      "action_zh": "进入被推开后仍想阻止的镜头",
+      "action_en": "Cut to the push and continued resistance",
+      "music_intent": "第一次压力重音；跌倒接触音独立处理",
+      "source_seconds": 162.48762,
+      "film_time": 110,
+      "anchor": {
+        "shot_id": "CY017",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 110
+      },
+      "cue_id": "M04",
+      "music_id": "BGM-CY-RZ-01",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 110
+    },
+    {
+      "batch_id": "GB010",
+      "shot_id": "CY021A",
+      "time": 3,
+      "action_zh": "切入火把交接",
+      "action_en": "Cut to the torch handover",
+      "music_intent": "持续加压，别盖过教主台词",
+      "source_seconds": 176.48762,
+      "film_time": 124,
+      "anchor": {
+        "shot_id": "CY021A",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 124
+      },
+      "cue_id": "M04",
+      "music_id": "BGM-CY-RZ-01",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 124
+    },
+    {
+      "batch_id": "GB011",
+      "shot_id": "CY020",
+      "time": 1,
+      "action_zh": "Claude开口保护小鱼",
+      "action_en": "Claude begins her protective shout",
+      "music_intent": "压乐让台词突出",
+      "source_seconds": 185.48762,
+      "film_time": 133,
+      "anchor": {
+        "shot_id": "CY020",
+        "offset_seconds": 1,
+        "baseline_film_seconds": 133
+      },
+      "cue_id": "M04",
+      "music_id": "BGM-CY-RZ-01",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 133
+    },
+    {
+      "batch_id": "GB011",
+      "shot_id": "CY020A",
+      "time": 8,
+      "action_zh": "切入小鱼失守落地",
+      "action_en": "Cut to the child losing balance and falling",
+      "music_intent": "落地段重音候选；保留真实落地声",
+      "source_seconds": 192.48762,
+      "film_time": 140,
+      "anchor": {
+        "shot_id": "CY020A",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 140
+      },
+      "cue_id": "M04",
+      "music_id": "BGM-CY-RZ-01",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 140
+    },
+    {
+      "batch_id": "GB012",
+      "shot_id": "CY022",
+      "time": 5,
+      "action_zh": "进入点燃高柴镜头",
+      "action_en": "Begin the kindling ignition shot",
+      "music_intent": "燃起段开始推升，随火势发展",
+      "source_seconds": 205.28762,
+      "film_time": 151,
+      "anchor": {
+        "shot_id": "CY022",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 151
+      },
+      "cue_id": "M04",
+      "music_id": "BGM-CY-RZ-01",
+      "alignment_status": "measured_transient_candidate_needs_listening",
+      "execution": "候选瞬态对齐，听审确认强弱是否合适",
+      "timeline_time": 152.8
+    },
+    {
+      "batch_id": "GB013",
+      "shot_id": "CY022C",
+      "time": 10,
+      "action_zh": "破门前静默开始",
+      "action_en": "Begin the pre-breach stillness",
+      "music_intent": "暂时抽掉音乐，保留空间张力",
+      "source_seconds": null,
+      "film_time": 168,
+      "anchor": {
+        "shot_id": "CY022C",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 168
+      },
+      "silence_id": "S02",
+      "alignment_status": "intentional_bgm_silence_sfx_target",
+      "execution": "BGM停止；该动作由对白、拟音或环境声完成",
+      "timeline_time": 169.8
+    },
+    {
+      "batch_id": "GB013",
+      "shot_id": "CY023",
+      "time": 12,
+      "action_zh": "切入破门动作",
+      "action_en": "Cut into the door breach",
+      "music_intent": "破门段强落点；真实撞击时刻待动态验收",
+      "source_seconds": 38.38259,
+      "film_time": 170,
+      "anchor": {
+        "shot_id": "CY023",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 170
+      },
+      "cue_id": "M06",
+      "music_id": "BGM-CY-FEAR-001",
+      "alignment_status": "measured_transient_candidate_needs_listening",
+      "execution": "候选瞬态对齐，听审确认强弱是否合适",
+      "timeline_time": 171.8
+    },
+    {
+      "batch_id": "GB014",
+      "shot_id": "CY024R",
+      "time": 3,
+      "action_zh": "教主回身，Kimi画外咏唱将起",
+      "action_en": "Cut to the leader turning; Kimi chant follows",
+      "music_intent": "切换Kimi专曲；声线跨批延续",
+      "source_seconds": 1.29116,
+      "film_time": 175,
+      "anchor": {
+        "shot_id": "CY024R",
+        "offset_seconds": 0,
+        "baseline_film_seconds": 175
+      },
+      "cue_id": "M07",
+      "music_id": "BGM-CY-FZ-02",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 176.8
+    },
+    {
+      "batch_id": "GB014A",
+      "shot_id": "CY024K00",
+      "time": 0,
+      "action_zh": "月光开始流入，尚无人形",
+      "action_en": "Moonlight starts flowing in before any silhouette",
+      "music_intent": "沿用上批专曲原位置，不从头重播",
+      "source_seconds": 4.79116,
+      "film_time": 178.5,
+      "anchor": {
+        "shot_id": "CY024K00",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 178.5
+      },
+      "cue_id": "M07",
+      "music_id": "BGM-CY-FZ-02",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 180.3
+    },
+    {
+      "batch_id": "GB014A",
+      "shot_id": "CY024K0",
+      "time": 4,
+      "action_zh": "完成四秒显形，切近景举刃",
+      "action_en": "After four seconds of formation, cut closer to the blade",
+      "music_intent": "柔和乐句落点；避让随后咏唱",
+      "source_seconds": 8.79116,
+      "film_time": 182.5,
+      "anchor": {
+        "shot_id": "CY024K0",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 182.5
+      },
+      "cue_id": "M07",
+      "music_id": "BGM-CY-FZ-02",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 184.3
+    },
+    {
+      "batch_id": "GB015",
+      "shot_id": "CY024K2",
+      "time": 5,
+      "action_zh": "循刃瞬移镜头开始",
+      "action_en": "Begin the blade-linked arrival shot",
+      "music_intent": "爆发落点候选",
+      "source_seconds": 22.29116,
+      "film_time": 193.5,
+      "anchor": {
+        "shot_id": "CY024K2",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 193.5
+      },
+      "cue_id": "M07",
+      "music_id": "BGM-CY-FZ-02",
+      "alignment_status": "measured_transient_candidate_needs_listening",
+      "execution": "候选瞬态对齐，听审确认强弱是否合适",
+      "timeline_time": 197.8
+    },
+    {
+      "batch_id": "GB015",
+      "shot_id": "CY024K3",
+      "time": 10,
+      "action_zh": "进入暗月闭合与挡法术镜头",
+      "action_en": "Begin the dark-moon closure shot",
+      "music_intent": "第二次展开，接续同一乐句",
+      "source_seconds": 27.29116,
+      "film_time": 198.5,
+      "anchor": {
+        "shot_id": "CY024K3",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 198.5
+      },
+      "cue_id": "M07",
+      "music_id": "BGM-CY-FZ-02",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 202.8
+    },
+    {
+      "batch_id": "GB016",
+      "shot_id": "CY023A",
+      "time": 3,
+      "action_zh": "骑士入场，恢复主救援配乐",
+      "action_en": "Knights enter; cut out of the dome interior",
+      "music_intent": "从Kimi专曲转回救援主题，需乐句剪接",
+      "source_seconds": 45.99873,
+      "film_time": 205.5,
+      "anchor": {
+        "shot_id": "CY023A",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 205.5
+      },
+      "cue_id": "M08",
+      "music_id": "BGM-CY-FEAR-001",
+      "alignment_status": "measured_transient_candidate_needs_listening",
+      "execution": "候选瞬态对齐，听审确认强弱是否合适",
+      "timeline_time": 209.8
+    },
+    {
+      "batch_id": "GB017",
+      "shot_id": "CY026D",
+      "time": 6,
+      "action_zh": "切到月背两路救援的约定",
+      "action_en": "Cut to the two-route rescue agreement",
+      "music_intent": "降低动态，完整听清分工",
+      "source_seconds": null,
+      "film_time": 223.5,
+      "anchor": {
+        "shot_id": "CY026D",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 223.5
+      },
+      "silence_id": "S03",
+      "alignment_status": "intentional_bgm_silence_sfx_target",
+      "execution": "BGM停止；该动作由对白、拟音或环境声完成",
+      "timeline_time": 228.1
+    },
+    {
+      "batch_id": "GB018",
+      "shot_id": "CY024A",
+      "time": 6,
+      "action_zh": "进入展翼离地镜头",
+      "action_en": "Begin the wing-spread and lift-off shot",
+      "music_intent": "开始推升；10.2秒咏唱进入后让出频段",
+      "source_seconds": 28.64188,
+      "film_time": 236.5,
+      "anchor": {
+        "shot_id": "CY024A",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 236.5
+      },
+      "cue_id": "M09",
+      "music_id": "BGM-CY-FEAR-001",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 242.3
+    },
+    {
+      "batch_id": "GB019",
+      "shot_id": "CY024A10",
+      "time": 1,
+      "action_zh": "切到千问开扇",
+      "action_en": "Cut to Qwen opening the fan",
+      "music_intent": "器械声落点；咏唱连续，不另开一拍",
+      "source_seconds": 36.89188,
+      "film_time": 244.5,
+      "anchor": {
+        "shot_id": "CY024A10",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 244.5
+      },
+      "cue_id": "M09",
+      "music_id": "BGM-CY-FEAR-001",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 250.55
+    },
+    {
+      "batch_id": "GB019",
+      "shot_id": "CY024A12",
+      "time": 5,
+      "action_zh": "进入半空截击镜头",
+      "action_en": "Begin the midair interception shot",
+      "music_intent": "短促动作重音候选",
+      "source_seconds": 39.89188,
+      "film_time": 248.5,
+      "anchor": {
+        "shot_id": "CY024A12",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 248.5
+      },
+      "cue_id": "M09",
+      "music_id": "BGM-CY-FEAR-001",
+      "alignment_status": "measured_transient_candidate_needs_listening",
+      "execution": "候选瞬态对齐，听审确认强弱是否合适",
+      "timeline_time": 253.55
+    },
+    {
+      "batch_id": "GB020",
+      "shot_id": "CY024A7",
+      "time": 11.5,
+      "action_zh": "切入水龙俯冲镜头",
+      "action_en": "Cut to the water dragon diving",
+      "music_intent": "乐句推进，不提前播放破顶撞击重音",
+      "source_seconds": 58.56188,
+      "film_time": 268.0,
+      "anchor": {
+        "shot_id": "CY024A7",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 268.0
+      },
+      "cue_id": "M09",
+      "music_id": "BGM-CY-FEAR-001",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 272.22
+    },
+    {
+      "batch_id": "GB021",
+      "shot_id": "CY024A5A",
+      "time": 0,
+      "action_zh": "水龙破顶掠过镜头",
+      "action_en": "Water dragon breaches the roof past the camera",
+      "music_intent": "强落点目标，衔接前批俯冲",
+      "source_seconds": 64.15188,
+      "film_time": 271.5,
+      "anchor": {
+        "shot_id": "CY024A5A",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 271.5
+      },
+      "cue_id": "M09",
+      "music_id": "BGM-CY-FEAR-001",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 277.81
+    },
+    {
+      "batch_id": "GB022",
+      "shot_id": "CY024A5",
+      "time": 5,
+      "action_zh": "结印镜中咏唱暂停",
+      "action_en": "Pause the incantation during the seal shot",
+      "music_intent": "5–5.8秒收声留白，保留水流",
+      "source_seconds": null,
+      "film_time": 286.0,
+      "anchor": {
+        "shot_id": "CY024A5",
+        "offset_seconds": 5.0,
+        "baseline_film_seconds": 286.0
+      },
+      "silence_id": "S04",
+      "alignment_status": "intentional_bgm_silence_sfx_target",
+      "execution": "BGM停止；该动作由对白、拟音或环境声完成",
+      "timeline_time": 295.13
+    },
+    {
+      "batch_id": "GB022",
+      "shot_id": "CY024A5B",
+      "time": 8,
+      "action_zh": "解印，开始前指",
+      "action_en": "Release the seal and begin pointing",
+      "music_intent": "攻击启动落点",
+      "source_seconds": 99.33497,
+      "film_time": 289.0,
+      "anchor": {
+        "shot_id": "CY024A5B",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 289.0
+      },
+      "cue_id": "M10",
+      "music_id": "BGM-CY-FEAR-001",
+      "alignment_status": "measured_transient_candidate_needs_listening",
+      "execution": "候选瞬态对齐，听审确认强弱是否合适",
+      "timeline_time": 301.39
+    },
+    {
+      "batch_id": "GB022",
+      "shot_id": "CY024B",
+      "time": 9.5,
+      "action_zh": "切低机位撞盾镜头",
+      "action_en": "Cut to the low-angle shield collision shot",
+      "music_intent": "撞击高潮段；不可把切镜当成已完成碰撞",
+      "source_seconds": 100.83497,
+      "film_time": 290.5,
+      "anchor": {
+        "shot_id": "CY024B",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 290.5
+      },
+      "cue_id": "M10",
+      "music_id": "BGM-CY-FEAR-001",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 302.89
+    },
+    {
+      "batch_id": "GB023",
+      "shot_id": "CY024B3",
+      "time": 3,
+      "action_zh": "进入浅水空殿余波",
+      "action_en": "Cut to the shallow-water aftermath",
+      "music_intent": "重音后退潮，拉开动态",
+      "source_seconds": 108.83497,
+      "film_time": 298.5,
+      "anchor": {
+        "shot_id": "CY024B3",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 298.5
+      },
+      "cue_id": "M10",
+      "music_id": "BGM-CY-FEAR-001",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 310.89
+    },
+    {
+      "batch_id": "GB024",
+      "shot_id": "CY027B",
+      "time": 4.2,
+      "action_zh": "GPT冷淡回应",
+      "action_en": "GPT delivers the curt reply",
+      "music_intent": "压乐让短句突出",
+      "source_seconds": null,
+      "film_time": 311.7,
+      "anchor": {
+        "shot_id": "CY027B",
+        "offset_seconds": 0.2,
+        "baseline_film_seconds": 311.7
+      },
+      "silence_id": "S05",
+      "alignment_status": "intentional_bgm_silence_sfx_target",
+      "execution": "BGM停止；该动作由对白、拟音或环境声完成",
+      "timeline_time": 324.99
+    },
+    {
+      "batch_id": "GB024",
+      "shot_id": "CY027B1",
+      "time": 6,
+      "action_zh": "开始白紫水龙显形",
+      "action_en": "Begin the white-violet dragon transformation",
+      "music_intent": "变身新起势，不覆盖前一句",
+      "source_seconds": 38.38259,
+      "film_time": 313.5,
+      "anchor": {
+        "shot_id": "CY027B1",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 313.5
+      },
+      "cue_id": "M11",
+      "music_id": "BGM-CY-FEAR-001",
+      "alignment_status": "measured_transient_candidate_needs_listening",
+      "execution": "候选瞬态对齐，听审确认强弱是否合适",
+      "timeline_time": 326.79
+    },
+    {
+      "batch_id": "GB025",
+      "shot_id": "CY027E",
+      "time": 5,
+      "action_zh": "进入省略激战的天空镜头",
+      "action_en": "Begin the sky battle ellipsis",
+      "music_intent": "保留远处冲击；不逐次闪光机械卡拍",
+      "source_seconds": 50.38259,
+      "film_time": 325.5,
+      "anchor": {
+        "shot_id": "CY027E",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 325.5
+      },
+      "cue_id": "M11",
+      "music_id": "BGM-CY-FEAR-001",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 338.79
+    },
+    {
+      "batch_id": "GB025",
+      "shot_id": "CY027E1",
+      "time": 9,
+      "action_zh": "切到雨滴落入殿内",
+      "action_en": "Cut to rain falling inside",
+      "music_intent": "音乐回落，雨滴前景",
+      "source_seconds": 54.38259,
+      "film_time": 329.5,
+      "anchor": {
+        "shot_id": "CY027E1",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 329.5
+      },
+      "cue_id": "M11",
+      "music_id": "BGM-CY-FEAR-001",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 342.79
+    },
+    {
+      "batch_id": "GB026",
+      "shot_id": "CY027F",
+      "time": 6,
+      "action_zh": "切到GPT垂眼，胜负已分",
+      "action_en": "Cut to GPT looking down after the victory",
+      "music_intent": "收束战斗乐句，为钥匙声留空间",
+      "source_seconds": 65.38259,
+      "film_time": 340.5,
+      "anchor": {
+        "shot_id": "CY027F",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 340.5
+      },
+      "cue_id": "M11",
+      "music_id": "BGM-CY-FEAR-001",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 353.79
+    },
+    {
+      "batch_id": "GB027",
+      "shot_id": "CY027F1",
+      "time": 3,
+      "action_zh": "开始用钥匙解踝链",
+      "action_en": "Begin unlocking the ankle chain",
+      "music_intent": "低动态或留白，锁扣声成为落点",
+      "source_seconds": null,
+      "film_time": 349.5,
+      "anchor": {
+        "shot_id": "CY027F1",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 349.5
+      },
+      "silence_id": "S06",
+      "alignment_status": "intentional_bgm_silence_sfx_target",
+      "execution": "BGM停止；该动作由对白、拟音或环境声完成",
+      "timeline_time": 362.79
+    },
+    {
+      "batch_id": "GB028",
+      "shot_id": "CY028B",
+      "time": 3,
+      "action_zh": "Claude开始微光咏唱",
+      "action_en": "Claude begins the faint-light incantation",
+      "music_intent": "柔和抬起",
+      "source_seconds": null,
+      "film_time": 362.5,
+      "anchor": {
+        "shot_id": "CY028B",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 362.5
+      },
+      "silence_id": "S06",
+      "alignment_status": "intentional_bgm_silence_sfx_target",
+      "execution": "BGM停止；该动作由对白、拟音或环境声完成",
+      "timeline_time": 376.99
+    },
+    {
+      "batch_id": "GB028",
+      "shot_id": "CY029",
+      "time": 7,
+      "action_zh": "切到父亲即将打断",
+      "action_en": "Cut to the impending interruption by her father",
+      "music_intent": "压乐或停乐，让7.3秒呼唤进入",
+      "source_seconds": null,
+      "film_time": 366.5,
+      "anchor": {
+        "shot_id": "CY029",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 366.5
+      },
+      "silence_id": "S06",
+      "alignment_status": "intentional_bgm_silence_sfx_target",
+      "execution": "BGM停止；该动作由对白、拟音或环境声完成",
+      "timeline_time": 382.6
+    },
+    {
+      "batch_id": "GB029",
+      "shot_id": "CY029E1",
+      "time": 0,
+      "action_zh": "Claude仍选择继续咏唱",
+      "action_en": "Claude chooses to continue the incantation",
+      "music_intent": "从上一批留白后重新抬起；不当新歌开头",
+      "source_seconds": 80.03497,
+      "film_time": 372.5,
+      "anchor": {
+        "shot_id": "CY029E1",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 372.5
+      },
+      "cue_id": "M12",
+      "music_id": "BGM-CY-FEAR-001",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 388.6
+    },
+    {
+      "batch_id": "GB030",
+      "shot_id": "CY029B",
+      "time": 5,
+      "action_zh": "切到火种触木燃起镜头",
+      "action_en": "Cut to the spark igniting the wood",
+      "music_intent": "动作重音候选",
+      "source_seconds": 99.33497,
+      "film_time": 392.5,
+      "anchor": {
+        "shot_id": "CY029B",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 392.5
+      },
+      "cue_id": "M12",
+      "music_id": "BGM-CY-FEAR-001",
+      "alignment_status": "measured_transient_candidate_needs_listening",
+      "execution": "候选瞬态对齐，听审确认强弱是否合适",
+      "timeline_time": 407.9
+    },
+    {
+      "batch_id": "GB030",
+      "shot_id": "CY029C",
+      "time": 8,
+      "action_zh": "Claude收手后脱力",
+      "action_en": "Claude weakens after withdrawing her hand",
+      "music_intent": "音乐回落，接抱动作和呼吸前景",
+      "source_seconds": 102.33497,
+      "film_time": 395.5,
+      "anchor": {
+        "shot_id": "CY029C",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 395.5
+      },
+      "cue_id": "M12",
+      "music_id": "BGM-CY-FEAR-001",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 410.9
+    },
+    {
+      "batch_id": "GB031",
+      "shot_id": "CY031",
+      "time": 9,
+      "action_zh": "切到数日后街市",
+      "action_en": "Cut to the market days later",
+      "music_intent": "切入结尾主题，完成场景转换",
+      "source_seconds": 68.07329,
+      "film_time": 411.5,
+      "anchor": {
+        "shot_id": "CY031",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 411.5
+      },
+      "cue_id": "M13",
+      "music_id": "BGM-CY-TIME-001",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 426.9
+    },
+    {
+      "batch_id": "GB032",
+      "shot_id": "CY032A",
+      "time": 4,
+      "action_zh": "切到这次接住勺子的手",
+      "action_en": "Cut to the hand accepting the spoon",
+      "music_intent": "轻落点回应片头，避免夸张撞击声",
+      "source_seconds": 77.07329,
+      "film_time": 420.5,
+      "anchor": {
+        "shot_id": "CY032A",
+        "offset_seconds": 0.0,
+        "baseline_film_seconds": 420.5
+      },
+      "cue_id": "M13",
+      "music_id": "BGM-CY-TIME-001",
+      "alignment_status": "source_position_only_not_beat_locked",
+      "execution": "画面/对白/拟音动作点；音乐连续，不声称原曲重拍",
+      "timeline_time": 435.9
+    },
+    {
+      "batch_id": "GB033",
+      "shot_id": "CY034",
+      "time": 5,
+      "action_zh": "结束配乐，只留街市和呼吸",
+      "action_en": "Music ends in post; keep market ambience and breathing",
+      "music_intent": "最后四秒明确无BGM；此前淡出区间待混音",
+      "source_seconds": null,
+      "film_time": 431.5,
+      "anchor": {
+        "shot_id": "CY034",
+        "offset_seconds": 3.0,
+        "baseline_film_seconds": 431.5
+      },
+      "silence_id": "S08",
+      "alignment_status": "intentional_bgm_silence_sfx_target",
+      "execution": "BGM停止；该动作由对白、拟音或环境声完成",
+      "timeline_time": 446.9
+    }
+  ],
+  "voice_events": [
+    {
+      "id": "VO-CY003-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY003-01__Xiaoyu__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 1.6,
+      "rate": 1,
+      "timeline_start": 9.8,
+      "timeline_end": 11.4,
+      "rendered_source_samples": [
+        0,
+        76800
+      ],
+      "rendered_timeline_samples": [
+        470400,
+        547200
+      ],
+      "duck_window_seconds": [
+        9.7,
+        11.85
+      ]
+    },
+    {
+      "id": "VO-CY003B-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY003B-01__Claude__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 1.78,
+      "rate": 1,
+      "timeline_start": 15.5,
+      "timeline_end": 17.28,
+      "rendered_source_samples": [
+        0,
+        85440
+      ],
+      "rendered_timeline_samples": [
+        744000,
+        829440
+      ],
+      "duck_window_seconds": [
+        15.4,
+        17.73
+      ]
+    },
+    {
+      "id": "VO-CY004-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY004-01__Cultist__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 2.2,
+      "rate": 1,
+      "timeline_start": 20.4,
+      "timeline_end": 22.6,
+      "rendered_source_samples": [
+        0,
+        105600
+      ],
+      "rendered_timeline_samples": [
+        979200,
+        1084800
+      ],
+      "duck_window_seconds": [
+        20.3,
+        23.05
+      ]
+    },
+    {
+      "id": "VO-CY004D-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY004D-01__GPT__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 2.2,
+      "rate": 1,
+      "timeline_start": 33.0,
+      "timeline_end": 35.2,
+      "rendered_source_samples": [
+        0,
+        105600
+      ],
+      "rendered_timeline_samples": [
+        1584000,
+        1689600
+      ],
+      "duck_window_seconds": [
+        32.9,
+        35.65
+      ]
+    },
+    {
+      "id": "VO-CY006-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY006-01__Xiaoyu__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 4.58,
+      "rate": 1,
+      "timeline_start": 39.6,
+      "timeline_end": 44.18,
+      "rendered_source_samples": [
+        0,
+        219840
+      ],
+      "rendered_timeline_samples": [
+        1900800,
+        2120640
+      ],
+      "duck_window_seconds": [
+        39.5,
+        44.63
+      ]
+    },
+    {
+      "id": "VO-CY007-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY007-01__GPT__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 2.5,
+      "rate": 1,
+      "timeline_start": 45.3,
+      "timeline_end": 47.8,
+      "rendered_source_samples": [
+        0,
+        120000
+      ],
+      "rendered_timeline_samples": [
+        2174400,
+        2294400
+      ],
+      "duck_window_seconds": [
+        45.2,
+        48.25
+      ]
+    },
+    {
+      "id": "VO-CY008-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY008-01__Xiaoyu__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 2.5,
+      "rate": 1,
+      "timeline_start": 49.5,
+      "timeline_end": 52.0,
+      "rendered_source_samples": [
+        0,
+        120000
+      ],
+      "rendered_timeline_samples": [
+        2376000,
+        2496000
+      ],
+      "duck_window_seconds": [
+        49.4,
+        52.45
+      ]
+    },
+    {
+      "id": "VO-CY009-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY009-01__Xiaoyu__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 1.7,
+      "rate": 1,
+      "timeline_start": 54.0,
+      "timeline_end": 55.7,
+      "rendered_source_samples": [
+        0,
+        81600
+      ],
+      "rendered_timeline_samples": [
+        2592000,
+        2673600
+      ],
+      "duck_window_seconds": [
+        53.9,
+        56.15
+      ]
+    },
+    {
+      "id": "VO-CY010A-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY010A-01__Cultist__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 4.0,
+      "rate": 1,
+      "timeline_start": 67.0,
+      "timeline_end": 71.0,
+      "rendered_source_samples": [
+        0,
+        192000
+      ],
+      "rendered_timeline_samples": [
+        3216000,
+        3408000
+      ],
+      "duck_window_seconds": [
+        66.9,
+        71.45
+      ]
+    },
+    {
+      "id": "VO-CY015-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY015-01__Claude__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 1.5,
+      "rate": 1,
+      "timeline_start": 85.1,
+      "timeline_end": 86.6,
+      "rendered_source_samples": [
+        0,
+        72000
+      ],
+      "rendered_timeline_samples": [
+        4084800,
+        4156800
+      ],
+      "duck_window_seconds": [
+        85.0,
+        87.05
+      ]
+    },
+    {
+      "id": "VO-CY015-02",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY015-02__Xiaoyu__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 1.5,
+      "rate": 1,
+      "timeline_start": 86.9,
+      "timeline_end": 88.4,
+      "rendered_source_samples": [
+        0,
+        72000
+      ],
+      "rendered_timeline_samples": [
+        4171200,
+        4243200
+      ],
+      "duck_window_seconds": [
+        86.8,
+        88.85
+      ]
+    },
+    {
+      "id": "VO-CY016A-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY016A-01__Claude__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 2.0,
+      "rate": 1,
+      "timeline_start": 96.0,
+      "timeline_end": 98.0,
+      "rendered_source_samples": [
+        0,
+        96000
+      ],
+      "rendered_timeline_samples": [
+        4608000,
+        4704000
+      ],
+      "duck_window_seconds": [
+        95.9,
+        98.45
+      ]
+    },
+    {
+      "id": "VO-CY016A-02",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY016A-02__Xiaoyu__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 1.7,
+      "rate": 1,
+      "timeline_start": 98.3,
+      "timeline_end": 100.0,
+      "rendered_source_samples": [
+        0,
+        81600
+      ],
+      "rendered_timeline_samples": [
+        4718400,
+        4800000
+      ],
+      "duck_window_seconds": [
+        98.2,
+        100.45
+      ]
+    },
+    {
+      "id": "VO-CY016B1-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY016B1-01__Claude__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 1.38,
+      "rate": 1,
+      "timeline_start": 102.2,
+      "timeline_end": 103.58,
+      "rendered_source_samples": [
+        0,
+        66240
+      ],
+      "rendered_timeline_samples": [
+        4905600,
+        4971840
+      ],
+      "duck_window_seconds": [
+        102.1,
+        104.03
+      ]
+    },
+    {
+      "id": "VO-CY021A-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY021A-01__CultLeader__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 2.5,
+      "rate": 1,
+      "timeline_start": 125.5,
+      "timeline_end": 128.0,
+      "rendered_source_samples": [
+        0,
+        120000
+      ],
+      "rendered_timeline_samples": [
+        6024000,
+        6144000
+      ],
+      "duck_window_seconds": [
+        125.4,
+        128.45
+      ]
+    },
+    {
+      "id": "VO-CY019-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY019-01__CultLeader__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 0.8,
+      "rate": 1,
+      "timeline_start": 129.0,
+      "timeline_end": 129.8,
+      "rendered_source_samples": [
+        0,
+        38400
+      ],
+      "rendered_timeline_samples": [
+        6192000,
+        6230400
+      ],
+      "duck_window_seconds": [
+        128.9,
+        130.25
+      ]
+    },
+    {
+      "id": "VO-CY020-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY020-01__Claude__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 1.5,
+      "rate": 1,
+      "timeline_start": 133.0,
+      "timeline_end": 134.5,
+      "rendered_source_samples": [
+        0,
+        72000
+      ],
+      "rendered_timeline_samples": [
+        6384000,
+        6456000
+      ],
+      "duck_window_seconds": [
+        132.9,
+        134.95
+      ]
+    },
+    {
+      "id": "VO-CY021-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY021-01__Claude__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 5.8,
+      "rate": 1,
+      "timeline_start": 142.0,
+      "timeline_end": 147.8,
+      "rendered_source_samples": [
+        0,
+        278400
+      ],
+      "rendered_timeline_samples": [
+        6816000,
+        7094400
+      ],
+      "duck_window_seconds": [
+        141.9,
+        148.25
+      ]
+    },
+    {
+      "id": "VO-CY024-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY024-01__GPT__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 2.7,
+      "rate": 1,
+      "timeline_start": 173.95,
+      "timeline_end": 176.65,
+      "rendered_source_samples": [
+        0,
+        129600
+      ],
+      "rendered_timeline_samples": [
+        8349600,
+        8479200
+      ],
+      "duck_window_seconds": [
+        173.85,
+        177.1
+      ]
+    },
+    {
+      "id": "MASTER-Kimi-1",
+      "file": "后期/日语配音交接-v001/成品-v001/母版/母版-Kimi月影渡-连续咏唱.wav",
+      "rate": 1,
+      "file_in": 0,
+      "file_out": 2.72,
+      "timeline_start": 177.4,
+      "timeline_end": 180.12,
+      "rendered_source_samples": [
+        0,
+        130560
+      ],
+      "rendered_timeline_samples": [
+        8515200,
+        8645760
+      ],
+      "duck_window_seconds": [
+        177.3,
+        180.57
+      ]
+    },
+    {
+      "id": "MASTER-Kimi-2",
+      "file": "后期/日语配音交接-v001/成品-v001/母版/母版-Kimi月影渡-连续咏唱.wav",
+      "rate": 1,
+      "file_in": 2.72,
+      "file_out": 8.63,
+      "timeline_start": 184.3,
+      "timeline_end": 190.21,
+      "rendered_source_samples": [
+        130560,
+        414240
+      ],
+      "rendered_timeline_samples": [
+        8846400,
+        9130080
+      ],
+      "duck_window_seconds": [
+        184.2,
+        190.66
+      ]
+    },
+    {
+      "id": "MASTER-Kimi-3",
+      "file": "后期/日语配音交接-v001/成品-v001/母版/母版-Kimi月影渡-连续咏唱.wav",
+      "rate": 1,
+      "file_in": 8.63,
+      "file_out": 11.88,
+      "timeline_start": 194.4,
+      "timeline_end": 197.65,
+      "rendered_source_samples": [
+        414240,
+        570240
+      ],
+      "rendered_timeline_samples": [
+        9331200,
+        9487200
+      ],
+      "duck_window_seconds": [
+        194.3,
+        198.1
+      ]
+    },
+    {
+      "id": "VO-CY026A-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY026A-01__GPT__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 3.2,
+      "rate": 1,
+      "timeline_start": 212.9,
+      "timeline_end": 216.1,
+      "rendered_source_samples": [
+        0,
+        153600
+      ],
+      "rendered_timeline_samples": [
+        10219200,
+        10372800
+      ],
+      "duck_window_seconds": [
+        212.8,
+        216.55
+      ]
+    },
+    {
+      "id": "VO-CY026A1-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY026A1-01__Qwen__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 2.0,
+      "rate": 1,
+      "timeline_start": 216.1,
+      "timeline_end": 218.1,
+      "rendered_source_samples": [
+        0,
+        96000
+      ],
+      "rendered_timeline_samples": [
+        10372800,
+        10468800
+      ],
+      "duck_window_seconds": [
+        216.0,
+        218.55
+      ]
+    },
+    {
+      "id": "VO-CY026B-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY026B-01__GPT__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 1.7,
+      "rate": 1,
+      "timeline_start": 218.2,
+      "timeline_end": 219.9,
+      "rendered_source_samples": [
+        0,
+        81600
+      ],
+      "rendered_timeline_samples": [
+        10473600,
+        10555200
+      ],
+      "duck_window_seconds": [
+        218.1,
+        220.35
+      ]
+    },
+    {
+      "id": "VO-CY026B-02",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY026B-02__Gemini__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 1.28,
+      "rate": 1,
+      "timeline_start": 220.1,
+      "timeline_end": 221.38,
+      "rendered_source_samples": [
+        0,
+        61440
+      ],
+      "rendered_timeline_samples": [
+        10564800,
+        10626240
+      ],
+      "duck_window_seconds": [
+        220.0,
+        221.83
+      ]
+    },
+    {
+      "id": "VO-CY026C-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY026C-01__GPT__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 2.0,
+      "rate": 1,
+      "timeline_start": 222.2,
+      "timeline_end": 224.2,
+      "rendered_source_samples": [
+        0,
+        96000
+      ],
+      "rendered_timeline_samples": [
+        10665600,
+        10761600
+      ],
+      "duck_window_seconds": [
+        222.1,
+        224.65
+      ]
+    },
+    {
+      "id": "VO-CY026C-02",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY026C-02__Grok__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 1.38,
+      "rate": 1,
+      "timeline_start": 224.3,
+      "timeline_end": 225.68,
+      "rendered_source_samples": [
+        0,
+        66240
+      ],
+      "rendered_timeline_samples": [
+        10766400,
+        10832640
+      ],
+      "duck_window_seconds": [
+        224.2,
+        226.13
+      ]
+    },
+    {
+      "id": "VO-CY026D1-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY026D1-01__GPT__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 1.5,
+      "rate": 1,
+      "timeline_start": 226.2,
+      "timeline_end": 227.7,
+      "rendered_source_samples": [
+        0,
+        72000
+      ],
+      "rendered_timeline_samples": [
+        10857600,
+        10929600
+      ],
+      "duck_window_seconds": [
+        226.1,
+        228.15
+      ]
+    },
+    {
+      "id": "VO-CY026D-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY026D-01__GPT__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 4.5,
+      "rate": 1,
+      "timeline_start": 228.3,
+      "timeline_end": 232.8,
+      "rendered_source_samples": [
+        0,
+        216000
+      ],
+      "rendered_timeline_samples": [
+        10958400,
+        11174400
+      ],
+      "duck_window_seconds": [
+        228.2,
+        233.25
+      ]
+    },
+    {
+      "id": "VO-CY026D-02",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY026D-02__Kimi__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 0.8,
+      "rate": 1,
+      "timeline_start": 233.8,
+      "timeline_end": 234.6,
+      "rendered_source_samples": [
+        0,
+        38400
+      ],
+      "rendered_timeline_samples": [
+        11222400,
+        11260800
+      ],
+      "duck_window_seconds": [
+        233.7,
+        235.05
+      ]
+    },
+    {
+      "id": "VO-CY026E-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY026E-01__GPT__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 4.0,
+      "rate": 1,
+      "timeline_start": 235.1,
+      "timeline_end": 239.1,
+      "rendered_source_samples": [
+        0,
+        192000
+      ],
+      "rendered_timeline_samples": [
+        11284800,
+        11476800
+      ],
+      "duck_window_seconds": [
+        235.0,
+        239.55
+      ]
+    },
+    {
+      "id": "VO-CY024A0-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY024A0-01__Qwen__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 3.0,
+      "rate": 1,
+      "timeline_start": 239.2,
+      "timeline_end": 242.2,
+      "rendered_source_samples": [
+        0,
+        144000
+      ],
+      "rendered_timeline_samples": [
+        11481600,
+        11625600
+      ],
+      "duck_window_seconds": [
+        239.1,
+        242.65
+      ]
+    },
+    {
+      "id": "MASTER-GPT-1",
+      "file": "后期/日语配音交接-v001/成品-v001/母版/母版-GPT沧海天倾-连续咏唱.wav",
+      "rate": 1,
+      "file_in": 0,
+      "file_out": 31.72,
+      "timeline_start": 246.09,
+      "timeline_end": 277.81,
+      "rendered_source_samples": [
+        0,
+        1522560
+      ],
+      "rendered_timeline_samples": [
+        11812320,
+        13334880
+      ],
+      "duck_window_seconds": [
+        245.99,
+        278.26
+      ]
+    },
+    {
+      "id": "MASTER-GPT-2",
+      "file": "后期/日语配音交接-v001/成品-v001/母版/母版-GPT沧海天倾-连续咏唱.wav",
+      "rate": 1,
+      "file_in": 31.72,
+      "file_out": 47.54,
+      "timeline_start": 279.31,
+      "timeline_end": 295.13,
+      "rendered_source_samples": [
+        1522560,
+        2281920
+      ],
+      "rendered_timeline_samples": [
+        13406880,
+        14166240
+      ],
+      "duck_window_seconds": [
+        279.21,
+        295.58
+      ]
+    },
+    {
+      "id": "MASTER-GPT-3",
+      "file": "后期/日语配音交接-v001/成品-v001/母版/母版-GPT沧海天倾-连续咏唱.wav",
+      "rate": 1,
+      "file_in": 47.54,
+      "file_out": 53,
+      "timeline_start": 295.93,
+      "timeline_end": 301.39,
+      "rendered_source_samples": [
+        2281920,
+        2544000
+      ],
+      "rendered_timeline_samples": [
+        14204640,
+        14466720
+      ],
+      "duck_window_seconds": [
+        295.83,
+        301.84
+      ]
+    },
+    {
+      "id": "VO-CY027A-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY027A-01__CultLeader__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 4.68,
+      "rate": 1,
+      "timeline_start": 319.99,
+      "timeline_end": 324.67,
+      "rendered_source_samples": [
+        0,
+        224640
+      ],
+      "rendered_timeline_samples": [
+        15359520,
+        15584160
+      ],
+      "duck_window_seconds": [
+        319.89,
+        325.12
+      ]
+    },
+    {
+      "id": "VO-CY027B-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY027B-01__GPT__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 1.28,
+      "rate": 1,
+      "timeline_start": 324.99,
+      "timeline_end": 326.27,
+      "rendered_source_samples": [
+        0,
+        61440
+      ],
+      "rendered_timeline_samples": [
+        15599520,
+        15660960
+      ],
+      "duck_window_seconds": [
+        324.89,
+        326.72
+      ]
+    },
+    {
+      "id": "VO-CY028A-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY028A-01__GPT__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 2.5,
+      "rate": 1,
+      "timeline_start": 367.89,
+      "timeline_end": 370.39,
+      "rendered_source_samples": [
+        0,
+        120000
+      ],
+      "rendered_timeline_samples": [
+        17658720,
+        17778720
+      ],
+      "duck_window_seconds": [
+        367.79,
+        370.84
+      ]
+    },
+    {
+      "id": "VO-CY028A-02",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY028A-02__Claude__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 3.28,
+      "rate": 1,
+      "timeline_start": 370.59,
+      "timeline_end": 373.87,
+      "rendered_source_samples": [
+        0,
+        157440
+      ],
+      "rendered_timeline_samples": [
+        17788320,
+        17945760
+      ],
+      "duck_window_seconds": [
+        370.49,
+        374.32
+      ]
+    },
+    {
+      "id": "VO-CY028A2-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY028A2-01__GPT__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 2.0,
+      "rate": 1,
+      "timeline_start": 373.99,
+      "timeline_end": 375.99,
+      "rendered_source_samples": [
+        0,
+        96000
+      ],
+      "rendered_timeline_samples": [
+        17951520,
+        18047520
+      ],
+      "duck_window_seconds": [
+        373.89,
+        376.44
+      ]
+    },
+    {
+      "id": "MASTER-Claude-1",
+      "file": "后期/日语配音交接-v001/成品-v001/母版/母版-Claude星火-含停顿-连续咏唱.wav",
+      "rate": 1,
+      "file_in": 0,
+      "file_out": 28.91,
+      "timeline_start": 376.99,
+      "timeline_end": 405.9,
+      "rendered_source_samples": [
+        0,
+        1387680
+      ],
+      "rendered_timeline_samples": [
+        18095520,
+        19483200
+      ],
+      "duck_window_seconds": [
+        376.89,
+        406.35
+      ]
+    },
+    {
+      "id": "VO-CY029-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY029-01__CultLeader__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 4.18,
+      "rate": 1,
+      "timeline_start": 382.9,
+      "timeline_end": 387.08,
+      "rendered_source_samples": [
+        0,
+        200640
+      ],
+      "rendered_timeline_samples": [
+        18379200,
+        18579840
+      ],
+      "duck_window_seconds": [
+        382.8,
+        387.53
+      ]
+    },
+    {
+      "id": "VO-CY028-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY028-01__GPT__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 1.28,
+      "rate": 1,
+      "timeline_start": 415.7,
+      "timeline_end": 416.98,
+      "rendered_source_samples": [
+        0,
+        61440
+      ],
+      "rendered_timeline_samples": [
+        19953600,
+        20015040
+      ],
+      "duck_window_seconds": [
+        415.6,
+        417.43
+      ]
+    },
+    {
+      "id": "VO-CY031A-01",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY031A-01__Xiaoyu__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 1.78,
+      "rate": 1,
+      "timeline_start": 432.9,
+      "timeline_end": 434.68,
+      "rendered_source_samples": [
+        0,
+        85440
+      ],
+      "rendered_timeline_samples": [
+        20779200,
+        20864640
+      ],
+      "duck_window_seconds": [
+        432.8,
+        435.13
+      ]
+    },
+    {
+      "id": "VO-CY031A-02",
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY031A-02__Claude__ja__v001.wav",
+      "file_in": 0,
+      "file_out": 0.8,
+      "rate": 1,
+      "timeline_start": 435.1,
+      "timeline_end": 435.9,
+      "rendered_source_samples": [
+        0,
+        38400
+      ],
+      "rendered_timeline_samples": [
+        20884800,
+        20923200
+      ],
+      "duck_window_seconds": [
+        435.0,
+        436.35
+      ]
+    }
+  ],
+  "input_assets": {
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY003-01__Xiaoyu__ja__v001.wav": {
+      "sha256": "be2e4b271b59701d734afb42d5ab57afb244702c2cf2e9c5640bf7c66c296190",
+      "bytes": 192102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY003B-01__Claude__ja__v001.wav": {
+      "sha256": "7a3475d0ae43d31b144cd4df9db42f65f5b7aba39c966148177b2568f9927848",
+      "bytes": 213702
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY004-01__Cultist__ja__v001.wav": {
+      "sha256": "04042e48ea7a84c6b6e6c6d1fb775b324590874f334a3234048b0f5ce3ccf7b9",
+      "bytes": 264102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY004D-01__GPT__ja__v001.wav": {
+      "sha256": "1ba313b4b69181afdfc141032ec1dc784f7bc8dfd324fdc8426d3a433bec4d30",
+      "bytes": 264102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY006-01__Xiaoyu__ja__v001.wav": {
+      "sha256": "fb26f19b10a8a9e26edfb5420bdc42f647ff8e2c10ca96a9d4ffb73e035f2349",
+      "bytes": 549702
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY007-01__GPT__ja__v001.wav": {
+      "sha256": "5d543829a7b01c8cf00b5d16b1f408e6c691029eb4d86c82228cda577143eb40",
+      "bytes": 300102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY008-01__Xiaoyu__ja__v001.wav": {
+      "sha256": "fbbed51306f63eb332e038c0c6a3a82747b239e426d59ed84d4f9fa358f29b70",
+      "bytes": 300102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY009-01__Xiaoyu__ja__v001.wav": {
+      "sha256": "7f78d5caa97b90b5aad17ef49fe036104796f618f11a97b3493749d812ca68e3",
+      "bytes": 204102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY010A-01__Cultist__ja__v001.wav": {
+      "sha256": "9ab4053a5c7d0322bf965cbaebe7ab3c63acbde72159f52b4ca245d6911b6a7d",
+      "bytes": 480102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY015-01__Claude__ja__v001.wav": {
+      "sha256": "83c6611102f619c766575a9e49400951af504c8eefd13d5ec83ac2bab50a560d",
+      "bytes": 180102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY015-02__Xiaoyu__ja__v001.wav": {
+      "sha256": "46e685533eb52b5e50972554a9adf9a74fd10bd4575a68aab0f0c994cc201604",
+      "bytes": 180102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY016A-01__Claude__ja__v001.wav": {
+      "sha256": "b254ec58ed2a121271282d51769c17903322247bd722cb1c4a81d494a7677c13",
+      "bytes": 240102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY016A-02__Xiaoyu__ja__v001.wav": {
+      "sha256": "39355556afdbcc78604fa25a6d72af470e0074f83efe9e86190dbaba9d6d22cc",
+      "bytes": 204102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY016B1-01__Claude__ja__v001.wav": {
+      "sha256": "e3c884092ba3fb5d00e32cf3e669fe53be5d2d342cb3e694b6c7e5abe8fdac50",
+      "bytes": 165702
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY019-01__CultLeader__ja__v001.wav": {
+      "sha256": "262d58be5691f8ebbf81f7d72cf90f018f7911c409d614857c012317a8e09793",
+      "bytes": 96102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY020-01__Claude__ja__v001.wav": {
+      "sha256": "337d128fad959f87332bb6f132e4ae37a9536b366098ea997f82303d7ae87357",
+      "bytes": 180102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY021-01__Claude__ja__v001.wav": {
+      "sha256": "c953834667eab0b1fceac9bd0aae589e899435a958235cc9fcc1b9603a860dd0",
+      "bytes": 696102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY021A-01__CultLeader__ja__v001.wav": {
+      "sha256": "ca520fdf81259c4a224e34f3e15dfaef22ea69ce7242715d07efd97b5a242583",
+      "bytes": 300102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY024-01__GPT__ja__v001.wav": {
+      "sha256": "91a4894cea6c02259487ff818da78960a5a032e5c8b7e63e9e4a4ffb85195f86",
+      "bytes": 324102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY024A0-01__Qwen__ja__v001.wav": {
+      "sha256": "d7b7a26f306c0372b8b35eddabb948a986d0573c494402f5c50b1ff3322afaab",
+      "bytes": 360102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY026A-01__GPT__ja__v001.wav": {
+      "sha256": "f7ba87959c20ed2dfebed4c7920f6088982bc5174fb54a6b7782cbe08bc6478c",
+      "bytes": 384102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY026A1-01__Qwen__ja__v001.wav": {
+      "sha256": "7f6b540ee10fced478e5acd862adf29f5c9d2589bcb13bc7389b6b751c9b9305",
+      "bytes": 240102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY026B-01__GPT__ja__v001.wav": {
+      "sha256": "85b6cf60f74cb14782d144e53f070da25198badcb6c4e23edbaf0df3ed6c9271",
+      "bytes": 204102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY026B-02__Gemini__ja__v001.wav": {
+      "sha256": "360d6ef9a6bce6438209fbf8468d2cdb9ecc07c1a9c4e951043cc9171bddf69c",
+      "bytes": 153702
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY026C-01__GPT__ja__v001.wav": {
+      "sha256": "483132f471b59db7a65c476de90e5922b686931319ea610e6ef68295f9c95184",
+      "bytes": 240102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY026C-02__Grok__ja__v001.wav": {
+      "sha256": "dc096ee22355f43cd05bea822f0017c6f9811078af9189640b485683667a33a8",
+      "bytes": 165702
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY026D-01__GPT__ja__v001.wav": {
+      "sha256": "cd13d570798a01d5213f1ad87d30b079b22caac9c3d60b0ec70c6e15cb6ebed3",
+      "bytes": 540102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY026D-02__Kimi__ja__v001.wav": {
+      "sha256": "c2c36d39d8ea41068b697f799ef97ba95c6f7cd274136969dfc613d50d20a230",
+      "bytes": 96102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY026D1-01__GPT__ja__v001.wav": {
+      "sha256": "46bd1bdcc698d1ba3cd8f8dd0c3ab6617977de155c4ccdf1e8adadc5d18d7af0",
+      "bytes": 180102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY026E-01__GPT__ja__v001.wav": {
+      "sha256": "463566c5e137700a163ea02bd79a425f9b4639ab619da849c97bc1aa6dc8282a",
+      "bytes": 480102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY027A-01__CultLeader__ja__v001.wav": {
+      "sha256": "f42fd95d8ff2c1189e63d1d312d441e09f7f5f445e3a3b2e9bc16f84115baa91",
+      "bytes": 561702
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY027B-01__GPT__ja__v001.wav": {
+      "sha256": "ab5f395a386a35208085667cebc51d03d2d4daf4bd44c9792d276d7b51c0fd09",
+      "bytes": 153702
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY028-01__GPT__ja__v001.wav": {
+      "sha256": "0111f7caf03af89c61a6aaa3b603af06b6bcc81d5888d2210f12f38c46e4011c",
+      "bytes": 153702
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY028A-01__GPT__ja__v001.wav": {
+      "sha256": "be906b288656ade2fd32ffa1d84b195854dbbf334f4ab8b36f13f3bb7282f5fb",
+      "bytes": 300102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY028A-02__Claude__ja__v001.wav": {
+      "sha256": "6d2ea32c6dcb306e7f623c563b42993f45f67493edcfee7491e2c699b368281d",
+      "bytes": 393702
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY028A2-01__GPT__ja__v001.wav": {
+      "sha256": "75eb7056c6a108b9afda2b87565fcda1681bfb62f0a8bf920f3b7e9f91b8130c",
+      "bytes": 240102
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY029-01__CultLeader__ja__v001.wav": {
+      "sha256": "767cd17924963fae2fa7732aa969c7216280753fcfd760a26276d03c0d8ce7ac",
+      "bytes": 501702
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY031A-01__Xiaoyu__ja__v001.wav": {
+      "sha256": "f29b298239b50d560f23fe2b2be984a5d2fe7b03ab8c588862f8bcc9bb392e38",
+      "bytes": 213702
+    },
+    "后期/日语配音交接-v001/成品-v001/干声/VO-CY031A-02__Claude__ja__v001.wav": {
+      "sha256": "a257e4aaabda53720aa6b9d8db510b325c0cac0d59b9d954e0ff8627d9eb8066",
+      "bytes": 96102
+    },
+    "后期/日语配音交接-v001/成品-v001/母版/母版-Claude星火-含停顿-连续咏唱.wav": {
+      "sha256": "c51c67973bbba861bdb785cd91ea2bb0e6922d8320aaa1fc9f024c289011234b",
+      "bytes": 2312878
+    },
+    "后期/日语配音交接-v001/成品-v001/母版/母版-GPT沧海天倾-连续咏唱.wav": {
+      "sha256": "e4f71e01dd8a50c02e14f28806e37bb602ae33ffa22a972fe647be28689285df",
+      "bytes": 6360102
+    },
+    "后期/日语配音交接-v001/成品-v001/母版/母版-Kimi月影渡-连续咏唱.wav": {
+      "sha256": "5605a7b910137ae6aa7e23372bb3efe1c2c196874c9d5f936407026a118c285f",
+      "bytes": 1425702
+    },
+    "资产/声音/BGM/重选-v001/BGM-CY-FEAR-001.m4a": {
+      "sha256": "3ea813e300f11b4426cc4a4fdc5d071cee307f4f1bc69f6484e1eefdc0b7dd74",
+      "bytes": 1721830
+    },
+    "资产/声音/BGM/重选-v001/BGM-CY-TIME-001.m4a": {
+      "sha256": "72bd9d9171da81a356f365036769c9922ac30ca5ad90e0ce6f5331c0e9d059fc",
+      "bytes": 1811608
+    },
+    "资产/声音/BGM/重选-v002/BGM-CY-MT-03.m4a": {
+      "sha256": "6726d4d192ca25ee0921d7bf8255e7f9f4757f837c9537ecb76ec7d3386d8edb",
+      "bytes": 2770650
+    },
+    "资产/声音/BGM/重选-v003/BGM-CY-RZ-01.m4a": {
+      "sha256": "15ff41df0917bd4415b7750ede29e192e647d93dc7a40d70f5daea5610c18fb9",
+      "bytes": 7039930
+    },
+    "资产/声音/BGM/重选-v004/BGM-CY-KH-05.m4a": {
+      "sha256": "f0127de39de56e0557b030fa70344f99f96edda61040240e3eacb1d2b703fe5d",
+      "bytes": 1599656
+    },
+    "资产/声音/BGM/重选-v006/BGM-CY-FZ-02.m4a": {
+      "sha256": "5d774ae5fcf881fabb4f748817851106a9d40d8b1245a13d8495d9f45fbaeed0",
+      "bytes": 3057310
+    },
+    "资产/声音/BGM/重选-v006/BGM-CY-HP7-02.m4a": {
+      "sha256": "ea9165c4b1ba540803c7de7fb08b011aee084d696aadf2cb9962e7acd23a6fdb",
+      "bytes": 3151417
+    }
+  },
+  "checks": {
+    "source_ranges": true,
+    "full_timeline_covered_once": true,
+    "natural_rate_all_sources": true,
+    "voice_timeline_matches_shots": true,
+    "auditory_review": false,
+    "input_sources_unchanged_after_render": true
+  },
+  "mix": {
+    "music_nominal_db": -17,
+    "voice_db": 0,
+    "dialogue_music_duck_db": -7,
+    "duck_attack_seconds": 0.1,
+    "duck_release_seconds": 0.45,
+    "voice_fade_or_stretch": false,
+    "music_fades": "equal-power, within each cue; no overlapping tracks",
+    "sfx_ambience_rendered": false,
+    "preview_not_final_mix": true,
+    "pre_attenuation_peak_dbfs": -3.9324935216750614,
+    "global_peak_protection_gain_db": 0.0,
+    "post_attenuation_peak_dbfs": -3.9324935216750614,
+    "peak_protection": "constant global attenuation only when needed; no dynamics compression"
+  },
+  "note": "本预览只含现有音乐与日语配音，尚无拟音/环境声；停乐段因此可能只剩对白或数字静音。频谱瞬态不是已听审音乐重拍。",
+  "outputs": [
+    "BGM试听.wav",
+    "BGM试听.mp3",
+    "全片声音预览.mp3"
+  ],
+  "bgm_peak_dbfs": -16.63815405785192,
+  "output_assets": {
+    "BGM试听.wav": {
+      "sha256": "5ed5027182240fddbfb53f7b76fc4bc4a377d540b0166d6234249a6d1ac23a12",
+      "bytes": 129859302
+    },
+    "BGM试听.mp3": {
+      "sha256": "b6a274da7cef1301daefdcf505763ee7bc4b40ebff8af885e6c1b77735743c8a",
+      "bytes": 10823085
+    },
+    "全片声音预览.mp3": {
+      "sha256": "f6005288e2981e564b686e8b7f935ae776365a93582c38fe874e99d894998c93",
+      "bytes": 10823085
+    }
+  },
+  "render_decode_checks": {
+    "BGM试听.wav": {
+      "decoded_samples": 21643200,
+      "decoded_seconds": 450.9,
+      "peak_dbfs": -16.638159331285795,
+      "all_finite": true,
+      "silence_max_abs": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "BGM试听.mp3": {
+      "decoded_samples": 21643200,
+      "decoded_seconds": 450.9,
+      "peak_dbfs": -16.920724175800586,
+      "all_finite": true
+    },
+    "全片声音预览.mp3": {
+      "decoded_samples": 21643200,
+      "decoded_seconds": 450.9,
+      "peak_dbfs": -4.1842822939008055,
+      "all_finite": true
+    }
+  },
+  "source_hash_refreshes": [
+    {
+      "previous": "bc13d53c288e1f51fb74fa4d22de073c746327431ed45f01c7017ec48efba492",
+      "current": "bc13d53c288e1f51fb74fa4d22de073c746327431ed45f01c7017ec48efba492",
+      "reason": "Shot text changed; audio inputs, edit timing and rendered outputs reverified unchanged"
+    },
+    {
+      "previous": "bc13d53c288e1f51fb74fa4d22de073c746327431ed45f01c7017ec48efba492",
+      "current": "e9fdc34cf2802ff3e3b9f282ed33ba6711104a9334e6ad6dea05e889d9b3e452",
+      "reason": "Shot text changed; audio inputs, edit timing and rendered outputs reverified unchanged"
+    },
+    {
+      "previous": "e9fdc34cf2802ff3e3b9f282ed33ba6711104a9334e6ad6dea05e889d9b3e452",
+      "current": "d3f4effb596ad8b777cd2d8fd6c8a1d7903b51f0ee8bf7d5299aaad4e161b759",
+      "reason": "Shot text changed; audio inputs, edit timing and rendered outputs reverified unchanged"
+    },
+    {
+      "previous": "d3f4effb596ad8b777cd2d8fd6c8a1d7903b51f0ee8bf7d5299aaad4e161b759",
+      "current": "385c20fe09fd5f126662e6da3d2feeb096e1a3658f9408428bcb60f2706dff52",
+      "reason": "Shot text changed; audio inputs, edit timing and rendered outputs reverified unchanged"
+    },
+    {
+      "previous": "385c20fe09fd5f126662e6da3d2feeb096e1a3658f9408428bcb60f2706dff52",
+      "current": "83d23bc169a8bcdc862aecf8bbd7306668800f2651ae6e86fe6c252811df3287",
+      "reason": "Shot text changed; audio inputs, edit timing and rendered outputs reverified unchanged"
+    }
+  ]
+}

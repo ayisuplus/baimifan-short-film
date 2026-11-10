@@ -1,0 +1,520 @@
+{
+  "status": "visually_reviewed_ranges_pending_context_render",
+  "replacements": [
+    {
+      "batch": 7,
+      "start": 12,
+      "end": 12,
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v005/产物/GB006-v005-CY012-r3.mp4",
+          "in": 0.5,
+          "out": 3.5,
+          "anchor": "stair_up",
+          "props": {},
+          "new_pickup": true
+        }
+      ],
+      "reason": "补小鱼踏阶上高坛的3秒空间过渡；保留短腿、毛边靴与室内光色"
+    },
+    {
+      "batch": 10,
+      "start": 4,
+      "end": 4,
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v005/产物/GB008R2-v005-CY016D-transition-r3.mp4",
+          "in": 0.5,
+          "out": 3.5,
+          "anchor": "stair_down",
+          "props": {},
+          "new_pickup": true
+        }
+      ],
+      "reason": "补从高坛跑下阶阻拦搬柴的3秒行动桥"
+    },
+    {
+      "batch": 11,
+      "start": 0,
+      "end": 5.5,
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v005/产物/GB009-v005-CY016D-r1.mp4",
+          "in": 0,
+          "out": 5,
+          "anchor": "push_wood",
+          "props": {},
+          "new_pickup": true
+        }
+      ],
+      "reason": "真正推肩接触后失衡撑地，去掉原150%小跳"
+    },
+    {
+      "batch": 12,
+      "start": 3,
+      "end": 11.3,
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v005/产物/GB010-v005-CY021A-r2.mp4",
+          "in": 2.2,
+          "out": 3.934,
+          "duration": 1.9166666666666667,
+          "anchor": "priest_sentence",
+          "props": {
+            "ZoomX": 1.3,
+            "ZoomY": 1.3,
+            "Pan": -90,
+            "Tilt": 0
+          },
+          "new_pickup": true
+        },
+        {
+          "source": "视频制作/Metaso-H3-v005/产物/GB010-v005-CY021A-r2.mp4",
+          "in": 3.934,
+          "out": 5.339,
+          "duration": 0.9166666666666666,
+          "props": {
+            "ZoomX": 1.3,
+            "ZoomY": 1.3,
+            "Pan": -90,
+            "Tilt": 0
+          },
+          "new_pickup": true
+        },
+        {
+          "source": "视频制作/Metaso-H3-v005/产物/GB010-v005-CY021A-r2.mp4",
+          "in": 5.339,
+          "out": 6.693,
+          "duration": 1.5833333333333333,
+          "props": {
+            "ZoomX": 1.3,
+            "ZoomY": 1.3,
+            "Pan": -90,
+            "Tilt": 0
+          },
+          "new_pickup": true
+        },
+        {
+          "source": "视频制作/Metaso-H3-v005/产物/GB010-v005-CY021A-r2.mp4",
+          "in": 6.693,
+          "out": 7,
+          "duration": 0.4583333333333333,
+          "props": {
+            "ZoomX": 1.3,
+            "ZoomY": 1.3,
+            "Pan": -90,
+            "Tilt": 0
+          },
+          "new_pickup": true
+        }
+      ],
+      "reason": "从高坛方向看父亲，按所选录音两段真实发声和中间停顿分段对位；删初始无意义等待，裁去边缘道具漂移"
+    },
+    {
+      "batch": 13,
+      "start": 7.25,
+      "end": 9.75,
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v005/产物/GB011-1-v005-CY020A-r1.mp4",
+          "in": 0,
+          "out": 3.5,
+          "anchor": "push_child",
+          "props": {},
+          "new_pickup": true
+        }
+      ],
+      "reason": "单次左掌推肩、落地、余势同镜；保留Claude前句制止"
+    },
+    {
+      "batch": 14,
+      "start": 0,
+      "end": 5.791666666666667,
+      "segments": [
+        {
+          "source": "后期/声画重构-v002/处理片段/CY021-恳求-跟随裁切.mp4",
+          "in": 1.3,
+          "out": 2.531,
+          "duration": 0.9166666666666666,
+          "anchor": "claude_plea",
+          "props": {},
+          "new_pickup": true
+        },
+        {
+          "source": "视频制作/LibTV-H3-v001/产物/GB011-2-H3-v001.mp4",
+          "in": 3.5,
+          "out": 5.35,
+          "duration": 1.8333333333333333,
+          "anchor": "grip_robe",
+          "props": {}
+        },
+        {
+          "source": "后期/声画重构-v002/处理片段/CY021-恳求-跟随裁切.mp4",
+          "in": 3.361,
+          "out": 4.653,
+          "duration": 1.0833333333333333,
+          "props": {},
+          "new_pickup": true
+        },
+        {
+          "source": "后期/声画重构-v002/处理片段/CY021-恳求-跟随裁切.mp4",
+          "in": 4.653,
+          "out": 5,
+          "duration": 0.4166666666666667,
+          "props": {},
+          "new_pickup": true
+        }
+      ],
+      "reason": "Claude称呼父亲→抓袍手部承接长静默→Claude完整恳求→等回应；不让孩子代说，跟随裁切剔除过早点火与新增人物"
+    },
+    {
+      "batch": 16,
+      "start": 12,
+      "end": 12.583333333333334,
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v005/产物/GB013-v005-CY023-r1.mp4",
+          "in": 0.8,
+          "out": 3.8,
+          "anchor": "door_kick",
+          "props": {},
+          "new_pickup": true
+        }
+      ],
+      "reason": "补足门内破门、门扇内开与落脚，保留原火幕/列阵/裙摆/门前静默"
+    },
+    {
+      "batch": 17,
+      "start": 0,
+      "end": 3,
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB014-v002.mp4",
+          "in": 1,
+          "out": 3,
+          "duration": 2.5,
+          "anchor": "gpt_entry",
+          "props": {},
+          "fusion_comp": "B17_GB014_01"
+        }
+      ],
+      "reason": "从门已开状态接入，去掉第二次慢开门，群像轻慢2.5秒承完整命令"
+    },
+    {
+      "batch": 18,
+      "start": 10.5,
+      "end": 11,
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB014A-v002.mp4",
+          "in": 10.5,
+          "out": 11,
+          "duration": 1,
+          "props": {}
+        }
+      ],
+      "reason": "保持4秒无对白显形，只给末句仍发声的口部表演增加半秒，随后甩刃"
+    },
+    {
+      "batch": 19,
+      "start": 0,
+      "end": 10.666666666666666,
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB015-1-v002.mp4",
+          "in": 0,
+          "out": 2,
+          "anchor": "glass_break",
+          "props": {}
+        },
+        {
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB015-1-v002.mp4",
+          "in": 3,
+          "out": 5.5,
+          "anchor": "blade_coordinate",
+          "props": {}
+        },
+        {
+          "source": "视频制作/Metaso-H3-v005/产物/GB015-1-v005-CY024K2-r1.mp4",
+          "in": 0.5,
+          "out": 2.75,
+          "anchor": "kimi_materialize",
+          "props": {},
+          "new_pickup": true
+        },
+        {
+          "source": "视频制作/Metaso-H3-v005/产物/GB015-1-v005-CY024K2-r1.mp4",
+          "in": 3.875,
+          "out": 5,
+          "anchor": "kimi_settle",
+          "props": {},
+          "new_pickup": true,
+          "fx_flash": true
+        },
+        {
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB015-1-v002.mp4",
+          "in": 10,
+          "out": 12,
+          "anchor": "cultist_attack",
+          "props": {}
+        }
+      ],
+      "reason": "删掉飞刃击木前提前露出清空柴堆的宽镜；地面银流凝实后接低蹲，弃中间轻跳，以2帧凝实闪光连接，再接敌人举手"
+    },
+    {
+      "batch": 27,
+      "start": 0,
+      "end": 6.541666666666667,
+      "segments": [
+        {
+          "source": "后期/声画重构-v002/处理片段/CY024A3-水滴合并反放.mp4",
+          "in": 0,
+          "out": 4.5,
+          "duration": 6.541667,
+          "anchor": "water_merge"
+        }
+      ],
+      "reason": "原源2.5–4.5秒8fps密采样确认下方小滴正向沿液桥脱落；将源0–4.5秒反放，转换为下方水滴上升、接触液桥、并入主水珠，主水珠整体从较低位置升至较高位置。反放样2fps已实看，主滴透明质感与教堂空间保持。最终4.5秒108帧静音源由时间线按68.79%速度延至6.541667秒，现选6.44秒GPT声音仍完整原速正向。"
+    },
+    {
+      "batch": 28,
+      "start": 5,
+      "end": 10.0,
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v005/产物/GB020-1R2-v005-CY024A6-r1.mp4",
+          "in": 0,
+          "out": 5,
+          "anchor": "sky_water",
+          "props": {},
+          "new_pickup": true
+        }
+      ],
+      "reason": "保留前5秒云层定位，后5秒明确悬天连续水面及下压蓄势，原声不缩不加速"
+    },
+    {
+      "batch": 30,
+      "start": 1.5,
+      "end": 6.375,
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v005/产物/GB021-v005-CY024A4-r1.mp4",
+          "in": 0,
+          "out": 5.5,
+          "anchor": "inspect_lock",
+          "props": {},
+          "new_pickup": true
+        }
+      ],
+      "reason": "恢复Kimi脸、双手、踝扣和脚托同框的侧面中近景；双腕不入框避免提前解锁"
+    },
+    {
+      "batch": 38,
+      "start": 6.5,
+      "end": 14.25,
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB028-v002.mp4",
+          "in": 6.5,
+          "out": 8.208333,
+          "duration": 1.708333
+        },
+        {
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB028-v002.mp4",
+          "in": 12.208333,
+          "out": 14.208333,
+          "duration": 2
+        },
+        {
+          "source": "视频制作/Metaso-H3-v003/剪辑候选/GB029-v003.mp4",
+          "in": 2.75,
+          "out": 5.416667,
+          "duration": 2.666667
+        }
+      ],
+      "reason": "镜界检测确认原GB028锁痕手镜6.5–8.208333，眼部8.208333–12.208333。上一轮误把6.5–8.25替成父亲。现先恢复手镜完整Claude咏唱，再在父亲呼唤前约0.33秒切其原反打，续同姿态静默失落素材；不保留图标眼镜。原父亲呼唤仍批内8.5417–11.6417，完整落在父亲画面区；本段净减约1.375秒，后续批整体顺移，不能为了填原时长再重复眼镜。39画外Claude声音仍可以搭父亲反应，但建议缩其重复反应或选择不同后半段，防重复同一降手动作。音频原速不动。"
+    },
+    {
+      "batch": 42,
+      "start": 3,
+      "end": 3,
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB031-v002.mp4",
+          "in": 3,
+          "out": 6,
+          "duration": 3
+        }
+      ],
+      "reason": "在转身抱稳与数日后之间恢复3秒离殿，建立众人汇合、背向离开的终态。选原3–6秒出口火盆最少且更远，仍需局部去火，不能再以删除全镜回避环境连续性。采用后数日后和后续声音整体顺移3秒。"
+    },
+    {
+      "batch": 44,
+      "start": 0,
+      "end": 2.75,
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v001/产物/GB033-Metaso-H3-v001.mp4",
+          "in": 0,
+          "out": 4.291667,
+          "duration": 4.291667
+        }
+      ],
+      "reason": "撤销1.5606倍吃饭加速，保留迟疑—入口—空勺退出的完整原速。后面双人镜可恢复原速4.291667–9.416667约5.125秒，保持最后至少4秒安静。"
+    },
+    {
+      "batch": 9,
+      "start": 0,
+      "end": 14.0,
+      "segments": [
+        {
+          "source": "视频制作/LibTV-H3-v001/产物/GB008-H3-v001.mp4",
+          "in": 0.0,
+          "out": 6.5,
+          "duration": 6.5,
+          "props": {}
+        },
+        {
+          "source": "视频制作/LibTV-H3-v001/产物/GB008-H3-v001.mp4",
+          "in": 8.0,
+          "out": 10.375,
+          "duration": 2.375,
+          "props": {
+            "ZoomX": 1.12,
+            "ZoomY": 1.12,
+            "Tilt": -30
+          }
+        },
+        {
+          "source": "视频制作/LibTV-H3-v001/产物/GB008-H3-v001.mp4",
+          "in": 10.375,
+          "out": 12.375,
+          "duration": 3.5,
+          "props": {}
+        },
+        {
+          "source": "视频制作/LibTV-H3-v001/产物/GB008-H3-v001.mp4",
+          "in": 12.375,
+          "out": 14.0,
+          "duration": 1.625,
+          "props": {}
+        }
+      ],
+      "reason": "原源孩子明显开口约8.2–8.375秒，而选声首活动窗位于批内6.718475–7.241325秒。把后面发话脸向前调，并让后半句接孩子试锁手部。Claude先前画外劝走和尾部快走保留。"
+    },
+    {
+      "batch": 8,
+      "start": 0,
+      "end": 12.708333333333334,
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB007-v002.mp4",
+          "in": 0.0,
+          "out": 5.0,
+          "duration": 5.0,
+          "props": {}
+        },
+        {
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB007-v002.mp4",
+          "in": 5.583333333333333,
+          "out": 7.583333333333333,
+          "duration": 2.0,
+          "props": {}
+        },
+        {
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB007-v002.mp4",
+          "in": 7.583333333333333,
+          "out": 9.583333333333334,
+          "duration": 2.0,
+          "props": {
+            "ZoomX": 2.25,
+            "ZoomY": 2.25,
+            "Pan": -513,
+            "Tilt": 461.25
+          }
+        },
+        {
+          "source": "视频制作/Metaso-H3-v002/剪辑候选/GB007-v002.mp4",
+          "in": 10.0,
+          "out": 13.791666666666666,
+          "duration": 3.7083333333333335,
+          "props": {}
+        }
+      ],
+      "reason": "Claude问句第一信号窗批内5.301358–5.803433秒，而源嘴约5.875秒明显打开，约0.58秒落后。小鱼回答时背帽/小侧脸加上Claude脸占主导，不宜靠嘴型强行认证；改为孩子手/锁特写，可避免错归属。局部后期可先试，不必立刻补拍。"
+    },
+    {
+      "batch": 39,
+      "start": 2.7083333333333335,
+      "end": 8.458333333333334,
+      "segments": [
+        {
+          "source": "视频制作/Metaso-H3-v003/剪辑候选/GB029-v003.mp4",
+          "in": 5.458333333333333,
+          "out": 8.458333333333334,
+          "duration": 5.75,
+          "props": {}
+        }
+      ],
+      "reason": "按原源真实切点5.458333–8.458333取手部。父亲反应已前移到其呼唤处，这里不重复降手；连续掌心微光承咏唱，原声原速；不使用1fps联系表名义时间猜源切点"
+    }
+  ],
+  "voice_overrides": {
+    "VO-CY021A-01": {
+      "anchor": "priest_sentence",
+      "offset": 0
+    },
+    "VO-CY019-01": {
+      "local": 9.6
+    },
+    "VO-CY021-01": {
+      "anchor": "claude_plea",
+      "offset": 0
+    },
+    "VO-CY024-01": {
+      "anchor": "gpt_entry",
+      "offset": 0.35
+    },
+    "VO-CY024K0-01": {
+      "local": 4
+    },
+    "VO-CY024K0-02": {
+      "local": 7.708333333333
+    },
+    "VO-CY024K1A-01": {
+      "anchor": "blade_coordinate",
+      "offset": 1.0
+    },
+    "VO-CY024A4-01": {
+      "anchor": "inspect_lock",
+      "offset": 0
+    },
+    "VO-CY024A8-01": {
+      "local": 7.0
+    },
+    "VO-CY028A2-01": {
+      "local": 0.0
+    },
+    "VO-CY028B-01": {
+      "local": 4.166666666666667
+    },
+    "VO-CY028C-01": {
+      "local": 6.5
+    },
+    "VO-CY029-01": {
+      "local": 8.541666666666666
+    }
+  },
+  "music_action_overrides": {
+    "M06": {
+      "anchor": "door_kick",
+      "offset": 0.45,
+      "start_at_action": true
+    },
+    "M07": {
+      "anchor": "kimi_settle",
+      "offset": 0
+    }
+  },
+  "limits": "分句非静音区对位，不等于逐音口型或完整连续听审。回片/旧片均保留。"
+}

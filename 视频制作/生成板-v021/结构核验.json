@@ -1,0 +1,38 @@
+{
+  "shots": 133,
+  "batches": 43,
+  "cues": 63,
+  "film_seconds": 483.22,
+  "all_selected_models_fit": true,
+  "seedance_batches": [
+    "GB014",
+    "GB014A",
+    "GB015-1",
+    "GB018",
+    "GB019",
+    "GB021",
+    "GB024",
+    "GB026",
+    "GB027",
+    "GB028",
+    "GB029",
+    "GB030-1",
+    "GB031"
+  ],
+  "h3_unsupported_batches": [
+    "GB014",
+    "GB014A",
+    "GB015-1",
+    "GB018",
+    "GB019",
+    "GB021",
+    "GB024",
+    "GB026",
+    "GB027",
+    "GB028",
+    "GB029",
+    "GB030-1",
+    "GB031"
+  ],
+  "scope": "结构与时间验证；修正候选视听审阅与动态口型仍为单独验收项"
+}

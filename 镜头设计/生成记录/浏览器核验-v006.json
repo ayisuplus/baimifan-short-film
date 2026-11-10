@@ -1,0 +1,133 @@
+{
+  "renderer": "headless local Edge via Playwright",
+  "cards": 69,
+  "scenes": 6,
+  "image_decode_in_browser": "all loaded",
+  "audio_metadata": [
+    {
+      "file": "镜头设计/临时声音/CY003-对白-v001.wav",
+      "duration": 1.747029
+    },
+    {
+      "file": "镜头设计/临时声音/CY004-对白-v005.wav",
+      "duration": 2.6722
+    },
+    {
+      "file": "镜头设计/临时声音/CY006-对白-v001.wav",
+      "duration": 4.50771
+    },
+    {
+      "file": "镜头设计/临时声音/CY007-对白-v001.wav",
+      "duration": 2.65229
+    },
+    {
+      "file": "镜头设计/临时声音/CY008-对白-v001.wav",
+      "duration": 2.124263
+    },
+    {
+      "file": "镜头设计/临时声音/CY009-对白-v001.wav",
+      "duration": 1.651565
+    },
+    {
+      "file": "镜头设计/临时声音/CY014-对白-v001.wav",
+      "duration": 2.695102
+    },
+    {
+      "file": "镜头设计/临时声音/CY020-对白-v001.wav",
+      "duration": 1.444172
+    },
+    {
+      "file": "镜头设计/临时声音/CY026A-对白1-v003.wav",
+      "duration": 2.665306
+    },
+    {
+      "file": "镜头设计/临时声音/CY026A-对白2-v003.wav",
+      "duration": 1.174785
+    },
+    {
+      "file": "镜头设计/临时声音/CY026B-对白1-v003.wav",
+      "duration": 1.372245
+    },
+    {
+      "file": "镜头设计/临时声音/CY026B-对白2-v003.wav",
+      "duration": 1.18644
+    },
+    {
+      "file": "镜头设计/临时声音/CY026C-对白1-v003.wav",
+      "duration": 1.372245
+    },
+    {
+      "file": "镜头设计/临时声音/CY026C-对白2-v003.wav",
+      "duration": 1.250748
+    },
+    {
+      "file": "镜头设计/临时声音/CY026D-对白1-v003.wav",
+      "duration": 1.224082
+    },
+    {
+      "file": "镜头设计/临时声音/CY026D-对白2-v003.wav",
+      "duration": 1.048435
+    },
+    {
+      "file": "镜头设计/临时声音/CY026E-对白1-v003.wav",
+      "duration": 2.931066
+    },
+    {
+      "file": "镜头设计/临时声音/CY027A-对白1-v003.wav",
+      "duration": 2.523764
+    },
+    {
+      "file": "镜头设计/临时声音/CY027B-对白1-v003.wav",
+      "duration": 1.192608
+    },
+    {
+      "file": "镜头设计/临时声音/CY029-对白-v001.wav",
+      "duration": 2.504036
+    },
+    {
+      "file": "镜头设计/临时声音/CY032-对白-v001.wav",
+      "duration": 1.747029
+    }
+  ],
+  "controls": [
+    "play/pause",
+    "advance across cut",
+    "scene jump",
+    "previous/next shot",
+    "seek",
+    "end stop",
+    "restart",
+    "voice toggle"
+  ],
+  "mobile_width": 390,
+  "overflow": false,
+  "page_errors": [],
+  "actual_audio_listening": "pending; metadata and playback control only",
+  "split_screen_reveal_counts": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "split_reset_on_exit_and_seek": true,
+  "time_captions": [
+    {
+      "shot": "CY026A",
+      "text": "稍早",
+      "show_and_clear": true
+    },
+    {
+      "shot": "CY027A",
+      "text": "此刻",
+      "show_and_clear": true
+    },
+    {
+      "shot": "CY031",
+      "text": "数日后",
+      "show_and_clear": true
+    }
+  ],
+  "asset_cards": 19,
+  "asset_search": "Llama returns one card"
+}

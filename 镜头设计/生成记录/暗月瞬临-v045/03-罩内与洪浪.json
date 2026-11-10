@@ -1,0 +1,38 @@
+[
+  {
+    "id": "CY024A2",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/月相阵纹-v042/CY024A2-v042-r1.png",
+      "镜头设计/图像/暗月瞬临-v045/CY024K4-v045-r1.png"
+    ],
+    "prompt": "Edit reference1 to the same OPAQUE darkmoon ward INTERIOR as ref2. Preserve Claude exact orangehair, flowerheadpiece, pale face, pose/expression breathingout, burned floralcream dress, wrists locked to crossbeam. No other character added. Remove cathedralcolumns, windows, candleflames/bokeh, outsidefires and the huge transparent prismatic left shieldarc. They are OUTSIDE an opaque barrier so cannot be seen. Background ONLY dim softlyflowing navy-black innerface like ref2, without bricks, geometricgrids, stars, patterns or circles. Cool soft ivoryweapon light from lowerleft OFFSCREEN illuminates face, wood andcuffs; no torchy warmkeylight. Clothes remain charred, skin not blushpink, no sexualization. Absolutely no fire or glassinside. Same composition 16:9 high-end cinematicanime, no text."
+  },
+  {
+    "id": "CY024A4",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/月相阵纹-v042/CY024A4-v042-r2.png",
+      "镜头设计/图像/暗月瞬临-v045/CY024K4-v045-r1.png"
+    ],
+    "prompt": "Edit reference1 into matching OPAQUE darkmoon ward INTERIOR of ref2. Keep exact close-up of Claude upright barefeet planted on narrow wood ledge fixedto central uprightpost, BOTH blackanklecuffs and chains, damagedskirts, modestclothes. No chair or sitting, no changedfoot/anatomy. Remove all visible exteriorcathedralwindows, columns, candlebokeh, violetburninglogs, magicring/lines acrossfloor and purplefire reflectedon clothes. Real empty stonefloor inside is clean/dry, no burningwood. Background completely blocks externalworld: soft unfocused navyblack innercurved magicalsurface, no rectangularbrickgrid or startexture. Gentle cool reflectedlight from ivoryblade offscreenLEFT reveals feet, anklerestraints, charrededges; these do not glowpurple. Keep previouscamera low/sameframing, tactile stone andwood, 16:9 anime, no text."
+  },
+  {
+    "id": "CY024B3",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/月引承潮-v043/CY024B3-v043-r1.png",
+      "镜头设计/图像/暗月瞬临-v045/CY024K3-v045-r1.png"
+    ],
+    "prompt": "EXTERIOR WATER IMPACT shot. Edit reference1 preserving the MANY-METERS-HIGH thick bluewhite wall of water that fills entire LEFT HALF and TOP of frame, overwhelming force, heavy densefolds, foreground water clippedby lens. Replace the clearbubble and ALL visible people/cross/blades with ONE COMPLETELY OPAQUE deepindigo darkmoon shell matching reference2: smooth darksilky layeredpressurebands, NO transparency and NO human silhouettes. Shell covers same standingcross and two people but viewer cannotsee them. Located lowerRIGHT onhighestaltar. Lowcamera makes incomingflood tower far above, shell size just 3m high vs 8m water. Water impacts LEFT shellface, deeply FLATTENS and dents its curvedface, silver stresscreases local to compression, rightside remains rounddark; no cracks revealing people. Waterwraps overtop and divides down bothsides, thick water canopy occludeswindows. Show wet scrapedstone atbase and burnt logs tumbling OUTSIDE in foreground, allfireextinguished. No floorcircle/groundanchor/bladeoutdoors. Sparse violet magicalelectricity only within OUTSIDE water, neverinside. Retain cinematic scale not small splashring. No visible people anywhere. No text 16:9 anime."
+  },
+  {
+    "id": "CY024B",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/月刃救援-v041/CY024B-v041-r1.png",
+      "镜头设计/图像/暗月瞬临-v045/CY024K3-v045-r1.png"
+    ],
+    "prompt": "Precise continuity edit reference1. Preserve huge central waterthunder column, airborne white dragon GPT foregroundleft with wings and exact pose, golden priestbarrier at lower center, rightcolumn allies, allarchitecture and water scale. ONLY edit far upperRIGHT highestaltar shield: replace its small transparent silverbubble containing Kimi/Claude/cross with a COMPLETELY OPAQUE deepindigo shadowdome matching reference2. Same footprint and height, NO people/cross/silhouettes visibleinside. Thin local silverglint where sidewater touches leftdomeface, no fullbright rim. Flood remains enormous and faraltar small, do not enlarge shield. Behindthat faraltar, where visible, central highwindow is broken with attachedbluejaggedfragments, surrounding sidewindows intact, no extra moonhole inleftwall. Allfireout, no wood/fireinsideward. Change NOTHING else, no labels, 16:9 anime."
+  }
+]

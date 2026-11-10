@@ -1,0 +1,80 @@
+{
+  "batch": {
+    "batch_number": 13,
+    "batch_id": "GB011-1",
+    "attempt_id": "GB011-1-r002-part1",
+    "title": "别碰她、静止对视，高低之间、失守落地",
+    "shot_ids": [
+      "CY020"
+    ],
+    "film_start": 156.472729,
+    "part_offset": 0.0,
+    "used_seconds": 5.0,
+    "duration": 5,
+    "prompt": "优先修正要求：本视频唯一画内人物为橙色长发成年圣女Claude，开场第一帧即她的面部与受缚肩部近景，穿浅色长裙。她本人说唯一日语台词，声画一致；全程不出现蓝发小鱼或教主，不切入其他人物，不生成童声。\nsubject_definitions:\nImage 1=Claude四视图：同一人四角度，身份服饰保持\nImage 2=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，5秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–5s Image 2；画内:Claude。承前宝宝张臂与画外命令，Claude只看见教主逼近；衣料声接入，身体落地声尚不存在。Claude面部近景随她向阶下追视作很小的下摇，喊出后停住，靠受缚肩部挣扎保持动态。Claude看见教主逼近宝宝，喊出制止并挣扎；此时尚未发生下一次摔落。 注意: 与新对峙镜衔接：保留当前构图动作；后期轻收地面与金饰高光，人物肤色及原光源位置保持。 人物:下方暴力不入画，推倒尚未发生。 声音:Claude愤怒喊出原句；画外衣料摩擦、木架与锁链震动，不提前出现宝宝落地或身体撞击声。 Claude在镜内1–3.64秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n1–3.64s Claude 匹配口型:<d>[Japanese] その子に触らないで！</d>；仅一次。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "Claude",
+        "name_en": "Claude",
+        "asset_id": "CHAR-CLAUDE",
+        "status": "候选待作者审阅",
+        "limits": "侧背与下裙含补全，不作为精确工程正交图。受缚至离殿采用赤足，四视图鞋仅为日常服装参考。近景不为展示花饰而换侧；不新增另一朵花。",
+        "purpose": "Claude四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a",
+        "original_slot": 1
+      },
+      {
+        "slot": 2,
+        "path": "镜头设计/图像/天瀑空间-v014/CY020-v014-r4.png",
+        "kind": "composition",
+        "shot_id": "CY020",
+        "purpose": "构图、空间与代表状态：别碰她；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "939e6566ac8060679a9ae17b973eaa0d07d65a4b57ecfd5be61b4a7d65eff6b6",
+        "original_slot": 4
+      }
+    ],
+    "estimated_credits": 51.0,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "原片开场错由小鱼开口；分离Claude独立镜头避免跨角色污染。",
+    "repair_of": {
+      "task_id": "20261028010803837879236",
+      "local_path": "视频制作/LibTV-H3-v001/产物/GB011-1-H3-v001.mp4"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "优先修正要求：本视频唯一画内人物为橙色长发成年圣女Claude，开场第一帧即她的面部与受缚肩部近景，穿浅色长裙。她本人说唯一日语台词，声画一致；全程不出现蓝发小鱼或教主，不切入其他人物，不生成童声。\nsubject_definitions:\nImage 1=Claude四视图：同一人四角度，身份服饰保持\nImage 2=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，5秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–5s Image 2；画内:Claude。承前宝宝张臂与画外命令，Claude只看见教主逼近；衣料声接入，身体落地声尚不存在。Claude面部近景随她向阶下追视作很小的下摇，喊出后停住，靠受缚肩部挣扎保持动态。Claude看见教主逼近宝宝，喊出制止并挣扎；此时尚未发生下一次摔落。 注意: 与新对峙镜衔接：保留当前构图动作；后期轻收地面与金饰高光，人物肤色及原光源位置保持。 人物:下方暴力不入画，推倒尚未发生。 声音:Claude愤怒喊出原句；画外衣料摩擦、木架与锁链震动，不提前出现宝宝落地或身体撞击声。 Claude在镜内1–3.64秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n1–3.64s Claude 匹配口型:<d>[Japanese] その子に触らないで！</d>；仅一次。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141454194728960"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115146392618328064"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 5,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "2026-10-28作者授权：参考图超限想办法砍不重要参考，该返修的都返修；沿用Metaso H3"
+}

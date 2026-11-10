@@ -1,0 +1,9 @@
+{
+  "status": "style_rework_in_progress",
+  "native_timeline": "v004_Screenshot_2D_Style_Rework",
+  "author_instruction": "大部分是标准2D，少数像3D建模的不能用。必须强调动漫，不是漫剧。",
+  "correction": "废止本轮高细节二次元三维渲染作为统一风格的错误判断；既有冻结输入仅保留追溯，不继续执行。",
+  "scope": "逐条重审截图对应候选，保留符合二维动画的镜头与已修好的声音、因果和转场；只补有建模渲染感的片段。",
+  "standard": "以片中既有多数二维动画为准，清楚手绘轮廓、设计发束、离散色块与绘制阴影；角色逐帧表演和运动有重心/预备/发力/余势，避免塑料模型、PBR皮肤与静图推拉漫剧。",
+  "export_policy": "未导出视频/DRP/DRT，作者核定后才导出。"
+}

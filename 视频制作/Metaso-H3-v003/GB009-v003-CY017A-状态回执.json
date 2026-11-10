@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115176016338415616",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "教徒将柴木放入柴堆",
+    "status": "succeeded",
+    "created_at": 1793132235,
+    "updated_at": 1793132248,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115176016338415616/content?expires=1793737404&signature=b677bb3b4cc0032e33495445a162ec34aff728ec89f2ea1d12660cf2009cd246"
+    },
+    "resolution": "768P",
+    "duration": 4,
+    "usage": {
+      "total_seconds": 4,
+      "input_seconds": 0,
+      "output_seconds": 4,
+      "input_image_count": 1
+    },
+    "ratio": "adaptive",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

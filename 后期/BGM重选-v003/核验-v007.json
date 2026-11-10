@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-24",
+  "version": "v007",
+  "new_audio": 10,
+  "decode_ok": true,
+  "changed_shots": [
+    "CY004B",
+    "CY004C",
+    "CY004D",
+    "CY005",
+    "CY006",
+    "CY007",
+    "CY008",
+    "CY009",
+    "CY010",
+    "CY009A",
+    "CY010A",
+    "CY011",
+    "CY011A",
+    "CY012",
+    "CY013",
+    "CY013A",
+    "CY015",
+    "CY016",
+    "CY016A1",
+    "CY016A",
+    "CY016B",
+    "CY016B1",
+    "CY016C",
+    "CY016D",
+    "CY017",
+    "CY018",
+    "CY019",
+    "CY020",
+    "CY020B",
+    "CY020A",
+    "CY021",
+    "CY021B",
+    "CY021A",
+    "CY022A",
+    "CY022A1",
+    "CY022",
+    "CY022B",
+    "CY022B2"
+  ],
+  "other_77_bindings_unchanged": true,
+  "shot_payload_other_fields_unchanged": true,
+  "author_marks_preserved": {
+    "CY001": "BGM-CY-MT-03",
+    "CY026B": "BGM-CY-FEAR-001",
+    "CY031": "BGM-CY-TIME-001"
+  },
+  "browser_playback": [
+    {
+      "id": "BGM-CY-AM-01",
+      "duration": 229.6525
+    },
+    {
+      "id": "BGM-CY-FR-40",
+      "duration": 113.847211
+    },
+    {
+      "id": "BGM-CY-RZ-01",
+      "duration": 424.127833
+    },
+    {
+      "id": "BGM-CY-PN-01",
+      "duration": 189.631833
+    }
+  ],
+  "cross_shot_music_kept": true,
+  "seek_checked": true,
+  "console_errors": [],
+  "independent_review": "passed",
+  "audio_aesthetic_review": "pending author comparison",
+  "search_limitations": [
+    "DeepSeek Fetch 404 for Bilibili and Surugaya pages",
+    "Bilibili source browser tab load timed out; public source API and original AAC retrieved successfully"
+  ],
+  "screenshot": "后期/BGM重选-v003/第三轮候选-v007.png"
+}

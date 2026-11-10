@@ -1,0 +1,106 @@
+{
+  "prompt": [
+    9,
+    "49d8605c-d115-4dd4-b2e4-0edad81e5102",
+    {
+      "1": {
+        "class_type": "BreezeTTS2LoadModel",
+        "inputs": {
+          "model": "bf16 (best quality)",
+          "dtype": "bf16",
+          "device": "cuda",
+          "attention": "sdpa",
+          "decode_mode": "eager",
+          "download_if_missing": false
+        }
+      },
+      "2": {
+        "class_type": "BreezeTTS2VoiceDesign",
+        "inputs": {
+          "breeze_model": [
+            "1",
+            0
+          ],
+          "text": "Let her in. I shouldn't interfere in Church affairs. Easy now. She's safe. Waiting for you down below.",
+          "instruction": "A woman with a full, soft, warm voice and natural English pronunciation. A dignified queen with quiet authority: poised, assured, steady, accustomed to being listened to. Speak naturally, with a brief pause between sentences.",
+          "cfg_scale": 4.0,
+          "max_new_tokens": 256,
+          "temperature": 0.9,
+          "top_k": 50,
+          "top_p": 1.0,
+          "repetition_penalty": 1.1,
+          "depth_temperature": 0.9,
+          "depth_top_k": 50,
+          "depth_top_p": 1.0,
+          "seed": 20261028
+        }
+      },
+      "3": {
+        "class_type": "SaveAudio",
+        "inputs": {
+          "audio": [
+            "2",
+            0
+          ],
+          "filename_prefix": "audio/BreezeTTS2/WhiteRice-English-v001/gpt-B"
+        }
+      }
+    },
+    {
+      "client_id": "white-rice-english-voice-auditions-v001",
+      "create_time": 1792990716511
+    },
+    [
+      "3"
+    ]
+  ],
+  "outputs": {
+    "3": {
+      "audio": [
+        {
+          "filename": "gpt-B_00001.flac",
+          "subfolder": "audio\\BreezeTTS2\\WhiteRice-English-v001",
+          "type": "output"
+        }
+      ]
+    }
+  },
+  "status": {
+    "status_str": "success",
+    "completed": true,
+    "messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "49d8605c-d115-4dd4-b2e4-0edad81e5102",
+          "timestamp": 1792990716512
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [
+            "1"
+          ],
+          "prompt_id": "49d8605c-d115-4dd4-b2e4-0edad81e5102",
+          "timestamp": 1792990716513
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "49d8605c-d115-4dd4-b2e4-0edad81e5102",
+          "timestamp": 1792990733468
+        }
+      ]
+    ]
+  },
+  "meta": {
+    "3": {
+      "node_id": "3",
+      "display_node": "3",
+      "parent_node": null,
+      "real_node_id": "3"
+    }
+  }
+}

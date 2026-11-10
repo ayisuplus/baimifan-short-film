@@ -1,0 +1,45 @@
+{
+  "reason": "Ensure failed rescue never reads as released cuffs; align Claude ornament with original identity.",
+  "requests": [
+    {
+      "id": "S03A-v003",
+      "path": "镜头设计/图像/S03A-空堂潜入-v003.png",
+      "source": "镜头设计/图像/S03A-空堂潜入-v002.png",
+      "prompt": "Edit ONLY the BOTTOM LEFT panel (fifth panel) of this existing SIX-panel 2-column3-row wide storyboard. Preserve the sheet canvas size, exact panel rectangles, white gutters, other FIVE PANELS pixel appearance, palette, costumes and faces. In that bottom-left panel there is a tiny blue whale-hat child pointing left, with orange-haired Claude beside her. Correct CLAUDE'S RESTRAINT POSE: she must remain UPRIGHT at the SAME HEIGHT on the wooden cross as in middle-right panel4. Her BOTH arms remain EXTENDED sideways to the crossbar, with BOTH WRISTS visibly inside metal cuffs attached to the wooden beam. No cuff has opened; no metal penetrates skin. Do NOT have her kneeling, seated, hunched down, arms lowered or leaning freely next to the child. Only tilt her head/eyes DOWN toward child. The torso chain and closed waist padlock stay taut across her ivory embroidered dress. Show enough wooden crossbar and cuff attachment at upper edges to establish she is still secured. The tiny child stays at LEFT on a HIGHER SIDE STONE STEP so her hand reaches Claude's waist level; child can point toward escape route with an encouraging smile. Preserve baby's tiny proportions, never enlarge to adult. Recompose this single panel if needed to fit the fixed arms and side step while preserving the framing rectangle. No other person in church. No wood flames. No new text or labels. The emotional connection is only through eyes, NOT bending the bound adult's whole body. Leave all other panels unchanged.",
+      "request": {
+        "prompt": "Edit ONLY the BOTTOM LEFT panel (fifth panel) of this existing SIX-panel 2-column3-row wide storyboard. Preserve the sheet canvas size, exact panel rectangles, white gutters, other FIVE PANELS pixel appearance, palette, costumes and faces. In that bottom-left panel there is a tiny blue whale-hat child pointing left, with orange-haired Claude beside her. Correct CLAUDE'S RESTRAINT POSE: she must remain UPRIGHT at the SAME HEIGHT on the wooden cross as in middle-right panel4. Her BOTH arms remain EXTENDED sideways to the crossbar, with BOTH WRISTS visibly inside metal cuffs attached to the wooden beam. No cuff has opened; no metal penetrates skin. Do NOT have her kneeling, seated, hunched down, arms lowered or leaning freely next to the child. Only tilt her head/eyes DOWN toward child. The torso chain and closed waist padlock stay taut across her ivory embroidered dress. Show enough wooden crossbar and cuff attachment at upper edges to establish she is still secured. The tiny child stays at LEFT on a HIGHER SIDE STONE STEP so her hand reaches Claude's waist level; child can point toward escape route with an encouraging smile. Preserve baby's tiny proportions, never enlarge to adult. Recompose this single panel if needed to fit the fixed arms and side step while preserving the framing rectangle. No other person in church. No wood flames. No new text or labels. The emotional connection is only through eyes, NOT bending the bound adult's whole body. Leave all other panels unchanged.",
+        "referenced_image_paths": [
+          "E:/projects/内容创作/穿云/镜头设计/图像/S03A-空堂潜入-v002.png"
+        ],
+        "transparent_background": false
+      }
+    },
+    {
+      "id": "S03B-v003",
+      "path": "镜头设计/图像/S03B-解锁未成-v003.png",
+      "source": "镜头设计/图像/S03B-解锁未成-v002.png",
+      "prompt": "Edit ONLY the TOP RIGHT panel (second panel) of this 2x2 FOUR-panel storyboard sheet. Preserve exact canvas, rectangles, gutters, ALL OTHER THREE PANELS, identities, costumes, moon/candle color and locks. The second panel shows a foreground dripping candle, tired small blue whale-hat child and orange-haired Claude. Correct Claude's posture to make ongoing confinement unambiguous: she remains UPRIGHT, attached to tall wooden CROSS behind her, BOTH ARMS extended horizontally and BOTH WRISTS enclosed in CLOSED cuffs anchored visibly to wooden crossbar. Same restraint as the earlier altar reveal. No cuff opens; no piercing flesh, no blood. Her closed waist lock and tight torso chains remain intact. She is NOT seated, kneeling, bending freely beside the child or lowering either arm. Only her face and eyes look DOWN with concern. Child on upper SIDE STEP beneath her looks tired and pauses after many failed attempts, hands lowered, whale hat, round baby face and clothes unchanged. Foreground long candle drips remain, room EMPTY except these two, no flames on wood. A slight wider reframe INSIDE this one panel is allowed to show cuff/wood contact and child-side-step height. Do not alter the bottom-right returning cultists or other shots, no new text. Crucial: despite tenderness, NOTHING has been unlocked.",
+      "request": {
+        "prompt": "Edit ONLY the TOP RIGHT panel (second panel) of this 2x2 FOUR-panel storyboard sheet. Preserve exact canvas, rectangles, gutters, ALL OTHER THREE PANELS, identities, costumes, moon/candle color and locks. The second panel shows a foreground dripping candle, tired small blue whale-hat child and orange-haired Claude. Correct Claude's posture to make ongoing confinement unambiguous: she remains UPRIGHT, attached to tall wooden CROSS behind her, BOTH ARMS extended horizontally and BOTH WRISTS enclosed in CLOSED cuffs anchored visibly to wooden crossbar. Same restraint as the earlier altar reveal. No cuff opens; no piercing flesh, no blood. Her closed waist lock and tight torso chains remain intact. She is NOT seated, kneeling, bending freely beside the child or lowering either arm. Only her face and eyes look DOWN with concern. Child on upper SIDE STEP beneath her looks tired and pauses after many failed attempts, hands lowered, whale hat, round baby face and clothes unchanged. Foreground long candle drips remain, room EMPTY except these two, no flames on wood. A slight wider reframe INSIDE this one panel is allowed to show cuff/wood contact and child-side-step height. Do not alter the bottom-right returning cultists or other shots, no new text. Crucial: despite tenderness, NOTHING has been unlocked.",
+        "referenced_image_paths": [
+          "E:/projects/内容创作/穿云/镜头设计/图像/S03B-解锁未成-v002.png"
+        ],
+        "transparent_background": false
+      }
+    },
+    {
+      "id": "S05B-v003",
+      "path": "镜头设计/图像/S05B-粗分镜-v003.png",
+      "source": "镜头设计/图像/S05B-粗分镜-v002.png",
+      "prompt": "Make a very small precise continuity correction to image1, the 2x2 four-frame rescue storyboard. Edit ONLY the bottom-left frame. The orange-haired adult Claude's rust-orange flower ornament is currently on the LEFT side of the picture beside her head (her own right temple), which is mirrored. Move JUST that flower ornament, its black ribbons and the attached veil fastening to Claude's OWN LEFT TEMPLE, the RIGHT SIDE OF HER HEAD as seen in this near-front-facing frame. In this frame the flower should be on the side NEAR the white-haired dragon woman GPT, not the outer left edge. Reference image2 is Claude's original identity and confirms correct side. Remove the flower/ribbons from former wrong side, restore ordinary orange hair/ivory veil there. Do NOT mirror her face, body or entire frame. Do not change GPT, hands, faces, expression, pose, light or other three frames. No letters, captions or extra panels. Everything else in the existing sheet is unchanged.",
+      "request": {
+        "prompt": "Make a very small precise continuity correction to image1, the 2x2 four-frame rescue storyboard. Edit ONLY the bottom-left frame. The orange-haired adult Claude's rust-orange flower ornament is currently on the LEFT side of the picture beside her head (her own right temple), which is mirrored. Move JUST that flower ornament, its black ribbons and the attached veil fastening to Claude's OWN LEFT TEMPLE, the RIGHT SIDE OF HER HEAD as seen in this near-front-facing frame. In this frame the flower should be on the side NEAR the white-haired dragon woman GPT, not the outer left edge. Reference image2 is Claude's original identity and confirms correct side. Remove the flower/ribbons from former wrong side, restore ordinary orange hair/ivory veil there. Do NOT mirror her face, body or entire frame. Do not change GPT, hands, faces, expression, pose, light or other three frames. No letters, captions or extra panels. Everything else in the existing sheet is unchanged.",
+        "referenced_image_paths": [
+          "E:/projects/内容创作/穿云/镜头设计/图像/S05B-粗分镜-v002.png",
+          "E:/projects/内容创作/穿云/概念参考/01-Claude-母版概念参考.webp"
+        ],
+        "transparent_background": false
+      }
+    }
+  ]
+}

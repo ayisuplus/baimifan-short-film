@@ -1,0 +1,243 @@
+{
+  "id": "dafd5108-2095-4754-9764-e32a4a2a2af8",
+  "revision": 0,
+  "last_node_id": 5,
+  "last_link_id": 3,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "BreezeTTS2LoadModel",
+      "pos": [
+        30,
+        50
+      ],
+      "size": [
+        360,
+        250
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "breeze_model",
+          "type": "BREEZE_TTS2_MODEL",
+          "links": [
+            1
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "BreezeTTS2LoadModel"
+      },
+      "widgets_values": [
+        "bf16 (best quality)",
+        "bf16",
+        "cuda",
+        "sdpa",
+        "eager",
+        false
+      ],
+      "title": "Breeze TTS 2 · 已安装 BF16"
+    },
+    {
+      "id": 2,
+      "type": "BreezeTTS2VoiceDirection",
+      "pos": [
+        440,
+        50
+      ],
+      "size": [
+        540,
+        750
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "breeze_model",
+          "type": "BREEZE_TTS2_MODEL",
+          "link": 1
+        },
+        {
+          "name": "reference_audio",
+          "type": "AUDIO",
+          "link": 3
+        },
+        {
+          "name": "reference_text",
+          "type": "STRING",
+          "widget": {
+            "name": "reference_text"
+          },
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "links": [
+            2
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "BreezeTTS2VoiceDirection"
+      },
+      "widgets_values": [
+        "别担心，我会陪着你。我们一起把这个故事讲完。",
+        "你好，欢迎来到声音创作工作室。今天，让我们用自然清晰的中文，把文字变成有温度的声音。",
+        "语气温柔而坚定，放慢一点，像在认真安慰面前的朋友。",
+        4.0,
+        "none",
+        256,
+        0.9,
+        50,
+        1.0,
+        1.1,
+        0.9,
+        50,
+        1.0,
+        20261026,
+        "fixed"
+      ],
+      "color": "#2a363b",
+      "bgcolor": "#3f5159",
+      "title": "03-克隆与情绪指导"
+    },
+    {
+      "id": 3,
+      "type": "SaveAudio",
+      "pos": [
+        1030,
+        50
+      ],
+      "size": [
+        380,
+        150
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "link": 2
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "SaveAudio"
+      },
+      "widgets_values": [
+        "audio/BreezeTTS2/voice-direction"
+      ],
+      "title": "保存并试听 · 24kHz 无损 FLAC"
+    },
+    {
+      "id": 5,
+      "type": "MarkdownNote",
+      "pos": [
+        1030,
+        260
+      ],
+      "size": [
+        400,
+        430
+      ],
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "MarkdownNote"
+      },
+      "widgets_values": [
+        "# Breeze TTS 2\n\n① 上传清晰参考人声（建议约 5–20 秒）。\n② reference_text 必须逐字对应参考音频，含重复词。\n③ text 填本次要说的新台词。\n\n当前参考音频是本机新合成的演示声线，不是任何真人或影片正式角色。\n\ninstruction 控制语气、情绪、语速；stitch_reference=none 只输出新台词。\n\n官方语言：中文、英文；日语尚未验证。输出为 24kHz 单声道。\n\n默认最多约 20 秒。长台词可提高 max_new_tokens（每秒约 12.5），或分段。\n\n已装 BF16，不再自动下载；无需 Whisper。\n\n模型及本地输出限研究和非商业用途，商业使用需另外授权。"
+      ],
+      "color": "#222",
+      "bgcolor": "#000",
+      "title": "使用说明"
+    },
+    {
+      "id": 4,
+      "type": "LoadAudio",
+      "pos": [
+        30,
+        360
+      ],
+      "size": [
+        360,
+        180
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "AUDIO",
+          "type": "AUDIO",
+          "slot_index": 0,
+          "links": [
+            3
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadAudio"
+      },
+      "widgets_values": [
+        "breeze-tts2-reference.flac",
+        null,
+        null
+      ],
+      "color": "#432",
+      "bgcolor": "#653",
+      "title": "替换为清晰的参考人声"
+    }
+  ],
+  "links": [
+    [
+      1,
+      1,
+      0,
+      2,
+      0,
+      "BREEZE_TTS2_MODEL"
+    ],
+    [
+      2,
+      2,
+      0,
+      3,
+      0,
+      "AUDIO"
+    ],
+    [
+      3,
+      4,
+      0,
+      2,
+      1,
+      "AUDIO"
+    ]
+  ],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.8,
+      "offset": [
+        20,
+        30
+      ]
+    }
+  },
+  "version": 0.4
+}

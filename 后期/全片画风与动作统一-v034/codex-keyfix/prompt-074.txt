@@ -1,0 +1,21 @@
+任务：用 image_gen__imagegen 重绘一张电影关键帧，做参考图重绘（image-to-image）。
+
+必须使用 image_gen__imagegen 工具，传入 referenced_image_paths 指向源图路径。
+
+源图路径：
+G:\comfyui\ComfyUI\ComfyUI\output\Baimifan\v032\074-key-r1_00001_.png
+
+重绘提示词（完整照用，不要删减、不要改写）：
+
+Redraw this image as traditional hand-drawn Japanese gothic fantasy anime: clean dark ink contours, hard-edged two-tone cel shadows, matte skin and broad painted background shapes. Keep composition and story identities. No glossy 3D, PBR, photoreal reflections, text or captions. Keep the same night composition: the pale moon in the upper left, the gothic cathedral spires and lit windows filling the right side, the deep blue clouded night sky, and the small satellite droplets around the main one. 1: The large central water droplet rising toward the sky must be drawn as a GRAPHIC WATER CONSTRUCT in flat cel style: two flat blue values, a crisp white foam outline, a few sharp graphic highlight strokes, and a clear teardrop silhouette. It is NOT a glass ball, NOT transparent, NOT refractive, with NO lens distortion and NO photographic specular sheen. It reads as a drawn shape of water, not as glass. 2: Keep the whole scene at night; no daylight, no warm sunlight, keep the cold blue palette and the warm yellow window lights as small flat dots. 3: Keep the sky as broad painted cloud shapes with visible brush edges and hard-edged layering, matching a hand-drawn anime night sky.
+
+原始问题（供你理解为何这样改，图中现状是）：
+- 画面中央的大水滴是写实玻璃球质感，带折射、镜面高光和透明感，与全片手绘二维赛璐璐画风不符。
+- 需要与同段其他水镜头保持一致的手绘水形表达。
+
+输出要求：
+1. 生成的图片保存为 PNG 到：E:\projects\内容创作\故事短片\白米饭\后期\全片画风与动作统一-v034\codex-keyfix\074-style-codex.png
+2. 宽高比保持 16:9，与源图一致。
+3. 不要改动源图，不要改动其他任何文件，不要执行 git 操作。
+4. 生成后用 view_image 查看自己生成的图片，核对：大水滴是否已是平涂蓝值加白色泡沫轮廓的水形，而不是玻璃球；是否仍为夜晚。
+5. 最后回报：输出文件的绝对路径，以及你对自己生成结果是否满足上述三点的判断（如实说明，不满意就说不满意）。

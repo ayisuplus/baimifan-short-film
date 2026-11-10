@@ -1,0 +1,18 @@
+{
+  "schema": "envelope/1",
+  "type": "envelope",
+  "ok": true,
+  "command": "jobs cancel",
+  "version": "1.22.0",
+  "where": "local",
+  "data": {
+    "prompt_id": "95ade4a4-56bd-4de1-acc5-64f0be5a1fa5",
+    "where": "local",
+    "host": "127.0.0.1",
+    "port": 8188,
+    "found": true,
+    "queue_delete_ok": true,
+    "interrupt_ok": true
+  },
+  "error": null
+}

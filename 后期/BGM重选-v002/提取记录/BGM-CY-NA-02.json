@@ -1,0 +1,39 @@
+{
+  "id": "BGM-CY-NA-02",
+  "bvid": "BV1QT4y1M79V",
+  "part": 2,
+  "title": "Evacuating London",
+  "display_title": "离开伦敦",
+  "work": "纳尼亚传奇：狮子、女巫和魔衣柜",
+  "composer": "Harry Gregson-Williams",
+  "source_page_title": "2 - Evacuating London",
+  "cid": 267027315,
+  "source": "https://www.bilibili.com/video/BV1QT4y1M79V/?p=2",
+  "uploader": "xtrikil",
+  "video_title": "【电影音乐】纳尼亚传奇：狮子、女巫和魔衣柜-原声合集",
+  "path": "资产/声音/BGM/重选-v002/BGM-CY-NA-02.m4a",
+  "bytes": 1838656,
+  "sha256": "ba6f3e37f3c1c6370bdc04cdfa71198e95a2f23e2aa019aabe2f0473002c2748",
+  "duration": 218.894286,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "66865"
+      }
+    ],
+    "format": {
+      "duration": "218.894286"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

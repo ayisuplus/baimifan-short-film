@@ -1,0 +1,1558 @@
+{
+  "source_sha256": "781c6504828128a8aeb25b841041a0049e942f42ba8891e05ec95ae7e71ca070",
+  "batches": {
+    "GB001": {
+      "arc_zh": "捧饭前行→被队伍挡住→视线相接→一次递碗→等待回应。",
+      "arc_en": "A child stops before a procession, meets Claude's gaze, offers rice once, and waits.",
+      "entry_bridge_zh": "全片从阳光街市和捧饭脚步开始。",
+      "exit_bridge_zh": "饭碗悬停无人接住，下一批切进Claude向下的眼睛，饭碗与鲸帽成为眼底倒影。",
+      "shots": {
+        "CY001": {
+          "camera_zh": "眼高远景沿街侧向跟随；小鱼停步时随之减速，黑袍近景掠过形成视差。",
+          "camera_en": "Track laterally at child-eye level and ease to a stop with her.",
+          "transition_zh": "直接从捧饭前行开始；停步抬眼后接她看见的人。",
+          "transition_en": "Open on her walk; her raised eyeline motivates the next cut.",
+          "action_en": "DeepSeek walks with the bowl, stops before the crossing procession and looks up toward Claude.",
+          "effects_en": "Footsteps and market murmur, followed by continuing robe rustle."
+        },
+        "CY002": {
+          "camera_zh": "保持有意定镜；Claude转头，前景黑袍缓慢经过，眼神落定后留一拍。",
+          "camera_en": "Hold the camera still as foreground robes drift and Claude turns.",
+          "transition_zh": "承接小鱼右侧视线，切Claude中近景；脚步与衣料跨切点不断。",
+          "transition_en": "Cut along the child's eyeline to Claude; ambience remains continuous.",
+          "action_en": "Claude turns toward the stopped footsteps and looks down toward the child at screen left.",
+          "effects_en": "Market murmur recedes beneath close fabric movement."
+        },
+        "CY003": {
+          "camera_zh": "同轴过肩中景缓慢小幅前移，脸、碗和右缘Claude肩部同时保留。",
+          "camera_en": "Push in gently beside Claude's shoulder, keeping the child and bowl visible.",
+          "transition_zh": "眼神落定后反打小鱼；举碗一次，句尾碗已经到达两人之间。",
+          "transition_en": "Reverse along the eyeline; one lift and offer reaches the space between them.",
+          "action_en": "小鱼看看 Claude，再看看碗，举碗问出邀请；句尾切到悬停的饭碗。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "小鱼看看 Claude，再看看碗，举碗问出邀请；句尾切到悬停的饭碗。",
+          "effects_zh_override": "一句邀请完整说完； 小鱼在镜内0.8–2.42秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        },
+        "CY003A": {
+          "camera_zh": "同碗沿高度与手位切近景；延续前移后柔和收停，两秒等待。",
+          "camera_en": "Match the rim and grip in close-up; ease the preceding push to a stop.",
+          "transition_zh": "继承已经递出的饭碗，不从胸前重新举起；无人接碗。",
+          "transition_en": "Match the already offered bowl; do not repeat the lift.",
+          "action_en": "The child holds the full bowl between them; steam rises and no receiving hand enters.",
+          "effects_en": "Distant market murmur and quiet breathing; no repeated line."
+        }
+      }
+    },
+    "GB002": {
+      "arc_zh": "悬碗后的谢意被粗暴打断；小鱼追到教堂得知火祭，留下空碗去求援。",
+      "arc_en": "A quiet acknowledgement is interrupted by violence. DeepSeek follows to the church, learns of the sacrifice, and leaves her empty bowl to seek help.",
+      "entry_bridge_zh": "接上一批悬停饭碗，以Claude向下的目光接回两人的联系。",
+      "exit_bridge_zh": "空碗留在街边，小鱼空手离去；下一批省略路程，转暮色宫门。",
+      "shots": {
+        "CY003B": {
+          "camera_zh": "单眼极近景有意锁定构图，让向下的眼神与鲸帽饭碗倒影承担变化，不推入瞳孔。",
+          "camera_en": "Hold a deliberate extreme close-up of one eye; the downward gaze and tiny reflection carry the action, without zooming into the pupil.",
+          "transition_zh": "从悬碗切到凝视饭碗的眼睛，市声保持同一空间并退远。",
+          "transition_en": "Cut from the suspended bowl to the eye watching it; the same market ambience becomes muffled.",
+          "action_en": "低垂的眼睛望着小鱼；小小的鲸帽与饭碗映在眼底，停留四秒。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "低垂的眼睛望着小鱼；小小的鲸帽与饭碗映在眼底，停留四秒。",
+          "effects_zh_override": "市声变得朦胧；Claude轻声说“谢谢你。”，仍忧伤、不急着微笑。尾部接黑袍衣料及下一镜掀饭声。 Claude在镜内1.5–3.78秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        },
+        "CY003C": {
+          "camera_zh": "贴近碗沿，沿一次拍击小幅随动后停住；后方Claude虚焦回望，背景摊位退暗。",
+          "camera_en": "Bowl-height close shot of one palm striking the outside rim, rice spilling downward and the child retaining the same bowl; Claude remains worried in soft depth.",
+          "transition_zh": "黑袍衣料先接入，再在手接触碗沿时响一次金属声；倒影中的碗接实体同一碗。",
+          "transition_en": "Carry in the robe rustle, then sound the metal strike on contact; the reflected bowl becomes the same physical bowl.",
+          "action_en": "Bowl-height close shot of one palm striking the outside rim, rice spilling downward and the child retaining the same bowl; Claude remains worried in soft depth.",
+          "effects_en": "One palm strike on metal, scattered rice and a short startled intake of breath.",
+          "action_zh_override": "教徒猛地拍翻碗沿，米饭飞散；宝宝握住另一边，缩肩惊愕，Claude在后方担忧回望。"
+        },
+        "CY004": {
+          "camera_zh": "背后远景沿宝宝走向短距离前随，到门前停住；保留教堂门纵深，不绕去拍教徒。",
+          "camera_en": "Follow a short distance behind DeepSeek in a wide shot, then stop before the church door, preserving its depth.",
+          "transition_zh": "从撒饭明确省略追随队伍的路程，直接接宝宝已到教堂门前；教徒消息来自门内画外。",
+          "transition_en": "Elliptically cut past the journey following the procession to the child already at the church entrance; the announcement comes from inside, offscreen.",
+          "action_en": "宝宝低抱空碗跟到门前，听见教徒交代献祭消息。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "宝宝低抱空碗跟到门前，听见教徒交代献祭消息。",
+          "effects_zh_override": "近处教徒的一句交代越过台阶传到小鱼耳中；句尾合门声压住街市，下一场以急促脚步接入。 教徒在镜内0.4–2.95秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        },
+        "CY004A": {
+          "camera_zh": "侧面中景短摇跟随空碗落到矮桌，再随宝宝视线抬向宫殿方向，停住让她跑出构图。",
+          "camera_en": "In a side medium shot, briefly pan with the bowl onto the low table, then tilt with the child's gaze toward the palace and let her run out of frame.",
+          "transition_zh": "门口转身接街边短程省略，空碗同一握法入镜；放稳才松手奔跑。",
+          "transition_en": "Cut forward a short distance to the roadside, matching the empty bowl and grip; she releases it only after it rests on the table.",
+          "action_en": "DeepSeek sets the nearly empty bowl, with a few grains remaining, on a low roadside table. She looks anxiously toward the palace and runs to seek help with both hands empty. The bowl remains on the table.",
+          "effects_en": "A light bowl contact on the table, followed by departing running footsteps."
+        }
+      }
+    },
+    "GB003": {
+      "arc_zh": "空手奔来的小鱼被宫门长枪拦住，GPT画外放行后，小身影进入巨大空殿。",
+      "arc_en": "The empty-handed child is halted at the palace gate, admitted by GPT's offscreen command, and dwarfed by the empty throne hall.",
+      "entry_bridge_zh": "接上一批奔跑，省略街道与大部分登阶路程；暮色交代时间已经推进。",
+      "exit_bridge_zh": "小鱼停在卧榻头肩一端台阶下，下一批接轻抬眼的求助；GPT保持侧躺。",
+      "shots": {
+        "CY004B": {
+          "action_zh_override": "日落后蓝紫暮色里，小鱼空手跑上宫殿外长阶的一小段；多段台阶伸向高门，两旁紫旗与局部暖灯保持。随后切到已抵宫门，省略剩余登阶路程。",
+          "camera_zh": "低位偏左远景，石阶与栏杆斜向向右上收束；只轻跟小鱼跑上一小段，切宫门省略剩余路程。",
+          "camera_en": "Oblique long view of deep palace stairs at blue-violet dusk after sunset. Show only a short section of the empty-handed child running for two seconds; cut elliptically to arrival at the gate.",
+          "transition_zh": "接前批跑出街边，明确略去路程；切入暮色长阶上段的最后几步。",
+          "transition_en": "Continue the previous running movement after an explicit travel ellipsis, entering on the final upper steps at dusk.",
+          "action_en": "Oblique long view of deep palace stairs at blue-violet dusk after sunset. Show only a short section of the empty-handed child running for two seconds; cut elliptically to arrival at the gate.",
+          "effects_en": "Running footsteps on stone against subdued dusk ambience."
+        },
+        "CY004C": {
+          "camera_zh": "沿用原宫门机位与交叉枪构图，仅统一日落后的冷蓝紫天光；宫门内与灯具保留局部暖色。",
+          "camera_en": "Preserve crossed spears and closed gate composition. Match cool blue-violet dusk with no visible sun; only lamps and door interior remain locally warm. Cut elliptically from the stair run.",
+          "transition_zh": "省略剩余登阶路程，切到小鱼已跑至宫门前急停；暮色与上镜一致。",
+          "transition_en": "Preserve crossed spears and closed gate composition. Match cool blue-violet dusk with no visible sun; only lamps and door interior remain locally warm. Cut elliptically from the stair run.",
+          "action_en": "Preserve crossed spears and closed gate composition. Match cool blue-violet dusk with no visible sun; only lamps and door interior remain locally warm. Cut elliptically from the stair run.",
+          "effects_en": "Footsteps brake, armor plates settle and spear shafts move into the barrier.",
+          "action_zh_override": "两名封闭头盔圣骑士交叉长枪，小鱼急停，空手抬头望向守卫。"
+        },
+        "CY004D": {
+          "camera_zh": "沿用原开门放行构图及运镜，门外冷蓝紫暮色，门内仍为暖烛光。",
+          "camera_en": "Preserve the original open-door passage and upright spears. Maintain cool twilight outside and warm candlelit palace interior, without visible sun or direct sunset.",
+          "transition_zh": "交叉枪位完整承前，GPT声音先从殿内传出，再收枪让路。",
+          "transition_en": "Match the crossed spears; GPT's voice comes from the hall before the guards lift them and make way.",
+          "action_en": "GPT仍侧躺在殿内卧榻上，画外平静发声放行，骑士收枪竖直、让开通道；小鱼空手跨过门槛。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "GPT仍侧躺在殿内卧榻上，画外平静发声放行，骑士收枪竖直、让开通道；小鱼空手跨过门槛。",
+          "effects_zh_override": "GPT画外‘让她进来’； GPT在镜内0–1.35秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        },
+        "CY005": {
+          "action_zh_override": "跨门后的大段跑程在切点省略，小鱼入镜时已接近高台，只完成最后几步，在卧榻头肩一端的台阶下停住并抬头。GPT头在画面左、脚在右，自身右手托腮、左手搭座垫前缘，懒懒侧躺；双翼舒展有支撑，单尾沿腿边自然延伸。 环境：左侧卧榻头端小几放几何手稿、圆规、透明多面体压纸、茶杯与扭转带小灯，右侧脚端陈列环仪；两侧十二面体柔光灯、高处椭圆环吊灯，中央台阶与通道留空。",
+          "camera_zh": "入口中轴大全景缓推少许，保留前景小鱼与殿尾横向卧榻；跑程已跨切省略，不追成近景。",
+          "camera_en": "From the entrance axis, advance a short distance in a very wide shot, using floor and column parallax to reveal the empty hall; do not chase into a close-up.",
+          "transition_zh": "在跨门槛后明确省略大段空殿跑程，切入大厅时宝宝已经接近王座，只完成最后几步和停下，不在本镜内再加切镜。",
+          "transition_en": "After the threshold crossing, elliptically omit most of the hall transit. Enter this shot with the child already approaching the throne, showing only her last steps and stop without another internal cut.",
+          "action_en": "After a travel ellipsis, DeepSeek completes only the last few steps to the head end of the raised daybed and looks up. GPT reclines head screen left, feet right, own right hand supporting cheek, own left hand loose on the front cushion. The wide symmetrical daybed stands crosswise at the short end wall, facing the entrance, never along a long side wall. Keep the child small in the enormous hall. Environment: a study table at the head end on screen left carries geometry sketches, compass, transparent polyhedron paperweight, tea cup and twisted-ribbon desk lamp; the foot-end ring instrument is on screen right. Gold dodecahedron opal lamps flank the clear aisle, with a few inclined ellipse-ring chandeliers high above. No candles or glowing frames.",
+          "effects_en": "Quick steps and the child's breathing acquire the spacious echo of the empty hall."
+        }
+      }
+    },
+    "GB004": {
+      "arc_zh": "小鱼的求救遭到平静拒绝；追问后，等待变成垂下的目光。",
+      "arc_en": "DeepSeek's urgent plea meets a controlled refusal; her final question ends in a lowered gaze.",
+      "entry_bridge_zh": "小鱼已经停在卧榻头肩一端台阶下；眼线轻抬，GPT略垂眼，同侧反打不越轴。",
+      "exit_bridge_zh": "小鱼目光已经落下，下一批从这个低头状态转身，不再重复求救。",
+      "shots": {
+        "CY006": {
+          "camera_zh": "卧榻头端轻俯单人近景缓推少许，问句结束前停住；只见小鱼与虚化软垫边，不保留旧坐姿肩影。",
+          "camera_en": "Near the head end of the daybed, gently look down toward a single close-up of the child; ease a small push to a stop before her question ends. Only a blurred horizontal cushion edge may enter foreground, no upright adult shoulder.",
+          "transition_zh": "接前批到位后的喘息，不再拍跑近；看向画外王座的方向固定。",
+          "transition_en": "Continue the breath after her arrival, without repeating the approach; preserve her eyeline to the offscreen throne.",
+          "action_en": "小鱼请求救Claude，双手收在胸前；问完仍看向画外侧躺的GPT，等一个答案。画内只有小鱼和右下方虚化的水平软垫边，不出现旧坐姿的竖直肩膀。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "小鱼请求救Claude，双手收在胸前；问完仍看向画外侧躺的GPT，等一个答案。画内只有小鱼和右下方虚化的水平软垫边，不出现旧坐姿的竖直肩膀。",
+          "effects_zh_override": "小鱼喘息渐稳，殿内安静； 小鱼在镜内0.6–4.4秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        },
+        "CY007": {
+          "camera_zh": "同侧GPT侧躺中近景，起始随目光缓靠近一点后收停；右手托腮和左手垫边同框，保留拒绝后的静默。",
+          "camera_en": "A same-side medium close-up of reclining GPT eases slightly closer with her gaze, then holds; include her own right hand under her cheek and left hand on cushion edge.",
+          "transition_zh": "以小鱼未获回答的目光接GPT反打，同侧轴线、同一殿内混响。",
+          "transition_en": "Cut on the waiting eyeline to GPT's reverse angle, staying on the same side of the axis with matching hall acoustics.",
+          "action_en": "GPT慵懒的身体不动，目光略向下落到小鱼身上，眼神短暂迟疑后收住，以平静语气说出拒绝。右手继续托腮，左手自然搭垫边，不先抓握、不起身，也不嘲笑。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "GPT慵懒的身体不动，目光略向下落到小鱼身上，眼神短暂迟疑后收住，以平静语气说出拒绝。右手继续托腮，左手自然搭垫边，不先抓握、不起身，也不嘲笑。",
+          "effects_zh_override": "衣料极轻；回应后不铺煽情音效。”； GPT在镜内0.3–3.73秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        },
+        "CY008": {
+          "camera_zh": "近景定镜保住眼睛到低头的完整变化，不用推镜替她作情绪结论。",
+          "camera_en": "Hold the close-up through the full change from eye contact to lowered gaze, without an added push-in.",
+          "transition_zh": "在拒绝说完后切回同一侧小鱼；静默连续，垂眼只在追问后发生。",
+          "transition_en": "Return to the child's same-side angle after the refusal finishes; carry the silence through, with her gaze dropping only after the question.",
+          "action_en": "小鱼轻声追问，蓝眼仍看向画外右上方；等待没有回应后才垂下视线。画内不出现GPT的竖直肩影，软垫前缘与上一反打保持同侧。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "小鱼轻声追问，蓝眼仍看向画外右上方；等待没有回应后才垂下视线。画内不出现GPT的竖直肩影，软垫前缘与上一反打保持同侧。",
+          "effects_zh_override": "句尾留下空殿静默。 小鱼在镜内0.5–3.22秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        }
+      }
+    },
+    "GB004M": {
+      "arc_zh": "让观众看到GPT在协议约束与怜悯之间犹豫；争执不判胜负，现实中的小鱼打断内心戏。",
+      "arc_en": "A frozen adult GPT is torn between her devil and angel avatars; neither wins.",
+      "entry_bridge_zh": "本体侧躺于卧榻；分身尚未出现。",
+      "exit_bridge_zh": "分身等待，争执不判胜负；下一批小鱼完整原声画外起句打断，随即切回现实。",
+      "shots": {
+        "CY008M": {
+          "camera_zh": "王座反应近景，固定机位",
+          "camera_en": "Locked camera; one frozen blurred adult/background plate.",
+          "transition_zh": "接小鱼担忧的反应，切回王座上的GPT；以现有反应图定格并逐渐虚化，前景两只分身显现后恶魔开始说话。图片4是分身已出现的表演状态，不作为凭空长出分身之前的起帧。",
+          "transition_en": "Cut to the adult reaction, freeze and defocus the plate, then reveal the two avatars.",
+          "action_en": "0–0.25秒王座本体与背景定格虚化，两只分身显现。0.25–4.41秒恶魔抱臂提醒，天使闭口听；4.41–4.61秒交接停顿；4.61–14.62秒天使先心疼看向小鱼画外位置，再焦急反驳，恶魔闭口听。余下至14.92秒两只分身闭口等待，本体不回答、不点头。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "0–0.25秒王座本体与背景定格虚化，两只分身显现。0.25–4.41秒恶魔抱臂提醒，天使闭口听；4.41–4.61秒交接停顿；4.61–14.62秒天使先心疼看向小鱼画外位置，再焦急反驳，恶魔闭口听。余下至14.92秒两只分身闭口等待，本体不回答、不点头。",
+          "effects_zh_override": "内心段配乐与现实空间声收低；仅当前分身开口，另一只和本体闭口；不添加叹词或胜负结论。 恶魔GPT在镜内0.25–4.41秒说完同一句日语；天使GPT在镜内4.61–14.62秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        }
+      }
+    },
+    "GB005": {
+      "arc_zh": "小鱼独自离去，GPT仍侧躺；钟声里放下托腮的右手，轻搓双手两下后停住，才分手撑起身体，目送远处背影。",
+      "arc_en": "The child leaves while GPT reclines. At the bell she lowers her right hand from her cheek, gently rubs her hands together and pauses, then separates them to rise once and watch the departure.",
+      "entry_bridge_zh": "接小鱼垂眼的状态开始转身，拒绝对白不重播。",
+      "exit_bridge_zh": "小鱼越过对端宫门，GPT站在横向卧榻与长殿之间；钟尾接教堂夜风。",
+      "shots": {
+        "CY009": {
+          "camera_zh": "面向卧榻的中远景，随小鱼离开短距离后退，保留孩子前景和GPT躺姿背景；不反向拍成入殿。",
+          "camera_en": "Face the daybed in a medium-wide shot and track backward briefly as the child approaches the camera; retain reclining GPT in the distant background.",
+          "transition_zh": "小鱼原句从画外起声，随即切回现实小鱼近景并转身离开；不重复起句。",
+          "transition_en": "The child begins offscreen, interrupting the inner world; immediately cut to her and follow her departure. The line occurs once.",
+          "action_en": "小鱼完整原句从画外起声打断内心争执；在起句的切点回到现实小鱼近景，然后转身离开。原句只播放一次，不由GPT或分身代说。小鱼说出决定后转身，向入口方向走去，低头擦去泪水；镜头沿她离开的方向短距离后退，保持前景孩子与远处卧榻同框。GPT仍头左脚右地侧躺，右手托腮、左手搭垫边，只有目光跟随；她还不起身。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "小鱼完整原句从画外起声打断内心争执；在起句的切点回到现实小鱼近景，然后转身离开。原句只播放一次，不由GPT或分身代说。小鱼说出决定后转身，向入口方向走去，低头擦去泪水；镜头沿她离开的方向短距离后退，保持前景孩子与远处卧榻同框。GPT仍头左脚右地侧躺，右手托腮、左手搭垫边，只有目光跟随；她还不起身。",
+          "effects_zh_override": "脚步由近到远，尾音收住。 小鱼在镜内0–2.38秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        },
+        "CY010": {
+          "camera_zh": "保持双手和软垫的近距离特写；右手入画后，双手轻搓并停住，机位稳定，保留自然微动。",
+          "camera_en": "Hold a close detail of both hands and the cushion. Her right hand enters, the palms rub gently and pause. Keep the camera steady with natural micro-movement.",
+          "transition_zh": "钟声先于切手部进入；宝宝远去脚步留在画外，不作切黑以打断下一镜目送。",
+          "transition_en": "Let the bell lead into the hand detail; the child's receding steps remain offscreen, maintaining continuity into the watching shot.",
+          "action_en": "Times are relative to this shot: at 0-0.7 seconds GPT lowers her right hand from her cheek to loosely meet her left hand above the cushion; her head and shoulder remain supported by the pillow. At 0.7-2.5 seconds she gently rubs her palms and fingertips together in two small slow passes, relaxed fingers slightly bent. At 2.5-3 seconds she stops with hands loosely together. She remains reclining, without gripping fabric, clenching fists or forceful hand-wringing. Do not sit up yet.",
+          "effects_en": "One distant bell with a lingering decay and the child's faint receding steps.",
+          "action_zh_override": "镜内0–0.7秒，GPT将右手从脸侧放下，靠垫继续承托头肩，双手在软垫上方松松相合；0.7–2.5秒，手掌与指腹轻轻来回摩挲两下，手指自然微弯，动作小而慢；2.5–3秒停住，双手仍松合。她保持侧躺，不抓软垫、不攥拳、不用力绞手，起身留到下一镜。"
+        },
+        "CY009A": {
+          "camera_zh": "摄影机贴近GPT肩后，左边缘只截半个后脑和一个肩膀，焦点保持远处小鱼；随同一次起身平稳升高少许后收停，不拉远、不绕到正脸，王座在机后画外。",
+          "camera_en": "Use a tight over-the-shoulder framing: crop half the back of GPT head and one shoulder at the left edge, softly foregrounded, and keep the distant child in focus. Rise gently with her head and shoulder, then settle. Never widen, orbit to her face or reveal the throne behind camera.",
+          "transition_zh": "承搓手停住、双手分开切近过肩，头肩接同一次起身；镜内0–2秒抬起上身，2–4秒随站起升高并收停，4–6秒站定目送。图片只作目送终态参考。",
+          "transition_en": "Cut from the pause after gentle hand rubbing to the tight shoulder view. Her hands separate and she begins one rise; cheek support has already been released. The image is the standing END state, not the opening frame.",
+          "action_en": "Within this shot, all following times are relative to its start: at 0-2 seconds, GPT separates her relaxed hands, places her left palm on the cushion and pushes her upper body up; only the cropped half back of her head and one shoulder lift in the near left foreground. At 2-4 seconds she completes the same rise as the camera gently rises with her shoulder and settles. Her legs plant, wings fold and single tail clears the chair frame OFFSCREEN; do not reveal these actions or widen the shot. At 4-6 seconds she stands still watching the distant child continue away, back to camera, through the far door. Keep the child clear and the foreground softly out of focus. The throne remains behind camera, outside the image. No full face, full body or repeated rise. Only the corridor lamps and distant high ellipse-ring chandelier are visible. Use gold dodecahedron cages with soft opal cores; the throne and study table stay behind camera, never move them to the far door.",
+          "effects_en": "Distant footsteps and the bell decay diminish; church night wind begins at the following change of place and time.",
+          "action_zh_override": "承双手轻搓后的停顿，镜内0–2秒GPT分开双手、左掌撑垫抬起上身，近景只见左边缘半个后脑与肩膀轻轻抬起；2–4秒接同一次起身，摄影机随头肩平稳升高少许并收停，收腿落脚、收翼和尾巴避开椅框在画外连续完成；4–6秒头肩站定，只留呼吸与少量发丝微动，目送远处小鱼背对镜头走向并越过宫门。全程不拉远露全身，不换到脸部，不重复起身。 只见沿长廊两侧的十二面体柔光灯与远处高悬椭圆环灯；王座和手稿小几在机后画外，不搬到远门口。"
+        }
+      }
+    },
+    "GB006": {
+      "arc_zh": "夜里等取柴人离开，小鱼从同一侧墙洞受阻、脱困，再看见高处的Claude。",
+      "arc_en": "At night DeepSeek waits for the wood carriers to leave, squeezes through the same side-wall opening, and discovers Claude above the long stairs.",
+      "entry_bridge_zh": "从宫殿目送明确跳到夜晚教堂侧墙，省略回程与等候前段；空碗不再出现。",
+      "exit_bridge_zh": "小鱼在下层向高处Claude仰望并开始登阶，下一批接Claude察觉轻响的反应。",
+      "shots": {
+        "CY010A": {
+          "camera_zh": "藏身处中远景先保洞口与门口关系，轻摇跟最后提灯去向，再回收少量构图给宝宝挪身。",
+          "camera_en": "From the hiding place, retain both the wall opening and doorway, briefly pan with the last lantern, then reframe slightly for the child's move.",
+          "transition_zh": "以钟尾转夜风明确日转夜与地点变化；画外召令先建立教徒离堂理由。",
+          "transition_en": "Mark the time and location jump with night wind replacing the bell; the offscreen order motivates the cultists' departure.",
+          "action_en": "小鱼在侧墙洞口等待；听见“一人一根”的取柴召令，见最后提灯转入柴库才动身。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "小鱼在侧墙洞口等待；听见“一人一根”的取柴召令，见最后提灯转入柴库才动身。",
+          "effects_zh_override": " 教徒在镜内0–2.87秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        },
+        "CY011": {
+          "camera_zh": "洞内贴地近景固定在凸石与帽鳍交点，微调俯角容纳按帽双手，不跟头钻出洞。",
+          "camera_en": "Hold a floor-level close-up inside the opening on the contact between the stone lip and hat fin; make only a small tilt to include both pressing hands.",
+          "transition_zh": "从洞外挪身切洞内迎她探入，石沿与前镜为同一洞口，不改变入洞方向。",
+          "transition_en": "Cut inside the same opening to meet her entering head, preserving her direction of entry.",
+          "action_en": "DeepSeek peeks through the low side-wall opening. A soft side fin of her whale hat catches on the protruding stone. She frowns and holds her breath while both small hands press the hat downward, trying to free it. At the end the fin is still caught, with her hands maintaining pressure.",
+          "effects_en": "Stone dust and cloth scrape against the opening; only candle crackle is heard inside, without chanting."
+        },
+        "CY011A": {
+          "camera_zh": "低位侧近景随头肩短短后退让出入洞空间，身体拖入即停，不把洞口移位。",
+          "camera_en": "In a low side close-up, retreat a short distance as her head and shoulders enter, then stop when her body follows; keep the opening fixed.",
+          "transition_zh": "切在持续按帽动作上，侧鳍现在才脱开；不重演探头或再次卡住。",
+          "transition_en": "Cut on the sustained pressure; the fin comes free now, without another attempt to enter or get stuck.",
+          "action_en": "The fin slips free under the same downward pressure, while the low ceiling still flattens the soft hat. DeepSeek squeezes her head and shoulders through that left-side wall opening, plants both hands on the church floor and drags her body inside. She has not yet stood or looked up.",
+          "effects_en": "Continuous cloth and stone scraping, then a subdued landing sound as she comes through; the church remains free of chanting."
+        },
+        "CY012": {
+          "camera_zh": "左前景宝宝起身时缓慢向上摇开成空堂远景，揭示高阶与刑架，再停住让她沿阴影移动。",
+          "camera_en": "Tilt up slowly from the crouched child in the left foreground into a wide reveal of the empty nave, long stairway and cross, then hold as she moves.",
+          "transition_zh": "同一次落地接蹲姿，抬头动作引导空间揭示；以视线切到Claude。",
+          "transition_en": "Continue from the same landing into her crouch; her upward gaze motivates the reveal and the next cut to Claude.",
+          "action_en": "DeepSeek is crouched inside the left-side wall opening on the lower floor. She looks up and sees Claude restrained on the highest altar at the top of the long stairway. She approaches the central stairs along the left-hand shadows and begins ascending at the end. The rear benches stay on the floor and the wall candles and high chandelier remain lit.",
+          "effects_en": "A subdued landing thud, the nave's echo and candle crackle; no voices."
+        }
+      }
+    },
+    "GB007": {
+      "arc_zh": "Claude担忧示意止步；脚托与锁链交代处境，小鱼仍登上平台试锁。",
+      "arc_en": "Claude warns with a look; the footrest and chains establish the restraints, yet DeepSeek reaches the platform and tries the lock.",
+      "entry_bridge_zh": "接下层小鱼向上的视线，切高处Claude向下察觉，保持祭坛上下关系。",
+      "exit_bridge_zh": "腰锁与横链均未打开，链响收尾后下一批以蜡滴交代耗时。",
+      "shots": {
+        "CY013": {
+          "camera_zh": "面肩近景随Claude低头轻俯，随即停住容纳一怔与摇头，不绕过刑架。",
+          "camera_en": "Tilt slightly with Claude lowering her face, then hold the face-and-shoulder close-up for surprise and a restrained head shake.",
+          "transition_zh": "承前宝宝抬头方向作视线反打，轻响和烛火仍来自同一空堂。",
+          "transition_en": "Use an eyeline reverse of the child's upward look; the faint movement sound and candles retain the same empty church.",
+          "action_en": "Claude hears the small sound from the side wall and looks down toward DeepSeek offscreen below. Surprise turns to concern, and she gently shakes her head to discourage the child from approaching. Her body remains restrained against the cross.",
+          "effects_en": "Candle crackle and faint breathing from the two characters; the hall stays quiet."
+        },
+        "CY013A": {
+          "camera_zh": "赤足细节近景沿脚踝至固定脚托短短下摇，收在脚托与两侧低柴的净距，避免误读为悬吊。",
+          "camera_en": "Make a short downward tilt from the ankles to the fixed footrest, ending on its clearance above the low wood piles.",
+          "transition_zh": "从Claude向下的担忧落到束缚细节；同一静默连贯，不另加受刑动作。",
+          "transition_en": "Move from Claude's concerned downward look to the restraint detail, carrying the quiet without adding a new action against her.",
+          "action_en": "Only Claude's bare feet, ankle chains and a cropped portion of her skirt are visible. Both feet stand on the small wooden footrest fixed to the cross's upright post. Each ankle is chained toward the post. Low piles of wood lie below on either side, without burying her toes or skirt.",
+          "effects_en": "Soft candle crackle, faint breathing and a slight chain sound."
+        },
+        "CY015": {
+          "camera_zh": "同侧近机位沿孩子仰视联系Claude，双方说话嘴可见；手够向腰锁，背景退暗，避免退成全身合照。",
+          "camera_en": "Same-side close two-shot links child side profile and Claude looking down, both speaking mouths visible, hands reaching closed waist lock. Preserve standing/bound states outside crop.",
+          "transition_zh": "明确略去登阶路程，切到宝宝已在平台木架左侧；Claude的问句由面对她的关系发出。",
+          "transition_en": "Omit the stair climb across the cut and enter with the child already on the left of the cross; the question comes from their established facing positions.",
+          "action_en": "小鱼抬头向Claude保证，踮脚伸手够腰锁。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "小鱼抬头向Claude保证，踮脚伸手够腰锁。",
+          "effects_zh_override": "轻脚步、衣料和空堂回声；没有吟唱。DeepSeek：我带你出去。 Claude在镜内0.1–1.72秒说完同一句日语；小鱼在镜内2.02–4.9秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        },
+        "CY016": {
+          "camera_zh": "贴近腰锁与双手，窄景深沿绷紧链条短移；先看掰锁失败，再看手转抓链，局部侧脸保留受力表情。",
+          "camera_en": "Tight close-up on closed waist padlock, small hands, taut chain and strained child profile. First pry unsuccessfully, then pull chain; no key, broken link or release.",
+          "transition_zh": "按上一镜双手刚够住锁扣起演；失败后才换抓横链，不从地面重够。",
+          "transition_en": "Begin with both hands already on the clasp; only after it resists does she change her grip to the chain.",
+          "action_en": "Tight close-up on closed waist padlock, small hands, taut chain and strained child profile. First pry unsuccessfully, then pull chain; no key, broken link or release.",
+          "effects_en": "One clear metallic chain strike and its echo, then quiet; no returning footsteps or cultist voices yet.",
+          "action_zh_override": "DeepSeek 踮起脚试着掰锁，扣锁纹丝不动。她改为握紧腰前横链往外拉，锁链撞上木架，发出清脆的响声。"
+        }
+      }
+    },
+    "GB008": {
+      "arc_zh": "蜡滴省略反复尝试的时间，小鱼拒绝离开；门外声音先到，最后揭示取柴队列返回。",
+      "arc_en": "A wax insert marks elapsed effort; DeepSeek refuses to leave, then approaching sounds lead to the returning wood carriers.",
+      "entry_bridge_zh": "接上一批链响的余韵，用蜡滴切开短时间省略，保留同一空堂。",
+      "exit_bridge_zh": "返回队列已经看见小鱼，下一批省略她下长阶的过程，从阶下拦住木头开始。",
+      "shots": {
+        "CY016A1": {
+          "camera_zh": "单烛蜡痕微距缓慢沿蜡滴下滑方向小幅下摇，停在将落未落的蜡滴，不扩大到烛阵。",
+          "camera_en": "In a macro view of one candle, make a small downward tilt following a bead of wax, stopping before it falls.",
+          "transition_zh": "链响余韵跨入蜡滴后消退，插镜表示多次尝试已经耗去时间，不新增一次可见拉锁。",
+          "transition_en": "Carry the chain's decay into the wax insert, then let it die away; the insert marks elapsed attempts rather than another visible pull.",
+          "action_en": "A single candle stands on the left stone pedestal of the lower stair section when facing the altar. Wax moves down an old track. No characters or rows of candles enter the macro frame; DeepSeek and Claude remain offscreen in the same church.",
+          "effects_en": "The preceding chain echo fades, leaving only a slight wick crackle."
+        },
+        "CY016A": {
+          "camera_zh": "小鱼上半身近景随垂手轻微下移后停住，让喘息与抬眼回答在同一画面发生。",
+          "camera_en": "Follow the child's lowered hands with a slight downward reframe, then hold the upper-body close-up for her breathing and reply.",
+          "transition_zh": "从蜡滴返回已疲惫的小鱼，帽子歪斜沿用，不重演前面拉锁；Claude劝离在画外。",
+          "transition_en": "Return from the wax insert to the child already exhausted, with the same crooked hat; Claude's warning remains offscreen.",
+          "action_en": "宝宝在顶部平台暂时垂下双手、低头喘气；用她疲惫的近景表现多次尝试后的消耗，Claude在画外。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "保留呼吸、锁扣摩擦和烛火；双方不重叠，尚无人返回。 Claude在镜内0–4.22秒说完同一句日语；小鱼在镜内4.52–7.88秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。 双方不重叠，尚无人返回。",
+          "action_zh_override": "宝宝在顶部平台暂时垂下双手、低头喘气；用她疲惫的近景表现多次尝试后的消耗，Claude在画外。"
+        },
+        "CY016B": {
+          "camera_zh": "锁扣与小手特写刻意稳定；由指尖细动到突然停住表现听见危险，不切出门口人物。",
+          "camera_en": "Keep a deliberate steady detail of the clasp and small hands; let the fingers' abrupt stillness register the sound.",
+          "transition_zh": "手重新搭扣接前镜坚持；画外脚步先响，手随后停住，声音方向由门口传来。",
+          "transition_en": "Match her renewed intention to hands on the clasp; offscreen footsteps arrive first and the hands freeze in response.",
+          "action_en": "DeepSeek's small hands rest on the still-closed waist clasp, ready to try again. Footsteps and indistinct murmurs approach outside the church door. Her fingers suddenly stop. Only her hands and the intact clasp are visible; the arriving cultists are not shown yet.",
+          "effects_en": "Outside footsteps and indistinct murmuring enter early; the tiny chain movement stops. No additional intelligible words."
+        },
+        "CY016B1": {
+          "camera_zh": "双眼极近景固定，眼珠只向正门偏移一次并停住；嘴部保持画外。",
+          "camera_en": "Hold an extreme close-up of Claude's eyes as they shift once toward the main door and stay there; her mouth remains outside the frame.",
+          "transition_zh": "停住的小手切眼睛反应，沿趋近脚步引出视线；快走声不交给宝宝代说。",
+          "transition_en": "Cut from frozen hands to Claude's reacting eyes; the approaching sound directs her gaze and her own warning stays off-frame at the mouth.",
+          "action_en": "Claude只将视线偏向正门并停住；顺着她的视线切返回的提灯。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "Claude只将视线偏向正门并停住；顺着她的视线切返回的提灯。",
+          "effects_zh_override": "脚步声更近，接门轴声；保持前一镜的同一空间混响。 Claude在镜内0.2–1.17秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        }
+      }
+    },
+    "GB008R2": {
+      "arc_zh": "蜡滴省略反复尝试的时间，小鱼拒绝离开；门外声音先到，最后揭示取柴队列返回。",
+      "arc_en": "A wax insert marks elapsed effort; DeepSeek refuses to leave, then approaching sounds lead to the returning wood carriers.",
+      "entry_bridge_zh": "接上一批同一场景，延续前镜状态；不重说、不重演。",
+      "exit_bridge_zh": "返回队列已经看见小鱼，下一批省略她下长阶的过程，从阶下拦住木头开始。",
+      "shots": {
+        "CY016C": {
+          "camera_zh": "祭坛朝正门纵深远景短距离缓退，给进入队列留纵深而不改变正门轴线；停住看提灯接近。",
+          "camera_en": "From the altar looking toward the main door, retreat a short distance to accommodate the entering line, then hold the depth and lantern approach.",
+          "transition_zh": "沿Claude指向正门的视线切门开，不先给祭坛人物补反打；门轴声与开门同步。",
+          "transition_en": "Cut along Claude's eyeline to the opening door, synchronizing its hinge sound; do not add an altar reaction shot.",
+          "action_en": "The main door opens. Cultists returning from the wood store file along the central aisle, each carrying one thick black log. At the front, some support a log with one arm and carry a lantern in the other hand. They notice DeepSeek beside Claude offscreen at the altar and continue toward it. The wood piles are still low.",
+          "effects_en": "Dense footsteps, log-to-log knocks and a light lantern rattle."
+        }
+      }
+    },
+    "GB009": {
+      "arc_zh": "小鱼两次试图拦住搬柴人，木头仍不断上阶；失败动作与祭坛累柴互相承接。",
+      "arc_en": "DeepSeek twice tries to halt the wood carriers while their logs continue upward; her failed resistance is intercut with the growing pile.",
+      "entry_bridge_zh": "从返回队列切到阶下抓木，省略小鱼从顶部冲下的路程；末人落闩确认门已关闭。",
+      "exit_bridge_zh": "宝宝第二次滑倒在阶下，搬柴仍继续；下一批接祭坛最后一根木头落定。",
+      "shots": {
+        "CY016D": {
+          "action_zh_override": "最后一名教徒在队尾掩门落闩。DeepSeek松开没能打开的锁，急切地沿长阶冲到下端，双手抓住一名搬柴教徒怀中乌烬木伸出的那一端，想拦住他。",
+          "camera_zh": "保留小鱼左、搬柴者右，偏侧看木头纵深；阶梯退向左后，远处Claude虚焦，不再正中对称。",
+          "camera_en": "Oblique low medium close shot along one log. Child left grips its end, cropped carrier right, bound Claude visible out of focus far left upstairs. Elliptically omit the descent and start at the stair foot reaching for the log; no push yet.",
+          "transition_zh": "切镜省略宝宝下长阶，直接从阶下伸手抓木起；身后关门落闩声接队尾进入。",
+          "transition_en": "Omit the child's descent across the cut and begin her grab at the stair foot; a latch sound behind completes the returning line's entrance.",
+          "action_en": "Oblique low medium close shot along one log. Child left grips its end, cropped carrier right, bound Claude visible out of focus far left upstairs. Elliptically omit the descent and start at the stair foot reaching for the log; no push yet.",
+          "effects_en": "The last descending footfalls, hurried breathing and hands scraping bark; a subdued door latch behind the returning line."
+        },
+        "CY017": {
+          "camera_zh": "镜头落到地面，近看小鱼半跪撑手；搬柴者从右前景继续上阶，正中祭坛在画外，阶边与经过者形成纵深。",
+          "camera_en": "Ground-level oblique close view after one push: child left half-kneels with one hand planted and the other reaching; carrier and log exit right/upstairs. Altar is outside crop.",
+          "transition_zh": "同一根被抓木头与相同握持接前镜；教徒稳木后才用另一手推，不将木头变成击打工具。",
+          "transition_en": "Match the held log and grip; the carrier steadies it before using the other hand to push, never using the log as a weapon.",
+          "action_en": "Ground-level oblique close view after one push: child left half-kneels with one hand planted and the other reaching; carrier and log exit right/upstairs. Altar is outside crop.",
+          "effects_en": "A fabric shove, knee and palm meeting stone, then continuing log movements and footsteps.",
+          "action_zh_override": "教徒一臂抱稳木头，另一只手将小鱼推到一旁。她失去重心半跪撑地，另一只手仍朝被带走的木头伸着；更多黑袍从身边经过，踏上长阶。"
+        },
+        "CY017A": {
+          "camera_zh": "手部近景轻随一根木头下降，落定后向脚托短移揭示刚被遮住的边缘，不抬去拍脸。",
+          "camera_en": "Follow one log down in a close-up, then shift slightly toward the footrest edge as it becomes obscured; do not tilt to faces.",
+          "transition_zh": "以抱木离去的运动方向接祭坛放木，省略搬运上阶路程，木头落响为动作切点。",
+          "transition_en": "Match the departing log's direction to its placement at the altar, omitting the stair transit; use the landing thud as the action beat.",
+          "action_en": "At the highest altar, hands emerging from black-and-gold sleeves lay a log horizontally. Another carrier waits beside them with the next log. The successive logs begin to cover Claude's fixed footrest and ankle area and accumulate along her skirt. Only the working hands and cropped lower-body restraint area are shown.",
+          "effects_en": "Heavy logs land with distinct dull thuds and bark friction."
+        },
+        "CY018": {
+          "camera_zh": "同侧贴地近摄，孩子局部脸/撑手在左下，另一只手伸向右侧离去靴子；上身、木头和祭坛裁出画面。",
+          "camera_en": "Ground-level close detail of child left reaching after a departing boot right following one non-graphic shove aside. Begin with rising and catching a second carrier leg; upper torso/log and altar stay outside crop.",
+          "transition_zh": "从木头持续落响切回小鱼由半跪撑起，第二次阻拦是抱另一人的腿，不重演抓木。",
+          "transition_en": "Carry the continuing wood thuds back to the child rising from the half-kneel; this second attempt targets a different carrier's leg.",
+          "action_en": "Ground-level close detail of child left reaching after a departing boot right following one non-graphic shove aside. Begin with rising and catching a second carrier leg; upper torso/log and altar stay outside crop.",
+          "effects_en": "A restrained boot brush, clothing scraping stone and a short breath; avoid an exaggerated impact.",
+          "action_zh_override": "小鱼撑起身，又扑向另一名搬柴教徒，抱住他的小腿。对方怀里仍抱着木头，用靴子将她拨踢到一旁；她滑倒在阶下，手还朝那条腿伸着。黑袍继续向上。"
+        }
+      }
+    },
+    "GB010": {
+      "arc_zh": "柴堆压到腰腹，教主接过唯一火把；宝宝再次撑起，张臂挡住登阶道路。",
+      "arc_en": "The wood rises to Claude's waist; the priest accepts the sole ritual torch and the child struggles up to bar the stairs.",
+      "entry_bridge_zh": "接上一批仍在铺柴的落木声，高处最后一根落定，小鱼仍留阶下。",
+      "exit_bridge_zh": "宝宝已张臂站稳，教主还未推她；下一批切Claude察觉威胁的制止。",
+      "shots": {
+        "CY018B": {
+          "camera_zh": "祭坛低位中景随最后一根木头小幅上摇，落定后停住呈现腰腹遮挡及露出的受缚双臂。",
+          "camera_en": "In a low medium view of the altar, tilt slightly with the last log, then hold the pile's height against Claude's exposed bound upper body.",
+          "transition_zh": "连续木响接最后一根落下，铺柴告终才让教徒空手退开；不提前点燃。",
+          "transition_en": "Continue the log sounds into the final placement; only once the pile is complete do the cultists withdraw empty-handed.",
+          "action_en": "The final black log is placed on the pile. From the low angle, thick timber covers Claude to her waist and abdomen, concealing the lower skirt and fixed footrest while her face, chest and restrained arms remain above it. The cultists withdraw with empty hands. None of the wood has ignited.",
+          "effects_en": "The last log settles, footsteps withdraw, and a low wordless cultist chant begins."
+        },
+        "CY021A": {
+          "action_zh_override": "教主右手接牢唯一黑芯暗紫细边的仪式火把，目光从交接处转向高处受缚的Claude。教徒肩与递火手留在前景边缘；Claude直立在高处未燃柴堆后，双腕受缚。父亲冷静决断，不犹豫。固定火盆与蜡烛仍普通暖火。",
+          "camera_zh": "85mm压缩纵深感；从递火教徒肩侧贴近，先看右手接牢，随父亲目光短拉焦到高处受缚白色轮廓；不绕轴，不退成仪式群像。",
+          "camera_en": "Close over the delivering cultist shoulder: the priest takes the single ritual torch in his RIGHT hand, then looks toward his bound daughter high in depth. Keep his calm resolve, dark flame with a thin violet edge, and ordinary warm fixed flames. A short focus shift links hand, father and daughter without adding hesitation.",
+          "transition_zh": "从铺柴完成切长阶下端仪式交接；低沉吟唱同空间连续，接牢后才抬头说话。",
+          "transition_en": "Cut from the finished pile to the ritual handover at the stair foot; carry the low chant through, with his gaze rising after the grip is secure.",
+          "action_en": "教主右手接牢唯一黑芯暗紫细边的仪式火把，目光从交接处转向高处受缚的Claude。教徒肩与递火手留在前景边缘；Claude直立在高处未燃柴堆后，双腕受缚。父亲冷静决断，不犹豫。固定火盆与蜡烛仍普通暖火。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "火苗近响、吟唱底声，教主平静说话 教主／Claude的父亲在镜内1.5–3.86秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        },
+        "CY019": {
+          "camera_zh": "50mm同轴侧后机位，略俯向小鱼；教主暗袍占画右前景，小鱼画左中景；轻随起身升高后收停。",
+          "camera_en": "From the priest side/rear at 50mm, follow the child rising then stop. His cropped dark robe occludes screen right; the child blocks left middle-ground. Altar remains soft and dim.",
+          "transition_zh": "承被踢倒后撑起；教主袍边压入右前景，原句让开来自画外嘴部，尚未推搡。",
+          "transition_en": "Cut from the priest's gaze to the child rising after the previous kick; the offscreen command addresses her obstruction without a shove yet.",
+          "action_en": "小鱼双手撑地、踉跄站起，在长阶下端张臂挡住教主去路。她位于画左，望向画右上方教主，腿微颤、眼含泪；右前景仅教主暗袍与身体边缘，不露嘴。高处Claude在弱焦背景；无魔法、尚未推搡。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "小鱼双手撑地、踉跄站起，在长阶下端张臂挡住教主去路。她位于画左，望向画右上方教主，腿微颤、眼含泪；右前景仅教主暗袍与身体边缘，不露嘴。高处Claude在弱焦背景；无魔法、尚未推搡。",
+          "effects_zh_override": "衣料摩擦、颤抖呼吸，教主短促命令 教主／Claude的父亲在镜内0–0.76秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        }
+      }
+    },
+    "GB011-1": {
+      "arc_zh": "别碰她；静止对视，高低之间；失守落地",
+      "arc_en": "Continue the actions below in their listed order, without restarting ongoing motion or speech.",
+      "entry_bridge_zh": "承前宝宝张臂与画外命令，Claude只看见教主逼近；衣料声接入，身体落地声尚不存在。",
+      "exit_bridge_zh": "宝宝伏在阶下，无力起身，仍想阻止教主。",
+      "shots": {
+        "CY020": {
+          "camera_zh": "Claude面部近景随她向阶下追视作很小的下摇，喊出后停住，靠受缚肩部挣扎保持动态。",
+          "camera_en": "Make a very small tilt with Claude's gaze down the stairs in a face close-up, then hold as her restrained shoulders strain.",
+          "transition_zh": "承前宝宝张臂与画外命令，Claude只看见教主逼近；衣料声接入，身体落地声尚不存在。",
+          "transition_en": "Continue from the child's outstretched arms and the priest's command; Claude sees him approach, while the later fall has not happened.",
+          "action_en": "Claude看见教主逼近宝宝，喊出制止并挣扎；此时尚未发生下一次摔落。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "Claude愤怒喊出原句；画外衣料摩擦、木架与锁链震动，不提前出现宝宝落地或身体撞击声。 Claude在镜内1–3.64秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "Claude看见教主逼近宝宝，喊出制止并挣扎；此时尚未发生下一次摔落。"
+        },
+        "CY020B": {
+          "action_zh_override": "小鱼仍在长阶下端张开双臂挡路，抬头直视教主。教主垂眼看她，嘴角带一点轻蔑，肩膀放松，右手持此前接过的唯一一支短柄黑焰仪式火把，左臂垂下。两人之间保留距离，只作一次持续对视，不前冲、不推、不摔；画面中不出现长杆火杖。",
+          "camera_zh": "孩子眼高肩后略仰，65mm固定近景；小鱼左下前景，教主右上，视线互对；保持同侧轴线。",
+          "camera_en": "Fixed 65mm from child eye height over her shoulder, slight upward angle; child lower-left, priest upper-right looking down-left. Right hand keeps the short basket torch; left hand hangs. No shove yet.",
+          "transition_zh": "Claude喊声收尾后切到下方对视，接原来张臂站姿；保持宝宝和教主左右关系。",
+          "transition_en": "Cut below after Claude's cry ends, matching the child's existing arms-out stance and the pair's established screen positions.",
+          "action_en": "Fixed 65mm from child eye height over her shoulder, slight upward angle; child lower-left, priest upper-right looking down-left. Right hand keeps the short basket torch; left hand hangs. No shove yet.",
+          "effects_en": "Footsteps briefly cease; faint fabric and the black flame's low hiss remain. No impact sound."
+        },
+        "CY020A": {
+          "action_zh_override": "承接尚未出手的对视，教主在本镜开头用左手从画边推开挡路的小鱼，右手始终握着同一支短柄黑焰仪式火把。小鱼失衡倒向阶下同一片石地，只发生一次推倒与落地。落地后她的手肘刚开始撑住地面，镜头在这里结束；撑起失败尚未发生，留给下一镜连续完成。",
+          "camera_zh": "同轴贴地约20cm、50mm斜侧近景；小鱼左侧脸与手肘成斜线，教主袍靴压画右；落地轻顿后收稳。",
+          "camera_en": "Same side of axis, low oblique 50mm camera. One left-hand shove at entry, then child falls left and begins bracing her elbow. Right-edge robe and boot loom without kicking or stepping on her. Image is the landing end-state.",
+          "transition_zh": "以尚未出手的对视起接，教主本镜开头才抬左手推；不把参考落地终态当起点。",
+          "transition_en": "Start from the unbroken stand-off; the priest first raises his left hand to push now, rather than beginning from the reference's fallen state.",
+          "action_en": "Same side of axis, low oblique 50mm camera. One left-hand shove at entry, then child falls left and begins bracing her elbow. Right-edge robe and boot loom without kicking or stepping on her. Image is the landing end-state.",
+          "effects_en": "A sleeve movement, one shove and one clothed landing, followed by weak breathing; do not replay Claude's earlier cry."
+        }
+      }
+    },
+    "GB011-2": {
+      "arc_zh": "还想站起来；攥住袍尾",
+      "arc_en": "Continue the actions below in their listed order, without restarting ongoing motion or speech.",
+      "entry_bridge_zh": "动作匹配延续刚才撑地，完成一次失败；Claude求情来自高处画外而非宝宝口型。",
+      "exit_bridge_zh": "小鱼攥住袍尾，教主仍持原来的火把迈步。",
+      "shots": {
+        "CY021": {
+          "camera_zh": "贴地近景从同一手肘支撑接起，微横移跟目光落到近旁袍尾，保持身体留地，不再下坠。",
+          "camera_en": "At floor level, continue the same elbow support and shift slightly toward the nearby robe as her gaze turns; she does not fall a second time.",
+          "transition_zh": "动作匹配延续刚才撑地，完成一次失败；Claude求情来自高处画外而非宝宝口型。",
+          "transition_en": "Match the beginning of the same attempt to rise and complete its single failure; Claude's plea comes from above offscreen.",
+          "action_en": "宝宝在长阶下端撑地失败，望向身旁教主的袍尾。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "急促喘息、衣料擦地。宝宝不代说、不张口同步。 Claude在镜内0–4.13秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "宝宝在长阶下端撑地失败，望向身旁教主的袍尾。"
+        },
+        "CY021B": {
+          "camera_zh": "小手与袍尾极近特写随指尖短横移，攥住后定住，让衣料由松到绷传递阻力。",
+          "camera_en": "Follow the fingertips a short distance in extreme close-up, then settle as the grip turns the loose robe fabric taut.",
+          "transition_zh": "顺上一镜伸手方向切局部，手抵达同一条袍尾才抓紧，不重新伸第二次。",
+          "transition_en": "Cut along the continuing reach to the same hem, gripping it once on arrival rather than starting a second reach.",
+          "action_en": "Only DeepSeek's sleeve, forearm and small hand are shown as she clenches the black-and-gold hem of the priest's robe. The cloth tightens. Her head and body remain outside the frame, and the priest still carries the same torch as he prepares to move.",
+          "effects_en": "The same offscreen plea continues without a restart as cloth tightens and the child breathes; no magical signal.",
+          "effects_zh_override": "攥紧衣料与宝宝喘息；Claude求情承前连续至本镜末，不重说开头，没有穿云信号。"
+        }
+      }
+    },
+    "GB012": {
+      "arc_zh": "抓住的袍角滑脱，教主背对镜头登阶，用同一黑焰火把点燃高柴；Claude受困火中。",
+      "arc_en": "The robe slips free; the priest ascends with his back to camera, ignites the piled logs with the same black-flamed torch, and leaves Claude trapped in fire.",
+      "entry_bridge_zh": "从前批小手攥紧同一袍尾接入，拉紧状态保持，火把仍只在教主右手。",
+      "exit_bridge_zh": "高柴已燃，Claude受缚挣扎，下一批远景让黑焰完全遮住她。",
+      "shots": {
+        "CY022A": {
+          "action_zh_override": "延续上一镜同一次攥袍，教主朝画面右侧离去。绷紧的袍角逐渐滑过小鱼指尖，只剩最后一折接触；她试合一次却落空，小手慢慢落下，眼神追着袍尾。教主身体与右手火把在画外，高柴尚未燃。下一镜才看登阶距离。",
+          "camera_zh": "75mm近摄感；与攥袍前镜同侧，沿袖口到指尖定住，背景台阶与蓝窗散焦；不后退看教主全身。",
+          "camera_en": "Ground-level oblique close-up of the child hand, robe hem and part of her face. Continue the same grip: taut fabric slips across fingertips, fingers try to close once but miss, then the hand sinks. Child screen-left, departing priest screen-right; next shot establishes the stairs. Torch stays in his right hand offscreen.",
+          "transition_zh": "小手的紧握直接承前，教主迈步使布料滑脱，不另加甩手推搡。",
+          "transition_en": "Continue the held grip directly; his forward step pulls the cloth free without another shove.",
+          "action_en": "Ground-level oblique close-up of the child hand, robe hem and part of her face. Continue the same grip: taut fabric slips across fingertips, fingers try to close once but miss, then the hand sinks. Child screen-left, departing priest screen-right; next shot establishes the stairs. Torch stays in his right hand offscreen.",
+          "effects_en": "Taut fabric releases, fingertips brush stone, and the cultists' wordless chant briefly lowers."
+        },
+        "CY022A1": {
+          "action_zh_override": "教主背对摄影机，头、肩、骨盆和双脚一致朝向最高祭坛的Claude，右手握同一支短柄黑焰仪式火把，只展示连续登阶的几步：前脚踩上高一级石阶，后脚跟进，披风顺背拖曳。不回头、不转向右侧。Claude在高处直立受缚，腰腹以下被未燃黑木遮住；小鱼留在下端画外。余下长阶路程在接点火近景的切点省略，不在三秒内走完整段。",
+          "camera_zh": "背后低位沿长阶轴线小段前跟，教主后脑背部始终朝镜头，火把右侧与高处Claude同框；不绕到侧面。",
+          "camera_en": "Track a short distance behind him from a low position on the stair axis, keeping his back, right-hand torch and Claude above aligned; do not orbit.",
+          "transition_zh": "袍尾滑脱接背后登阶，同一方向向上；只见代表性的几步，长阶余程在切点省略。",
+          "transition_en": "Match the released robe into the rear view of his ascent in the same direction; show representative steps and omit the remaining long climb at the cut.",
+          "action_en": "Seen from behind, the priest climbs toward the highest altar, his head, shoulders, pelvis and feet all facing Claude. He takes successive steps with his right-hand torch unchanged and his cloak trailing down his back. Claude remains upright above with timber covering her below the waist; DeepSeek stays offscreen at the bottom. The next cut omits the remaining ascent.",
+          "effects_en": "Heavy ascending footsteps, the torch's rushing flame and continuous wordless chanting."
+        },
+        "CY022": {
+          "action_zh_override": "局部近景只见教主的右手和同一支短柄黑焰仪式火把。他把杯口黑芯暗紫细边的火焰压向高柴下侧，实际接触后树脂裂隙亮起细小余烬，同一种黑焰从木缝向上蔓延，逐渐连成一片。他收回火把，手退出画面；返回长阶下段的移动在后续切镜中省略，不在本镜展示完整退阶。固定火盆与蜡烛不变色。",
+          "camera_zh": "火把接触处局部特写随右手下压短俯，点燃后沿木缝微向上摇，右手收回即留住扩展火舌。",
+          "camera_en": "In a close detail, tilt slightly with the right hand pressing the torch down, then follow the flame a short distance up the wood seams as the hand withdraws.",
+          "transition_zh": "从登阶明确省略到已抵柴堆前；火把形制、右手与黑紫火色连续，接触时才起柴火。",
+          "transition_en": "Elliptically cut from the climb to the woodpile, matching the torch, right hand and black-violet flame; the logs ignite only on contact.",
+          "action_en": "Only the priest's right hand and the same short-handled torch enter the close detail. He presses its black-core, dark-violet-edged flame against the lower side of the tall black logs. Tiny embers light the resin cracks and the same black fire spreads upward. He withdraws the torch. His return to the lower landing is omitted across the following cut while the woodpile continues to burn.",
+          "effects_en": "Torch-to-wood contact, resin snaps and the black fire's low roar; retreating footsteps recede as his hand leaves."
+        },
+        "CY022B": {
+          "camera_zh": "Claude面肩近景有意稳住，前后火舌掠动承担包围感，轻随挣扎作小幅垂直修正而不穿火绕拍。",
+          "camera_en": "Hold a controlled face-and-shoulder close-up with small vertical corrections for her struggle, while foreground and rear flames create the enclosure.",
+          "transition_zh": "同一火舌向上蔓延接面肩，不重新点火；教主退阶过程省略，Kimi尚未到场。",
+          "transition_en": "Match the upward spread into the face-and-shoulder shot without reigniting the pile; omit the priest's retreat, with Kimi not yet present.",
+          "action_en": "Black flames rise in front of and behind Claude, partially hiding her chest and shoulders. She strains in pain against taut wrist chains; charred damage appears at the sleeve edges. She remains bound to the cross, unable to free herself, as the fire continues around her.",
+          "effects_en": "A sharp intake of breath, a strained wrist-chain ring and obstructed breathing, without additional screamed words."
+        }
+      }
+    },
+    "GB013": {
+      "arc_zh": "火海与吟唱持续；门外骑士列阵后，只露GPT下身接近，门板一震再被一脚踹开。",
+      "arc_en": "The burning ritual continues while paladins form outside. GPT approaches in a partial reveal; a door tremor leads to the single breaking kick.",
+      "entry_bridge_zh": "由前批火中Claude切火海大全景，黑焰现在完全挡住她；教主已回下段。",
+      "exit_bridge_zh": "门已敞开，GPT完成一次踹门并跨入；下一批拉开群像，不再破门。",
+      "shots": {
+        "CY022B2": {
+          "camera_zh": "中殿后部低位大全景缓缓后移，拉开教徒环列和火海尺度，始终不越过火幕寻找Claude。",
+          "camera_en": "Ease backward in a low extreme wide shot from the rear nave, revealing the circle of cultists and scale of fire without penetrating it to find Claude.",
+          "transition_zh": "接同一持续火势，近景可见的人物变成火幕完全遮蔽；吟唱保持连续。",
+          "transition_en": "Continue the same fire, now completely obscuring the figure seen in close-up; the chant continues without restarting.",
+          "action_en": "From the rear nave, continuous black fire entirely conceals Claude and any recognizable part of her body. Cultists chant around the altar; the priest is back on the lower landing, and DeepSeek remains below. Ordinary braziers stay orange. The ritual continues without a new action against the child.",
+          "effects_en": "Low collective wordless chanting, church reverberation and crackling timber; no added intelligible lyrics."
+        },
+        "CY022B1": {
+          "camera_zh": "门外低位中远景轻向后移给骑士越前，再随两列分流作小幅横向构图调整，中央通道保持空。",
+          "camera_en": "Ease back in a low exterior medium-wide view as paladins overtake the camera, then reframe slightly for the two separating ranks, keeping the center clear.",
+          "transition_zh": "切门外同一时刻，室内吟唱变闷被夜风压低；甲靴声从后方接近，不提前揭GPT。",
+          "transition_en": "Cut outside at the same time; the indoor chant muffles beneath night wind as armored steps approach from behind, without revealing GPT.",
+          "action_en": "Two ranks of silver-armored paladins advance from behind and split toward the two sides of the closed church entrance. Side sentries turn outward to watch the approaches. The central corridor remains empty, ready for GPT, who is still offscreen with the eight companions.",
+          "effects_en": "Synchronized armored steps move from rear to front, plates touch lightly, and two spear-butt taps lead into the next footsteps; wind muffles the distant chant."
+        },
+        "CY026": {
+          "camera_zh": "侧后低机位腿部平行跟拍两步，构图上缘严格停在腰下，保留两翼甲靴与枪杆作尺度。",
+          "camera_en": "Track parallel from a low rear-side position for two steps, strictly cropping above the waist and retaining flanking armored boots and spear shafts.",
+          "transition_zh": "由枪尾触地节奏接银白鞋跟，不再重演骑士列队；沿留出的中路前进。",
+          "transition_en": "Match the spear taps to the silver heels, proceeding along the already cleared center without repeating the formation.",
+          "action_en": "Only GPT's legs, silver-white shoes, moving skirt hem and single tail are revealed as she walks between the formed paladins toward the closed door. Her head and face remain outside the frame. The companions remain offscreen, and the paladins retain their positions at the sides.",
+          "effects_en": "Two distinct heel steps and moving fabric; no early door-breaking impact."
+        },
+        "CY022C": {
+          "camera_zh": "门内中央通道远景刻意稳住，以门缝冷光和门板的一次震动建立预兆，不穿门展示来者。",
+          "camera_en": "Hold a deliberate wide interior view down the empty central aisle, letting the cold door-gap light and one tremor create anticipation.",
+          "transition_zh": "从门外脚步切门内对应位置，吟唱恢复清楚；震动是破门动作的预备，不另演一次完整撞门。",
+          "transition_en": "Cut from the exterior approach to the corresponding interior door view; the chant clears, and the tremor anticipates the single breaking action.",
+          "action_en": "Looking from inside along the empty central aisle, the barred main door is still shut. Firelight crosses the floor while cold light leaks through its gaps. The panels shudder just before the breaking action. Nobody enters this environment-only frame yet.",
+          "effects_en": "Clearer wordless chanting and interior reverberation return, followed by a brief door-panel rattle leading directly to the break."
+        },
+        "CY023": {
+          "camera_zh": "摄影机贴近门内侧，从右上踢来的鞋底与向镜头掠过的门板形成斜线；撞击轻震后定住，脸不必入画。",
+          "camera_en": "Oblique low camera immediately inside the doorway. A single effortless kick drives the door inward; sole, splintering wood and the cold light opening dominate, with the face partly occluded. Complete impact and foot landing within two seconds, then reveal the whole group in the next shot.",
+          "transition_zh": "接门板同一次震动完成一次踹开，破门重音此刻落下，吟唱立即断掉。",
+          "transition_en": "Complete the same door disturbance with one kick; the breaking accent lands now and the chanting stops immediately.",
+          "action_en": "Oblique low camera immediately inside the doorway. A single effortless kick drives the door inward; sole, splintering wood and the cold light opening dominate, with the face partly occluded. Complete impact and foot landing within two seconds, then reveal the whole group in the next shot.",
+          "effects_en": "One decisive door-breaking crash cuts off the chanting immediately; falling fragments and the entry step follow.",
+          "action_zh_override": "GPT从门外以右脚一次踹开门扇。鞋底撞击处木料破裂，门板向殿内掠过，冷月光从裂口涌入；木屑沿受力方向飞散。她收脚落地跨入，2秒内完成，不重复踹。下一镜才完整揭示GPT与八位援军。"
+        }
+      }
+    },
+    "GB014": {
+      "arc_zh": "正门九人现身与指令→教主转头→画外呼唤牵出后窗。",
+      "arc_en": "The entrance command draws the priest toward the main door, while an offscreen invocation introduces the rear-window action.",
+      "entry_bridge_zh": "承前门已开和GPT跨入，沿正门轴线拉开群像；不重演踹门。",
+      "exit_bridge_zh": "教主视线留在正门，画外呼唤已结束；下一批切窗外无人形的月光。",
+      "shots": {
+        "CY024": {
+          "camera_zh": "低位广角在GPT向内走时短后移拉开九人错落队形，指令时稳住；Qwen起跑使前景发生改变。",
+          "camera_en": "Track backward a short distance in a low wide angle to reveal the staggered nine-person formation, then settle for the command as Qwen starts moving.",
+          "transition_zh": "从前批GPT跨门接同一步前行，群像随着拉远才显出，不瞬间替换为另一套站位。",
+          "transition_en": "Match GPT's entering step from the previous batch; reveal the group by widening rather than resetting everyone into a new pose.",
+          "action_en": "GPT带八位同伴由正门进入，下令护住她们；Kimi按事先约定从后窗接近。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "甲片与门口脚步退低让词清楚。指令完成才切敌方反应。 GPT在镜内0.15–1.56秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "GPT带八位同伴由正门进入，下令护住她们；Kimi按事先约定从后窗接近。"
+        },
+        "CY024R": {
+          "camera_zh": "教主胸上三分之二侧面随头肩转向正门轻摇，视线落定后锁住，不顺Kimi声音仰摇。",
+          "camera_en": "Pan slightly with the priest's head and shoulders toward the main door in a three-quarter upper-body view, then hold; do not tilt toward Kimi's voice.",
+          "transition_zh": "指令说完接敌方反应，脚步与甲片尾响不断；Kimi声音先入但不使教主发现后窗。",
+          "transition_en": "Cut to the hostile reaction after the command, retaining footsteps and armor decay; Kimi's voice enters for the audience without alerting him to her location.",
+          "action_en": "接GPT说完“护住她们”。教主在长阶下段缓台停住，头肩转向正门，平视画外入场者，眉眼绷紧；附近黑袍教徒也被门口动静吸引。注意力留在正门，没有提前仰看后窗或云层。画外渐入Kimi的呼唤，先让观众听见声音，再切中央高窗揭示她的位置；教主不因此抢先发现后窗的人。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "承前门口脚步、甲片尾响与教徒衣料；教主不循声发现后窗。 Kimi在镜内0.6–2.8秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "接GPT说完“护住她们”。教主在长阶下段缓台停住，头肩转向正门，平视画外入场者，眉眼绷紧；附近黑袍教徒也被门口动静吸引。注意力留在正门，没有提前仰看后窗或云层。画外渐入Kimi的呼唤，先让观众听见声音，再切中央高窗揭示她的位置；教主不因此抢先发现后窗的人。"
+        }
+      }
+    },
+    "GB014A": {
+      "arc_zh": "月光流入空窗前→汇成小小背影→实体凝稳→斜侧切近→左手举明刃、完整请求后投出。",
+      "arc_en": "Flowing moonlight gathers into a small rear-view figure before the towering window; once solid, a side close-up shows her request and single blade throw.",
+      "entry_bridge_zh": "承上一批画外呼唤尾韵，正门仍牵住敌方注意；窗前起始没有人形。",
+      "exit_bridge_zh": "Kimi左手明刃刚投向右前方，身体仍在窗外；下一批由殿内接刀锋实际撞玻璃。",
+      "shots": {
+        "CY024K00": {
+          "camera_zh": "镜头退到人物正后方远景，脸朝玻璃、只见背影；沿轴线缓推少许，身形凝实即收停，人物始终约占画高一半，完整高窗形成压迫感。",
+          "camera_en": "Use a distant direct rear full-body view, with Kimi about half of frame height before the towering intact window. Dolly forward slightly on her rear axis and ease to a stop as she becomes solid; never orbit or reveal her face.",
+          "transition_zh": "承画外呼唤尾韵切到窗前空处，月光流入并连续成形，4秒内不切镜。",
+          "transition_en": "Cut from the completed invocation to empty air outside the rear window; keep all four seconds uncut.",
+          "action_en": "At 0-0.8 seconds, silver-white moonlight enters from behind and left of the camera, with no human silhouette. At 0.8-1.6 it slows and gathers in front of the glass. At 1.6-3.5, hair and shoulders become solid first; the hem, legs and small blades form from connected light filaments, with background visible through unfinished gaps. At 3.5-4, one solid Kimi floats facing the glass, back to camera, both hands low: her left bright blade is screen left and her right dark blade screen right. She does not turn, raise a blade or land. The physical moon stays behind the camera, outside frame. No black smoke, portal or overall opacity fade.",
+          "effects_en": "The previous invocation decays into continuous night wind and a faint airy gathering sound; no impact or new speech.",
+          "effects_zh_override": "完整4秒无新对白。前镜呼唤已结束，只允许自然混响尾韵；夜风、极轻银色气流，保留原0–0.8流入、0.8–1.6汇聚、1.6–3.5凝实、3.5–4悬停，不加撞击。"
+        },
+        "CY024K0": {
+          "camera_zh": "切至窗外斜侧半身近景后，小幅随左手明刃抬起调整，随即停住让完整请求与投刃发生；右缘完整玻璃持续可见。",
+          "camera_en": "Once in the exterior side medium close-up, reframe slightly with the raised left-hand blade, then hold for the full request and throw; keep intact glass at the right edge.",
+          "transition_zh": "完整背影凝稳后，摄影机切到既有窗外斜侧近景；Kimi不转身、仍朝同一玻璃。长发风向、双刃持手连续，请求结束才投刃。",
+          "transition_en": "After materialization completes, cut the CAMERA from behind to the established exterior side close-up; Kimi never turns away from the same glass. Preserve wind and blade hands; throw after the complete request.",
+          "action_en": "承接窗外全身显形，由正后远景切到既有窗外斜侧半身近景：摄影机切位，Kimi身体与目光始终朝向同一面玻璃，不为展示脸而转身，中央彩窗的完整玻璃与石框留在画面右缘。她清晰可见地望向窗内，左手将小尺寸明刃抬到肩旁，右暗刃仍低持；长发向同一方向飘动，不再隔着玻璃显示模糊影子。她说出完整请求句，末尾留半拍，左臂随后朝右前方甩出明刃，接下一镜从殿内看明刃破窗。Kimi本人仍在窗外，双刃左右手不交换；此刻不出现护罩、阵纹或额外月环。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "夜风承前。玻璃撞击只在下一镜。 Kimi在镜内0–3.7秒说完同一句日语；Kimi在镜内3.7–7.68秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。 两句说完再短停投刃，镜尾明刃已离手；玻璃撞击只在下一镜。",
+          "action_zh_override": "承接窗外全身显形，由正后远景切到既有窗外斜侧半身近景：摄影机切位，Kimi身体与目光始终朝向同一面玻璃，不为展示脸而转身，中央彩窗的完整玻璃与石框留在画面右缘。她清晰可见地望向窗内，左手将小尺寸明刃抬到肩旁，右暗刃仍低持；长发向同一方向飘动，不再隔着玻璃显示模糊影子。她说出完整请求句，末尾留半拍，左臂随后朝右前方甩出明刃，接下一镜从殿内看明刃破窗。Kimi本人仍在窗外，双刃左右手不交换；此刻不出现护罩、阵纹或额外月环。"
+        }
+      }
+    },
+    "GB015-1": {
+      "arc_zh": "明刃破窗，玻璃迎面炸开；明刃钉柴，瞬移坐标亮起；循刃瞬临，爆气震开柴堆；震柴惊动教徒，转身施法",
+      "arc_en": "Continue the actions below in their listed order, without restarting ongoing motion or speech.",
+      "entry_bridge_zh": "从窗外投出切内侧撞入，斜向下轨迹连贯；玻璃接触前完整，接触后才爆裂。",
+      "exit_bridge_zh": "教徒攻击即将发出，Kimi抬起右暗刃，接闭罩拦截。",
+      "shots": {
+        "CY024K1": {
+          "camera_zh": "窗内近处力量特写先守住刀尖触点，撞裂后短促跟刀向内下方摇移，让近碎片形成纵深，不跟成穿堂长镜。",
+          "camera_en": "Hold the impact close-up, then follow briefly downward inside.",
+          "transition_zh": "从窗外投出切内侧撞入，斜向下轨迹连贯；玻璃接触前完整，接触后才爆裂。",
+          "transition_en": "Match the previous throw; glass breaks only on contact.",
+          "action_en": "The bright blade cracks the central blue window, breaks local mullions and passes through a broad vertical opening toward the woodpile's outer edge. Stone frame, lower mullions and side windows remain. Fragments fall behind the cross, away from Claude. Kimi stays outside.",
+          "effects_en": "Hard impact, glass burst, passing blade, falling fragments; decay lowers."
+        },
+        "CY024K1A": {
+          "camera_zh": "柴木与明刃近景先短随刀尖下落，钉稳即停止，银光亮收期间不围绕刀旋转。",
+          "camera_en": "Follow the descending tip closely; stop when anchored.",
+          "transition_zh": "同一刀锋飞行接向下钉木，碎玻璃尾响压低，让画外术名落在已钉稳之后。",
+          "transition_en": "Match the flight into wood; Kimi remains offscreen.",
+          "action_en": "明刃下尖钉入柴堆前侧外缘的一根乌烬木，木纤维裂开。接触点的银光短促亮起，刀已稳稳留在木上，Kimi才从画外报出术名“月影渡”。镜末银光收拢，接她沿坐标瞬移现身；刀不插地、不展开护罩，高柴仍燃烧。画面此刻还没有Kimi实体。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "下一镜才瞬移实体出现与爆气震柴。 Kimi在镜内0.6–1.53秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。 刀尖先入木，术名说完仍留坐标低鸣；下一镜才瞬移爆气。",
+          "action_zh_override": "明刃下尖钉入柴堆前侧外缘的一根乌烬木，木纤维裂开。接触点的银光短促亮起，刀已稳稳留在木上，Kimi才从画外报出术名“月影渡”。镜末银光收拢，接她沿坐标瞬移现身；刀不插地、不展开护罩，高柴仍燃烧。画面此刻还没有Kimi实体。"
+        },
+        "CY024K2": {
+          "camera_zh": "低位中全景在现身一闪后轻后移，容纳两侧重柴推出的幅度，Claude始终居后方中央净区；不环绕改变明暗刃左右手。",
+          "camera_en": "Retreat slightly in a low medium-full view.",
+          "transition_zh": "明刃坐标银光接一次现身，术名尾音引出爆气；刀从木上回左手，不出现第二个Kimi。",
+          "transition_en": "Match the anchor flash to one arrival.",
+          "action_en": "Kimi teleports directly to the anchored blade, reclaiming it left-handed. Lowering her stance, she blasts heavy logs outward and down to both sides. She lands on cleared stone, right-hand dark blade low and outward. Claude remains calm at center, upright on the exposed fixed footrest, all five restraints closed. Displaced wood still burns; no shield yet.",
+          "effects_en": "Teleport hum, pressure burst, heavy timber scraping."
+        },
+        "CY024K2A": {
+          "camera_zh": "侧前低位从近处转身的教徒手臂短摇到同框后方Kimi，保留敌我间净空通道和攻击指向。",
+          "camera_en": "Pan briefly from foreground cultist arms toward Kimi behind.",
+          "transition_zh": "重柴翻落尾音接教徒转身聚能，Kimi只转向新威胁，不重复震柴。",
+          "transition_en": "Continue falling timber; do not repeat the blast.",
+          "action_en": "Cultists in the altar's outer lanes turn inward, gathering amber energy in raised palms and staff tips toward Kimi and Claude. Kimi turns low toward them, lifting her right-hand dark blade; the bright blade stays outside her left side. Claude remains bound upright on the fixed footrest. All stay clear of burning logs; no shield yet.",
+          "effects_en": "Rolling logs, hurried robe movements, rising energy."
+        }
+      }
+    },
+    "GB015-2": {
+      "arc_zh": "暗月闭合，截住教徒法术",
+      "arc_en": "Continue the actions below in their listed order, without restarting ongoing motion or speech.",
+      "entry_bridge_zh": "聚能动作接同一轮光束发出，Kimi划右暗刃在命中前闭罩；冲击声由清晰转闷留给下一批。",
+      "exit_bridge_zh": "教徒第一轮攻击被暗罩截住，接罩内试镣；外侧仍有间歇攻击。",
+      "shots": {
+        "CY024K3": {
+          "action_zh_override": "两侧教徒已经聚起的琥珀色光束朝中央发出。开镜时Kimi与Claude仍可见；Kimi退到Claude身前，右手暗刃向上划弧，在光束命中前让深靛暗月罩完整闭合，包住两人、刑架与脚托。闭合后罩面完全不透明，人物和刑架全部不可见。光束撞上外壳碎成短促火星，两侧施法手与法杖始终交代攻击来源。罩面保持完整，所有燃木留在罩外；火星自然散去，不停格。GPT此时尚未释放水流。",
+          "camera_zh": "罩外低位中远景缓退让闭合罩体填入构图，同时保住两侧施法手和命中点；闭合后镜头绝不穿透罩面。",
+          "camera_en": "Retreat slightly, retaining attackers and impact points.",
+          "transition_zh": "聚能动作接同一轮光束发出，Kimi划右暗刃在命中前闭罩；冲击声由清晰转闷留给下一批。",
+          "transition_en": "Continue charged attacks into release; shield closes before impact.",
+          "action_en": "Initially visible, Kimi steps before Claude and sweeps her right-hand dark blade upward. A deep-indigo dome encloses both women, cross and footrest, becoming fully opaque: all are hidden. Two amber beams strike outside and scatter sparks. Cultist hands and staffs remain visible beside the intact shell; burning wood stays outside. No GPT water yet.",
+          "effects_en": "Charge, rushing beams, shattering sparks; next interior cut muffles impacts."
+        }
+      }
+    },
+    "GB016-1": {
+      "arc_zh": "罩内试镣，见痛收刀；圣骑士鱼贯而入；云宫合扇；合扇就是回答",
+      "arc_en": "Continue the actions below in their listed order, without restarting ongoing motion or speech.",
+      "entry_bridge_zh": "从完整不透明外壳硬切罩内，背景只见内侧暗膜；不是摄影机穿透或罩面变透明。",
+      "exit_bridge_zh": "同伴答应，直接切到下一位或同屏回应。",
+      "shots": {
+        "CY024K4": {
+          "action_zh_override": "硬切入暗月罩内部。Kimi用右手暗刃从侧下方轻试Claude腕镣接缝，细小紫纹立即反噬，Claude吃痛；Kimi随即把刀退到自己外侧髋边，刃口朝外下，担忧地看着锁扣。本镜只完成这一次试探与撤刀，五处束缚仍全部闭合。双刃收回后腰的过程在随后切镜中省略，下次回到罩内时双手已经腾出。背景只有不透明暗膜内侧，不透出教堂、烛火或窗；自然呼吸持续，不停格。",
+          "camera_zh": "罩内近中景微移焦点由腕扣接缝到Claude痛感及Kimi目光，撤刀时仅小幅下调取景；不拍成环绕展示护罩外界。",
+          "camera_en": "In an interior medium close-up, shift focus gently from the cuff seam to Claude's pain and Kimi's reaction; make a small downward reframe with the withdrawing blade.",
+          "transition_zh": "从完整不透明外壳硬切罩内，背景只见内侧暗膜；不是摄影机穿透或罩面变透明。",
+          "transition_en": "Hard-cut from the opaque exterior to an interior viewpoint with only the inner dark membrane behind them; do not fly through or make the shell transparent.",
+          "action_en": "Inside the dome, Kimi briefly tests the seam of one of Claude's wrist cuffs from below with the dark blade in her right hand. Tiny violet markings react, hurting Claude. Kimi immediately withdraws the blade toward the outside of her own hip, its edge facing outward and down, and looks at the lock with concern. The restraints remain shut. Stowing both blades at her rear waist is omitted across the subsequent cut before the next interior view, leaving her hands free afterward. The dome persists, and no church, candle or window shows through its interior background.",
+          "effects_en": "A light metal touch, a short sharp cuff resonance and immediate withdrawal; outside attacks remain distant muffled knocks. Rear-waist catches sound only if the stowing action is actually shown."
+        },
+        "CY023A": {
+          "camera_zh": "门内侧向低角度横移一小段，随骑士跨槛分流后停在两翼纵深，中央空道始终保留。",
+          "camera_en": "Track sideways a short distance from a low interior angle as paladins cross and split, then settle on the two aisle depths with the center open.",
+          "transition_zh": "罩内短刺鸣后硬切门口，换成清楚甲片脚步；时间仍为现在，先遣队不重新进门。",
+          "transition_en": "Hard-cut from the interior cuff reaction to the entrance, restoring clear armor and footfalls; this remains the present and the vanguard does not enter again.",
+          "action_en": "With GPT and the eight companions already inside, additional paladins cross the open threshold and move down both side colonnades. Entry sentries remain at their posts. The central aisle is left clear; the vanguard stays outside this shot's framing.",
+          "effects_en": "Paladin footsteps and armor plates in the church's current interior ambience."
+        },
+        "CY026A": {
+          "camera_zh": "云宫双人中全景以短侧移显出两人面对面及展开折扇，GPT说话时收稳；不先合扇。",
+          "camera_en": "Use a short lateral move in a medium-full cloud-palace two-shot to establish the facing pair and open fan, then settle for GPT's invitation.",
+          "transition_zh": "从甲片声切入明确稍早回闪，地点转云宫，教堂战斗声退尽；这是小鱼独自营救期间的邀约。",
+          "transition_en": "Make an explicit cut to an earlier flashback at the cloud palace during DeepSeek's solo rescue; remove the church battle sound rather than treating this as adjacent space.",
+          "action_en": "回到稍早的云宫，GPT站到千问面前问出邀请；千问听完，下一镜才合扇回应。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "其余书院环境退低。 GPT在镜内0.1–1.92秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "回到稍早的云宫，GPT站到千问面前问出邀请；千问听完，下一镜才合扇回应。"
+        },
+        "CY026A1": {
+          "camera_zh": "手与扇骨特写顺扇面合拢轻微横摇，合拢卡定即停住，指尖握持清楚。",
+          "camera_en": "In a hand-and-fan close-up, make a slight pan with the closing fan, stopping at the closed grip.",
+          "transition_zh": "邀请句结束切同一把展开折扇，先合扇落定再保住短答，Qwen嘴部画外。",
+          "transition_en": "Cut after the invitation to the same open fan, let the closing gesture settle, and keep Qwen's short reply with her mouth outside the frame.",
+          "action_en": "合扇落定，指尖握住扇骨。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "声线自然速度，结束接下一邀约场景。 千问在镜内0–1.15秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "合扇落定，指尖握住扇骨。"
+        }
+      }
+    },
+    "GB016-2": {
+      "arc_zh": "小屋里的回应",
+      "arc_en": "Continue the actions below in their listed order, without restarting ongoing motion or speech.",
+      "entry_bridge_zh": "合扇声收尾后明确切回闪中的另一地点，不声称两人当场走入小屋；书在开镜时已摊开。",
+      "exit_bridge_zh": "Gemini已答应；书仍在桌上，不再重演放书。",
+      "shots": {
+        "CY026B": {
+          "camera_zh": "小屋双人中景从摊开的书与Gemini微微抬构图纳入桌旁GPT，随后保持两人同框完成呼名和回答。",
+          "camera_en": "In the cottage two-shot, tilt slightly from Gemini and the already open book to include GPT beside the table, then retain both for the call and reply.",
+          "transition_zh": "合扇声收尾后明确切回闪中的另一地点，不声称两人当场走入小屋；书在开镜时已摊开。",
+          "transition_en": "Let the fan sound finish, then cut to another location within the earlier recruitment montage; the book is already open, without a shown journey.",
+          "action_en": "同一个双人镜内，GPT呼名，Gemini从已经摊开的书上抬眼回应。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "同一个双人镜内，GPT呼名，Gemini从已经摊开的书上抬眼回应。",
+          "effects_zh_override": "呼名、短停、回应完整留在本镜；室内灯火与纸页微响，不另切书页特写。 GPT在镜内0.1–1.08秒说完同一句日语；Gemini在镜内1.38–2.61秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        }
+      }
+    },
+    "GB017": {
+      "arc_zh": "基地应邀的机械底声骤退，月背呼名、睁眼、坐定分路，让召集从外在力量落到具体救援方案。",
+      "arc_en": "Industrial agreement gives way to lunar quiet, awakening and a concrete split-entry plan.",
+      "entry_bridge_zh": "承上一批邀约回闪，GPT已经到基地；基地与月背是两处空间，声音在切点换场，不让火箭发射。",
+      "exit_bridge_zh": "Kimi点头完成此处约定，随后仍在稍早回闪中切向其余同伴；不把点头当瞬移发动。",
+      "shots": {
+        "CY026C": {
+          "camera_zh": "以双人中景轻微横移到斧柄和Grok回应的同一侧，工业立柱产生视差；不绕过二人轴线。",
+          "camera_en": "Make a short lateral track in the medium two-shot, revealing Grok's grip and response through parallax against the launch gantry without crossing their axis.",
+          "transition_zh": "承前一处邀约直接切到基地；回应后在呼名节奏上切静寂月面，机械底声立即退掉。",
+          "transition_en": "Cut directly from the preceding invitation to the launch base; after the reply, cut on the next name to the quiet lunar setting and remove the machinery bed.",
+          "action_en": "钢架发射塔、储罐和管线旁，GPT邀请Grok；Grok握斧回应。火箭停在发射架，尚未发射。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "基地低鸣托底；火箭仍未发射。 GPT在镜内0.1–1.14秒说完同一句日语；Grok在镜内1.44–2.42秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "钢架发射塔、储罐和管线旁，GPT邀请Grok；Grok握斧回应。火箭停在发射架，尚未发射。"
+        },
+        "CY026D1": {
+          "camera_zh": "困眼极近特写定镜，让眼睑从闭到开承担变化，不用推镜制造醒来。",
+          "camera_en": "Hold an extreme close-up of the sleepy eyes so the eyelids opening carry the change rather than a camera push.",
+          "transition_zh": "GPT呼名先入，切眼睛时仍同一次呼唤；睁眼后切宽，不再重复醒来。",
+          "transition_en": "Lead with GPT calling the name offscreen; the eye cut retains this single call. Cut wider after the eyes open without a second awakening.",
+          "action_en": "月背的Kimi仍伏在月石边，听见GPT画外呼名，困倦的眼睛缓缓睁开。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "月背的Kimi仍伏在月石边，听见GPT画外呼名，困倦的眼睛缓缓睁开。",
+          "effects_zh_override": "GPT在画外轻唤“Kimi”，先于双人画面；月面无风声。 GPT在镜内0.1–1.08秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        },
+        "CY026D": {
+          "camera_zh": "从月石边双人中景缓慢横移小半步，露出GPT俯身和Kimi点头关系，随后停住听完分路。",
+          "camera_en": "Slide a small distance sideways in the medium two-shot to reveal GPT leaning toward Kimi, then settle for the route instructions and nod.",
+          "transition_zh": "以睁眼后的视线匹配切入已经坐起的Kimi；点头落定后切多地回应。",
+          "transition_en": "Match the awakened eyeline to Kimi already seated upright, omitting the rise; cut to the other locations only after her nod settles.",
+          "action_en": "Kimi已经睁眼并坐起；视野放宽，看见俯身等她的ChatGPT，直接承接分路交代。 GPT低声交代分路，Kimi点头。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "Kimi已经睁眼并坐起；视野放宽，看见俯身等她的ChatGPT，直接承接分路交代。 GPT低声交代分路，Kimi点头。",
+          "effects_zh_override": "月面安静，无风声。 GPT在镜内0.2–6.56秒说完同一句日语；Kimi在镜内6.86–7.37秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        }
+      }
+    },
+    "GB018": {
+      "arc_zh": "五路回应收束回闪，回到柱边抱护，再以宝宝抓紧与千问抬眼带出GPT起飞起咏。",
+      "arc_en": "Five responses close the flashback; present-day reassurance and an upward eyeline lead into GPT's takeoff and chant.",
+      "entry_bridge_zh": "由月背约定接五格，保留各地独立空间；五格结束硬切当前教堂，不让五人同时站进柱边。",
+      "exit_bridge_zh": "GPT已悬停、主水龙尚未出现，起咏气息交给下一批持续；下一批不重复展翼起飞。",
+      "shots": {
+        "CY026E": {
+          "camera_zh": "五格各自定住局部机位；横向显露来自剪辑遮罩而非摄影机横扫，不让角色跨格。",
+          "camera_en": "Keep each of five panel cameras stable. Reveal panels editorially from left to right rather than panning one camera across them; characters never cross panels.",
+          "transition_zh": "承Kimi点头切第一格，再每0.6秒累积显露；最后保留五格，硬切回当前教堂双人近景。",
+          "transition_en": "Cut from Kimi's nod to the first panel, add a panel every 0.6 seconds and retain those already visible; hold the full five-panel view before a hard cut back to the present cathedral.",
+          "action_en": "混元抬眼、Llama放下揉眼的手、智谱合书、Mistral提剑、Perplexity扶眼镜；每0.6秒增加一格，已亮画面保留，最后全屏停留。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "混元抬眼、Llama放下揉眼的手、智谱合书、Mistral提剑、Perplexity扶眼镜；每0.6秒增加一格，已亮画面保留，最后全屏停留。",
+          "effects_zh_override": "供能底声压低不抢字。 GPT在镜内0–3.38秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        },
+        "CY024A0": {
+          "camera_zh": "从被抱小鱼鲸帽后肩、孩子眼高略仰65mm紧近景；千问脸在右上，孩子抓衣小手在下缘，背景虚化；末尾只轻随抬眼。",
+          "camera_en": "Intimate 65mm over-child-shoulder head-and-shoulders close-up, slightly upward. Natural Qwen face upper-right, child clutching collar below. Adult forearms, hands and closed fan remain outside crop. Left-arm support and right-hand fan continue offscreen; slight eye rise at end.",
+          "transition_zh": "硬切回当前柱边；短句说完、宝宝抓稳再切展翼，翼膜声可提前轻入。",
+          "transition_en": "Hard-cut back to the present beside the pillar. After the brief line and the child's grip, cut to the wings; a faint wing sound may lead the cut.",
+          "action_en": "千问在画外继续用左臂承托小鱼、右手低持合扇；镜内不露成人手臂和扇子。她微俯身看向小鱼，完整说抱紧我，小鱼抓紧衣襟靠近。末尾千问抬眼向GPT，镜头轻随，不拉成全身；孩子始终不落地。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "左臂抱稳、右手持扇。 千问在镜内0.1–2.46秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "千问在画外继续用左臂承托小鱼、右手低持合扇；镜内不露成人手臂和扇子。她微俯身看向小鱼，完整说抱紧我，小鱼抓紧衣襟靠近。末尾千问抬眼向GPT，镜头轻随，不拉成全身；孩子始终不落地。"
+        },
+        "CY024A": {
+          "camera_zh": "低位广景随双脚离地向上摇并小幅升机，翼展始终完整，悬停时机位减速，留下穹顶高度参照。",
+          "camera_en": "From a low wide view, tilt up and rise slightly with the feet leaving the floor; keep both wings readable and ease to rest as GPT hovers beneath the vaulted roof.",
+          "transition_zh": "从千问向上的目光切到被看的GPT；脚离地后不再切回起跳，悬停起咏接敌方抬眼。",
+          "transition_en": "Cut along Qwen's upward eyeline to GPT. Do not restart the takeoff after the feet lift; hovering and the incantation lead into the enemy looking up.",
+          "action_en": "GPT展开两片膜翼，下扇扬尘、双脚离地，避开吊灯升至穹顶下方；水珠在前中后景上浮，悬停后起咏。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "展翼、振翼与离地按原动作。千问不重复说话。 GPT在镜内3.79–6.91秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "GPT展开两片膜翼，下扇扬尘、双脚离地，避开吊灯升至穹顶下方；水珠在前中后景上浮，悬停后起咏。"
+        }
+      }
+    },
+    "GB019": {
+      "arc_zh": "敌方单矛、千问单叶偏转形成一条清楚的上升碰撞链，随后罩内安抚把同一句咏唱续完。",
+      "arc_en": "One upward spear meets one fan leaf; the same chant bridges their collision into intimate support inside the shield.",
+      "entry_bridge_zh": "承悬停起咏后敌人仰视，千问仍左臂抱宝宝右手持扇，天空和屋顶此时未破。",
+      "exit_bridge_zh": "拭汗结束但镣铐仍锁、焦损未修复；下一批水珠上升承同一咏唱，不从头呼名。",
+      "shots": {
+        "CY024A9": {
+          "camera_zh": "贴右臂低机位短促上摇承手掌推出，终点停在术光离掌方向，不追完整轨迹。",
+          "camera_en": "Tilt briefly along the thrusting right arm, ending on its upward trajectory.",
+          "transition_zh": "接空中起咏切地面敌人仰视，推出方向交给下一镜扇叶拦截；咏唱不断。",
+          "transition_en": "Cut to the grounded leader looking upward.",
+          "action_en": "教主仍在下段中央缓台，视线锁定高处GPT。低机位贴近他的右臂和侧脸，右肩带动手臂向左上方猛然推出，左臂后收稳住重心，黑金袍摆被发力带起。一枚暗金术矛从掌前迸出，掌根近处有厚实的短促压光，矛体越远越收细，朝高处GPT疾射。攻击只有这一枚离手的实体化术光，不是不断供能的巨炮，也不增加多弹；后镜千问用单枚扇叶偏转它的侧面轨迹。他未变身、未开罩，屋顶此时完整。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "教主仍在下段中央缓台，视线锁定高处GPT。低机位贴近他的右臂和侧脸，右肩带动手臂向左上方猛然推出，左臂后收稳住重心，黑金袍摆被发力带起。一枚暗金术矛从掌前迸出，掌根近处有厚实的短促压光，矛体越远越收细，朝高处GPT疾射。攻击只有这一枚离手的实体化术光，不是不断供能的巨炮，也不增加多弹；后镜千问用单枚扇叶偏转它的侧面轨迹。他未变身、未开罩，屋顶此时完整。",
+          "effects_zh_override": "短促掌前压光爆发接术矛上行破风，咏唱不断；攻击离手后不保留连续炮声。 GPT在镜内0–5.1秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        },
+        "CY024A10": {
+          "camera_zh": "贴近扇轴、沿扇骨斜拍，85mm近摄感；前景扇骨虚化，拇指/轴扣与外缘单叶解锁处清晰，轻随右腕上挑。",
+          "camera_en": "Oblique extreme macro beside the right-hand fan pivot; thumb unlocks, ribs spread and cyan-violet energy follows gold ribs into ONE outer physical leaf. At 1.15s the latch opens; at 1.35s the same narrow leaf releases upward. Fan stays in right hand; left arm supports child offscreen.",
+          "transition_zh": "术矛破风跨切开扇细响；扇叶弹离的方向与下一镜上行一致，不能反向飞回。",
+          "transition_en": "Match the spear threat to the defensive launch.",
+          "action_en": "Oblique extreme macro beside the right-hand fan pivot; thumb unlocks, ribs spread and cyan-violet energy follows gold ribs into ONE outer physical leaf. At 1.15s the latch opens; at 1.35s the same narrow leaf releases upward. Fan stays in right hand; left arm supports child offscreen.",
+          "effects_en": "Soft magical resonance follows the physical motion; existing Japanese chant remains continuous at natural rate.",
+          "effects_zh_override": "0.1秒扇轴短咔；0.2–0.9秒扇骨展开与轻微魔力嗡鸣；1.15秒卡扣响，1.35秒弹脱破空。避让GPT原速跨镜咏唱。"
+        },
+        "CY024A11": {
+          "camera_zh": "在刃尖侧前下方倒退伴飞，近刃清晰、方尾退远虚化；不绕叶、不滚转相机，背景柱廊竖向参照保持。",
+          "camera_en": "Track just ahead and below one ascending physical leaf. Tip upper-right near lens, square tail receding lower-left. A thin cyan-violet envelope hugs the gold edge with a short wake behind the tail; floral surface stays visible. No enemy spear or impact yet, no descent or camera roll.",
+          "transition_zh": "沿上一镜出叶矢量接运动匹配；只在接近交汇点时切侧机位，碰撞留到下一镜。",
+          "transition_en": "Match the rising launch vector; contact follows next.",
+          "action_en": "Track just ahead and below one ascending physical leaf. Tip upper-right near lens, square tail receding lower-left. A thin cyan-violet envelope hugs the gold edge with a short wake behind the tail; floral surface stays visible. No enemy spear or impact yet, no descent or camera roll.",
+          "effects_en": "Soft magical resonance follows the physical motion; existing Japanese chant remains continuous at natural rate.",
+          "effects_zh_override": "细促破风叠轻微法术尾音，尚无撞击声；GPT咏唱保持自然原速，子弹时间只改变视觉。"
+        },
+        "CY024A12": {
+          "camera_zh": "同侧绕开约70度低位定住两条上行轨迹交汇点；接触瞬间轻震，碰撞失速后才随叶片稍下倾。",
+          "camera_en": "Cut about 70 degrees to a slightly wider low side view. One rising leaf strikes one oppositely rising dark-gold spear. Cyan-violet sheath compresses locally into a crescent, a small white-cyan core and a few magical shards; physical leaf remains whole. Spear deflects and disperses; only AFTER contact does the stalled leaf fall.",
+          "transition_zh": "在两条上升轨迹相交时切入；撞响接罩内闷声，不能让高速碰撞打断同一句咏唱。",
+          "transition_en": "Cut roughly 70 degrees from the flight view.",
+          "action_en": "Cut about 70 degrees to a slightly wider low side view. One rising leaf strikes one oppositely rising dark-gold spear. Cyan-violet sheath compresses locally into a crescent, a small white-cyan core and a few magical shards; physical leaf remains whole. Spear deflects and disperses; only AFTER contact does the stalled leaf fall.",
+          "effects_en": "Soft magical resonance follows the physical motion; existing Japanese chant remains continuous at natural rate.",
+          "effects_zh_override": "一次清脆撞响加短促魔力碎散，尾音压为罩外闷声，接Kimi护持；同一句GPT咏唱跨切不断。"
+        },
+        "CY024A1": {
+          "camera_zh": "罩内双人中景小幅侧移至肩背承托关系，停在额侧贴近处；腕扣仍完整入画，机位不穿暗膜。",
+          "camera_en": "Slide slightly inside, retaining locked wrists.",
+          "transition_zh": "撞击尾音压成罩外闷响后切入安静近景，Kimi已收刃，不重拍收刀；咏唱续到本镜完句。",
+          "transition_en": "Muffle the impact before cutting inside.",
+          "action_en": "Kimi's blades are already stowed. She supports Claude's shoulder and upper arm, temples close. Claude remains upright, wrists locked, feet supported, only leaning her head slightly and exhaling. The opaque shield hides everything outside; no unlocking or lifting.",
+          "effects_en": "Clothing, breathing, muffled hostile spells and distant water."
+        },
+        "CY024A2": {
+          "camera_zh": "从前镜肩部支点匹配切面肩近景，轻微焦点转移由拭汗指尖到Claude眼神；摄影机保持侧位。",
+          "camera_en": "Focus from wiping fingers to Claude's eyes.",
+          "transition_zh": "拭汗承同一次安抚，不让Kimi松开后重新抱；暗膜隔绝外景，声音只带入远潮。",
+          "transition_en": "Continue the same reassurance without re-embracing.",
+          "action_en": "Kimi轻轻拨开Claude额前汗湿的发丝，指尖拭去鬓侧汗水；另一只手拨开落在领侧的发梢，查看肩侧衣料焦损与可见皮肤。Claude疲惫地望向她，把头微微靠向触碰。检查不掀衣、不拉扯束具，腕扣仍锁着，焦损衣料没有恢复。暗膜内侧遮住全部外景，柔和冷光托出两人的表情。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "Kimi轻轻拨开Claude额前汗湿的发丝，指尖拭去鬓侧汗水；另一只手拨开落在领侧的发梢，查看肩侧衣料焦损与可见皮肤。Claude疲惫地望向她，把头微微靠向触碰。检查不掀衣、不拉扯束具，腕扣仍锁着，焦损衣料没有恢复。暗膜内侧遮住全部外景，柔和冷光托出两人的表情。",
+          "effects_zh_override": " GPT在镜内0–7.24秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        }
+      }
+    },
+    "GB020-1": {
+      "arc_zh": "水息上浮，合滴回弹；云腹聚水，倒悬之海",
+      "arc_en": "Continue the actions below in their listed order, without restarting ongoing motion or speech.",
+      "entry_bridge_zh": "从罩内冷光切液面月光，以上升方向接天空水海，不把护罩当水源。",
+      "exit_bridge_zh": "云腹水海成形，接高空俯冲。",
+      "shots": {
+        "CY024A3": {
+          "camera_zh": "微距随大滴缓慢上移，小幅拉焦接近的小滴，合并后回到大滴轮廓；不变成雨滴下落。",
+          "camera_en": "Track upward slowly with the large droplet, briefly focusing on smaller approaching drops and returning to its outline after they merge; never turn the motion into falling rain.",
+          "transition_zh": "从罩内冷光切液面月光，以上升方向接天空水海，不把护罩当水源。",
+          "transition_en": "Cut from the cool shield interior to moonlight on the liquid; its upward movement leads into the suspended sky-sea, without implying that the shield is the water source.",
+          "action_en": "大水珠晃动、拉长回弹，小滴向上靠近并融入；云影逐渐掩月，上浮方向引向下一镜云腹。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "仅视觉换镜，声音不重起。液桥轻响和高空长风，无雨雷电。 GPT在镜内0–6.44秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "大水珠晃动、拉长回弹，小滴向上靠近并融入；云影逐渐掩月，上浮方向引向下一镜云腹。"
+        }
+      }
+    },
+    "GB020-1R2": {
+      "arc_zh": "水息上浮，合滴回弹；云腹聚水，倒悬之海",
+      "arc_en": "Continue the actions below in their listed order, without restarting ongoing motion or speech.",
+      "entry_bridge_zh": "接上一批同一场景，延续前镜状态；不重说、不重演。",
+      "exit_bridge_zh": "云腹水海成形，接高空俯冲。",
+      "shots": {
+        "CY024A6": {
+          "camera_zh": "地面低角大全景先保留完整教堂轮廓，再慢慢上摇让云中海占据上方；机位不上云。",
+          "camera_en": "Start low with the intact cathedral silhouette, then tilt slowly upward as the suspended sea fills the upper frame; keep the camera on the ground.",
+          "transition_zh": "水珠上升方向接云腹旋卷，水面中心收拢时切高空陡俯；长风跨镜不重启。",
+          "transition_en": "Continue the droplet ascent into converging clouds, cutting high overhead as the water gathers centrally; carry the wind across the cut.",
+          "action_en": "切到教堂外低处，从地面仰拍中殿上空。完整尖塔与屋顶轮廓压在下缘，层层深蓝云壁向中心旋卷，上浮水珠融入云腹；云褶之间托住连续的深蓝水面，银色月光沿涟漪流动，仿佛整片海悬于夜空。水只在高空汇聚，没有闪电或发光法环。云心正对中央中殿，后殿不在破坏区。镜末水面向中心收拢，为下一镜水龙下行蓄势。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "高空长风与潮鸣压低，原云腹聚海与中心收拢不变。 GPT在镜内0–3.92秒说完同一句日语；GPT在镜内4.22–11.25秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "切到教堂外低处，从地面仰拍中殿上空。完整尖塔与屋顶轮廓压在下缘，层层深蓝云壁向中心旋卷，上浮水珠融入云腹；云褶之间托住连续的深蓝水面，银色月光沿涟漪流动，仿佛整片海悬于夜空。水只在高空汇聚，没有闪电或发光法环。云心正对中央中殿，后殿不在破坏区。镜末水面向中心收拢，为下一镜水龙下行蓄势。"
+        }
+      }
+    },
+    "GB020-2": {
+      "arc_zh": "俯冲，水龙直下穹顶",
+      "arc_en": "Continue the actions below in their listed order, without restarting ongoing motion or speech.",
+      "entry_bridge_zh": "接云心收拢直接切龙首背面下冲；同一撞点只破一次，裂声跨接下一近景。",
+      "exit_bridge_zh": "龙首触顶，石瓦开裂；接同一撞点特写。",
+      "shots": {
+        "CY024A7": {
+          "camera_zh": "高空陡俯跟龙首下坠，镜头沿其轴线偏侧下降，教堂保持远处高度参照；触顶时停止跟进准备切。",
+          "camera_en": "From a steep high angle, descend beside the water dragon's axis as the head falls, retaining the distant cathedral as a scale reference; stop following at roof contact for the cut.",
+          "transition_zh": "接云心收拢直接切龙首背面下冲；同一撞点只破一次，裂声跨接下一近景。",
+          "transition_en": "Cut from the converging cloud center to the back of the diving head. Break the roof at one site only and bridge the first crack into the next close shot.",
+          "action_en": "摄影机切到教堂上方，以陡俯视角随水龙从云腹向下。近处是水龙向下弯折的厚重长颈与龙首背面，远处尖塔、长条中殿屋脊和后殿构成高度参照。单一深蓝水龙从前景上方斜冲中央中殿屋顶，体躯有明显透视缩短，龙首先至、长身随后。镜末吻部撞上中殿指定位置，石瓦开裂形成第一处缺口；后殿屋顶与左右侧窗完整。水龙没有从手或地面生出。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "长风与下坠水鸣不盖句末，屋顶第一处裂响落镜末，跨接下一镜同一个撞点。 GPT在镜内0–5.35秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "摄影机切到教堂上方，以陡俯视角随水龙从云腹向下。近处是水龙向下弯折的厚重长颈与龙首背面，远处尖塔、长条中殿屋脊和后殿构成高度参照。单一深蓝水龙从前景上方斜冲中央中殿屋顶，体躯有明显透视缩短，龙首先至、长身随后。镜末吻部撞上中殿指定位置，石瓦开裂形成第一处缺口；后殿屋顶与左右侧窗完整。水龙没有从手或地面生出。"
+        }
+      }
+    },
+    "GB021": {
+      "arc_zh": "同一破顶从下方承接，罩内检查与敌方仰视交替，反应切镜为水龙回卷盘身提供省略。",
+      "arc_en": "The same breach continues from below; protected inspection and the enemy reaction cover the dragon's turn into a coil.",
+      "entry_bridge_zh": "龙首已触顶，不能重新飞回云海再次撞下；近景只展开同一个中央中殿破口。",
+      "exit_bridge_zh": "教主尚未张罩，水龙已在画外盘稳；下一批回GPT时直接是结印盘龙，不再重演盘起。",
+      "shots": {
+        "CY024A5A": {
+          "camera_zh": "18mm超广角藏破口下沿偏轴仰拍，让龙首越近景放大掠过；只在擦近时一次短震，不追甩。",
+          "camera_en": "Place an 18mm ultra-wide camera just below the breach and off the dragon's axis, letting the head grow rapidly and pass nearby; use one brief proximity jolt without a whip-pan.",
+          "transition_zh": "以同一石瓦裂声和撞点匹配切入下方，先裂石再水腹掠过；接反应切镜省略回卷。",
+          "transition_en": "Match the same roof crack and contact point from below; stone gives way before the thick water body passes. Reaction cuts then omit the coiling movement.",
+          "action_en": "The same central-nave breach has just opened. From its lower edge, the dragon's head rushes from upper-left distance to lower-right foreground; muzzle and jaw enlarge and pass while its long neck narrows back into the opening. Preserve the brow and one eye as a near arch fragment crosses the foreground and smaller rubble follows. Motion blur belongs mostly to rubble and background. The dragon turns outside GPT's position after entering; debris falls into an empty side aisle, avoiding the chandelier and allies. The apse is untouched and no second hole appears. The following reactions cover its turn into a coil around GPT. Water-dragon eyes are dark fluid refraction, without solid eyeballs, iris, pupils or fixed glints.",
+          "effects_en": "A close crisp stone crack leads a low roof-breaking impact, nearby rubble scrapes recede and water rushes past. No dialogue or thunder in this shot.",
+          "action_zh_override": "承接俯视镜末的同一撞点，机位藏在中殿穹顶破口下沿，偏离水龙轴线，以超广角向上迎拍。龙首从左上远处猛冲向右下近处，鼻吻和下颌迅速放大并掠出画边，长颈缩向同一破口，保留龙眉与一只眼的清晰体积。近前景一块断拱石擦过画边，后层小碎石与粉尘沿冲势飞落，形成明确的近大远小；运动模糊集中于碎石边缘与背景，水首关键轮廓仍清楚。先听石材断裂，后见厚重水腹掠过机位；摄影机只在擦过瞬间短促受震，不持续乱抖。水龙进入中殿后转向GPT外侧，碎块落往无人侧廊，避开吊灯和友方。始终只有中央中殿同一个破口，后殿不受损；接Kimi与教主反应切镜，跨切完成回卷盘身。 水龙眼窝为流体折射暗部，无实体眼球、虹膜、瞳孔或固定亮点。"
+        },
+        "CY024A4": {
+          "camera_zh": "罩内侧面中近景随Kimi屈膝缓慢下摇，停在脸、手、踝扣和脚托同框，不给跨罩外的揭示。",
+          "camera_en": "Tilt down gently with Kimi kneeling inside, settling on her face, hands, ankle restraints and fixed footrest together; never reveal the exterior through the shield.",
+          "transition_zh": "破顶轰鸣进入罩内变闷，接手靠近踝扣；GPT继续画外咏唱，不让两人代说。",
+          "transition_en": "Muffle the roof roar on entering the shield and follow the hand approaching the ankle lock; GPT continues offscreen and neither visible character speaks her line.",
+          "action_en": "Kimi在脚托旁蹲下，一只空手轻托Claude踝扣上方的小腿，另一只手查看外侧链环与锁扣连接，动作轻，不强拉、不解锁。Claude双腿垂直，双踝仍锁，赤足稳踩十字架立柱上的窄脚托。镜头带到Kimi专注的脸与双手，双刃收在后腰；衣裙自然垂落，原有白金纹样和黑色焦损保持。罩内石地净空，没有燃木和外界窗光。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "破顶尾响进入罩内变闷。Kimi蹲下检查踝扣、锁链轻响与呼吸，最高祭坛不受水撞击。 GPT在镜内0–4.76秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "Kimi在脚托旁蹲下，一只空手轻托Claude踝扣上方的小腿，另一只手查看外侧链环与锁扣连接，动作轻，不强拉、不解锁。Claude双腿垂直，双踝仍锁，赤足稳踩十字架立柱上的窄脚托。镜头带到Kimi专注的脸与双手，双刃收在后腰；衣裙自然垂落，原有白金纹样和黑色焦损保持。罩内石地净空，没有燃木和外界窗光。"
+        },
+        "CY024A8": {
+          "camera_zh": "教主近景轻随抬眼上摇一点，保持屋顶画外，让银蓝反光滑过脸侧揭示水龙运动。",
+          "camera_en": "In the leader's close-up, tilt only slightly with his rising gaze and keep the roof offscreen; moving silver-blue reflections reveal the passing dragon.",
+          "transition_zh": "从罩内手部检查切到教主听声反应，水身回卷声跨切，不能再拍一次破顶。",
+          "transition_en": "Cut from the interior inspection to the leader reacting to the sound; bridge the coiling-water resonance without showing another roof break.",
+          "action_en": "教主仍在下段中央缓台，听到破顶巨响，抬眼追踪已经入殿的水龙；眉眼绷紧，另一只手抬起准备护身。画外龙身经过高处投下流动的银蓝反光，脸侧仍有尚未扑灭的火盆暖光。这个近景不显示屋顶；中殿已破，后殿完整，教主衣袍仍干，暗金护罩尚未展开。GPT在反应切镜期间持续结印，水龙沿她身后外侧回卷。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "破顶尾响衰减、水身回卷与衣料；教主只追视与抬手准备，不提前开罩。 GPT在镜内0–5.18秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "教主仍在下段中央缓台，听到破顶巨响，抬眼追踪已经入殿的水龙；眉眼绷紧，另一只手抬起准备护身。画外龙身经过高处投下流动的银蓝反光，脸侧仍有尚未扑灭的火盆暖光。这个近景不显示屋顶；中殿已破，后殿完整，教主衣袍仍干，暗金护罩尚未展开。GPT在反应切镜期间持续结印，水龙沿她身后外侧回卷。"
+        }
+      }
+    },
+    "GB022-1": {
+      "arc_zh": "居中结印，水龙盘身；解印，一指出击",
+      "arc_en": "Continue the actions below in their listed order, without restarting ongoing motion or speech.",
+      "entry_bridge_zh": "接教主仰望切其视线对象；龙已盘成不再绕一遍，救赎句后留声音空隙再报术名。",
+      "exit_bridge_zh": "右臂一次前指，水龙响应并启动俯冲，尚未命中。",
+      "shots": {
+        "CY024A5": {
+          "camera_zh": "正面略低中远景缓慢小幅靠近，面部、胸前手印和一圈前低后高的水龙始终可读；术名结束即收停。",
+          "camera_en": "Push in slowly from a slightly low frontal medium-wide view, preserving the face, chest-level seal and three-dimensional dragon coil; settle at the spell name.",
+          "transition_zh": "接教主仰望切其视线对象；龙已盘成不再绕一遍，救赎句后留声音空隙再报术名。",
+          "transition_en": "Cut along the leader's raised eyeline to the caster; the dragon is already coiled. Leave the planned sonic gap before the spell name.",
+          "action_en": "切回正面略低的中远景。GPT悬空直立在构图中央，双翼舒展，双手在胸前结印：两手相扣、食指并拢竖起，手腕与肘部自然，面部与手势完整可见。水龙已经在她周围盘成宽松立体的一圈，后段高过翼背，近处前段低于膝部，体躯前粗后细、有透视缩短，不勒住人物。龙首停在画面右侧肩旁，三分之二侧面朝向前下方敌人，深蓝水腹有眉骨、吻部、下颌与转颈的体积，浪鬃沿脊背流动；不是实体冰龙或平面圆环。她不伸手抚龙，不反复指点。镜头缓慢靠近，完成祈愿与报术名；救赎后音乐收声半拍。术名最后一字只完成蓄势，双手仍未解印，水龙仍盘在身边，没有提前攻击。 以本版对白窗口完成祈愿，完整保留0.8秒空窗，再报术名。词尾结束后闭口蓄势至镜尾；下一镜才解印出击。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "切回正面略低的中远景。GPT悬空直立在构图中央，双翼舒展，双手在胸前结印：两手相扣、食指并拢竖起，手腕与肘部自然，面部与手势完整可见。水龙已经在她周围盘成宽松立体的一圈，后段高过翼背，近处前段低于膝部，体躯前粗后细、有透视缩短，不勒住人物。龙首停在画面右侧肩旁，三分之二侧面朝向前下方敌人，深蓝水腹有眉骨、吻部、下颌与转颈的体积，浪鬃沿脊背流动；不是实体冰龙或平面圆环。她不伸手抚龙，不反复指点。镜头缓慢靠近，完成祈愿与报术名；救赎后音乐收声半拍。术名最后一字只完成蓄势，双手仍未解印，水龙仍盘在身边，没有提前攻击。 以本版对白窗口完成祈愿，完整保留0.8秒空窗，再报术名。词尾结束后闭口蓄势至镜尾；下一镜才解印出击。",
+          "effects_zh_override": "水龙与双手持续蓄势，全镜无攻击、撞盾或提前重音。 GPT在镜内0–3.8秒说完同一句日语；GPT在镜内4.6–6.11秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。 祈愿与术名之间音乐静音0.8秒，保留后期水声；全镜无攻击和撞盾。"
+        },
+        "CY024A5B": {
+          "camera_zh": "同侧轴膝上景轻随右肩前送横移，手与龙首同时留框；不超过一次指令，不用甩镜越轴。",
+          "camera_en": "From the same side in a knee-up view, track slightly with the right shoulder thrust, keeping hand and dragon head visible without crossing the axis.",
+          "transition_zh": "在术名落定、双手仍扣住时切近；先解印前指再龙首响应，以冲向右前下方接撞盾。",
+          "transition_en": "Cut closer after the name while the hands remain joined; the seal opens before the dragon responds, launching down toward screen right.",
+          "action_en": "GPT first fixes her gaze on the leader below, separates her hands, retains the left at her chest and drives her right arm forward and down once with the index finger extended. No water comes from the fingertip. The dragon turns its head, twists the long neck and opens its raised-back, lowered-front coil into one descent toward the right foreground. The gesture precedes the response; no shield splash or contact occurs yet. Water-dragon eyes are dark fluid refraction, without solid eyeballs, iris, pupils or fixed glints.",
+          "effects_en": "Quiet sleeves as the hands separate, then accelerating water after the single forward point. Save impact for the next shot.",
+          "action_zh_override": "同侧动作轴切近至膝上，承接上一镜仍相扣的双手。GPT先抬眼锁定画外前下方的教主，双手分开，左手留在胸前，右肩带动右臂向前下方一次指出，食指伸出，其他手指自然收拢。指尖不喷水。水龙先转首响应，长颈随之扭转，后高前低的盘势舒展开，整条水龙向画面右前下方冲去。先有人物指令，后有水首响应；本镜只启动俯冲，不提前出现撞盾水花。 水龙眼窝为流体折射暗部，无实体眼球、虹膜、瞳孔或固定亮点。"
+        }
+      }
+    },
+    "GB022-2": {
+      "arc_zh": "低机位撞盾，水首压境",
+      "arc_en": "Continue the actions below in their listed order, without restarting ongoing motion or speech.",
+      "entry_bridge_zh": "顺龙首左上到右下的冲势匹配切；真正贴盾才起重音，末尾水首散成浪引向下阶。",
+      "exit_bridge_zh": "龙首撞散为浪，供水停止；余水冲向两侧，最高祭坛罩边仅浅水低浪。",
+      "shots": {
+        "CY024B": {
+          "camera_zh": "教主侧后膝高24mm机位不越盾，接触瞬间短促后让，随后稳住让水幕从前景掠过，保留压盾接点。",
+          "camera_en": "Hold a 24mm knee-high view behind the leader's side, recoil briefly at contact, then stabilize while foreground water passes and the contact point remains readable.",
+          "transition_zh": "顺龙首左上到右下的冲势匹配切；真正贴盾才起重音，末尾水首散成浪引向下阶。",
+          "transition_en": "Match the upper-left to lower-right attack; impact sounds only on shield contact. The dissolving head passes its momentum into the lower steps.",
+          "action_en": "The leader braces in the right foreground, knees bent and arms raised beneath his newly formed dark-gold shield. The dragon drives from upper left onto the shield's upper-left curve; its muzzle becomes heavy surf only at contact while brow, eye and trailing neck remain readable. The shield compresses locally, robe and body recoil without falling. Following water rushes down the side steps, dispersing cultists and extinguishing remaining fire. GPT and the highest altar stay offscreen and unharmed; the head dissolves fully and supply stops, leaving retreating water without new structural damage. Water-dragon eyes are dark fluid refraction, without solid eyeballs, iris, pupils or fixed glints.",
+          "effects_en": "One low contact impact and brief shield resonance, followed by heavy water on stone, snapping fabric and distant wordless cries. No thunder or allied-shield impact.",
+          "action_zh_override": "承接GPT一次前指，切到教主侧后方、护罩外的膝高低机位，保持水龙从左上冲向右下的屏幕方向。教主在右侧近前景以错步屈膝站稳，双臂上举撑住已经成形的暗金罩，仰头迎着压来的龙首；没有跪下或转身逃跑。巨大龙首从高处压入金罩左上弧面，鼻吻在直接接触处才碎成厚重白浪，眉骨、眼和后颈仍可辨，不留空隙、不张口吐水。金罩在同一接触点局部压平，金色纹路沿罩面扩开，放射水幕从接触区向画边掀出；教主外袍向后翻起，身体承压后移但尚未跌倒。后随水身继续冲入，画面下缘的余水沿两侧石阶冲散边缘教徒并扑灭残柴。GPT和最高祭坛此镜均在画外；友方暗月罩安稳，中央上层石阶允许浅水和低缓退浪，后续B3再交代整体安全空间。镜末水首完全散成浪，画外GPT收势停止补水，余水继续下行；不新增破口、不破侧窗，不让友方护罩承受水流。 水龙眼窝为流体折射暗部，无实体眼球、虹膜、瞳孔或固定亮点。"
+        }
+      }
+    },
+    "GB023": {
+      "arc_zh": "下阶冲散完成后先看安稳浅水与不透明罩，再进罩内安抚，最后GPT落地转入对峙。",
+      "arc_en": "The lower surge disperses enemies, subsides around the opaque shield, then gives way to reassurance and GPT's landing.",
+      "entry_bridge_zh": "承撞盾产生的同一退浪；教徒受水推离，友方罩边只有浅水，不把护罩当挡水坝。",
+      "exit_bridge_zh": "GPT已两脚落稳、收翼、走到教主前，普通灯火均灭；下一批直接质问，不重复降落。",
+      "shots": {
+        "CY024B1": {
+          "camera_zh": "贴水低机位沿下游轻侧向跟随前景抓石的手，保持三级人物错落深度；不跟人飞起。",
+          "camera_en": "Track gently downstream near water level with the foreground grasping hand, keeping staggered figures at three depths; no airborne stunt tracking.",
+          "transition_zh": "承前撞盾放出的同一余浪切下阶，抓握滑脱到水势减弱后切环境，水声连续下降。",
+          "transition_en": "Cut to the lower stairs on the same released surge; after the grip slips and the flow weakens, cut to the aftermath with decaying water sound.",
+          "action_en": "On the lower outer steps, residual water pushes a foreground black-and-gold-robed cultist downstream as he twists and his fingers slip from a wet stone edge. Heavy water hides the waist and chest while the robe trails with it. Another figure loses footing sideways and a third reacts too late farther back. A dropped staff spins downstream. The upper shield is distant beside low shallow water, never surrounded by a high wall of surf. The force subsides.",
+          "effects_en": "Heavy nearby water slaps steps, a hand scrapes and slips, one wordless cry and a staff scraping water. Only light water sound at the upper shield."
+        },
+        "CY024B3": {
+          "camera_zh": "左侧高位斜俯缓慢后退少许，沿排水方向展示台阶落差和罩边浅水，不绕罩窥看内部。",
+          "camera_en": "Ease backward from a high oblique left view, revealing drainage over step drops and shallow water around the shield without orbiting to see inside.",
+          "transition_zh": "下阶厚浪衰成浅水后切安稳罩体；此处只余波，不重新制造冲击波。",
+          "transition_en": "Let the lower surge decay into shallow drainage before the shield view; show aftermath only, not a fresh impact wave.",
+          "action_en": "The main dragon and attack surge have ended. An opaque, calm dark shield occupies the upper platform in the mid-background. Wet stone, thin ripples and low retreating water reach its base, with no artificial dry moat. Residual water drains unevenly down outer steps in small splashes. Ordinary lights are extinguished; the central rear window stays broken while side windows and the apse remain intact. The shield receives no water strike and its occupants remain invisible from outside.",
+          "effects_en": "The preceding heavy surf falls away rapidly, leaving shallow drips and the large hall's empty resonance."
+        },
+        "CY024B3A": {
+          "camera_zh": "罩内双人中近景定住两人的承托三角，轻微呼吸和发丝运动负责松弛，不推到遮住腕扣。",
+          "camera_en": "Hold the interior medium close-up on the supporting arms and temples, leaving locked wrists visible as breathing and hair movement express relaxation.",
+          "transition_zh": "由罩外浅水切罩内低声，声场立刻隔远；同一抱护持续，不重新扑抱。",
+          "transition_en": "Cut from outside shallows to the muted interior; continue the existing support rather than staging a new embrace.",
+          "action_en": "With the external impact over, Claude leans tiredly toward Kimi. One empty hand supports the back of her head and the other arm steadies her shoulder, back and upper arm, their temples close. Claude stays upright and bound, wrists fixed to the crossbeam and ankles unchanged on the footrest. Kimi's blades remain stowed. The opaque interior is calm with no pressure dents, flashes or exterior view; Kimi is not straining against GPT's spell. End in quieter breathing.",
+          "effects_en": "Water sounds become distant through the membrane, with close gentle breathing. No new impact or shield-pressure roar."
+        },
+        "CY027": {
+          "camera_zh": "低位中远景由落脚水面轻上摇至收翼后的GPT，下降用人物位移，镜头不夸张升降抢动作。",
+          "camera_en": "From a low medium-wide view, tilt gently from the landing ripples to GPT as her wings fold, allowing her descent to supply the main movement.",
+          "transition_zh": "余水声承前，鞋尖触水才有近处轻响；落稳收翼后接走向教主的视线。",
+          "transition_en": "Carry the residual water forward; sound the first close splash on toe contact, then follow the gaze toward the leader after landing and folding wings.",
+          "action_en": "GPT remains airborne near the entrance after the water supply stops. She brakes with her wings, touches one shoe tip into shallow water, sets the other foot firmly, folds both wings and approaches the leader on his original landing. The highest altar remains entirely covered by the opaque shield, concealing Kimi, Claude and the cross. Preserve the central rear-window breach and intact side windows. End with GPT grounded, facing the leader across the short steps.",
+          "effects_en": "Low retreating water, a final wingbeat, a shoe-tip splash and wet footsteps. No extra dialogue."
+        }
+      }
+    },
+    "GB024": {
+      "arc_zh": "条约质问与简短回应之后，双方分别变身，再通过同一已有破口离殿升空。",
+      "arc_en": "A charge and terse reply precede the two transformations and their ascent through the existing breach.",
+      "entry_bridge_zh": "承同一地面对峙轴，最高祭坛仍由不透明罩遮住；不提前展示解锁后的Claude。",
+      "exit_bridge_zh": "白紫龙形与鸦翼教主均已穿顶，下一批先外景对峙再转宝宝目光，不能再破一次屋顶。",
+      "shots": {
+        "CY027A": {
+          "camera_zh": "从GPT肩旁的中景保持同轴，缓缓侧移一小步让挡路站位更清楚，教主说话时停止移动。",
+          "camera_en": "Stay over GPT's shoulder on the established axis; slide slightly to clarify the blocked route, then stop as the leader speaks.",
+          "transition_zh": "接落地脚步减停切教主质问，保持GPT左侧近处、教主前方缓台的关系。",
+          "transition_en": "Let the landing footsteps stop into the accusation, retaining GPT near-left and the leader on the landing ahead.",
+          "action_en": "GPT在左侧近处，教主正前方下段缓台拦路；两人在破碎穹顶下对话，保持沧龙出海镜的前后关系。 最高祭坛仍被不透明暗月罩完整包住，罩外看不到Kimi、Claude和刑架；正后中央窗破口持续存在，左右窗完整。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": " 教主／Claude的父亲在镜内0.1–2.89秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "GPT在左侧近处，教主正前方下段缓台拦路；两人在破碎穹顶下对话，保持沧龙出海镜的前后关系。 最高祭坛仍被不透明暗月罩完整包住，罩外看不到Kimi、Claude和刑架；正后中央窗破口持续存在，左右窗完整。"
+        },
+        "CY027B": {
+          "camera_zh": "面部特写有意定住，目光抬起与短答构成力量变化，答后保留半拍再让水光进入。",
+          "camera_en": "Deliberately hold the facial close-up; the raised eyes and short reply create the shift. Wait half a beat before water-light enters.",
+          "transition_zh": "沿对峙轴反打GPT，短答只一次，末尾气流承接变身。",
+          "transition_en": "Reverse to GPT along the confrontation axis. Her single short reply leads through a pause into the transformation airflow.",
+          "action_en": "她抬眼，平静地说出“聒噪”。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "她抬眼，平静地说出“聒噪”。",
+          "effects_zh_override": "短答后留半拍，再接气流。 GPT在镜内0.2–1.13秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        },
+        "CY027B1": {
+          "camera_zh": "近低机位沿同一上升轨迹轻仰跟，主体前后连续；背景中殿已破顶，后殿不新增破口。",
+          "camera_en": "One continuous subject transforms: GPT rises inside white-violet waterlight as her body silhouette becomes the long dragon body, with white horns and violet mane continuing the same motion. No complete humanoid beside an independently summoned complete dragon. Finish the transformation and preserve the subsequent upward exit direction.",
+          "transition_zh": "承前水光包身切变形，白角紫鬃从同一身体展开；不重做此前蓝水龙法术。",
+          "transition_en": "Continue the enveloping light into one transformation; white horns and violet mane emerge from the same body, distinct from the earlier summoned blue dragon.",
+          "action_en": "One continuous subject transforms: GPT rises inside white-violet waterlight as her body silhouette becomes the long dragon body, with white horns and violet mane continuing the same motion. No complete humanoid beside an independently summoned complete dragon. Finish the transformation and preserve the subsequent upward exit direction.",
+          "effects_en": "Spiraling water develops into a low dragon resonance.",
+          "action_zh_override": "白紫水光裹住GPT，她腾起。人形轮廓在同一次上升中转为长身水龙，白角与紫鬃连续延展；下段衣褶与饰物在水光里消散并转为白鳞。阶段画面只有一个连贯主体，没有完整人形站在独立龙首旁。2秒镜尾服装残形全部消失，完整龙形向上，接教主变身与双方穿顶。"
+        },
+        "CY027B2": {
+          "camera_zh": "低仰中景轻后退容纳黑金翼展开，教主面部保持可辨；不抬机越过上升者。",
+          "camera_en": "Ease back in a low medium view to accommodate the dark-gold wings, keeping the leader's face readable rather than rising past him.",
+          "transition_zh": "对切敌方回应变身，羽翼声接水流旋声，维持地面到空中的同向高度增长。",
+          "transition_en": "Countercut to the enemy's response, joining wing noise to the water spiral while maintaining the same upward escalation.",
+          "action_en": "The leader begins above the wet floor as dark-gold force gathers behind him. He rises, opening black-and-gold raven wings while retaining a recognizable humanoid face and body. End with the wings fully opened and his feet lifted, ready to ascend through the existing breach.",
+          "effects_en": "Feather and wing vibration with dark-gold magical resonance."
+        },
+        "CY027B3": {
+          "camera_zh": "湿地贴地大仰角沿石柱上摇，保持柱线汇聚与已有破口，双主体从下向上穿出，不升机追出殿外。",
+          "camera_en": "Tilt upward from the wet floor along converging columns, retaining the existing breach as both figures rise through it; do not follow outside.",
+          "transition_zh": "两次变身完成后切共同空间，先后穿同一破口；回声在出顶时变开阔。",
+          "transition_en": "Re-establish the shared space after both transformations; they pass through the same opening one after another as reverberation opens out.",
+          "action_en": "The white-violet water dragon and raven-winged leader have already transformed inside the nave. Seen from the wet stone floor, they shoot upward between tall columns, one behind the other, and pass through the roof opening already made by the earlier spell. No new breach is created. End as both reach the exterior sky.",
+          "effects_en": "Rushing air and wingbeats rise through the hall; the acoustics open as they clear the roof."
+        }
+      }
+    },
+    "GB025": {
+      "arc_zh": "空中对峙落到宝宝眼中光影，以天空雷雨省略交战；雨滴的声音引出外院新敌。",
+      "arc_en": "The sky standoff becomes reflected light in the child's eyes; storm inserts imply battle and lead to new courtyard attackers.",
+      "entry_bridge_zh": "承穿顶后的外部空间，白紫龙是GPT本体；自然雷雨此时开始，不能倒灌进先前纯水法术。",
+      "exit_bridge_zh": "岗哨在门槛外挡住新来教徒，示警传向殿内；下一批八位同伴应声守门，不让倒地旧敌复活。",
+      "shots": {
+        "CY027C": {
+          "camera_zh": "屋顶上方中远景轻微弧移到两者侧面，保持间距和互相视线，2秒内不新增招式。",
+          "camera_en": "Make a restrained lateral arc above the roof to read their separation and opposing eyelines; add no combat maneuver within this brief view.",
+          "transition_zh": "接穿顶方向切外部已到位对峙，水龙盘身不再重复升空；远雷引向宝宝。",
+          "transition_en": "Match the exit direction to the exterior standoff without repeating ascent; distant thunder prepares the child's reaction.",
+          "action_en": "Both are now above the cathedral. The white-violet dragon coils its long body while the black-and-gold raven-winged leader hovers opposite. Their forces face one another across the night sky. Preserve their separation without inventing detailed attacks. End ready for the child to look up and see the pale dragon light.",
+          "effects_en": "Air through the water dragon and wings, leading into distant thunder."
+        },
+        "CY025": {
+          "camera_zh": "眼部极近特写定镜，微小焦点调整落在泪光与蓝虹膜，倒影只模糊向上滑动。",
+          "camera_en": "Hold an extreme eye close-up with a tiny focus adjustment on tears and blue irises; only a blurred reflected light moves upward.",
+          "transition_zh": "从天空空间切宝宝仰视反应，远处龙影只在眼中出现，不复制小型实体龙。",
+          "transition_en": "Cut from the sky to the child's upward reaction; the dragon appears only as blurred reflected light, never a tiny physical duplicate.",
+          "action_en": "DeepSeek remains securely held by Qwen. She raises her tired eyes; indistinct white-violet ascending light glimmers in the blue irises while the tear sheen trembles. The pupil stays clearly visible and is not replaced by a detailed dragon image. End with that light moving upward toward the following sky shot.",
+          "effects_en": "The ascending water sound trails away as distant thunder begins."
+        },
+        "CY027E": {
+          "camera_zh": "钟楼上方天空长焦定镜，让云层、闪光和雨进入承担时间省略，不寻找战斗主体。",
+          "camera_en": "Hold on the sky above the bell tower, letting clouds, flashes and incoming rain carry the time ellipsis without searching for fighters.",
+          "transition_zh": "承宝宝眼中亮影切夜云闪光；雷雨只从此段自然发展，不能倒带成前段水咒电击。",
+          "transition_en": "Cut from reflected light to illuminated night clouds. Natural storm sounds develop here, not as retroactive electrical effects for the earlier water spell.",
+          "action_en": "The combatants fight offscreen above the church. Show a close view of the night sky over the tower: lightning illuminates clouds and rain gradually starts, while several low thunder sounds imply the omitted fight. Do not reveal or invent their individual moves. End with rainfall underway.",
+          "effects_en": "Rain thickens; three separated low thunder beats correspond to flashes, continuing toward the floor insert."
+        },
+        "CY027E1": {
+          "camera_zh": "贴石板微距低机位缓慢滑移一小段，涟漪焦点稳定，反射闪光掠过；不仰拍揭招式。",
+          "camera_en": "Slide a short distance close to the stone floor, maintaining ripple focus as reflected flashes pass; do not tilt up to reveal combat.",
+          "transition_zh": "天空雨落匹配切地面雨点，雷尾衰减中提前出现门外脚步。",
+          "transition_en": "Match falling sky rain to drops on the floor, introducing courtyard footsteps while the thunder tail recedes.",
+          "action_en": "Rain falls through the existing nave breach onto wet stone. Ripples carry brief white-violet and dark-gold reflections of the offscreen fight. Thunder approaches and then recedes. End with footsteps beginning beyond the doorway, setting up the new courtyard threat.",
+          "effects_en": "Close raindrops and ripples with fading distant thunder; approaching courtyard footsteps enter near the end."
+        },
+        "CY027D0": {
+          "camera_zh": "门槛内中远景定住两侧岗哨，轻微前移到横枪阻挡线即停，让敌人汇入形成压迫。",
+          "camera_en": "Hold the sentries at both edges from inside the threshold, moving slightly toward the crossed spears before stopping as enemies converge.",
+          "transition_zh": "雨中脚步先入再切可见外院教徒；示警尾音向内接下一批，不让敌人瞬移后排。",
+          "transition_en": "Lead with rain-soaked footsteps, then reveal the courtyard cultists; carry the warning inward without teleporting enemies behind the defense.",
+          "action_en": "Water has receded while the aerial fight remains offscreen. New cultists emerge from both outer corridors and gather in front of the broken-open entrance. The posted knights bring spears across the threshold to block them. Keep the approaching enemies outside in this shot. End with a wordless warning reaching the companions inside.",
+          "effects_en": "Dense footsteps in rain, armor and spear contact, and one wordless warning cry."
+        }
+      }
+    },
+    "GB026": {
+      "arc_zh": "守门防线与外部爆闪省略战斗，随后安静地看GPT垂眼与取钥匙，把力量转回救人。",
+      "arc_en": "Defense and distant flashes omit combat; a quiet downward glance and key retrieval turn the sequence back toward rescue.",
+      "entry_bridge_zh": "承门槛示警，八人下层迎敌且千问仍抱小鱼，Kimi不离祭坛；敌人只从入口推进。",
+      "exit_bridge_zh": "原钥匙在GPT手中，登长阶省略到下一批最高祭坛；Claude尚未解锁，暗罩仍在。",
+      "shots": {
+        "CY027D": {
+          "camera_zh": "长阶广角由内侧小幅横移，八人组成的防线依次遮挡显露；保持最上方暗罩与左右翼岗哨同框。",
+          "camera_en": "Track a little across the broad staircase view as the eight companions form their line, retaining the upper opaque shield and flank sentries.",
+          "transition_zh": "承入口示警切同伴转身，前排迎向门口而非倒转冲祭坛；战声连接下一外景。",
+          "transition_en": "Cut on the entrance warning to companions turning toward the door, not the altar; bridge the defensive clash into the exterior view.",
+          "action_en": "The eight companions form a second defense below the long stairs, with Qwen still holding DeepSeek. Knights guard the side colonnades and the front line moves toward the courtyard attackers. Kimi remains inside the opaque highest-altar shield with the still-bound Claude; neither they nor the cross can be seen outside it. Perplexity watches with her staff. Preserve the central window breach and intact side windows. The entrance holds.",
+          "effects_en": "Combat and wordless knight warnings at the doorway with a quiet altar-shield hum."
+        },
+        "CY027E2": {
+          "camera_zh": "外部高空斜俯大全景缓缓后退，把门口爆闪留在建筑尺度里；不绕到后殿制造另一战场。",
+          "camera_en": "Ease backward from a high oblique exterior view, keeping entrance flashes within the building's scale and avoiding a new battle behind the apse.",
+          "transition_zh": "入口交战声接远景变远，几次爆闪后收声、雨渐停，切战后而非补打斗。",
+          "transition_en": "The interior clash becomes distant outside; a few flashes end, rain weakens and the next cut moves directly to the aftermath.",
+          "action_en": "From high above the cathedral and surrounding grounds, brief magical flashes concentrate around the front entrance and fore-nave, implying resistance to the courtyard reinforcements. The rear rescue area has no melee, the apse remains intact and the building is not continuously burning. End as the flashes cease and the rain begins to stop.",
+          "effects_en": "Several brief magical detonations and glass resonance diminish into a low tail."
+        },
+        "CY027F": {
+          "camera_zh": "沿原群像中景微微降低机位，保留前景倒地教主与GPT垂眼关系；讥笑停顿时镜头停住。",
+          "camera_en": "Lower slightly within the established group view to connect foreground fallen leader and GPT's downward gaze, then hold for her restrained expression.",
+          "transition_zh": "由远处最后爆闪硬切战后安静，GPT已恢复人形，不再演变回；她看钥匙才切手部。",
+          "transition_en": "Hard-cut from the last distant flash to quiet aftermath with GPT already human; cut to the hand only when her gaze moves to the key.",
+          "action_en": "GPT is human again, standing firmly with folded wings and arms loosely crossed. She tilts her head and looks down at the fallen leader with a slight raised brow and cool irony, never at the camera. Enemies remain down; eight companions stand below, Qwen holds DeepSeek and Kimi guards Claude above. After holding the look, GPT uncrosses her arms and looks toward the key at his waist. Do not bend to take it before this beat.",
+          "effects_en": "Low drips, wet fabric and wind; no taunting line. Do not assign wet-clothing sounds to Claude."
+        },
+        "CY027F0": {
+          "camera_zh": "腰带和取钥匙手部近景轻跟钥匙向上离扣，再停在清楚齿形；不追完上阶。",
+          "camera_en": "Follow the key slightly upward from its belt hook in close-up, settling on its teeth rather than tracking the whole climb.",
+          "transition_zh": "接GPT看向腰带的视线切手，扣环声对应真正脱离，带钥匙出画后省略登长阶。",
+          "transition_en": "Cut along GPT's gaze to the belt; sound the hook only on release, then omit the long climb after she leaves with the key.",
+          "action_en": "The leader lies on the floor with the black iron key still at his waist. GPT bends, removes it from the belt ring, and raises it so the teeth catch the cold moonlight. She closes her hand around the original key and turns toward the long stairs. Do not duplicate the key or remove it twice; the climb can be omitted between shots.",
+          "effects_en": "A key ring and hook click, followed by shallow-water footsteps."
+        }
+      }
+    },
+    "GB027": {
+      "arc_zh": "撤罩交钥匙、先解踝扣、扶稳再解上身，最终从脚托踏下，完成有支撑的救援。",
+      "arc_en": "Dissolve the shield, pass the key, unlock ankles, support before final release, then step safely off the footrest.",
+      "entry_bridge_zh": "GPT已携唯一原钥匙到祭坛；只有暗罩散尽才显露Kimi、Claude和刑架，不透罩偷看。",
+      "exit_bridge_zh": "Claude已赤足站稳最高平台并望向小鱼，GPT仍扶稳；下一批从她的视线接阶下，不倒回受缚状态。",
+      "shots": {
+        "CY027F2": {
+          "camera_zh": "最高祭坛中景先让暗膜散开显出三人，再小幅侧移把钥匙交接放在清楚前景，Claude脚托保留。",
+          "camera_en": "Let the dark membrane dissolve in the altar medium view before sliding slightly to clarify the foreground key exchange while retaining Claude's foot support.",
+          "transition_zh": "以原钥匙匹配切到登阶后的祭坛，只有撤罩后才能见Claude，钥匙落掌接下一近景。",
+          "transition_en": "Match the original key to the altar after the omitted climb. Reveal Claude only as the shield dissolves, then cut on the key entering Kimi's hand.",
+          "action_en": "GPT arrives at the highest altar with the leader's original key. Once danger is over, Kimi dissolves the opaque shield completely and accepts the key with empty hands; both blades remain stowed. Claude is still upright on the fixed footrest, wrists and ankles locked. Preserve the broken central window, intact side windows, extinguished candles and wood, and cold moon reflections on stone. End with Kimi holding the key before ankle release.",
+          "effects_en": "The membrane hum dies, the key lands softly in a hand and residual water drips in the hall. No repeated blade-stowing sound."
+        },
+        "CY027F1": {
+          "camera_zh": "踝扣双足近景定住脚托支撑面，轻微横移从第一锁到第二锁；剪辑省略钥匙搬运，不能两秒完整表演五扣。",
+          "camera_en": "Keep the footrest and both feet grounded in close-up, shifting slightly between ankle locks; omit repetitive key repositioning editorially rather than accelerating all releases.",
+          "transition_zh": "钥匙落掌的声音接锁芯轻响；展示第二踝扣开时第一扣已开，双腕留给下镜。",
+          "transition_en": "Bridge key contact to a lock click. The first ankle cuff can already be open as the second is shown; wrists remain for the next view.",
+          "action_en": "Kimi kneels beside the fixed footrest and uses the original key to unlock both ankle cuffs and move the short chains aside. The lock turns normally and the anti-tamper symbols never light. Claude's bare feet stay on the fixed support and both wrists remain restrained. In this brief shot, the repeated operation may be elided so the first cuff is already open when the second release is shown.",
+          "effects_en": "Normal key rotation, lock-tongue clicks and chains set down, synchronized to visible releases; no violent breaking-lock sound.",
+          "effects_zh_override": "正常钥匙转动、锁舌轻响与短链放下；第一踝扣可已打开，第二扣可见开锁声对应实际动作，不伪造五扣同时解开。",
+          "action_zh_override": "接钥匙交接后切到脚托旁：Kimi已用教主原钥匙打开第一只踝扣，其重复操作由切镜省略。画内只展示她正常转动另一踝扣的锁芯，打开最后一只踝扣并移开短链；抗破坏符纹不亮。镜末两踝均已解除，Claude的赤足仍稳踩固定脚托，腰链与两只腕扣尚未解除；不在短镜中加速重演两遍开锁。"
+        },
+        "CY027G": {
+          "camera_zh": "三人近中景小幅上摇由GPT承托腰背到最后腕扣，左右站位不换，最后一扣打开前先看清支撑。",
+          "camera_en": "Tilt gently in the three-person medium close view from GPT's support to the last wrist lock, retaining positions and showing support before release.",
+          "transition_zh": "双踝解开后切上身，腰扣与首腕扣过程可省略到最后腕扣，链响不制造第二次解锁。",
+          "transition_en": "After ankle release cut upward; elide repetitive waist and first-wrist operations into the final cuff without duplicate unlocking sounds.",
+          "action_en": "GPT supports Claude's lower back and upper arm from screen right before the final restraint opens. Kimi at screen left uses the original key to release the waist chain and wrist cuffs in order; the short view may omit repeated turns and emphasize the last cuff. The symbols are not triggered. Claude remains supported by both the footrest and GPT, never drops suddenly, and the wooden cross stays on the highest platform. End ready to step down.",
+          "effects_en": "Small lock and chain sounds with fabric movement. Match the visible releases; ensure GPT supports the body before the final cuff opens.",
+          "effects_zh_override": "锁舌、链条与衣料轻响；腰扣和第一腕扣过程可经剪辑省略，实际可见的最后一扣解除声必须发生在GPT扶稳之后，不重复补齐所有开锁声。",
+          "action_zh_override": "双踝已经解除。GPT在画面右侧先扶稳Claude的腰背和上臂，Kimi在左侧持教主原钥匙；腰链和第一只腕扣的正常解锁由切镜省略，画内重点展示最后一只腕扣打开。最后一扣松开前GPT始终已经承托身体，符纹不亮，不暴力破锁。镜末五处束缚全部解除，Claude仍由固定脚托与GPT支撑，准备迈下；不突然跌落，不将她直接抱离，木架仍留在最高祭坛。"
+        },
+        "CY028A": {
+          "camera_zh": "先保留足部落地与GPT支撑；Claude站稳后顺视线缓慢靠近，2.7秒左右到胸上双人近景，问孩子时眼睛与扶上臂的手同框。Kimi退入左侧虚焦，不是新增切镜。",
+          "camera_en": "Begin wide enough to show the supported step down from the footrest. After Claude is stable, move in on the same side to a chest-up two-shot: GPT supporting her upper arm and Claude looking down the stairs for the child. Kimi withdraws into soft depth. Preserve 6.2 seconds and all original Japanese speech.",
+          "transition_zh": "末扣放开接扶下同一脚托，不从悬空重落；关切孩子的视线引出下一批阶下特写。",
+          "transition_en": "Continue from the released final cuff onto the same platform, never dropping from suspension; her concern leads to the child below.",
+          "action_en": "GPT轻声说“慢慢来”，折翼扶Claude从脚托迈下站稳。Kimi收好束具让开。摄影机沿同侧收近，Claude带着疲惫向阶下画外寻找小鱼，问“那个孩子……”，GPT手仍支撑上臂和背。Claude苍白、衣边焦损和头纱保持，普通灯火仍熄灭。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": " GPT在镜内0.1–1.68秒说完同一句日语；Claude在镜内2.8–4.31秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "GPT轻声说“慢慢来”，折翼扶Claude从脚托迈下站稳。Kimi收好束具让开。摄影机沿同侧收近，Claude带着疲惫向阶下画外寻找小鱼，问“那个孩子……”，GPT手仍支撑上臂和背。Claude苍白、衣边焦损和头纱保持，普通灯火仍熄灭。"
+        }
+      }
+    },
+    "GB028": {
+      "arc_zh": "确认小鱼安全使Claude开始同一句微光咏唱，父亲的画外呼唤令她停顿，伸手反打保留选择空间。",
+      "arc_en": "The child's safety enables a faint invocation, interrupted by the father's call and powerless reaching gesture.",
+      "entry_bridge_zh": "承Claude望向阶下，GPT答句仍从祭坛方向发声；小鱼不代说，不增新口型。",
+      "exit_bridge_zh": "六秒打断已结束但初蓄仍在，父亲没有起身；下一批Claude移开视线直接续下一句，不重启法术。",
+      "shots": {
+        "CY028A2": {
+          "camera_zh": "沿Claude俯视方向切小鱼近景，微微下移让千问承托臂进入下缘，随宝宝抬眼停住。",
+          "camera_en": "Lower slightly to include Qwen's supporting arm, then hold the upward gaze.",
+          "transition_zh": "接Claude问孩子，切小鱼反应；GPT在本镜画外完整回答4.07秒，不提前覆盖上一镜。",
+          "transition_en": "Follow Claude's downward eyeline to the child's silent response. GPT delivers the full offscreen answer during this shot's first two seconds; the child does not mouth it.",
+          "action_en": "切到阶下千问怀里的小鱼特写：蓝鲸帽下的小脸还留着泪痕，蓝色眼睛疲倦却清醒地抬向高处祭坛；她轻轻攥着千问的衣襟，后背与身体被稳稳承托。千问低头照看她。此刻只有冷月光，刑架尚未重新点燃。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": " GPT在镜内0–4.07秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。 GPT在画外回答，小鱼无词反应；不可提前覆盖Claude前镜的提问。",
+          "action_zh_override": "切到阶下千问怀里的小鱼特写：蓝鲸帽下的小脸还留着泪痕，蓝色眼睛疲倦却清醒地抬向高处祭坛；她轻轻攥着千问的衣襟，后背与身体被稳稳承托。千问低头照看她。此刻只有冷月光，刑架尚未重新点燃。"
+        },
+        "CY028B": {
+          "camera_zh": "手部近景轻微靠近到指尖光屑刚可见即停，手抖与呼吸主导，不能推成大法球。",
+          "camera_en": "Approach faint fingertips slightly, then stop.",
+          "transition_zh": "Claude第一句完整咏唱在本镜结束，保留0.5秒交接空白，再切腕部特写。",
+          "transition_en": "Finish the complete first Claude line here, hold the half-second handoff, then cut to the wrist close-up.",
+          "action_en": "指尖仅有极少暗淡光屑初聚，Claude从这里起咏；没有成熟火种。 Claude衣边焦损持续，脸出镜时苍白无羞红。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": " Claude在镜内0–1.85秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "指尖仅有极少暗淡光屑初聚，Claude从这里起咏；没有成熟火种。 Claude衣边焦损持续，脸出镜时苍白无羞红。"
+        },
+        "CY028C": {
+          "camera_zh": "匹配同一右腕从侧上方近特写定住，轻拉焦从压痕到逐渐稳定的指尖，不抹掉痕迹。",
+          "camera_en": "Focus from pressure marks to steadier fingertips.",
+          "transition_zh": "腕部特写从下一句完整咏唱开始；本句结束即进入父亲插话的6秒窗口。",
+          "transition_en": "Begin the next complete Claude line on the wrist close-up; its full ending opens the six-second father interruption window.",
+          "action_en": "咏唱尾半句跨切Claude已经解放的右手腕特写。浅淡束缚压痕仍在，焦边蕾丝袖口保留；手指起初微颤，随“的微光啊”慢慢稳住。极少橙金光屑轻映指节，仍是初蓄，未形成完整火种。手与衣料没有挂水、没有蒸汽，压痕不消退，衣物不修复；没有新增治疗法术。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "无重说、无新增治疗声。 Claude在镜内0–1.72秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "咏唱尾半句跨切Claude已经解放的右手腕特写。浅淡束缚压痕仍在，焦边蕾丝袖口保留；手指起初微颤，随“的微光啊”慢慢稳住。极少橙金光屑轻映指节，仍是初蓄，未形成完整火种。手与衣料没有挂水、没有蒸汽，压痕不消退，衣物不修复；没有新增治疗法术。"
+        },
+        "CY029": {
+          "camera_zh": "金眼极近特写保持镜头不动，焦点在真实虹膜而非做成完整倒影镜头，眼神震动承担反应。",
+          "camera_en": "Hold the amber-eye close-up on the actual iris.",
+          "transition_zh": "在同一微光持续时父亲画外呼唤打断，眼底只见原地抬头伸手的父亲，再切反打。",
+          "transition_en": "The father's offscreen call interrupts; reverse follows.",
+          "action_en": "父亲的声音传来，Claude 的金色眼睛里映出他趴在湿地上、抬头伸手的身影。她的目光颤了一下。 Claude衣边焦损持续，脸出镜时苍白无羞红。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "Claude只眼神微颤，初蓄不灭。 教主／Claude的父亲在镜内0.3–3.4秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。 本镜与下一镜合计保持6秒Claude停顿；父亲只在此窗口说一次。",
+          "action_zh_override": "父亲的声音传来，Claude 的金色眼睛里映出他趴在湿地上、抬头伸手的身影。她的目光颤了一下。 Claude衣边焦损持续，脸出镜时苍白无羞红。"
+        },
+        "CY029E": {
+          "camera_zh": "贴地反打近景轻微靠近伸出的手到力竭停住，不升到站立高度，教主始终趴着。",
+          "camera_en": "Creep slightly toward the reaching hand from floor level.",
+          "transition_zh": "父亲原声已经完整结束，沿倒影切父亲无声伸手反应，只留环境尾响；6秒插话窗口满后下一镜Claude续咏。",
+          "transition_en": "The father line has already ended. Cut along the reflection to the father silently reaching out, with ambience only; Claude resumes chanting next shot after the full six-second interruption window.",
+          "action_en": "反打看清倒影中的教主：他趴在湿地上，肘撑着身体，已经抬起头，伸手挽留 Claude。呼唤的尾音在殿中回荡，他再没有力气站起来。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "父亲原句已经完整结束，沿倒影切父亲无声伸手反应，只留环境尾声；两镜合计6秒满后，下一镜Claude才续咏。",
+          "action_zh_override": "反打看清倒影中的教主：他趴在湿地上，肘撑着身体，已经抬起头，伸手挽留 Claude。呼唤的尾音在殿中回荡，他再没有力气站起来。"
+        }
+      }
+    },
+    "GB029": {
+      "arc_zh": "Claude移开目光续咏，父亲手势停住，光屑凝成一枚火种，小鱼反应让主动选择落定。",
+      "arc_en": "Claude resumes, her father's gesture stalls, one ember forms, and the child's reaction confirms her choice.",
+      "entry_bridge_zh": "承父亲尾音散去后的停顿，继续原咏唱，不重念前半句；保持同一初蓄不断。",
+      "exit_bridge_zh": "一枚稳定火种仍在Claude指间，下一批只报术名并释放；小鱼仍被千问抱着，空架尚未燃烧。",
+      "shots": {
+        "CY029E1": {
+          "camera_zh": "Claude面肩近景随她移开视线小幅侧移，面部落入较空的画侧；镜首即续咏，镜头随后轻稳住，保持苍白。",
+          "camera_en": "Slide slightly with Claude averting her pale face; the resumed Japanese phrase starts at the cut while the camera settles, without an extra pause.",
+          "transition_zh": "从父亲伸手切她主动移开视线，停顿已结束，直接接下句而非重念开头。",
+          "transition_en": "Cut from the reaching father to her deliberate gaze shift; the interruption is over and she resumes at the next sentence.",
+          "action_en": "Claude苍白地移开视线、续咒，手中初蓄不曾熄灭。 Claude衣边焦损持续，脸出镜时苍白无羞红。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "移开视线与续咏同时开始，不额外等运镜停住。 Claude在镜内0–2.37秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "Claude苍白地移开视线、续咒，手中初蓄不曾熄灭。 Claude衣边焦损持续，脸出镜时苍白无羞红。"
+        },
+        "CY029E2": {
+          "camera_zh": "教主贴地近景从手的僵住缓慢抬焦到眼神，机位高度不升；和上次伸手镜角度略错开。",
+          "camera_en": "From a different floor-level close angle, shift focus slowly from his halted hand to his eyes without raising the camera.",
+          "transition_zh": "Claude继续咏唱跨切到父亲无声反应，以声画分离表现选择已经发生。",
+          "transition_en": "Carry Claude's continued chanting across the cut to her father's silent response, making her choice audible while he reacts.",
+          "action_en": "教主发现Claude没有回头，伸手僵住；画外咏唱继续。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": " Claude在镜内0–2.64秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "教主发现Claude没有回头，伸手僵住；画外咏唱继续。"
+        },
+        "CY029E3": {
+          "camera_zh": "腕和指节局部定镜，小幅焦点从左手承托转到右指间稳定焰芯，保持两手关系完整。",
+          "camera_en": "Hold the wrist insert and shift focus from the supporting left hand to the stable flame core between the right fingers, keeping both hands connected.",
+          "transition_zh": "父亲僵手接Claude稳手形成动作对照；光屑此刻凝成火种，之后不回退重凝。",
+          "transition_en": "Contrast the father's arrested hand with Claude steadying her own; the sparks now become an ember that must not revert or form again.",
+          "action_en": "左手托右腕；一枚橙金小火种已有稳定焰芯，停在指间未离手。 Claude衣边焦损持续，脸出镜时苍白无羞红。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "左手托右腕；一枚橙金小火种已有稳定焰芯，停在指间未离手。 Claude衣边焦损持续，脸出镜时苍白无羞红。",
+          "effects_zh_override": "不以镜头句标题强制切音。火种成形后维持，不离手。 Claude在镜内0–1.73秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        },
+        "CY029E4": {
+          "camera_zh": "小鱼反应近景轻下摇到攥紧衣襟再回她的仰视，幅度小，千问左臂托抱不移。",
+          "camera_en": "Make a small tilt toward the child's tightening grip and back to her upward gaze, retaining Qwen's stable left-arm support.",
+          "transition_zh": "从掌心凝种切小鱼攥衣仰望；Claude下一条完整咏唱在本镜开始，前句不重起。",
+          "transition_en": "Cut from the formed ember to the child looking up; start the next complete Claude line here once.",
+          "action_en": "小鱼攥紧衣襟望向Claude；画外咏唱续至命名前，已成火种维持。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "小鱼攥衣仰望，火种仍留Claude指间。镜末切术名，不另起后句。 Claude在镜内0–2.61秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。",
+          "action_zh_override": "小鱼攥紧衣襟望向Claude；画外咏唱续至命名前，已成火种维持。"
+        }
+      }
+    },
+    "GB030-1": {
+      "arc_zh": "放出一枚火种；火种主观逼近空架；触木后骤然燃起；收手后脱力；及时托住",
+      "arc_en": "Continue the actions below in their listed order, without restarting ongoing motion or speech.",
+      "entry_bridge_zh": "承小鱼仰视切回已成形火种，术名只报一次；释放动作匹配切入同一火种视角。",
+      "exit_bridge_zh": "GPT托住背部，另一手臂伸至膝弯，准备抱稳。",
+      "shots": {
+        "CY029B1": {
+          "camera_zh": "正常速度侧面手部特写轻随指尖准备前送，镜末火种仍在指间；不提前追成离手轨迹。",
+          "camera_en": "In the side hand close-up, follow the fingertips only as they prepare to move forward; keep the ember at the fingers until the cut.",
+          "transition_zh": "承小鱼仰视切回已成形火种，完整术名与词尾只说一次；镜末准备前送，下一镜开头才离手。",
+          "transition_en": "Return to the already formed ember for the complete spell name and tail; preparation leads across the cut to release in the next shot.",
+          "action_en": "Claude轻声念出同一条完整星火术名，维持E3已经成形的同一枚火种和左手承托，新版完整术名与词尾全部保留，剩余时间闭口凝视同一火种。镜末手指只准备前送，火种仍在指间，不建立离手间隙；实际释放留到下一镜开头。不再在0.7秒提前送出，不重凝、不持续喷火。焦边袖口保留，脸若入画仍苍白无羞红。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "Claude轻声念出同一条完整星火术名，维持E3已经成形的同一枚火种和左手承托，新版完整术名与词尾全部保留，剩余时间闭口凝视同一火种。镜末手指只准备前送，火种仍在指间，不建立离手间隙；实际释放留到下一镜开头。不再在0.7秒提前送出，不重凝、不持续喷火。焦边袖口保留，脸若入画仍苍白无羞红。",
+          "effects_zh_override": "火焰极轻，实际离手在下一镜开头。 Claude在镜内0–0.99秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        },
+        "CY029B2": {
+          "camera_zh": "前0.3秒侧面手部近景轻随离手，明确间隙后匹配切主观；其后平稳沿木纹落点前移，1.6秒起提速，无翻滚环绕。",
+          "camera_en": "Use the first 0.3 seconds for a side hand close-up establishing separation, then match-cut forward into the ember viewpoint. Track steadily toward the exposed wood, accelerating at 1.6 seconds without roll or orbit.",
+          "transition_zh": "承前镜完整术名与准备手势，先看一次实际离手，再顺飞行方向切主观；1.9秒触木一闪接外部腾燃。",
+          "transition_en": "After the preceding complete spell name, show the single release before matching forward into the ember viewpoint; cut to external ignition on wood contact.",
+          "action_en": "For the first 0.3 seconds, continue the side hand view: Claude releases the same completed ember, relaxes the supporting left hand and creates a clear gap from her fingertips. Then match its forward direction into the ember viewpoint, approaching bare wood beneath the crossbeam iron band. Keep the target clear; only blurred flame and heat distortion edge the viewpoint frame, with no central ember body. Move steadily without rolling or orbiting, accelerate at 1.6 seconds and touch wood at 1.9 seconds; cut to the external ignition.",
+          "effects_en": "A faint sleeve and flame sound accompanies release, followed by close flame movement in the viewpoint segment. No further speech; ignition belongs to the following shot.",
+          "action_zh_override": "前0–0.3秒先延续上一镜侧面手部位置：Claude轻送E3已成形的同一枚火种，左手放松承托，火种与手指之间出现明确空气间隙，不新增火种或持续喷火。0.3秒沿刚释放的飞行方向切入火种主观视角。空十字架位于正前方，沿落点平稳逼近立柱与横木交接铁箍下方的裸露木纹；木纹和空镣铐逐渐放大。主观段中央不出现火种本体，仅边缘少量虚焦橙金火舌与热扰动，中心落点清楚；不翻滚、不绕行。1.6秒起最后一小段提速，1.9秒触木局部闪亮，随后切CY029B外部腾燃。",
+          "effects_zh_override": "前0–0.3秒轻送同一火种，微弱衣料与火焰声；无新对白，Claude原术名已完整结束。0.3秒转主观后环境压低，末段提速与触木，腾燃重音留下一镜。"
+        },
+        "CY029B": {
+          "camera_zh": "低位中远景随火沿立柱上窜轻上摇，空架与锁链一直可读，Claude已放下的手保留在画缘。",
+          "camera_en": "Tilt upward slightly with the climbing flame, keeping the empty cross readable.",
+          "transition_zh": "触木亮点匹配切腾燃重音，展示同一次点燃；不把已放下的手再举起施法。",
+          "transition_en": "Match the contact flash to one ignition burst.",
+          "action_en": "Fire climbs the post and crossbeam, chains visible through gaps. Claude's hand is already lowered; no connecting flame stream. GPT remains beside her. Fire stays on the empty cross, never people or architecture. Ordinary lamps stay extinguished; Claude's burns persist.",
+          "effects_en": "Short ignition roar, then burning wood and chain sounds."
+        },
+        "CY029C": {
+          "camera_zh": "水平机位，Claude髋在左下、肩头偏右，GPT从右向左跨入；不以歪镜代替受力，不为露脸把身体摆直。火架退画缘虚焦。",
+          "camera_en": "Same-side waist-height oblique medium shot. Claude lowers her spell hand, loses support through shoulder and hip, and leans toward GPT without falling to the floor. GPT steps into the weight-transfer space and starts taking her weight. Keep the burned cloth edges, pallor and bare feet; the burning empty frame stays peripheral and soft.",
+          "transition_zh": "从火已自行燃烧切人失力，手早已放下；同一次向右倾倒接下一镜承托。",
+          "transition_en": "Continue one rightward loss of balance into support.",
+          "action_en": "Same-side waist-height oblique medium shot. Claude lowers her spell hand, loses support through shoulder and hip, and leans toward GPT without falling to the floor. GPT steps into the weight-transfer space and starts taking her weight. Keep the burned cloth edges, pallor and bare feet; the burning empty frame stays peripheral and soft.",
+          "effects_en": "Caught breath and sliding sleeve; no floor impact.",
+          "action_zh_override": "Claude放下施法手，膝盖微软，仍站立的髋向左下失去支撑，肩头向右侧GPT倾去；近侧手因脱力垂直下落。GPT立即跨入、弯膝，以一手开始接住她上背，另一手向膝部下降但尚未托膝。她仍有意识，没有跪地、坐地或摔地。"
+        },
+        "CY029D": {
+          "camera_zh": "沿上一镜同侧略放宽，留GPT弯膝接重与Claude脚刚离地的范围；不起镜就定成贴头合影，下一镜才收近抱稳。",
+          "camera_en": "Continue the SAME catch, without a second stumble. GPT supports Claude back, slides her other arm under the knees, and lifts; keep both supporting arms readable. Do not begin already settled in a bridal pose. The following shot holds the stable carry; the next voluntary shoulder touch remains later.",
+          "transition_zh": "切在Claude重心仍向右移动时，GPT接续托住而非第二次接住；衣料声顺承同一受力。",
+          "transition_en": "Match the ongoing rightward movement; one catch only.",
+          "action_en": "Continue the SAME catch, without a second stumble. GPT supports Claude back, slides her other arm under the knees, and lifts; keep both supporting arms readable. Do not begin already settled in a bridal pose. The following shot holds the stable carry; the next voluntary shoulder touch remains later.",
+          "effects_en": "Rubbing fabric and a short breath; no fall impact.",
+          "action_zh_override": "延续同一次接重。GPT一臂托住Claude上背，另一臂探进膝弯并承住，弯膝跨入重心后开始起抱；Claude赤足刚离地，近侧手仍无力垂下。两人头部保持分开，Claude尚未主动搭肩。下一镜GPT才站直抱稳，之后Claude再主动靠近。"
+        }
+      }
+    },
+    "GB030-2": {
+      "arc_zh": "稳稳抱起",
+      "arc_en": "Continue the actions below in their listed order, without restarting ongoing motion or speech.",
+      "entry_bridge_zh": "按同一次托起动作匹配切近，重量落稳后才短句；不重新从地上抱起。",
+      "exit_bridge_zh": "Claude被抱稳，赤足离地，仍有意识；此后一直抱着离殿。",
+      "shots": {
+        "CY028": {
+          "camera_zh": "保持Claude左、GPT右的近景轻随抱起上移后停住，双臂承托与赤足离地能被读懂。",
+          "camera_en": "Rise slightly with the carry, then settle; Claude left, GPT right.",
+          "transition_zh": "按同一次托起动作匹配切近，重量落稳后才短句；不重新从地上抱起。",
+          "transition_en": "Match the same lift closer; speak after weight settles.",
+          "action_en": "Claude 的重量落进 ChatGPT 怀里，被稳稳接住。她赤足悬空，疲倦地靠着 ChatGPT，仍能抬眼看她。 Claude衣边焦损持续，脸出镜时苍白无羞红。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "Claude 的重量落进 ChatGPT 怀里，被稳稳接住。她赤足悬空，疲倦地靠着 ChatGPT，仍能抬眼看她。 Claude衣边焦损持续，脸出镜时苍白无羞红。",
+          "effects_zh_override": "抱稳后GPT轻声说“我们走”；Claude抬眼，下一镜主动搭肩，保留衣料与呼吸声。 GPT在镜内0.8–1.68秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        }
+      }
+    },
+    "GB031": {
+      "arc_zh": "抱持中的主动靠近接群像离殿，以明确时间跳切回数日后的阳光、饭碗与空位。",
+      "arc_en": "A voluntary lean in the carry leads to departure, then a clear time cut returns to sunshine, rice and an empty seat.",
+      "entry_bridge_zh": "承同一次公主抱，托背托膝不变；下阶过程允许在切到下层群像时省略。",
+      "exit_bridge_zh": "已到数日后街市，小鱼看向右侧来人，右侧座位仍空、碗在膝上；下一批接靠近落座。",
+      "shots": {
+        "CY029A": {
+          "camera_zh": "双人公主抱近景随转身小幅平移，保持托背托膝手位可见和面部关系，不绕到另一轴侧。",
+          "camera_en": "Track gently with their turn in the carried close two-shot, preserving both supporting arms and facial relationship without crossing the axis.",
+          "transition_zh": "上批抱稳后直接承主动搭肩，不再接抱；转向出口的动作切下层汇合。",
+          "transition_en": "Continue from the secure carry into Claude's voluntary shoulder touch, not another catch; their turn leads into the lower-hall reunion.",
+          "action_en": "Claude is already safely carried and conscious. She places a hand on GPT's shoulder and willingly leans closer. GPT maintains one arm behind her back and the other beneath her knees, turning toward the descending stairs from the top platform without putting her down. Preserve the existing burn damage and pallor. End with them oriented toward the exit; the descent can be omitted.",
+          "effects_en": "A soft sleeve brush and Claude's breathing becoming steadier."
+        },
+        "CY030": {
+          "camera_zh": "背面广角随队伍缓慢后退扩大空间，保持十二人层次与两翼留守骑士区别；不穿过角色。",
+          "camera_en": "Retreat slowly in a rear wide view to expand the hall around the twelve core characters, distinguishing the stationary flank knights without passing through anyone.",
+          "transition_zh": "用转身方向匹配切下层，省去下阶过程；脚步与空架火声渐远，再明确时间跳切街市。",
+          "transition_en": "Match the turn to the lower nave, omitting the stairs. Footsteps and the cross's fire recede before a clear temporal cut to the market.",
+          "action_en": "After the omitted descent, GPT still carries Claude in the lower nave and joins Qwen carrying DeepSeek. Twelve core characters leave along the aisle in one group; the other companions distribute beside and behind them. Fallen enemies remain on the floor. Knights stay to secure the church's flanks and entrances and do not join the market ending. Claude's clothing remains scorched. End with the group departing, leading to several days later.",
+          "effects_en": "Footsteps recede while drips and the empty cross's fire remain inside, softening before the street transition."
+        },
+        "CY031": {
+          "camera_zh": "明亮街边中远景沿长椅缓慢横移，清楚留下右侧空位，宝宝听到脚步转头时机位停住。",
+          "camera_en": "Track slowly along the sunlit bench in a medium-wide view, preserving the empty place to the child's right and stopping as she turns to footsteps.",
+          "transition_zh": "夜殿离开后作明确数日后跳切，街声替代殿内声，不能当夜晚连续走到白天。",
+          "transition_en": "Make a clear several-days-later cut from the night church; street sound replaces hall ambience rather than suggesting continuous travel into daylight.",
+          "action_en": "Several days have passed. DeepSeek sits alone on a bright market bench with hot rice in the bowl on her lap, her feet not reaching the ground and clothes clean. Keep the empty seat to her right clearly visible. Hearing approaching footsteps, she looks right toward the arrival. No one has sat in that space yet. End on the expectant look.",
+          "effects_en": "Familiar market murmur and light bowl sounds; no new intelligible crowd lines."
+        }
+      }
+    },
+    "GB032": {
+      "arc_zh": "来人落座后邀请获得回应，手柄交接完成开头未完成的善意，旁观者接杯给第一口饭留出自然省略。",
+      "arc_en": "The seated invitation is accepted; the spoon handover answers the opening gesture, while a cutaway makes room for the first bite.",
+      "entry_bridge_zh": "承宝宝向右看的视线，Claude从右边进入并落座；先说好再接勺，一碗一勺不复制。",
+      "exit_bridge_zh": "Claude已持勺，舀起小口可在GPT旁景时画外完成；下一批直接吃第一口，不再演递勺。",
+      "shots": {
+        "CY031A": {
+          "camera_zh": "长椅中全景从宝宝视线方向微微后移容纳Claude落座，坐定后停机，让问答和点头有完整时间。",
+          "camera_en": "Ease back slightly from the child's eyeline to accommodate Claude sitting, then hold for the question, response and nod.",
+          "transition_zh": "承上批向右看切来人入座，问句说完才答好，勺仍在宝宝手中等下一镜交接。",
+          "transition_en": "Continue the child's look into Claude's arrival and seating. The answer follows the completed question; the spoon remains with the child until the next cut.",
+          "action_en": "Claude从右侧靠近、扶椅坐下；小鱼往左让位，左臂稳住碗，右手握勺问出同一句邀请。Claude还没有拿勺。 小鱼问完，Claude看着她，轻轻点头说“好”，再接下一镜递勺。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "action_zh_override": "Claude从右侧靠近、扶椅坐下；小鱼往左让位，左臂稳住碗，右手握勺问出同一句邀请。Claude还没有拿勺。 小鱼问完，Claude看着她，轻轻点头说“好”，再接下一镜递勺。",
+          "effects_zh_override": "保留小鱼原邀请临时读稿；Claude的“好”轻轻接在问句后。 小鱼在镜内1–2.54秒说完同一句日语；Claude在镜内2.84–3.54秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。"
+        },
+        "CY032A": {
+          "camera_zh": "手部特写沿勺柄传递方向微幅横移后停住，接点和两人手指先后松紧清楚，碗稳在膝上。",
+          "camera_en": "Move slightly along the spoon-handle transfer in close-up, then hold so grasp-before-release and the stable bowl remain clear.",
+          "transition_zh": "以落座后勺的位置匹配切近，不把参考中已接住的姿势当起点；接稳后切GPT旁观。",
+          "transition_en": "Match the spoon's pre-transfer position into close-up, not the reference's completed grip; cut to GPT only after the transfer settles.",
+          "action_en": "Both sit on the bench, DeepSeek left and Claude right. The child offers the handle toward the right, Claude closes her fingers around it and only then does the child release. Keep one spoon and the bowl on the child's lap. End with Claude alone holding the spoon while the child's two hands steady the bowl. The reference depicts a later grip, so animate the handover into it without beginning already completed.",
+          "effects_en": "A light handle contact and street ambience; do not repeat the invitation or answer.",
+          "action_zh_override": "两人已同坐长椅，小鱼在左、Claude在右，问答已经结束；起始时唯一一把勺仍在小鱼右手里，饭碗稳在她膝上。小鱼向右递出勺柄，Claude伸手合拢手指握稳后，小鱼才松手。接点清楚，先握后放，饭碗不离膝。镜末Claude独自持勺，小鱼双手重新稳住碗。参考图是交接后的握持状态，不从已经交接完成开始；舀饭留到随后切向GPT的画外时间，不在此镜吃饭。"
+        },
+        "CY033": {
+          "camera_zh": "GPT中景从长椅虚化背景小幅拉焦到她和热饮，轻随杯递入手后停在放松目光，不展开新对话。",
+          "camera_en": "Shift focus gently from the blurred bench to GPT and the warm drink, settling after the cup reaches her hand without adding conversation.",
+          "transition_zh": "接勺完成切旁观者，杯子的接触呼应勺柄声；Claude此时画外舀饭，为下一批第一口作省略。",
+          "transition_en": "After the spoon transfer, cut to the observer; cup contact echoes the handle sound. Claude can scoop offscreen, preparing the next first-bite insert.",
+          "action_en": "GPT watches from nearby in the same market, with the bench pair blurred behind. Grok hands her a warm drink; GPT accepts it and leans alongside her companion, her gaze easing. Claude and DeepSeek stay seated elsewhere in the same space; this cut allows the small scoop of rice to occur offscreen. Do not introduce a new line or a second serving event.",
+          "effects_en": "A light cup contact with natural street ambience."
+        }
+      }
+    },
+    "GB033": {
+      "arc_zh": "唯一第一口后回到两人回望与呼吸，把全片收在普通日常，最后四秒不以音乐替代停留。",
+      "arc_en": "One first bite resolves into exchanged looks and breathing, ending in ordinary life with four music-free story seconds.",
+      "entry_bridge_zh": "承前批画外舀好的一小口，碗仍在宝宝膝上；嘴部镜只吃一次，不做喂食或多次咀嚼。",
+      "exit_bridge_zh": "正片结束前四秒只留呼吸与街市，无BGM；生成尾余量延续同一终态，最终淡出留后期对齐正片结束。",
+      "shots": {
+        "CY034A": {
+          "camera_zh": "嘴部与手的局部近景机位固定，只轻微跟焦从勺尖到闭合嘴唇，不推近口腔或放大咀嚼。",
+          "camera_en": "Hold the lower-face and hand close-up, focusing lightly from spoon tip to closing lips without pushing into the mouth or emphasizing chewing.",
+          "transition_zh": "从GPT放松目光切唯一第一口饭，勺从上一批已持稳状态进入，不重拍接勺或舀饭。",
+          "transition_en": "Cut from GPT's eased gaze to the only first bite; the spoon is already held and loaded, without repeating transfer or scooping.",
+          "action_en": "Claude has already accepted the spoon and scooped a small portion while the bowl remained on DeepSeek's lap. The rice reaches her lips, they close gently and the now-empty spoon withdraws. Show only this one ordinary bite, without dwelling on chewing. End with the empty spoon clear of the mouth and beginning to lower.",
+          "effects_en": "Soft street ambience and very light utensil sound; do not amplify chewing."
+        },
+        "CY034": {
+          "camera_zh": "双人中近景有意定住七秒，让空勺降低、相视、呼吸和阳光完成收尾；末四秒不推镜催情。",
+          "camera_en": "Hold the two-person medium close-up for the full beat, letting the lowered spoon, exchanged look and breathing finish it; no emotional push during the last four seconds.",
+          "transition_zh": "沿空勺下降匹配切双人，已经吃过不再送入口；先回望后静留，淡出放正片结束而非生成余量起点。",
+          "transition_en": "Match the empty spoon lowering into the two-shot; no second bite. Hold after their exchanged look, leaving any final fade to the film end rather than the generation handle.",
+          "action_en": "回到长椅上的两人。Claude已经吃下第一口，空勺放低到膝前，不再重复舀饭或送入口中。小鱼仰头望着她，笑起来；Claude回望小鱼，嘴角慢慢放松。最后四秒只留两人的呼吸与街市声，阳光落在肩上，结束。",
+          "effects_en": "Use the exact new Japanese dialogue windows below, once at natural speed. Keep ambience and action sounds subdued under speech. Silence between lines is intentional.",
+          "effects_zh_override": "尾乐在本镜前3秒内收尽；最后4秒BGM静音，只留街市声与两人呼吸。",
+          "action_zh_override": "回到长椅上的两人。Claude已经吃下第一口，空勺放低到膝前，不再重复舀饭或送入口中。小鱼仰头望着她，笑起来；Claude回望小鱼，嘴角慢慢放松。最后四秒只留两人的呼吸与街市声，阳光落在肩上，结束。"
+        }
+      }
+    }
+  },
+  "source": "镜头设计/shot-plan-v0.64.json"
+}

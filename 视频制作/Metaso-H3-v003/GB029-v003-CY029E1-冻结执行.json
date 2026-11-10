@@ -1,0 +1,55 @@
+{
+  "batch": {
+    "batch_number": 39,
+    "batch_id": "GB029",
+    "attempt_id": "GB029-v003-CY029E1",
+    "title": "选择继续与凝种",
+    "shot_ids": [
+      "CY029E1"
+    ],
+    "film_start": 427.282729,
+    "part_offset": 0,
+    "used_seconds": 2.7,
+    "duration": 4,
+    "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。固定首帧起拍，只有Claude一人作为可辨人物。她身体停在祭坛最高平台，眼睛先离开前下方阶下父亲的方向，随即抬眼并向自己左后方很小幅回头，看向画面左侧空木刑架，目光落定，续念同一句咒语。转头0–0.8秒完成，不走动不重新站起；其后保持决心与虚弱呼吸，镜头仅轻微横移形成她与空刑架的视线关系，不切镜。0–2.37秒只说一次<d>[Japanese] 我が呼び声に応えよ。</d>，后续素材把呼吸自然延续作余量，不增加台词。禁止刑架或蜡烛点火、旁人入画、火种飞出、身体瞬移。",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/Metaso-H3-v003/修订参考/GB029-CY029E1-firstframe-r003.png",
+        "sha256": "f8fccaabe5aba99de034bafc248eedd18476de60521884a635bebc40712303b0",
+        "role": "first_frame"
+      }
+    ],
+    "estimated_credits": 40.8,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "整批重拍，重新建立高祭坛和阶下柱边的视线关系；冷光、空刑架、唯一火种状态连续。",
+    "repair_of": {
+      "author_rejected_version": "v002",
+      "batch_id": "GB029"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json",
+    "mode": "first_frame"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。固定首帧起拍，只有Claude一人作为可辨人物。她身体停在祭坛最高平台，眼睛先离开前下方阶下父亲的方向，随即抬眼并向自己左后方很小幅回头，看向画面左侧空木刑架，目光落定，续念同一句咒语。转头0–0.8秒完成，不走动不重新站起；其后保持决心与虚弱呼吸，镜头仅轻微横移形成她与空刑架的视线关系，不切镜。0–2.37秒只说一次<d>[Japanese] 我が呼び声に応えよ。</d>，后续素材把呼吸自然延续作余量，不增加台词。禁止刑架或蜡烛点火、旁人入画、火种飞出、身体瞬移。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115178691816251392"
+        },
+        "role": "first_frame"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 4,
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者要求修复第6、11、20、21、39批剧情与空间错误，沿用已授权Metaso H3积分；40仅必要接头。无充值。"
+}

@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-10-30T23:15:06.845231",
+  "state": "paused_by_user_for_gaming",
+  "running": 0,
+  "pending": 0,
+  "models_unloaded": true,
+  "devices": [
+    {
+      "name": "cuda:0 NVIDIA GeForce RTX 5090 : cudaMallocAsync",
+      "type": "cuda",
+      "index": 0,
+      "vram_total": 34162016256,
+      "vram_free": 31557550080,
+      "torch_vram_total": 268435456,
+      "torch_vram_free": 122290176
+    }
+  ],
+  "nvidia_smi": "6998, 32607, 4",
+  "new_key_candidates": 41,
+  "new_generated_videos": 0,
+  "cpu_edited_clips": 22,
+  "cpu_flash_frames": 2,
+  "partial_previews": 8,
+  "new_resolve_timeline_created": false,
+  "resolve_current": "v033_OpenCut_Picture_Return",
+  "auto_resume": false
+}

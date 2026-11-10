@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115323065994125312",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "月刃护壁：Kimi挡下琥珀一击",
+    "status": "succeeded",
+    "created_at": 1793167294,
+    "updated_at": 1793167326,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115323065994125312/content?expires=1793772296&signature=391077dbd4ac26f30051b4d2dafc4a4fb3e4d87128384e88d484e0769180586b"
+    },
+    "resolution": "768P",
+    "duration": 7,
+    "usage": {
+      "total_seconds": 7,
+      "input_seconds": 0,
+      "output_seconds": 7,
+      "input_image_count": 3
+    },
+    "ratio": "16:9",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

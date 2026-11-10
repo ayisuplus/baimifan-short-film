@@ -1,0 +1,402 @@
+{
+  "manifest": "镜头设计/shot-plan-v0.5.json",
+  "reviewed_shots": 63,
+  "reviewed_cuts": 62,
+  "cuts": [
+    {
+      "from": "CY001",
+      "to": "CY002",
+      "decision": "以宝宝停步接被黑袍包围的Claude，先建立看与被看的关系。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY002",
+      "to": "CY003",
+      "decision": "顺Claude向下的视线切宝宝眼高的过肩镜，保持小鱼左、Claude右。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY003",
+      "to": "CY003A",
+      "decision": "邀请一句说完，切仍悬着的饭碗；等待由下一镜承担。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY003A",
+      "to": "CY003B",
+      "decision": "从没人接的碗切到接收者的眼睛，倒影保留同一个宝宝与饭碗。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY003B",
+      "to": "CY004",
+      "decision": "黑袍衣料声先进入，遮挡视线接门口远景；Claude始终未接饭。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY004",
+      "to": "CY005",
+      "decision": "火祭消息与关门完成动机，同日黄昏省去赶路，接空手冲入宫殿。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY005",
+      "to": "CY006",
+      "decision": "小鱼跑停后切近景，脚步变成喘息；GPT仍在座位上。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY006",
+      "to": "CY007A",
+      "decision": "求助句尾留出等待，切扶手上的手，先泄露迟疑。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY007A",
+      "to": "CY007",
+      "decision": "同一坐姿由手切脸；手不先松后再紧，平静的拒绝压住迟疑。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY007",
+      "to": "CY008",
+      "decision": "拒绝句完整结束再切宝宝反应，不插另一处动作。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY008",
+      "to": "CY009",
+      "decision": "视线低落接擦脸和决定离开，情绪从请求变为行动。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY009",
+      "to": "CY010",
+      "decision": "让脚步真正离开殿门，再切只剩GPT的空殿；不提前揭示邀约。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY010",
+      "to": "CY010A",
+      "decision": "钟声尾音接教堂夜外；仍只跟随小鱼，GPT的后续暂时藏住。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY010A",
+      "to": "CY011",
+      "decision": "最后一盏灯走远后才开始钻洞；保持同一侧墙方向。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY011",
+      "to": "CY012",
+      "decision": "宝宝与帽一起穿洞，切洞口内侧落地；不从别的入口出现。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY012",
+      "to": "CY013",
+      "decision": "沿宝宝望向祭坛的视线切Claude，确认整座教堂暂时无人。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY013",
+      "to": "CY015",
+      "decision": "给出束缚与干柴后，省去部分步行，接宝宝沿左侧台阶抵达。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY015",
+      "to": "CY015A",
+      "decision": "指洞口的保证结束，注意力落到她即将碰到的腰前锁扣。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY015A",
+      "to": "CY016",
+      "decision": "同一只闭锁仍打不开，手从掰扣改握链条；没有先解开再锁回。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY016",
+      "to": "CY016A1",
+      "decision": "拉链回声持续到蜡滴，利用环境插镜跨过一段重复失败时间。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY016A1",
+      "to": "CY016A",
+      "decision": "同一烛光下回到疲惫二人；以帽子歪斜而非第二次解释说明耗时。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY016A",
+      "to": "CY016B",
+      "decision": "宝宝缓一口气、准备再试，切锁扣上的手；门外脚步这才开始。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY016B",
+      "to": "CY016B1",
+      "decision": "手停与锁链声断开，接Claude朝正门看的眼睛；来人仍未入画。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY016B1",
+      "to": "CY016C",
+      "decision": "沿持续望门的视线切大门，脚步逐渐变清楚，返回者首次出现。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY016C",
+      "to": "CY017",
+      "decision": "来人沿中央通道逼近；下一镜队尾关门声与抓住宝宝衔接。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY017",
+      "to": "CY018",
+      "decision": "落闩、拽下、教主宣告后，接右侧持火者；宝宝仍能挣扎起身阻止。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY018",
+      "to": "CY019",
+      "decision": "第一支入水熄灭，宝宝借瞬间转身跑回Claude前方，空间不跳到门口。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY019",
+      "to": "CY020",
+      "decision": "黑袍逼近时留在Claude反应上，冲撞声交代画外发生的伤害。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY020",
+      "to": "CY021",
+      "decision": "她向下的目光接倒在石阶的宝宝；伤势是刚才画外冲突的结果。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY021",
+      "to": "CY021A",
+      "decision": "集合信号只留窗闪和短鸣，不揭来源；宝宝倒地状态接教主取第二支火把。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY021A",
+      "to": "CY022A",
+      "decision": "第二支由教主持有后才向前走，切宝宝够得到的衣摆；第一支留水盆。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY022A",
+      "to": "CY022",
+      "decision": "衣摆从同一次抓握中滑脱，接教主手中火把落柴；宝宝不再重新抓一次。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY022",
+      "to": "CY022B",
+      "decision": "柴薪已燃后切Claude眼中火光，空间方向仍指向下方宝宝。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY022B",
+      "to": "CY023",
+      "decision": "忧伤眼神与吟唱被破门声突然截断，危险随声音转折。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY023",
+      "to": "CY024",
+      "decision": "门被踢开接更宽的入口群像，抬脚落地与援军前进连续。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY024",
+      "to": "CY027",
+      "decision": "援军一边入场一边起屏障，下一镜立即确认火灭；不先停下来对看。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY027",
+      "to": "CY025",
+      "decision": "确认屏障护住Claude、千问抱住宝宝，才切宝宝近脸认出GPT。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY025",
+      "to": "CY026A",
+      "decision": "认出来人的眼神提出她为何出现的疑问，以『稍早』进入答案。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY026A",
+      "to": "CY026A1",
+      "decision": "邀请说完才切合扇回应，扇的开到合只发生一次。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY026A1",
+      "to": "CY026B",
+      "decision": "合扇声作节拍，切小屋双人镜；继续同一段稍早邀约。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY026B",
+      "to": "CY026C",
+      "decision": "Gemini的应答在双人镜结束后才切基地，不再重复书页动作。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY026C",
+      "to": "CY026D1",
+      "decision": "Grok扬头回应后收掉基地低频，切月背静眼和GPT轻声呼名。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY026D1",
+      "to": "CY026D",
+      "decision": "先醒眼，切更宽的已坐起双人图；允许省去撑起的中间动作，不倒退躺回。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY026D",
+      "to": "CY026E",
+      "decision": "Kimi应答结束，切其余五位累积回应；GPT的召集声继续。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY026E",
+      "to": "CY026",
+      "decision": "五位反应都露出后，切信号来源；保留最后全分屏的短停。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY026",
+      "to": "CY027A",
+      "decision": "同一集合鸣响收尾，硬切『此刻』及教堂回声；不是又一次发令。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY027A",
+      "to": "CY027B",
+      "decision": "教主整句说完，按对视轴线切GPT近脸，Claude依然在屏障内受束。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY027B",
+      "to": "CY027C",
+      "decision": "『聒噪』句尾翼根展开，借动作方向省略掠过正门的路程，切完整屋顶上方。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY027C",
+      "to": "CY027D",
+      "decision": "空中二人对峙起势，切殿内九位伙伴各自迎敌，两处战斗同时开始。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY027D",
+      "to": "CY027E",
+      "decision": "八人迎上、千问留守后即切夜空强光，不逐招追拍。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY027E",
+      "to": "CY027E1",
+      "decision": "强光与轰鸣跨过交锋过程，落到黑袍静止和石缝尘埃。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY027E1",
+      "to": "CY027F",
+      "decision": "轰鸣尾声沉下去，拉回广角交代双方结果；特写不替代战后全貌。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY027F",
+      "to": "CY028",
+      "decision": "先确认敌方全倒地，GPT才上祭坛解救；千问继续抱宝宝。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY028",
+      "to": "CY028A",
+      "decision": "Claude完全离架并被抱稳后，才接放下、脚触地、扶稳的关系镜。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY028A",
+      "to": "CY029",
+      "decision": "新朝向和张开的手建立后，父亲喊声触发眼神反应；尚未先握手。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY029",
+      "to": "CY029A",
+      "decision": "父亲喊完、Claude转向右侧掌心，再切她从左侧主动握住的动作。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY029A",
+      "to": "CY030",
+      "decision": "握紧停一拍再切十二人离殿；宝宝仍由千问抱，敌人仍倒地。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY030",
+      "to": "CY031",
+      "decision": "门外月光淡出，街市声重新进入；『数日后』明确换日和休养间隔。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY031",
+      "to": "CY031A",
+      "decision": "宝宝向右看后，切白裙来人与长椅同框；先把空位变成有人来坐。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY031A",
+      "to": "CY032A",
+      "decision": "邀请与点头结束、两人坐稳，才切从左到右递出的勺柄。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY032A",
+      "to": "CY033",
+      "decision": "Claude已经持勺，转旁观者GPT接饮；两次接物形成轻柔呼应，不重演落座。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    },
+    {
+      "from": "CY033",
+      "to": "CY034",
+      "decision": "GPT放松的目光回到长椅，Claude开始第一口饭；不是突然换一处街市。",
+      "status": "reviewed; static plan, dynamic execution pending"
+    }
+  ],
+  "retired": [
+    {
+      "id": "CY026B1",
+      "merged_into": "CY026B",
+      "reason": "书本已在桌上，反应和应答并入双人镜，避免重复放书。"
+    },
+    {
+      "id": "CY026C1",
+      "merged_into": "CY026C",
+      "reason": "握柄动作重复；同一双人镜保留扬头回应和基地环境。"
+    },
+    {
+      "id": "CY032",
+      "merged_into": [
+        "CY031A",
+        "CY032A",
+        "CY034"
+      ],
+      "reason": "落座移到新关系镜，接勺由细节完成，第一口饭留末镜；删除重复已坐好持勺。"
+    }
+  ],
+  "independent_review": "asset_review reviewed full v0.4 sequence and agreed on the three additions and three mergers.",
+  "not_proven": "Dynamic action execution, actual SFX and audio performance."
+}

@@ -1,0 +1,102 @@
+{
+  "status": "passed",
+  "source_sha256": "f0e6bde36b8e2e3f1d55f0aa91411cd9ef129b25bdf23c895c047833056c65f2",
+  "source_not_modified_by_builder": true,
+  "previous_source_unchanged": true,
+  "changed_shots": {
+    "CY021A": {
+      "path": "镜头设计/图像/关键动作-v062/CY021A-v062-r2.png",
+      "sha256": "cb335f88a74a1ae130cd923035c9d71b10308411f186099f4e5e1ee23a54c1dc"
+    },
+    "CY022A": {
+      "path": "镜头设计/图像/关键动作-v062/CY022A-v062-r1.png",
+      "sha256": "93c90d979b473d1d485cc0f2e561fa1480f4a88f49866a877cb4f2f558e66368"
+    },
+    "CY023": {
+      "path": "镜头设计/图像/关键动作-v062/CY023-v062-r2.png",
+      "sha256": "54bb90cf93b1efd26d744fca02fb9cc57188cae66efdbc955a5081700909fefd"
+    },
+    "CY027B1": {
+      "path": "镜头设计/图像/关键动作-v062/CY027B1-v062-r1.png",
+      "sha256": "c6b32c8a212491a13b3a74bc2ebde08704541168d516c50005a8ed9f5ed13df9"
+    },
+    "CY028A": {
+      "path": "镜头设计/图像/关键动作-v062/CY028A-v062-r1.png",
+      "sha256": "66c1e6a1e927241ff33e2e5b8ba3290917711e12b62b95cc8c0803c6549f9497"
+    },
+    "CY029C": {
+      "path": "镜头设计/图像/关键动作-v062/CY029C-v062-r3.png",
+      "sha256": "38e05ea54215ca5ced2c22e6bcbf1ece71627214adf2759461069ce2bcc1dcd1"
+    },
+    "CY029D": {
+      "path": "镜头设计/图像/关键动作-v062/CY029D-v062-r2.png",
+      "sha256": "26b98e245d2de511a8e41d5a5ef6d532ff7b2e7c4e12d012f4a3394191663f30"
+    }
+  },
+  "affected_batches": [
+    {
+      "id": "GB010",
+      "shots": [
+        "CY021A"
+      ],
+      "references": 6,
+      "selected": "minimax-h3",
+      "chars": 1833
+    },
+    {
+      "id": "GB012",
+      "shots": [
+        "CY022A"
+      ],
+      "references": 7,
+      "selected": "minimax-h3",
+      "chars": 1874
+    },
+    {
+      "id": "GB013",
+      "shots": [
+        "CY023"
+      ],
+      "references": 9,
+      "selected": "minimax-h3",
+      "chars": 1931
+    },
+    {
+      "id": "GB024",
+      "shots": [
+        "CY027B1"
+      ],
+      "references": 7,
+      "selected": "minimax-h3",
+      "chars": 1980
+    },
+    {
+      "id": "GB027",
+      "shots": [
+        "CY028A"
+      ],
+      "references": 8,
+      "selected": "seedance25",
+      "chars": 2973
+    },
+    {
+      "id": "GB030-1",
+      "shots": [
+        "CY029C",
+        "CY029D"
+      ],
+      "references": 7,
+      "selected": "seedance25",
+      "chars": 3273
+    }
+  ],
+  "audio_outputs_sha256": {
+    "BGM试听.wav": "d43542e7346cbf350e3a03347b0f10bb6da8305023da4ae61634248eaf3d9ed7",
+    "BGM试听.mp3": "b875339a499ca9cdcc87f88f15bc9fadcdeb69a6c1107bd4f3bb79966aaea800",
+    "全片声音预览.mp3": "8d58cbcfdeefa123b0cf04e3e1cb72c9d4a225a1821c8150befd548da563a7b8"
+  },
+  "audio_outputs_identical": true,
+  "timing_dialogue_unchanged": true,
+  "author_adoption": false,
+  "video_generated": false
+}

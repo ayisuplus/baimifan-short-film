@@ -1,0 +1,6 @@
+{
+  "prompt_id": "869d8ff1-c6f3-47c3-a9d0-73111b75d9e9",
+  "submission": "comfy-local MCP run_workflow",
+  "receipt": "MCP returned error; confirmed matching workflow in live local queue; do not resubmit",
+  "status": "running"
+}

@@ -1,0 +1,95 @@
+{
+  "shots": 63,
+  "total_seconds": 237,
+  "new_ids": [
+    "CY021A",
+    "CY028A",
+    "CY031A"
+  ],
+  "retired_ids_preserved_in_history": [
+    "CY026B1",
+    "CY026C1",
+    "CY032"
+  ],
+  "existing_source_regions_unchanged": 60,
+  "adjacent_cuts_reviewed": 62,
+  "critical_sequence_chains": [
+    [
+      "CY004",
+      "CY006"
+    ],
+    [
+      "CY010A",
+      "CY011",
+      "CY016A",
+      "CY016B",
+      "CY016B1",
+      "CY016C"
+    ],
+    [
+      "CY016C",
+      "CY017",
+      "CY023"
+    ],
+    [
+      "CY018",
+      "CY021A",
+      "CY022A",
+      "CY022"
+    ],
+    [
+      "CY023",
+      "CY024",
+      "CY027",
+      "CY025"
+    ],
+    [
+      "CY026A",
+      "CY026E",
+      "CY026",
+      "CY027A"
+    ],
+    [
+      "CY027B",
+      "CY027C",
+      "CY027D",
+      "CY027E",
+      "CY027E1",
+      "CY027F"
+    ],
+    [
+      "CY027F",
+      "CY028",
+      "CY028A",
+      "CY029",
+      "CY029A",
+      "CY030"
+    ],
+    [
+      "CY031",
+      "CY031A",
+      "CY032A",
+      "CY033",
+      "CY034"
+    ]
+  ],
+  "reused_audio_unchanged_in_order": 20,
+  "new_dialogue_clips": 1,
+  "dialogue_no_overlaps_or_cutoffs": true,
+  "image_original_copy_pairs_verified": 32,
+  "frozen_request_inputs_verified": 5,
+  "history_html_matches_previous_commit": "fa46308",
+  "assets_and_v004_text_unchanged": true,
+  "local_html_links_verified": 1245,
+  "html_files_checked": [
+    "00_打开项目.html",
+    "资产/资产图册.html",
+    "镜头设计/带图分镜-v0.2.html",
+    "镜头设计/带图分镜-v0.3.html",
+    "镜头设计/带图分镜-v0.4.html",
+    "镜头设计/带图分镜.html"
+  ],
+  "video_produced": false,
+  "independent_review": "Full sequence and new three-panel image reviewed; final text cleanup applied.",
+  "schema_correction": "Initial build rejected invented priority continuity_bridge; corrected to supported normal without changing shared validator."
+}

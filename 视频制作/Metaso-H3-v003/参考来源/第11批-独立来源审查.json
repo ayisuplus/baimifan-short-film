@@ -1,0 +1,58 @@
+{
+  "version": "v003-independent-source-review",
+  "date": "2026-10-28",
+  "tool": "built-in imagegen",
+  "skill": "C:/Users/36322/.codex/skills/.system/imagegen/SKILL.md",
+  "aspect_ratio": "16:9",
+  "shots": [
+    {
+      "id": "CY016D",
+      "path": "CY016D-r001-上行抓木起态.png",
+      "prompt": "Edit the attached frame, output a single cinematic 16:9 frame. This is a precise continuity correction of an existing anime film storyboard, not a redesign. Keep the entire foreground child, her exact blue whale hat, face, blue winter outfit, both boots planted on the ground, both hands grabbing the left end of the SINGLE unlit black log, and the main black-and-gold robed adult at the right unchanged. Keep the low camera, cathedral staircase, blue stained glass and warm brazier light unchanged. Correct ONLY the background wood-carrying adults: show ONE or at most TWO black-and-gold robed adults seen from BEHIND, climbing UP the stairs AWAY from the camera toward the highest altar, each carrying one unlit black log. They must not face the camera or descend. Keep the one distant orange-haired white-dressed bound adult woman on the high altar as a single tiny blurred figure, never duplicate her. No doorway, no large wooden door, no extra people. Keep the child fully grounded and the foreground wood continuous. This is the start pose of a short struggle before anyone pushes her. No text, no panels, no labels.",
+      "source": [
+        "镜头设计/图像/空间张力-v063/CY016D-v063-r1.png"
+      ],
+      "review": "实看输出：前景两脚落地抓同一木头，背景主要教徒已背向上阶，最高处唯一Claude；未新增长门。通过起态检查。",
+      "sha256": "a8fd0e8d430662fb9fe19ddaf8bf0fef0ef5d1da29660847dea6773f46feaa20",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "CY017",
+      "path": "CY017-r001-推前抓木起态.png",
+      "prompt": "Create ONE 16:9 cinematic anime storyboard frame by editing image1. Image1 supplies exact child appearance, black-gold cultist clothing, floor-level camera, lighting and cathedral architecture, but its fallen pose is a LATER state and must change. Image2 supplies the immediately previous shot and correct continuity: child left, main cultist right, ONE continuous unlit black log between them, background people facing AWAY and walking upstairs. New frame is the instant BEFORE the first push. Same tiny blue-whale-hat child at LEFT has both BOOTS planted on the flat floor, knees bent but NOT kneeling, both hands still holding the near end of the log at chest height. Same adult at RIGHT cradles the far half of the log firmly with ONE arm; their OTHER hand is open, palm hovering just beside the child's shoulder, not yet making contact. The single log and both child hands must be clearly readable, no fused limbs. Low close camera but include child's boots so grounding is visible. Adult face/upper head cropped above frame; visible black-and-gold robe. Staircase rises behind toward upper LEFT; only ONE small blurred back-facing black-robed wood carrier already going UP, no front-facing descending figures. Claude stays out of this close shot: no white-clad people anywhere. Preserve exact child identity, baby proportions, blue coat and white fur, blue whale hat, purple-blue hair, boots, blue glass/warm braziers and dramatic light from reference. No new doors, no lantern attached to hands, no extra adults, no text, no panels. This is a clean physical START pose for a one-push action, not an impact, not a fallen aftermath.",
+      "source": [
+        "镜头设计/图像/空间张力-v063/CY017-v063-r2.png",
+        "视频制作/Metaso-H3-v003/修订参考/CY016D-r001-上行抓木起态.png"
+      ],
+      "review": "实看输出：孩子站立双脚落地仍抓木，教徒一臂托木另一手悬在肩头附近；白裙路人清空。手位置偏高，视频必须落到肩侧轻推而非头部。背景单个教徒背部小且模糊，上行由后续运动确认。通过起态检查。",
+      "sha256": "5a77306e64d99da798897de06b61475ffb43226f9ba1846343dcad0af9fc9d0e",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "CY018",
+      "path": "CY018-r001-抱腿起态.png",
+      "prompt": "Edit this existing anime storyboard into ONE 16:9 cinematic START frame for the second interception. Preserve this exact child's face, baby body proportions, blue whale hat, blue snowflake coat with white fur, purple-blue hair, blue boots, cathedral staircase, blue stained-glass and amber brazier light. CHANGE the child's pose from lying on the floor to HALF-KNEELING on the level floor at the foot of the stairs, at LEFT foreground. Both her hands already embrace the LOWER CALF of a DIFFERENT black-and-gold robed adult at RIGHT; her arms and hands clearly attached, head beside calf, both knees/one knee bear weight on ground, no hanging in the air. Adult upper body and the log they carry remain completely OUTSIDE the top edge. Show only this adult's ONE matching pair of boots/lower legs and hem. Adult oriented diagonally AWAY toward the staircase going UP, a three-quarter REAR view: nearest trailing calf is gripped by the child; its boot is planted, other boot is on the first stair. No kicking or falling yet; this is an anatomically stable pose before the adult gently pulls free. Keep the tight floor-level view, child left and adult right, stairs retreating toward the upper-right, plenty of physical separation for the subsequent release. REMOVE the background person entirely for clean space, no distant white-clothed people, no added doorway, no extra legs/boots/hands. Keep intense but non-graphic emotion and film quality. No text, no labels, no multiple panels.",
+      "source": [
+        "镜头设计/图像/空间张力-v063/CY018-v063-r2.png"
+      ],
+      "review": "实看输出：孩子低跪在地抱近侧小腿，两腿归同一教徒，另一靴踏较高阶；空背景、上身和木裁外。孩子身体低但未趴平，作为已抱腿起态可用。视频必须一次松手侧滑，不再先爬起追腿。通过起态检查。",
+      "sha256": "b38ec35b7073c2666074b858a430e64de1e8609ed1834f48c87d9765005f7514",
+      "size": [
+        1672,
+        941
+      ]
+    }
+  ],
+  "reuse": {
+    "id": "CY017A",
+    "path": "镜头设计/图像/火祭因果-v040/CY017A-v040-r1.png",
+    "review": "已实看，一名前景教徒双手放一根，后一名抱另一根待命；可直接做first_frame。后景静止，仅一根落定松手，取消两秒内多个连续堆高要求。"
+  },
+  "boundary": "仅制作并检查静帧，未提交视频、不修改执行队列；新图不代表动态因果通过。每镜执行参考只上传对应1张first_frame，勿把前后状态混上传。"
+}

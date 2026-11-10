@@ -1,0 +1,593 @@
+{
+  "schema_version": 1,
+  "execution_enabled": false,
+  "entries": [
+    {
+      "id": "h3-i2v",
+      "label": "H3 · 白米饭图生视频",
+      "provider": "comfyui",
+      "kind": "图生视频",
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\小鱼脱手与二维统一-v030\\041a-video-r1.api.json",
+      "template": "h3-i2v.json",
+      "sha256": "5eb12159171d876726e86d5972fd6bd23451018865fdaef514adf23cd9ca6cc6",
+      "format": "comfy-api",
+      "mapping": {
+        "prompt": [
+          "/8/inputs/prompt",
+          "/12/inputs/global_prompt"
+        ],
+        "image": "/7/inputs/image"
+      },
+      "note": "已有执行工作流快照；只准备参数；原模板固定 2.5 秒 / 24fps / 1344×768，含原生音频输出",
+      "params": [],
+      "slots": [
+        {
+          "key": "image",
+          "label": "输入图片",
+          "kind": "image",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "qwen-edit",
+      "label": "Qwen 2.1 · 白米饭关键帧",
+      "provider": "comfyui",
+      "kind": "图像编辑",
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\小鱼脱手与二维统一-v030\\037-key-r1.api.json",
+      "template": "qwen-edit.json",
+      "sha256": "813b05eb37b29f103b738a5dfdf2f819fe5fc6ade95ce56d8554120c8117707b",
+      "format": "comfy-api",
+      "mapping": {
+        "prompt": "/9/inputs/prompt",
+        "image": "/1/inputs/image",
+        "image2": "/2/inputs/image"
+      },
+      "note": "已有执行工作流快照；只准备参数",
+      "params": [],
+      "slots": [
+        {
+          "key": "image",
+          "label": "输入图片",
+          "kind": "image",
+          "required": true
+        },
+        {
+          "key": "image2",
+          "label": "第二参考图",
+          "kind": "image",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "canvas-1",
+      "label": "VOSR2-图片2倍",
+      "provider": "comfyui",
+      "kind": "图片超分",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\user\\default\\workflows\\02-专用超分与修复\\VOSR2-图片2倍.json",
+      "template": "canvas-1.api-ab759151be39.json",
+      "sha256": "ab759151be3945d3beaca39b83acd8cbc734faacec0e08e9198a6089fee32f6a",
+      "format": "comfy-api",
+      "mapping": {
+        "image": "/1/inputs/image"
+      },
+      "note": "API 已按当前本地节点校验；尚未执行；保留原 2 倍超分设置",
+      "params": [],
+      "slots": [
+        {
+          "key": "image",
+          "label": "输入图片",
+          "kind": "image",
+          "required": true
+        }
+      ],
+      "canvas_template": "canvas-1.json",
+      "canvas_sha256": "6076d58f3ff1b591d9dced0c6c432a54039ab901e3c233e0e93452f25ddf4848",
+      "prompt_mode": "none",
+      "prepare_enabled": true,
+      "validation": {
+        "checked_at": "2026-11-01T18:10:30.280560+00:00",
+        "valid": true,
+        "executed": false,
+        "object_info_sha256": "0168b5ecd791592987385fee15b2a1207c8578ab8c3002561382a2645a5a4e8d",
+        "cli_version": "1.22.0"
+      }
+    },
+    {
+      "id": "canvas-2",
+      "label": "VOSR2-视频2倍-保留帧率音轨",
+      "provider": "comfyui",
+      "kind": "视频超分",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\user\\default\\workflows\\02-专用超分与修复\\VOSR2-视频2倍-保留帧率音轨.json",
+      "template": "canvas-2.api-4a8dcdd6fd66.json",
+      "sha256": "4a8dcdd6fd66837324d0770081bf622179f2a96dbd285dbb13ba50815ee6326a",
+      "format": "comfy-api",
+      "mapping": {
+        "video": "/1/inputs/video"
+      },
+      "note": "API 已按当前本地节点校验；尚未执行；原 2 倍超分，保留源帧率与音轨；不按剪辑裁切",
+      "params": [],
+      "slots": [
+        {
+          "key": "video",
+          "label": "输入视频（完整源素材）",
+          "kind": "video",
+          "required": true
+        }
+      ],
+      "canvas_template": "canvas-2.json",
+      "canvas_sha256": "4dd1fa8cc059fac15718731c2360ae1f124ea7bbbb8e01c10268b96f69169f2b",
+      "prompt_mode": "none",
+      "prepare_enabled": true,
+      "validation": {
+        "checked_at": "2026-11-01T18:10:30.280560+00:00",
+        "valid": true,
+        "executed": false,
+        "object_info_sha256": "0168b5ecd791592987385fee15b2a1207c8578ab8c3002561382a2645a5a4e8d",
+        "cli_version": "1.22.0"
+      }
+    },
+    {
+      "id": "canvas-3",
+      "label": "01-中文配音与声音设计",
+      "provider": "comfyui",
+      "kind": "声音",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\user\\default\\workflows\\03-声音与音乐\\BreezeTTS2\\01-中文配音与声音设计.json",
+      "template": "canvas-3.api-76b97db0bddd.json",
+      "sha256": "76b97db0bddd8a6c212d01af160f4eca4b3cb8cd05f113333f7e707bd004e2d4",
+      "format": "comfy-api",
+      "mapping": {},
+      "note": "API 已按当前本地节点校验；尚未执行；对白和参考音频绑定后置，保留模板，不使用旧示例生成",
+      "params": [],
+      "slots": [],
+      "canvas_template": "canvas-3.json",
+      "canvas_sha256": "bf511ba2f527fd5d0392b8320dd655be0f3d97e7b51831bf7999c77347625ecb",
+      "prompt_mode": "none",
+      "prepare_enabled": false,
+      "validation": {
+        "checked_at": "2026-11-01T18:10:30.280560+00:00",
+        "valid": true,
+        "executed": false,
+        "object_info_sha256": "0168b5ecd791592987385fee15b2a1207c8578ab8c3002561382a2645a5a4e8d",
+        "cli_version": "1.22.0"
+      }
+    },
+    {
+      "id": "canvas-4",
+      "label": "03-克隆与情绪指导",
+      "provider": "comfyui",
+      "kind": "声音",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\user\\default\\workflows\\03-声音与音乐\\BreezeTTS2\\03-克隆与情绪指导.json",
+      "template": "canvas-4.api-f4e76af37d80.json",
+      "sha256": "f4e76af37d8091029291885502ce726d5f6f4261d256236727c55aebe8a0c1c2",
+      "format": "comfy-api",
+      "mapping": {},
+      "note": "API 已按当前本地节点校验；尚未执行；对白和参考音频绑定后置，保留模板，不使用旧示例生成",
+      "params": [],
+      "slots": [],
+      "canvas_template": "canvas-4.json",
+      "canvas_sha256": "95e17c9655b4f955329d7047903231a8a48f95b93e8e2582aed8794ad72d2f86",
+      "prompt_mode": "none",
+      "prepare_enabled": false,
+      "validation": {
+        "checked_at": "2026-11-01T18:10:30.280560+00:00",
+        "valid": true,
+        "executed": false,
+        "object_info_sha256": "0168b5ecd791592987385fee15b2a1207c8578ab8c3002561382a2645a5a4e8d",
+        "cli_version": "1.22.0"
+      }
+    },
+    {
+      "id": "canvas-5",
+      "label": "Nemotron-语音转录",
+      "provider": "comfyui",
+      "kind": "声音",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\user\\default\\workflows\\03-声音与音乐\\Nemotron-语音转录.json",
+      "template": "canvas-5.api-3b9f1b0f8361.json",
+      "sha256": "3b9f1b0f8361cdc974c995bd5c162b22ea30e5d585acdb5eb2ff755ada3e69d5",
+      "format": "comfy-api",
+      "mapping": {},
+      "note": "API 已按当前本地节点校验；尚未执行；对白和参考音频绑定后置，保留模板，不使用旧示例生成",
+      "params": [],
+      "slots": [],
+      "canvas_template": "canvas-5.json",
+      "canvas_sha256": "deb0cb89970464c74dcac116d743f16d4b2699360b8d44129cceb101dcdcddeb",
+      "prompt_mode": "none",
+      "prepare_enabled": false,
+      "validation": {
+        "checked_at": "2026-11-01T18:10:30.280560+00:00",
+        "valid": true,
+        "executed": false,
+        "object_info_sha256": "0168b5ecd791592987385fee15b2a1207c8578ab8c3002561382a2645a5a4e8d",
+        "cli_version": "1.22.0"
+      }
+    },
+    {
+      "id": "canvas-6",
+      "label": "Qwen-Image-2.1-全能编辑-16GB-v1",
+      "provider": "comfyui",
+      "kind": "图像编辑",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\user\\default\\workflows\\Qwen-Image-2.1-全能编辑-16GB-v1.json",
+      "template": "canvas-6.api-a9a08eb3cd06.json",
+      "sha256": "a9a08eb3cd06b073453a3fb686cc031577837bcc1a38784107286c8abbdf6146",
+      "format": "comfy-api",
+      "mapping": {
+        "image": "/1/inputs/image",
+        "prompt": "/9/inputs/prompt"
+      },
+      "note": "API 已按当前本地节点校验；尚未执行；原画布只用第一图编辑，准备副本省去未接生成的第二图预览分支；不改原画布",
+      "params": [],
+      "slots": [
+        {
+          "key": "image",
+          "label": "输入图片",
+          "kind": "image",
+          "required": true
+        }
+      ],
+      "canvas_template": "canvas-6.json",
+      "canvas_sha256": "4e55a8ec12829426156cc5bfc5ca3775fd887dad25992108a05f4ceb14366e01",
+      "prompt_mode": "saved",
+      "prepare_enabled": true,
+      "validation": {
+        "checked_at": "2026-11-01T18:10:30.280560+00:00",
+        "valid": true,
+        "executed": false,
+        "object_info_sha256": "0168b5ecd791592987385fee15b2a1207c8578ab8c3002561382a2645a5a4e8d",
+        "cli_version": "1.22.0"
+      }
+    },
+    {
+      "id": "canvas-7",
+      "label": "默认视频-H3二采修脸-VOSR2",
+      "provider": "comfyui",
+      "kind": "参考主体生视频",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\user\\default\\workflows\\默认视频-H3二采修脸-VOSR2.json",
+      "template": "canvas-7.api-f958465e7450.json",
+      "sha256": "f958465e74500f8a717b882cf46060d8df40bd810fcd0138e5efecb719a0722b",
+      "format": "comfy-api",
+      "mapping": {
+        "image": "/7/inputs/image",
+        "prompt": [
+          "/8/inputs/prompt",
+          "/12/inputs/global_prompt"
+        ]
+      },
+      "note": "API 已按当前本地节点校验；尚未执行；参考主体模式（非首帧模式）；保留原 832×1248 / 24fps / 158 帧，不跟随剪辑时长。输出14：首遍无声；16：二采修脸含声；25：VOSR2含声，不自动采用任一输出",
+      "params": [],
+      "slots": [
+        {
+          "key": "image",
+          "label": "输入图片",
+          "kind": "image",
+          "required": true
+        }
+      ],
+      "canvas_template": "canvas-7.json",
+      "canvas_sha256": "b1e6ca6ebc1eea695df8d2112110c1ed5bd2161feefb5b9aec3203808dab0c15",
+      "prompt_mode": "saved",
+      "prepare_enabled": true,
+      "validation": {
+        "checked_at": "2026-11-01T18:10:30.280560+00:00",
+        "valid": true,
+        "executed": false,
+        "object_info_sha256": "0168b5ecd791592987385fee15b2a1207c8578ab8c3002561382a2645a5a4e8d",
+        "cli_version": "1.22.0"
+      }
+    },
+    {
+      "id": "rtx",
+      "label": "RTX · 保守放大",
+      "provider": "comfyui",
+      "kind": "图片超分",
+      "format": "builtin-upscale",
+      "source": "OpenCut 原生超分工作流",
+      "note": "复用已有超分接口；本入口只准备，不执行",
+      "params": [
+        {
+          "key": "long_edge",
+          "label": "目标长边",
+          "options": [
+            "1920",
+            "2560",
+            "3840"
+          ],
+          "default": "3840"
+        }
+      ],
+      "slots": [
+        {
+          "key": "image",
+          "label": "输入图片",
+          "kind": "image",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "realesrgan",
+      "label": "Real-ESRGAN · 线条增强",
+      "provider": "comfyui",
+      "kind": "图片超分",
+      "format": "builtin-upscale",
+      "source": "OpenCut 原生超分工作流",
+      "note": "复用已有超分接口；本入口只准备，不执行",
+      "params": [
+        {
+          "key": "long_edge",
+          "label": "目标长边",
+          "options": [
+            "1920",
+            "2560",
+            "3840"
+          ],
+          "default": "3840"
+        }
+      ],
+      "slots": [
+        {
+          "key": "image",
+          "label": "输入图片",
+          "kind": "image",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "seedvr2",
+      "label": "SeedVR2 · 细节增强",
+      "provider": "comfyui",
+      "kind": "图片超分",
+      "format": "builtin-upscale",
+      "source": "OpenCut 原生超分工作流",
+      "note": "复用已有超分接口；本入口只准备，不执行",
+      "params": [
+        {
+          "key": "long_edge",
+          "label": "目标长边",
+          "options": [
+            "1920",
+            "2560",
+            "3840"
+          ],
+          "default": "3840"
+        }
+      ],
+      "slots": [
+        {
+          "key": "image",
+          "label": "输入图片",
+          "kind": "image",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "rh-h3",
+      "label": "MiniMax H3",
+      "provider": "runninghub",
+      "kind": "图生视频",
+      "format": "rh-model",
+      "endpoint": "minimax/hailuo-h3/image-to-video",
+      "source": "RunningHub 公开模型清单",
+      "note": "公开参数已核对；账户权限未验证",
+      "params": [
+        {
+          "key": "resolution",
+          "label": "输出分辨率",
+          "options": [
+            "2K"
+          ],
+          "default": "2K"
+        },
+        {
+          "key": "duration",
+          "label": "生成时长（秒，不改剪辑）",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15"
+          ],
+          "default": "5"
+        }
+      ],
+      "slots": [
+        {
+          "key": "firstFrameUrl",
+          "label": "首帧图",
+          "kind": "image",
+          "required": false,
+          "max_mb": 30
+        },
+        {
+          "key": "lastFrameUrl",
+          "label": "尾帧图",
+          "kind": "image",
+          "required": false,
+          "max_mb": 30
+        }
+      ],
+      "max_prompt": 20480,
+      "defaults": {}
+    },
+    {
+      "id": "rh-seedance",
+      "label": "Seedance 2.5",
+      "provider": "runninghub",
+      "kind": "图生视频",
+      "format": "rh-model",
+      "endpoint": "bytedance/seedance-2.5-token/image-to-video",
+      "source": "https://www.runninghub.cn/call-api/api-detail/2133100000000700021",
+      "note": "官方在线接口和参数已核实（2026-11-02）；共享 API 账户检查通过，单模型执行尚未验证。提供原生 1080p；另有 720p 后超分到 1080p / 2K / 4K。",
+      "params": [
+        {
+          "key": "resolution",
+          "label": "输出分辨率",
+          "options": [
+            "480p",
+            "720p",
+            "native1080p",
+            "1080p",
+            "2k",
+            "4k"
+          ],
+          "default": "720p",
+          "option_labels": {
+            "480p": "480p · 原生",
+            "720p": "720p · 原生",
+            "native1080p": "1080p · 原生",
+            "1080p": "1080p · 720p 后超分",
+            "2k": "2K · 720p 后超分",
+            "4k": "4K · 720p 后超分"
+          }
+        },
+        {
+          "key": "duration",
+          "label": "生成时长（秒，不改剪辑）",
+          "options": [
+            "-1",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30"
+          ],
+          "default": "5",
+          "option_labels": {
+            "-1": "智能时长"
+          }
+        }
+      ],
+      "slots": [
+        {
+          "key": "firstFrameUrl",
+          "label": "首帧图",
+          "kind": "image",
+          "required": true,
+          "max_mb": 30
+        },
+        {
+          "key": "lastFrameUrl",
+          "label": "尾帧图",
+          "kind": "image",
+          "required": false,
+          "max_mb": 30
+        }
+      ],
+      "max_prompt": 20480,
+      "defaults": {
+        "generateAudio": false,
+        "realPersonMode": false,
+        "watermark": false,
+        "ratio": "adaptive",
+        "returnLastFrame": false,
+        "bitrateMode": "standard",
+        "seed": -1,
+        "outputFormat": "mp4",
+        "draft": false
+      },
+      "verification": {
+        "status": "online_documentation_verified",
+        "checked_at": "2026-11-01T18:10:30.280560+00:00",
+        "source_url": "https://www.runninghub.cn/call-api/api-detail/2133100000000700021",
+        "execution_verified": false
+      }
+    },
+    {
+      "id": "rh-upscale",
+      "label": "RH 视频超分",
+      "provider": "runninghub",
+      "kind": "视频超分",
+      "format": "rh-model",
+      "endpoint": "rhart-video/video-upscaler",
+      "source": "RunningHub 公开模型清单",
+      "note": "公开参数已核对；账户权限未验证",
+      "params": [
+        {
+          "key": "targetResolution",
+          "label": "目标分辨率",
+          "options": [
+            "720p",
+            "1080p",
+            "2k",
+            "4k"
+          ],
+          "default": "1080p"
+        }
+      ],
+      "slots": [
+        {
+          "key": "videoUrl",
+          "label": "输入视频（完整源素材）",
+          "kind": "video",
+          "required": true,
+          "max_mb": 500
+        }
+      ],
+      "max_prompt": 20000,
+      "defaults": {}
+    },
+    {
+      "id": "woosh-sfx",
+      "label": "Woosh · 文字音效",
+      "kind": "音效",
+      "provider": "comfyui",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\user\\default\\workflows\\03-声音与音乐\\Woosh-文字音效.json",
+      "format": "comfy-api",
+      "template": "woosh-sfx.api-6cda0a1b23f0.json",
+      "sha256": "6cda0a1b23f08adc33ac9a7fd8d20af37046a50770f351aaa83df022eed37f5f",
+      "canvas_template": "woosh-sfx.canvas.json",
+      "canvas_sha256": "c687912b306824d89f1c1b092c2feb3997200ef5a411ea8eeead73f9424f10d1",
+      "mapping": {
+        "prompt": "/39/inputs/prompt"
+      },
+      "slots": [],
+      "params": [],
+      "prompt_mode": "input",
+      "prepare_enabled": true,
+      "note": "API 已按当前本地节点校验；尚未执行；音效描述仅用于本次参数准备，不覆盖镜头提示词；保留原采样设置和 FLAC 输出",
+      "validation": {
+        "checked_at": "2026-11-01T18:10:30.280560+00:00",
+        "valid": true,
+        "executed": false,
+        "object_info_sha256": "0168b5ecd791592987385fee15b2a1207c8578ab8c3002561382a2645a5a4e8d",
+        "cli_version": "1.22.0"
+      },
+      "text_input": {
+        "label": "本次音效描述",
+        "max_length": 4000
+      }
+    }
+  ]
+}

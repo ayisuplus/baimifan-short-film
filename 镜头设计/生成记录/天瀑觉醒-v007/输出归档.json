@@ -1,0 +1,302 @@
+{
+  "engine": "built-in imagegen",
+  "status": "candidate_static_review",
+  "outputs": [
+    {
+      "key": "25-天瀑起手",
+      "request": "25-天瀑起手-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-01c9f7bd-7daa-44b9-939d-040c66d46704.png",
+      "copy": "镜头设计/图像/CY024A-天瀑起手-v001.png",
+      "sha256": "e8c5c4da76bb6650457d368b1586143acfdd2cc05fe24ee5a0336f6886de3065",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "current_storyboard_candidate",
+      "referenced_shots": [
+        "CY024A"
+      ]
+    },
+    {
+      "key": "26-天瀑降临",
+      "request": "26-天瀑降临-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-da51ed57-e699-4fa3-952f-2d2d2f1276cd.png",
+      "copy": "镜头设计/图像/CY024B-天瀑降临-v001.png",
+      "sha256": "629dc9b970b9b6daa239bc990eb0812715995b79ef2c7a2a64d095644a2d209d",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "historical_candidate_preserved",
+      "referenced_shots": []
+    },
+    {
+      "key": "27-天瀑退潮",
+      "request": "27-天瀑退潮-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-efa3f398-fcd6-4d9d-add9-09b95644dc05.png",
+      "copy": "镜头设计/图像/CY027-天瀑之后-v001.png",
+      "sha256": "2b73e8515142afbaaac3e2340d4d634653181759f9da86673589b6e803ac862b",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "historical_candidate_preserved",
+      "referenced_shots": []
+    },
+    {
+      "key": "28-对峙水后",
+      "request": "28-对峙水后-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-fbe0e198-e334-421d-8354-7d1d2be819d3.png",
+      "copy": "镜头设计/图像/S05E-天瀑后对峙-v007.png",
+      "sha256": "ff4aefe96512b729b5194bc679779ebfc42ec9a52fb6e4ec47a8d585283cc68c",
+      "size": [
+        1367,
+        1150
+      ],
+      "status": "current_storyboard_candidate",
+      "referenced_shots": [
+        "CY027A",
+        "CY027B",
+        "CY027D",
+        "CY027F"
+      ]
+    },
+    {
+      "key": "29-湿态扶稳",
+      "request": "29-湿态扶稳-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-d407975d-cb48-4233-8e18-95807402169a.png",
+      "copy": "镜头设计/图像/空间修订F-解锁扶稳-v005.png",
+      "sha256": "850fae018df53e98a096be6fdf104a663ec55380267ea5690e2f74448270db6f",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "current_storyboard_candidate",
+      "referenced_shots": [
+        "CY027G",
+        "CY028A"
+      ]
+    },
+    {
+      "key": "30-觉醒与焚架",
+      "request": "30-觉醒与焚架-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-bc43d6c4-e28c-452d-b91d-ab91d1d5a5c6.png",
+      "copy": "镜头设计/图像/Claude-觉醒与焚架-四格-v001.png",
+      "sha256": "6f8a13427b5e8348201f78ba43e9f42dd51940e78d347d5c8c03ac7c5168a1ed",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "historical_candidate_preserved",
+      "referenced_shots": []
+    },
+    {
+      "key": "31-怀中觉醒",
+      "request": "31-怀中觉醒-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-65bae915-c27c-4609-b3c3-11a03cc0734a.png",
+      "copy": "镜头设计/图像/Claude-怀中觉醒-四格-v001.png",
+      "sha256": "655eea877faacda796481c4374fb259e29966726b0b6bc9f6989cdb6889b600f",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "historical_candidate_preserved",
+      "referenced_shots": []
+    },
+    {
+      "key": "32-抱着离殿",
+      "request": "32-抱着离殿-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-763c7dc6-c61e-4183-b2f3-715728991bc6.png",
+      "copy": "镜头设计/图像/CY030-公主抱离殿群像-v001.png",
+      "sha256": "f8e241e781ace247d0111983f7f4c3b86b419c61650538bc66f867a3d9a35414",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "current_storyboard_candidate",
+      "referenced_shots": [
+        "CY030"
+      ]
+    },
+    {
+      "key": "33-怀中回应",
+      "request": "33-怀中回应-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-2675501c-21e8-44e2-947d-6679f33bf56f.png",
+      "copy": "镜头设计/图像/CY029A-怀中回应-v001.png",
+      "sha256": "c80ba73a58a1f196b6203a22a432dae5f50dd10dc3c37ef77cb09c8bfc0f1b17",
+      "size": [
+        1672,
+        940
+      ],
+      "status": "historical_candidate_preserved",
+      "referenced_shots": []
+    },
+    {
+      "key": "34-天瀑宝宝与三阶",
+      "request": "34-天瀑宝宝与三阶-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-50cdfd06-c05c-4ddd-acfe-6889234715a6.png",
+      "copy": "镜头设计/图像/CY024B-天瀑降临-v002.png",
+      "sha256": "361305600bb062388f7455dc287ab79008daaf5a10c792955895d851ab21db29",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "historical_candidate_preserved",
+      "referenced_shots": []
+    },
+    {
+      "key": "35-退潮宝宝与站位",
+      "request": "35-退潮宝宝与站位-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-aefb56cf-60ee-44d7-b255-7cdca4a7458f.png",
+      "copy": "镜头设计/图像/CY027-天瀑之后-v002.png",
+      "sha256": "ff6685da5146690a2b7dae3f1769968e14141fc1ffbe26b7f35770d4a34fdb8e",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "current_storyboard_candidate",
+      "referenced_shots": [
+        "CY027"
+      ]
+    },
+    {
+      "key": "36-信号近景三阶",
+      "request": "36-信号近景三阶-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-76d0787f-c690-48f4-b7f7-4317cab3b9d5.png",
+      "copy": "镜头设计/图像/CY021-信号近景三阶-v001.png",
+      "sha256": "6bcad02801ffdef581c5e703363a6beda82bbf3b92990391988ea69d980f22ff",
+      "size": [
+        1672,
+        940
+      ],
+      "status": "historical_candidate_preserved",
+      "referenced_shots": []
+    },
+    {
+      "key": "37-站立施法同平台",
+      "request": "37-站立施法同平台-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-71793899-ef2f-40cb-8849-2af6ad166407.png",
+      "copy": "镜头设计/图像/Claude-觉醒与焚架-四格-v002.png",
+      "sha256": "1c2e3e004633506ab31d090d1ca97b0f62d3ce6db7e08a3df767531493331ec1",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "historical_candidate_preserved",
+      "referenced_shots": []
+    },
+    {
+      "key": "38-力竭接抱",
+      "request": "38-力竭接抱-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-1a8de6c1-d6de-4892-b8c1-a4282b8afee7.png",
+      "copy": "镜头设计/图像/Claude-力竭接抱-四格-v001.png",
+      "sha256": "f3fe658f45341d528f572ef27a6f2647c679c8e429fb0e6e89a41ec90362eca4",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "historical_candidate_preserved",
+      "referenced_shots": []
+    },
+    {
+      "key": "39-接抱过渡修正",
+      "request": "39-接抱过渡修正-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-f1d09d2c-10d8-4e1d-b9a4-83ccb0a80989.png",
+      "copy": "镜头设计/图像/Claude-力竭接抱-四格-v002.png",
+      "sha256": "7cb2c14e97c97d28e07039d208a58af23fcf545ebc7b16383806b7e572e53007",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "historical_candidate_preserved",
+      "referenced_shots": []
+    },
+    {
+      "key": "40-焚架平地修正",
+      "request": "40-焚架平地修正-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-cf4be7a4-14eb-406d-ba2c-40965e081897.png",
+      "copy": "镜头设计/图像/Claude-觉醒与焚架-四格-v003.png",
+      "sha256": "23ea8f248bbc60c00b0bc9f205718e029ce79327531d8c299ad051f4a5db5eca",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "current_storyboard_candidate",
+      "referenced_shots": [
+        "CY028B",
+        "CY028C",
+        "CY029",
+        "CY029B"
+      ]
+    },
+    {
+      "key": "41-天瀑双人抱持",
+      "request": "41-天瀑双人抱持-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-a92ca40b-dc11-4a56-b31d-82452d77226f.png",
+      "copy": "镜头设计/图像/CY024B-天瀑降临-v003.png",
+      "sha256": "6a92fc0309419768d66d32d1a8c2a8e73b70f6e5571351f245ecca8c35b173dd",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "current_storyboard_candidate",
+      "referenced_shots": [
+        "CY024B"
+      ]
+    },
+    {
+      "key": "42-信号四改三",
+      "request": "42-信号四改三-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-8d183249-eff1-421a-b984-d191ed91ae79.png",
+      "copy": "镜头设计/图像/CY021-信号近景三阶-v002.png",
+      "sha256": "91bc7990f13e1e9f383651c676f375ca75f595edf392e7d8a2e5e91b1ad34299",
+      "size": [
+        1673,
+        940
+      ],
+      "status": "current_storyboard_candidate",
+      "referenced_shots": [
+        "CY021"
+      ]
+    },
+    {
+      "key": "43-接抱花饰还原",
+      "request": "43-接抱花饰还原-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-8a787421-c235-41c7-bf66-9682424c5789.png",
+      "copy": "镜头设计/图像/Claude-力竭接抱-四格-v003.png",
+      "sha256": "9e07fa252ead35149ee93b6a1b2b0f83da9ae1207fdbba453cb753f894a21d55",
+      "size": [
+        1672,
+        941
+      ],
+      "status": "historical_candidate_preserved",
+      "referenced_shots": []
+    },
+    {
+      "key": "44-接抱景别收紧",
+      "request": "44-接抱景别收紧-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-8c384fe4-63ac-44b2-9dde-0f8b9b6842aa.png",
+      "copy": "镜头设计/图像/Claude-力竭接抱-四格-v004.png",
+      "sha256": "f8a7d13e0fc71ccc35df0ff096cd5df8287eefffc30d6e0e274dc91791b410a4",
+      "size": [
+        1671,
+        941
+      ],
+      "status": "current_storyboard_candidate",
+      "referenced_shots": [
+        "CY029C",
+        "CY029D",
+        "CY028",
+        "CY029A"
+      ]
+    }
+  ],
+  "failed_attempts": [
+    {
+      "key": "44-接抱景别收紧",
+      "attempt": 1,
+      "error": "connection failed: error sending request",
+      "retry": "same built-in tool; second attempt succeeded"
+    }
+  ]
+}

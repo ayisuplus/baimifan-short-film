@@ -1,0 +1,106 @@
+{
+  "prompt": [
+    16,
+    "88387778-9569-46ef-b064-8cdb83bfde9b",
+    {
+      "1": {
+        "class_type": "BreezeTTS2LoadModel",
+        "inputs": {
+          "model": "bf16 (best quality)",
+          "dtype": "bf16",
+          "device": "cuda",
+          "attention": "sdpa",
+          "decode_mode": "eager",
+          "download_if_missing": false
+        }
+      },
+      "2": {
+        "class_type": "BreezeTTS2VoiceDesign",
+        "inputs": {
+          "breeze_model": [
+            "1",
+            0
+          ],
+          "text": "Would you like some? One more try. I'll get you out of here.",
+          "instruction": "二次元动漫角色女声。音色柔软、圆润，灵动可爱，有鲜明的动漫配音感。说话有表情，语调轻巧、有弹性，句尾干净。邀请时带期待的小笑意，坚持时有一点小倔强，承诺时认真笃定。用清晰的英语说给定台词。",
+          "cfg_scale": 4.0,
+          "max_new_tokens": 256,
+          "temperature": 0.9,
+          "top_k": 50,
+          "top_p": 1.0,
+          "repetition_penalty": 1.1,
+          "depth_temperature": 0.9,
+          "depth_top_k": 50,
+          "depth_top_p": 1.0,
+          "seed": 20261027
+        }
+      },
+      "3": {
+        "class_type": "SaveAudio",
+        "inputs": {
+          "audio": [
+            "2",
+            0
+          ],
+          "filename_prefix": "audio/BreezeTTS2/WhiteRice-Xiaoyu-v004/literal-anime"
+        }
+      }
+    },
+    {
+      "client_id": "xiaoyu-literal-anime-v004",
+      "create_time": 1792991721873
+    },
+    [
+      "3"
+    ]
+  ],
+  "outputs": {
+    "3": {
+      "audio": [
+        {
+          "filename": "literal-anime_00001.flac",
+          "subfolder": "audio\\BreezeTTS2\\WhiteRice-Xiaoyu-v004",
+          "type": "output"
+        }
+      ]
+    }
+  },
+  "status": {
+    "status_str": "success",
+    "completed": true,
+    "messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "88387778-9569-46ef-b064-8cdb83bfde9b",
+          "timestamp": 1792991721874
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [
+            "1"
+          ],
+          "prompt_id": "88387778-9569-46ef-b064-8cdb83bfde9b",
+          "timestamp": 1792991721875
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "88387778-9569-46ef-b064-8cdb83bfde9b",
+          "timestamp": 1792991734187
+        }
+      ]
+    ]
+  },
+  "meta": {
+    "3": {
+      "node_id": "3",
+      "display_node": "3",
+      "parent_node": null,
+      "real_node_id": "3"
+    }
+  }
+}

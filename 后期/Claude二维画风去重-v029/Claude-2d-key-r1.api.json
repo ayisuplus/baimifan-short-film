@@ -1,0 +1,114 @@
+{
+  "1": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "Baimifan_v029_Claude_style_source.png"
+    }
+  },
+  "5": {
+    "class_type": "UNETLoader",
+    "inputs": {
+      "unet_name": "qwen_image_2.1_bf16.safetensors",
+      "weight_dtype": "fp8_e4m3fn"
+    }
+  },
+  "6": {
+    "class_type": "CLIPLoader",
+    "inputs": {
+      "clip_name": "qwen3vl_8b_fp8_scaled.safetensors",
+      "type": "qwen_image",
+      "device": "cpu"
+    }
+  },
+  "7": {
+    "class_type": "VAELoader",
+    "inputs": {
+      "vae_name": "qwen_image_2.1_vae_bf16.safetensors"
+    }
+  },
+  "8": {
+    "class_type": "QwenImage21Cache",
+    "inputs": {
+      "model": [
+        "5",
+        0
+      ],
+      "device": "cpu",
+      "dtype": "default"
+    }
+  },
+  "9": {
+    "class_type": "TextEncodeQwenImage21",
+    "inputs": {
+      "clip": [
+        "6",
+        0
+      ],
+      "vae": [
+        "7",
+        0
+      ],
+      "images.image_1": [
+        "1",
+        0
+      ],
+      "prompt": "Redraw this entire frame as a production cel from a traditional hand-drawn Japanese gothic fantasy anime. Preserve the EXACT composition, camera tilt, pose, perspective, character identity, expression, hair length, costume design, orange flower, veil, chained wrists and wooden cross. Only change the rendering style. Use clean confident dark ink outlines, flat matte color fills and hard-edged two-tone cel shadows. Draw hair as large simple orange locks with dark outlines and one broad flat highlight band; remove individual glossy rendered strands. Draw the face with flat peach color and one angular shadow shape, no smooth gradients or plastic specular highlights. Simplify fabric into clean white shapes with drawn orange flower motifs and black ink folds; no realistic lace relief or physically based fabric reflections. Keep the orange hair and amber eyes, ivory veil, white-orange dress, black collar ribbon. Preserve the original forward struggling pose and concerned speaking expression. Background cathedral painted in blue-violet and muted amber gouache, with simplified painted wood texture. Professional serious 2D anime, highly readable, beautiful expressive face, sharp line art. Clearly hand drawn, not 3D, not CGI, not a game render, not photorealistic, not a doll, not semi-realistic digital painting. No text.",
+      "negative_prompt": "3d, cgi, photorealism, glossy plastic skin, realistic hair strands, volumetric rendering, text, watermark",
+      "resolution": 992
+    }
+  },
+  "10": {
+    "class_type": "KSampler",
+    "inputs": {
+      "model": [
+        "8",
+        0
+      ],
+      "positive": [
+        "9",
+        0
+      ],
+      "negative": [
+        "9",
+        1
+      ],
+      "latent_image": [
+        "9",
+        2
+      ],
+      "seed": 202610300293,
+      "steps": 40,
+      "cfg": 1.0,
+      "sampler_name": "euler",
+      "scheduler": "simple",
+      "denoise": 1.0
+    }
+  },
+  "11": {
+    "class_type": "VAEDecodeTiled",
+    "inputs": {
+      "samples": [
+        "10",
+        0
+      ],
+      "vae": [
+        "7",
+        0
+      ],
+      "tile_size": 512,
+      "overlap": 64,
+      "temporal_size": 64,
+      "temporal_overlap": 8
+    }
+  },
+  "18": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "11",
+        0
+      ],
+      "filename_prefix": "Baimifan/v029/Claude-2d-key-r1"
+    }
+  }
+}

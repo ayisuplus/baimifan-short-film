@@ -1,0 +1,1663 @@
+{
+  "version": "v006",
+  "source": "镜头设计/shot-plan-v0.62.json",
+  "source_sha256": "f0e6bde36b8e2e3f1d55f0aa91411cd9ef129b25bdf23c895c047833056c65f2",
+  "scope": "133镜人物核对，补教主四视图和已采用分身身份；修正图待作者审阅",
+  "semantics": {
+    "visible": "本镜按动作/机位要求实际可见者，含可见手、脚、袍角等身体局部；局部范围在note限定",
+    "offscreen": "与本镜有关但画外、遮蔽或只有声音者，不是要求追加入画",
+    "reflection": "只允许在眼底等既定倒影中出现，不增加实体",
+    "transition": "同一镜起初可见、结尾被罩遮蔽等变化以note优先，不能将visible理解为全时可见"
+  },
+  "groups": {
+    "八位正门援军": [
+      "Qwen",
+      "Gemini",
+      "Grok",
+      "混元",
+      "Llama",
+      "智谱",
+      "Mistral",
+      "Perplexity"
+    ]
+  },
+  "identities": {
+    "DeepSeek": {
+      "aliases": [
+        "小鱼",
+        "宝宝"
+      ],
+      "anchor": "蓝发蓝眼、蓝鲸帽、圆脸宝宝比例；原始捧饭母本优先",
+      "master": "概念参考/02-DeepSeek-母版概念参考.webp"
+    },
+    "Claude": {
+      "aliases": [],
+      "anchor": "橙发橙金眼、白裙、左鬓橙色花饰与象牙白头纱；教堂段赤足，受火后至离殿固定焦损不修复；数日后街市为清洁衣物",
+      "master": "概念参考/01-Claude-母版概念参考.webp"
+    },
+    "ChatGPT": {
+      "aliases": [
+        "GPT"
+      ],
+      "anchor": "白发淡紫眼、白角、淡紫白膜翼、唯一白鳞尾；白紫龙形是其后段本体变身",
+      "master": "资产/图像/CHAR-GPT-v003.png"
+    },
+    "Qwen": {
+      "aliases": [
+        "千问"
+      ],
+      "anchor": "蓝紫发、蓝紫眼、原折扇；仅抱护段左臂抱小鱼、右手扇，邀请回闪不带宝宝",
+      "master_asset_id": "MULKZI2W5366M",
+      "master": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png"
+    },
+    "Kimi": {
+      "aliases": [],
+      "anchor": "银白长发、紫眼、深蓝裙；救援段小尺寸圆月双刃左明右暗，试镣后两刃收后腰",
+      "master_asset_id": "MULKZI2WMFNJE",
+      "master": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png"
+    },
+    "Grok": {
+      "aliases": [],
+      "anchor": "金色高双马尾、蓝眼、黑红铠甲、巨斧",
+      "master_asset_id": "MULKZI2WM2FEL",
+      "master": "资产/图像/四视图复用/C09_Grok-角色设定卡.png"
+    },
+    "Gemini": {
+      "aliases": [],
+      "anchor": "紫色猫耳与蓝紫猫尾、原设定异色瞳、书",
+      "master_asset_id": "MULKZI2W8B4P3",
+      "master": "资产/图像/四视图复用/C06_Gemini-角色设定卡.png"
+    },
+    "混元": {
+      "aliases": [
+        "Hunyuan"
+      ],
+      "anchor": "长深发、红围巾、剑",
+      "master_asset_id": "MULKZI2W35NQQ",
+      "master": "资产/图像/四视图复用/C16_Tencent-Hunyuan-角色设定卡.png"
+    },
+    "Llama": {
+      "aliases": [
+        "Meta"
+      ],
+      "anchor": "原C10_Meta角色卡；白发、原耳形、浅蓝紫眼、卫衣长裙",
+      "master_asset_id": "MULKZI2WY07S2",
+      "master": "资产/图像/四视图复用/C10_Meta-角色设定卡.png"
+    },
+    "智谱": {
+      "aliases": [
+        "Zai",
+        "GLM",
+        "Zai-GLM"
+      ],
+      "anchor": "黑发黑猫耳女仆、灰蓝眼、黑色大尾巴末端白毛",
+      "master_asset_id": "MULKZI2WQUZ98",
+      "master": "资产/图像/四视图复用/C05_Zai-GLM-角色设定卡.png"
+    },
+    "Mistral": {
+      "aliases": [],
+      "anchor": "橙发红帽、琥珀眼、佩剑",
+      "master_asset_id": "MULKZI2WI4VGS",
+      "master": "资产/图像/四视图复用/C08_Mistral-角色设定卡.png"
+    },
+    "Perplexity": {
+      "aliases": [],
+      "anchor": "青发青眼、眼镜耳机、青外套与法杖",
+      "master_asset_id": "MULKZI2W3JZ5F",
+      "master": "资产/图像/四视图复用/C07_Perplexity-角色设定卡.png"
+    },
+    "教主": {
+      "aliases": [],
+      "anchor": "Claude父亲、黑金教主礼服；与普通教徒区分",
+      "master": "资产/图像/CHAR-PRIEST-v001.png"
+    },
+    "教徒": {
+      "aliases": [],
+      "anchor": "黑袍/黑金袍教会群体，复用通用造型，非教主分身",
+      "master": "资产/图像/CHAR-CULTIST-v001.png"
+    },
+    "圣骑士": {
+      "aliases": [
+        "白龙宫殿圣骑士"
+      ],
+      "anchor": "白银甲、淡紫披风、封闭盔不露脸、长枪",
+      "master": "资产/图像/CHAR-PALADIN-v001.png"
+    },
+    "街市行人": {
+      "aliases": [],
+      "anchor": "当前街市参考中的背景行人，不新增可辨主角",
+      "master": null
+    },
+    "恶魔GPT": {
+      "aliases": [],
+      "anchor": "已采用v003分身四视图，比例配色保持",
+      "master_asset_id": "CHAR-GPT-DEVIL-CHIBI"
+    },
+    "天使GPT": {
+      "aliases": [],
+      "anchor": "已采用v003分身四视图，比例配色保持",
+      "master_asset_id": "CHAR-GPT-ANGEL-CHIBI"
+    },
+    "定格GPT底板": {
+      "aliases": [],
+      "anchor": "同一已冻结王座底图中的成人GPT，不参与生成表演"
+    }
+  },
+  "shots": {
+    "CY001": {
+      "visible": [
+        "DeepSeek",
+        "教徒",
+        "街市行人"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY002": {
+      "visible": [
+        "Claude",
+        "教徒"
+      ],
+      "offscreen": [
+        "DeepSeek"
+      ],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY003": {
+      "visible": [
+        "DeepSeek",
+        "Claude",
+        "教徒"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "Claude过肩前景仅局部，不扩展成并排全身。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY003A": {
+      "visible": [
+        "DeepSeek"
+      ],
+      "offscreen": [
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "只露DeepSeek持碗双手；Claude位于右侧画外，没有接碗手入画。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY003B": {
+      "visible": [
+        "Claude"
+      ],
+      "offscreen": [],
+      "reflection": [
+        "DeepSeek"
+      ],
+      "note": "仅Claude单眼，DeepSeek与饭碗只在眼底倒影，不增加实体宝宝。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY003C": {
+      "visible": [
+        "DeepSeek",
+        "Claude",
+        "教徒"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY004": {
+      "visible": [
+        "DeepSeek"
+      ],
+      "offscreen": [
+        "教徒",
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "教徒交代来自画外/门内；Claude随队进入门内，不为说明补近景。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY004A": {
+      "visible": [
+        "DeepSeek"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY004B": {
+      "visible": [
+        "DeepSeek"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY004C": {
+      "visible": [
+        "DeepSeek",
+        "圣骑士"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY004D": {
+      "visible": [
+        "DeepSeek",
+        "圣骑士"
+      ],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "GPT声音来自殿内，不在宫门实体出镜。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY005": {
+      "visible": [
+        "DeepSeek",
+        "ChatGPT"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "GPT在远处横向卧榻侧躺，头左脚右；跑程跨切省略，构图参考不是强制首帧。",
+      "basis": "v0.55实际新图逐张检查及连续性独立复核"
+    },
+    "CY006": {
+      "visible": [
+        "DeepSeek"
+      ],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "画内只有小鱼与虚化软垫前缘；GPT在画外侧躺，没有竖直肩影。",
+      "basis": "v0.55实际新图逐张检查及连续性独立复核"
+    },
+    "CY007": {
+      "visible": [
+        "ChatGPT"
+      ],
+      "offscreen": [
+        "DeepSeek"
+      ],
+      "reflection": [],
+      "note": "自身右手托腮，左手搭垫边；小鱼画外，表情克制不嘲笑。",
+      "basis": "v0.55实际新图逐张检查及连续性独立复核"
+    },
+    "CY008": {
+      "visible": [
+        "DeepSeek"
+      ],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "画内只有小鱼与虚化软垫前缘；GPT在画外侧躺，没有竖直肩影。",
+      "basis": "v0.55实际新图逐张检查及连续性独立复核"
+    },
+    "CY009": {
+      "visible": [
+        "DeepSeek",
+        "ChatGPT"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "小鱼前景向镜头走近，GPT在远处卧榻仍侧躺，不能写成画外。",
+      "basis": "v0.55实际新图逐张检查及连续性独立复核"
+    },
+    "CY010": {
+      "visible": [
+        "ChatGPT"
+      ],
+      "offscreen": [
+        "DeepSeek"
+      ],
+      "reflection": [],
+      "note": "只见GPT双手与袖口；右手已经离开脸侧，与左手轻柔摩挲。小鱼画外，头肩由靠垫支撑。",
+      "basis": "作者本轮指定搓手；主线程实看新手部静帧"
+    },
+    "CY009A": {
+      "visible": [
+        "ChatGPT",
+        "DeepSeek"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "紧过肩仅露半个后脑和一侧肩膀，远处小鱼背对镜头离去；王座、腿和尾巴在画外。图为站立目送终态，不是首帧；随同一次起身轻升收停。",
+      "basis": "v0.55实际新图逐张检查及连续性独立复核"
+    },
+    "CY010A": {
+      "visible": [
+        "DeepSeek",
+        "教徒"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "教徒为远处持灯离堂身影；召令来自画外教徒，不指定同一张脸。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY011": {
+      "visible": [
+        "DeepSeek"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY011A": {
+      "visible": [
+        "DeepSeek"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY012": {
+      "visible": [
+        "DeepSeek",
+        "Claude"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "Claude在远处最高祭坛受缚。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY013": {
+      "visible": [
+        "Claude"
+      ],
+      "offscreen": [
+        "DeepSeek"
+      ],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY013A": {
+      "visible": [
+        "Claude"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "仅赤足、踝链与局部裙摆。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY015": {
+      "visible": [
+        "DeepSeek",
+        "Claude"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY016": {
+      "visible": [
+        "DeepSeek",
+        "Claude"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY016A1": {
+      "visible": [],
+      "offscreen": [
+        "DeepSeek",
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "蜡烛微距无人物；前镜锁链余响在画外。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY016A": {
+      "visible": [
+        "DeepSeek"
+      ],
+      "offscreen": [
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "Claude劝离为画外声，DeepSeek回答为画内。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY016B": {
+      "visible": [
+        "DeepSeek"
+      ],
+      "offscreen": [
+        "Claude",
+        "教徒"
+      ],
+      "reflection": [],
+      "note": "只见DeepSeek搭锁扣的小手；教徒脚步低语在门外。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY016B1": {
+      "visible": [
+        "Claude"
+      ],
+      "offscreen": [
+        "DeepSeek",
+        "教徒"
+      ],
+      "reflection": [],
+      "note": "Claude眼睛极近景，嘴部画外；教徒仅脚步/门声。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY016C": {
+      "visible": [
+        "教徒"
+      ],
+      "offscreen": [
+        "DeepSeek",
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "从祭坛向门看返回队列，不凭空加入Claude正面。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY016D": {
+      "visible": [
+        "DeepSeek",
+        "教徒"
+      ],
+      "offscreen": [
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY017": {
+      "visible": [
+        "DeepSeek",
+        "教徒"
+      ],
+      "offscreen": [
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY017A": {
+      "visible": [
+        "教徒",
+        "Claude"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "教徒手部铺柴与Claude裙摆/脚托局部，不加脸部对白。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY018": {
+      "visible": [
+        "DeepSeek",
+        "教徒"
+      ],
+      "offscreen": [
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY018B": {
+      "visible": [
+        "Claude",
+        "教徒"
+      ],
+      "offscreen": [
+        "DeepSeek"
+      ],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY021A": {
+      "visible": [
+        "教主",
+        "教徒",
+        "Claude"
+      ],
+      "offscreen": [
+        "DeepSeek"
+      ],
+      "reflection": [],
+      "note": "教徒仅肩与手，Claude是高处虚焦受缚轮廓；教主面部与右手为主体。",
+      "basis": "v062实际图像及动作进出联合核对；静帧不是动态验收"
+    },
+    "CY019": {
+      "visible": [
+        "DeepSeek",
+        "教主",
+        "Claude"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "教主仅画右袍肩/侧身，不露脸或嘴；高处Claude虚焦且柴堆遮下半身。教主原句仍按画外方式，不让小鱼代说。",
+      "basis": "v060实际画面与动态进出镜联合核对"
+    },
+    "CY020": {
+      "visible": [
+        "Claude"
+      ],
+      "offscreen": [
+        "DeepSeek",
+        "教主"
+      ],
+      "reflection": [],
+      "note": "下方暴力不入画，推倒尚未发生。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY020B": {
+      "visible": [
+        "DeepSeek",
+        "教主"
+      ],
+      "offscreen": [
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "小鱼左下只见鲸帽后侧、侧脸与张臂局部；教主右侧脸胸口与垂手。无接触。",
+      "basis": "v060实际画面与动态进出镜联合核对"
+    },
+    "CY020A": {
+      "visible": [
+        "DeepSeek",
+        "教主"
+      ],
+      "offscreen": [
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "教主开头左手推开，落地后仅画右靴/袍角；头、右手火把在画外。小鱼清醒撑肘。",
+      "basis": "v060实际画面与动态进出镜联合核对"
+    },
+    "CY021": {
+      "visible": [
+        "DeepSeek",
+        "教主"
+      ],
+      "offscreen": [
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "教主仅身旁袍尾局部；Claude求情为画外声。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY021B": {
+      "visible": [
+        "DeepSeek",
+        "教主"
+      ],
+      "offscreen": [
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "只见小手、袖口与教主袍尾，两人头身画外。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY022A": {
+      "visible": [
+        "DeepSeek",
+        "教主"
+      ],
+      "offscreen": [
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "小鱼局部脸/袖/手，教主只见袍尾；教主脸与右手火把画外。",
+      "basis": "v062实际图像及动作进出联合核对；静帧不是动态验收"
+    },
+    "CY022A1": {
+      "visible": [
+        "教主",
+        "Claude"
+      ],
+      "offscreen": [
+        "DeepSeek"
+      ],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY022": {
+      "visible": [
+        "教主"
+      ],
+      "offscreen": [
+        "Claude",
+        "DeepSeek"
+      ],
+      "reflection": [],
+      "note": "仅持火把的右手与柴木接触局部，退阶用剪辑省略。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY022B": {
+      "visible": [
+        "Claude"
+      ],
+      "offscreen": [
+        "DeepSeek",
+        "教主",
+        "教徒"
+      ],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY022B2": {
+      "visible": [
+        "教主",
+        "教徒",
+        "DeepSeek"
+      ],
+      "offscreen": [
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "Claude完全被黑焰遮蔽，不出现可辨认身体或脸。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY022B1": {
+      "visible": [
+        "圣骑士"
+      ],
+      "offscreen": [
+        "ChatGPT",
+        "八位正门援军"
+      ],
+      "reflection": [],
+      "note": "不提前露GPT。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY026": {
+      "visible": [
+        "ChatGPT",
+        "圣骑士"
+      ],
+      "offscreen": [
+        "八位正门援军"
+      ],
+      "reflection": [],
+      "note": "GPT只露腰下腿、裙摆、单尾；骑士可见甲靴与枪杆。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY022C": {
+      "visible": [],
+      "offscreen": [
+        "教徒",
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "门内环境空镜，教徒吟唱和门外动静画外。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY023": {
+      "visible": [
+        "ChatGPT"
+      ],
+      "offscreen": [
+        "八位正门援军",
+        "教徒"
+      ],
+      "reflection": [],
+      "note": "GPT只见鞋、腿和衣摆，完整面容与队伍下一镜揭示。",
+      "basis": "v062实际图像及动作进出联合核对；静帧不是动态验收"
+    },
+    "CY024": {
+      "visible": [
+        "ChatGPT",
+        "八位正门援军"
+      ],
+      "offscreen": [
+        "Kimi",
+        "DeepSeek",
+        "Claude",
+        "教主"
+      ],
+      "reflection": [],
+      "note": "GPT加八位同伴共九位；Kimi不能出现在正门群像。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024R": {
+      "visible": [
+        "教主",
+        "教徒"
+      ],
+      "offscreen": [
+        "Kimi",
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "Kimi仅画外呼唤。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024K00": {
+      "visible": [
+        "Kimi"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "开始没有人形；月光逐渐构成Kimi背影，完整实体仅在最后0.5秒出现；不露面、不转头。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024K0": {
+      "visible": [
+        "Kimi"
+      ],
+      "offscreen": [
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "Kimi在窗外近景现场说话，Claude位于窗内画外，不能透玻璃加人。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024K1": {
+      "visible": [],
+      "offscreen": [
+        "Kimi",
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "仅明刃与玻璃；Kimi不穿窗、没有实体入画。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024K1A": {
+      "visible": [],
+      "offscreen": [
+        "Kimi",
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "仅明刃钉柴；Kimi术名画外。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024K2": {
+      "visible": [
+        "Kimi",
+        "Claude"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024K2A": {
+      "visible": [
+        "教徒",
+        "Kimi",
+        "Claude"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024K3": {
+      "visible": [
+        "教徒",
+        "Kimi",
+        "Claude"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "动作起始Kimi与Claude可见；罩闭合后两人及刑架完全不可见。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024K4": {
+      "visible": [
+        "Kimi",
+        "Claude"
+      ],
+      "offscreen": [
+        "教徒"
+      ],
+      "reflection": [],
+      "note": "罩内只见暗膜，不透出教堂人物；外界攻击声为远处闷响。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY023A": {
+      "visible": [
+        "圣骑士"
+      ],
+      "offscreen": [
+        "ChatGPT",
+        "八位正门援军"
+      ],
+      "reflection": [],
+      "note": "仅后续骑士跟进，主角先遣队已入殿。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY026A": {
+      "visible": [
+        "ChatGPT",
+        "Qwen"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY026A1": {
+      "visible": [
+        "Qwen"
+      ],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "Qwen仅手与合扇，回答不要求嘴部入画。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY026B": {
+      "visible": [
+        "ChatGPT",
+        "Gemini"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY026C": {
+      "visible": [
+        "ChatGPT",
+        "Grok"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY026D1": {
+      "visible": [
+        "Kimi"
+      ],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "Kimi双眼近特写，GPT呼名为画外声。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY026D": {
+      "visible": [
+        "ChatGPT",
+        "Kimi"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY026E": {
+      "visible": [
+        "混元",
+        "Llama",
+        "智谱",
+        "Mistral",
+        "Perplexity"
+      ],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "五列逐一显露，同一角色一格，GPT仅画外点名。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024A0": {
+      "visible": [
+        "Qwen",
+        "DeepSeek"
+      ],
+      "offscreen": [
+        "GPT",
+        "Kimi",
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "仅千问头肩、孩子鲸帽后脑与抓衣小手；成人双手与合扇不入画。",
+      "basis": "v060实际画面与动态进出镜联合核对"
+    },
+    "CY024A": {
+      "visible": [
+        "ChatGPT"
+      ],
+      "offscreen": [
+        "Qwen",
+        "DeepSeek",
+        "教主"
+      ],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024A9": {
+      "visible": [
+        "教主"
+      ],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "GPT咏唱为画外。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024A10": {
+      "visible": [
+        "Qwen"
+      ],
+      "offscreen": [
+        "DeepSeek",
+        "ChatGPT",
+        "教主"
+      ],
+      "reflection": [],
+      "note": "Qwen仅右手开扇；左臂抱宝宝画外，GPT咏唱画外。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024A11": {
+      "visible": [],
+      "offscreen": [
+        "Qwen",
+        "教主",
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "只见一枚实体扇叶，无人脸无敌方术光；GPT咏唱画外。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024A12": {
+      "visible": [],
+      "offscreen": [
+        "Qwen",
+        "教主",
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "只见扇叶与术光碰撞；GPT咏唱画外。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024A1": {
+      "visible": [
+        "Kimi",
+        "Claude"
+      ],
+      "offscreen": [
+        "ChatGPT",
+        "教徒"
+      ],
+      "reflection": [],
+      "note": "GPT咏唱画外，不能让Kimi或Claude代说。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024A2": {
+      "visible": [
+        "Kimi",
+        "Claude"
+      ],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024A3": {
+      "visible": [],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "纯水珠微距，GPT咏唱画外。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024A6": {
+      "visible": [],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "云海与完整教堂，不新增人形GPT在外景。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024A7": {
+      "visible": [],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "召唤的纯水龙为法术体，不是GPT变身；GPT声音画外。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024A5A": {
+      "visible": [],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "仅同一召唤水龙与破顶碎石，不出现第二个人或龙。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024A4": {
+      "visible": [
+        "Kimi",
+        "Claude"
+      ],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "Claude主要露小腿脚托；GPT咏唱画外。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024A8": {
+      "visible": [
+        "教主"
+      ],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "纯水龙反光不算角色倒影，GPT咏唱画外。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024A5": {
+      "visible": [
+        "ChatGPT"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "身边召唤水龙非独立人物、非GPT本体。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024A5B": {
+      "visible": [
+        "ChatGPT"
+      ],
+      "offscreen": [
+        "教主"
+      ],
+      "reflection": [],
+      "note": "召唤水龙随手势出击。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024B": {
+      "visible": [
+        "教主"
+      ],
+      "offscreen": [
+        "ChatGPT",
+        "Kimi",
+        "Claude",
+        "教徒"
+      ],
+      "reflection": [],
+      "note": "水龙是召唤物；GPT与最高祭坛明确画外。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024B1": {
+      "visible": [
+        "教徒"
+      ],
+      "offscreen": [
+        "Kimi",
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "远处只有不透明罩，不画出Kimi或Claude。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024B3": {
+      "visible": [],
+      "offscreen": [
+        "Kimi",
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "环境与不透明暗罩；罩内二人不可见。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY024B3A": {
+      "visible": [
+        "Kimi",
+        "Claude"
+      ],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY027": {
+      "visible": [
+        "ChatGPT",
+        "教主"
+      ],
+      "offscreen": [
+        "Kimi",
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "最高祭坛仅不透明罩；不显露罩内人物。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY027A": {
+      "visible": [
+        "ChatGPT",
+        "教主"
+      ],
+      "offscreen": [
+        "Kimi",
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "GPT过肩前景，教主说话；罩内人物不可见。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY027B": {
+      "visible": [
+        "ChatGPT"
+      ],
+      "offscreen": [
+        "教主"
+      ],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY027B1": {
+      "visible": [
+        "ChatGPT"
+      ],
+      "offscreen": [
+        "教主"
+      ],
+      "reflection": [],
+      "note": "GPT由人形化为白紫龙，是同一角色单一连续形态。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY027B2": {
+      "visible": [
+        "教主"
+      ],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "教主转鸦翼人形态；面容仍可辨。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY027B3": {
+      "visible": [
+        "ChatGPT",
+        "教主"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "GPT为白紫龙，教主为鸦翼人形。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY027C": {
+      "visible": [
+        "ChatGPT",
+        "教主"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "GPT为白紫龙，教主为鸦翼人形。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY025": {
+      "visible": [
+        "DeepSeek"
+      ],
+      "offscreen": [
+        "Qwen"
+      ],
+      "reflection": [
+        "ChatGPT"
+      ],
+      "note": "GPT只在DeepSeek蓝眼中作为模糊白紫龙影，不加实体龙或脸。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY027E": {
+      "visible": [],
+      "offscreen": [
+        "ChatGPT",
+        "教主"
+      ],
+      "reflection": [],
+      "note": "天空闪光省略战斗，无可辨角色实体。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY027E1": {
+      "visible": [],
+      "offscreen": [
+        "ChatGPT",
+        "教主"
+      ],
+      "reflection": [],
+      "note": "湿地涟漪只映白紫与暗金闪光，不渲染人物倒影。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY027D0": {
+      "visible": [
+        "圣骑士",
+        "教徒"
+      ],
+      "offscreen": [
+        "八位正门援军"
+      ],
+      "reflection": [],
+      "note": "敌人为新来的外院教徒，不让已倒下者复起。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY027D": {
+      "visible": [
+        "八位正门援军",
+        "DeepSeek",
+        "圣骑士",
+        "教徒"
+      ],
+      "offscreen": [
+        "Kimi",
+        "Claude",
+        "ChatGPT",
+        "教主"
+      ],
+      "reflection": [],
+      "note": "八位下层同伴含Qwen，Qwen仍抱DeepSeek；Kimi与Claude被暗罩遮蔽。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY027E2": {
+      "visible": [],
+      "offscreen": [
+        "ChatGPT",
+        "教主",
+        "八位正门援军",
+        "DeepSeek",
+        "Kimi",
+        "Claude",
+        "教徒",
+        "圣骑士"
+      ],
+      "reflection": [],
+      "note": "教堂与空地大远景，仅闪光交代战斗，不增加可辨近景人物。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY027F": {
+      "visible": [
+        "ChatGPT",
+        "教主",
+        "八位正门援军",
+        "DeepSeek",
+        "教徒",
+        "圣骑士"
+      ],
+      "offscreen": [
+        "Kimi",
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "GPT已恢复人形；Kimi继续最高祭坛护罩内，Claude未解锁。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY027F0": {
+      "visible": [
+        "ChatGPT",
+        "教主"
+      ],
+      "offscreen": [
+        "八位正门援军",
+        "DeepSeek",
+        "Kimi",
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "仅GPT取钥匙手与教主腰带局部。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY027F2": {
+      "visible": [
+        "ChatGPT",
+        "Kimi",
+        "Claude"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "罩散尽才露人物及刑架；交钥匙只发生一次。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY027F1": {
+      "visible": [
+        "Kimi",
+        "Claude"
+      ],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "Kimi手/钥匙与Claude双踝局部，不强求脸入画。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY027G": {
+      "visible": [
+        "ChatGPT",
+        "Kimi",
+        "Claude"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY028A": {
+      "visible": [
+        "ChatGPT",
+        "Kimi",
+        "Claude"
+      ],
+      "offscreen": [
+        "Qwen",
+        "DeepSeek"
+      ],
+      "reflection": [],
+      "note": "起段三人，近景阶段Kimi仅左缘虚焦衣肩；Claude与GPT脸及扶持手为主体。",
+      "basis": "v062实际图像及动作进出联合核对；静帧不是动态验收"
+    },
+    "CY028A2": {
+      "visible": [
+        "Qwen",
+        "DeepSeek"
+      ],
+      "offscreen": [
+        "ChatGPT",
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "GPT安抚回答为画外声。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY028B": {
+      "visible": [
+        "Claude"
+      ],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "只拍Claude指尖初蓄，声音属于她，嘴不在画面。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY028C": {
+      "visible": [
+        "Claude"
+      ],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "只拍同一右手腕部，首句连续。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY029": {
+      "visible": [
+        "Claude"
+      ],
+      "offscreen": [
+        "教主",
+        "ChatGPT"
+      ],
+      "reflection": [
+        "教主"
+      ],
+      "note": "Claude单眼极近景，父亲既有倒影又有画外呼唤，非实体同框。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY029E": {
+      "visible": [
+        "教主"
+      ],
+      "offscreen": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "父亲呼唤尾音，不重复整句。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY029E1": {
+      "visible": [
+        "Claude"
+      ],
+      "offscreen": [
+        "ChatGPT",
+        "教主"
+      ],
+      "reflection": [],
+      "note": "Claude现场续咒，GPT守在身侧画外。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY029E2": {
+      "visible": [
+        "教主"
+      ],
+      "offscreen": [
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "Claude咏唱画外，教主不代说。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY029E3": {
+      "visible": [
+        "Claude"
+      ],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "只拍Claude左手托右腕与同一火种。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY029E4": {
+      "visible": [
+        "DeepSeek",
+        "Qwen"
+      ],
+      "offscreen": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "Claude咏唱画外，小鱼抿唇不代说。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY029B1": {
+      "visible": [
+        "Claude"
+      ],
+      "offscreen": [
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "只拍施法手，Claude术名画外。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY029B2": {
+      "visible": [],
+      "offscreen": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "reflection": [],
+      "note": "火种主观与空刑架，无人，中央不画火种本体。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY029B": {
+      "visible": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "刑架为空；Claude手已放下，火只在空架。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY029C": {
+      "visible": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY029D": {
+      "visible": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY028": {
+      "visible": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY029A": {
+      "visible": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY030": {
+      "visible": [
+        "ChatGPT",
+        "Claude",
+        "DeepSeek",
+        "八位正门援军",
+        "Kimi",
+        "教主",
+        "教徒",
+        "圣骑士"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "十二核心角色离殿：GPT、Claude、DeepSeek、八位正门援军、Kimi；教主教徒倒地、骑士留守不混入离殿队形。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY031": {
+      "visible": [
+        "DeepSeek",
+        "街市行人"
+      ],
+      "offscreen": [
+        "Claude"
+      ],
+      "reflection": [],
+      "note": "Claude脚步画外，长椅右侧空位仍无人。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY031A": {
+      "visible": [
+        "DeepSeek",
+        "Claude"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY032A": {
+      "visible": [
+        "DeepSeek",
+        "Claude"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "仅接勺手与饭碗，嘴部不入画。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY033": {
+      "visible": [
+        "ChatGPT",
+        "Grok",
+        "DeepSeek",
+        "Claude"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "GPT和Grok主体；DeepSeek与Claude只在虚化后景长椅，不增加说话。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY034A": {
+      "visible": [
+        "Claude"
+      ],
+      "offscreen": [
+        "DeepSeek"
+      ],
+      "reflection": [],
+      "note": "仅Claude鼻尖嘴角、手和勺；饭碗由画外DeepSeek稳住。",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY034": {
+      "visible": [
+        "DeepSeek",
+        "Claude"
+      ],
+      "offscreen": [],
+      "reflection": [],
+      "note": "",
+      "basis": "当前镜头action/framing/entry/exit与场景剧本正文，非asset_ids推断；文字层未实看全部原图"
+    },
+    "CY008M": {
+      "visible": [
+        "恶魔GPT",
+        "天使GPT",
+        "定格GPT底板"
+      ],
+      "offscreen": [
+        "DeepSeek"
+      ],
+      "reflection": [],
+      "note": "成人本体已烘焙在冻结底板中，只复用像素、不重生成人身份；两只分身按各自四视图独立表演。",
+      "basis": "作者采用内心戏及实际录音"
+    }
+  },
+  "metadata_rebind_note": "仅主计划report_revision更正为v053r3，132镜内容及人物审查依据未变。"
+}

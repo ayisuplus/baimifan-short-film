@@ -1,0 +1,1 @@
+{"schema": "envelope/1", "type": "envelope", "ok": true, "command": "download", "version": "1.22.0", "where": "local", "data": {"prompt_id": "77b02fd3-4bd0-48b5-838c-491e33023743", "urls": ["http://127.0.0.1:8188/view?filename=palace_rtx_00001_.png&subfolder=Baimifan%5CUpscale_20261031&type=output"]}, "error": null}

@@ -1,0 +1,119 @@
+{
+  "review_passed": true,
+  "review_scope": "Independent dense-frame check plus lead review; low spear barrier and fixed guards verified. Remove [234,247) spatial morph, use hard cut. Not full-film artistic acceptance.",
+  "video": [
+    {
+      "path": "视频制作/Metaso-H3-v015/产物/GB003-v015-guards-night-r2.mp4",
+      "sha256": "ca8eefb0338f2e21264b388b0acce557f32bc30cd0c3cf8328c594651e2878c7",
+      "in": 0,
+      "out": 234,
+      "frames": 234,
+      "speed": 100
+    },
+    {
+      "path": "视频制作/Metaso-H3-v015/产物/GB003-v015-guards-night-r2.mp4",
+      "sha256": "ca8eefb0338f2e21264b388b0acce557f32bc30cd0c3cf8328c594651e2878c7",
+      "in": 247,
+      "out": 277,
+      "frames": 30,
+      "speed": 100
+    }
+  ],
+  "foley": {
+    "path": "后期/逐镜修订-v012/第三批/声音/Foley-v012-B03.wav",
+    "sha256": "8e79b6f2e7baa0c008e4bac7a5b414e410c5da9bb4304d959eb10598047a2525",
+    "changed_frames": [
+      682,
+      946
+    ],
+    "outside_interval_pcm_exact": true,
+    "events": [
+      {
+        "id": "SFX-176",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-176-音效工作段.wav",
+        "relative_seconds": 0.25,
+        "duration": 0.26,
+        "incremental_gain_db": -4
+      },
+      {
+        "id": "SFX-177",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-177-音效工作段.wav",
+        "relative_seconds": 0.65,
+        "duration": 0.26,
+        "incremental_gain_db": -4
+      },
+      {
+        "id": "SFX-176",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-176-音效工作段.wav",
+        "relative_seconds": 1.05,
+        "duration": 0.26,
+        "incremental_gain_db": -4
+      },
+      {
+        "id": "SFX-177",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-177-音效工作段.wav",
+        "relative_seconds": 1.5,
+        "duration": 0.26,
+        "incremental_gain_db": -4
+      },
+      {
+        "id": "SFX-009",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-009-音效工作段.wav",
+        "relative_seconds": 2.1,
+        "duration": 1.4,
+        "incremental_gain_db": -2
+      },
+      {
+        "id": "SFX-009",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-009-音效工作段.wav",
+        "relative_seconds": 7.25,
+        "duration": 0.9,
+        "incremental_gain_db": -4
+      },
+      {
+        "id": "SFX-176",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-176-音效工作段.wav",
+        "relative_seconds": 8.5,
+        "duration": 0.26,
+        "incremental_gain_db": -3
+      },
+      {
+        "id": "SFX-177",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-177-音效工作段.wav",
+        "relative_seconds": 8.9,
+        "duration": 0.26,
+        "incremental_gain_db": -3
+      },
+      {
+        "id": "SFX-176",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-176-音效工作段.wav",
+        "relative_seconds": 9.35,
+        "duration": 0.26,
+        "incremental_gain_db": -4
+      },
+      {
+        "id": "SFX-177",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-177-音效工作段.wav",
+        "relative_seconds": 9.85,
+        "duration": 0.26,
+        "incremental_gain_db": -4
+      },
+      {
+        "id": "SFX-176",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-176-音效工作段.wav",
+        "relative_seconds": 10.25,
+        "duration": 0.26,
+        "incremental_gain_db": -4
+      },
+      {
+        "id": "SFX-177",
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\SFX-177-音效工作段.wav",
+        "relative_seconds": 10.65,
+        "duration": 0.26,
+        "incremental_gain_db": -5
+      }
+    ]
+  },
+  "voice_subtitles_unchanged": true,
+  "author_final_accepted": false
+}

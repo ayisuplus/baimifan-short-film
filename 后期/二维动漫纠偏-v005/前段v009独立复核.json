@@ -1,0 +1,91 @@
+{
+  "scope": "仅B07 v009入洞内侧补镜，复核二维画法、真实承重爬入/抬眼与48帧剪点",
+  "attempt_id": "GB006-v009-early-inside-2d-r1",
+  "source": "视频制作/Metaso-H3-v009/产物/GB006-v009-early-inside-2d-r1.mp4",
+  "sha256": "b7b48c8706d210eb419f404ae0afd36bc0c0382c8ed7adcd81491728c531f29e",
+  "reference": {
+    "path": "视频制作/Metaso-H3-v009/参考/inside-2d-keyframe.png",
+    "sha256": "2640574638b344779076b0d273bbb2d0dc17975527ced93aa20a70ed76acec75",
+    "viewed": true
+  },
+  "fps": 24,
+  "actual_video_frames": 107,
+  "actual_container_seconds": 4.458333,
+  "decision": "通过定点候选复核；可替换v008相同2秒槽位供作者工程内核验",
+  "supersedes": "针对B07采用选择，以v009明确二维版本替代先前v008候选；旧审查与原片保留。",
+  "style_check": {
+    "result": "通过",
+    "observations": [
+      "与重绘输入同方向：帽顶采用干净的大色面与绘制高光，毛边是清晰波浪轮廓和简化阴影，不再依赖高密毛绒材料。",
+      "腿部、手臂与脸的轮廓及阴影边界明确，发束是成组的描线与色面；不同于先前连续材料塑形主导的观感。",
+      "石洞由大块绘制石面与裂缝构成，反光和冷暖光保留但不再用密集石材微表面吸引注意。",
+      "细节仍丰富，雪花花纹/帽饰/眼睛/衣褶未因此丢失。阴影和空间体积存在本身不是3D。"
+    ],
+    "qualification": "这是按成片视觉判断标准二维动漫画法，不推断底层生成方法或宣称真实手工逐帧制作。"
+  },
+  "motion_check": {
+    "result": "通过，动作幅度克制但有实际身体表演",
+    "observations": [
+      "约0.875–1.25秒近侧手前伸、掌面接触石地，肩与肘的位置改变。",
+      "约1.25–2.375秒身体向右前移入，另一手补撑，膝部与臀部稳定向内；衣褶、饰物、发束有相对变化。",
+      "约2.875–3.5秒头部由低位抬起，眼神向画外右上变化；末段的表情与头颈轮廓确实改变。",
+      "不是仅镜头推拉，也不是整个角色图层平移；人物手肘/肩/头有独立动作。"
+    ],
+    "contact": "采样帧手掌落点与石沿合理，未见明显悬空、穿墙或重复肢体；低位双膝承重成立。",
+    "direction": "墙洞持续位于左后，人物向右前方入内，未见翻轴或镜像。",
+    "identity": "鲸鱼帽、蓝紫发、蓝白雪花衣裙、短腿宝宝比例稳定。"
+  },
+  "cut_recommendation": {
+    "source_end_convention": "exclusive",
+    "preferred_source_frames": [
+      36,
+      84
+    ],
+    "preferred_source_seconds": [
+      1.5,
+      3.5
+    ],
+    "usable_frames": 48,
+    "timeline_frames": [
+      2126,
+      2174
+    ],
+    "speed_percent": 100,
+    "timeline_delta_frames": 0,
+    "why": "从中段爬入/手掌换撑接到较明确的仰望，末尾更便于切高坛空间；不需要再变速。",
+    "previous_proposal_source_frames": [
+      30,
+      78
+    ],
+    "previous_proposal_assessment": "同样48帧，爬行段稍完整，但末尾抬眼尚在展开，表达比36–84帧更急；优先36–84。",
+    "next_unchanged": {
+      "source": "视频制作/LibTV-H3-v001/产物/GB006-H3-v001.mp4",
+      "source_frames": [
+        264,
+        312
+      ],
+      "timeline_frames": [
+        2174,
+        2234
+      ],
+      "speed_percent": 80
+    },
+    "following_unchanged": {
+      "name": "B07_GB006_03",
+      "timeline_frames": [
+        2234,
+        2306
+      ]
+    },
+    "total_timeline_frames": 11497
+  },
+  "audio": "仅剪用视频，丢弃回片生成音轨；此处没有新对白，现有声轨绝对时码保持。",
+  "evidence": [
+    "后期/二维动漫纠偏-v005/证据/GB006-v009-early-inside-2d-r1-8fps.jpg",
+    "后期/二维动漫纠偏-v005/证据/GB006-v009-2s-full.png",
+    "后期/二维动漫纠偏-v005/证据/GB006-v009-frame36.png",
+    "后期/二维动漫纠偏-v005/证据/GB006-v009-frame78.png",
+    "后期/二维动漫纠偏-v005/证据/GB006-v009-frame84.png"
+  ],
+  "review_boundary": "全长8fps联系表、重绘输入及原尺寸关键帧检查；尚不替代最终时间线连续视听验收。没有Resolve/API操作，没有视频导出。"
+}

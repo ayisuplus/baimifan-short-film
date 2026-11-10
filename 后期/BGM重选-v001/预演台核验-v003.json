@@ -1,0 +1,22 @@
+{
+  "version": "v003",
+  "date": "2026-10-23",
+  "all_shot_and_music_payload_preserved": true,
+  "shots": 115,
+  "seconds": 381,
+  "browser": {
+    "CY001_visible_candidates": [],
+    "CY003_visible_candidates": [
+      "Time Flows Ever Onward"
+    ],
+    "CY024A_visible_candidates": [
+      "Zoltraak",
+      "Ancient Magic"
+    ],
+    "Zoltraak_keeps_playing_when_hidden_after_jump_to_CY003": true,
+    "hidden_current_track_pause_and_resume": true,
+    "per_shot_compare_link_selects_correct_picture_and_group": true
+  },
+  "screenshot": "后期/BGM重选-v001/预演台-按画面候选-v003.png",
+  "scope": "UI grouping correction; no audio edits or new aesthetic acceptance"
+}

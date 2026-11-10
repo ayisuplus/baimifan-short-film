@@ -1,0 +1,16 @@
+{
+  "scene": "S06",
+  "version": "v002",
+  "output_path": "镜头设计/图像/S06-粗分镜-v002.png",
+  "request": {
+    "referenced_image_paths": [
+      "E:/projects/内容创作/穿云/镜头设计/图像/S06-粗分镜-v001.png",
+      "E:/projects/内容创作/穿云/概念参考/02-DeepSeek-母版概念参考.webp",
+      "E:/projects/内容创作/穿云/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+      "E:/projects/内容创作/穿云/资产/图像/CHAR-GPT-v003.png",
+      "E:/projects/内容创作/穿云/资产/图像/C09_Grok.png"
+    ],
+    "transparent_background": false,
+    "prompt": "Edit image 1, the EXISTING 2x2 storyboard sheet, preserving the four equal 16:9 panels, gutters, all lighting, market background, mother-reference identity, costumes and warm gentle mood. Other images are identity references only. Correct ONLY the following continuity defects, do not add text.\n1. In panels 1,2,4 the tiny blue whale-hat child should have clearly visible SMALL CLEAN BANDAGES because this is days after rescue: one thin bandage wrap around LEFT forearm protruding a little beyond fur sleeve, and one small pale bandage strip at temple just below the whale hat edge. Fully dressed, no wound/blood. Keep original round baby face and tiny proportions from image 2.\n2. Panel 3 (bottom left) MUST NOT have a black/gold cult priest handing a second cup to GPT. Replace that entire left-edge person with a FRIENDLY ADULT BLONDE WOMAN matching reference 5 (Grok's black/burgundy sleeveless gown, bare arm, blonde hair at edge, no black hood, no church robe). Exactly ONE CUP total: GPT holds a SINGLE steaming mug with both hands, and the companion's hand is just releasing that SAME mug near her fingers. Remove any extra cup. GPT's face/white dragon identity from image 4 remains exactly as first sheet.\n3. In final panel 4 (bottom right), preserve the SAME SEATING ORDER as panel 2: tiny whale-hat child on the LEFT, adult orange-haired Claude on the RIGHT. Both sit on same bench, same side of camera axis. Child holds ONE silver rice bowl and looks UP toward Claude. Claude has just tasted rice with a SMALL SPOON held near her lips and smiles gently back down. No duplication, no seat swap, no chains. This is a restful shared meal, no large open-mouth eating.\nNo change to panel count, no labels, lettering, speech bubbles or other objects. New output is still a 2x2 storyboard sheet. Preserve the rest rather than inventing a new scene."
+  }
+}

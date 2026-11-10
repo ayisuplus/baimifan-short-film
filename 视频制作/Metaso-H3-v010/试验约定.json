@@ -1,0 +1,16 @@
+{
+  "hypothesis": "省去人物四视图，并从原分镜直接驱动，能否改善对原画风/场景的保真",
+  "not_a_controlled_causal_ablation": "本次同时移除后续重绘底图，且没有同seed的含四视图对照；不能据单次结果认定四视图是唯一原因",
+  "visual_inputs": 1,
+  "turnarounds": 0,
+  "video_refs": 0,
+  "original_audio_preserved": true,
+  "timeline_mutation": false,
+  "acceptance": [
+    "原图蓝色月夜不变白天",
+    "九人完整、武器身份不乱",
+    "教堂入口轴线/彩窗/旗帜/湿地/既有破门状态一致",
+    "保留原图精细二维画法，不因动漫一词简化成另一种画风",
+    "有迈步受力和队友警戒动作，非静图推拉"
+  ]
+}

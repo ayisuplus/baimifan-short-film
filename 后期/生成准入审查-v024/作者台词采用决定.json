@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-27",
+  "source": "本轮作者直接回复",
+  "author_quote": "保留新台词，旧录音只作音色参考",
+  "decisions": [
+    {
+      "cue_id": "VO-CY026D-02",
+      "location": "第23批 · 第3镜",
+      "role": "Kimi",
+      "target_text": {
+        "id": "VO-CY026D-02",
+        "zh": "她交给我。",
+        "ja": "彼女は任せて。",
+        "direction": "困意收起，短而笃定；接住GPT的托付，不复述路线。",
+        "reason": "从机械应答变为人物主动承担保护责任。",
+        "timing": "保留应答前的目光交流，按新原速录音决定句尾与切镜。"
+      },
+      "timbre_reference": {
+        "option_id": "opt-62a65d64c37979ce",
+        "path": "后期/日语配音修正-v002/干声/VO-CY026D-02__Kimi__ja__v002.wav",
+        "sha256": "4c14700dad4e231befaa2e0c4ed36d1a455b9941cd0d2a80ce8c79d7c891bfbf",
+        "label": "v002 干声",
+        "chosen_at": "2026-10-27T11:58:58.301788+00:00"
+      },
+      "status": "new_text_confirmed_selected_old_audio_timbre_reference_only",
+      "final_audio_ready": false,
+      "existing_v005_automatically_adopted": false
+    },
+    {
+      "cue_id": "VO-CY024A5-01",
+      "location": "第30批 · 第1镜",
+      "role": "GPT",
+      "target_text": {
+        "id": "VO-CY024A5-01",
+        "zh": "纯水之主啊，请降下你的救赎——",
+        "ja": "清き水の主よ、汝の救済を、ここに——",
+        "direction": "重唤前文同一位纯水之主，呼唤后换一口气再祈愿；庄重而有托付感，称谓不擅自扩展为新增人物或完整神系。日语‘主’拟读ぬし。",
+        "reason": "作者明确不要水之灵，要求更有位格的称谓；采用纯水之主的修订方向，终句重唤，让‘你的’有所指。",
+        "timing": "祈愿真实词尾到术名仍留0.8秒；BGM收声点待新录音实测后重排。"
+      },
+      "timbre_reference": {
+        "option_id": "opt-6f736f4a59d27677",
+        "path": "后期/日语配音修正-v003/干声/VO-CY024A5-01__GPT__ja__v003.wav",
+        "sha256": "8e4d7b848efa64869c7a160443ee75693a4c800f9b786c25ce1861d2aa1d86af",
+        "label": "v003 干声",
+        "chosen_at": "2026-10-27T12:00:47.078133+00:00"
+      },
+      "status": "new_text_confirmed_selected_old_audio_timbre_reference_only",
+      "final_audio_ready": false,
+      "existing_v005_automatically_adopted": false
+    }
+  ]
+}

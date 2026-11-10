@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-23",
+  "shot_plan": "镜头设计/shot-plan-v0.39.json",
+  "sha256": "f758b6ce51a9aa4b9c088a42369ef8c79e7e91e3ba6ad3f9dbb801c1bfbb696a",
+  "shot_count": 115,
+  "duration": 381,
+  "coverage_exactly_once": true,
+  "ranges": [
+    {
+      "first_shot": "CY001",
+      "last_shot": "CY002",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "first_shot": "CY003",
+      "last_shot": "CY003B",
+      "start": 9,
+      "end": 18
+    },
+    {
+      "first_shot": "CY003C",
+      "last_shot": "CY009A",
+      "start": 18,
+      "end": 67
+    },
+    {
+      "first_shot": "CY010A",
+      "last_shot": "CY016A",
+      "start": 67,
+      "end": 100
+    },
+    {
+      "first_shot": "CY016B",
+      "last_shot": "CY022B2",
+      "start": 100,
+      "end": 155
+    },
+    {
+      "first_shot": "CY022B1",
+      "last_shot": "CY022C",
+      "start": 155,
+      "end": 163
+    },
+    {
+      "first_shot": "CY023",
+      "last_shot": "CY023A",
+      "start": 163,
+      "end": 171
+    },
+    {
+      "first_shot": "CY026A",
+      "last_shot": "CY026E",
+      "start": 171,
+      "end": 193
+    },
+    {
+      "first_shot": "CY024A0",
+      "last_shot": "CY024B1",
+      "start": 193,
+      "end": 254.0
+    },
+    {
+      "first_shot": "CY027",
+      "last_shot": "CY027B",
+      "start": 254.0,
+      "end": 264.0
+    },
+    {
+      "first_shot": "CY027B1",
+      "last_shot": "CY027E2",
+      "start": 264.0,
+      "end": 291.0
+    },
+    {
+      "first_shot": "CY027F",
+      "last_shot": "CY028A2",
+      "start": 291.0,
+      "end": 308.0
+    },
+    {
+      "first_shot": "CY028B",
+      "last_shot": "CY030",
+      "start": 308.0,
+      "end": 357.0
+    },
+    {
+      "first_shot": "CY031",
+      "last_shot": "CY034",
+      "start": 357.0,
+      "end": 381.0
+    }
+  ],
+  "status": "candidate_proposal_not_adopted",
+  "source_in_out": "pending listening",
+  "actual_listening_completed": false,
+  "audio_editing_performed": false,
+  "source_page": "https://www.bilibili.com/video/BV1U6BfBCE5o/",
+  "browser_verification": "P35 Zoltraak loaded; displayed 02:22 duration; six candidate part titles visible",
+  "parts": {
+    "35": "Zoltraak",
+    "30": "Lift My Head From Shadow",
+    "9": "Time Flows Ever Onward",
+    "39": "Things That Scheme in the Dark",
+    "28": "Fear Brought Me This Far",
+    "52": "Ancient Magic"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "asset_id": "ENV-STREET",
+  "version": "v001",
+  "date": "2026-10-20",
+  "engine": "built-in image_gen",
+  "actual_request": {
+    "prompt": "Use case: stylized-concept, environment production asset. Use supplied image as the master STYLE, light and town-architecture reference for a gothic otherworld fantasy short. Create ONE coherent wide 16:9 EMPTY market-street clean plate, no people or animals. Preserve the welcoming warm sunlit cobblestone street, layered pale medieval/gothic buildings, cream and muted blue fabric awnings, hanging signs with simple fish pictograms without letters, small flowers, worn wood and lived-in fine detail. Remove the two foreground black-robed silhouettes and the blue girl; reconstruct the occluded street naturally. Main staging: a readable open cobbled walking lane in the center; modest wooden stalls left and right; one simple two-person wooden bench in warm sunlight in the near-right portion for the final shared-meal scene; the pointed stone arch and closed dark wooden double doors of a modest gothic church visible farther down the street, integrated naturally into the town. This is a proposed spatial extension of the visible reference, not a different city. Camera human eye level with gently receding depth, strong near/middle/far separation, natural late-afternoon warm daylight, no extreme fisheye. Delicate anime background painting with softly realistic lighting, not photorealistic, not flat cartoon or 3D game render. No characters, no oversized whale props, no food characters, no written words, caption, labels, diagram, watermark or prompt panel. One full-bleed image.",
+    "referenced_image_paths": [
+      "E:\\projects\\内容创作\\穿云\\概念参考\\02-DeepSeek-母版概念参考.webp"
+    ],
+    "transparent_background": false
+  },
+  "references": [
+    {
+      "actual_input_path": "E:\\projects\\内容创作\\穿云\\概念参考\\02-DeepSeek-母版概念参考.webp",
+      "project_path": "概念参考/02-DeepSeek-母版概念参考.webp",
+      "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972"
+    }
+  ],
+  "output": "资产/图像/ENV-STREET-v001.png",
+  "original_output": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-ba68fd45-6e70-42cb-ba7a-29c47a2345f2.png",
+  "sha256": "fe11e66783231a9cc305bbfc1c9430dc0f62d4535d9da20dfc3deead5208c9c5",
+  "image": {
+    "width": 1672,
+    "height": 941,
+    "mode": "RGB"
+  },
+  "status": "候选待作者审阅",
+  "evidence": "已实际查看生成图片；文件可解码、项目副本哈希与生成原件一致。不是动态或作者采用验收。"
+}

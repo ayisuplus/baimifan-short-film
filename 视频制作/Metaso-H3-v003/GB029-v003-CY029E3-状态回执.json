@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115174154953089024",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "掌心火种轻颤",
+    "status": "succeeded",
+    "created_at": 1793131791,
+    "updated_at": 1793131805,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115174154953089024/content?expires=1793736903&signature=76b22798bc2d3ef50bf897182bd1e181814506738cbaee4f96cd39d8fa8ff3bc"
+    },
+    "resolution": "768P",
+    "duration": 4,
+    "usage": {
+      "total_seconds": 4,
+      "input_seconds": 0,
+      "output_seconds": 4,
+      "input_image_count": 1
+    },
+    "ratio": "adaptive",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

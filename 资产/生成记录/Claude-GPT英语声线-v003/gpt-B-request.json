@@ -1,0 +1,47 @@
+{
+  "prompt": {
+    "1": {
+      "class_type": "BreezeTTS2LoadModel",
+      "inputs": {
+        "model": "bf16 (best quality)",
+        "dtype": "bf16",
+        "device": "cuda",
+        "attention": "sdpa",
+        "decode_mode": "eager",
+        "download_if_missing": false
+      }
+    },
+    "2": {
+      "class_type": "BreezeTTS2VoiceDesign",
+      "inputs": {
+        "breeze_model": [
+          "1",
+          0
+        ],
+        "text": "Let her in. I shouldn't interfere in Church affairs. Easy now. She's safe. Waiting for you down below.",
+        "instruction": "Create a distinctive adult female dragon-queen voice for a Japanese fantasy anime, speaking clear English. Full, rounded and soft, with a resonant lower register and a clear, ringing center. A poised queen: measured melodic phrasing, firm elegant endings, quiet royal authority that carries without shouting. Let her in is an unhurried command; the Church line has composed reluctance; Easy now and the reassurance turn warmly protective. Stylized anime character acting, never a child voice or flat narration. Brief pauses between sentences; speak only the supplied words.",
+        "cfg_scale": 4.0,
+        "max_new_tokens": 256,
+        "temperature": 0.9,
+        "top_k": 50,
+        "top_p": 1.0,
+        "repetition_penalty": 1.1,
+        "depth_temperature": 0.9,
+        "depth_top_k": 50,
+        "depth_top_p": 1.0,
+        "seed": 20261029
+      }
+    },
+    "3": {
+      "class_type": "SaveAudio",
+      "inputs": {
+        "audio": [
+          "2",
+          0
+        ],
+        "filename_prefix": "audio/BreezeTTS2/WhiteRice-Anime-v003/gpt-B"
+      }
+    }
+  },
+  "client_id": "white-rice-heroines-anime-v003"
+}

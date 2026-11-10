@@ -1,0 +1,11 @@
+[
+  {
+    "id": "CY024A5A",
+    "rev": 2,
+    "refs": [
+      "镜头设计/图像/三点定流-v047/CY024A5A-v047-r1.png",
+      "镜头设计/图像/三点定流-v047/CY024A5-v047-r1.png"
+    ],
+    "prompt": "Minimal continuity edit, single widescreen 16:9 anime frame. Image1 is the sole composition/edit target. Preserve its exact right arm extending SCREEN LEFT with index pointing downleft, left hand on chest, face gaze, all anatomy, wings, water column background, costume, lighting, crop. Image2 is ONLY reference for the silver rose hair ornament attachment. Fix ONLY the silver rose HAIR ornaments of Image1: remove the oversized silver rose currently just above the SCREEN RIGHT ear; restore plain flowing hair at that spot, without touching the ear or horn. Place the one main silver rose at the near horn ROOT on SCREEN LEFT of her head, matching the anatomical side and rose size in Image2, adapted naturally to Image1's head rotation. Keep necklace, shoulder flower, wrist jewelry and dress untouched. Do not mirror the character, change hands, change face direction, change pose or move water. No extra roses, no extra hand, no text or graphic panel. Strict local hair ornament correction."
+  }
+]

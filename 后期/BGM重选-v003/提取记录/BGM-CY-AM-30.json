@@ -1,0 +1,40 @@
+{
+  "id": "BGM-CY-AM-30",
+  "bvid": "BV1HW41187A4",
+  "part": 30,
+  "title": "弓のアンソロジー",
+  "display_title": "弓弦选集",
+  "work": "魔法使的新娘",
+  "composer": "松本淳一",
+  "source_page_title": "弓のアンソロジー",
+  "navigation_translation": "中文曲名为导航释义；原名保留。",
+  "cid": 28511867,
+  "source": "https://www.bilibili.com/video/BV1HW41187A4/?p=30",
+  "uploader": "天使动漫",
+  "video_title": "【魔法使的新娘】OST原声集正式版 插曲收录",
+  "path": "资产/声音/BGM/重选-v003/BGM-CY-AM-30.m4a",
+  "bytes": 2857801,
+  "sha256": "d09265d9295415620f6dc2176b4e842623ec2cf98d07e1ce8530d5de7e3b4ffa",
+  "duration": 172.095167,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "bit_rate": "131781"
+      }
+    ],
+    "format": {
+      "duration": "172.095167"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

@@ -1,0 +1,27 @@
+{
+  "baseline_url": "http://127.0.0.1:8978/editor/7eae0a10-425d-42a4-adf2-e0cb08b095b8",
+  "revision_url": "http://127.0.0.1:8978/editor/b79fe5ed-8ddf-4362-80e0-b07351500176",
+  "fps": 24,
+  "036": {
+    "source_in": 6,
+    "source_out_exclusive": 60,
+    "old_frames": 60,
+    "new_frames": 54,
+    "start": 2774,
+    "end_exclusive": 2828
+  },
+  "037": {
+    "source_in": 16,
+    "source_out_exclusive": 84,
+    "old_frames": 96,
+    "new_frames": 68,
+    "start": 2828,
+    "end_exclusive": 2896
+  },
+  "remaining_116_clips_preserved": true,
+  "total_frames": 9190,
+  "reload_verified": true,
+  "generated": false,
+  "audio_subtitles_untouched": true,
+  "resolve_accessed": false
+}

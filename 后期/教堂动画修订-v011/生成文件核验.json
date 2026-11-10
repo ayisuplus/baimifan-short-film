@@ -1,0 +1,74 @@
+[
+  {
+    "attempt": "CY022-v014-release-r1",
+    "decoded": true,
+    "sha256_match": true,
+    "error": ""
+  },
+  {
+    "attempt": "CY022-v014-hand-release-r2",
+    "decoded": true,
+    "sha256_match": true,
+    "error": ""
+  },
+  {
+    "attempt": "CY030-v014-weight-transfer-r1",
+    "decoded": true,
+    "sha256_match": true,
+    "error": ""
+  },
+  {
+    "attempt": "CY023-v014-water-shot-r1",
+    "decoded": true,
+    "sha256_match": true,
+    "error": ""
+  },
+  {
+    "attempt": "CY022-v014-intercept-release-r1",
+    "decoded": true,
+    "sha256_match": true,
+    "error": ""
+  },
+  {
+    "attempt": "CY024A0-v014-rescue-carry-r1",
+    "decoded": true,
+    "sha256_match": true,
+    "error": ""
+  },
+  {
+    "attempt": "CY024K3-v014-shield-close-r1",
+    "decoded": true,
+    "sha256_match": true,
+    "error": ""
+  },
+  {
+    "attempt": "CY024A0-v014-rescue-carry-r2",
+    "decoded": true,
+    "sha256_match": true,
+    "error": ""
+  },
+  {
+    "attempt": "CY023-v014-water-close-r2",
+    "decoded": true,
+    "sha256_match": true,
+    "error": ""
+  },
+  {
+    "attempt": "CY022-v014-air-intercept-r2",
+    "decoded": true,
+    "sha256_match": true,
+    "error": ""
+  },
+  {
+    "attempt": "CY022-v014-grip-free-r2",
+    "decoded": true,
+    "sha256_match": true,
+    "error": ""
+  },
+  {
+    "attempt": "CY024A-v014-caster-2d-sync-r1",
+    "decoded": true,
+    "sha256_match": true,
+    "error": ""
+  }
+]

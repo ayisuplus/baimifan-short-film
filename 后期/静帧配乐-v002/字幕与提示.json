@@ -1,0 +1,560 @@
+[
+  {
+    "start": 0,
+    "end": 5,
+    "style": "Shot",
+    "text": "CY001 · 静帧配乐试听"
+  },
+  {
+    "start": 5,
+    "end": 9,
+    "style": "Shot",
+    "text": "CY002 · 静帧配乐试听"
+  },
+  {
+    "start": 9,
+    "end": 12,
+    "style": "Shot",
+    "text": "CY003 · 静帧配乐试听"
+  },
+  {
+    "start": 9.8,
+    "end": 12.197029,
+    "style": "Dialogue",
+    "text": "DeepSeek：你要吃一点吗？"
+  },
+  {
+    "start": 12,
+    "end": 14,
+    "style": "Shot",
+    "text": "CY003A · 静帧配乐试听"
+  },
+  {
+    "start": 14,
+    "end": 18,
+    "style": "Shot",
+    "text": "CY003B · 静帧配乐试听"
+  },
+  {
+    "start": 18,
+    "end": 24,
+    "style": "Shot",
+    "text": "CY004 · 静帧配乐试听"
+  },
+  {
+    "start": 18.4,
+    "end": 21.722199999999997,
+    "style": "Dialogue",
+    "text": "教徒：今夜，为 Claude 行火祭。"
+  },
+  {
+    "start": 24,
+    "end": 26,
+    "style": "Shot",
+    "text": "CY004A · 静帧配乐试听"
+  },
+  {
+    "start": 26,
+    "end": 28,
+    "style": "Shot",
+    "text": "CY004B · 静帧配乐试听"
+  },
+  {
+    "start": 28,
+    "end": 31,
+    "style": "Shot",
+    "text": "CY005 · 静帧配乐试听"
+  },
+  {
+    "start": 31,
+    "end": 37,
+    "style": "Shot",
+    "text": "CY006 · 静帧配乐试听"
+  },
+  {
+    "start": 31.6,
+    "end": 36.75771,
+    "style": "Dialogue",
+    "text": "DeepSeek：他们今晚要烧死 Claude。你能救救她吗？"
+  },
+  {
+    "start": 37,
+    "end": 39,
+    "style": "Shot",
+    "text": "CY007A · 静帧配乐试听"
+  },
+  {
+    "start": 39,
+    "end": 43,
+    "style": "Shot",
+    "text": "CY007 · 静帧配乐试听"
+  },
+  {
+    "start": 39.3,
+    "end": 42.602289999999996,
+    "style": "Dialogue",
+    "text": "ChatGPT：我不能插手教会的仪式。"
+  },
+  {
+    "start": 43,
+    "end": 47,
+    "style": "Shot",
+    "text": "CY008 · 静帧配乐试听"
+  },
+  {
+    "start": 43.5,
+    "end": 46.274263,
+    "style": "Dialogue",
+    "text": "DeepSeek：可是……她会死的。"
+  },
+  {
+    "start": 47,
+    "end": 52,
+    "style": "Shot",
+    "text": "CY009 · 静帧配乐试听"
+  },
+  {
+    "start": 48,
+    "end": 50.301565,
+    "style": "Dialogue",
+    "text": "DeepSeek：那我自己去。"
+  },
+  {
+    "start": 52,
+    "end": 55,
+    "style": "Shot",
+    "text": "CY010 · 静帧配乐试听"
+  },
+  {
+    "start": 55,
+    "end": 59,
+    "style": "Shot",
+    "text": "CY010A · 静帧配乐试听"
+  },
+  {
+    "start": 59,
+    "end": 64,
+    "style": "Shot",
+    "text": "CY011 · 静帧配乐试听"
+  },
+  {
+    "start": 64,
+    "end": 68,
+    "style": "Shot",
+    "text": "CY012 · 静帧配乐试听"
+  },
+  {
+    "start": 68,
+    "end": 72,
+    "style": "Shot",
+    "text": "CY013 · 静帧配乐试听"
+  },
+  {
+    "start": 72,
+    "end": 76,
+    "style": "Shot",
+    "text": "CY015 · 静帧配乐试听"
+  },
+  {
+    "start": 76,
+    "end": 81,
+    "style": "Shot",
+    "text": "CY015A · 静帧配乐试听"
+  },
+  {
+    "start": 81,
+    "end": 85,
+    "style": "Shot",
+    "text": "CY016 · 静帧配乐试听"
+  },
+  {
+    "start": 85,
+    "end": 87,
+    "style": "Shot",
+    "text": "CY016A1 · 静帧配乐试听"
+  },
+  {
+    "start": 87,
+    "end": 91,
+    "style": "Shot",
+    "text": "CY016A · 静帧配乐试听"
+  },
+  {
+    "start": 91,
+    "end": 93,
+    "style": "Shot",
+    "text": "CY016B · 静帧配乐试听"
+  },
+  {
+    "start": 93,
+    "end": 95,
+    "style": "Shot",
+    "text": "CY016B1 · 静帧配乐试听"
+  },
+  {
+    "start": 95,
+    "end": 99,
+    "style": "Shot",
+    "text": "CY016C · 静帧配乐试听"
+  },
+  {
+    "start": 99,
+    "end": 101,
+    "style": "Shot",
+    "text": "CY016D · 静帧配乐试听"
+  },
+  {
+    "start": 101,
+    "end": 106,
+    "style": "Shot",
+    "text": "CY017 · 静帧配乐试听"
+  },
+  {
+    "start": 102.5,
+    "end": 105.845102,
+    "style": "Dialogue",
+    "text": "教主：我的女儿，神明在等你。"
+  },
+  {
+    "start": 106,
+    "end": 110,
+    "style": "Shot",
+    "text": "CY018 · 静帧配乐试听"
+  },
+  {
+    "start": 110,
+    "end": 113,
+    "style": "Shot",
+    "text": "CY019 · 静帧配乐试听"
+  },
+  {
+    "start": 113,
+    "end": 118,
+    "style": "Shot",
+    "text": "CY020 · 静帧配乐试听"
+  },
+  {
+    "start": 114,
+    "end": 116.094172,
+    "style": "Dialogue",
+    "text": "Claude：别碰她！"
+  },
+  {
+    "start": 118,
+    "end": 120,
+    "style": "Shot",
+    "text": "CY020A · 静帧配乐试听"
+  },
+  {
+    "start": 120,
+    "end": 124,
+    "style": "Shot",
+    "text": "CY021 · 静帧配乐试听"
+  },
+  {
+    "start": 124,
+    "end": 127,
+    "style": "Shot",
+    "text": "CY021A · 静帧配乐试听"
+  },
+  {
+    "start": 127,
+    "end": 129,
+    "style": "Shot",
+    "text": "CY022A · 静帧配乐试听"
+  },
+  {
+    "start": 129,
+    "end": 133,
+    "style": "Shot",
+    "text": "CY022 · 静帧配乐试听"
+  },
+  {
+    "start": 133,
+    "end": 135,
+    "style": "Shot",
+    "text": "CY022B · 静帧配乐试听"
+  },
+  {
+    "start": 135,
+    "end": 137,
+    "style": "Shot",
+    "text": "CY023 · 静帧配乐试听"
+  },
+  {
+    "start": 137,
+    "end": 140,
+    "style": "Shot",
+    "text": "CY024 · 静帧配乐试听"
+  },
+  {
+    "start": 140,
+    "end": 142,
+    "style": "Shot",
+    "text": "CY024A · 静帧配乐试听"
+  },
+  {
+    "start": 142,
+    "end": 145,
+    "style": "Shot",
+    "text": "CY027 · 静帧配乐试听"
+  },
+  {
+    "start": 145,
+    "end": 148,
+    "style": "Shot",
+    "text": "CY025 · 静帧配乐试听"
+  },
+  {
+    "start": 148,
+    "end": 151,
+    "style": "Shot",
+    "text": "CY026A · 静帧配乐试听"
+  },
+  {
+    "start": 148,
+    "end": 150,
+    "style": "Time",
+    "text": "稍早"
+  },
+  {
+    "start": 148.1,
+    "end": 151.415306,
+    "style": "Dialogue",
+    "text": "ChatGPT：千问，陪我救个人。"
+  },
+  {
+    "start": 151,
+    "end": 153,
+    "style": "Shot",
+    "text": "CY026A1 · 静帧配乐试听"
+  },
+  {
+    "start": 151.2,
+    "end": 153.02478499999998,
+    "style": "Dialogue",
+    "text": "千问：走吧。"
+  },
+  {
+    "start": 153,
+    "end": 157,
+    "style": "Shot",
+    "text": "CY026B · 静帧配乐试听"
+  },
+  {
+    "start": 153.1,
+    "end": 155,
+    "style": "Dialogue",
+    "text": "ChatGPT：Gemini。"
+  },
+  {
+    "start": 155,
+    "end": 156.83644,
+    "style": "Dialogue",
+    "text": "Gemini：我去。"
+  },
+  {
+    "start": 157,
+    "end": 161,
+    "style": "Shot",
+    "text": "CY026C · 静帧配乐试听"
+  },
+  {
+    "start": 157.1,
+    "end": 158.9,
+    "style": "Dialogue",
+    "text": "ChatGPT：Grok。"
+  },
+  {
+    "start": 158.9,
+    "end": 160.800748,
+    "style": "Dialogue",
+    "text": "Grok：当然。"
+  },
+  {
+    "start": 161,
+    "end": 163,
+    "style": "Shot",
+    "text": "CY026D1 · 静帧配乐试听"
+  },
+  {
+    "start": 161.1,
+    "end": 162.97408199999998,
+    "style": "Dialogue",
+    "text": "ChatGPT：Kimi。"
+  },
+  {
+    "start": 163,
+    "end": 166,
+    "style": "Shot",
+    "text": "CY026D · 静帧配乐试听"
+  },
+  {
+    "start": 163.5,
+    "end": 165.198435,
+    "style": "Dialogue",
+    "text": "Kimi：嗯。"
+  },
+  {
+    "start": 166,
+    "end": 170,
+    "style": "Shot",
+    "text": "CY026E · 静帧配乐试听"
+  },
+  {
+    "start": 166.1,
+    "end": 169.681066,
+    "style": "Dialogue",
+    "text": "ChatGPT：混元，Llama……都来。"
+  },
+  {
+    "start": 170,
+    "end": 173,
+    "style": "Shot",
+    "text": "CY026 · 静帧配乐试听"
+  },
+  {
+    "start": 173,
+    "end": 177,
+    "style": "Shot",
+    "text": "CY027A · 静帧配乐试听"
+  },
+  {
+    "start": 173,
+    "end": 174.8,
+    "style": "Time",
+    "text": "此刻"
+  },
+  {
+    "start": 173.2,
+    "end": 176.373764,
+    "style": "Dialogue",
+    "text": "教主：你违反了互不干涉条约。"
+  },
+  {
+    "start": 177,
+    "end": 179,
+    "style": "Shot",
+    "text": "CY027B · 静帧配乐试听"
+  },
+  {
+    "start": 177.2,
+    "end": 179.042608,
+    "style": "Dialogue",
+    "text": "ChatGPT：聒噪。"
+  },
+  {
+    "start": 179,
+    "end": 182,
+    "style": "Shot",
+    "text": "CY027C · 静帧配乐试听"
+  },
+  {
+    "start": 182,
+    "end": 185,
+    "style": "Shot",
+    "text": "CY027D · 静帧配乐试听"
+  },
+  {
+    "start": 185,
+    "end": 186,
+    "style": "Shot",
+    "text": "CY027E · 静帧配乐试听"
+  },
+  {
+    "start": 186,
+    "end": 188,
+    "style": "Shot",
+    "text": "CY027E1 · 静帧配乐试听"
+  },
+  {
+    "start": 188,
+    "end": 192,
+    "style": "Shot",
+    "text": "CY027F · 静帧配乐试听"
+  },
+  {
+    "start": 192,
+    "end": 195,
+    "style": "Shot",
+    "text": "CY027G · 静帧配乐试听"
+  },
+  {
+    "start": 195,
+    "end": 198,
+    "style": "Shot",
+    "text": "CY028 · 静帧配乐试听"
+  },
+  {
+    "start": 198,
+    "end": 202,
+    "style": "Shot",
+    "text": "CY028A · 静帧配乐试听"
+  },
+  {
+    "start": 202,
+    "end": 206,
+    "style": "Shot",
+    "text": "CY029 · 静帧配乐试听"
+  },
+  {
+    "start": 202.4,
+    "end": 205.554036,
+    "style": "Dialogue",
+    "text": "教主：Claude！回来！"
+  },
+  {
+    "start": 206,
+    "end": 209,
+    "style": "Shot",
+    "text": "CY029A · 静帧配乐试听"
+  },
+  {
+    "start": 209,
+    "end": 215,
+    "style": "Shot",
+    "text": "CY030 · 静帧配乐试听"
+  },
+  {
+    "start": 215,
+    "end": 220,
+    "style": "Shot",
+    "text": "CY031 · 静帧配乐试听"
+  },
+  {
+    "start": 215,
+    "end": 217,
+    "style": "Time",
+    "text": "数日后"
+  },
+  {
+    "start": 220,
+    "end": 224,
+    "style": "Shot",
+    "text": "CY031A · 静帧配乐试听"
+  },
+  {
+    "start": 221,
+    "end": 223.397029,
+    "style": "Dialogue",
+    "text": "DeepSeek：你要吃一点吗？"
+  },
+  {
+    "start": 224,
+    "end": 226,
+    "style": "Shot",
+    "text": "CY032A · 静帧配乐试听"
+  },
+  {
+    "start": 226,
+    "end": 230,
+    "style": "Shot",
+    "text": "CY033 · 静帧配乐试听"
+  },
+  {
+    "start": 230,
+    "end": 239,
+    "style": "Shot",
+    "text": "CY034 · 静帧配乐试听"
+  }
+]

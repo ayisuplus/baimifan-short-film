@@ -1,0 +1,29 @@
+[
+  {
+    "index": 1,
+    "generated_voice_id": "4wi31aA0XL3Yknn9UT4M",
+    "file": "Claude-1.mp3",
+    "bytes": 638267,
+    "mime": "audio/mpeg",
+    "sha256": "13fed1a0af3a5d348dea33d014dec7206ef835c0fdc5ff888cee1aee41774cc8",
+    "adopted": false
+  },
+  {
+    "index": 2,
+    "generated_voice_id": "PzFMueJzG7GK8XwRDzXl",
+    "file": "Claude-2.mp3",
+    "bytes": 737950,
+    "mime": "audio/mpeg",
+    "sha256": "81709822912e6fc95b8924db7d49652c7824c9e006cb84b0b843e36035ac17e0",
+    "adopted": false
+  },
+  {
+    "index": 3,
+    "generated_voice_id": "udBHmU9WzIbPIzBDfZq4",
+    "file": "Claude-3.mp3",
+    "bytes": 789986,
+    "mime": "audio/mpeg",
+    "sha256": "d5aa55e8a133151ec4c07ba5967c27a287eb0a702318e21ecd27cffdd7ff0db5",
+    "adopted": false
+  }
+]

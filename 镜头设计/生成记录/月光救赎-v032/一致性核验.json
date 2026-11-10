@@ -1,0 +1,57 @@
+{
+  "locked_files_verified": 98,
+  "local_links_verified": 589,
+  "shots": 105,
+  "total_seconds": 349.0,
+  "spell_sequence_seconds": 43,
+  "full_spell_verified": true,
+  "changed_existing_image_ids": [
+    "CY024A1",
+    "CY024A2",
+    "CY024A4",
+    "CY024B",
+    "CY027D",
+    "CY027F1",
+    "CY027G"
+  ],
+  "new_images": 6,
+  "shared_crop": "CY024A4 uses CY024A2",
+  "only_duration_change": "CY024A5 7 to 8 seconds",
+  "other_dialogue_preserved": true,
+  "kimi_role_ids_verified": true,
+  "ensemble_perplexity_preserved": true,
+  "video_produced": false,
+  "audio_produced": false,
+  "browser_playback": "not_verified_local_file_policy_limit",
+  "independent_review": "passed six images and current continuity; role-index omissions corrected",
+  "explicit_role_ids_verified": {
+    "CY024": [
+      "CHAR-GPT",
+      "MULKZI2WM2FEL",
+      "MULKZI2W5366M",
+      "MULKZI2W3JZ5F",
+      "ENV-CHURCH",
+      "MULKZI2WMFNJE"
+    ],
+    "CY024B": [
+      "CHAR-GPT",
+      "MULKZI2WM2FEL",
+      "MULKZI2W5366M",
+      "MULKZI2W3JZ5F",
+      "ENV-CHURCH",
+      "MULKZI2WMFNJE",
+      "CHAR-CLAUDE"
+    ],
+    "CY027F1": [
+      "CHAR-CLAUDE",
+      "MULKZI2WMFNJE",
+      "ENV-CHURCH"
+    ],
+    "CY027G": [
+      "CHAR-CLAUDE",
+      "CHAR-GPT",
+      "MULKZI2WMFNJE",
+      "ENV-CHURCH"
+    ]
+  }
+}

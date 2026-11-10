@@ -1,0 +1,23 @@
+任务：用 image_gen__imagegen 重绘一张电影关键帧，做参考图重绘（image-to-image）。
+
+必须使用 image_gen__imagegen 工具，传入 referenced_image_paths 指向源图路径。
+
+源图路径：
+G:\comfyui\ComfyUI\ComfyUI\output\Baimifan\v032\090b-key-r1_00001_.png
+
+重绘提示词（完整照用，不要删减、不要改写）：
+
+Redraw this image as traditional hand-drawn Japanese gothic fantasy anime: clean dark ink contours, hard-edged two-tone cel shadows, matte skin and broad painted background shapes. Keep composition and story identities. No glossy 3D, PBR, photoreal reflections, text or captions. Keep the same viewpoint from inside the cathedral doorway, with the two armoured guards seen from behind in the near foreground on the left and right, the open door between them, the stone courtyard and the black-robed crowd beyond. 1: Redraw the guards' armour as flat cel-shaded steel with visible dark ink contours and two or three flat grey values, like hand-drawn 2D anime metal. NOT polished chrome, NOT mirror-like, no specular highlights, no realistic metal micro-texture, no photoreal reflections. 2: Each guard clearly holds one long spear, the shaft readable in full from his hand to a point above his helmet, so the weapon is unambiguous. 3: The sky beyond the doorway is NIGHT: deep navy sky with dark clouds and a pale moon, never bright daytime blue. Keep the cathedral spires and the gothic window tracery as flat painted shapes. 4: The stone courtyard floor is flat painted stone with a few simple blue reflected highlight strokes around the small round water basin in the centre, not a glossy mirror surface. Keep the black-robed crowd as flat dark silhouettes.
+
+原始问题（供你理解为何这样改，图中现状是）：
+- 铠甲是抛光铬金属质感，带镜面高光和写实金属微表面，与全片手绘二维赛璐璐画风严重不符。
+- 两名守卫手里没有可辨认的长枪，道具缺失。
+- 门外是明亮白天天空蓝，与本段夜晚光线不连贯。
+- 地面是釉面镜光地板，不是手绘笔触。
+
+输出要求：
+1. 生成的图片保存为 PNG 到：E:\projects\内容创作\故事短片\白米饭\后期\全片画风与动作统一-v034\codex-keyfix\090b-style-codex.png
+2. 宽高比保持 16:9，与源图一致。
+3. 不要改动源图，不要改动其他任何文件，不要执行 git 操作。
+4. 生成后用 view_image 查看自己生成的图片，核对：铠甲是否已是平涂墨线金属而非铬金属；两名守卫是否各自持有一杆可读长枪；门外是否已是夜空。
+5. 最后回报：输出文件的绝对路径，以及你对自己生成结果是否满足上述四点的判断（如实说明，不满意就说不满意）。

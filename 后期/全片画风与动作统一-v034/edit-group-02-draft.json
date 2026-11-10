@@ -1,0 +1,102 @@
+[
+  {
+    "name": "051-v034-edit",
+    "id": "051",
+    "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/051-video-r1-no-upscale_00001_.mp4",
+    "source_in": 0,
+    "source_out_exclusive": 24,
+    "target_frames": 24,
+    "status": "trim",
+    "note": "保留背影显形与靴部光，24前切走；后段抬错误右手白刃弃用。前18帧双刃发亮存在，但未暴露抬错手动作。不做延长定格。"
+  },
+  {
+    "name": "052-v034-edit",
+    "id": "052",
+    "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/052-video-r1-no-upscale_00001_.mp4",
+    "source_in": 6,
+    "source_out_exclusive": 40,
+    "target_frames": 34,
+    "status": "trim",
+    "note": "保留举左白刃预备、前倾、投掷、刀离手；40出点，不带42后窗前魔法圆。刀出画右，直接接054迎面入室，无反向镜头。"
+  },
+  {
+    "name": "054-v034-edit",
+    "id": "054",
+    "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/054-video-r1-no-upscale_00001_.mp4",
+    "source_in": 0,
+    "source_out_exclusive": 42,
+    "target_frames": 24,
+    "status": "trim",
+    "note": "保留中央单窗破口、同一白刃冲近下掠，约1.75倍采样形成飞行速度；0帧已破窗，开头可叠2帧冷白冲击但只作建议。旁窗保留，42后空窗尾停不要。禁光流补帧。"
+  },
+  {
+    "name": "055-v034-edit",
+    "id": "055",
+    "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/055-video-r1-no-upscale_00001_.mp4",
+    "source_in": 0,
+    "source_out_exclusive": 48,
+    "target_frames": 36,
+    "status": "trim",
+    "note": "完整保留刃下降钉入木头→短震→42起刀柄银闪，作为056瞬移依据；不能只用前24。约1.33倍采样。木火黑芯紫边，无需额外橙火。"
+  },
+  {
+    "name": "056-v034-edit",
+    "id": "056",
+    "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/056-video-r1-no-upscale_00001_.mp4",
+    "source_in": 0,
+    "source_out_exclusive": 16,
+    "target_frames": 16,
+    "status": "trim",
+    "note": "只取落地压低身体、尘浪向两侧排开；16后紫火转橙开始明显，20后绝不使用。原帧核实中央后窗已有破口，无需因窗裁切。055银闪后建议2帧白闪接本镜首帧，遮掉未生成的显形过程；该效果尚未执行。"
+  },
+  {
+    "name": "058-v034-edit",
+    "id": "058",
+    "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/058-video-r1-no-upscale_00001_.mp4",
+    "source_in": 6,
+    "source_out_exclusive": 32,
+    "target_frames": 26,
+    "status": "trim",
+    "note": "保留教徒抬手→单次琥珀弹朝台上Kimi飞行；32即切反应，避免弹已消失仍无人反应的后半段。058→059→061必须联合核验弹的因果，不宣称当前缺镜链已闭合。"
+  },
+  {
+    "name": "059-v034-pending",
+    "id": "059",
+    "source": null,
+    "source_in": null,
+    "source_out_exclusive": null,
+    "target_frames": 36,
+    "status": "pending",
+    "note": "等待合格新视频，保留Kimi起身后退靠近Claude与防护起手。既有失败r2不得使用；与058入射方向、061站位一起审。"
+  },
+  {
+    "name": "061-v034-pending",
+    "id": "061",
+    "source": null,
+    "source_in": null,
+    "source_out_exclusive": null,
+    "target_frames": 48,
+    "status": "pending",
+    "note": "等待合格新视频：Kimi站立、罩体从开放到闭合、来弹在罩外撞击。旧蹲姿关键帧/未审视频不得替代。"
+  },
+  {
+    "name": "062a-v034-edit",
+    "id": "062a",
+    "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/062a-video-r1-no-upscale_00001_.mp4",
+    "source_in": 0,
+    "source_out_exclusive": 68,
+    "target_frames": 68,
+    "status": "trim",
+    "note": "试锁0–18→紫闪18–36→撤刃36–54→双刃降出画面60–66；保留68帧完成三拍。镜内只证明刀已放低/退出画面，不能声称已清楚入鞘。后续Kimi空手可自然衔接。"
+  },
+  {
+    "name": "062b-v034-edit",
+    "id": "062b",
+    "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/062b-video-r1-no-upscale_00001_.mp4",
+    "source_in": 0,
+    "source_out_exclusive": 42,
+    "target_frames": 42,
+    "status": "trim",
+    "note": "骑士从展开跨步至两列立枪站定；真实动作偏向收拢列队而非向外让路，但中央通道全程可见。取到42稳定，不留后续长停。不要用字幕/旁白声称攻击或举矛冲锋。"
+  }
+]

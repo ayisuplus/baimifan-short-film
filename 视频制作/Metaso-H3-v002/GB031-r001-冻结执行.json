@@ -1,0 +1,305 @@
+{
+  "batch": {
+    "batch_number": 42,
+    "batch_id": "GB031",
+    "attempt_id": "GB031-r001",
+    "title": "离殿与数日后",
+    "shot_ids": [
+      "CY029A",
+      "CY030",
+      "CY031"
+    ],
+    "film_start": 457.022729,
+    "used_seconds": 14,
+    "duration": 14,
+    "prompt": "subject_definitions:\nImage 1=Claude四视图：同一人四角度，身份服饰保持\nImage 2=ChatGPT四视图：同一人四角度，身份服饰保持\nImage 3=DeepSeek四视图：同一人四角度，身份服饰保持\nImage 4=Qwen四视图：同一人四角度，身份服饰保持\nImage 5=Kimi四视图：同一人四角度，身份服饰保持\nImage 6=圣骑士四视图：同一人四角度，身份服饰保持\nImage 7=构图状态，非强制首帧\nImage 8=构图状态，非强制首帧\nImage 9=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，14秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n附四视图的主要人物身份服饰保持；未附独立身份卡的背景人物按保留群像/分屏对应位置维持外观，不独立加近景。构图状态按动作连续变化。离殿背面广角以原群像固定其余七同伴的发型、服装背面和队列，十二位核心角色人数保持；倒地教主/教徒留在殿内，银白骑士两翼留守，不加入离殿队伍。Claude/GPT抱持、千问/小鱼抱持、Kimi离开祭坛各保留独立身份约束。\ndetailed_description:\n[Shot 1] 0–3s Image 7；画内:Claude、ChatGPT。上批抱稳后直接承主动搭肩，不再接抱；转向出口的动作切下层汇合。双人公主抱近景随转身小幅平移，保持托背托膝手位可见和面部关系，不绕到另一轴侧。Claude主动搭肩；GPT保持托背、托膝，在顶部平台抱着她转向下行长阶，始终不放下。 Claude衣边焦损持续，脸出镜时苍白无羞红。 声音:衣袖轻擦，Claude呼吸渐平稳。\n[Shot 2] 3–9s Image 8；画内:ChatGPT、Claude、DeepSeek、Qwen、Gemini、Grok、混元、Llama、智谱、Mistral、Perplexity、Kimi、教主、教徒、圣骑士。用转身方向匹配切下层，省去下阶过程；脚步与空架火声渐远，再明确时间跳切街市。背面广角随队伍缓慢后退扩大空间，保持十二人层次与两翼留守骑士区别；不穿过角色。省略下阶，GPT抱Claude已到下层中殿，与千问抱宝宝的队伍汇合，十二位核心角色沿通道离开；骑士留守。 Claude衣边焦损持续，脸出镜时苍白无羞红。 人物:十二核心角色离殿：GPT、Claude、DeepSeek、八位正门援军、Kimi；教主教徒倒地、骑士留守不混入离殿队形。 声音:脚步渐远，滴水和空刑架火声留在殿内，转街市前缓落。\n[Shot 3] 9–14s Image 9；画内:DeepSeek、街市行人。夜殿离开后作明确数日后跳切，街声替代殿内声，不能当夜晚连续走到白天。明亮街边中远景沿长椅缓慢横移，清楚留下右侧空位，宝宝听到脚步转头时机位停住。小鱼独坐，膝上捧着热饭，身边空位清楚可见；听到脚步，她向右看。 人物:Claude脚步画外，长椅右侧空位仍无人。 声音:熟悉街市叫卖、碗勺轻响，不添加可辨新台词。\n14–14s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "Claude",
+        "name_en": "Claude",
+        "asset_id": "CHAR-CLAUDE",
+        "status": "候选待作者审阅",
+        "limits": "侧背与下裙含补全，不作为精确工程正交图。受缚至离殿采用赤足，四视图鞋仅为日常服装参考。近景不为展示花饰而换侧；不新增另一朵花。",
+        "purpose": "Claude四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a",
+        "original_slot": 1
+      },
+      {
+        "slot": 2,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "ChatGPT",
+        "name_en": "ChatGPT",
+        "asset_id": "CHAR-GPT",
+        "status": "候选待作者审阅",
+        "limits": "两侧躯干略带斜角。开衩与腿饰以原图/正面图的角色右腿为准，不按对称读取；尾巴弯曲是姿态参考，侧背含补全。",
+        "purpose": "ChatGPT四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9",
+        "original_slot": 2
+      },
+      {
+        "slot": 3,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+        "kind": "identity",
+        "person": "DeepSeek",
+        "name_en": "DeepSeek",
+        "asset_id": "CHAR-DEEPSEEK",
+        "status": "候选待作者审阅",
+        "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+        "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+        "original_slot": 3
+      },
+      {
+        "slot": 4,
+        "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+        "kind": "identity",
+        "person": "Qwen",
+        "name_en": "Qwen",
+        "asset_id": "MULKZI2W5366M",
+        "status": "作者指定复用",
+        "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+        "purpose": "Qwen四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+        "original_slot": 4
+      },
+      {
+        "slot": 5,
+        "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+        "kind": "identity",
+        "person": "Kimi",
+        "name_en": "Kimi",
+        "asset_id": "MULKZI2WMFNJE",
+        "status": "作者指定复用",
+        "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。 本片双持小圆月刃沿用r3附属参考；战后固定后腰再解锁，不更换已定服装。",
+        "purpose": "Kimi四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc",
+        "original_slot": 12
+      },
+      {
+        "slot": 6,
+        "path": "资产/图像/CHAR-PALADIN-v001.png",
+        "kind": "identity",
+        "person": "圣骑士",
+        "name_en": "the palace paladins",
+        "asset_id": "CHAR-PALADIN",
+        "status": "候选待作者审阅",
+        "limits": "侧背结构是设计补全，不作为精确工程正交图。队伍枪距、披风碰撞与行进连续性待动态验证。",
+        "purpose": "圣骑士四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d",
+        "original_slot": 14
+      },
+      {
+        "slot": 7,
+        "path": "镜头设计/图像/火焰伤后与星火-v036/CY029A-v036-r1.png",
+        "kind": "composition",
+        "shot_id": "CY029A",
+        "purpose": "构图、空间与代表状态：主动靠近；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "93c6d6fca455d88b769773b3a8874b679500362317045062704fe31b2144f5a5",
+        "original_slot": 15
+      },
+      {
+        "slot": 8,
+        "path": "镜头设计/图像/火焰伤后与星火-v036/CY030-v036-r1.png",
+        "kind": "composition",
+        "shot_id": "CY030",
+        "purpose": "构图、空间与代表状态：一同走出大殿；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "4b4969b67a24902301c26f4628fece7d79f6943145e4d3bf585f780258682b75",
+        "original_slot": 16
+      },
+      {
+        "slot": 9,
+        "path": "镜头设计/图像/独立镜头-v009/CY031-v009.png",
+        "kind": "composition",
+        "shot_id": "CY031",
+        "purpose": "构图、空间与代表状态：数日后的长椅；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "b96a52892235847d16d96908cc76ac433f8eddf5a62cf984932d3a3f08ee0e95",
+        "original_slot": 17
+      }
+    ],
+    "estimated_credits": 165.6,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "离殿背面广角以原群像固定其余七同伴的发型、服装背面和队列，十二位核心角色人数保持；倒地教主/教徒留在殿内，银白骑士两翼留守，不加入离殿队伍。Claude/GPT抱持、千问/小鱼抱持、Kimi离开祭坛各保留独立身份约束。",
+    "reference_reduction": {
+      "batch_number": 42,
+      "batch_id": "GB031",
+      "original_reference_count": 17,
+      "new_reference_count": 9,
+      "keep_original_slots": [
+        1,
+        2,
+        3,
+        4,
+        12,
+        14,
+        15,
+        16,
+        17
+      ],
+      "old_to_new_slot": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "12": 5,
+        "14": 6,
+        "15": 7,
+        "16": 8,
+        "17": 9
+      },
+      "drop": [
+        {
+          "slot": 5,
+          "path": "资产/图像/四视图复用/C06_Gemini-角色设定卡.png",
+          "reason": "该同伴只出现于离殿背面广角群像；原16已给出发色、服饰背面和队列位置，独立正背侧全套卡对本镜贡献有限。"
+        },
+        {
+          "slot": 6,
+          "path": "资产/图像/四视图复用/C09_Grok-角色设定卡.png",
+          "reason": "该同伴只出现于离殿背面广角群像；原16已给出发色、服饰背面和队列位置，独立正背侧全套卡对本镜贡献有限。"
+        },
+        {
+          "slot": 7,
+          "path": "资产/图像/四视图复用/C16_Tencent-Hunyuan-角色设定卡.png",
+          "reason": "该同伴只出现于离殿背面广角群像；原16已给出发色、服饰背面和队列位置，独立正背侧全套卡对本镜贡献有限。"
+        },
+        {
+          "slot": 8,
+          "path": "资产/图像/四视图复用/C10_Meta-角色设定卡.png",
+          "reason": "该同伴只出现于离殿背面广角群像；原16已给出发色、服饰背面和队列位置，独立正背侧全套卡对本镜贡献有限。"
+        },
+        {
+          "slot": 9,
+          "path": "资产/图像/四视图复用/C05_Zai-GLM-角色设定卡.png",
+          "reason": "该同伴只出现于离殿背面广角群像；原16已给出发色、服饰背面和队列位置，独立正背侧全套卡对本镜贡献有限。"
+        },
+        {
+          "slot": 10,
+          "path": "资产/图像/四视图复用/C08_Mistral-角色设定卡.png",
+          "reason": "该同伴只出现于离殿背面广角群像；原16已给出发色、服饰背面和队列位置，独立正背侧全套卡对本镜贡献有限。"
+        },
+        {
+          "slot": 11,
+          "path": "资产/图像/四视图复用/C07_Perplexity-角色设定卡.png",
+          "reason": "该同伴只出现于离殿背面广角群像；原16已给出发色、服饰背面和队列位置，独立正背侧全套卡对本镜贡献有限。"
+        },
+        {
+          "slot": 13,
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "reason": "教主只在群像前景倒地并留在殿内，原16已有对应服装和位置；没有独立表演或脸部镜头，不需完整四视图。"
+        }
+      ],
+      "visual_review": "目视全部参考拼图及完整源提示词，身份卡与群像/分屏重复用途已核对。",
+      "contact_sheet": "视频制作/Metaso-H3-v002/审查/42-GB031-全部参考.jpg",
+      "source_prompt": "视频制作/生成板-v025/提示词/GB031-minimax-h3.txt",
+      "source_prompt_characters": 1721,
+      "source_prompt_sha256": "5af10ae3b65a05db588bdf1482dbfe8160408db5ab66bb90364dfa6a260ef561",
+      "prompt_complete_checks": {
+        "ends_with_non_diegetic_music_NA": true,
+        "shot_blocks": 3,
+        "within_metaso_10000": true
+      },
+      "no_composition_deleted": true,
+      "composition_reference_replacement": "所有构图/动作正文引用均有保留图；按old_to_new_slot重编号即可，不需要把删除构图改成文字。",
+      "required_prompt_scope": "离殿背面广角以原群像固定其余七同伴的发型、服装背面和队列，十二位核心角色人数保持；倒地教主/教徒留在殿内，银白骑士两翼留守，不加入离殿队伍。Claude/GPT抱持、千问/小鱼抱持、Kimi离开祭坛各保留独立身份约束。",
+      "prompt_change_instructions": [
+        "删除subject_definitions中被删身份卡对应行；不要删除人物名、镜头或任何对白。",
+        "保留图引用统一按映射转换为Image N，不可顺序替换导致编号串改；使用单次正则回调。",
+        "删除后的身份卡人物保留在画内名单/人数/动作中；按本条required_prompt_scope明确群像或分屏的局部身份用途。",
+        "retention_analysis不能继续笼统称全部身份均由四视图fully_preserved；改为主角四视图保持、背景或分屏角色由保留场景图约束。",
+        "原本构图图不替代身份的全局条款需改成仅对仍附身份卡角色适用，避免与本轮精简策略冲突。",
+        "日语对白、镜长、BGM空窗与动作切点保持；不因转H3截断完整提示词。"
+      ],
+      "review_risk": "群像中少数背景人物精确小饰物约束减弱，属于本轮删冗余卡的可见取舍；完整群像构图仍保留，不能承诺动态所有细节不漂移。"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "subject_definitions:\nImage 1=Claude四视图：同一人四角度，身份服饰保持\nImage 2=ChatGPT四视图：同一人四角度，身份服饰保持\nImage 3=DeepSeek四视图：同一人四角度，身份服饰保持\nImage 4=Qwen四视图：同一人四角度，身份服饰保持\nImage 5=Kimi四视图：同一人四角度，身份服饰保持\nImage 6=圣骑士四视图：同一人四角度，身份服饰保持\nImage 7=构图状态，非强制首帧\nImage 8=构图状态，非强制首帧\nImage 9=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，14秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n附四视图的主要人物身份服饰保持；未附独立身份卡的背景人物按保留群像/分屏对应位置维持外观，不独立加近景。构图状态按动作连续变化。离殿背面广角以原群像固定其余七同伴的发型、服装背面和队列，十二位核心角色人数保持；倒地教主/教徒留在殿内，银白骑士两翼留守，不加入离殿队伍。Claude/GPT抱持、千问/小鱼抱持、Kimi离开祭坛各保留独立身份约束。\ndetailed_description:\n[Shot 1] 0–3s Image 7；画内:Claude、ChatGPT。上批抱稳后直接承主动搭肩，不再接抱；转向出口的动作切下层汇合。双人公主抱近景随转身小幅平移，保持托背托膝手位可见和面部关系，不绕到另一轴侧。Claude主动搭肩；GPT保持托背、托膝，在顶部平台抱着她转向下行长阶，始终不放下。 Claude衣边焦损持续，脸出镜时苍白无羞红。 声音:衣袖轻擦，Claude呼吸渐平稳。\n[Shot 2] 3–9s Image 8；画内:ChatGPT、Claude、DeepSeek、Qwen、Gemini、Grok、混元、Llama、智谱、Mistral、Perplexity、Kimi、教主、教徒、圣骑士。用转身方向匹配切下层，省去下阶过程；脚步与空架火声渐远，再明确时间跳切街市。背面广角随队伍缓慢后退扩大空间，保持十二人层次与两翼留守骑士区别；不穿过角色。省略下阶，GPT抱Claude已到下层中殿，与千问抱宝宝的队伍汇合，十二位核心角色沿通道离开；骑士留守。 Claude衣边焦损持续，脸出镜时苍白无羞红。 人物:十二核心角色离殿：GPT、Claude、DeepSeek、八位正门援军、Kimi；教主教徒倒地、骑士留守不混入离殿队形。 声音:脚步渐远，滴水和空刑架火声留在殿内，转街市前缓落。\n[Shot 3] 9–14s Image 9；画内:DeepSeek、街市行人。夜殿离开后作明确数日后跳切，街声替代殿内声，不能当夜晚连续走到白天。明亮街边中远景沿长椅缓慢横移，清楚留下右侧空位，宝宝听到脚步转头时机位停住。小鱼独坐，膝上捧着热饭，身边空位清楚可见；听到脚步，她向右看。 人物:Claude脚步画外，长椅右侧空位仍无人。 声音:熟悉街市叫卖、碗勺轻响，不添加可辨新台词。\n14–14s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141454194728960"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141276083478528"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141523506393088"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115144282224386048"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141446306816000"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141532830461952"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115145733474803712"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115145742285070336"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115145752559149056"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 14,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "2026-10-28作者授权：参考图超限想办法砍不重要参考，该返修的都返修；沿用Metaso H3"
+}

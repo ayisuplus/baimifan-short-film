@@ -1,0 +1,26 @@
+subject_definitions:
+<Subject 1>: Kimi, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: Claude, identity and outfit from four-view sheet <Picture 2>.
+<Picture 3>: [Shot 1] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. Continue the actions below in their listed order, without restarting ongoing motion or speech.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Continue charged attacks into release; shield closes before impact. Use <Picture 3> for composition. Initially visible, Kimi steps before Claude and sweeps her right-hand dark blade upward. A deep-indigo dome encloses both women, cross and footrest, becoming fully opaque: all are hidden. Two amber beams strike outside and scatter sparks. Cultist hands and staffs remain visible beside the intact shell; burning wood stays outside. No GPT water yet. Retreat slightly, retaining attackers and impact points. Charge, rushing beams, shattering sparks; next interior cut muffles impacts.
+From 4 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 0s: Begin the dark-moon closure shot.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

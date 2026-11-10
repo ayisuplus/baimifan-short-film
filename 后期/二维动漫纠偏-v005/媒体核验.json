@@ -1,0 +1,102 @@
+[
+  {
+    "attempt": "GB014-v009-group-2d-r1",
+    "sha256": "7bdde5f2574c82619a0d7ee0bddb822710a0558ef6d246cb5418e3006d66141a",
+    "decode": "pass",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1344,
+          "height": 768,
+          "r_frame_rate": "24/1",
+          "duration": "5.166667",
+          "nb_frames": "124"
+        },
+        {
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "duration": "5.175000",
+          "nb_frames": "163"
+        }
+      ]
+    }
+  },
+  {
+    "attempt": "GB018-v009-gpt-rise-2d-r1",
+    "sha256": "d121d687d35d8bac45110c4ca137acd9137dbf61b5c46944e1ff4ed05b7a50fb",
+    "decode": "pass",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1344,
+          "height": 768,
+          "r_frame_rate": "24/1",
+          "duration": "8.000000",
+          "nb_frames": "192"
+        },
+        {
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "duration": "8.000000",
+          "nb_frames": "251"
+        }
+      ]
+    }
+  },
+  {
+    "attempt": "GB027-v009-stair-eyeline-2d-r1",
+    "sha256": "f4018126381226c998ff7260dbaf29b2ce62e6a23736dba295624aa993841428",
+    "decode": "pass",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1344,
+          "height": 768,
+          "r_frame_rate": "24/1",
+          "duration": "4.458333",
+          "nb_frames": "107"
+        },
+        {
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "duration": "4.450000",
+          "nb_frames": "141"
+        }
+      ]
+    }
+  },
+  {
+    "attempt": "GB006-v009-early-inside-2d-r1",
+    "sha256": "b7b48c8706d210eb419f404ae0afd36bc0c0382c8ed7adcd81491728c531f29e",
+    "decode": "pass",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1344,
+          "height": 768,
+          "r_frame_rate": "24/1",
+          "duration": "4.458333",
+          "nb_frames": "107"
+        },
+        {
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "duration": "4.450000",
+          "nb_frames": "141"
+        }
+      ]
+    }
+  }
+]

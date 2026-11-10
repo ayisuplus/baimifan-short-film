@@ -1,0 +1,446 @@
+{
+  "model": "MiniMax-H3",
+  "provider": "metaso",
+  "resolution": "768P",
+  "ratio": "16:9",
+  "authorization": "作者要求直接修复教堂段，密塔剩余额度优先，不足转本地ComfyUI；现余额971.3，经控制台实时核实。保留历史，不充值，不导出。",
+  "spending_ceiling_credits": 900,
+  "balance_observed_credits": 971.3,
+  "balance_source": "https://metaso.cn/minimax-h3-console",
+  "balance_observed_date": "2026-10-29",
+  "items": [
+    {
+      "attempt_id": "CY022-v014-release-r1",
+      "batch_number": 15,
+      "batch_id": "GB012",
+      "shot_id": "CY022-R1",
+      "duration": 4,
+      "prompt": "4秒单镜，精细日式二维动画电影。严格保持首帧全部人物、脸型、服饰、线条与赛璐璐阴影，保持同侧低位斜仰机位，人物大小和站位不变。画面左下的蓝发鲸帽小女孩被左侧黑袍人的手扣住上臂；右侧棕橙发教主面向她；唯一黑紫火把由右后方黑袍人持有。无对白，所有人嘴闭合。\n只完成一次短促施法：开头已有光核，0至0.6秒教主把首帧中已经伸向画面左侧、掌前带光的那一条手臂微微回收，肩肘蓄力；0.6至1.2秒同一条手臂沿原方向快速伸直，琥珀光核从这只掌心离开，成为一条向画面左下净空运动的细光迹。不要把光核传给另一只手，不另举第二只手。1.2至4秒在光迹尚未触及女孩前，保持出掌后的肩臂姿势与衣袖短暂余势，光迹出画，小女孩没有被击中、没有伤口、没有被抛飞。她被扣住的上臂、手掌和抓持者接触点始终不变。\n摄影机固定、不绕行、不切镜、不拉远，不再花几秒重新生成大光球。不要发射向地面下坠的光球；只向左下的画外净空发出短直光迹。石阶仍干燥，本镜没有水、护盾、水龙、雨、刀具或新人物。不要3D建模、塑料皮肤、手办质感、字幕、音乐。",
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v013/参考/CY022-R1-聚术首帧-r1.png",
+          "role": "first_frame",
+          "sha256": "02bf5eec8f727230ebd519daab95d30ef52dce789392bd3d46bcb4dd41ad8ee5",
+          "purpose": "原冻结静帧独立复核：人物、握持、冷蓝窗与暖光一致；不是拒用视频的抽帧。只证明可见局部空间。",
+          "visually_reviewed": true,
+          "review_level": "agent_candidate_review_not_author_final"
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "上一回片换手且光核下坠；只补同一手短促离掌",
+      "repair_of": "CY022-v013-charge-release-r1 rejected video; original still independently reviewed",
+      "quality_gate": "same emitting arm; no contact with child; style and grip stable",
+      "submit_started": "2026-10-29T18:51:31+0800",
+      "task_id": "2115758428794757120",
+      "local_path": "视频制作/Metaso-H3-v014/产物/CY022-v014-release-r1.mp4",
+      "sha256": "3ff8017eb633cb534828644573def22fbbe2858befb0ebe9df517e2230b091de",
+      "bytes": 6313681,
+      "review_status": "selected_windows_for_v011_author_review",
+      "selected_source_windows": [
+        [
+          0,
+          18
+        ]
+      ]
+    },
+    {
+      "attempt_id": "CY022-v014-hand-release-r2",
+      "batch_number": 15,
+      "batch_id": "GB015",
+      "shot_id": "CY022-v014-hand-release-r2",
+      "duration": 4,
+      "prompt": "精细日式二维动画电影，保持参考的细线稿、赛璐璐阴影、脸部比例和原衣纹。不要3D建模、塑料皮肤、过度柔光或简化卡通。16:9，单镜，固定机位，无对白、字幕或音乐。只拍参考中教主正在施法的手及黑金袖口的极近特写。画面从肘部到指尖，脸、孩子、另一只手全部在画外。冷蓝教堂窗虚化。0至0.5秒，掌前已有小琥珀光核；0.5至1秒，手掌短促向画面左边推出，光核成为细直光束向左出画；1至2秒光束消失，手掌仍前伸，袖口随惯性摆动；2至4秒保留出掌后的余势。光始终来自唯一可见的同一只手，另一只手绝不入镜。光束水平直行，不向地面下落，不出现被击中的人物。",
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v013/参考/CY022-R1-聚术首帧-r1.png",
+          "sha256": "02bf5eec8f727230ebd519daab95d30ef52dce789392bd3d46bcb4dd41ad8ee5",
+          "role": "reference_image",
+          "purpose": "原冻结图，只取教主袖口和正在发光的同一只手；小鱼不在新特写构图内",
+          "visually_reviewed": true
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "全景易换手，改唯一单手特写明确离掌，后接截击",
+      "repair_of": "v010 church continuity review",
+      "quality_gate": "identity/style and full contact action independently inspected before adoption",
+      "submit_started": "2026-10-29T18:54:31+0800",
+      "task_id": "2115759184401113088",
+      "local_path": "视频制作/Metaso-H3-v014/产物/CY022-v014-hand-release-r2.mp4",
+      "sha256": "698bc5a2f23f5ab7f7a5894b15afd2aa88487407e0a32d2add28c94324327b5c",
+      "bytes": 3318140,
+      "review_status": "selected_windows_for_v011_author_review",
+      "selected_source_windows": [
+        [
+          18,
+          34
+        ]
+      ]
+    },
+    {
+      "attempt_id": "CY030-v014-weight-transfer-r1",
+      "batch_number": 40,
+      "batch_id": "GB040",
+      "shot_id": "CY030-v014-weight-transfer-r1",
+      "duration": 5,
+      "prompt": "精细日式二维动画电影，保持参考的细线稿、赛璐璐阴影、脸部比例和原衣纹。不要3D建模、塑料皮肤、过度柔光或简化卡通。16:9，单镜，固定机位，无对白、字幕或音乐。参考图仅用于人物服装与最终横抱姿态。新镜开头必须是Claude双脚接地、身体疲软站着，GPT贴近扶住她肩背，不能从已经抱起开始。固定同侧斜前方中全景，必须看清两人全身及双脚。蓝窗、浅湿地、左后方燃烧的空木祭架位置不变。0至1秒GPT屈膝降重心，一只手臂稳托Claude肩背；Claude双脚仍接地。1至2秒GPT另一条前臂从Claude膝弯下穿入，掌心托住膝后；2至3秒GPT伸腿站起，肩背和膝弯同时受托，Claude的两只赤足此时才离地，裙摆离地后垂落；3至5秒站稳横抱，Claude疲惫靠在她身上，手自然垂落。维持参考的GPT白发龙角尖耳与折拢膜翼、Claude橙红长发白金焦边裙。两只承托手始终可追踪，不换抱，不瞬移，不自行跳起，不亲吻。用重心与衣裙余势呈现重量。",
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v012/参考/carry-locked-design-2d.png",
+          "sha256": "769f74718ab4f6cf17d89ad8f670d6c0a828515e1f09eeb9dc4cff23b370bd87",
+          "role": "reference_image",
+          "purpose": "双方身份、服装、二维线条和结束抱稳姿态；不是开头姿态",
+          "visually_reviewed": true
+        }
+      ],
+      "estimated_credits": 51.0,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "现有两条素材都从已抱起开始，缺真实托背托膝离地动作",
+      "repair_of": "v010 church continuity review",
+      "quality_gate": "identity/style and full contact action independently inspected before adoption",
+      "submit_started": "2026-10-29T18:54:36+0800",
+      "task_id": "2115759205510782976",
+      "local_path": "视频制作/Metaso-H3-v014/产物/CY030-v014-weight-transfer-r1.mp4",
+      "sha256": "e81374a0faa3e44bdb0ce9985adb18c63c7400b7560dbf774826a8490abe4184",
+      "bytes": 9304400,
+      "review_status": "selected_windows_for_v011_author_review",
+      "selected_source_windows": [
+        [
+          0,
+          90
+        ]
+      ]
+    },
+    {
+      "attempt_id": "CY023-v014-water-shot-r1",
+      "batch_number": 16,
+      "batch_id": "GB016",
+      "shot_id": "CY023-v014-water-shot-r1",
+      "duration": 4,
+      "prompt": "精细日式二维动画电影，保持参考细线稿、赛璐璐阴影、人物比例和精致服装。不要3D建模、塑料皮肤、漫剧推拉。16:9，固定同侧镜头，无字幕、对白、音乐。教堂内看向破开的大木门，月夜在门后。镜头只拍参考画左的白发龙娘GPT一人，膝上三分之四中景，白发双角尖耳、白银纹长裙和膜翼折拢保持。门板刚被踹裂，木屑还在落，画面开头她已经伸出右手掌朝教堂内，也就是画面右前方，左臂自然靠身。0至0.5秒只从这只前伸掌前喷出一束窄而快的清水，沿画面左到右出画，穿过已破开的门洞；0.5至1.5秒她收回踢门后的膝部，落脚稳重心，水束持续向右出画；1.5至4秒水束停止，湿袖与头发顺势回落。动作果断，不先走进门再蓄力；水不变龙，不出大浪，不变护罩，不出现其他人物、云宫、中式建筑。",
+      "references": [
+        {
+          "path": "镜头设计/图像/独立镜头-v009/CY026A-v009.png",
+          "sha256": "29a458b3796e581a939537030f3ce8a95161432175951f023b97fbbec867eff1",
+          "role": "reference_image",
+          "purpose": "只借画左白发龙娘GPT身份服装和精细二维画风；不借云宫背景，不出现画右千问",
+          "visually_reviewed": true
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "破门脚部之后缺水击发出因果",
+      "repair_of": "v0.69 rescue gap",
+      "quality_gate": "single action, consistent identity and axis, visible contact and weight",
+      "submit_started": "2026-10-29T18:56:40+0800",
+      "task_id": "2115759722547093504",
+      "local_path": "视频制作/Metaso-H3-v014/产物/CY023-v014-water-shot-r1.mp4",
+      "sha256": "1259b7ba475eeea6d4ce4d67e4218e89ab0b6fde43e84df30f7733c513641a76",
+      "bytes": 4453790,
+      "review_status": "not_selected_preserved"
+    },
+    {
+      "attempt_id": "CY022-v014-intercept-release-r1",
+      "batch_number": 16,
+      "batch_id": "GB016",
+      "shot_id": "CY022-v014-intercept-release-r1",
+      "duration": 4,
+      "prompt": "精细日式二维动画电影，保持参考细线稿、赛璐璐阴影、人物比例和精致服装。不要3D建模、塑料皮肤、漫剧推拉。16:9，固定同侧镜头，无字幕、对白、音乐。沿参考同侧轴线取略宽中景：鲸帽小女孩画左下，黑袍教徒在她左后，单手扣住上臂；棕橙发黑金袍教主在右。开头教主已前伸掌，琥珀细光从右往左，距离孩子至少一臂；一束窄水流立即从画外左前侧进入，在孩子身体前方的空隙和琥珀光迎面相撞，局部白水雾闪开，术光向无人的上方散掉。整个碰撞在孩子轮廓之外。黑袍抓持者因水花惊退半步，抓持手张开并明确离开孩子上臂；女孩脚仍着地，退半步但不倒下。1.5至4秒看清女孩上臂已自由、抓持者后撤，水花落下。教主始终右侧，不换位；火把仍仅后方教徒持有。没有大洪水，不能浇灭画外祭架火焰，没有千问，没有新抱起动作，没有伤口。",
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v013/参考/CY022-R1-聚术首帧-r1.png",
+          "sha256": "02bf5eec8f727230ebd519daab95d30ef52dce789392bd3d46bcb4dd41ad8ee5",
+          "role": "reference_image",
+          "purpose": "教主小鱼身份、黑袍抓持者、局部教堂轴线、原冻结画风",
+          "visually_reviewed": true
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "需要看见水术截击和抓持手真正松开",
+      "repair_of": "v0.69 rescue gap",
+      "quality_gate": "single action, consistent identity and axis, visible contact and weight",
+      "submit_started": "2026-10-29T18:56:42+0800",
+      "task_id": "2115759731262070784",
+      "local_path": "视频制作/Metaso-H3-v014/产物/CY022-v014-intercept-release-r1.mp4",
+      "sha256": "11305b7c409b662f17390283fb3deb095380297e2599d2c9003beb77a5e89b85",
+      "bytes": 6506290,
+      "review_status": "not_selected_preserved"
+    },
+    {
+      "attempt_id": "CY024A0-v014-rescue-carry-r1",
+      "batch_number": 17,
+      "batch_id": "GB017",
+      "shot_id": "CY024A0-v014-rescue-carry-r1",
+      "duration": 5,
+      "prompt": "精细日式二维动画电影，保持参考细线稿、赛璐璐阴影、人物比例和精致服装。不要3D建模、塑料皮肤、漫剧推拉。16:9，固定同侧镜头，无字幕、对白、音乐。教堂石阶旁同侧中全景，开头小鱼鲸帽宝宝双脚着地，黑袍人已缩手在右后远处，没有继续抓她。蓝紫编发、花形帽饰、白内裙深蓝外衣的千问从画面左侧快速进入，右手低持一把合拢折扇，右手不参加抱持。0至1秒千问左手带孩子向自己身前离开黑袍人；1至2.5秒她屈膝贴近，以左臂从孩子臀下承托，将孩子抱到自己左髋，孩子双腿此时才离地，孩子自然依住她肩头。2.5至4秒千问带孩子退到画面左边最近石柱后，折扇仍在右手低位；4至5秒停稳确认孩子安全。清楚表现左前臂托臀承重，孩子不漂浮、不自动升空、不长大、不变脸；不换抱，不多臂，不丢扇，不围绕人物转镜。干地只有少量新水花。",
+      "references": [
+        {
+          "path": "镜头设计/图像/张力与机位-v060/CY024A0-v060-r2.png",
+          "sha256": "6088c303b96ecae73362067edd642638989dc293b941da6a1fb32a7c013b0b1d",
+          "role": "reference_image",
+          "purpose": "千问和小鱼脸型服饰与教堂冷蓝光；构图重新取中景",
+          "visually_reviewed": true
+        },
+        {
+          "path": "视频制作/Metaso-H3-v013/参考/CY022-R1-聚术首帧-r1.png",
+          "sha256": "02bf5eec8f727230ebd519daab95d30ef52dce789392bd3d46bcb4dd41ad8ee5",
+          "role": "reference_image",
+          "purpose": "教主小鱼身份、黑袍抓持者、局部教堂轴线、原冻结画风",
+          "visually_reviewed": true
+        }
+      ],
+      "estimated_credits": 51.0,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "从松手到安全抱持缺少承重动作",
+      "repair_of": "v0.69 rescue gap",
+      "quality_gate": "single action, consistent identity and axis, visible contact and weight",
+      "submit_started": "2026-10-29T18:56:44+0800",
+      "task_id": "2115759739285774336",
+      "local_path": "视频制作/Metaso-H3-v014/产物/CY024A0-v014-rescue-carry-r1.mp4",
+      "sha256": "f9ffd15d284405c93778d2a902911f70aeab3f5e7c47420e7db4760e9edb7a34",
+      "bytes": 5221185,
+      "review_status": "not_selected_preserved"
+    },
+    {
+      "attempt_id": "CY024K3-v014-shield-close-r1",
+      "batch_number": 20,
+      "batch_id": "GB015-2",
+      "duration": 4,
+      "prompt": "精细日式二维动画，严格保持首尾帧线条、平涂阴影和原角色服装，固定正面同侧镜头。4秒只完成同一个防护罩从无到闭合：首帧Kimi刚落地，双手各持唯一一把月牙刃，Claude仍双腕固定于后方祭架。0至0.5秒Kimi稳住前脚、把两刃向身前收拢；0.5至2秒一道蓝紫月光从地面沿她与祭架外围向上卷起，连续生长为覆盖Kimi和整个祭架的半球，先透明后逐渐变成尾帧深蓝紫薄膜；2至4秒半球已经完整闭合，表面只留缓慢月纹，不再缩小或变回直立圆盘。外围火焰被阻在罩外，不能穿透罩壁，没有先到的敌方攻击，没有新增人物。镜头不绕行、不突然换角度；没有对白字幕音乐，不用3D手办材质。",
+      "references": [
+        {
+          "path": "镜头设计/图像/暗月瞬临-v045/CY024K2-v045-r1.png",
+          "role": "first_frame",
+          "sha256": "26268718c9c1cc60205640cae55c9d37d3965978385a387760f091a85b8a82c8",
+          "visually_reviewed": true,
+          "purpose": "同风格原设计，起态Kimi护在祭架前、终态完整暗月半球"
+        },
+        {
+          "path": "镜头设计/图像/暗月瞬临-v045/CY024K3-v045-r1.png",
+          "role": "last_frame",
+          "sha256": "79a31c435a15c534cf50f0940caf6aa71c593e15cb6230e0ef62cf0b393b04a0",
+          "visually_reviewed": true,
+          "purpose": "同风格原设计，起态Kimi护在祭架前、终态完整暗月半球"
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "替换直立圆盘硬切封闭半球，让同一个盾连续长成",
+      "repair_of": "B20 disk-to-dome discontinuity",
+      "submit_started": "2026-10-29T19:02:25+0800",
+      "task_id": "2115761176825274368",
+      "local_path": "视频制作/Metaso-H3-v014/产物/CY024K3-v014-shield-close-r1.mp4",
+      "sha256": "c44740c2c80d0b6bf7831d7f4899ba0a3080ca9b760fd5b65ec6b51ee200dddf",
+      "bytes": 7570094,
+      "review_status": "selected_windows_for_v011_author_review",
+      "selected_source_windows": [
+        [
+          0,
+          32
+        ],
+        [
+          42,
+          96
+        ]
+      ]
+    },
+    {
+      "attempt_id": "CY024A0-v014-rescue-carry-r2",
+      "batch_number": 17,
+      "batch_id": "GB017",
+      "shot_id": "CY024A0-v014-rescue-carry-r1",
+      "duration": 5,
+      "prompt": "5秒，精细日式二维动画单镜，保持两张参考同一千问与小鱼。千问必须是图1完整原服装：白色贴颈高领盘扣内衫，胸口完全遮盖；深蓝紫外袍与及踝白蓝长裙，不能改低胸、短裙、露腹或过膝袜。花形帽饰、蓝紫编发、右手低持合拢折扇。小鱼是图2鲸帽蓝发宝宝。场景为冷蓝窗哥特教堂入口侧石柱旁，背景远处黑袍人已经缩手。固定同侧中全景。\n0至1秒孩子双脚着地，千问屈膝从她左侧贴近，用左前臂从孩子臀部下方横穿，左手清楚托住孩子外侧大腿；1至2秒托臀手保持接触，千问起身，小鱼双脚此时才离地落在她左髋，孩子靠住肩头；2至4秒千问连续后退两步，进入画面左侧宽石柱背后的遮蔽区，柱体遮住她们半身；4至5秒停稳。右手合扇始终垂在体侧，不参与抱持。左臂承重全过程可追踪，不能让孩子自行浮起，不换抱，不长大。只拍两个人，不出现GPT，不改教堂为王宫，无对白字幕音乐，无3D建模。",
+      "references": [
+        {
+          "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+          "role": "reference_image",
+          "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+          "visually_reviewed": true,
+          "purpose": "千问完整原服装，贴颈白色盘扣内衫和及踝长裙必须逐项保留"
+        },
+        {
+          "path": "镜头设计/图像/张力与机位-v060/CY024A0-v060-r2.png",
+          "sha256": "6088c303b96ecae73362067edd642638989dc293b941da6a1fb32a7c013b0b1d",
+          "role": "reference_image",
+          "purpose": "千问和小鱼脸型服饰与教堂冷蓝光；构图重新取中景",
+          "visually_reviewed": true
+        }
+      ],
+      "estimated_credits": 51.0,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "r1完整服装漂移，加入已逐张核验同画风原全身设定卡并明确托臀再离地",
+      "repair_of": "v0.69 rescue gap",
+      "quality_gate": "single action, consistent identity and axis, visible contact and weight",
+      "submit_started": "2026-10-29T19:03:12+0800",
+      "task_id": "2115761366962122752",
+      "provider_status": "running",
+      "local_path": "视频制作/Metaso-H3-v014/产物/CY024A0-v014-rescue-carry-r2.mp4",
+      "sha256": "3c2449e6fc11729a544498a112b96a96b5db25346c5d57ef7f9e61d348a34806",
+      "bytes": 4503700,
+      "review_status": "selected_windows_for_v011_author_review",
+      "selected_source_windows": [
+        [
+          0,
+          123
+        ]
+      ]
+    },
+    {
+      "attempt_id": "CY023-v014-water-close-r2",
+      "batch_number": 16,
+      "batch_id": "GB013",
+      "duration": 4,
+      "prompt": "精细日式二维动画单镜，保持参考线稿与平涂阴影，禁止3D手办材质，无对白字幕音乐。只拍一个GPT腰部以上侧面近景，人物位于画面左侧，朝向画面右侧。保持参考白发、双龙角、尖耳、白银纹胸前服装，嘴闭合。背景只见虚化的哥特教堂蓝色高窗与暖色烛点，不见门、不见户外、不见屋顶，不见别的人物。开头她的右臂已经朝右伸直；0至0.5秒掌前喷出一束窄水流，笔直向右出画；0.5至1.5秒持续出水，手腕稳住不换手，1.5至4秒水束停止，袖口发尾余势回落。固定机位，不需要走路、踢腿、蓄力或转身。只取参考角色身份，背景重新为冷蓝哥特窗，不出现参考的任何文字或水印。",
+      "references": [
+        {
+          "path": "概念参考/04-ChatGPT-用户指定龙娘.png",
+          "role": "reference_image",
+          "sha256": "75daa70f00c98561b00bb7f43558141a5b15f78a19915fe23af6ccc0f7f6eb84",
+          "visually_reviewed": true,
+          "purpose": "作者原身份母本；纯人物取腰上近景，图中文字与水印绝不进入视频"
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "拆分先前混淆的空间与接触动作为单一可验收插镜",
+      "repair_of": "v014 rescue r1 rejected",
+      "upload_preflight_note": "四视图比例超过服务2.5限制，上传被400拒绝、未提交；改用同一作者指定身份母本。",
+      "submit_started": "2026-10-29T19:07:39+0800",
+      "task_id": "2115762490618126336",
+      "local_path": "视频制作/Metaso-H3-v014/产物/CY023-v014-water-close-r2.mp4",
+      "sha256": "6f6c0e186249d1f6cb35f647b0e7649facc96e700e72703c24c56fb11c328ef0",
+      "bytes": 3281302,
+      "review_status": "selected_windows_for_v011_author_review",
+      "selected_source_windows": [
+        [
+          4,
+          22
+        ]
+      ]
+    },
+    {
+      "attempt_id": "CY022-v014-air-intercept-r2",
+      "batch_number": 16,
+      "batch_id": "GB013",
+      "duration": 4,
+      "prompt": "精细日式二维动画单镜，保持参考线稿与平涂阴影，禁止3D手办材质，无对白字幕音乐。只取参考教堂冷蓝窗和暖金光影为背景风格，镜内完全没有人物、手、火把、祭架，只有半空一小块净空的特写。开头一条已经离体的琥珀细光从右往左高速飞行；同时一束窄清水从左向右迎来。0.5至1秒两者在画面中心的空中相撞，一次小范围白色水花闪开，金光在水中碎散并熄灭，余水向下落；1至4秒留出散水余势。固定镜头，不生成巨浪、光球蓄力、火焰或人物，不让攻击撞建筑。本镜只交代空中截击。",
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v013/参考/CY022-R1-聚术首帧-r1.png",
+          "role": "reference_image",
+          "sha256": "02bf5eec8f727230ebd519daab95d30ef52dce789392bd3d46bcb4dd41ad8ee5",
+          "visually_reviewed": true
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "拆分先前混淆的空间与接触动作为单一可验收插镜",
+      "repair_of": "v014 rescue r1 rejected",
+      "submit_started": "2026-10-29T19:06:16+0800",
+      "task_id": "2115762139552788480",
+      "local_path": "视频制作/Metaso-H3-v014/产物/CY022-v014-air-intercept-r2.mp4",
+      "sha256": "be58a5ac68bc6246bef265222c12b4029df29c062a522962f408bfdba442b604",
+      "bytes": 6022876,
+      "review_status": "selected_windows_for_v011_author_review",
+      "selected_source_windows": [
+        [
+          16,
+          34
+        ]
+      ]
+    },
+    {
+      "attempt_id": "CY022-v014-grip-free-r2",
+      "batch_number": 16,
+      "batch_id": "GB013",
+      "duration": 4,
+      "prompt": "精细日式二维动画单镜，保持参考线稿与平涂阴影，禁止3D手办材质，无对白字幕音乐。使用参考中蓝发鲸帽宝宝的上臂、袖子与黑袍教徒抓持手的近特写。只看小鱼从肩到腰和抓持手，不露教主，不露火把。0至0.6秒黑金袖口的一只手扣着孩子上臂；画外水花闪光后，0.6至1.5秒这只手受惊，五指张开，整只手明确向画面右上缩回，离开孩子肩臂至少一只手掌的距离；1.5至4秒手完全退出画面，孩子的上臂外侧空出清楚间隙，衣袖回弹，她朝画左挪半步。不得把张开手掌仍搭在肩上，不出多手，不击中孩子，不加其他角色。",
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v013/参考/CY022-R1-聚术首帧-r1.png",
+          "role": "reference_image",
+          "sha256": "02bf5eec8f727230ebd519daab95d30ef52dce789392bd3d46bcb4dd41ad8ee5",
+          "visually_reviewed": true
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "拆分先前混淆的空间与接触动作为单一可验收插镜",
+      "repair_of": "v014 rescue r1 rejected",
+      "submit_started": "2026-10-29T19:06:18+0800",
+      "task_id": "2115762151209934848",
+      "local_path": "视频制作/Metaso-H3-v014/产物/CY022-v014-grip-free-r2.mp4",
+      "sha256": "3647debc36bd7a9fffe626843d8cacc603c8af24a0d44b858c0529dd95fc3253",
+      "bytes": 3971955,
+      "review_status": "selected_windows_for_v011_author_review",
+      "selected_source_windows": [
+        [
+          28,
+          88
+        ]
+      ]
+    },
+    {
+      "attempt_id": "CY024A-v014-caster-2d-sync-r1",
+      "batch_number": 26,
+      "batch_id": "GB019",
+      "duration": 7,
+      "estimated_credits": 71.4,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "repair_of": "B26 shiny-to-flat style discontinuity",
+      "change_reason": "统一GPT起咏、聚水、术名三处近景为母本二维画风，原声原速口型参考",
+      "references": [
+        {
+          "path": "概念参考/04-ChatGPT-用户指定龙娘.png",
+          "sha256": "75daa70f00c98561b00bb7f43558141a5b15f78a19915fe23af6ccc0f7f6eb84",
+          "role": "reference_image",
+          "visually_reviewed": true,
+          "purpose": "作者GPT本体二维身份母本，禁止文字水印进入画面"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v014/参考/caster-7s-selected-voices.wav",
+          "sha256": "75befa430df82bff3d3ca4cf810fdc3b1a3c7e9b6a2ceaf2d4e9cdf0d60cea30",
+          "role": "reference_audio",
+          "seconds": 7,
+          "purpose": "当前已选原速日语三句，按精确剪辑窗口拼接；生成声最终不入混音"
+        }
+      ],
+      "prompt": "7秒精细日本二维动画，严格保持参考白发龙角女孩的脸、紫瞳、尖耳、白银纹胸衣与膜翼。可见细线稿与平涂阴影，不要3D、塑料皮肤、手办。只出现这一个GPT，她悬浮于冷蓝窗哥特教堂内，屋顶始终完好，没有水龙，没有破洞，没有教徒，嘴型同步音频，无字幕文字水印。全片同侧机位。\n0至2.25秒：腰上中景，人物已经悬空稳定，缓慢抬起右掌到胸前，保持另一手安定；按音频说「清き水の主よ。」。一遍抬掌即可，不反复挥手。\n2.25至5.25秒：同侧更近中景，右掌保持向上，身旁细小水珠缓缓上浮，按音频说「水よ、集え。」。水珠只有小量，不形成水龙或大浪，嘴在停顿中闭合。\n5.25至7秒：同侧脸与肩近景，目光坚定朝向殿内右前方，按音频清楚说术名「蒼龍天傾！」，直到尾音结束，屋顶仍完整且身旁没有龙。不要提前前指发射，不要切到别场景。只用音频控制口型表演，不添加对白、旁白或背景音乐。",
+      "submit_started": "2026-10-29T19:18:49+0800",
+      "task_id": "2115765296074956800",
+      "local_path": "视频制作/Metaso-H3-v014/产物/CY024A-v014-caster-2d-sync-r1.mp4",
+      "sha256": "c8294e3e0215a0ecf129413b389ad41dd82cd6cf97bd616813df5b9c064ca774",
+      "bytes": 5274731,
+      "review_status": "selected_windows_for_v011_author_review",
+      "selected_source_windows": [
+        [
+          0,
+          54
+        ],
+        [
+          56,
+          125
+        ],
+        [
+          126,
+          168
+        ]
+      ]
+    }
+  ]
+}

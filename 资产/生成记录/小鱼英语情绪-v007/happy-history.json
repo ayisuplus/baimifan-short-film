@@ -1,0 +1,118 @@
+{
+  "prompt": [
+    19,
+    "418ad9d8-cb9c-4cb8-8ceb-cc8cf334ca12",
+    {
+      "1": {
+        "class_type": "BreezeTTS2LoadModel",
+        "inputs": {
+          "model": "bf16 (best quality)",
+          "dtype": "bf16",
+          "device": "cuda",
+          "attention": "sdpa",
+          "decode_mode": "eager",
+          "download_if_missing": false
+        }
+      },
+      "2": {
+        "class_type": "BreezeTTS2VoiceDirection",
+        "inputs": {
+          "breeze_model": [
+            "1",
+            0
+          ],
+          "text": "Would you like some? One more try. I'll get you out of here.",
+          "reference_audio": [
+            "4",
+            0
+          ],
+          "reference_text": "Would you like some? One more try. I'll get you out of here.",
+          "instruction": "Speak English as a Japanese anime voice actress. Keep the reference speaker's identity and soft, rounded timbre. Happy and delighted, with an audible warm smile and lively, springy phrasing. Say only the provided text, with a brief pause between sentences.",
+          "cfg_scale": 4.0,
+          "stitch_reference": "none",
+          "max_new_tokens": 256,
+          "temperature": 0.9,
+          "top_k": 50,
+          "top_p": 1.0,
+          "repetition_penalty": 1.1,
+          "depth_temperature": 0.9,
+          "depth_top_k": 50,
+          "depth_top_p": 1.0,
+          "seed": 20261027
+        }
+      },
+      "3": {
+        "class_type": "SaveAudio",
+        "inputs": {
+          "audio": [
+            "2",
+            0
+          ],
+          "filename_prefix": "audio/BreezeTTS2/WhiteRice-Xiaoyu-v007/happy"
+        }
+      },
+      "4": {
+        "class_type": "LoadAudio",
+        "inputs": {
+          "audio": "white-rice-xiaoyu-v006-approved.flac"
+        }
+      }
+    },
+    {
+      "client_id": "xiaoyu-emotions-v007",
+      "create_time": 1792993371510
+    },
+    [
+      "3"
+    ]
+  ],
+  "outputs": {
+    "3": {
+      "audio": [
+        {
+          "filename": "happy_00001.flac",
+          "subfolder": "audio\\BreezeTTS2\\WhiteRice-Xiaoyu-v007",
+          "type": "output"
+        }
+      ]
+    }
+  },
+  "status": {
+    "status_str": "success",
+    "completed": true,
+    "messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "418ad9d8-cb9c-4cb8-8ceb-cc8cf334ca12",
+          "timestamp": 1792993371511
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [
+            "1"
+          ],
+          "prompt_id": "418ad9d8-cb9c-4cb8-8ceb-cc8cf334ca12",
+          "timestamp": 1792993371521
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "418ad9d8-cb9c-4cb8-8ceb-cc8cf334ca12",
+          "timestamp": 1792993383476
+        }
+      ]
+    ]
+  },
+  "meta": {
+    "3": {
+      "node_id": "3",
+      "display_node": "3",
+      "parent_node": null,
+      "real_node_id": "3"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "Claude": {
+    "candidate": 1,
+    "note": "",
+    "status": "author_selected",
+    "time": "2026-10-29T15:19:11.558019+08:00",
+    "evidence": "author clicked review page",
+    "timeline_adopted": false,
+    "audio": "../ElevenLabs-正式台词试听-v002/Claude-1.mp3"
+  },
+  "小鱼": {
+    "status": "retain_existing_voice",
+    "evidence": "author explicit reply 2026-10-29"
+  },
+  "GPT": {
+    "candidate": 0,
+    "note": "咏唱始终不对，没有那种动漫的热血的气",
+    "status": "needs_revision",
+    "time": "2026-10-29T15:21:13.502363+08:00",
+    "evidence": "author clicked review page",
+    "timeline_adopted": false
+  },
+  "Kimi": {
+    "candidate": 0,
+    "note": "不太行，我想要的是一种空灵清冷的少女，你这个不太像",
+    "status": "needs_revision",
+    "time": "2026-10-29T15:21:45.161696+08:00",
+    "evidence": "author clicked review page",
+    "timeline_adopted": false,
+    "note_evidence": "review page note edit",
+    "note_captured_at": "2026-10-29T07:28:43.792Z",
+    "note_saved_at": "2026-10-29T15:32:11.682438+08:00"
+  },
+  "教主": {
+    "candidate": 1,
+    "note": "",
+    "status": "author_selected",
+    "time": "2026-10-29T15:21:56.819883+08:00",
+    "evidence": "author clicked review page",
+    "timeline_adopted": false,
+    "audio": "教主-1.mp3"
+  },
+  "千问": {
+    "candidate": 0,
+    "note": "千问设定是古风美人，我这边建议换个别的工具来生成吧，就用我们本地得breeze来设计",
+    "status": "needs_revision",
+    "time": "2026-10-29T15:22:26.011940+08:00",
+    "evidence": "author clicked review page",
+    "timeline_adopted": false
+  },
+  "Gemini": {
+    "candidate": 1,
+    "note": "",
+    "status": "author_selected",
+    "time": "2026-10-29T15:22:32.371983+08:00",
+    "evidence": "author clicked review page",
+    "timeline_adopted": false,
+    "audio": "Gemini-直配-oGnIkLaScZshfvIW8YvI.mp3"
+  },
+  "Grok": {
+    "candidate": 0,
+    "note": "感觉还不如之前那个，我觉得之前那个还是对味一点，你这个变成小女孩",
+    "status": "needs_revision",
+    "time": "2026-10-29T15:22:46.210134+08:00",
+    "evidence": "author clicked review page",
+    "timeline_adopted": false
+  },
+  "天使GPT": {
+    "candidate": 0,
+    "note": "这两个要跟 GPT 的声线保持一致，只是情绪不一样而已。",
+    "status": "needs_revision",
+    "time": "2026-10-29T15:25:08.295818+08:00",
+    "evidence": "author clicked review page",
+    "timeline_adopted": false
+  },
+  "恶魔GPT": {
+    "candidate": 0,
+    "note": "跟天使GPT一样的条",
+    "status": "needs_revision",
+    "time": "2026-10-29T15:23:11.527140+08:00",
+    "evidence": "author clicked review page",
+    "timeline_adopted": false,
+    "note_evidence": "recovered from live review input before reload",
+    "note_captured_at": "2026-10-29T07:28:43.792Z"
+  },
+  "教徒": {
+    "candidate": 1,
+    "note": "",
+    "status": "author_selected",
+    "time": "2026-10-29T15:23:30.944984+08:00",
+    "evidence": "author clicked review page",
+    "timeline_adopted": false,
+    "audio": "教徒-直配-sBasCmUCkqdPXe3dC2X4.mp3"
+  }
+}

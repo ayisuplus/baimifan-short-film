@@ -1,0 +1,11 @@
+{
+  "id": "CY027D",
+  "destination": "镜头设计/图像/王宫骑士-v010/CY027D-v010-r3.png",
+  "request": {
+    "prompt": "局部修正图中的水盆。场景里只保留两只铜水盆，全部移到最下一级台阶外、与前景人物脚底同一层的地面左右两端。平台上和侧边高处所有水盆移除。水盆可以被前景人物局部遮挡，不需要露出全貌。祭坛保持三级台阶，不增加。其余所有人物、骑士、地面、构图和色调保持不变。",
+    "referenced_image_paths": [
+      "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-70e6003a-e82b-4984-91f7-66371798e946.png"
+    ],
+    "transparent_background": false
+  }
+}

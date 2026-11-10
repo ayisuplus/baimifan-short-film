@@ -1,0 +1,66 @@
+{
+  "role": "教主",
+  "voice_description": "Native Japanese, standard Japanese. A middle-aged male religious leader in a dramatic fantasy anime. Controlled, dignified and quietly intimidating. He speaks with unwavering conviction and concise authority, and rarely raises his voice. Natural character dialogue rather than an announcer performance. Studio-quality recording.",
+  "text": "我が娘よ、神がお待ちだ。\nどけ。\n不干渉条約を破ったな。\nクロード……来なさい。\n我が娘よ、神がお待ちだ。\nどけ。\n不干渉条約を破ったな。\nクロード……来なさい。\n我が娘よ、神がお待ちだ。\nどけ。\n不干渉条約を破ったな。\nクロード……来なさい。",
+  "repeats": 3,
+  "lines": [
+    {
+      "id": "VO-CY021A-01",
+      "role": "教主／Claude的父亲",
+      "previous_batch": 12,
+      "previous_record_frame": 3486,
+      "previous_ja": "我が娘よ、神がお待ちだ。",
+      "previous_zh": "我的女儿，神明在等你。",
+      "previous_audio_duration_seconds": 4.416666666666667,
+      "status": "retained_in_draft",
+      "ja": "我が娘よ、神がお待ちだ。",
+      "zh_back_translation": "我的女儿，神明在等你。",
+      "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+      "reading_hints": {}
+    },
+    {
+      "id": "VO-CY019-01",
+      "role": "教主／Claude的父亲",
+      "previous_batch": 12,
+      "previous_record_frame": 3622,
+      "previous_ja": "どけ。",
+      "previous_zh": "让开。",
+      "previous_audio_duration_seconds": 0.7999999999999924,
+      "status": "retained_in_draft",
+      "ja": "どけ。",
+      "zh_back_translation": "让开。",
+      "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+      "reading_hints": {}
+    },
+    {
+      "id": "VO-CY027A-01",
+      "role": "教主／Claude的父亲",
+      "previous_batch": 34,
+      "previous_record_frame": 8532,
+      "previous_ja": "不干渉条約を破ったな。",
+      "previous_zh": "你违反了互不干涉条约。",
+      "previous_audio_duration_seconds": 2.7899999999999636,
+      "status": "retained_in_draft",
+      "ja": "不干渉条約を破ったな。",
+      "zh_back_translation": "你违反了互不干涉条约。",
+      "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+      "reading_hints": {}
+    },
+    {
+      "id": "VO-CY029-01",
+      "role": "教主／Claude的父亲",
+      "previous_batch": 38,
+      "previous_record_frame": 9986,
+      "previous_ja": "クロード……来なさい。",
+      "previous_zh": "Claude……过来。",
+      "previous_audio_duration_seconds": 3.099999999999985,
+      "status": "retained_in_draft",
+      "ja": "クロード……来なさい。",
+      "zh_back_translation": "Claude……过来。",
+      "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+      "reading_hints": {}
+    }
+  ],
+  "source_sha256": "f652eb4cb0f7759bcb90f84a1e2072367f00125d3bd7883bc5284ccc4c283477",
+  "status": "web_design_completed_previews_downloaded"
+}

@@ -1,0 +1,29 @@
+subject_definitions:
+<Subject 1>: DeepSeek, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: ChatGPT, identity and outfit from four-view sheet <Picture 2>.
+<Picture 3>: [Shot 1] composition and state reference; not its first frame.
+<Picture 4>: [Shot 2] composition and state reference; not its first frame.
+<Picture 5>: [Shot 3] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. DeepSeek leaves to act alone; footsteps and a distant bell expose GPT's hesitation, followed by her standing to watch the departure.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Start from her lowered gaze, let the decision lead into her turn and departure, and carry receding steps into the bell. Use <Picture 3> for composition. DeepSeek turns away from GPT and walks toward the hall's distant exit after voicing her decision to go alone. Her empty hands remain visible. She is still inside the long hall when the distant bell is heard; GPT stays outside this framing. Pan slightly with the child's turn in a medium-wide shot, then let her recede toward the distant exit. Footsteps recede through the hall; the final spoken syllable settles before the distant bell. From 1 to 2.65157 seconds, DeepSeek (S1) speaks with matching lip movement: <d>[Chinese] 那我自己去。</d>.
+[Shot 2] At 00:05.000, Let the bell lead into the hand detail; the child's receding steps remain offscreen, maintaining continuity into the watching shot. Use <Picture 4> for composition. GPT remains seated as the bell reaches her. Her fingers press into the armrest's carved pattern, hold briefly, then slowly release. Only the hand is shown; DeepSeek is still far away inside the hall. Lock a close-up on the fingers and carved gold armrest, without tilting to the face; pressure, pause and release carry the shot. One distant bell with a lingering decay and the child's faint receding steps.
+[Shot 3] At 00:08.000, Match the released hand to GPT rising and standing before the seat; the same bell decay and footsteps continue through one departure. Use <Picture 5> for composition. GPT rises to stand in front of the throne and watches DeepSeek cross the far end of the long hall. The child remains a small blue figure, passes through the palace doorway, and disappears outside. GPT stays behind, still watching. From behind and beside the throne in an extreme wide shot, rise slightly with GPT standing, then hold the tiny blue figure at the distant exit. Distant footsteps and the bell decay diminish; church night wind begins at the following change of place and time.
+From 14 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

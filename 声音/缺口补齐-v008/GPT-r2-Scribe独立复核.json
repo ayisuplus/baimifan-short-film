@@ -1,0 +1,332 @@
+{
+  "status": "completed",
+  "method": "ElevenLabs scribe_v2 unprompted Japanese; no target transcript/keyterms",
+  "mapping": [
+    {
+      "id": "VO-CY007-01",
+      "start": 0.0,
+      "end": 2.9721875,
+      "sha256": "8c582f66e3f205133bd0db2174d2ac63681bb7771b192af63e388374d8db1207",
+      "receipt": "VO-CY007-01-r2-结果.json"
+    },
+    {
+      "id": "VO-CY026A-01",
+      "start": 3.4721875,
+      "end": 5.469125,
+      "sha256": "1817d108d45d5089408a8591c651665731f14244647a15b830eab78dda3c6b09",
+      "receipt": "VO-CY026A-01-r2-结果.json"
+    },
+    {
+      "id": "VO-CY026D1-01",
+      "start": 5.969125,
+      "end": 7.501625,
+      "sha256": "22835266c6e9fb374d5b25713900321d058217c9b1e1267a9b6eb6b9b56c5d1e",
+      "receipt": "VO-CY026D1-01-r2-结果.json"
+    }
+  ],
+  "input_sha256": "76b9295dd2c086a329e7a0a1b57545598d8ce940b92fa8517aa9d8ebad4c9e45",
+  "http_status": 200,
+  "response": {
+    "language_code": "jpn",
+    "language_probability": 1.0,
+    "text": "教会には手を出さない。そう約束したの。専門人助けに付き合って。君、クロードが危ない。",
+    "words": [
+      {
+        "text": "教",
+        "start": 0.28,
+        "end": 0.4,
+        "type": "word",
+        "logprob": -0.006882176734507084
+      },
+      {
+        "text": "会",
+        "start": 0.4,
+        "end": 0.52,
+        "type": "word",
+        "logprob": -0.006882176734507084
+      },
+      {
+        "text": "に",
+        "start": 0.52,
+        "end": 0.62,
+        "type": "word",
+        "logprob": -8.344646857949556e-07
+      },
+      {
+        "text": "は",
+        "start": 0.76,
+        "end": 0.8,
+        "type": "word",
+        "logprob": -8.344646857949556e-07
+      },
+      {
+        "text": "手",
+        "start": 0.8,
+        "end": 0.94,
+        "type": "word",
+        "logprob": -9.464769391342998e-05
+      },
+      {
+        "text": "を",
+        "start": 0.94,
+        "end": 1.06,
+        "type": "word",
+        "logprob": -1.0728830375228426e-06
+      },
+      {
+        "text": "出",
+        "start": 1.06,
+        "end": 1.18,
+        "type": "word",
+        "logprob": -1.0728830375228426e-06
+      },
+      {
+        "text": "さ",
+        "start": 1.24,
+        "end": 1.3,
+        "type": "word",
+        "logprob": -5.125986263010418e-06
+      },
+      {
+        "text": "な",
+        "start": 1.3,
+        "end": 1.4,
+        "type": "word",
+        "logprob": -5.125986263010418e-06
+      },
+      {
+        "text": "い",
+        "start": 1.4,
+        "end": 1.48,
+        "type": "word",
+        "logprob": -5.125986263010418e-06
+      },
+      {
+        "text": "。",
+        "start": 1.48,
+        "end": 1.48,
+        "type": "word",
+        "logprob": -0.00023779425828251988
+      },
+      {
+        "text": "そ",
+        "start": 1.82,
+        "end": 1.88,
+        "type": "word",
+        "logprob": -9.536738616588991e-07
+      },
+      {
+        "text": "う",
+        "start": 1.88,
+        "end": 1.98,
+        "type": "word",
+        "logprob": -9.536738616588991e-07
+      },
+      {
+        "text": "約",
+        "start": 1.98,
+        "end": 2.2,
+        "type": "word",
+        "logprob": -3.3378546504536644e-06
+      },
+      {
+        "text": "束",
+        "start": 2.2,
+        "end": 2.4,
+        "type": "word",
+        "logprob": -3.3378546504536644e-06
+      },
+      {
+        "text": "し",
+        "start": 2.44,
+        "end": 2.54,
+        "type": "word",
+        "logprob": -0.00012718822108581662
+      },
+      {
+        "text": "た",
+        "start": 2.54,
+        "end": 2.6,
+        "type": "word",
+        "logprob": -0.00012718822108581662
+      },
+      {
+        "text": "の",
+        "start": 2.7,
+        "end": 2.72,
+        "type": "word",
+        "logprob": -5.245195097813848e-06
+      },
+      {
+        "text": "。",
+        "start": 2.72,
+        "end": 2.72,
+        "type": "word",
+        "logprob": -0.00013481661153491586
+      },
+      {
+        "text": "専",
+        "start": 3.76,
+        "end": 3.86,
+        "type": "word",
+        "logprob": -0.07682541757822037
+      },
+      {
+        "text": "門",
+        "start": 3.86,
+        "end": 4.059,
+        "type": "word",
+        "logprob": -0.07682541757822037
+      },
+      {
+        "text": "人",
+        "start": 4.24,
+        "end": 4.24,
+        "type": "word",
+        "logprob": -0.0006865289760753512
+      },
+      {
+        "text": "助",
+        "start": 4.24,
+        "end": 4.5,
+        "type": "word",
+        "logprob": -3.540453326422721e-05
+      },
+      {
+        "text": "け",
+        "start": 4.5,
+        "end": 4.56,
+        "type": "word",
+        "logprob": -3.1709168979432434e-05
+      },
+      {
+        "text": "に",
+        "start": 4.56,
+        "end": 4.74,
+        "type": "word",
+        "logprob": -0.007086381781846285
+      },
+      {
+        "text": "付",
+        "start": 4.74,
+        "end": 4.82,
+        "type": "word",
+        "logprob": -0.000266278104390949
+      },
+      {
+        "text": "き",
+        "start": 4.86,
+        "end": 4.92,
+        "type": "word",
+        "logprob": -0.000266278104390949
+      },
+      {
+        "text": "合",
+        "start": 4.92,
+        "end": 5.06,
+        "type": "word",
+        "logprob": -0.00466223806142807
+      },
+      {
+        "text": "っ",
+        "start": 5.06,
+        "end": 5.16,
+        "type": "word",
+        "logprob": -5.960462772236497e-07
+      },
+      {
+        "text": "て",
+        "start": 5.16,
+        "end": 5.24,
+        "type": "word",
+        "logprob": -5.960462772236497e-07
+      },
+      {
+        "text": "。",
+        "start": 5.24,
+        "end": 5.24,
+        "type": "word",
+        "logprob": -7.772143726469949e-05
+      },
+      {
+        "text": "君",
+        "start": 6.18,
+        "end": 6.44,
+        "type": "word",
+        "logprob": -0.004107373300939798
+      },
+      {
+        "text": "、",
+        "start": 6.44,
+        "end": 6.44,
+        "type": "word",
+        "logprob": -0.009120468981564045
+      },
+      {
+        "text": "ク",
+        "start": 6.5,
+        "end": 6.58,
+        "type": "word",
+        "logprob": -0.005998703185468912
+      },
+      {
+        "text": "ロ",
+        "start": 6.58,
+        "end": 6.62,
+        "type": "word",
+        "logprob": -0.005998703185468912
+      },
+      {
+        "text": "ー",
+        "start": 6.62,
+        "end": 6.7,
+        "type": "word",
+        "logprob": -0.45247071981430054
+      },
+      {
+        "text": "ド",
+        "start": 6.7,
+        "end": 6.86,
+        "type": "word",
+        "logprob": -0.45247071981430054
+      },
+      {
+        "text": "が",
+        "start": 6.86,
+        "end": 6.96,
+        "type": "word",
+        "logprob": -5.07818695041351e-05
+      },
+      {
+        "text": "危",
+        "start": 6.96,
+        "end": 7.12,
+        "type": "word",
+        "logprob": -3.933898824470816e-06
+      },
+      {
+        "text": "な",
+        "start": 7.12,
+        "end": 7.2,
+        "type": "word",
+        "logprob": -3.6954811548639555e-06
+      },
+      {
+        "text": "い",
+        "start": 7.2,
+        "end": 7.26,
+        "type": "word",
+        "logprob": -3.6954811548639555e-06
+      },
+      {
+        "text": "。",
+        "start": 7.26,
+        "end": 7.26,
+        "type": "word",
+        "logprob": -0.005938386544585228
+      }
+    ],
+    "transcription_id": "u11fRyKfyji91a5p3CKN",
+    "audio_duration_secs": 8.001625
+  }
+}

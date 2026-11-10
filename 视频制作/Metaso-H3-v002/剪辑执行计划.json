@@ -1,0 +1,446 @@
+{
+  "GB005": [
+    {
+      "source": "视频制作/LibTV-H3-v001/产物/GB005-H3-v001.mp4",
+      "in": 0,
+      "out": 8,
+      "target_duration": 8
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB005-r002-part3.mp4",
+      "in": 2.5,
+      "out": 6.5,
+      "target_duration": 6
+    }
+  ],
+  "GB007": [
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB007-r002.mp4",
+      "in": 0.0,
+      "out": 3.4166666666666665,
+      "target_duration": 3
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB007-r002.mp4",
+      "in": 3.4166666666666665,
+      "out": 5.416666666666667,
+      "target_duration": 2
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB007-r002.mp4",
+      "in": 8.208333333333334,
+      "out": 11.333333333333334,
+      "target_duration": 5
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB007-r002.mp4",
+      "in": 11.333333333333334,
+      "out": 15.083333333333334,
+      "target_duration": 5
+    }
+  ],
+  "GB011-1": [
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB011-1-r002-part1.mp4",
+      "in": 0,
+      "out": 5,
+      "target_duration": 5
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB011-1-r002-part23.mp4",
+      "in": 0,
+      "out": 5,
+      "target_duration": 5
+    }
+  ],
+  "GB014": [
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB014-r001.mp4",
+      "in": 0,
+      "out": 4,
+      "target_duration": 3
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB014-r001.mp4",
+      "in": 4,
+      "out": 7.3,
+      "target_duration": 3.5,
+      "crop": "crop=1040:585:0:40"
+    }
+  ],
+  "GB014A": [
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB014A-r001.mp4",
+      "in": 0,
+      "out": 4,
+      "target_duration": 4
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB014A-r002-CY024K0.mp4",
+      "in": 0,
+      "out": 7.75,
+      "target_duration": 8.29
+    }
+  ],
+  "GB016-1": [
+    {
+      "source": "视频制作/LibTV-H3-v001/产物/GB016-1-H3-v001.mp4",
+      "in": 0,
+      "out": 6,
+      "target_duration": 6
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB016-1-r002-part34.mp4",
+      "in": 0,
+      "out": 3.3,
+      "target_duration": 3.3
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB016-1-r003-part4.mp4",
+      "in": 0,
+      "out": 2,
+      "target_duration": 2
+    }
+  ],
+  "GB022-2": [
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB022-2-r002.mp4",
+      "in": 0,
+      "out": 5,
+      "target_duration": 5
+    }
+  ],
+  "GB015-1": [
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB015-1-r001.mp4",
+      "in": 0.0,
+      "out": 4.5,
+      "target_duration": 3
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB015-1-r001.mp4",
+      "in": 4.5,
+      "out": 8.041666667,
+      "target_duration": 4
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB015-1-r001.mp4",
+      "in": 8.041666667,
+      "out": 10.333333333,
+      "target_duration": 3
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB015-1-r001.mp4",
+      "in": 10.333333333,
+      "out": 12.25,
+      "target_duration": 2
+    }
+  ],
+  "GB019": [
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB019-r001.mp4",
+      "in": 0.0,
+      "out": 1.75,
+      "target_duration": 1
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB019-r001.mp4",
+      "in": 1.75,
+      "out": 2.458333333,
+      "target_duration": 1.15
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB019-r001.mp4",
+      "in": 2.458333333,
+      "out": 2.666666667,
+      "target_duration": 0.2
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB019-r001.mp4",
+      "in": 2.666666667,
+      "out": 2.833333333,
+      "target_duration": 0.15
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB019-r001.mp4",
+      "in": 3.166666667,
+      "out": 4.958333333,
+      "target_duration": 1.5
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB019-r001.mp4",
+      "in": 4.958333333,
+      "out": 7.958333333,
+      "target_duration": 1
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB019-r001.mp4",
+      "in": 7.958333333,
+      "out": 10.625,
+      "target_duration": 2.55
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB019-r001.mp4",
+      "in": 10.625,
+      "out": 15.083333333,
+      "target_duration": 7.34
+    }
+  ],
+  "GB021": [
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB021-r001.mp4",
+      "in": 0.0,
+      "out": 2.75,
+      "target_duration": 1.5
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB021-r001.mp4",
+      "in": 3.791666667,
+      "out": 8.333333333,
+      "target_duration": 4.86
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB021-r001.mp4",
+      "in": 8.333333333,
+      "out": 12.25,
+      "target_duration": 5.22
+    }
+  ],
+  "GB018": [
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB018-r001.mp4",
+      "in": 0,
+      "out": 4.041666666666667,
+      "target_duration": 4
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB018-r001.mp4",
+      "in": 4.041666666666667,
+      "out": 7.041666666666667,
+      "target_duration": 3.2
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB018-r001.mp4",
+      "in": 7.041666666666667,
+      "out": 15.083333333333334,
+      "target_duration": 7.25
+    }
+  ],
+  "GB024": [
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB024-r001.mp4",
+      "in": 0,
+      "out": 4.9,
+      "target_duration": 4.9
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB024-r001.mp4",
+      "in": 5.708333,
+      "out": 7.583333,
+      "target_duration": 2
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB024-r002-CY027B1.mp4",
+      "in": 0,
+      "out": 2,
+      "target_duration": 2
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB024-r001.mp4",
+      "in": 9.875,
+      "out": 12.625,
+      "target_duration": 2
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB024-r002-CY027B3.mp4",
+      "in": 0,
+      "out": 4.166666666666667,
+      "target_duration": 3
+    }
+  ],
+  "GB028": [
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB028-r002-part1.mp4",
+      "in": 0,
+      "out": 4.17,
+      "target_duration": 4.17
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB028-r001.mp4",
+      "in": 3.5,
+      "out": 6.125,
+      "target_duration": 2.35
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB028-r001.mp4",
+      "in": 6.125,
+      "out": 10,
+      "target_duration": 1.72
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB028-r001.mp4",
+      "in": 10,
+      "out": 11.875,
+      "target_duration": 4
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB028-r001.mp4",
+      "in": 11.875,
+      "out": 13.875,
+      "target_duration": 2
+    }
+  ],
+  "GB029": [
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB029-r001.mp4",
+      "in": 0,
+      "out": 2.7,
+      "target_duration": 2.7
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB029-r001.mp4",
+      "in": 2.75,
+      "out": 5.49,
+      "target_duration": 2.74
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB029-r001.mp4",
+      "in": 6.208333,
+      "out": 8.416667,
+      "target_duration": 3
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB029-r002-part4.mp4",
+      "in": 1.5,
+      "out": 5.166666666666667,
+      "target_duration": 4.94
+    }
+  ],
+  "GB030-1": [
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB030-1-r001.mp4",
+      "in": 0,
+      "out": 4.375,
+      "target_duration": 4.36
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB030-1-r001.mp4",
+      "in": 4.375,
+      "out": 6.791667,
+      "target_duration": 2
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB030-1-r001.mp4",
+      "in": 6.791667,
+      "out": 9.333333,
+      "target_duration": 3
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB030-1-r001.mp4",
+      "in": 9.333333,
+      "out": 11.458333,
+      "target_duration": 2,
+      "crop": "crop=1100:619:100:0"
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB030-1-r002-part45.mp4",
+      "in": 3,
+      "out": 4.458333333333333,
+      "target_duration": 2
+    }
+  ],
+  "GB031": [
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB031-r001.mp4",
+      "in": 2.5,
+      "out": 5.416667,
+      "target_duration": 3
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB031-r002-part2.mp4",
+      "in": 0,
+      "out": 6,
+      "target_duration": 6
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB031-r001.mp4",
+      "in": 10.416667,
+      "out": 14.375,
+      "target_duration": 5
+    }
+  ],
+  "GB020-2": [
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB020-2-r004.mp4",
+      "in": 0,
+      "out": 5.59,
+      "target_duration": 5.59
+    }
+  ],
+  "GB022-1": [
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB022-1-r002-part1.mp4",
+      "in": 0,
+      "out": 12,
+      "target_duration": 12
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB022-1-r004-part2.mp4",
+      "in": 0.5,
+      "out": 2.5,
+      "target_duration": 1.5
+    }
+  ],
+  "GB026": [
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB026-r003-part1.mp4",
+      "in": 0,
+      "out": 3,
+      "target_duration": 3
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB026-r001.mp4",
+      "in": 3.625,
+      "out": 6.625,
+      "target_duration": 3
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB026-r001.mp4",
+      "in": 7.25,
+      "out": 10.625,
+      "target_duration": 4
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB026-r001.mp4",
+      "in": 10.625,
+      "out": 12.25,
+      "target_duration": 2
+    }
+  ],
+  "GB027": [
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB027-r004-CY027F2.mp4",
+      "in": 0.5,
+      "out": 3.5,
+      "target_duration": 3
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB027-r002-CY027F1.mp4",
+      "in": 1,
+      "out": 3,
+      "target_duration": 2
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB027-r003-CY027G.mp4",
+      "in": 0,
+      "out": 2.5,
+      "target_duration": 3
+    },
+    {
+      "source": "视频制作/Metaso-H3-v002/产物/GB027-r003-CY028A.mp4",
+      "in": 0,
+      "out": 6.2,
+      "target_duration": 6.2
+    }
+  ]
+}

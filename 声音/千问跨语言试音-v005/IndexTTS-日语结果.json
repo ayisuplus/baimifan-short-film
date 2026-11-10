@@ -1,0 +1,43 @@
+{
+  "request": "IndexTTS-日语请求.json",
+  "status": "generated_pending_listening",
+  "native_result": "C:\\Users\\36322\\AppData\\Local\\Temp\\gradio\\26fe1ffa5489adf22cd3692c5aa661f35f4fb55186bc884cabcffbebb19f9b48\\spk_1793261068.wav",
+  "audios": [
+    {
+      "file": "千问-Breeze-中文原声.flac",
+      "sha256": "9219b8dd3f4966d128e4db573e28963819d1729fbdb167fcd5b6272b67455565",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "sample_rate": "24000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "8.480000"
+        }
+      },
+      "decode_ok": true
+    },
+    {
+      "file": "千问-IndexTTS-日语克隆.wav",
+      "sha256": "26fe1ffa5489adf22cd3692c5aa661f35f4fb55186bc884cabcffbebb19f9b48",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "1.915646"
+        }
+      },
+      "decode_ok": true
+    }
+  ]
+}

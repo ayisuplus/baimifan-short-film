@@ -1,0 +1,118 @@
+{
+  "class_name": "MinimaxHailuoH3ImageToVideo",
+  "display_name": "RH MiniMax-H3 图生视频（首尾帧）",
+  "name_cn": "MiniMax-H3 图生视频（首尾帧）",
+  "name_en": "MiniMax-H3 Image-to-Video (first/last frame)",
+  "endpoint": "minimax/hailuo-h3/image-to-video",
+  "output_type": "video",
+  "category": "RunningHub/MiniMax",
+  "params": [
+    {
+      "fieldKey": "prompt",
+      "type": "STRING",
+      "required": true,
+      "label": "prompt",
+      "description": "视频生成提示词",
+      "defaultValue": "让画面自然运动起来。",
+      "maxLength": 20480
+    },
+    {
+      "fieldKey": "firstFrameUrl",
+      "type": "IMAGE",
+      "required": false,
+      "label": "firstFrameUrl",
+      "description": "首帧图（可选，与尾帧至少填一个）",
+      "accept": "[\"JPG\",\"JPEG\",\"PNG\",\"WEBP\"]",
+      "maxSize": 30
+    },
+    {
+      "fieldKey": "lastFrameUrl",
+      "type": "IMAGE",
+      "required": false,
+      "label": "lastFrameUrl",
+      "description": "尾帧图（可选，与首帧至少填一个）",
+      "accept": "[\"JPG\",\"JPEG\",\"PNG\",\"WEBP\"]",
+      "maxSize": 30
+    },
+    {
+      "fieldKey": "resolution",
+      "type": "LIST",
+      "required": true,
+      "label": "resolution",
+      "description": "输出分辨率。",
+      "defaultValue": "2K",
+      "options": [
+        {
+          "value": "2K",
+          "description": "2K",
+          "descriptionEn": "2K"
+        }
+      ]
+    },
+    {
+      "fieldKey": "duration",
+      "type": "LIST",
+      "required": true,
+      "label": "duration",
+      "description": "视频时长（秒），范围 5-15。",
+      "defaultValue": "5",
+      "options": [
+        {
+          "value": "5",
+          "description": "5",
+          "descriptionEn": "5"
+        },
+        {
+          "value": "6",
+          "description": "6",
+          "descriptionEn": "6"
+        },
+        {
+          "value": "7",
+          "description": "7",
+          "descriptionEn": "7"
+        },
+        {
+          "value": "8",
+          "description": "8",
+          "descriptionEn": "8"
+        },
+        {
+          "value": "9",
+          "description": "9",
+          "descriptionEn": "9"
+        },
+        {
+          "value": "10",
+          "description": "10",
+          "descriptionEn": "10"
+        },
+        {
+          "value": "11",
+          "description": "11",
+          "descriptionEn": "11"
+        },
+        {
+          "value": "12",
+          "description": "12",
+          "descriptionEn": "12"
+        },
+        {
+          "value": "13",
+          "description": "13",
+          "descriptionEn": "13"
+        },
+        {
+          "value": "14",
+          "description": "14",
+          "descriptionEn": "14"
+        },
+        {
+          "value": "15",
+          "description": "15",
+          "descriptionEn": "15"
+        }
+      ]
+    }
+  ]
+}

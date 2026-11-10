@@ -1,0 +1,45 @@
+subject_definitions:
+<Subject 1>: Kimi, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: Claude, identity and outfit from four-view sheet <Picture 2>.
+<Subject 3>: the palace paladins, identity and outfit from four-view sheet <Picture 3>.
+<Subject 4>: ChatGPT, identity and outfit from four-view sheet <Picture 4>.
+<Subject 5>: Qwen, identity and outfit from four-view sheet <Picture 5>.
+<Subject 6>: Gemini, identity and outfit from four-view sheet <Picture 6>.
+<Picture 7>: [Shot 1] composition and state reference; not its first frame.
+<Picture 8>: [Shot 2] composition and state reference; not its first frame.
+<Picture 9>: [Shot 3] composition and state reference; not its first frame.
+<Picture 10>: [Shot 4] composition and state reference; not its first frame.
+<Picture 11>: [Shot 5] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. A painful restraint test ends inside the dome; paladins secure the aisles outside, then an explicit earlier flashback reveals GPT recruiting allies.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Subject 3>: fully_preserved - identity and outfit design.
+<Subject 4>: fully_preserved - identity and outfit design.
+<Subject 5>: fully_preserved - identity and outfit design.
+<Subject 6>: fully_preserved - identity and outfit design.
+<Picture 7>: weak_reference - shot layout; animate the specified action.
+<Picture 8>: weak_reference - shot layout; animate the specified action.
+<Picture 9>: weak_reference - shot layout; animate the specified action.
+<Picture 10>: weak_reference - shot layout; animate the specified action.
+<Picture 11>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Hard-cut from the opaque exterior to an interior viewpoint with only the inner dark membrane behind them; do not fly through or make the shell transparent. Use <Picture 7> for composition. Inside the dome, Kimi briefly tests the seam of one of Claude's wrist cuffs from below with the dark blade in her right hand. Tiny violet markings react, hurting Claude. Kimi immediately withdraws the blade toward the outside of her own hip, its edge facing outward and down, and looks at the lock with concern. The restraints remain shut. Stowing both blades at her rear waist is omitted across the subsequent cut before the next interior view, leaving her hands free afterward. The dome persists, and no church, candle or window shows through its interior background. In an interior medium close-up, shift focus gently from the cuff seam to Claude's pain and Kimi's reaction; make a small downward reframe with the withdrawing blade. A light metal touch, a short sharp cuff resonance and immediate withdrawal; outside attacks remain distant muffled knocks. Rear-waist catches sound only if the stowing action is actually shown.
+[Shot 2] At 00:03.000, Hard-cut from the interior cuff reaction to the entrance, restoring clear armor and footfalls; this remains the present and the vanguard does not enter again. Use <Picture 8> for composition. With GPT and the eight companions already inside, additional paladins cross the open threshold and move down both side colonnades. Entry sentries remain at their posts. The central aisle is left clear; the vanguard stays outside this shot's framing. Track sideways a short distance from a low interior angle as paladins cross and split, then settle on the two aisle depths with the center open. Paladin footsteps and armor plates in the church's current interior ambience.
+[Shot 3] At 00:06.000, Make an explicit cut to an earlier flashback at the cloud palace during DeepSeek's solo rescue; remove the church battle sound rather than treating this as adjacent space. Use <Picture 9> for composition. Earlier, during DeepSeek's attempt to rescue Claude alone, GPT stands before Qwen in the cloud palace and delivers her invitation. Qwen holds her fan open and listens. The fan remains open at the end; her acceptance and closing gesture belong to the next shot. No child is being held in this earlier scene. Use a short lateral move in a medium-full cloud-palace two-shot to establish the facing pair and open fan, then settle for GPT's invitation. Cloud-palace ambience beneath the invitation; the response belongs to the next shot. From 6.1 to 8.76531 seconds, ChatGPT (S1) speaks with matching lip movement: <d>[English] Qwen. Help me save someone.</d>.
+[Shot 4] At 00:09.000, Cut after the invitation to the same open fan, let the closing gesture settle, and keep Qwen's short reply with her mouth outside the frame. Use <Picture 10> for composition. In the same earlier cloud-palace encounter, Qwen closes the fan once and grips its ribs with her fingertips as she accepts. Only her hand and the fan are visible; GPT remains offscreen. The fan stays closed after the action. In a hand-and-fan close-up, make a slight pan with the closing fan, stopping at the closed grip. One crisp fan closure leads into the short acceptance without covering it. From 9.2 to 10.3748 seconds, Qwen (S2) speaks outside the frame: <d>[English] Let's go.</d>.
+[Shot 5] At 00:11.000, Let the fan sound finish, then cut to another location within the earlier recruitment montage; the book is already open, without a shown journey. Use <Picture 11> for composition. Earlier, at Gemini's cottage, Gemini sits before an already open book while GPT stands beside the table. In one two-shot GPT calls her name; Gemini lifts her eyes from the pages and answers. She has agreed by the end, and the book stays on the table without another placing or opening action. In the cottage two-shot, tilt slightly from Gemini and the already open book to include GPT beside the table, then retain both for the call and reply. Quiet indoor flame ambience and slight paper movement; the name, brief pause and reply remain clear within the shot. From 11.1 to 12.4722 seconds, ChatGPT (S1) speaks with matching lip movement: <d>[English] Gemini.</d>. From 13 to 14.1864 seconds, Gemini (S3) speaks with matching lip movement: <d>[English] I'm in.</d>.
+
+overall_soundscape:
+Action targets: 3s: Knights enter; cut out of the dome interior.
+English speech with lip sync; no audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

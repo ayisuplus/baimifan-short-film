@@ -1,0 +1,118 @@
+{
+  "role": "Grok",
+  "status": "web_direct_tts_saved_pending_review",
+  "lines": [
+    {
+      "id": "VO-CY026C-02",
+      "role": "Grok",
+      "previous_batch": 23,
+      "previous_record_frame": 5961,
+      "previous_ja": "もちろん。",
+      "previous_zh": "当然。",
+      "previous_audio_duration_seconds": 0.9800000000000182,
+      "status": "retained_in_draft",
+      "ja": "もちろん。",
+      "zh_back_translation": "当然。",
+      "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+      "reading_hints": {}
+    }
+  ],
+  "previews": [
+    {
+      "file": "Grok-直配-Idpo2kDUQ3usLAaAFREt.mp3",
+      "candidate": 1,
+      "history": {
+        "alignments": null,
+        "avatar_context": null,
+        "character_count_change_from": 728,
+        "character_count_change_to": 733,
+        "content_type": "audio/mpeg",
+        "date_unix": 1793257781,
+        "dialogue": [
+          {
+            "text": "もちろん。",
+            "voice_id": "8EkOjt4xTPGMclNlh1pk",
+            "voice_name": "Morioki - Calm, Measured and Muffled"
+          }
+        ],
+        "feedback": null,
+        "history_item_id": "Idpo2kDUQ3usLAaAFREt",
+        "model_id": "eleven_v4",
+        "output_format": "mp3_44100_128",
+        "request_id": "oJn03KdZhrGENjK1q4bv",
+        "settings": {
+          "focus": null,
+          "internal_sampling_config": null,
+          "similarity": 0.75,
+          "stability": 0.5,
+          "text_boost": false
+        },
+        "share_link_id": null,
+        "source": "TTS",
+        "state": "created",
+        "text": null,
+        "voice_category": null,
+        "voice_id": null,
+        "voice_name": null
+      },
+      "sha256": "78c998eb84c2da665aa94ffa135590808458248cec4e0d8164fa2ba9a1369dd5",
+      "bytes": 34073,
+      "media": {
+        "format": {
+          "duration": "1.071000"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    },
+    {
+      "file": "Grok-直配-x2INH8ReFYCghIjq3lQY.mp3",
+      "candidate": 2,
+      "history": {
+        "alignments": null,
+        "avatar_context": null,
+        "character_count_change_from": 728,
+        "character_count_change_to": 728,
+        "content_type": "audio/mpeg",
+        "date_unix": 1793257783,
+        "dialogue": [
+          {
+            "text": "もちろん。",
+            "voice_id": "8EkOjt4xTPGMclNlh1pk",
+            "voice_name": "Morioki - Calm, Measured and Muffled"
+          }
+        ],
+        "feedback": null,
+        "history_item_id": "x2INH8ReFYCghIjq3lQY",
+        "model_id": "eleven_v4_exp",
+        "output_format": "mp3_44100_128",
+        "request_id": "inEiugW65kuRrDqmaA1g",
+        "settings": {
+          "focus": null,
+          "internal_sampling_config": null,
+          "similarity": 0.75,
+          "stability": 0.5,
+          "text_boost": false
+        },
+        "share_link_id": null,
+        "source": "TTS",
+        "state": "created",
+        "text": null,
+        "voice_category": null,
+        "voice_id": null,
+        "voice_name": null
+      },
+      "sha256": "0ff03f6de9d51ca3ae49c5a38091b29ed950f964e48919d47ba31050808cbb39",
+      "bytes": 31565,
+      "media": {
+        "format": {
+          "duration": "0.914250"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    }
+  ],
+  "generation_count": 1,
+  "note": "One web submission can produce main and experimental variants; history records actual charge."
+}

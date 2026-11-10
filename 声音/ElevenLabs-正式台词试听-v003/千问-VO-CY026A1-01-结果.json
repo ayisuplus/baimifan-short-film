@@ -1,0 +1,28 @@
+{
+  "role": "千问",
+  "line": {
+    "id": "VO-CY026A1-01",
+    "role": "千问",
+    "previous_batch": 21,
+    "previous_record_frame": 5805,
+    "previous_ja": "行きましょう。",
+    "previous_zh": "走吧。",
+    "previous_audio_duration_seconds": 1.1500249999999899,
+    "status": "retained_in_draft",
+    "ja": "行きましょう。",
+    "zh_back_translation": "走吧。",
+    "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+    "reading_hints": {}
+  },
+  "voice_id": "4lOQ7A2l7HPuG7UIHiKA",
+  "voice_name": "Kyoko - Warm, Clear and Natural",
+  "body": {
+    "text": "行きましょう。",
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "ja"
+  },
+  "status": "api_rejected",
+  "adopted": false,
+  "http_status": 402,
+  "error": "{\"detail\":{\"type\":\"payment_required\",\"code\":\"paid_plan_required\",\"message\":\"Free users cannot use library voices via the API. Please upgrade your subscription to use this voice.\",\"status\":\"payment_required\",\"request_id\":\"88d0f38a64ac0a0b20099c048a78e6d1\"}}"
+}

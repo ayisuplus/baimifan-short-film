@@ -1,0 +1,346 @@
+{
+  "batch": {
+    "batch_number": 15,
+    "batch_id": "GB012",
+    "title": "登阶与点火",
+    "shot_ids": [
+      "CY022A",
+      "CY022A1",
+      "CY022",
+      "CY022B"
+    ],
+    "film_start": 172.272729,
+    "film_end": 184.272729,
+    "used_seconds": 12,
+    "original_duration": 15,
+    "duration": 12,
+    "prompt": "subject_definitions:\n<Picture 1>=DeepSeek四视图：同一人四角度，身份服饰保持\n<Picture 2>=教主四视图：同一人四角度，身份服饰保持\n<Picture 3>=Claude四视图：同一人四角度，身份服饰保持\n<Picture 4>=构图状态，非强制首帧\n<Picture 5>=构图状态，非强制首帧\n<Picture 6>=构图状态，非强制首帧\n<Picture 7>=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，12秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–2s <Picture 4>；画内:DeepSeek、教主。小手的紧握直接承前，教主迈步使布料滑脱，不另加甩手推搡。75mm近摄感；与攥袍前镜同侧，沿袖口到指尖定住，背景台阶与蓝窗散焦；不后退看教主全身。延续上一镜同一次攥袍，教主朝画面右侧离去。绷紧的袍角逐渐滑过小鱼指尖，只剩最后一折接触；她试合一次却落空，小手慢慢落下，眼神追着袍尾。教主身体与右手火把在画外，高柴尚未燃。下一镜才看登阶距离。 调度:75mm近摄感；与攥袍前镜同侧，沿袖口到指尖定住，背景台阶与蓝窗散焦；不后退看教主全身。 新图是最后指尖接触，不是已经松手的终态；起镜延续绷紧，镜尾才完全滑脱。小鱼左、教主袍尾右，单次滑脱，不重新抓两次。 注意:新图是最后指尖接触，不是已经松手的终态；起镜延续绷紧，镜尾才完全滑脱。小鱼左、教主袍尾右，单次滑脱，不重新抓两次。 人物:小鱼局部脸/袖/手，教主只见袍尾；教主脸与右手火把画外。 声音:抓紧衣料、指尖掠过石面轻响，教徒吟唱压低一瞬。\n[Shot 2] 2–5s <Picture 5>；画内:教主、Claude。袍尾滑脱接背后登阶，同一方向向上；只见代表性的几步，长阶余程在切点省略。背后低位沿长阶轴线小段前跟，教主后脑背部始终朝镜头，火把右侧与高处Claude同框；不绕到侧面。教主背对摄影机，头、肩、骨盆和双脚一致朝向最高祭坛的Claude，右手握同一支短柄黑焰仪式火把，只展示连续登阶的几步：前脚踩上高一级石阶，后脚跟进，披风顺背拖曳。不回头、不转向右侧。Claude在高处直立受缚，腰腹以下被未燃黑木遮住；小鱼留在下端画外。余下长阶路程在接点火近景的切点省略，不在三秒内走完整段。 声音:沉重登阶、火把呼声，教徒吟唱不断，不新增歌词。\n[Shot 3] 5–9s <Picture 6>；画内:教主。从登阶明确省略到已抵柴堆前；火把形制、右手与黑紫火色连续，接触时才起柴火。火把接触处局部特写随右手下压短俯，点燃后沿木缝微向上摇，右手收回即留住扩展火舌。局部近景只见教主的右手和同一支短柄黑焰仪式火把。他把杯口黑芯暗紫细边的火焰压向高柴下侧，实际接触后树脂裂隙亮起细小余烬，同一种黑焰从木缝向上蔓延，逐渐连成一片。他收回火把，手退出画面；返回长阶下段的移动在后续切镜中省略，不在本镜展示完整退阶。固定火盆与蜡烛不变色。 调度:展示火把接触柴堆与火焰蔓延；教主返回阶下的移动过程用后续切镜省略。 注意:先展示点柴接触与燃起；返下阶用下一场面剪辑省略，不要求4秒完整走完。 人物:仅持火把的右手与柴木接触局部，退阶用剪辑省略。 声音:火头触木、树脂爆响、黑焰低吼，退阶脚步。\n[Shot 4] 9–12s <Picture 7>；画内:Claude。同一火舌向上蔓延接面肩，不重新点火；教主退阶过程省略，Kimi尚未到场。Claude面肩近景有意稳住，前后火舌掠动承担包围感，轻随挣扎作小幅垂直修正而不穿火绕拍。火舌从前后包围并遮住胸肩，Claude痛苦挣扎，袖边焦损可见，腕链绷紧。 声音:短促吸气、腕链锐响与受阻喘息，不补喊叫台词。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+        "kind": "identity",
+        "person": "DeepSeek",
+        "name_en": "DeepSeek",
+        "asset_id": "CHAR-DEEPSEEK",
+        "status": "候选待作者审阅",
+        "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+        "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+        "source_path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+        "source_sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+        "sha1": "d9d76117c7724d34a366061d3bb38d3a2c70e2c6",
+        "file_size": 1868475,
+        "width": 2169,
+        "height": 868,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-DEEPSEEK-TURN-v003-h3-pad.png"
+      },
+      {
+        "slot": 2,
+        "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+        "kind": "identity",
+        "person": "教主",
+        "name_en": "the High Priest",
+        "asset_id": "CHAR-PRIEST",
+        "status": "生成前修正候选，待作者审阅",
+        "limits": "四幅全身正、朝左、背、朝右；侧背结构为基于原立绘的合理补全，待作者确认。",
+        "purpose": "教主四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+        "source_path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+        "source_sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+        "sha1": "34f6c0a8dc9ecb9773d855ad67bb2225c2b36a57",
+        "file_size": 2283123,
+        "width": 1774,
+        "height": 887,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\图像\\四视图\\CHAR-PRIEST-TURN-v001.png"
+      },
+      {
+        "slot": 3,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "Claude",
+        "name_en": "Claude",
+        "asset_id": "CHAR-CLAUDE",
+        "status": "候选待作者审阅",
+        "limits": "侧背与下裙含补全，不作为精确工程正交图。受缚至离殿采用赤足，四视图鞋仅为日常服装参考。近景不为展示花饰而换侧；不新增另一朵花。",
+        "purpose": "Claude四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a",
+        "source_path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+        "source_sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+        "sha1": "ecd80984142fead85bfab07ed28c0e7b9c8c05b2",
+        "file_size": 2016603,
+        "width": 2200,
+        "height": 880,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-CLAUDE-TURN-v001-h3-pad.png"
+      },
+      {
+        "slot": 4,
+        "path": "镜头设计/图像/关键动作-v062/CY022A-v062-r1.png",
+        "kind": "composition",
+        "shot_id": "CY022A",
+        "purpose": "构图、空间与代表状态：衣摆从指间滑走；不是默认首帧",
+        "status": "v062关键动作新候选，作者已授权改拍，待成图审阅",
+        "limits": "",
+        "sha256": "93c90d979b473d1d485cc0f2e561fa1480f4a88f49866a877cb4f2f558e66368",
+        "source_path": "镜头设计/图像/关键动作-v062/CY022A-v062-r1.png",
+        "source_sha256": "93c90d979b473d1d485cc0f2e561fa1480f4a88f49866a877cb4f2f558e66368",
+        "sha1": "6880923fc6ab1573d82ad50d7a5d70e144bd5461",
+        "file_size": 2170037,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\关键动作-v062\\CY022A-v062-r1.png"
+      },
+      {
+        "slot": 5,
+        "path": "镜头设计/图像/细节与显形-v052/CY022A1-v052-r1.png",
+        "kind": "composition",
+        "shot_id": "CY022A1",
+        "purpose": "构图、空间与代表状态：一步一步登阶；不是默认首帧",
+        "status": "v0.52细节与显形修订候选，待作者审阅",
+        "limits": "",
+        "sha256": "af52f21feb359171dd4ff678821f3923b62b61b61a06a2901be5dfc7d7a53c4e",
+        "source_path": "镜头设计/图像/细节与显形-v052/CY022A1-v052-r1.png",
+        "source_sha256": "af52f21feb359171dd4ff678821f3923b62b61b61a06a2901be5dfc7d7a53c4e",
+        "sha1": "677871d55d1ec22228707250313fecb4c3c302c5",
+        "file_size": 2611149,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\细节与显形-v052\\CY022A1-v052-r1.png"
+      },
+      {
+        "slot": 6,
+        "path": "镜头设计/图像/细节与显形-v052/CY022-v052-r1.png",
+        "kind": "composition",
+        "shot_id": "CY022",
+        "purpose": "构图、空间与代表状态：点燃高柴；不是默认首帧",
+        "status": "v0.52细节与显形修订候选，待作者审阅",
+        "limits": "",
+        "sha256": "640095532214808eaaaa763ceddc022ebc69c53f8cf725a3a2aa5e19a2c569c1",
+        "source_path": "镜头设计/图像/细节与显形-v052/CY022-v052-r1.png",
+        "source_sha256": "640095532214808eaaaa763ceddc022ebc69c53f8cf725a3a2aa5e19a2c569c1",
+        "sha1": "62753b8d79fd1d1067fa50b4179920240f53986d",
+        "file_size": 2224435,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\细节与显形-v052\\CY022-v052-r1.png"
+      },
+      {
+        "slot": 7,
+        "path": "镜头设计/图像/火焰伤后与星火-v036/CY022B-v036-r2.png",
+        "kind": "composition",
+        "shot_id": "CY022B",
+        "purpose": "构图、空间与代表状态：火隙中的痛苦；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "724b7d2b253f178a17c8095c7dea3f8520ac1bf15aab286c27aa84ce95a3a6e5",
+        "source_path": "镜头设计/图像/火焰伤后与星火-v036/CY022B-v036-r2.png",
+        "source_sha256": "724b7d2b253f178a17c8095c7dea3f8520ac1bf15aab286c27aa84ce95a3a6e5",
+        "sha1": "c95dda7f5816c2c152ee90604cf8b03fd8ab8af6",
+        "file_size": 2490141,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\火焰伤后与星火-v036\\CY022B-v036-r2.png"
+      }
+    ],
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 12,
+      "count": 1
+    },
+    "estimated_credits": 168,
+    "estimate_basis": "15秒报价210，按秒计费推算，提交前以网页实价为准",
+    "budget_selected": true,
+    "status": "prepared_not_submitted",
+    "task_id": null,
+    "node_id": "v-6V08nvbhZl",
+    "display_name": "第15批 · 登阶与点火 · H3 v001"
+  },
+  "request": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "node": "v-6V08nvbhZl",
+    "idempotencyKey": "bmf-h3-GB012-wire-full",
+    "model": "MiniMax-Hailuo-H3",
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 12,
+      "count": 1
+    },
+    "prompt": "subject_definitions:\n{{Node i-JAT4Pva730}}=DeepSeek四视图：同一人四角度，身份服饰保持\n{{Node i-rFc0P8dawG}}=教主四视图：同一人四角度，身份服饰保持\n{{Node i-uKDIVWmghN}}=Claude四视图：同一人四角度，身份服饰保持\n{{Node i-KiDw9ecrZh}}=构图状态，非强制首帧\n{{Node i-tdtSgV5ZJB}}=构图状态，非强制首帧\n{{Node i-lKpBceV0nT}}=构图状态，非强制首帧\n{{Node i-dN44fu5hM0}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，12秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–2s {{Node i-KiDw9ecrZh}}；画内:DeepSeek、教主。小手的紧握直接承前，教主迈步使布料滑脱，不另加甩手推搡。75mm近摄感；与攥袍前镜同侧，沿袖口到指尖定住，背景台阶与蓝窗散焦；不后退看教主全身。延续上一镜同一次攥袍，教主朝画面右侧离去。绷紧的袍角逐渐滑过小鱼指尖，只剩最后一折接触；她试合一次却落空，小手慢慢落下，眼神追着袍尾。教主身体与右手火把在画外，高柴尚未燃。下一镜才看登阶距离。 调度:75mm近摄感；与攥袍前镜同侧，沿袖口到指尖定住，背景台阶与蓝窗散焦；不后退看教主全身。 新图是最后指尖接触，不是已经松手的终态；起镜延续绷紧，镜尾才完全滑脱。小鱼左、教主袍尾右，单次滑脱，不重新抓两次。 注意:新图是最后指尖接触，不是已经松手的终态；起镜延续绷紧，镜尾才完全滑脱。小鱼左、教主袍尾右，单次滑脱，不重新抓两次。 人物:小鱼局部脸/袖/手，教主只见袍尾；教主脸与右手火把画外。 声音:抓紧衣料、指尖掠过石面轻响，教徒吟唱压低一瞬。\n[Shot 2] 2–5s {{Node i-tdtSgV5ZJB}}；画内:教主、Claude。袍尾滑脱接背后登阶，同一方向向上；只见代表性的几步，长阶余程在切点省略。背后低位沿长阶轴线小段前跟，教主后脑背部始终朝镜头，火把右侧与高处Claude同框；不绕到侧面。教主背对摄影机，头、肩、骨盆和双脚一致朝向最高祭坛的Claude，右手握同一支短柄黑焰仪式火把，只展示连续登阶的几步：前脚踩上高一级石阶，后脚跟进，披风顺背拖曳。不回头、不转向右侧。Claude在高处直立受缚，腰腹以下被未燃黑木遮住；小鱼留在下端画外。余下长阶路程在接点火近景的切点省略，不在三秒内走完整段。 声音:沉重登阶、火把呼声，教徒吟唱不断，不新增歌词。\n[Shot 3] 5–9s {{Node i-lKpBceV0nT}}；画内:教主。从登阶明确省略到已抵柴堆前；火把形制、右手与黑紫火色连续，接触时才起柴火。火把接触处局部特写随右手下压短俯，点燃后沿木缝微向上摇，右手收回即留住扩展火舌。局部近景只见教主的右手和同一支短柄黑焰仪式火把。他把杯口黑芯暗紫细边的火焰压向高柴下侧，实际接触后树脂裂隙亮起细小余烬，同一种黑焰从木缝向上蔓延，逐渐连成一片。他收回火把，手退出画面；返回长阶下段的移动在后续切镜中省略，不在本镜展示完整退阶。固定火盆与蜡烛不变色。 调度:展示火把接触柴堆与火焰蔓延；教主返回阶下的移动过程用后续切镜省略。 注意:先展示点柴接触与燃起；返下阶用下一场面剪辑省略，不要求4秒完整走完。 人物:仅持火把的右手与柴木接触局部，退阶用剪辑省略。 声音:火头触木、树脂爆响、黑焰低吼，退阶脚步。\n[Shot 4] 9–12s {{Node i-dN44fu5hM0}}；画内:Claude。同一火舌向上蔓延接面肩，不重新点火；教主退阶过程省略，Kimi尚未到场。Claude面肩近景有意稳住，前后火舌掠动承担包围感，轻随挣扎作小幅垂直修正而不穿火绕拍。火舌从前后包围并遮住胸肩，Claude痛苦挣扎，袖边焦损可见，腕链绷紧。 声音:短促吸气、腕链锐响与受阻喘息，不补喊叫台词。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "leftEnsure": [
+      "i-JAT4Pva730",
+      "i-rFc0P8dawG",
+      "i-uKDIVWmghN",
+      "i-KiDw9ecrZh",
+      "i-tdtSgV5ZJB",
+      "i-lKpBceV0nT",
+      "i-dN44fu5hM0"
+    ],
+    "newName": "第15批 · 登阶与点火 · H3 v001",
+    "run": false
+  },
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-6V08nvbhZl",
+    "node": {
+      "id": "v-6V08nvbhZl",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第15批 · 登阶与点火 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Image 1}}=DeepSeek四视图：同一人四角度，身份服饰保持\n{{Image 2}}=教主四视图：同一人四角度，身份服饰保持\n{{Image 3}}=Claude四视图：同一人四角度，身份服饰保持\n{{Image 4}}=构图状态，非强制首帧\n{{Image 5}}=构图状态，非强制首帧\n{{Image 6}}=构图状态，非强制首帧\n{{Image 7}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，12秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–2s {{Image 4}}；画内:DeepSeek、教主。小手的紧握直接承前，教主迈步使布料滑脱，不另加甩手推搡。75mm近摄感；与攥袍前镜同侧，沿袖口到指尖定住，背景台阶与蓝窗散焦；不后退看教主全身。延续上一镜同一次攥袍，教主朝画面右侧离去。绷紧的袍角逐渐滑过小鱼指尖，只剩最后一折接触；她试合一次却落空，小手慢慢落下，眼神追着袍尾。教主身体与右手火把在画外，高柴尚未燃。下一镜才看登阶距离。 调度:75mm近摄感；与攥袍前镜同侧，沿袖口到指尖定住，背景台阶与蓝窗散焦；不后退看教主全身。 新图是最后指尖接触，不是已经松手的终态；起镜延续绷紧，镜尾才完全滑脱。小鱼左、教主袍尾右，单次滑脱，不重新抓两次。 注意:新图是最后指尖接触，不是已经松手的终态；起镜延续绷紧，镜尾才完全滑脱。小鱼左、教主袍尾右，单次滑脱，不重新抓两次。 人物:小鱼局部脸/袖/手，教主只见袍尾；教主脸与右手火把画外。 声音:抓紧衣料、指尖掠过石面轻响，教徒吟唱压低一瞬。\n[Shot 2] 2–5s {{Image 5}}；画内:教主、Claude。袍尾滑脱接背后登阶，同一方向向上；只见代表性的几步，长阶余程在切点省略。背后低位沿长阶轴线小段前跟，教主后脑背部始终朝镜头，火把右侧与高处Claude同框；不绕到侧面。教主背对摄影机，头、肩、骨盆和双脚一致朝向最高祭坛的Claude，右手握同一支短柄黑焰仪式火把，只展示连续登阶的几步：前脚踩上高一级石阶，后脚跟进，披风顺背拖曳。不回头、不转向右侧。Claude在高处直立受缚，腰腹以下被未燃黑木遮住；小鱼留在下端画外。余下长阶路程在接点火近景的切点省略，不在三秒内走完整段。 声音:沉重登阶、火把呼声，教徒吟唱不断，不新增歌词。\n[Shot 3] 5–9s {{Image 6}}；画内:教主。从登阶明确省略到已抵柴堆前；火把形制、右手与黑紫火色连续，接触时才起柴火。火把接触处局部特写随右手下压短俯，点燃后沿木缝微向上摇，右手收回即留住扩展火舌。局部近景只见教主的右手和同一支短柄黑焰仪式火把。他把杯口黑芯暗紫细边的火焰压向高柴下侧，实际接触后树脂裂隙亮起细小余烬，同一种黑焰从木缝向上蔓延，逐渐连成一片。他收回火把，手退出画面；返回长阶下段的移动在后续切镜中省略，不在本镜展示完整退阶。固定火盆与蜡烛不变色。 调度:展示火把接触柴堆与火焰蔓延；教主返回阶下的移动过程用后续切镜省略。 注意:先展示点柴接触与燃起；返下阶用下一场面剪辑省略，不要求4秒完整走完。 人物:仅持火把的右手与柴木接触局部，退阶用剪辑省略。 声音:火头触木、树脂爆响、黑焰低吼，退阶脚步。\n[Shot 4] 9–12s {{Image 7}}；画内:Claude。同一火舌向上蔓延接面肩，不重新点火；教主退阶过程省略，Kimi尚未到场。Claude面肩近景有意稳住，前后火舌掠动承担包围感，轻随挣扎作小幅垂直修正而不穿火绕拍。火舌从前后包围并遮住胸肩，Claude痛苦挣扎，袖边焦损可见，腕链绷紧。 声音:短促吸气、腕链锐响与受阻喘息，不补喊叫台词。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png"
+            },
+            {
+              "nodeId": "i-rFc0P8dawG",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/fa4f10b325b23f5ceaddd2850fbe68978ba0c04d.png"
+            },
+            {
+              "nodeId": "i-uKDIVWmghN",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/88234e0405150bf25c82642dd7493f40996749c6.png"
+            },
+            {
+              "nodeId": "i-KiDw9ecrZh",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/b16c6069eb13fc9722369b8cb10d14ee66a03740.png"
+            },
+            {
+              "nodeId": "i-tdtSgV5ZJB",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/036d88d215da2e8a26401be33893ff04b4249ed0.png"
+            },
+            {
+              "nodeId": "i-lKpBceV0nT",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/f57c84180caad748ef69650022a3fc95709fa279.png"
+            },
+            {
+              "nodeId": "i-dN44fu5hM0",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5fe54c51bc1f92173cfa81f1f7c4282ea7cb5a51.png"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 12
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png",
+              "label": "CHAR-DEEPSEEK-TURN-v003 · H3留白适配",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-rFc0P8dawG",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/fa4f10b325b23f5ceaddd2850fbe68978ba0c04d.png",
+              "label": "CHAR-PRIEST-TURN-v001",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-X5Q3MpJX9G",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/267aee5e5ffc714646b82b96c8c1d3815e07d10e.png",
+              "label": "CY021-v049-r2",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-iHjFB0bZxp",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/7c2b1a9a411c8da41b5b884ea8a91404303420fb.png",
+              "label": "CY021B-v015-r1",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-JAT4Pva730",
+            "i-rFc0P8dawG",
+            "i-uKDIVWmghN",
+            "i-KiDw9ecrZh",
+            "i-tdtSgV5ZJB",
+            "i-lKpBceV0nT",
+            "i-dN44fu5hM0"
+          ],
+          "mixedListOrder": [
+            "i-JAT4Pva730",
+            "i-rFc0P8dawG",
+            "i-uKDIVWmghN",
+            "i-KiDw9ecrZh",
+            "i-tdtSgV5ZJB",
+            "i-lKpBceV0nT",
+            "i-dN44fu5hM0"
+          ]
+        },
+        "_updatedAtMs": 1793121036000,
+        "_lastAppliedFullyAtMs": 1793121036000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        }
+      },
+      "position": {
+        "x": 5592,
+        "y": 3246
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-6V08nvbhZl",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

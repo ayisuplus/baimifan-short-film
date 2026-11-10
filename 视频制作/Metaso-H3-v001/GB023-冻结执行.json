@@ -1,0 +1,237 @@
+{
+  "batch": {
+    "batch_number": 33,
+    "batch_id": "GB023",
+    "title": "清场余波与降落",
+    "shot_ids": [
+      "CY024B1",
+      "CY024B3",
+      "CY024B3A",
+      "CY027"
+    ],
+    "film_start": 346.942729,
+    "duration": 12,
+    "prompt": "subject_definitions:\nImage 1=Kimi四视图：同一人四角度，身份服饰保持\nImage 2=Claude四视图：同一人四角度，身份服饰保持\nImage 3=ChatGPT四视图：同一人四角度，身份服饰保持\nImage 4=教主四视图：同一人四角度，身份服饰保持\nImage 5=构图状态，非强制首帧\nImage 6=构图状态，非强制首帧\nImage 7=构图状态，非强制首帧\nImage 8=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，12秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–3s Image 5；画内:教徒。承前撞盾放出的同一余浪切下阶，抓握滑脱到水势减弱后切环境，水声连续下降。贴水低机位沿下游轻侧向跟随前景抓石的手，保持三级人物错落深度；不跟人飞起。镜头切到更低的外侧台阶，贴近水面斜拍汇向下方的余浪。前景一名黑金袍教徒身体被水推向下游，扭身伸手抓湿石沿，指尖刚刚滑脱；腰胸被厚水遮住，袍摆顺水拉开。中景另一人侧向失足，后景第三人转身抬手却来不及，前后位置和姿态错开，不再整齐排成一行。一根法杖脱手顺流打转，近前景浪头越过一级石阶，以深蓝水腹和局部白沫体现重量，人物不飞天。远处上层暗月罩边只有低缓浅水，近处较大的浪来自下层台阶汇流；不把上层罩边重新画成水墙。 人物:远处只有不透明罩，不画出Kimi或Claude。 声音:近处厚浪拍阶、抓石手掌滑脱、一声无词惊呼、法杖擦水，高处罩边仍为轻水声。\n[Shot 2] 3–6s Image 6；画内:环境。下阶厚浪衰成浅水后切安稳罩体；此处只余波，不重新制造冲击波。左侧高位斜俯缓慢后退少许，沿排水方向展示台阶落差和罩边浅水，不绕罩窥看内部。切祭坛左侧的斜侧高机位，暗月罩位于上层平台中后景，表面平静且完全不透明。水龙已经化散；罩边只剩湿石面上的浅水、细涟漪和低缓退浪，可以流到罩脚附近，不再刻意留干燥隔离带。少量余水沿两侧外阶向低处排走，在台阶落差处翻起小水花，没有围罩的高水墙，也不做左右完全对称的浪槽。普通灯火已灭，中央后窗保留破口，侧窗和后殿完整。护罩主要防教徒法术，GPT的主龙和高压冲击只指向敌方；此镜罩面不受冲撞、罩内仍平静。 人物:环境与不透明暗罩；罩内二人不可见。 声音:承前厚浪声迅速衰减，留下浅水滴落和殿内空旷回响。\n[Shot 3] 6–8s Image 7；画内:Kimi、Claude。由罩外浅水切罩内低声，声场立刻隔远；同一抱护持续，不重新扑抱。罩内双人中近景定住两人的承托三角，轻微呼吸和发丝运动负责松弛，不推到遮住腕扣。罩内只传来隔远的水声。外面的冲击已经结束，Claude听着渐远的余水声，疲惫地靠近Kimi；Kimi一只空手轻扶她的后脑，另一臂托住肩背与上臂，额侧贴近，以安稳的神情让她慢慢松下紧张。Claude仍直立受缚，双腕固定在横木，双踝与脚托没有变化；双刃都已收在Kimi后腰。暗膜内侧平静、不透明，没有水压凹痕、应力闪光或外景。Kimi不用手撑墙，也没有对抗GPT法术的吃力表情。 声音:隔暗膜余水声渐轻，近处轻呼吸，不再出现新撞击轰鸣。\n[Shot 4] 8–12s Image 8；画内:ChatGPT、教主。余水声承前，鞋尖触水才有近处轻响；落稳收翼后接走向教主的视线。低位中远景由落脚水面轻上摇至收翼后的GPT，下降用人物位移，镜头不夸张升降抢动作。GPT振翼制动下降，鞋尖点水，另一只脚落稳，双翼收拢后走向原缓台上的教主。 最高祭坛仍被不透明暗月罩完整包住，罩外看不到Kimi、Claude和刑架；正后中央窗破口持续存在，左右窗完整。 人物:最高祭坛仅不透明罩；不显露罩内人物。 声音:水声退低，最后一次翼膜拍动，鞋尖点水与湿地脚步，无新对白。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+        "kind": "identity",
+        "person": "Kimi",
+        "name_en": "Kimi",
+        "asset_id": "MULKZI2WMFNJE",
+        "status": "作者指定复用",
+        "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。 本片双持小圆月刃沿用r3附属参考；战后固定后腰再解锁，不更换已定服装。",
+        "purpose": "Kimi四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc",
+        "source_path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+        "source_sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc",
+        "sha1": "90740cd918a10c0f0f74eade89d78e208ada0a11",
+        "file_size": 2823904,
+        "width": 1448,
+        "height": 1086,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\图像\\四视图复用\\C03_Kimi-角色设定卡.png"
+      },
+      {
+        "slot": 2,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "Claude",
+        "name_en": "Claude",
+        "asset_id": "CHAR-CLAUDE",
+        "status": "候选待作者审阅",
+        "limits": "侧背与下裙含补全，不作为精确工程正交图。受缚至离殿采用赤足，四视图鞋仅为日常服装参考。近景不为展示花饰而换侧；不新增另一朵花。",
+        "purpose": "Claude四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a",
+        "source_path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+        "source_sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+        "sha1": "ecd80984142fead85bfab07ed28c0e7b9c8c05b2",
+        "file_size": 2016603,
+        "width": 2200,
+        "height": 880,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-CLAUDE-TURN-v001-h3-pad.png"
+      },
+      {
+        "slot": 3,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "ChatGPT",
+        "name_en": "ChatGPT",
+        "asset_id": "CHAR-GPT",
+        "status": "候选待作者审阅",
+        "limits": "两侧躯干略带斜角。开衩与腿饰以原图/正面图的角色右腿为准，不按对称读取；尾巴弯曲是姿态参考，侧背含补全。",
+        "purpose": "ChatGPT四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9",
+        "source_path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+        "source_sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+        "sha1": "ff68ef289edac6743d7e87bdfe142f00332d50ce",
+        "file_size": 2143481,
+        "width": 2172,
+        "height": 869,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-GPT-TURN-v001-h3-pad.png"
+      },
+      {
+        "slot": 4,
+        "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+        "kind": "identity",
+        "person": "教主",
+        "name_en": "the High Priest",
+        "asset_id": "CHAR-PRIEST",
+        "status": "生成前修正候选，待作者审阅",
+        "limits": "四幅全身正、朝左、背、朝右；侧背结构为基于原立绘的合理补全，待作者确认。",
+        "purpose": "教主四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+        "source_path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+        "source_sha256": "dc37a02cfdd8ceac3e668d09edd5affd5538643c3db9324c53d527324da9d031",
+        "sha1": "34f6c0a8dc9ecb9773d855ad67bb2225c2b36a57",
+        "file_size": 2283123,
+        "width": 1774,
+        "height": 887,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\图像\\四视图\\CHAR-PRIEST-TURN-v001.png"
+      },
+      {
+        "slot": 5,
+        "path": "镜头设计/图像/细节与显形-v052/CY024B1-v052-r1.png",
+        "kind": "composition",
+        "shot_id": "CY024B1",
+        "purpose": "构图、空间与代表状态：汇流冲人，指尖抓空；不是默认首帧",
+        "status": "v0.52细节与显形修订候选，待作者审阅",
+        "limits": "",
+        "sha256": "f05297353919a61ef38beb10ed392456654f812ee21d87b1f2f300d8b0a9291f",
+        "source_path": "镜头设计/图像/细节与显形-v052/CY024B1-v052-r1.png",
+        "source_sha256": "f05297353919a61ef38beb10ed392456654f812ee21d87b1f2f300d8b0a9291f",
+        "sha1": "6f0c09f39487faf4aa7febbfb8b398a6eb862506",
+        "file_size": 3282614,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\细节与显形-v052\\CY024B1-v052-r1.png"
+      },
+      {
+        "slot": 6,
+        "path": "镜头设计/图像/细节与显形-v052/CY024B3-v052-r1.png",
+        "kind": "composition",
+        "shot_id": "CY024B3",
+        "purpose": "构图、空间与代表状态：大招余波，浅水空殿；不是默认首帧",
+        "status": "v0.52细节与显形修订候选，待作者审阅",
+        "limits": "",
+        "sha256": "8cdd21ab096300147a6289f16ea8589ac517ab47e94684dc1fbe605c1b4e9362",
+        "source_path": "镜头设计/图像/细节与显形-v052/CY024B3-v052-r1.png",
+        "source_sha256": "8cdd21ab096300147a6289f16ea8589ac517ab47e94684dc1fbe605c1b4e9362",
+        "sha1": "233d71c06894356419c1f8e103088e3f03a8f1ed",
+        "file_size": 3334888,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\细节与显形-v052\\CY024B3-v052-r1.png"
+      },
+      {
+        "slot": 7,
+        "path": "镜头设计/图像/目光与入场-v048/CY024B3A-v048-r1.png",
+        "kind": "composition",
+        "shot_id": "CY024B3A",
+        "purpose": "构图、空间与代表状态：余声渐远，靠肩安抚；不是默认首帧",
+        "status": "v0.48朝向、反应、咏唱及局部色偏修订候选，待作者画面审阅",
+        "limits": "",
+        "sha256": "514faf587a2e3dafb7023966eec417f0724713659eb8c537cc99a2b585ddc96f",
+        "source_path": "镜头设计/图像/目光与入场-v048/CY024B3A-v048-r1.png",
+        "source_sha256": "514faf587a2e3dafb7023966eec417f0724713659eb8c537cc99a2b585ddc96f",
+        "sha1": "c07fcfae6feae12334160ba9d4f74816db95a4da",
+        "file_size": 2709040,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\目光与入场-v048\\CY024B3A-v048-r1.png"
+      },
+      {
+        "slot": 8,
+        "path": "镜头设计/图像/暗月瞬临-v045/CY027-v045-r1.png",
+        "kind": "composition",
+        "shot_id": "CY027",
+        "purpose": "构图、空间与代表状态：退水降落，收翼走近；不是默认首帧",
+        "status": "v0.45作者方案修订候选，待画面审阅",
+        "limits": "",
+        "sha256": "f91785c1ac15cfbdc5af90fc70dfaf311b876ac385e56d78a35bce8bee938d33",
+        "source_path": "镜头设计/图像/暗月瞬临-v045/CY027-v045-r1.png",
+        "source_sha256": "f91785c1ac15cfbdc5af90fc70dfaf311b876ac385e56d78a35bce8bee938d33",
+        "sha1": "2e71d8452de54c0dfb3ca552793c35c123a54891",
+        "file_size": 2849999,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\暗月瞬临-v045\\CY027-v045-r1.png"
+      }
+    ],
+    "estimated_credits": 139.5,
+    "status": "prepared",
+    "accepted": false
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "subject_definitions:\nImage 1=Kimi四视图：同一人四角度，身份服饰保持\nImage 2=Claude四视图：同一人四角度，身份服饰保持\nImage 3=ChatGPT四视图：同一人四角度，身份服饰保持\nImage 4=教主四视图：同一人四角度，身份服饰保持\nImage 5=构图状态，非强制首帧\nImage 6=构图状态，非强制首帧\nImage 7=构图状态，非强制首帧\nImage 8=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，12秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–3s Image 5；画内:教徒。承前撞盾放出的同一余浪切下阶，抓握滑脱到水势减弱后切环境，水声连续下降。贴水低机位沿下游轻侧向跟随前景抓石的手，保持三级人物错落深度；不跟人飞起。镜头切到更低的外侧台阶，贴近水面斜拍汇向下方的余浪。前景一名黑金袍教徒身体被水推向下游，扭身伸手抓湿石沿，指尖刚刚滑脱；腰胸被厚水遮住，袍摆顺水拉开。中景另一人侧向失足，后景第三人转身抬手却来不及，前后位置和姿态错开，不再整齐排成一行。一根法杖脱手顺流打转，近前景浪头越过一级石阶，以深蓝水腹和局部白沫体现重量，人物不飞天。远处上层暗月罩边只有低缓浅水，近处较大的浪来自下层台阶汇流；不把上层罩边重新画成水墙。 人物:远处只有不透明罩，不画出Kimi或Claude。 声音:近处厚浪拍阶、抓石手掌滑脱、一声无词惊呼、法杖擦水，高处罩边仍为轻水声。\n[Shot 2] 3–6s Image 6；画内:环境。下阶厚浪衰成浅水后切安稳罩体；此处只余波，不重新制造冲击波。左侧高位斜俯缓慢后退少许，沿排水方向展示台阶落差和罩边浅水，不绕罩窥看内部。切祭坛左侧的斜侧高机位，暗月罩位于上层平台中后景，表面平静且完全不透明。水龙已经化散；罩边只剩湿石面上的浅水、细涟漪和低缓退浪，可以流到罩脚附近，不再刻意留干燥隔离带。少量余水沿两侧外阶向低处排走，在台阶落差处翻起小水花，没有围罩的高水墙，也不做左右完全对称的浪槽。普通灯火已灭，中央后窗保留破口，侧窗和后殿完整。护罩主要防教徒法术，GPT的主龙和高压冲击只指向敌方；此镜罩面不受冲撞、罩内仍平静。 人物:环境与不透明暗罩；罩内二人不可见。 声音:承前厚浪声迅速衰减，留下浅水滴落和殿内空旷回响。\n[Shot 3] 6–8s Image 7；画内:Kimi、Claude。由罩外浅水切罩内低声，声场立刻隔远；同一抱护持续，不重新扑抱。罩内双人中近景定住两人的承托三角，轻微呼吸和发丝运动负责松弛，不推到遮住腕扣。罩内只传来隔远的水声。外面的冲击已经结束，Claude听着渐远的余水声，疲惫地靠近Kimi；Kimi一只空手轻扶她的后脑，另一臂托住肩背与上臂，额侧贴近，以安稳的神情让她慢慢松下紧张。Claude仍直立受缚，双腕固定在横木，双踝与脚托没有变化；双刃都已收在Kimi后腰。暗膜内侧平静、不透明，没有水压凹痕、应力闪光或外景。Kimi不用手撑墙，也没有对抗GPT法术的吃力表情。 声音:隔暗膜余水声渐轻，近处轻呼吸，不再出现新撞击轰鸣。\n[Shot 4] 8–12s Image 8；画内:ChatGPT、教主。余水声承前，鞋尖触水才有近处轻响；落稳收翼后接走向教主的视线。低位中远景由落脚水面轻上摇至收翼后的GPT，下降用人物位移，镜头不夸张升降抢动作。GPT振翼制动下降，鞋尖点水，另一只脚落稳，双翼收拢后走向原缓台上的教主。 最高祭坛仍被不透明暗月罩完整包住，罩外看不到Kimi、Claude和刑架；正后中央窗破口持续存在，左右窗完整。 人物:最高祭坛仅不透明罩；不显露罩内人物。 声音:水声退低，最后一次翼膜拍动，鞋尖点水与湿地脚步，无新对白。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141446306816000"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141454194728960"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141276083478528"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141373313343488"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141464376139776"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141474970820608"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141494695718912"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141504360046592"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 12,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "source_sha256": "e31c8f0667be1092066e4307a8784ba2d54ac12d7039479b4edca5704c88c2a7",
+  "approved_scope": "2026-10-28 user requested switching remaining generation to https://metaso.cn/minimax-h3"
+}

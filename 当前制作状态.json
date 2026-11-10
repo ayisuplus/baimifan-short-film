@@ -1,0 +1,63 @@
+{
+  "updated": "2026-11-03",
+  "status": "archived",
+  "archive_date": "2026-11-03",
+  "archive_reason": "作者判断当前版本基本作废：风格一开始没定好、参考图也没做好，导致后面非常混乱。暂予定档存起，等以后有兴趣再回来做完。",
+  "archive_doc": "交接/定档说明.md",
+  "resume_entry": "交接/定档说明.md 第五节（开工顺序：先定风格基准图与参考图，再谈批量生成）",
+  "auto_resume": false,
+  "project_root": "E:\\projects\\内容创作\\故事短片\\白米饭",
+  "handoff": "README.md",
+  "todo": "交接/接下来做什么.md",
+  "document_index": "交接/文档导航.md",
+  "script_version": "v0.69",
+  "timeline_baseline": "v033_OpenCut_Picture_Return",
+  "resolve_project": "《白米饭》",
+  "timeline_clips": 118,
+  "timeline_frames": 9059,
+  "timeline_fps": 24,
+  "timeline_timecode": "00:06:17:11",
+  "timeline_resolution": [
+    1344,
+    768
+  ],
+  "timeline_evidence": "后期/迁回达芬奇-v033/迁移核验.json",
+  "work_in_progress": "后期/全片画风与动作统一-v034",
+  "wip_installed": false,
+  "completed": {
+    "migration": true,
+    "full_film_audit": true,
+    "key_candidates": 41,
+    "new_generated_videos": 0,
+    "cpu_edited_clips": 22,
+    "partial_previews": 8
+  },
+  "cancelled_jobs": 65,
+  "gpu": {
+    "running": 0,
+    "queued": 0,
+    "models_unloaded": true,
+    "evidence": "后期/全片画风与动作统一-v034/暂停核验.json"
+  },
+  "voices_deferred": true,
+  "subtitles_deferred": true,
+  "bgm_deferred": true,
+  "upscale": false,
+  "export_allowed": false,
+  "next_action": "定档待续。等作者重新开口后再动手；开工顺序见 交接/定档说明.md 第五节——先定风格基准图与角色/场景参考图，作者确认后才谈批量生成与时间线重铺。不要续跑 v034 的旧队列与 12 条 pending，它们继承的是作废的风格基准。",
+  "obsolete": [
+    "v034 的 41 张关键帧候选",
+    "ComfyUI v032 / v034 关键帧与 v034 候选视频",
+    "后期/全片画风与动作统一-v034/edits/install-manifest.json 的 35 条安装清单",
+    "资产图册 28 项造型定稿",
+    "v034 的 8 个分段预览"
+  ],
+  "salvageable": [
+    "剧本 v0.69 与日语对白 v0.69（文字）",
+    "声音/正式配音准备-v006 的 9 角色声线选择",
+    "达芬奇 v033 的剪辑节奏与时长",
+    "空间设定与各段审查里的剧情因果结论",
+    "交接/接下来做什么.md 的「不要丢掉的决定」一节"
+  ],
+  "historical_status": "交接/历史文档/20261030-整理前/当前制作状态.json"
+}

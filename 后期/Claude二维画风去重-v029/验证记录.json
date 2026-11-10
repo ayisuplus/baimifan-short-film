@@ -1,0 +1,19 @@
+{
+  "local_server": "http://127.0.0.1:8188",
+  "validated_workflows": [
+    "035-r1.api.json",
+    "038-r1.api.json",
+    "Claude-2d-key-r1.api.json",
+    "035-r2.api.json",
+    "038-r2.api.json",
+    "035-r3.api.json",
+    "038-r3.api.json"
+  ],
+  "valid": true,
+  "error_count": 0,
+  "warning_count": 0,
+  "partner_nodes": [],
+  "spends_credits": false,
+  "upscale": false,
+  "verification": "comfy CLI workflow validate outputs in task history"
+}

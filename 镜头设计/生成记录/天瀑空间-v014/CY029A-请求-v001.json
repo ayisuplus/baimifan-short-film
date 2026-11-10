@@ -1,0 +1,13 @@
+{
+  "id": "CY029A",
+  "take": 1,
+  "destination": "镜头设计/图像/天瀑空间-v014/CY029A-v014-r1.png",
+  "request": "镜头设计/生成记录/天瀑空间-v014/CY029A-请求-v001.json",
+  "input": {
+    "prompt": "编辑图1。保持Claude搭GPT肩膀的近景、表情和服装饰品，保留原背景空刑架剧情火光，只清除背景烛台与普通小火点，不添加灯具。 保持细腻哥特异世界动漫电影画风与原画幅，单幅无文字。",
+    "referenced_image_paths": [
+      "E:/projects/内容创作/穿云/镜头设计/图像/头纱连续-v013/CY029A-v013-r2.png"
+    ],
+    "transparent_background": false
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-28",
+  "project": "白米饭",
+  "scope": "GB029四张单镜固定首帧；40暂不生图，不调用视频API",
+  "skill": "C:/Users/36322/.codex/skills/.system/imagegen/SKILL.md",
+  "records": [
+    {
+      "shot": "CY029E1",
+      "prompt": "为动画短片《白米饭》编辑一张可用于视频固定首帧的完整16:9电影画面，1536×864或同宽高比，无文字无拼图。图1为画风与当前伤后服装编辑底图；图2仅锁定Claude人物身份、面部、橙发和自身左侧橙花头饰，不复制四视图布局。保留原高细节动漫电影质感、白金蕾丝裙主体和裙袖焦黑边。把镜头调整为胸腰中近景：Claude站在哥特教堂最高祭坛平台，位于画面右半，脸有些苍白疲惫、浅色唇，首帧头和眼睛仍低看画面右下方阶下的父亲（父亲完全画外），她接下来才会把头转向画左后侧空刑架。必须在画面左半中后景清晰出现同一个粗旧木质空十字刑架：中央竖木+一根横梁+打开垂下的铁束具，无人无火；保持与Claude同一平台，不是贴身小十字饰品。前景下方或右边露出一道平台边沿及向下远离她的几级湿石台阶，让最高平台关系可读。背景冷蓝高窗，同一哥特殿堂。以冷月光塑形，压低原图过强的橙红发光轮廓；没有暖火光源、没有烛火，没有漂浮火种。只有Claude一名可辨人物，GPT及父亲均画外；不添加人形剪影，不修复衣物焦边，不让她像在健康摆拍。不改变角色身份；重点是『仍看向阶下父亲』的起态与她下一步要转看的『空刑架』同时可读，切勿首帧已看向刑架。",
+      "reference_paths": [
+        "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/火焰伤后与星火-v036/CY029E1-v036-r1.png",
+        "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png"
+      ],
+      "mode": "built-in image_gen edit",
+      "output_hint": "Generated images are saved to C:\\Users\\36322\\.codex\\generated_images\\01a17e8b-d8e9-7733-a1f5-7d32a2f1b3f9 as C:\\Users\\36322\\.codex\\generated_images\\01a17e8b-d8e9-7733-a1f5-7d32a2f1b3f9\\exec-70c73a02-1691-45a1-88be-c87152fc3235.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "status": "generated"
+    },
+    {
+      "shot": "CY029E2",
+      "prompt": "将第一张父亲回片原帧修整为独立16:9固定首帧，1536×864或同等比例，无字、无拼图。图1是必须紧接的动作与空间起态，图2仅身份及黑金外袍细节参考，不改成站姿。最大限度保持图1机位、姿态、镜头朝向、冷蓝窗和湿石地碎屑：父亲虚弱地俯卧在阶下，右手从画面左前方朝镜头前上方伸出，手掌悬空离地，五指还张开，恳求地看着画外高处女儿。另一只左手保持在胸前地面支撑，不新增第三只手。首帧必须还没有僵住下坠、没有收拳；后续视频才会看到听见续咏后伸手僵住并指尖垂下。保持原发色、金棕眼、湿发、黑金袍与红暗衬，不改变脸为更年轻的少年。修正近处伸出手掌解剖为清楚自然的五指，透视真实，腕和袖口连贯；保留手上的少量原擦伤，不增加血伤。改动只是清洁手指形体并生成完整16:9画面，不放任何新人物、火球、烛火或亮火种，不添加台词字幕。全身仍伏低，胸口不离地，不跪起，不站起，原先伸手动作的连续性优先。",
+      "reference_paths": [
+        "E:/projects/内容创作/故事短片/白米饭/视频制作/Metaso-H3-v002/审查/五批重审-39/GB028-detail-13.90.jpg",
+        "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-PRIEST-TURN-v001.png"
+      ],
+      "mode": "built-in image_gen edit",
+      "output_hint": "Generated images are saved to C:\\Users\\36322\\.codex\\generated_images\\01a17e8b-d8e9-7733-a1f5-7d32a2f1b3f9 as C:\\Users\\36322\\.codex\\generated_images\\01a17e8b-d8e9-7733-a1f5-7d32a2f1b3f9\\exec-27b7237d-7e73-411f-8402-36187d67c1b8.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "status": "generated"
+    },
+    {
+      "shot": "CY029E3",
+      "prompt": "精修这张手部画面，生成独立完整16:9视频固定首帧，无字无拼图，1536×864或等比例。严格保留图中高质感动漫电影画风、双手数量、方向与服装：Claude的右臂从画右伸向画左，右腕有细红色受束压痕；她自己的左手从下方明确握稳右手腕，左拇指与其余手指环扶同一右腕形成清楚接触，不能两掌并排托球，不能增加手臂。右手自然轻弯的指间只有一枚很小的橙金火种：水滴状，发光核心直径小于食指宽度，火舌总高不超过两倍指宽，在指端尚未放出，不是掌心大火球，不烧手指。把原图火苗缩小并压短，删掉所有漂在空中的独立火星/火焰；只留这一枚。手部皮肤、五指解剖清楚，右腕细痕保持；白金蕾丝衣袖主体完好，仅边缘焦黑，不全身炭化也不回春。背景继续哥特教堂最高祭坛的冷蓝高窗与暗柱，完全无其他人物和火源；可以背景极虚化，别添加新的物件。首帧是左手扶稳右腕、微小火种刚稳定的起态，后续3秒只能细微颤抖，不能提前离指。光线以冷月光为主，火种仅给指尖微弱暖光，避免把整个手和衣袖打成金灿灿。",
+      "reference_paths": [
+        "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/火焰伤后与星火-v036/CY029E3-v036-r1.png"
+      ],
+      "mode": "built-in image_gen edit",
+      "output_hint": "Generated images are saved to C:\\Users\\36322\\.codex\\generated_images\\01a17e8b-d8e9-7733-a1f5-7d32a2f1b3f9 as C:\\Users\\36322\\.codex\\generated_images\\01a17e8b-d8e9-7733-a1f5-7d32a2f1b3f9\\exec-0de34103-2007-4e48-bf5b-deb54c103b9f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "status": "generated"
+    },
+    {
+      "shot": "CY029E4",
+      "prompt": "将图1小鱼被千问抱着的镜头改成清楚空间与动作起态的独立16:9固定首帧，1536×864或等比例，无字无拼图。图1锁定电影画风和抱护情绪，图2锁小鱼蓝发蓝鲸帽与幼童比例，图3仅锁千问紫蓝发辫、白紫衣服，不复制角色卡布局。镜头稍拉宽到孩子胸腰和千问左胸左臂，千问头部可以裁在画面外，只出现抱她的女性躯干，避免新脸抢镜。千问必须用自己的左前臂从下方托住孩子臀腿，孩子贴在她左胸/左胯；支持手臂清楚连到肩，不能改右抱，右手和扇始终画外。孩子的一只小手在胸前抓住千问同一处衣襟，眼睛首帧略低落向抓衣襟处、嘴闭合，紧张但不是笑容；下一步才会攥紧并抬眼仰望高祭坛。构图一侧有近处石柱边缘，说明他们在面向祭坛右侧柱边；另一侧中远景露出斜升的湿石台阶和上方一段平台边，让低处向高祭坛的纵深可读。背景不出现可辨的第三个人物、刑架人形或平地小舞台。仍是水龙之后冷蓝月光的哥特教堂，衣服保留少量水湿/尘痕。绝对没有火种、橙色光团、火球、火星、燃烧蜡烛；不要把任何魔法放孩子手里。保留蓝色鲸鱼帽形状、小鱼脸型和眼睛身份，千问服装紫蓝不串成白金。",
+      "reference_paths": [
+        "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/目光与入场-v048/CY029E4-v048-r1.png",
+        "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+        "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图复用/C04_Qwen-角色设定卡.png"
+      ],
+      "mode": "built-in image_gen edit",
+      "output_hint": null,
+      "status": "input_moderation_blocked_then_benign_reworded_retry"
+    },
+    {
+      "shot": "CY029E1-r002",
+      "prompt": "仅修正这张完整16:9电影画面的空间与起始视线，保持人物身份、橙发、头饰、白金焦边裙、画风与冷蓝教堂。最重要：Claude与左边空木十字刑架必须站在同一块最高平台上，人物不能站在通往刑架的台阶下。删除当前画面下半部那一整排阶梯及横向栏挡，替换成同一水平面的连续湿石平台；刑架竖木直接固定在这块连续平面左侧，Claude身后的地面与其基座连通，没有高低落差，没有横栏隔断。台阶只可在画面最前下边缘向画外下降一小段，不可出现在Claude与刑架之间。相机处于平台边斜前侧，胸腰中近景，Claude在右、刑架在左侧后方。脸和眼睛首帧低看画面前下方、略朝右的画外父亲，而非提前盯左边刑架，后续视频才转向刑架。只有她一位人物，无其他人像，无火无烛光无魔法。完整16:9不拼图无文字。",
+      "reference_paths": [
+        "E:/projects/内容创作/故事短片/白米饭/视频制作/Metaso-H3-v003/修订参考/GB029-CY029E1-firstframe-r001.png"
+      ],
+      "mode": "built-in image_gen edit",
+      "output_hint": "Generated images are saved to C:\\Users\\36322\\.codex\\generated_images\\01a17e8b-d8e9-7733-a1f5-7d32a2f1b3f9 as C:\\Users\\36322\\.codex\\generated_images\\01a17e8b-d8e9-7733-a1f5-7d32a2f1b3f9\\exec-685baa40-aa37-428b-87e9-27aa6745eb77.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "status": "generated"
+    },
+    {
+      "shot": "CY029E4-r001b",
+      "prompt": "请制作一张温和、非暴力、全衣着的动漫电影故事镜头，独立16:9横幅，无文字无拼图。参考1是原镜头，参考2是小鱼的蓝鲸帽冬装身份，参考3是成年守护者千问的紫蓝长发与完整白紫长裙服装，勿生成角色卡。场景是冷蓝月光照亮的哥特教堂，湿石地，右侧石柱旁。镜头比参考1略宽：小鱼穿完整蓝鲸冬装，被穿完整白紫长裙的千问稳稳抱住，千问的脸在画面外，保留长辫与衣襟；千问使用左臂作为下方支撑，右臂和扇子画外。小鱼小手抓住守护者衣襟，首帧眼睛低看自己抓衣襟的手，嘴闭合、神情担心，后续视频才抬眼。构图一侧露出近处石柱边，另一侧背景可见向远处斜升的几级湿石台阶与顶部平台边，表达两人站在低处看向祭坛。此图只出现这两位，不加第三人。不出现任何火焰、光团、火花或魔法。保持原镜头细腻电影画风、两位角色身份与服装配色，正常自然的手指与支撑手臂，身体全被衣物遮盖，纯粹的家庭友善保护场景。",
+      "reference_paths": [
+        "E:/projects/内容创作/故事短片/白米饭/镜头设计/图像/目光与入场-v048/CY029E4-v048-r1.png",
+        "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+        "E:/projects/内容创作/故事短片/白米饭/资产/图像/四视图复用/C04_Qwen-角色设定卡.png"
+      ],
+      "mode": "built-in image_gen edit",
+      "output_hint": "Generated images are saved to C:\\Users\\36322\\.codex\\generated_images\\01a17e8b-d8e9-7733-a1f5-7d32a2f1b3f9 as C:\\Users\\36322\\.codex\\generated_images\\01a17e8b-d8e9-7733-a1f5-7d32a2f1b3f9\\exec-77c58346-aea1-451f-9583-e8f1c4430688.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "status": "generated"
+    },
+    {
+      "shot": "CY029E1-r003",
+      "prompt": "对这张16:9图只做一个局部空间修正，其他人物和构图完全不改。图下方横穿画面的那道黑色竖直石台立面/台沿仍像把Claude隔在低一级。请彻底消除这道横向垂直断面，把它替换成连续水平湿石地面纹理，地砖透视从刑架底座下面一直连续延展到Claude脚下画外、再到相机下方画外，整张图不出现任何阶梯、台沿、栏杆、台座边缘或高低落差。刑架底座位置、比例不改，Claude就在与刑架完全同一连续平台平面。胸腰景别不变，不必露脚。Claude表情、低看画前下方的眼神、发型花饰、焦边白金裙、窗光、空刑架和打开的束具全部保持。不添加人物或火光，不生成文字。输出同一16:9单幅电影首帧。",
+      "reference_paths": [
+        "E:/projects/内容创作/故事短片/白米饭/视频制作/Metaso-H3-v003/修订参考/GB029-CY029E1-firstframe-r002.png"
+      ],
+      "mode": "built-in image_gen edit",
+      "output_hint": "Generated images are saved to C:\\Users\\36322\\.codex\\generated_images\\01a17e8b-d8e9-7733-a1f5-7d32a2f1b3f9 as C:\\Users\\36322\\.codex\\generated_images\\01a17e8b-d8e9-7733-a1f5-7d32a2f1b3f9\\exec-bf4311b9-8ab6-407d-88a4-5b8821fc8100.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "status": "generated"
+    },
+    {
+      "shot": "CY029E4-r002",
+      "prompt": "保持这张16:9动漫电影首帧人物、脸、衣服、抱姿、手指、石柱和台阶构图完全不变，只清理中远景背景。背景左侧祭坛/台阶顶部目前有几颗像蜡烛火苗的微小暖亮点，全部去掉，背景所有灯烛、灯盏、火盆必须熄灭且无红橙黄色发光点，只留冷蓝月光和冷色湿石反射。中远景不要新增可辨的人、装饰小人或人形雕塑。保留小鱼低看衣襟、闭嘴、千问左臂抱护、头部画外的起始状态。无任何火种、火花、火球。输出原比例完整16:9单幅，不拼图无文字。",
+      "reference_paths": [
+        "E:/projects/内容创作/故事短片/白米饭/视频制作/Metaso-H3-v003/修订参考/GB029-CY029E4-firstframe-r001.png"
+      ],
+      "mode": "built-in image_gen edit",
+      "output_hint": "Generated images are saved to C:\\Users\\36322\\.codex\\generated_images\\01a17e8b-d8e9-7733-a1f5-7d32a2f1b3f9 as C:\\Users\\36322\\.codex\\generated_images\\01a17e8b-d8e9-7733-a1f5-7d32a2f1b3f9\\exec-1e8aaad1-bba1-42be-885e-afec9e297570.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "status": "generated"
+    }
+  ],
+  "moderation_event": {
+    "shot": "CY029E4 initial",
+    "category": "sexual",
+    "request_id": "7df72ad7-2721-4a71-981c-453b41b23f17",
+    "resolution": "正常全衣着保护镜头被输入审查拒绝；用明确全衣着、日常抱护语义重述同一非性请求，随后正常出图。"
+  }
+}

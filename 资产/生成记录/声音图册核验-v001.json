@@ -1,0 +1,33 @@
+{
+  "local_audio_players": 6,
+  "playback_progressed": true,
+  "durations": [
+    {
+      "src": "%E5%A3%B0%E9%9F%B3/BGM/BGM-HOPE-001.mp3",
+      "duration": 342.600544
+    },
+    {
+      "src": "%E5%A3%B0%E9%9F%B3/BGM/BGM-DESCENT-001.mp3",
+      "duration": 137.693152
+    },
+    {
+      "src": "%E5%A3%B0%E9%9F%B3/BGM/BGM-TITAN-001.mp3",
+      "duration": 175.756735
+    },
+    {
+      "src": "%E5%A3%B0%E9%9F%B3/%E8%AF%95%E9%9F%B3/VOICE-DS-v001.flac",
+      "duration": 2.56
+    },
+    {
+      "src": "%E5%A3%B0%E9%9F%B3/%E8%AF%95%E9%9F%B3/VOICE-GPT-v001.flac",
+      "duration": 2.08
+    },
+    {
+      "src": "%E5%A3%B0%E9%9F%B3/%E8%AF%95%E9%9F%B3/VOICE-CLAUDE-v001.flac",
+      "duration": 1.76
+    }
+  ],
+  "mobile_overflow": false,
+  "javascript_errors": [],
+  "listening_review": "pending; browser decoding and playback are not human listening"
+}

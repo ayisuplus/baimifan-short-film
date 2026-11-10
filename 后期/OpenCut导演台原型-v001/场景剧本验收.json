@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-31",
+  "entry": "http://127.0.0.1:8978/editor/79d4ad8a-fc76-49dc-9797-913ded176ff2",
+  "product": "OpenCut 创作增强原型；导演台仅作内部兼容实现",
+  "scene": "S02",
+  "editable_shots": [
+    "CY006",
+    "CY007",
+    "CY008"
+  ],
+  "revision": 12,
+  "initial_scene_revision": 10,
+  "source_hash_checks": {
+    "后期/制作工作台-v025/工作台数据.json": true,
+    "剧本/白米饭-场景剧本-v0.69.md": true,
+    "视频制作/LibTV-H3-v001/GB004-冻结执行.json": true,
+    "剧本/白米饭-日语对白-v0.69.json": true,
+    "后期/独立剪辑-v017/剪辑清单.json": true,
+    "后期/宫殿调色-v014/after.json": true,
+    "后期/迁回达芬奇-v033/迁移剪辑清单.json": true
+  },
+  "formal_blocks_restored": true,
+  "prompt_unchanged": true,
+  "reinitialize_is_noop": true,
+  "ui_checks": [
+    "OpenCut 同时修改动作与对白并保存到 revision 11，另一窗口读回一致",
+    "同场切镜后恢复未保存动作",
+    "另一窗口保存 revision 12 后，脏编辑显示冲突且禁止未核对覆盖",
+    "使用最新保存稿后恢复正式正文，测试内容已清理",
+    "整场连读包含原剧本前后文和三个当前镜头段落"
+  ],
+  "tests_passed": 43,
+  "compatibility_projects": [
+    "白米饭 133 镜",
+    "未来女孩林知夏 21 镜"
+  ],
+  "limitations": [
+    "S02 前后文为只读来源，当前仅三个镜头可编辑",
+    "仍使用 Python 保存模块和嵌入式表单，Rust 原生化未完成",
+    "文字保存不会生成或自动采用声音和画面",
+    "OpenCut 全仓 TypeScript 检查仍有既有错误"
+  ]
+}

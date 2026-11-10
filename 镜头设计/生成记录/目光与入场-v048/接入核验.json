@@ -1,0 +1,39 @@
+{
+  "version": "v048",
+  "shots": 131,
+  "total_seconds": 431.5,
+  "images": 18,
+  "local_eye_skin_color_images": 15,
+  "added_shots": [
+    "CY024R"
+  ],
+  "changed_old_duration_and_dialogue_only": [
+    "CY024K0",
+    "CY024K1A"
+  ],
+  "old_candidates_unchanged": 130,
+  "music_file_hashes_verified": 55,
+  "all_subtitles_within_budget": true,
+  "author_approved_chant": "隐于月背的暗影啊，请循此刃的银辉，为我开启通往彼端的门扉——月影渡！",
+  "old_page_snapshot_matches": true,
+  "image_input_hashes_verified": true,
+  "dynamic_execution": "not_produced",
+  "new_chant_audio": "not_produced",
+  "browser": {
+    "version": "v0.48",
+    "marks": "5 / 6 段有选曲标记 · 5 / 131 镜已标记",
+    "verified_subtitles": [
+      "R:隐于月背的暗影啊，",
+      "K0:请循此刃的银辉，",
+      "K0:为我开启通往彼端的门扉——",
+      "K1:无字幕，破窗留白",
+      "K1A:月影渡！"
+    ],
+    "console_errors": [],
+    "screenshot": "后期/目光与入场-v048/预演核验.png"
+  },
+  "independent_static_review": [
+    "本轮图像复核.md：11张",
+    "前半修图复核.md：7张"
+  ]
+}

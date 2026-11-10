@@ -1,0 +1,61 @@
+{
+  "batch": {
+    "attempt_id": "CY024A0-v014-rescue-carry-r2",
+    "batch_number": 17,
+    "batch_id": "GB017",
+    "shot_id": "CY024A0-v014-rescue-carry-r1",
+    "duration": 5,
+    "prompt": "5秒，精细日式二维动画单镜，保持两张参考同一千问与小鱼。千问必须是图1完整原服装：白色贴颈高领盘扣内衫，胸口完全遮盖；深蓝紫外袍与及踝白蓝长裙，不能改低胸、短裙、露腹或过膝袜。花形帽饰、蓝紫编发、右手低持合拢折扇。小鱼是图2鲸帽蓝发宝宝。场景为冷蓝窗哥特教堂入口侧石柱旁，背景远处黑袍人已经缩手。固定同侧中全景。\n0至1秒孩子双脚着地，千问屈膝从她左侧贴近，用左前臂从孩子臀部下方横穿，左手清楚托住孩子外侧大腿；1至2秒托臀手保持接触，千问起身，小鱼双脚此时才离地落在她左髋，孩子靠住肩头；2至4秒千问连续后退两步，进入画面左侧宽石柱背后的遮蔽区，柱体遮住她们半身；4至5秒停稳。右手合扇始终垂在体侧，不参与抱持。左臂承重全过程可追踪，不能让孩子自行浮起，不换抱，不长大。只拍两个人，不出现GPT，不改教堂为王宫，无对白字幕音乐，无3D建模。",
+    "references": [
+      {
+        "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+        "role": "reference_image",
+        "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+        "visually_reviewed": true,
+        "purpose": "千问完整原服装，贴颈白色盘扣内衫和及踝长裙必须逐项保留"
+      },
+      {
+        "path": "镜头设计/图像/张力与机位-v060/CY024A0-v060-r2.png",
+        "sha256": "6088c303b96ecae73362067edd642638989dc293b941da6a1fb32a7c013b0b1d",
+        "role": "reference_image",
+        "purpose": "千问和小鱼脸型服饰与教堂冷蓝光；构图重新取中景",
+        "visually_reviewed": true
+      }
+    ],
+    "estimated_credits": 51.0,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "r1完整服装漂移，加入已逐张核验同画风原全身设定卡并明确托臀再离地",
+    "repair_of": "v0.69 rescue gap",
+    "quality_gate": "single action, consistent identity and axis, visible contact and weight"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "5秒，精细日式二维动画单镜，保持两张参考同一千问与小鱼。千问必须是图1完整原服装：白色贴颈高领盘扣内衫，胸口完全遮盖；深蓝紫外袍与及踝白蓝长裙，不能改低胸、短裙、露腹或过膝袜。花形帽饰、蓝紫编发、右手低持合拢折扇。小鱼是图2鲸帽蓝发宝宝。场景为冷蓝窗哥特教堂入口侧石柱旁，背景远处黑袍人已经缩手。固定同侧中全景。\n0至1秒孩子双脚着地，千问屈膝从她左侧贴近，用左前臂从孩子臀部下方横穿，左手清楚托住孩子外侧大腿；1至2秒托臀手保持接触，千问起身，小鱼双脚此时才离地落在她左髋，孩子靠住肩头；2至4秒千问连续后退两步，进入画面左侧宽石柱背后的遮蔽区，柱体遮住她们半身；4至5秒停稳。右手合扇始终垂在体侧，不参与抱持。左臂承重全过程可追踪，不能让孩子自行浮起，不换抱，不长大。只拍两个人，不出现GPT，不改教堂为王宫，无对白字幕音乐，无3D建模。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115144282224386048"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115145395969257472"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 5,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者要求直接修复教堂段，密塔剩余额度优先，不足转本地ComfyUI；现余额971.3，经控制台实时核实。保留历史，不充值，不导出。"
+}

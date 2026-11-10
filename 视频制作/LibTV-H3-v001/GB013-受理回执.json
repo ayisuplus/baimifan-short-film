@@ -1,0 +1,243 @@
+{
+  "batch_id": "GB013",
+  "node_id": "v-QHVfr6WhnF",
+  "quoted_credits": 196,
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-QHVfr6WhnF",
+    "node": {
+      "id": "v-QHVfr6WhnF",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第16批 · 黑焰、列阵与破门 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Mixed 2}} =教主四视图：同一人四角度，身份服饰保持\n{{Mixed 1}} =DeepSeek四视图：同一人四角度，身份服饰保持\n{{Mixed 3}} =圣骑士四视图：同一人四角度，身份服饰保持\n{{Mixed 4}} =ChatGPT四视图：同一人四角度，身份服饰保持\n{{Mixed 5}} =构图状态，非强制首帧\n{{Mixed 6}} =构图状态，非强制首帧\n{{Mixed 7}} =构图状态，非强制首帧\n{{Mixed 8}} =构图状态，非强制首帧\n{{Mixed 9}} =构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，14秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–4s {{Mixed 5}} ；画内:教主、教徒、DeepSeek。接同一持续火势，近景可见的人物变成火幕完全遮蔽；吟唱保持连续。中殿后部低位大全景缓缓后移，拉开教徒环列和火海尺度，始终不越过火幕寻找Claude。远景用连续黑焰完全遮住Claude；教徒环列吟唱，普通火盆保持橙色。 人物:Claude完全被黑焰遮蔽，不出现可辨认身体或脸。 声音:教徒低沉齐声吟唱、殿内混响与柴火爆裂；不添加可辨歌词。跨切外景 {{Mixed 6}} 后由风声压低，回室内 {{Mixed 8}} 恢复， {{Mixed 9}} 破门时骤停。\n[Shot 2] 4–7s {{Mixed 6}} ；画内:圣骑士。切门外同一时刻，室内吟唱变闷被夜风压低；甲靴声从后方接近，不提前揭GPT。门外低位中远景轻向后移给骑士越前，再随两列分流作小幅横向构图调整，中央通道保持空。两列骑士从后方越前，分往两翼列队，侧口岗哨转身警戒，中央留空。 人物:不提前露GPT。 声音:甲靴齐步由后及前、甲片轻碰；最后两声枪尾触地接下一镜脚步。承上镜室内吟唱在外景压低，保留旗帜风声。\n[Shot 3] 7–10s {{Mixed 7}} ；画内:ChatGPT、圣骑士。由枪尾触地节奏接银白鞋跟，不再重演骑士列队；沿留出的中路前进。侧后低机位腿部平行跟拍两步，构图上缘严格停在腰下，保留两翼甲靴与枪杆作尺度。只见GPT双腿、银白鞋、裙摆与尾部向前走过列队，头脸始终画外。 人物:GPT只露腰下腿、裙摆、单尾；骑士可见甲靴与枪杆。 声音:两步清晰鞋跟声、衣料掠动，不提前放踹门重音。\n[Shot 4] 10–12s {{Mixed 8}} ；画内:环境。从门外脚步切门内对应位置，吟唱恢复清楚；震动是破门动作的预备，不另演一次完整撞门。门内中央通道远景刻意稳住，以门缝冷光和门板的一次震动建立预兆，不穿门展示来者。火光掠过空旷的中央通道，尽头正门已经关紧。冷光从门缝漏入，门板忽然一震。 人物:门内环境空镜，教徒吟唱和门外动静画外。 声音:回到室内恢复清楚的无词集体吟唱与殿内混响，门板震动，接 {{Mixed 9}} 破门时吟唱骤停。\n[Shot 5] 12–14s {{Mixed 9}} ；画内:ChatGPT。接门板同一次震动完成一次踹开，破门重音此刻落下，吟唱立即断掉。摄影机贴近门内侧，从右上踢来的鞋底与向镜头掠过的门板形成斜线；撞击轻震后定住，脸不必入画。GPT从门外以右脚一次踹开门扇。鞋底撞击处木料破裂，门板向殿内掠过，冷月光从裂口涌入；木屑沿受力方向飞散。她收脚落地跨入，2秒内完成，不重复踹。下一镜才完整揭示GPT与八位援军。 调度:摄影机贴近门内侧，从右上踢来的鞋底与向镜头掠过的门板形成斜线；撞击轻震后定住，脸不必入画。 本图是撞击瞬间，不是已完成破门的首帧。前景踢腿为右腿且保留腿饰；后景支撑左腿由长裙遮住，最多露鞋尖。脸在画外，力量由门板与碎屑体现。 注意:本图是撞击瞬间，不是已完成破门的首帧。前景踢腿为右腿且保留腿饰；后景支撑左腿由长裙遮住，最多露鞋尖。脸在画外，力量由门板与碎屑体现。 人物:GPT只见鞋、腿和衣摆，完整面容与队伍下一镜揭示。 声音:一次干脆破门声，教徒吟唱立刻切断。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png",
+              "label": "CHAR-DEEPSEEK-TURN-v003 · H3留白适配"
+            },
+            {
+              "nodeId": "i-rFc0P8dawG",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/fa4f10b325b23f5ceaddd2850fbe68978ba0c04d.png",
+              "label": "CHAR-PRIEST-TURN-v001"
+            },
+            {
+              "nodeId": "i-KjFmn9fH3P",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/461e6b5fb5c0520134c1af43198c6212fb916260.png",
+              "label": "CHAR-PALADIN-v001"
+            },
+            {
+              "nodeId": "i-07HfqKjhJ7",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d74110bde0f98a0b44ed3c518d48eaea282c1a87.png",
+              "label": "CHAR-GPT-TURN-v001-h3-pad"
+            },
+            {
+              "nodeId": "i-lQgWPU0LAW",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/61ac7c385b6bef27e7af16b6ed059dc89b343ba3.png",
+              "label": "CY022B2-v036-r1"
+            },
+            {
+              "nodeId": "i-AHhtjic4WU",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/03926efaa901a541cef873b44790576e9231dc32.png",
+              "label": "CY022B1-v035-r1"
+            },
+            {
+              "nodeId": "i-l5ihdqFDBm",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/3bd5b620bbd0113a98b70563581099470c6e5099.png",
+              "label": "CY026-v035-r1"
+            },
+            {
+              "nodeId": "i-bd6oeNGJcq",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/05ca84e63525c64accfed4851fb61b23ced94842.png",
+              "label": "CY022C-v014-r3"
+            },
+            {
+              "nodeId": "i-HmcgOpWenS",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/2072e64337ac97a565c62569d6e213de056059cc.png",
+              "label": "CY023-v062-r2"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 14
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png",
+              "label": "CHAR-DEEPSEEK-TURN-v003 · H3留白适配",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-rFc0P8dawG",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/fa4f10b325b23f5ceaddd2850fbe68978ba0c04d.png",
+              "label": "CHAR-PRIEST-TURN-v001",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-KjFmn9fH3P",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/461e6b5fb5c0520134c1af43198c6212fb916260.png",
+              "label": "CHAR-PALADIN-v001",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-07HfqKjhJ7",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d74110bde0f98a0b44ed3c518d48eaea282c1a87.png",
+              "label": "CHAR-GPT-TURN-v001-h3-pad",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-lQgWPU0LAW",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/61ac7c385b6bef27e7af16b6ed059dc89b343ba3.png",
+              "label": "CY022B2-v036-r1",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-AHhtjic4WU",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/03926efaa901a541cef873b44790576e9231dc32.png",
+              "label": "CY022B1-v035-r1",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-l5ihdqFDBm",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/3bd5b620bbd0113a98b70563581099470c6e5099.png",
+              "label": "CY026-v035-r1",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-bd6oeNGJcq",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/05ca84e63525c64accfed4851fb61b23ced94842.png",
+              "label": "CY022C-v014-r3",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-HmcgOpWenS",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/2072e64337ac97a565c62569d6e213de056059cc.png",
+              "label": "CY023-v062-r2",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-JAT4Pva730",
+            "i-rFc0P8dawG",
+            "i-KjFmn9fH3P",
+            "i-07HfqKjhJ7",
+            "i-lQgWPU0LAW",
+            "i-AHhtjic4WU",
+            "i-l5ihdqFDBm",
+            "i-bd6oeNGJcq",
+            "i-HmcgOpWenS"
+          ],
+          "mixedListOrder": [
+            "i-JAT4Pva730",
+            "i-rFc0P8dawG",
+            "i-KjFmn9fH3P",
+            "i-07HfqKjhJ7",
+            "i-lQgWPU0LAW",
+            "i-AHhtjic4WU",
+            "i-l5ihdqFDBm",
+            "i-bd6oeNGJcq",
+            "i-HmcgOpWenS"
+          ]
+        },
+        "_updatedAtMs": 1793121426000,
+        "_lastAppliedFullyAtMs": 1793121426000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        },
+        "taskInfo": {
+          "loading": true,
+          "taskId": "20261028011703263549236",
+          "status": 0,
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-QHVfr6WhnF",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793121460571
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805"
+        }
+      },
+      "position": {
+        "x": 5592,
+        "y": 3696
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-QHVfr6WhnF",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

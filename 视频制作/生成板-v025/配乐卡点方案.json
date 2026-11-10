@@ -1,0 +1,724 @@
+{
+  "source_sha256": "c50ebf637c25285f32a13c7d9da0347355b172800ab7977157a23f9a3a54b253",
+  "status": "actual_edit_candidate_pending_listening",
+  "method": "稳定镜号动作锚对位；原曲时码来自实际BGM剪辑，不把所有动作点称为重拍。",
+  "batches": {
+    "GB001": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 12.98,
+          "action_zh": "饭碗递出后切近景，不重递",
+          "action_en": "Match-cut to the offered bowl",
+          "music_intent": "轻落点：乐句轻收，不加打击音；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 22.54119,
+          "anchor_shot": "CY003A",
+          "film_time": 12.98,
+          "music_id": "BGM-CY-MT-03"
+        }
+      ]
+    },
+    "GB002": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 4.69273,
+          "action_zh": "切入饭碗被掀翻镜头",
+          "action_en": "Cut to the bowl being knocked away",
+          "music_intent": "转折重音候选；随后给火祭消息留出空间；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 29.23392,
+          "anchor_shot": "CY003C",
+          "film_time": 19.67273,
+          "music_id": "BGM-CY-MT-03"
+        }
+      ]
+    },
+    "GB003": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 5.000001,
+          "action_zh": "GPT画外允许入内，守卫开始让路",
+          "action_en": "GPT permits entry; guards begin clearing the way",
+          "music_intent": "弱起进入，不用重击抢对白；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 16.84939,
+          "anchor_shot": "CY004D",
+          "film_time": 34.67273,
+          "music_id": "BGM-CY-KH-05"
+        }
+      ]
+    },
+    "GB004": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 6.000001,
+          "action_zh": "切到GPT拒绝的反应",
+          "action_en": "Cut to GPT refusing",
+          "music_intent": "乐句收窄，避让对白；不把拒绝做成暴怒重击；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 28.84939,
+          "anchor_shot": "CY007",
+          "film_time": 46.67273,
+          "music_id": "BGM-CY-KH-05"
+        }
+      ]
+    },
+    "GB004M": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "同一王宫曲连续，整段内心戏压低7dB，句间不弹回。",
+      "points": []
+    },
+    "GB005": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 5.700001,
+          "action_zh": "右手放下后开始轻搓双手",
+          "action_en": "Begin the gentle hand rub after lowering the right hand",
+          "music_intent": "低动态延续；这一点是表演节奏，不强加重拍；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 57.46939,
+          "anchor_shot": "CY010",
+          "film_time": 75.29273,
+          "music_id": "BGM-CY-KH-05"
+        },
+        {
+          "time": 8.000001,
+          "action_zh": "切到肩后，双手分开后准备起身",
+          "action_en": "Cut behind the shoulder; separate hands to begin rising",
+          "music_intent": "情绪开始转向；音乐不在切批处重启；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 59.76939,
+          "anchor_shot": "CY009A",
+          "film_time": 77.59273,
+          "music_id": "BGM-CY-KH-05"
+        }
+      ]
+    },
+    "GB006": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 4.000001,
+          "action_zh": "进入鲸帽卡住石沿的镜头",
+          "action_en": "Cut to the hat catching the stone edge",
+          "music_intent": "用轻悬念脉冲；接触声前景；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 35.14893,
+          "anchor_shot": "CY011",
+          "film_time": 87.59273,
+          "music_id": "BGM-CY-HP7-02"
+        }
+      ]
+    },
+    "GB007": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 10.000001,
+          "action_zh": "转入试锁和拉链动作",
+          "action_en": "Begin checking the lock and chain",
+          "music_intent": "弱拍延续，金属声清晰；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 54.14893,
+          "anchor_shot": "CY016",
+          "film_time": 106.59273,
+          "music_id": "BGM-CY-HP7-02"
+        }
+      ]
+    },
+    "GB008": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 9.980001,
+          "action_zh": "手停在锁扣上，脚步先到",
+          "action_en": "Hand stops at the lock as footsteps arrive",
+          "music_intent": "压低配乐，给画外脚步留白；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 69.12893,
+          "anchor_shot": "CY016B",
+          "film_time": 121.57273,
+          "music_id": "BGM-CY-HP7-02"
+        }
+      ]
+    },
+    "GB008R2": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": []
+    },
+    "GB009": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 2.000001,
+          "action_zh": "进入被推开后仍想阻止的镜头",
+          "action_en": "Cut to the push and continued resistance",
+          "music_intent": "第一次压力重音；跌倒接触音独立处理；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 159.58762,
+          "anchor_shot": "CY017",
+          "film_time": 131.57273,
+          "music_id": "BGM-CY-RZ-01"
+        }
+      ]
+    },
+    "GB010": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 3.000001,
+          "action_zh": "切入火把交接",
+          "action_en": "Cut to the torch handover",
+          "music_intent": "持续加压，别盖过教主台词；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 173.58762,
+          "anchor_shot": "CY021A",
+          "film_time": 145.57273,
+          "music_id": "BGM-CY-RZ-01"
+        }
+      ]
+    },
+    "GB011-1": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 1.000001,
+          "action_zh": "Claude开口保护小鱼",
+          "action_en": "Claude begins her protective shout",
+          "music_intent": "压乐让台词突出；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 185.48762,
+          "anchor_shot": "CY020",
+          "film_time": 157.47273,
+          "music_id": "BGM-CY-RZ-01"
+        },
+        {
+          "time": 8.000001,
+          "action_zh": "切入小鱼失守落地",
+          "action_en": "Cut to the child losing balance and falling",
+          "music_intent": "落地段重音候选；保留真实落地声；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 192.48762,
+          "anchor_shot": "CY020A",
+          "film_time": 164.47273,
+          "music_id": "BGM-CY-RZ-01"
+        }
+      ]
+    },
+    "GB011-2": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": []
+    },
+    "GB012": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 5.000001,
+          "action_zh": "进入点燃高柴镜头",
+          "action_en": "Begin the kindling ignition shot",
+          "music_intent": "燃起段开始推升，随火势发展；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 205.28762,
+          "anchor_shot": "CY022",
+          "film_time": 177.27273,
+          "music_id": "BGM-CY-RZ-01"
+        }
+      ]
+    },
+    "GB013": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 10.000001,
+          "action_zh": "破门前静默开始",
+          "action_en": "Begin the pre-breach stillness",
+          "music_intent": "暂时抽掉音乐，保留空间张力；此处明确停乐，用拟音承担动作。",
+          "source_seconds": null,
+          "anchor_shot": "CY022C",
+          "film_time": 194.27273,
+          "music_id": null
+        },
+        {
+          "time": 12.000001,
+          "action_zh": "切入破门动作",
+          "action_en": "Cut into the door breach",
+          "music_intent": "破门段强落点；真实撞击时刻待动态验收；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 38.38259,
+          "anchor_shot": "CY023",
+          "film_time": 196.27273,
+          "music_id": "BGM-CY-FEAR-001"
+        }
+      ]
+    },
+    "GB014": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 3.000001,
+          "action_zh": "教主回身，Kimi画外咏唱将起",
+          "action_en": "Cut to the leader turning; Kimi chant follows",
+          "music_intent": "切换Kimi专曲；声线跨批延续；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 4.91141,
+          "anchor_shot": "CY024R",
+          "film_time": 201.27273,
+          "music_id": "BGM-CY-FZ-02"
+        }
+      ]
+    },
+    "GB014A": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 1e-06,
+          "action_zh": "月光开始流入，尚无人形",
+          "action_en": "Moonlight starts flowing in before any silhouette",
+          "music_intent": "沿用上批专曲原位置，不从头重播；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 8.41141,
+          "anchor_shot": "CY024K00",
+          "film_time": 204.77273,
+          "music_id": "BGM-CY-FZ-02"
+        },
+        {
+          "time": 4.000001,
+          "action_zh": "完成四秒显形，切近景举刃",
+          "action_en": "After four seconds of formation, cut closer to the blade",
+          "music_intent": "柔和乐句落点；避让随后咏唱；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 12.41141,
+          "anchor_shot": "CY024K0",
+          "film_time": 208.77273,
+          "music_id": "BGM-CY-FZ-02"
+        }
+      ]
+    },
+    "GB015-1": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 7.000001,
+          "action_zh": "循刃瞬移镜头开始",
+          "action_en": "Begin the blade-linked arrival shot",
+          "music_intent": "爆发落点候选；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 27.70141,
+          "anchor_shot": "CY024K2",
+          "film_time": 224.06273,
+          "music_id": "BGM-CY-FZ-02"
+        }
+      ]
+    },
+    "GB015-2": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 1e-06,
+          "action_zh": "进入暗月闭合与挡法术镜头",
+          "action_en": "Begin the dark-moon closure shot",
+          "music_intent": "第二次展开，接续同一乐句；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 32.70141,
+          "anchor_shot": "CY024K3",
+          "film_time": 229.06273,
+          "music_id": "BGM-CY-FZ-02"
+        }
+      ]
+    },
+    "GB016-1": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 3.000001,
+          "action_zh": "骑士入场，恢复主救援配乐",
+          "action_en": "Knights enter; cut out of the dome interior",
+          "music_intent": "从Kimi专曲转回救援主题，需乐句剪接；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 45.99873,
+          "anchor_shot": "CY023A",
+          "film_time": 236.06273,
+          "music_id": "BGM-CY-FEAR-001"
+        }
+      ]
+    },
+    "GB016-2": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": []
+    },
+    "GB017": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": []
+    },
+    "GB017R2": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 1e-06,
+          "action_zh": "切到月背两路救援的约定",
+          "action_en": "Cut to the two-route rescue agreement",
+          "music_intent": "降低动态，完整听清分工；此处明确停乐，用拟音承担动作。",
+          "source_seconds": null,
+          "anchor_shot": "CY026D",
+          "film_time": 254.90273,
+          "music_id": null
+        }
+      ]
+    },
+    "GB018": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 7.200001,
+          "action_zh": "进入展翼离地镜头",
+          "action_en": "Begin the wing-spread and lift-off shot",
+          "music_intent": "开始推升；11.40秒咏唱进入后让出频段；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 28.64188,
+          "anchor_shot": "CY024A",
+          "film_time": 271.26273,
+          "music_id": "BGM-CY-FEAR-001"
+        }
+      ]
+    },
+    "GB019": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 1.000001,
+          "action_zh": "切到千问开扇",
+          "action_en": "Cut to Qwen opening the fan",
+          "music_intent": "器械声落点；咏唱连续，不另开一拍；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 36.89188,
+          "anchor_shot": "CY024A10",
+          "film_time": 279.51273,
+          "music_id": "BGM-CY-FEAR-001"
+        },
+        {
+          "time": 4.000001,
+          "action_zh": "进入半空截击镜头",
+          "action_en": "Begin the midair interception shot",
+          "music_intent": "短促动作重音候选；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 39.89188,
+          "anchor_shot": "CY024A12",
+          "film_time": 282.51273,
+          "music_id": "BGM-CY-FEAR-001"
+        }
+      ]
+    },
+    "GB020-1": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": []
+    },
+    "GB020-1R2": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": []
+    },
+    "GB020-2": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 1e-06,
+          "action_zh": "切入水龙俯冲镜头",
+          "action_en": "Cut to the water dragon diving",
+          "music_intent": "乐句推进，不提前播放破顶撞击重音；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 68.65188,
+          "anchor_shot": "CY024A7",
+          "film_time": 311.27273,
+          "music_id": "BGM-CY-FEAR-001"
+        }
+      ]
+    },
+    "GB021": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 1e-06,
+          "action_zh": "水龙破顶掠过镜头",
+          "action_en": "Water dragon breaches the roof past the camera",
+          "music_intent": "强落点目标，衔接前批俯冲；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 74.24188,
+          "anchor_shot": "CY024A5A",
+          "film_time": 316.86273,
+          "music_id": "BGM-CY-FEAR-001"
+        }
+      ]
+    },
+    "GB022-1": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 6.816687,
+          "action_zh": "结印镜中咏唱暂停",
+          "action_en": "Pause the incantation during the seal shot",
+          "music_intent": "按新版祈愿词尾至术名起声收音乐0.8秒，后期保留水流；此处明确停乐，用拟音承担动作。",
+          "source_seconds": null,
+          "anchor_shot": "CY024A5",
+          "film_time": 335.259416,
+          "music_id": null
+        },
+        {
+          "time": 12.000001,
+          "action_zh": "解印，开始前指",
+          "action_en": "Release the seal and begin pointing",
+          "music_intent": "攻击启动落点；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 99.33497,
+          "anchor_shot": "CY024A5B",
+          "film_time": 340.44273,
+          "music_id": "BGM-CY-FEAR-001"
+        }
+      ]
+    },
+    "GB022-2": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 1e-06,
+          "action_zh": "切低机位撞盾镜头",
+          "action_en": "Cut to the low-angle shield collision shot",
+          "music_intent": "撞击高潮段；不可把切镜当成已完成碰撞；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 100.83497,
+          "anchor_shot": "CY024B",
+          "film_time": 341.94273,
+          "music_id": "BGM-CY-FEAR-001"
+        }
+      ]
+    },
+    "GB023": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 3.000001,
+          "action_zh": "进入浅水空殿余波",
+          "action_en": "Cut to the shallow-water aftermath",
+          "music_intent": "重音后退潮，拉开动态；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 108.83497,
+          "anchor_shot": "CY024B3",
+          "film_time": 349.94273,
+          "music_id": "BGM-CY-FEAR-001"
+        }
+      ]
+    },
+    "GB024": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 5.100001,
+          "action_zh": "GPT冷淡回应",
+          "action_en": "GPT delivers the curt reply",
+          "music_intent": "压乐让短句突出；此处明确停乐，用拟音承担动作。",
+          "source_seconds": null,
+          "anchor_shot": "CY027B",
+          "film_time": 364.04273,
+          "music_id": null
+        },
+        {
+          "time": 6.900001,
+          "action_zh": "开始白紫水龙显形",
+          "action_en": "Begin the white-violet dragon transformation",
+          "music_intent": "变身新起势，不覆盖前一句；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 38.38259,
+          "anchor_shot": "CY027B1",
+          "film_time": 365.84273,
+          "music_id": "BGM-CY-FEAR-001"
+        }
+      ]
+    },
+    "GB025": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 5.000001,
+          "action_zh": "进入省略激战的天空镜头",
+          "action_en": "Begin the sky battle ellipsis",
+          "music_intent": "保留远处冲击；不逐次闪光机械卡拍；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 50.38259,
+          "anchor_shot": "CY027E",
+          "film_time": 377.84273,
+          "music_id": "BGM-CY-FEAR-001"
+        },
+        {
+          "time": 9.000001,
+          "action_zh": "切到雨滴落入殿内",
+          "action_en": "Cut to rain falling inside",
+          "music_intent": "音乐回落，雨滴前景；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 54.38259,
+          "anchor_shot": "CY027E1",
+          "film_time": 381.84273,
+          "music_id": "BGM-CY-FEAR-001"
+        }
+      ]
+    },
+    "GB026": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 6.000001,
+          "action_zh": "切到GPT垂眼，胜负已分",
+          "action_en": "Cut to GPT looking down after the victory",
+          "music_intent": "收束战斗乐句，为钥匙声留空间；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 65.38259,
+          "anchor_shot": "CY027F",
+          "film_time": 392.84273,
+          "music_id": "BGM-CY-FEAR-001"
+        }
+      ]
+    },
+    "GB027": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 3.000001,
+          "action_zh": "开始用钥匙解踝链",
+          "action_en": "Begin unlocking the ankle chain",
+          "music_intent": "低动态或留白，锁扣声成为落点；此处明确停乐，用拟音承担动作。",
+          "source_seconds": null,
+          "anchor_shot": "CY027F1",
+          "film_time": 401.84273,
+          "music_id": null
+        }
+      ]
+    },
+    "GB028": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 4.170001,
+          "action_zh": "Claude开始微光咏唱",
+          "action_en": "Claude begins the faint-light incantation",
+          "music_intent": "柔和抬起；此处明确停乐，用拟音承担动作。",
+          "source_seconds": null,
+          "anchor_shot": "CY028B",
+          "film_time": 417.21273,
+          "music_id": null
+        },
+        {
+          "time": 8.240001,
+          "action_zh": "切到父亲即将打断",
+          "action_en": "Cut to the impending interruption by her father",
+          "music_intent": "压乐或停乐，让8.91秒呼唤进入；此处明确停乐，用拟音承担动作。",
+          "source_seconds": null,
+          "anchor_shot": "CY029",
+          "film_time": 421.28273,
+          "music_id": null
+        }
+      ]
+    },
+    "GB029": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 1e-06,
+          "action_zh": "Claude仍选择继续咏唱",
+          "action_en": "Claude chooses to continue the incantation",
+          "music_intent": "从上一批留白后重新抬起；不当新歌开头；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 79.59497,
+          "anchor_shot": "CY029E1",
+          "film_time": 427.28273,
+          "music_id": "BGM-CY-FEAR-001"
+        }
+      ]
+    },
+    "GB030-1": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 6.360001,
+          "action_zh": "切到火种触木燃起镜头",
+          "action_en": "Cut to the spark igniting the wood",
+          "music_intent": "动作重音候选；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 99.33497,
+          "anchor_shot": "CY029B",
+          "film_time": 447.02273,
+          "music_id": "BGM-CY-FEAR-001"
+        },
+        {
+          "time": 9.360001,
+          "action_zh": "Claude收手后脱力",
+          "action_en": "Claude weakens after withdrawing her hand",
+          "music_intent": "音乐回落，接抱动作和呼吸前景；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 102.33497,
+          "anchor_shot": "CY029C",
+          "film_time": 450.02273,
+          "music_id": "BGM-CY-FEAR-001"
+        }
+      ]
+    },
+    "GB030-2": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": []
+    },
+    "GB031": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 9.000001,
+          "action_zh": "切到数日后街市",
+          "action_en": "Cut to the market days later",
+          "music_intent": "切入结尾主题，完成场景转换；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 68.07329,
+          "anchor_shot": "CY031",
+          "film_time": 466.02273,
+          "music_id": "BGM-CY-TIME-001"
+        }
+      ]
+    },
+    "GB032": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 4.000001,
+          "action_zh": "切到这次接住勺子的手",
+          "action_en": "Cut to the hand accepting the spoon",
+          "music_intent": "轻落点回应片头，避免夸张撞击声；原曲已落入实际试听时间线，乐句待听审。",
+          "source_seconds": 77.07329,
+          "anchor_shot": "CY032A",
+          "film_time": 475.02273,
+          "music_id": "BGM-CY-TIME-001"
+        }
+      ]
+    },
+    "GB033": {
+      "status": "actual_edit_candidate_pending_listening",
+      "note": "动作点与实际配乐剪辑关联；停乐处用拟音，不生成BGM。",
+      "points": [
+        {
+          "time": 5.000001,
+          "action_zh": "结束配乐，只留街市和呼吸",
+          "action_en": "Music ends in post; keep market ambience and breathing",
+          "music_intent": "最后四秒明确无BGM；此前淡出区间待混音；此处明确停乐，用拟音承担动作。",
+          "source_seconds": null,
+          "anchor_shot": "CY034",
+          "film_time": 486.02273,
+          "music_id": null
+        }
+      ]
+    }
+  },
+  "source": "镜头设计/shot-plan-v0.65.json"
+}

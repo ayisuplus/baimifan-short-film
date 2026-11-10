@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-28",
+  "status": "独立候选审查；未提交视频、未改主队列",
+  "reviewer": "repair_candidates_audit",
+  "end_frame": {
+    "path": "视频制作/Metaso-H3-v003/修订参考/CY024K3-闭罩完全不透明终态-r001.png",
+    "sha256": "401c37b745307134666b7536faa93e788fdf8b4c8b020ae2275dd6df73d998db",
+    "generated_source": "C:/Users/36322/.codex/generated_images/01a17e8c-06eb-7720-a4d9-40e4b354bdc0/exec-0c0c5f80-ec5d-4eca-887a-14cabacd1e22.png",
+    "input": "视频制作/Metaso-H3-v003/修订参考/CY024K3-闭罩前-r002.png",
+    "input_sha256": "c80a01b22b0c1add10dee90e819fbb34110919d0ac609e6eb7725937faa270eb",
+    "prompt": "Precise edit to this exact 16:9 cinematic anime film frame. Keep the camera, framing, architecture, broken central stained glass, foreground cultists' positions and their hands/staff, floor reflections, outside firewood, and warm/cool lighting UNCHANGED. Change ONLY the center protected area: add a CLOSED COMPLETELY OPAQUE DEEP INDIGO DOME enclosing and hiding ALL of Kimi, Claude, the ENTIRE cross including its top, ankle footrest and both moon blades. The dome is a broad solid-surfaced hemisphere, with its base fully sealed against the central stone platform and its apex ABOVE the top of the cross. Its front surface is an opaque midnight-indigo magical shell with subtle flowing blue-black surface texture, like an opaque polished obsidian surface, no holes or gaps. Absolutely NOTHING inside the dome can be seen: no people, no silhouettes, no shadows of people, no cross, no hair, no limbs, no footrest, no inner fire. This is NOT a transparent force-field bubble, NOT blue glass, NOT a see-through aura, NOT a ring, NOT a band behind them. Draw the entire front of the dome as dark opaque material. The foreground cultists stay OUTSIDE and visible at the same screen positions; their amber energy remains concentrated on palms and staff tips, gathering ONLY. No projectiles, no light beams, no impacts yet. Burning wood remains OUTSIDE around the dome's left and right base, not visible through the dome. Do not move the camera or zoom; do not rearrange enemies; preserve all unobscured scenery exactly. This is the END FRAME after shield closure but BEFORE the first attack is fired. One image, no labels or text.",
+    "visual_review": [
+      "同轴线、同机位、前景四名教徒及其掌心/杖位置保留",
+      "深靛实体表面半球遮住Kimi、Claude、全部刑架和脚托，不见内部身影",
+      "基底与中央平台闭合，柴火在壳的外侧",
+      "敌人仍仅聚能，没有发射光束或命中点",
+      "中央破窗及侧窗、建筑透视保持"
+    ],
+    "decision": "静帧可作为闭罩末帧及受击镜首帧候选；动画必须重新核不透明与人物不穿出",
+    "proposed_split": [
+      {
+        "unit": "闭罩",
+        "effective_seconds": 2,
+        "request_seconds_proposal": 4,
+        "first_frame": "视频制作/Metaso-H3-v003/修订参考/CY024K3-闭罩前-r002.png",
+        "last_frame": "视频制作/Metaso-H3-v003/修订参考/CY024K3-闭罩完全不透明终态-r001.png",
+        "prompt": "4秒单镜，严格从给定首帧到给定末帧，同机位。只发生闭罩一个动作：Kimi右手小圆暗月刃向上划一次，深靛不透明壳自平台边缘向上合拢，完整遮住两人、刑架和脚托，最后达到末帧并短暂稳定。壳面是遮挡物，不是透明气泡；壳面所到之处立刻遮住后面的人与架。Claude始终锁在架上，闭合前不自由行走。两侧教徒保持已有聚能，不发射任何光束。燃木留外侧，镜头不穿壳、不推入。无新人物、无对白字幕。",
+        "edit_note": "待回片取得完整闭罩动作后再决定取段压为2秒；不可直接假设4秒均有动作或剪掉完成闭合的末态。"
+      },
+      {
+        "unit": "外壳受击",
+        "effective_seconds": 2,
+        "first_frame": "视频制作/Metaso-H3-v003/修订参考/CY024K3-闭罩完全不透明终态-r001.png",
+        "prompt": "只拍已完整闭合的不透明深靛外壳受击。保持唯一首帧的罩外机位与敌人位置。两侧前景教徒将掌心/杖端已聚能的琥珀光束短促射出，光束在完整罩面外侧停止，炸成短促火星，之后火星散落。外壳始终完整且完全不透明，内部没有任何可见人影、刑架或轮廓。不重新生成护罩、不打开、不透明化、不变成玻璃。两侧燃木在壳外。最后仍是完整暗壳，接硬切罩内试镣。无对白字幕。"
+      }
+    ]
+  },
+  "batch21_independent_review": {
+    "method": "CY024K4全0–4秒8fps并补3.8–4.458秒12fps；CY023A全0–4秒6fps，另看1秒与3.75秒原尺寸大帧。密帧视觉复核，不冒充连续实时播放、口型或音频验收。",
+    "CY024K4": {
+      "source": "视频制作/Metaso-H3-v003/产物/GB016-1-v003-CY024K4.mp4",
+      "sha256": "83c3f84d9a292c06ce529192bde6498170705645700045f86062f62d2ffaff43",
+      "duration": 4.458333,
+      "decision": "目标错误已修，可剪辑候选；须整批拼接连续复核",
+      "observations": [
+        "圆暗刃接触点在左上腕扣，始终远离Claude脸颈",
+        "紫色亮点出现在腕扣，随后Kimi撤离该腕扣",
+        "武器保持圆月形，没有旧版匕首/圆刃变形",
+        "两腕仍扣在刑架，暗膜不漏外景",
+        "约3.8–4秒撤离明确，0–3截断会留刀悬在高位；不能沿用0–3直接截取"
+      ],
+      "limitation": "撤刀最后停在Kimi自己肩侧，并非原文要求的外侧髋边。她与Claude身体已分离，不能强拆→停手的主要因果仍可成立；作为剪辑候选，勿宣称每个姿态要求完全实现。",
+      "proposed_edit": {
+        "source_in": 0.5,
+        "source_out": 4.25,
+        "target_duration": 3,
+        "speed": 1.25,
+        "batch_offset": 0,
+        "audio": "不用生成声；原场景音效按本地剪辑对位。无角色台词需变速。",
+        "reason": "保留接触前、紫斑、痛感和完整撤离，去掉前部静候；约1.25倍比全4秒压3秒稍缓。"
+      }
+    },
+    "CY023A": {
+      "source": "视频制作/Metaso-H3-v003/产物/GB016-1-v003-CY023A.mp4",
+      "sha256": "1247d1603fd2293742aab29678f92336191ad99a4b9e598bca7041dd057816f4",
+      "duration": 4.458333,
+      "decision": "可剪辑候选；门内分流的目标空间成立",
+      "observations": [
+        "两名门边岗哨持续留守；左右两名分别向外走开并停稳",
+        "中央通道始终空着，没有全员向中央或镜头行进",
+        "四名增援没有穿门柱或互换两翼，大帧确认总人数无额外复制",
+        "相机微后移，左右队员部分到边缘不损害已经建立的分流方向"
+      ],
+      "proposed_edit": {
+        "source_in": 0,
+        "source_out": 3,
+        "target_duration": 3,
+        "batch_offset": 3,
+        "audio": "只用场景甲片/脚步与最终配乐，不混生成多余声音。"
+      }
+    }
+  }
+}

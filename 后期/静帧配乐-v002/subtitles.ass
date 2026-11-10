@@ -1,0 +1,105 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Dialogue,Microsoft YaHei,30,&H00FFFFFF,&H00FFFFFF,&H00101010,&H90000000,0,0,0,0,100,100,0,0,1,2,1,2,45,45,28,1
+Style: Time,Microsoft YaHei,30,&H00FFFFFF,&H00FFFFFF,&H00101010,&H90000000,0,0,0,0,100,100,0,0,1,2,1,7,36,36,65,1
+Style: Shot,Microsoft YaHei,16,&H00DDDDDD,&H00FFFFFF,&H00202020,&H90000000,0,0,0,0,100,100,0,0,1,1,0,7,20,20,16,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.00,Shot,,0,0,0,,CY001 · 静帧配乐试听
+Dialogue: 0,0:00:05.00,0:00:09.00,Shot,,0,0,0,,CY002 · 静帧配乐试听
+Dialogue: 0,0:00:09.00,0:00:12.00,Shot,,0,0,0,,CY003 · 静帧配乐试听
+Dialogue: 0,0:00:09.80,0:00:12.20,Dialogue,,0,0,0,,DeepSeek：你要吃一点吗？
+Dialogue: 0,0:00:12.00,0:00:14.00,Shot,,0,0,0,,CY003A · 静帧配乐试听
+Dialogue: 0,0:00:14.00,0:00:18.00,Shot,,0,0,0,,CY003B · 静帧配乐试听
+Dialogue: 0,0:00:18.00,0:00:24.00,Shot,,0,0,0,,CY004 · 静帧配乐试听
+Dialogue: 0,0:00:18.40,0:00:21.72,Dialogue,,0,0,0,,教徒：今夜，为 Claude 行火祭。
+Dialogue: 0,0:00:24.00,0:00:26.00,Shot,,0,0,0,,CY004A · 静帧配乐试听
+Dialogue: 0,0:00:26.00,0:00:28.00,Shot,,0,0,0,,CY004B · 静帧配乐试听
+Dialogue: 0,0:00:28.00,0:00:31.00,Shot,,0,0,0,,CY005 · 静帧配乐试听
+Dialogue: 0,0:00:31.00,0:00:37.00,Shot,,0,0,0,,CY006 · 静帧配乐试听
+Dialogue: 0,0:00:31.60,0:00:36.76,Dialogue,,0,0,0,,DeepSeek：他们今晚要烧死 Claude。你能救救她吗？
+Dialogue: 0,0:00:37.00,0:00:39.00,Shot,,0,0,0,,CY007A · 静帧配乐试听
+Dialogue: 0,0:00:39.00,0:00:43.00,Shot,,0,0,0,,CY007 · 静帧配乐试听
+Dialogue: 0,0:00:39.30,0:00:42.60,Dialogue,,0,0,0,,ChatGPT：我不能插手教会的仪式。
+Dialogue: 0,0:00:43.00,0:00:47.00,Shot,,0,0,0,,CY008 · 静帧配乐试听
+Dialogue: 0,0:00:43.50,0:00:46.27,Dialogue,,0,0,0,,DeepSeek：可是……她会死的。
+Dialogue: 0,0:00:47.00,0:00:52.00,Shot,,0,0,0,,CY009 · 静帧配乐试听
+Dialogue: 0,0:00:48.00,0:00:50.30,Dialogue,,0,0,0,,DeepSeek：那我自己去。
+Dialogue: 0,0:00:52.00,0:00:55.00,Shot,,0,0,0,,CY010 · 静帧配乐试听
+Dialogue: 0,0:00:55.00,0:00:59.00,Shot,,0,0,0,,CY010A · 静帧配乐试听
+Dialogue: 0,0:00:59.00,0:01:04.00,Shot,,0,0,0,,CY011 · 静帧配乐试听
+Dialogue: 0,0:01:04.00,0:01:08.00,Shot,,0,0,0,,CY012 · 静帧配乐试听
+Dialogue: 0,0:01:08.00,0:01:12.00,Shot,,0,0,0,,CY013 · 静帧配乐试听
+Dialogue: 0,0:01:12.00,0:01:16.00,Shot,,0,0,0,,CY015 · 静帧配乐试听
+Dialogue: 0,0:01:16.00,0:01:21.00,Shot,,0,0,0,,CY015A · 静帧配乐试听
+Dialogue: 0,0:01:21.00,0:01:25.00,Shot,,0,0,0,,CY016 · 静帧配乐试听
+Dialogue: 0,0:01:25.00,0:01:27.00,Shot,,0,0,0,,CY016A1 · 静帧配乐试听
+Dialogue: 0,0:01:27.00,0:01:31.00,Shot,,0,0,0,,CY016A · 静帧配乐试听
+Dialogue: 0,0:01:31.00,0:01:33.00,Shot,,0,0,0,,CY016B · 静帧配乐试听
+Dialogue: 0,0:01:33.00,0:01:35.00,Shot,,0,0,0,,CY016B1 · 静帧配乐试听
+Dialogue: 0,0:01:35.00,0:01:39.00,Shot,,0,0,0,,CY016C · 静帧配乐试听
+Dialogue: 0,0:01:39.00,0:01:41.00,Shot,,0,0,0,,CY016D · 静帧配乐试听
+Dialogue: 0,0:01:41.00,0:01:46.00,Shot,,0,0,0,,CY017 · 静帧配乐试听
+Dialogue: 0,0:01:42.50,0:01:45.85,Dialogue,,0,0,0,,教主：我的女儿，神明在等你。
+Dialogue: 0,0:01:46.00,0:01:50.00,Shot,,0,0,0,,CY018 · 静帧配乐试听
+Dialogue: 0,0:01:50.00,0:01:53.00,Shot,,0,0,0,,CY019 · 静帧配乐试听
+Dialogue: 0,0:01:53.00,0:01:58.00,Shot,,0,0,0,,CY020 · 静帧配乐试听
+Dialogue: 0,0:01:54.00,0:01:56.09,Dialogue,,0,0,0,,Claude：别碰她！
+Dialogue: 0,0:01:58.00,0:02:00.00,Shot,,0,0,0,,CY020A · 静帧配乐试听
+Dialogue: 0,0:02:00.00,0:02:04.00,Shot,,0,0,0,,CY021 · 静帧配乐试听
+Dialogue: 0,0:02:04.00,0:02:07.00,Shot,,0,0,0,,CY021A · 静帧配乐试听
+Dialogue: 0,0:02:07.00,0:02:09.00,Shot,,0,0,0,,CY022A · 静帧配乐试听
+Dialogue: 0,0:02:09.00,0:02:13.00,Shot,,0,0,0,,CY022 · 静帧配乐试听
+Dialogue: 0,0:02:13.00,0:02:15.00,Shot,,0,0,0,,CY022B · 静帧配乐试听
+Dialogue: 0,0:02:15.00,0:02:17.00,Shot,,0,0,0,,CY023 · 静帧配乐试听
+Dialogue: 0,0:02:17.00,0:02:20.00,Shot,,0,0,0,,CY024 · 静帧配乐试听
+Dialogue: 0,0:02:20.00,0:02:22.00,Shot,,0,0,0,,CY024A · 静帧配乐试听
+Dialogue: 0,0:02:22.00,0:02:25.00,Shot,,0,0,0,,CY027 · 静帧配乐试听
+Dialogue: 0,0:02:25.00,0:02:28.00,Shot,,0,0,0,,CY025 · 静帧配乐试听
+Dialogue: 0,0:02:28.00,0:02:31.00,Shot,,0,0,0,,CY026A · 静帧配乐试听
+Dialogue: 0,0:02:28.00,0:02:30.00,Time,,0,0,0,,稍早
+Dialogue: 0,0:02:28.10,0:02:31.42,Dialogue,,0,0,0,,ChatGPT：千问，陪我救个人。
+Dialogue: 0,0:02:31.00,0:02:33.00,Shot,,0,0,0,,CY026A1 · 静帧配乐试听
+Dialogue: 0,0:02:31.20,0:02:33.02,Dialogue,,0,0,0,,千问：走吧。
+Dialogue: 0,0:02:33.00,0:02:37.00,Shot,,0,0,0,,CY026B · 静帧配乐试听
+Dialogue: 0,0:02:33.10,0:02:35.00,Dialogue,,0,0,0,,ChatGPT：Gemini。
+Dialogue: 0,0:02:35.00,0:02:36.84,Dialogue,,0,0,0,,Gemini：我去。
+Dialogue: 0,0:02:37.00,0:02:41.00,Shot,,0,0,0,,CY026C · 静帧配乐试听
+Dialogue: 0,0:02:37.10,0:02:38.90,Dialogue,,0,0,0,,ChatGPT：Grok。
+Dialogue: 0,0:02:38.90,0:02:40.80,Dialogue,,0,0,0,,Grok：当然。
+Dialogue: 0,0:02:41.00,0:02:43.00,Shot,,0,0,0,,CY026D1 · 静帧配乐试听
+Dialogue: 0,0:02:41.10,0:02:42.97,Dialogue,,0,0,0,,ChatGPT：Kimi。
+Dialogue: 0,0:02:43.00,0:02:46.00,Shot,,0,0,0,,CY026D · 静帧配乐试听
+Dialogue: 0,0:02:43.50,0:02:45.20,Dialogue,,0,0,0,,Kimi：嗯。
+Dialogue: 0,0:02:46.00,0:02:50.00,Shot,,0,0,0,,CY026E · 静帧配乐试听
+Dialogue: 0,0:02:46.10,0:02:49.68,Dialogue,,0,0,0,,ChatGPT：混元，Llama……都来。
+Dialogue: 0,0:02:50.00,0:02:53.00,Shot,,0,0,0,,CY026 · 静帧配乐试听
+Dialogue: 0,0:02:53.00,0:02:57.00,Shot,,0,0,0,,CY027A · 静帧配乐试听
+Dialogue: 0,0:02:53.00,0:02:54.80,Time,,0,0,0,,此刻
+Dialogue: 0,0:02:53.20,0:02:56.37,Dialogue,,0,0,0,,教主：你违反了互不干涉条约。
+Dialogue: 0,0:02:57.00,0:02:59.00,Shot,,0,0,0,,CY027B · 静帧配乐试听
+Dialogue: 0,0:02:57.20,0:02:59.04,Dialogue,,0,0,0,,ChatGPT：聒噪。
+Dialogue: 0,0:02:59.00,0:03:02.00,Shot,,0,0,0,,CY027C · 静帧配乐试听
+Dialogue: 0,0:03:02.00,0:03:05.00,Shot,,0,0,0,,CY027D · 静帧配乐试听
+Dialogue: 0,0:03:05.00,0:03:06.00,Shot,,0,0,0,,CY027E · 静帧配乐试听
+Dialogue: 0,0:03:06.00,0:03:08.00,Shot,,0,0,0,,CY027E1 · 静帧配乐试听
+Dialogue: 0,0:03:08.00,0:03:12.00,Shot,,0,0,0,,CY027F · 静帧配乐试听
+Dialogue: 0,0:03:12.00,0:03:15.00,Shot,,0,0,0,,CY027G · 静帧配乐试听
+Dialogue: 0,0:03:15.00,0:03:18.00,Shot,,0,0,0,,CY028 · 静帧配乐试听
+Dialogue: 0,0:03:18.00,0:03:22.00,Shot,,0,0,0,,CY028A · 静帧配乐试听
+Dialogue: 0,0:03:22.00,0:03:26.00,Shot,,0,0,0,,CY029 · 静帧配乐试听
+Dialogue: 0,0:03:22.40,0:03:25.55,Dialogue,,0,0,0,,教主：Claude！回来！
+Dialogue: 0,0:03:26.00,0:03:29.00,Shot,,0,0,0,,CY029A · 静帧配乐试听
+Dialogue: 0,0:03:29.00,0:03:35.00,Shot,,0,0,0,,CY030 · 静帧配乐试听
+Dialogue: 0,0:03:35.00,0:03:40.00,Shot,,0,0,0,,CY031 · 静帧配乐试听
+Dialogue: 0,0:03:35.00,0:03:37.00,Time,,0,0,0,,数日后
+Dialogue: 0,0:03:40.00,0:03:44.00,Shot,,0,0,0,,CY031A · 静帧配乐试听
+Dialogue: 0,0:03:41.00,0:03:43.40,Dialogue,,0,0,0,,DeepSeek：你要吃一点吗？
+Dialogue: 0,0:03:44.00,0:03:46.00,Shot,,0,0,0,,CY032A · 静帧配乐试听
+Dialogue: 0,0:03:46.00,0:03:50.00,Shot,,0,0,0,,CY033 · 静帧配乐试听
+Dialogue: 0,0:03:50.00,0:03:59.00,Shot,,0,0,0,,CY034 · 静帧配乐试听

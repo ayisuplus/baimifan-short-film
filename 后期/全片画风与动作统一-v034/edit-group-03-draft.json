@@ -1,0 +1,72 @@
+[
+  {
+    "name": "063-v034-edit",
+    "id": "063",
+    "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/063-video-r1-no-upscale_00001_.mp4",
+    "source_in": 10,
+    "source_out_exclusive": 104,
+    "target_frames": 84,
+    "status": "trim",
+    "note": "邀请手势10–24→千问视线响应→78–96合扇→结尾眼神确认，轻微加速保全应答动作。取更早出点会把回应切没；二维线条、蓝发双辫与夜间宫台一致。"
+  },
+  {
+    "name": "064-v034-edit",
+    "id": "064",
+    "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/064-video-r1-no-upscale_00001_.mp4",
+    "source_in": 4,
+    "source_out_exclusive": 68,
+    "target_frames": 60,
+    "status": "trim",
+    "note": "GPT邀请→Gemini抬眼→42–60合书→点头回应；去前尾静等，膜翼保留。不能只取抬眼而遗漏合书。"
+  },
+  {
+    "name": "065a-v034-edit",
+    "id": "065a",
+    "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/065a-video-r1-no-upscale_00001_.mp4",
+    "source_in": 12,
+    "source_out_exclusive": 72,
+    "target_frames": 60,
+    "status": "trim",
+    "note": "保留Grok握稳一柄双刃斧、转脸、轻点头和答应表情；斧刃不扫向GPT，夜间火箭场未跳轴。"
+  },
+  {
+    "name": "065b-v034-pending",
+    "id": "065b",
+    "source": null,
+    "source_in": null,
+    "source_out_exclusive": null,
+    "target_frames": 36,
+    "status": "pending",
+    "note": "等待通过的Kimi月面醒来视频；旧关键帧/失败产物不参与组装。"
+  },
+  {
+    "name": "066-v034-pending",
+    "id": "066",
+    "source": null,
+    "source_in": null,
+    "source_out_exclusive": null,
+    "target_frames": 96,
+    "status": "pending",
+    "note": "等待通过的GPT膜翼月面说服Kimi视频；羽翼旧图禁用。须保持GPT左Kimi右、触肩后才抬头回应。"
+  },
+  {
+    "name": "067-v034-preserve",
+    "id": "067",
+    "source": "E:/projects/内容创作/故事短片/白米饭/后期/OpenCut后续画面-v018/逐镜视频/067_B25_v011_6075_0.mp4",
+    "source_in": 0,
+    "source_out_exclusive": 42,
+    "target_frames": 42,
+    "status": "pass",
+    "note": "原有五列群像蒙太奇42帧保留，已查看3个时点。作为回忆组的招募完成转接卡；不宣称各人完整动作片段。"
+  },
+  {
+    "name": "068-v034-edit",
+    "id": "068",
+    "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/068-video-r1-no-upscale_00001_.mp4",
+    "source_in": 8,
+    "source_out_exclusive": 62,
+    "target_frames": 54,
+    "status": "trim",
+    "note": "孩子靠紧衣襟→千问托稳、微笑，保留一轮情绪不延长尾停。封闭扇从窄边看略似书，但没有明显换物；手臂大部在画外，只能确认孩子稳定受托，不能仅凭此近景认证解剖左右。"
+  }
+]

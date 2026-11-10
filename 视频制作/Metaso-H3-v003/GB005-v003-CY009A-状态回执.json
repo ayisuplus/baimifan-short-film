@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115169939895283712",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "白发GPT目送孩子走向远门",
+    "status": "succeeded",
+    "created_at": 1793130786,
+    "updated_at": 1793130802,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115169939895283712/content?expires=1793735654&signature=9eb4c47aee175f114ecfdab69d33eaf7d71c175f7c6865101409d982ffc112a7"
+    },
+    "resolution": "768P",
+    "duration": 6,
+    "usage": {
+      "total_seconds": 6,
+      "input_seconds": 0,
+      "output_seconds": 6,
+      "input_image_count": 1
+    },
+    "ratio": "adaptive",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

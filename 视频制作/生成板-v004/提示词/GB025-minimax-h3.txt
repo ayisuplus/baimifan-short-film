@@ -1,0 +1,37 @@
+subject_definitions:
+<Subject 1>: ChatGPT, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: DeepSeek, identity and outfit from four-view sheet <Picture 2>.
+<Subject 3>: the palace paladins, identity and outfit from four-view sheet <Picture 3>.
+<Picture 4>: [Shot 1] composition and state reference; not its first frame.
+<Picture 5>: [Shot 2] composition and state reference; not its first frame.
+<Picture 6>: [Shot 3] composition and state reference; not its first frame.
+<Picture 7>: [Shot 4] composition and state reference; not its first frame.
+<Picture 8>: [Shot 5] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. The sky standoff becomes reflected light in the child's eyes; storm inserts imply battle and lead to new courtyard attackers.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Subject 3>: fully_preserved - identity and outfit design.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+<Picture 7>: weak_reference - shot layout; animate the specified action.
+<Picture 8>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Match the exit direction to the exterior standoff without repeating ascent; distant thunder prepares the child's reaction. Use <Picture 4> for composition. Both are now above the cathedral. The white-violet dragon coils its long body while the black-and-gold raven-winged leader hovers opposite. Their forces face one another across the night sky. Preserve their separation without inventing detailed attacks. End ready for the child to look up and see the pale dragon light. Make a restrained lateral arc above the roof to read their separation and opposing eyelines; add no combat maneuver within this brief view. Air through the water dragon and wings, leading into distant thunder.
+[Shot 2] At 00:02.000, Cut from the sky to the child's upward reaction; the dragon appears only as blurred reflected light, never a tiny physical duplicate. Use <Picture 5> for composition. DeepSeek remains securely held by Qwen. She raises her tired eyes; indistinct white-violet ascending light glimmers in the blue irises while the tear sheen trembles. The pupil stays clearly visible and is not replaced by a detailed dragon image. End with that light moving upward toward the following sky shot. Hold an extreme eye close-up with a tiny focus adjustment on tears and blue irises; only a blurred reflected light moves upward. The ascending water sound trails away as distant thunder begins.
+[Shot 3] At 00:05.000, Cut from reflected light to illuminated night clouds. Natural storm sounds develop here, not as retroactive electrical effects for the earlier water spell. Use <Picture 6> for composition. The combatants fight offscreen above the church. Show a close view of the night sky over the tower: lightning illuminates clouds and rain gradually starts, while several low thunder sounds imply the omitted fight. Do not reveal or invent their individual moves. End with rainfall underway. Hold on the sky above the bell tower, letting clouds, flashes and incoming rain carry the time ellipsis without searching for fighters. Rain thickens; three separated low thunder beats correspond to flashes, continuing toward the floor insert.
+[Shot 4] At 00:09.000, Match falling sky rain to drops on the floor, introducing courtyard footsteps while the thunder tail recedes. Use <Picture 7> for composition. Rain falls through the existing nave breach onto wet stone. Ripples carry brief white-violet and dark-gold reflections of the offscreen fight. Thunder approaches and then recedes. End with footsteps beginning beyond the doorway, setting up the new courtyard threat. Slide a short distance close to the stone floor, maintaining ripple focus as reflected flashes pass; do not tilt up to reveal combat. Close raindrops and ripples with fading distant thunder; approaching courtyard footsteps enter near the end.
+[Shot 5] At 00:11.000, Lead with rain-soaked footsteps, then reveal the courtyard cultists; carry the warning inward without teleporting enemies behind the defense. Use <Picture 8> for composition. Water has receded while the aerial fight remains offscreen. New cultists emerge from both outer corridors and gather in front of the broken-open entrance. The posted knights bring spears across the threshold to block them. Keep the approaching enemies outside in this shot. End with a wordless warning reaching the companions inside. Hold the sentries at both edges from inside the threshold, moving slightly toward the crossed spears before stopping as enemies converge. Dense footsteps in rain, armor and spear contact, and one wordless warning cry.
+From 14 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

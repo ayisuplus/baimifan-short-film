@@ -1,0 +1,39 @@
+{
+  "engine": "built-in image_gen",
+  "role": "天使GPT大头娃娃四视图",
+  "records": [
+    {
+      "version": "v001",
+      "path": "资产/图像/王宫内心戏-v001/CHAR-GPT-ANGEL-TURN-v001-未采用.png",
+      "status": "rejected_too_slender",
+      "sha256": "cdbcd031ff7de57e6cfddd19e297fdc48ffe55032e3c23054a68c638c62c6bd1",
+      "size": [
+        2172,
+        724
+      ]
+    },
+    {
+      "version": "v002",
+      "path": "资产/图像/王宫内心戏-v001/CHAR-GPT-ANGEL-TURN-v002-头过大未采用.png",
+      "status": "rejected_head_too_large",
+      "sha256": "bf1ab1f328b3aae09206c4f7078c49d0aa8fc18aea23fb940f11bbf2ae4a0455",
+      "size": [
+        2172,
+        724
+      ]
+    },
+    {
+      "version": "v003",
+      "path": "资产/图像/王宫内心戏-v001/CHAR-GPT-ANGEL-TURN-v003.png",
+      "status": "author_adopted",
+      "sha256": "8e5b7ef471ca677b2751891edd36282e0b2ad84d33cd03e132fdb98771a2ab4b",
+      "size": [
+        2172,
+        724
+      ],
+      "approval": "2026-10-26 作者：最后那版本可以了"
+    }
+  ],
+  "identity_source": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+  "limits": "天使v003已获作者采用；头身比例沿用实际图片，不作工程正交尺寸。"
+}

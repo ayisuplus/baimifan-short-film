@@ -1,0 +1,19 @@
+{
+  "shots": 128,
+  "seconds": 422.5,
+  "new_shot": "CY024K2A",
+  "new_seconds": 2,
+  "original_127_shot_order_timing_dialogue_preserved": true,
+  "original_candidates_identical": true,
+  "music_files_hash_verified": 55,
+  "current_images_verified": 6,
+  "previous_html_snapshot_identical": true,
+  "video_produced": false,
+  "audio_produced": false,
+  "plan_sha256": "179644eafdb2bfada7539cdf96e39b3db615d251edbc96c5a0e1ff0111b0c25c",
+  "browser_review": "v046页面已打开；K2A下一镜正确接K3；B1新画面已查看；5/6段、5/128镜标记保留；无错误日志",
+  "screenshots": [
+    "后期/控水协作-v046/预演核验.png",
+    "后期/控水协作-v046/暗罩阻敌核验.png"
+  ]
+}

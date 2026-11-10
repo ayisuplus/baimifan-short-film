@@ -1,0 +1,210 @@
+{
+  "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+  "task_id": "20261021124203771279236",
+  "status": "generated_pending_listen",
+  "request": "资产/生成记录/VOICE-CLAUDE-v005-cloud-request.json",
+  "voice": {
+    "id": 58,
+    "voiceId": "Chinese (Mandarin)_Soft_Girl",
+    "name": "柔和少女",
+    "language": "中文(普通话)",
+    "gender": "Female",
+    "ageGroup": "Youth",
+    "voiceUrl": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/audio/26867b52384f44d6ad5f717dbd710ff7/e7d2a89377f029bcc728230fb2b752b8dbec60ce147d6653a8a5bc9d849aa0bf.mp3",
+    "isSystem": true,
+    "supportedModels": "minimax-speech",
+    "ownerId": 0,
+    "createdAtMs": 1776233546000,
+    "updatedAtMs": 1776783377000,
+    "isFavorited": false
+  },
+  "model": "speech-2.8-hd",
+  "model_schema": {
+    "modelKey": "speech-2.8-hd",
+    "modelName": "Minimax-speech-2.8-hd",
+    "modelVendor": "MiniMax",
+    "scene": "Text-to-Speech",
+    "sceneName": "文字转语音",
+    "properties": {
+      "prompt": {
+        "placeholder": "输入要合成的文本",
+        "maxLength": 50000
+      },
+      "voiceCard": {
+        "displayName": "音色设置",
+        "component": "voiceCard",
+        "originalField": "voice_setting_voice_id",
+        "default": {
+          "voiceId": "female-shaonv",
+          "name": "少女音色",
+          "language": "中文(普通话)",
+          "gender": "Female",
+          "voiceUrl": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/audio/26867b52384f44d6ad5f717dbd710ff7/ed4975bb8d702870fb9a00bf1ba5ba423486311139c2e37177ea38751a58c6c9.mp3"
+        }
+      },
+      "speed": {
+        "displayName": "语速",
+        "component": "slider",
+        "layout": "inline",
+        "min": 0.5,
+        "max": 2,
+        "step": 0.01,
+        "default": 1,
+        "originalField": "voice_setting_speed"
+      },
+      "voicePitch": {
+        "displayName": "声调",
+        "component": "slider",
+        "layout": "inline",
+        "min": -12,
+        "max": 12,
+        "step": 1,
+        "default": 0,
+        "originalField": "voice_setting_pitch"
+      },
+      "vol": {
+        "displayName": "音量",
+        "component": "slider",
+        "layout": "inline",
+        "min": 0.01,
+        "max": 10,
+        "step": 0.1,
+        "default": 1,
+        "originalField": "voice_setting_vol"
+      },
+      "modifyPitch": {
+        "displayName": "音高",
+        "tips": "音高调整（低沉/明亮）",
+        "component": "slider",
+        "layout": "inline",
+        "min": -100,
+        "max": 100,
+        "step": 1,
+        "default": 0,
+        "originalField": "voice_modify_pitch"
+      },
+      "modifyIntensity": {
+        "displayName": "强度",
+        "tips": "强度调整（力量感/柔和）",
+        "component": "slider",
+        "layout": "inline",
+        "min": -100,
+        "max": 100,
+        "step": 1,
+        "default": 0,
+        "originalField": "voice_modify_intensity"
+      },
+      "modifyTimbre": {
+        "displayName": "音色调节",
+        "tips": "音色调整（磁性/清脆）",
+        "component": "slider",
+        "layout": "inline",
+        "min": -100,
+        "max": 100,
+        "step": 1,
+        "default": 0,
+        "originalField": "voice_modify_timbre"
+      },
+      "soundEffects": {
+        "displayName": "音效",
+        "enum": [
+          {
+            "value": "",
+            "displayName": "无"
+          },
+          {
+            "value": "spacious_echo",
+            "displayName": "空旷回音"
+          },
+          {
+            "value": "auditorium_echo",
+            "displayName": "礼堂广播"
+          },
+          {
+            "value": "lofi_telephone",
+            "displayName": "电话失真"
+          },
+          {
+            "value": "robotic",
+            "displayName": "电音"
+          }
+        ],
+        "default": "",
+        "component": "singleButton",
+        "originalField": "voice_modify_sound_effects"
+      }
+    },
+    "config": {
+      "advancedSettings": [
+        {
+          "groupKey": "voiceCard",
+          "displayName": "音色设置",
+          "collapsible": false,
+          "fields": [
+            "voiceCard"
+          ]
+        },
+        {
+          "groupKey": "voiceBasic",
+          "displayName": "基础调节",
+          "collapsible": true,
+          "defaultCollapsed": false,
+          "fields": [
+            "speed",
+            "voicePitch",
+            "vol"
+          ]
+        },
+        {
+          "groupKey": "voiceEffects",
+          "displayName": "音色效果调节",
+          "collapsible": true,
+          "defaultCollapsed": true,
+          "fields": [
+            "modifyPitch",
+            "modifyIntensity",
+            "modifyTimbre",
+            "soundEffects"
+          ]
+        }
+      ],
+      "generateTypes": {
+        "audio": 116,
+        "checkpointId": 22890468
+      }
+    },
+    "rules": [
+      {
+        "require": [
+          "prompt"
+        ]
+      }
+    ]
+  },
+  "author_feedback": "v004仍不清晰、尖、高过头；少女感不能等同高声区。",
+  "diagnosis": "v003临时参考与v003/v004目标描述均保留中高声区。沿用此前参考会延续方向偏差，不能只改单句语速。",
+  "correction": "转LibTV现成柔和少女provider音色，删除VoxCPM中高声区条件，不上传旧参考。单句云端候选待听审。",
+  "path": "资产/声音/试音/VOICE-CLAUDE-v005-cloud.mp3",
+  "sha256": "fe4cbc8e00a9555f8fe625b46f40e269315678eeb337f8bb21fbcacb35f0e4bc",
+  "size_bytes": 68443,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "format": {
+      "duration": "4.200590"
+    }
+  },
+  "nodeId": "a-yq7w272cqtj8",
+  "resourceId": "res_e04bb2d0578547268580a4883cd3b088",
+  "delivery_record": "资产/生成记录/Claude-云端交付-v005.json",
+  "node_record": "资产/生成记录/Claude-云端节点-v005.json",
+  "validation": "已按交付URL保存并解码；不以sourceIdentity当文件哈希。保留服务交付版本，未移调/变速。",
+  "listening_review": "未实际听审，少女感、自然音高、吐字和保护朋友的表演尚待验收。"
+}

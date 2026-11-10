@@ -1,0 +1,218 @@
+{
+  "batch_id": "GB003",
+  "node_id": "v-r3gqLtruuN",
+  "quoted_credits": 154,
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-r3gqLtruuN",
+    "node": {
+      "id": "v-r3gqLtruuN",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第3批 · 宫门放行与慵懒卧榻 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Mixed 1}} =DeepSeek四视图：同一人四角度，身份服饰保持\n{{Mixed 2}} =圣骑士四视图：同一人四角度，身份服饰保持\n{{Mixed 3}} =ChatGPT四视图：同一人四角度，身份服饰保持\n{{Mixed 4}} =构图状态，非强制首帧\n{{Mixed 5}} =构图状态，非强制首帧\n{{Mixed 6}} =构图状态，非强制首帧\n{{Mixed 7}} =构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，11秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–2s {{Mixed 4}} ；画内:DeepSeek。接前批跑出街边，明确略去路程；切入暮色长阶上段的最后几步。低位偏左远景，石阶与栏杆斜向向右上收束；只轻跟小鱼跑上一小段，切宫门省略剩余路程。日落后蓝紫暮色里，小鱼空手跑上宫殿外长阶的一小段；多段台阶伸向高门，两旁紫旗与局部暖灯保持。随后切到已抵宫门，省略剩余登阶路程。 调度:保持2秒，不能高速跑完整条长阶。太阳已落到地平线下，冷天光主导，暖色仅灯具和宫门内部；不是新造长街。 注意:保持2秒，不能高速跑完整条长阶。太阳已落到地平线下，冷天光主导，暖色仅灯具和宫门内部；不是新造长街。 声音:长阶脚步与暮色环境底声。\n[Shot 2] 2–5s {{Mixed 5}} ；画内:DeepSeek、圣骑士。省略剩余登阶路程，切到小鱼已跑至宫门前急停；暮色与上镜一致。沿用原宫门机位与交叉枪构图，仅统一日落后的冷蓝紫天光；宫门内与灯具保留局部暖色。两名封闭头盔圣骑士交叉长枪，小鱼急停，空手抬头望向守卫。 调度:仅光线连续性修订。无可见太阳与金色直射，门外冷、门内暖；两骑士封闭头盔，枪仍交叉。 注意:仅光线连续性修订。无可见太阳与金色直射，门外冷、门内暖；两骑士封闭头盔，枪仍交叉。 声音:脚步、甲片、长枪拦路动作声。\n[Shot 3] 5–8s {{Mixed 6}} ；画内:DeepSeek、圣骑士。交叉枪位完整承前，GPT声音先从殿内传出，再收枪让路。沿用原开门放行构图及运镜，门外冷蓝紫暮色，门内仍为暖烛光。GPT仍侧躺在殿内卧榻上，画外平静发声放行，骑士收枪竖直、让开通道；小鱼空手跨过门槛。 调度:仅光线连续性修订。保持原开门、收枪、孩子进门动作；室内暖光是烛光，不回到夕阳直射。 注意:仅光线连续性修订。保持原开门、收枪、孩子进门动作；室内暖光是烛光，不回到夕阳直射。 人物:GPT声音来自殿内，不在宫门实体出镜。 声音:GPT画外‘让她进来’； GPT在镜内0–2.2秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 4] 8–11s {{Mixed 7}} ；画内:DeepSeek、ChatGPT。在跨门槛后明确省略大段空殿跑程，切入大厅时宝宝已经接近王座，只完成最后几步和停下，不在本镜内再加切镜。入口中轴大全景缓推少许，保留前景小鱼与殿尾横向卧榻；跑程已跨切省略，不追成近景。跨门后的大段跑程在切点省略，小鱼入镜时已接近高台，只完成最后几步，在卧榻头肩一端的台阶下停住并抬头。GPT头在画面左、脚在右，自身右手托腮、左手搭座垫前缘，懒懒侧躺；双翼舒展有支撑，单尾沿腿边自然延伸。 环境：左侧卧榻头端小几放几何手稿、圆规、透明多面体压纸、茶杯与扭转带小灯，右侧脚端陈列环仪；两侧十二面体柔光灯、高处椭圆环吊灯，中央台阶与通道留空。 注意:大殿图用于空间与卧榻姿态，非强制首帧；大段跑程已跨切省略，三秒只完成最后几步。 当前背景采用数学宫殿灯具；按本镜实际视野显示，不挪摆件、不新增人物。 人物:GPT在远处横向卧榻侧躺，头左脚右；跑程跨切省略，构图参考不是强制首帧。 声音:急脚步与喘息在空殿回响。\n5–7.2s ChatGPT（画外） 画外连续，不让在画者代说:<d>[Japanese] 通してあげて。</d>；仅一次。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png",
+              "label": "CHAR-DEEPSEEK-TURN-v003 · H3留白适配"
+            },
+            {
+              "nodeId": "i-KjFmn9fH3P",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/461e6b5fb5c0520134c1af43198c6212fb916260.png",
+              "label": "CHAR-PALADIN-v001"
+            },
+            {
+              "nodeId": "i-07HfqKjhJ7",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d74110bde0f98a0b44ed3c518d48eaea282c1a87.png",
+              "label": "CHAR-GPT-TURN-v001-h3-pad"
+            },
+            {
+              "nodeId": "i-pQMVuNWsVz",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/1ad3a6559a88bad79511663f2f2a8b370172ba9e.png",
+              "label": "CY004B-v063-r1"
+            },
+            {
+              "nodeId": "i-OX1eJe82nB",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/89a7625f33a4a7cc421855271ed391d38dca4bd4.png",
+              "label": "CY004C-v063-r1"
+            },
+            {
+              "nodeId": "i-hgkw6jwYZf",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/e258279785f20597ae111a8af5f8e25d94d7560c.png",
+              "label": "CY004D-v063-r1"
+            },
+            {
+              "nodeId": "i-7QhqmMFTdU",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/f9f2f050711ff49c824a77d04669fbd166566072.png",
+              "label": "CY005"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 11
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png",
+              "label": "CHAR-DEEPSEEK-TURN-v003 · H3留白适配",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-KjFmn9fH3P",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/461e6b5fb5c0520134c1af43198c6212fb916260.png",
+              "label": "CHAR-PALADIN-v001",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-07HfqKjhJ7",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d74110bde0f98a0b44ed3c518d48eaea282c1a87.png",
+              "label": "CHAR-GPT-TURN-v001-h3-pad",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-pQMVuNWsVz",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/1ad3a6559a88bad79511663f2f2a8b370172ba9e.png",
+              "label": "CY004B-v063-r1",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-OX1eJe82nB",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/89a7625f33a4a7cc421855271ed391d38dca4bd4.png",
+              "label": "CY004C-v063-r1",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-hgkw6jwYZf",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/e258279785f20597ae111a8af5f8e25d94d7560c.png",
+              "label": "CY004D-v063-r1",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-7QhqmMFTdU",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/f9f2f050711ff49c824a77d04669fbd166566072.png",
+              "label": "CY005",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-JAT4Pva730",
+            "i-KjFmn9fH3P",
+            "i-07HfqKjhJ7",
+            "i-pQMVuNWsVz",
+            "i-OX1eJe82nB",
+            "i-hgkw6jwYZf",
+            "i-7QhqmMFTdU"
+          ],
+          "mixedListOrder": [
+            "i-JAT4Pva730",
+            "i-KjFmn9fH3P",
+            "i-07HfqKjhJ7",
+            "i-pQMVuNWsVz",
+            "i-OX1eJe82nB",
+            "i-hgkw6jwYZf",
+            "i-7QhqmMFTdU"
+          ]
+        },
+        "_updatedAtMs": 1793116898000,
+        "_lastAppliedFullyAtMs": 1793116898000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        },
+        "taskInfo": {
+          "taskId": "20261028001103732479236",
+          "loading": true,
+          "status": 1,
+          "progressPercent": 1,
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-r3gqLtruuN",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793117517302
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805"
+        }
+      },
+      "position": {
+        "x": 3744,
+        "y": 228
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-r3gqLtruuN",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

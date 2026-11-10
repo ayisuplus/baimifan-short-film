@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "clips": 117,
+  "total_frames": 9142,
+  "fps": 24,
+  "duration": "00:06:20:22",
+  "reload_verified": true,
+  "replacement_shots": [
+    "035",
+    "038"
+  ],
+  "removed_shot": "039",
+  "removed_frames": 48,
+  "remaining_content_and_lengths_preserved": true,
+  "only_downstream_shift_frames": -48
+}

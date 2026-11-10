@@ -1,0 +1,36 @@
+subject_definitions:
+<Subject 1>: DeepSeek, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: Claude, identity and outfit from four-view sheet <Picture 2>.
+<Subject 3>: ChatGPT, identity and outfit from four-view sheet <Picture 3>.
+<Subject 4>: Grok, identity and outfit from four-view sheet <Picture 4>.
+<Picture 5>: [Shot 1] composition and state reference; not its first frame.
+<Picture 6>: [Shot 2] composition and state reference; not its first frame.
+<Picture 7>: [Shot 3] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. The seated invitation is accepted; the spoon handover answers the opening gesture, while a cutaway makes room for the first bite.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Subject 3>: fully_preserved - identity and outfit design.
+<Subject 4>: fully_preserved - identity and outfit design.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+<Picture 7>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Continue the child's look into Claude's arrival and seating. The answer follows the completed question; the spoon remains with the child until the next cut. Use <Picture 5> for composition. Claude approaches from the right and steadies herself on the bench as she sits. DeepSeek shifts left, supports the bowl on her lap with her left arm and holds the spoon in her right hand while repeating the invitation. Claude looks at her, nods gently and answers after the question ends. Claude has not taken the spoon yet. End with her seated on the right and the spoon still in the child's hand. Ease back slightly from the child's eyeline to accommodate Claude sitting, then hold for the question, response and nod. Clothing as they make room and soft street ambience; keep both lines clear. From 1 to 2.78 seconds, DeepSeek (S1) speaks with matching lip movement: <d>[Japanese] 少し食べる？</d>. From 3.2 to 4 seconds, Claude (S2) speaks with matching lip movement: <d>[Japanese] うん。</d>.
+[Shot 2] At 00:04.000, Match the spoon's pre-transfer position into close-up, not the reference's completed grip; cut to GPT only after the transfer settles. Use <Picture 6> for composition. Both sit on the bench, DeepSeek left and Claude right. The child offers the handle toward the right, Claude closes her fingers around it and only then does the child release. Keep one spoon and the bowl on the child's lap. End with Claude alone holding the spoon while the child's two hands steady the bowl. The reference depicts a later grip, so animate the handover into it without beginning already completed. Move slightly along the spoon-handle transfer in close-up, then hold so grasp-before-release and the stable bowl remain clear. A light handle contact and street ambience; do not repeat the invitation or answer.
+[Shot 3] At 00:06.000, After the spoon transfer, cut to the observer; cup contact echoes the handle sound. Claude can scoop offscreen, preparing the next first-bite insert. Use <Picture 7> for composition. GPT watches from nearby in the same market, with the bench pair blurred behind. Grok hands her a warm drink; GPT accepts it and leans alongside her companion, her gaze easing. Claude and DeepSeek stay seated elsewhere in the same space; this cut allows the small scoop of rice to occur offscreen. Do not introduce a new line or a second serving event. Shift focus gently from the blurred bench to GPT and the warm drink, settling after the cup reaches her hand without adding conversation. A light cup contact with natural street ambience.
+From 10 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 4s: Cut to the hand accepting the spoon.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

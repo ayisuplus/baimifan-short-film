@@ -1,0 +1,141 @@
+{
+  "version": "v046",
+  "previous_index": "镜头设计/生成记录/生成索引-v045.json",
+  "engine": "built-in image_gen",
+  "mode": "reference edit",
+  "transparent_background": false,
+  "images": [
+    {
+      "id": "CY024K2A",
+      "path": "镜头设计/图像/控水协作-v046/CY024K2A-v046-r1.png",
+      "sha256": "0de5c6eeec241854524933dc4dc16e681553e44be34d42b3abb63f5f27eabdbd",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/控水协作-v046/实际请求-r1.json",
+      "request_sha256": "fe176ba768a9a3e19b6c42e3f3e33ac152381bd8dd1589502cf4c60cd5288e93",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/暗月瞬临-v045/CY024K2-v045-r1.png",
+          "sha256": "26268718c9c1cc60205640cae55c9d37d3965978385a387760f091a85b8a82c8"
+        },
+        {
+          "path": "资产/图像/CHAR-CULTIST-v001.png",
+          "sha256": "1031119f267781bf4aae1171fff4820b7fe5cb5b1b1d34c6cbf8769c917a6048"
+        }
+      ]
+    },
+    {
+      "id": "CY024K3",
+      "path": "镜头设计/图像/控水协作-v046/CY024K3-v046-r1.png",
+      "sha256": "57461e36c680a32904da2bc19ab781aca5230fe03f3a751f3ad7568b8285c1e4",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/控水协作-v046/实际请求-r1.json",
+      "request_sha256": "fe176ba768a9a3e19b6c42e3f3e33ac152381bd8dd1589502cf4c60cd5288e93",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/暗月瞬临-v045/CY024K3-v045-r1.png",
+          "sha256": "79a31c435a15c534cf50f0940caf6aa71c593e15cb6230e0ef62cf0b393b04a0"
+        },
+        {
+          "path": "资产/图像/CHAR-CULTIST-v001.png",
+          "sha256": "1031119f267781bf4aae1171fff4820b7fe5cb5b1b1d34c6cbf8769c917a6048"
+        }
+      ]
+    },
+    {
+      "id": "CY024B",
+      "path": "镜头设计/图像/控水协作-v046/CY024B-v046-r2.png",
+      "sha256": "c45a0df7ba1e36f7a02a8999fc5b0cd5193f0e644abc47c1a81951911b39bb02",
+      "size": [
+        1671,
+        941
+      ],
+      "request": "镜头设计/生成记录/控水协作-v046/中央破窗修正-r2.json",
+      "request_sha256": "501ad750383d4a7a4ce48aa012d02264fd820f0d01be374ca9e8297725454f7e",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/控水协作-v046/CY024B-v046-r1.png",
+          "sha256": "e444aea89502cf4a311577c04d28a325f9a2ffe1f5e4c0a9cc70c29983a91f16"
+        },
+        {
+          "path": "镜头设计/图像/暗月瞬临-v045/CY024B-v045-r1.png",
+          "sha256": "dc949af9feb8c10f780f6eb3527f19c90e5d415033944ed860e8cea78b3bfe6d"
+        }
+      ]
+    },
+    {
+      "id": "CY024B3",
+      "path": "镜头设计/图像/控水协作-v046/CY024B3-v046-r1.png",
+      "sha256": "5d527deb151b8462eb1ec2045fc7edc007fbb29bbbdd1974a7bbab38eb7b3734",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/控水协作-v046/实际请求-r1.json",
+      "request_sha256": "fe176ba768a9a3e19b6c42e3f3e33ac152381bd8dd1589502cf4c60cd5288e93",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/暗月瞬临-v045/CY024K3-v045-r1.png",
+          "sha256": "79a31c435a15c534cf50f0940caf6aa71c593e15cb6230e0ef62cf0b393b04a0"
+        },
+        {
+          "path": "镜头设计/图像/暗月瞬临-v045/CY024B3-v045-r1.png",
+          "sha256": "773e660f7c476d8e447c78ffa5cd6a3dee1090e219856f4cf473f4ea7751934b"
+        }
+      ]
+    },
+    {
+      "id": "CY024B3A",
+      "path": "镜头设计/图像/控水协作-v046/CY024B3A-v046-r1.png",
+      "sha256": "9f47e4450ce755ab733560e05d5575819004a1df9996a8c1875c6efdcbd26f1e",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/控水协作-v046/实际请求-r1.json",
+      "request_sha256": "fe176ba768a9a3e19b6c42e3f3e33ac152381bd8dd1589502cf4c60cd5288e93",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/暗月瞬临-v045/CY024A1-v045-r3.png",
+          "sha256": "1dc36092dbe8b492fa7b7cc2f8f778da41d3f3d00035d3ff898dc2083ef97c29"
+        }
+      ]
+    },
+    {
+      "id": "CY024B1",
+      "path": "镜头设计/图像/控水协作-v046/CY024B1-v046-r1.png",
+      "sha256": "081b32da7ac8585fb7fcf486cdbd3c42d5e28aee329c5851efe86361224a6131",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/控水协作-v046/实际请求-r1.json",
+      "request_sha256": "fe176ba768a9a3e19b6c42e3f3e33ac152381bd8dd1589502cf4c60cd5288e93",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/蓄力与水雷-v038/CY024B1-v038-r1.png",
+          "sha256": "ffbffa58421b166bb1719851c8f98b5a8a19d0f3894ae0db1cf3893750f7f497"
+        },
+        {
+          "path": "镜头设计/图像/暗月瞬临-v045/CY024K3-v045-r1.png",
+          "sha256": "79a31c435a15c534cf50f0940caf6aa71c593e15cb6230e0ef62cf0b393b04a0"
+        },
+        {
+          "path": "资产/图像/CHAR-CULTIST-v001.png",
+          "sha256": "1031119f267781bf4aae1171fff4820b7fe5cb5b1b1d34c6cbf8769c917a6048"
+        }
+      ]
+    }
+  ],
+  "discarded": [
+    {
+      "path": "镜头设计/图像/控水协作-v046/CY024B-v046-r1.png",
+      "reason": "侧窗误破，r2恢复侧窗并保留中央破口"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "shots": 132,
+  "batches": 40,
+  "cues": 61,
+  "film_seconds": 450.9,
+  "all_selected_models_fit": true,
+  "seedance_batches": [
+    "GB014",
+    "GB018",
+    "GB026",
+    "GB031"
+  ],
+  "h3_unsupported_batches": [
+    "GB014",
+    "GB018",
+    "GB026",
+    "GB031"
+  ],
+  "scope": "结构与时间验证；逐字听审、身份缺图与动态口型仍为单独验收项"
+}

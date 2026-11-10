@@ -1,0 +1,132 @@
+{
+  "old_seconds": 464.4,
+  "new_seconds": 483.22,
+  "changed_shots": [
+    {
+      "shot_id": "CY008M",
+      "title": "协议与怜悯：内心争执",
+      "old_seconds": 13.5,
+      "new_seconds": 14.92,
+      "reason": "完整新版日语原速＋必要交接/动作留白"
+    },
+    {
+      "shot_id": "CY015",
+      "title": "偷偷的保证",
+      "old_seconds": 4,
+      "new_seconds": 5.0,
+      "reason": "完整新版日语原速＋必要交接/动作留白"
+    },
+    {
+      "shot_id": "CY016A",
+      "title": "已经试了很久",
+      "old_seconds": 4,
+      "new_seconds": 7.98,
+      "reason": "完整新版日语原速＋必要交接/动作留白"
+    },
+    {
+      "shot_id": "CY024K0",
+      "title": "窗外近景，举刃请门",
+      "old_seconds": 6.5,
+      "new_seconds": 8.29,
+      "reason": "完整新版日语原速＋必要交接/动作留白"
+    },
+    {
+      "shot_id": "CY026D",
+      "title": "月背约定，两路救援",
+      "old_seconds": 7,
+      "new_seconds": 7.47,
+      "reason": "完整新版日语原速＋必要交接/动作留白"
+    },
+    {
+      "shot_id": "CY024A2",
+      "title": "拭汗拨发，确认她的状态",
+      "old_seconds": 3.56,
+      "new_seconds": 7.34,
+      "reason": "完整新版日语原速＋必要交接/动作留白"
+    },
+    {
+      "shot_id": "CY024A6",
+      "title": "云腹聚水，倒悬之海",
+      "old_seconds": 5.04,
+      "new_seconds": 11.35,
+      "reason": "完整新版日语原速＋必要交接/动作留白"
+    },
+    {
+      "shot_id": "CY028A2",
+      "title": "她在下面等你",
+      "old_seconds": 3,
+      "new_seconds": 4.17,
+      "reason": "完整新版日语原速＋必要交接/动作留白"
+    },
+    {
+      "shot_id": "CY028B",
+      "title": "起咏，微光初聚",
+      "old_seconds": 2.76,
+      "new_seconds": 2.35,
+      "reason": "按新版分句衔接并让真实词尾紧接6秒父亲停顿"
+    },
+    {
+      "shot_id": "CY028C",
+      "title": "锁痕与微光",
+      "old_seconds": 2.85,
+      "new_seconds": 1.72,
+      "reason": "按新版分句衔接并让真实词尾紧接6秒父亲停顿"
+    },
+    {
+      "shot_id": "CY029E2",
+      "title": "教主听见她的选择",
+      "old_seconds": 2.3,
+      "new_seconds": 2.74,
+      "reason": "完整新版日语原速＋必要交接/动作留白"
+    }
+  ],
+  "old_batches": 41,
+  "new_batches": 43,
+  "batch_parents": {
+    "GB001": "GB001",
+    "GB002": "GB002",
+    "GB003": "GB003",
+    "GB004": "GB004",
+    "GB004M": "GB004M",
+    "GB005": "GB005",
+    "GB006": "GB006",
+    "GB007": "GB007",
+    "GB008": "GB008",
+    "GB008R2": "GB008",
+    "GB009": "GB009",
+    "GB010": "GB010",
+    "GB011-1": "GB011-1",
+    "GB011-2": "GB011-2",
+    "GB012": "GB012",
+    "GB013": "GB013",
+    "GB014": "GB014",
+    "GB014A": "GB014A",
+    "GB015-1": "GB015-1",
+    "GB015-2": "GB015-2",
+    "GB016-1": "GB016-1",
+    "GB016-2": "GB016-2",
+    "GB017": "GB017",
+    "GB018": "GB018",
+    "GB019": "GB019",
+    "GB020-1": "GB020-1",
+    "GB020-1R2": "GB020-1",
+    "GB020-2": "GB020-2",
+    "GB021": "GB021",
+    "GB022-1": "GB022-1",
+    "GB022-2": "GB022-2",
+    "GB023": "GB023",
+    "GB024": "GB024",
+    "GB025": "GB025",
+    "GB026": "GB026",
+    "GB027": "GB027",
+    "GB028": "GB028",
+    "GB029": "GB029",
+    "GB030-1": "GB030-1",
+    "GB030-2": "GB030-2",
+    "GB031": "GB031",
+    "GB032": "GB032",
+    "GB033": "GB033"
+  },
+  "images_unchanged": true,
+  "full_dry_events": 63
+}

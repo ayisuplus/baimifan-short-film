@@ -1,0 +1,149 @@
+{
+  "1": {
+    "class_type": "UNETLoader",
+    "inputs": {
+      "unet_name": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+      "weight_dtype": "default"
+    }
+  },
+  "2": {
+    "class_type": "MiniMaxH3MemoryEfficientSageAttentionPatch",
+    "inputs": {
+      "model": [
+        "1",
+        0
+      ]
+    }
+  },
+  "3": {
+    "class_type": "LoraLoaderModelOnly",
+    "inputs": {
+      "model": [
+        "2",
+        0
+      ],
+      "lora_name": "minimax_h3_ref2v_turbo_8step_v1.0_768p_comfyui_bf16.safetensors",
+      "strength_model": 1.0
+    }
+  },
+  "4": {
+    "class_type": "CLIPLoader",
+    "inputs": {
+      "clip_name": "qwen3vl_32b_minimax_h3_int8_convrot.safetensors",
+      "type": "minimax",
+      "device": "default"
+    }
+  },
+  "5": {
+    "class_type": "VAELoader",
+    "inputs": {
+      "vae_name": "minimax_h3_video_vae_fp16.safetensors"
+    }
+  },
+  "6": {
+    "class_type": "VAELoader",
+    "inputs": {
+      "vae_name": "minimax_h3_audio_vae_fp32.safetensors"
+    }
+  },
+  "8": {
+    "class_type": "MiniMaxH3DirectorGroupReferenceToVideo",
+    "inputs": {
+      "prompt": "Transform <Video 1> into traditional HAND-DRAWN TWO-DIMENSIONAL JAPANESE ANIME. Preserve the exact same girl Claude, camera angle, framing, chained wrists, wooden cross, body pose and soft pleading performance of Video 1. This is a STYLE REDRAW, not a new action. Keep her subtle restrained movement, concerned pleading eyebrows, natural speaking mouth movements and gaze down toward the child. Copper-orange hair, amber eyes, orange flower at her left temple, ivory lace veil, cream dress with orange floral embroidery, black ribbon at her collar. Redraw her with clean ink contour lines, clearly visible dark outlines, large flat hair color shapes, simple angular TWO-TONE CEL-SHADING shadow patches, matte flat skin and graphic flat fabric folds. Hair should be drawn as broad connected anime locks with a few ink strands and a single flat highlight band, NOT thousands of shiny rendered strands. Face and body use flat painted colors with hard shadow boundaries, NOT soft volumetric gradients or glossy plastic reflections. Fabric lace and embroidery rendered as fine drawn motifs rather than 3D relief. Background is a richly painted gothic cathedral with blue stained glass and warm amber rim accents; keep its layout unchanged, use painted textures rather than physically based rendering. Animation should read as expressive professionally drawn anime cels over a painted background, not a 3D game cutscene, not CGI, not a figurine. Retain all character proportions and recognizable costume features, no redesign. Maintain original camera angle and action timing. One continuous shot, no cuts, no added dialogue text or subtitles, no extra characters, no fire around her.",
+      "duration_sec": 4.0,
+      "ref_image_size": "match",
+      "ref_videos.ref_video_0": [
+        "10",
+        0
+      ]
+    }
+  },
+  "12": {
+    "class_type": "MiniMaxH3Director",
+    "inputs": {
+      "model": [
+        "3",
+        0
+      ],
+      "video_vae": [
+        "5",
+        0
+      ],
+      "audio_vae": [
+        "6",
+        0
+      ],
+      "clip": [
+        "4",
+        0
+      ],
+      "task_type": "r2v — 参考主体生视频(Reference to Video)",
+      "global_prompt": "Transform <Video 1> into traditional HAND-DRAWN TWO-DIMENSIONAL JAPANESE ANIME. Preserve the exact same girl Claude, camera angle, framing, chained wrists, wooden cross, body pose and soft pleading performance of Video 1. This is a STYLE REDRAW, not a new action. Keep her subtle restrained movement, concerned pleading eyebrows, natural speaking mouth movements and gaze down toward the child. Copper-orange hair, amber eyes, orange flower at her left temple, ivory lace veil, cream dress with orange floral embroidery, black ribbon at her collar. Redraw her with clean ink contour lines, clearly visible dark outlines, large flat hair color shapes, simple angular TWO-TONE CEL-SHADING shadow patches, matte flat skin and graphic flat fabric folds. Hair should be drawn as broad connected anime locks with a few ink strands and a single flat highlight band, NOT thousands of shiny rendered strands. Face and body use flat painted colors with hard shadow boundaries, NOT soft volumetric gradients or glossy plastic reflections. Fabric lace and embroidery rendered as fine drawn motifs rather than 3D relief. Background is a richly painted gothic cathedral with blue stained glass and warm amber rim accents; keep its layout unchanged, use painted textures rather than physically based rendering. Animation should read as expressive professionally drawn anime cels over a painted background, not a 3D game cutscene, not CGI, not a figurine. Retain all character proportions and recognizable costume features, no redesign. Maintain original camera angle and action timing. One continuous shot, no cuts, no added dialogue text or subtitles, no extra characters, no fire around her.",
+      "bd_grp_sample": "采样设置",
+      "cfg": 1.0,
+      "seed": 202610300292,
+      "frame_rate": 24.0,
+      "width": 1344,
+      "height": 768,
+      "ref_max_size": 1344,
+      "total_frames": 96,
+      "timeline_data": "{\"output\": {\"mode\": \"fixed\", \"width\": 1344, \"height\": 768, \"audioMode\": \"generate\", \"exportMode\": \"all\", \"continuityEnabled\": false}}",
+      "steps": 8,
+      "sampler": "euler",
+      "scheduler": "simple",
+      "shift_video": 6.0,
+      "shift_audio": 3.0,
+      "clear_vram_between_segments": false,
+      "clear_vram_before_refine": false,
+      "clear_vram_before_face_refine": false,
+      "cache_frames_codec": "raw",
+      "export_source_images": false,
+      "export_pre_face_refine": false,
+      "r2v_groups": [
+        "8",
+        0
+      ]
+    }
+  },
+  "13": {
+    "class_type": "CreateVideo",
+    "inputs": {
+      "images": [
+        "12",
+        0
+      ],
+      "fps": [
+        "12",
+        2
+      ]
+    }
+  },
+  "14": {
+    "class_type": "SaveVideo",
+    "inputs": {
+      "video": [
+        "13",
+        0
+      ],
+      "filename_prefix": "Baimifan/v029/038-2d-redraw-r1-no-upscale",
+      "format": "mp4",
+      "codec": "h264",
+      "format.codec": "h264"
+    }
+  },
+  "9": {
+    "class_type": "LoadVideo",
+    "inputs": {
+      "file": "Baimifan_v029_038_original_motion.mp4"
+    }
+  },
+  "10": {
+    "class_type": "GetVideoComponents",
+    "inputs": {
+      "video": [
+        "9",
+        0
+      ]
+    }
+  }
+}

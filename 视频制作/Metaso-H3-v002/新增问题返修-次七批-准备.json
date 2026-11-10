@@ -1,0 +1,541 @@
+{
+  "status": "independent_prepared_not_submitted",
+  "authorization": "该返修都返修，优先节约；本文件仅独立准备，不改主队列",
+  "strategy": "5调用24秒244.8分；GB028与GB029分别生成不同无声反应，保留因果与动作差异。GB005/GB014/GB018优先剪辑。",
+  "estimated_credits": 244.8,
+  "items": [
+    {
+      "batch_number": 38,
+      "batch_id": "GB028",
+      "attempt_id": "GB028-r002-part1",
+      "repair_source_attempt": "GB028-r001",
+      "film_start": 413.042729,
+      "part_offset": 0,
+      "used_seconds": 4.17,
+      "duration": 5,
+      "shot_ids": [
+        "CY028A2"
+      ],
+      "prompt": "subject_definitions:\nImage 1=Qwen身份；仅服装、面貌，四视图是同一人\nImage 2=DeepSeek身份；仅服装、面貌，四视图是同一人\nImage 3=CY028A2构图与空间依据，不把终态当第一帧\nsummary:\n哥特异世界动画，16:9，5 秒。只拍以下单场景的连续动作；按对应参考保持角色服装发色，不新增人物，不用角色四视图产生分身。无字幕、水印、BGM和可辨台词；最终对白将后期独立铺入。\ndetailed_description:\n[Shot 1] 0–4.17s。固定冷月光下的孩子反应近景，构图按Image 3：蓝发千问在右上，蓝鲸帽小鱼在左下，孩子被千问稳稳抱在怀里。千问蓝紫色长辫保持本色，一臂承托孩子背部、另一支撑身体，扇子不入画。0—1.5秒小鱼疲倦而清醒地慢慢抬眼望向画外较高处的Claude，千问垂眼照看；1.5—4.17秒孩子保持安静仰望，仍轻攥衣襟，不发问也不收紧动作；4.17—5秒仅保持呼吸供舍弃。孩子和千问全程闭唇无声，不替画外人物说话。背景是水灾后的冷蓝教堂柱廊与湿石地，只有冷月光，所有灯具及木柴均已熄灭；空刑架未重新点燃。画内任何位置都没有火焰、火种、火花、橙色发光物或他人伸入的手。Claude始终在画外高处，初蓄或成熟火种只属于她，不出现在小鱼或千问附近。镜头不切入Claude，不切手部魔法，不改变孩子抱持状态。\noverall_soundscape:\n仅自然环境、衣料与动作拟音，无咏唱、呼唤、口头反应和新增旁白。\nnon_diegetic_music:\nN/A",
+      "references": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+          "kind": "identity",
+          "person": "Qwen",
+          "name_en": "Qwen",
+          "asset_id": "MULKZI2W5366M",
+          "status": "作者指定复用",
+          "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+          "purpose": "Qwen四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+          "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+          "original_slot": 1
+        },
+        {
+          "slot": 2,
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+          "kind": "identity",
+          "person": "DeepSeek",
+          "name_en": "DeepSeek",
+          "asset_id": "CHAR-DEEPSEEK",
+          "status": "候选待作者审阅",
+          "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+          "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+          "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+          "original_slot": 2
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/目光与入场-v048/CY028A2-v048-r1.png",
+          "kind": "composition",
+          "shot_id": "CY028A2",
+          "purpose": "构图、空间与代表状态：她在下面等你；不是默认首帧",
+          "status": "v0.48朝向、反应、咏唱及局部色偏修订候选，待作者画面审阅",
+          "limits": "",
+          "sha256": "2006931f94b084f74ff229869ad6da3363000546ef53b1b65a2adcfa85865413",
+          "original_slot": 5
+        }
+      ],
+      "estimated_credits": 51.0,
+      "status": "prepared_independent_recommendation",
+      "accepted": false,
+      "repair_of": {
+        "local_path": "视频制作/Metaso-H3-v002/产物/GB028-r001.mp4"
+      },
+      "source_reuse": [
+        {
+          "in_out": [
+            3.5,
+            6.125
+          ],
+          "target": [
+            4.17,
+            6.52
+          ],
+          "source": "GB028-r001.mp4"
+        },
+        {
+          "in_out": [
+            6.125,
+            10
+          ],
+          "target": [
+            6.52,
+            8.24
+          ],
+          "source": "GB028-r001.mp4"
+        },
+        {
+          "in_out": [
+            10,
+            11.875
+          ],
+          "target": [
+            8.24,
+            12.24
+          ],
+          "source": "GB028-r001.mp4"
+        },
+        {
+          "in_out": [
+            11.875,
+            13.875
+          ],
+          "target": [
+            12.24,
+            14.24
+          ],
+          "source": "GB028-r001.mp4"
+        }
+      ],
+      "additional_use": null,
+      "audio_policy": "仅替换画面；最终干声与BGM沿用冻结绝对时窗，不采用变速原生人声"
+    },
+    {
+      "batch_number": 39,
+      "batch_id": "GB029",
+      "attempt_id": "GB029-r002-part4",
+      "repair_source_attempt": "GB029-r001",
+      "film_start": 435.722729,
+      "part_offset": 8.44,
+      "used_seconds": 4.94,
+      "duration": 5,
+      "shot_ids": [
+        "CY029E4"
+      ],
+      "prompt": "subject_definitions:\nImage 1=Qwen身份；仅服装、面貌，四视图是同一人\nImage 2=DeepSeek身份；仅服装、面貌，四视图是同一人\nImage 3=CY029E4构图与空间依据，不把终态当第一帧\nsummary:\n哥特异世界动画，16:9，5 秒。只拍以下单场景的连续动作；按对应参考保持角色服装发色，不新增人物，不用角色四视图产生分身。无字幕、水印、BGM和可辨台词；最终对白将后期独立铺入。\ndetailed_description:\n[Shot 1] 0–4.94s。固定冷月光下的孩子反应近景，构图按Image 3：蓝发千问在右上，蓝鲸帽小鱼在左下，孩子被千问稳稳抱在怀里。千问蓝紫色长辫保持本色，一臂承托孩子背部、另一支撑身体，扇子不入画。0—1秒小鱼已经抬眼望着画外高处的Claude，安静听她继续咏唱；1—2.5秒小手把千问衣襟攥得更紧，眼神从疲惫转为专注；2.5—4.94秒保持向上凝视，双唇闭合，千问稳稳抱住她；4.94—5秒只延续末态供剪辑。孩子和千问全程闭唇无声，不替画外人物说话。背景是水灾后的冷蓝教堂柱廊与湿石地，只有冷月光，所有灯具及木柴均已熄灭；空刑架未重新点燃。画内任何位置都没有火焰、火种、火花、橙色发光物或他人伸入的手。Claude始终在画外高处，初蓄或成熟火种只属于她，不出现在小鱼或千问附近。镜头不切入Claude，不切手部魔法，不改变孩子抱持状态。\noverall_soundscape:\n仅自然环境、衣料与动作拟音，无咏唱、呼唤、口头反应和新增旁白。\nnon_diegetic_music:\nN/A",
+      "references": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+          "kind": "identity",
+          "person": "Qwen",
+          "name_en": "Qwen",
+          "asset_id": "MULKZI2W5366M",
+          "status": "作者指定复用",
+          "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+          "purpose": "Qwen四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+          "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+          "original_slot": 4
+        },
+        {
+          "slot": 2,
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+          "kind": "identity",
+          "person": "DeepSeek",
+          "name_en": "DeepSeek",
+          "asset_id": "CHAR-DEEPSEEK",
+          "status": "候选待作者审阅",
+          "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+          "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+          "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+          "original_slot": 3
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/目光与入场-v048/CY029E4-v048-r1.png",
+          "kind": "composition",
+          "shot_id": "CY029E4",
+          "purpose": "构图、空间与代表状态：小鱼攥紧衣襟；不是默认首帧",
+          "status": "v0.48朝向、反应、咏唱及局部色偏修订候选，待作者画面审阅",
+          "limits": "",
+          "sha256": "8a4e846a6193fe0734c79dfc3c24edb75fa36f899f9e3893cc60b9515559a24b",
+          "original_slot": 8
+        }
+      ],
+      "estimated_credits": 51.0,
+      "status": "prepared_independent_recommendation",
+      "accepted": false,
+      "repair_of": {
+        "local_path": "视频制作/Metaso-H3-v002/产物/GB029-r001.mp4"
+      },
+      "source_reuse": [
+        {
+          "in_out": [
+            0,
+            2.7
+          ],
+          "source": "GB029-r001.mp4",
+          "target": [
+            0,
+            2.7
+          ]
+        },
+        {
+          "in_out": [
+            2.75,
+            5.49
+          ],
+          "source": "GB029-r001.mp4",
+          "target": [
+            2.7,
+            5.44
+          ]
+        },
+        {
+          "in_out": [
+            6.208333,
+            8.416667
+          ],
+          "source": "GB029-r001.mp4",
+          "target": [
+            5.44,
+            8.44
+          ]
+        }
+      ],
+      "additional_use": null,
+      "audio_policy": "仅替换画面；最终干声与BGM沿用冻结绝对时窗，不采用变速原生人声"
+    },
+    {
+      "batch_number": 36,
+      "batch_id": "GB026",
+      "attempt_id": "GB026-r002-part1",
+      "repair_source_attempt": "GB026-r001",
+      "film_start": 386.842729,
+      "part_offset": 0,
+      "used_seconds": 3,
+      "duration": 4,
+      "shot_ids": [
+        "CY027D"
+      ],
+      "prompt": "subject_definitions:\nImage 1=Qwen身份；仅服装、面貌，四视图是同一人\nImage 2=DeepSeek身份；仅服装、面貌，四视图是同一人\nImage 3=圣骑士身份；仅服装、面貌，四视图是同一人\nImage 4=CY027D构图与空间依据，不把终态当第一帧\nsummary:\n哥特异世界动画，16:9，4 秒。只拍以下单场景的连续动作；按对应参考保持角色服装发色，不新增人物，不用角色四视图产生分身。无字幕、水印、BGM和可辨台词；最终对白将后期独立铺入。\ndetailed_description:\n[Shot 1] 0–3s。采用Image 4原群像构图与每个同伴对应位置，摄影机在正门方向看向长阶，人物面向摄影机所在的正门来敌。最高祭坛在画面背景上方。八位下层同伴含蓝衣千问，千问始终抱着蓝鲸帽小鱼，小鱼双脚悬空贴近千问衣裙，不单独站地或行走；孩子不算持武器迎敌者。两翼只由Image 3银白铠甲骑士守柱廊，不移动加入同伴队列。0—1秒前排抬眼转向镜头所在的入口，1—3秒前排各向镜头方向稳住一步，侧翼持武器警戒，不冲向背景祭坛、不背对摄影机。其余同伴沿群像原位置只做小幅转头收势，不另外设计造型或单人近景。最高祭坛整个区域由厚实不透明暗紫护罩遮住，罩面只有缓慢暗纹，绝不透明或开口，内里的Kimi、Claude、刑架均完全不可见；罩前也不站任何人物。中央高窗已有破口，左右窗完整。3—4秒原位警戒延续，供剪辑舍弃，不新增攻击。GPT本镜不入画、不增加白发龙角分身。\noverall_soundscape:\n仅自然环境、衣料与动作拟音，无咏唱、呼唤、口头反应和新增旁白。\nnon_diegetic_music:\nN/A",
+      "references": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+          "kind": "identity",
+          "person": "Qwen",
+          "name_en": "Qwen",
+          "asset_id": "MULKZI2W5366M",
+          "status": "作者指定复用",
+          "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+          "purpose": "Qwen四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+          "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+          "original_slot": 1
+        },
+        {
+          "slot": 2,
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+          "kind": "identity",
+          "person": "DeepSeek",
+          "name_en": "DeepSeek",
+          "asset_id": "CHAR-DEEPSEEK",
+          "status": "候选待作者审阅",
+          "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+          "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+          "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+          "original_slot": 2
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/CHAR-PALADIN-v001.png",
+          "kind": "identity",
+          "person": "圣骑士",
+          "name_en": "the palace paladins",
+          "asset_id": "CHAR-PALADIN",
+          "status": "候选待作者审阅",
+          "limits": "侧背结构是设计补全，不作为精确工程正交图。队伍枪距、披风碰撞与行进连续性待动态验证。",
+          "purpose": "圣骑士四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+          "sha256": "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d",
+          "original_slot": 3
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/目光与入场-v048/CY027D-v048-r1.png",
+          "kind": "composition",
+          "shot_id": "CY027D",
+          "purpose": "构图、空间与代表状态：八人守门，Kimi守祭坛；不是默认首帧",
+          "status": "v0.48朝向、反应、咏唱及局部色偏修订候选，待作者画面审阅",
+          "limits": "",
+          "sha256": "f97aef426d66c147f3161da161241371c7c2b91f82966231306c4793e9ccb527",
+          "original_slot": 6
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "prepared_independent_recommendation",
+      "accepted": false,
+      "repair_of": {
+        "local_path": "视频制作/Metaso-H3-v002/产物/GB026-r001.mp4"
+      },
+      "source_reuse": [
+        {
+          "in_out": [
+            3.625,
+            6.625
+          ],
+          "target": [
+            3,
+            6
+          ],
+          "source": "GB026-r001.mp4"
+        },
+        {
+          "in_out": [
+            7.25,
+            10.625
+          ],
+          "target": [
+            6,
+            10
+          ],
+          "source": "GB026-r001.mp4"
+        },
+        {
+          "in_out": [
+            10.625,
+            12.25
+          ],
+          "target": [
+            10,
+            12
+          ],
+          "source": "GB026-r001.mp4"
+        }
+      ],
+      "additional_use": null,
+      "audio_policy": "仅替换画面；最终干声与BGM沿用冻结绝对时窗，不采用变速原生人声"
+    },
+    {
+      "batch_number": 42,
+      "batch_id": "GB031",
+      "attempt_id": "GB031-r002-part2",
+      "repair_source_attempt": "GB031-r001",
+      "film_start": 460.022729,
+      "part_offset": 3,
+      "used_seconds": 6,
+      "duration": 6,
+      "shot_ids": [
+        "CY030"
+      ],
+      "prompt": "subject_definitions:\nImage 1=CY030构图与空间依据，不把终态当第一帧\nImage 2=ChatGPT身份；仅服装、面貌，四视图是同一人\nImage 3=Claude身份；仅服装、面貌，四视图是同一人\nImage 4=Qwen身份；仅服装、面貌，四视图是同一人\nImage 5=DeepSeek身份；仅服装、面貌，四视图是同一人\nsummary:\n哥特异世界动画，16:9，6 秒。只拍以下单场景的连续动作；按对应参考保持角色服装发色，不新增人物，不用角色四视图产生分身。无字幕、水印、BGM和可辨台词；最终对白将后期独立铺入。\ndetailed_description:\n[Shot 1] 0–6s。严格保持Image 1的空间方向与出口建筑：摄影机在中殿靠祭坛一端，从队伍背后看向敞开的教堂正门，正门外是夜空、月亮与远处城堡。所有人沿参考中的同一通道缓慢走向远处正门，离开祭坛。燃烧的空刑架在摄影机身后，绝不能出现在正门中或队伍行进前方。保留原群像十二位核心角色：GPT、Claude、小鱼、八位正门同伴（包括千问）、Kimi；不要让步行人数替代被抱人物人数。白发龙角GPT在中央，以两臂持续公主抱橙发Claude，Claude赤足、烧损浅裙与头纱保留，一臂主动搭GPT肩，身体不落地。左侧蓝辫千问怀抱鲸帽小鱼，孩子不独自行走，扇收拢贴身。其余七同伴及Kimi按原群像各自原服色、发型、站位背面行走，不另作近景、不换装、不复制。银白骑士两翼留在殿内柱廊，不加入离开队列；倒地教主与教徒仍在通道两侧，不起身跟随。摄影机缓慢后退或定机，让队伍向出口渐远；不绕轴、不转向祭坛，不把门外城堡改成室内火架。单镜到底，无台词。\noverall_soundscape:\n仅自然环境、衣料与动作拟音，无咏唱、呼唤、口头反应和新增旁白。\nnon_diegetic_music:\nN/A",
+      "references": [
+        {
+          "slot": 1,
+          "path": "镜头设计/图像/火焰伤后与星火-v036/CY030-v036-r1.png",
+          "kind": "composition",
+          "shot_id": "CY030",
+          "purpose": "构图、空间与代表状态：一同走出大殿；不是默认首帧",
+          "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+          "limits": "",
+          "sha256": "4b4969b67a24902301c26f4628fece7d79f6943145e4d3bf585f780258682b75",
+          "original_slot": 8
+        },
+        {
+          "slot": 2,
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+          "kind": "identity",
+          "person": "ChatGPT",
+          "name_en": "ChatGPT",
+          "asset_id": "CHAR-GPT",
+          "status": "候选待作者审阅",
+          "limits": "两侧躯干略带斜角。开衩与腿饰以原图/正面图的角色右腿为准，不按对称读取；尾巴弯曲是姿态参考，侧背含补全。",
+          "purpose": "ChatGPT四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+          "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9",
+          "original_slot": 2
+        },
+        {
+          "slot": 3,
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+          "kind": "identity",
+          "person": "Claude",
+          "name_en": "Claude",
+          "asset_id": "CHAR-CLAUDE",
+          "status": "候选待作者审阅",
+          "limits": "侧背与下裙含补全，不作为精确工程正交图。受缚至离殿采用赤足，四视图鞋仅为日常服装参考。近景不为展示花饰而换侧；不新增另一朵花。",
+          "purpose": "Claude四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+          "sha256": "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a",
+          "original_slot": 1
+        },
+        {
+          "slot": 4,
+          "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+          "kind": "identity",
+          "person": "Qwen",
+          "name_en": "Qwen",
+          "asset_id": "MULKZI2W5366M",
+          "status": "作者指定复用",
+          "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+          "purpose": "Qwen四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+          "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+          "original_slot": 4
+        },
+        {
+          "slot": 5,
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+          "kind": "identity",
+          "person": "DeepSeek",
+          "name_en": "DeepSeek",
+          "asset_id": "CHAR-DEEPSEEK",
+          "status": "候选待作者审阅",
+          "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+          "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+          "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+          "original_slot": 3
+        }
+      ],
+      "estimated_credits": 61.2,
+      "status": "prepared_independent_recommendation",
+      "accepted": false,
+      "repair_of": {
+        "local_path": "视频制作/Metaso-H3-v002/产物/GB031-r001.mp4"
+      },
+      "source_reuse": [
+        {
+          "note": "叠化前截止，轻延至3秒",
+          "in_out": [
+            2.5,
+            5.458333
+          ],
+          "target": [
+            0,
+            3
+          ],
+          "source": "GB031-r001.mp4"
+        },
+        {
+          "note": "街市尾镜慢放至5秒",
+          "in_out": [
+            10.416667,
+            14.375
+          ],
+          "target": [
+            9,
+            14
+          ],
+          "source": "GB031-r001.mp4"
+        }
+      ],
+      "additional_use": null,
+      "audio_policy": "仅替换画面；最终干声与BGM沿用冻结绝对时窗，不采用变速原生人声"
+    },
+    {
+      "batch_number": 40,
+      "batch_id": "GB030-1",
+      "attempt_id": "GB030-1-r002-part45",
+      "repair_source_attempt": "GB030-1-r001",
+      "film_start": 450.022729,
+      "part_offset": 9.36,
+      "used_seconds": 4,
+      "duration": 4,
+      "shot_ids": [
+        "CY029C",
+        "CY029D"
+      ],
+      "prompt": "subject_definitions:\nImage 1=Claude身份；仅服装、面貌，四视图是同一人\nImage 2=ChatGPT身份；仅服装、面貌，四视图是同一人\nImage 3=CY029C构图与空间依据，不把终态当第一帧\nImage 4=CY029D构图与空间依据，不把终态当第一帧\nsummary:\n哥特异世界动画，16:9，4 秒。只拍以下单场景的连续动作；按对应参考保持角色服装发色，不新增人物，不用角色四视图产生分身。无字幕、水印、BGM和可辨台词；最终对白将后期独立铺入。\ndetailed_description:\n[Shot 1] 0–2s。画内只有橙发Claude和白发龙角GPT，Image 3为失衡中间态，Image 4为接重起抱阶段。水平摄影机同侧中景，Claude仍站立，烧损浅裙、左鬓花饰、头纱和赤足持续，右侧GPT靠近。空刑架在后方画缘自行燃烧。0—0.6秒Claude已经放下施法手，膝微软，髋向左下失去支撑，肩向右侧GPT倾去；0.6—2秒GPT立刻从右侧跨入、弯膝，用一臂托住上背，另一臂向膝弯探入。Claude的臀、膝、裙身绝不接触地面，她不是跪下、坐下或摔倒，双脚起初仍着地、体重已被GPT接走。Claude近侧手脱力下垂，头与GPT头保持分开。\n[Shot 2] 2–4s。沿同侧略放宽镜头，接同一次向右失衡与承托。GPT上背承托的手不松开，另一臂已经进入Claude膝弯，弯膝承担重量后向上起身；2—3秒Claude双脚一起离地，3—4秒继续起抱进入稳定公主抱。全程是站立失力被接住，不出现从地上捞起的动作。两臂分别清楚承托上背和膝弯，Claude身体不穿过手臂、不自己攀附成站姿。她仍虚弱有意识，尚未主动搭肩；搭肩留后续镜头。不要先让她坐地再补抱起，不重复接重，不添加第二个GPT或Claude。全段无对白、无落地撞击声。\noverall_soundscape:\n仅自然环境、衣料与动作拟音，无咏唱、呼唤、口头反应和新增旁白。\nnon_diegetic_music:\nN/A",
+      "references": [
+        {
+          "slot": 1,
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+          "kind": "identity",
+          "person": "Claude",
+          "name_en": "Claude",
+          "asset_id": "CHAR-CLAUDE",
+          "status": "候选待作者审阅",
+          "limits": "侧背与下裙含补全，不作为精确工程正交图。受缚至离殿采用赤足，四视图鞋仅为日常服装参考。近景不为展示花饰而换侧；不新增另一朵花。",
+          "purpose": "Claude四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+          "sha256": "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a",
+          "original_slot": 1
+        },
+        {
+          "slot": 2,
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+          "kind": "identity",
+          "person": "ChatGPT",
+          "name_en": "ChatGPT",
+          "asset_id": "CHAR-GPT",
+          "status": "候选待作者审阅",
+          "limits": "两侧躯干略带斜角。开衩与腿饰以原图/正面图的角色右腿为准，不按对称读取；尾巴弯曲是姿态参考，侧背含补全。",
+          "purpose": "ChatGPT四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+          "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9",
+          "original_slot": 2
+        },
+        {
+          "slot": 3,
+          "path": "镜头设计/图像/关键动作-v062/CY029C-v062-r3.png",
+          "kind": "composition",
+          "shot_id": "CY029C",
+          "purpose": "构图、空间与代表状态：收手后脱力；不是默认首帧",
+          "status": "v062关键动作新候选，作者已授权改拍，待成图审阅",
+          "limits": "",
+          "sha256": "38e05ea54215ca5ced2c22e6bcbf1ece71627214adf2759461069ce2bcc1dcd1",
+          "original_slot": 6
+        },
+        {
+          "slot": 4,
+          "path": "镜头设计/图像/关键动作-v062/CY029D-v062-r2.png",
+          "kind": "composition",
+          "shot_id": "CY029D",
+          "purpose": "构图、空间与代表状态：及时托住；不是默认首帧",
+          "status": "v062关键动作新候选，作者已授权改拍，待成图审阅",
+          "limits": "",
+          "sha256": "26b98e245d2de511a8e41d5a5ef6d532ff7b2e7c4e12d012f4a3394191663f30",
+          "original_slot": 7
+        }
+      ],
+      "estimated_credits": 40.8,
+      "status": "prepared_independent_recommendation",
+      "accepted": false,
+      "repair_of": {
+        "local_path": "视频制作/Metaso-H3-v002/产物/GB030-1-r001.mp4"
+      },
+      "source_reuse": [
+        {
+          "in_out": [
+            0,
+            4.375
+          ],
+          "target": [
+            0,
+            4.36
+          ],
+          "source": "GB030-1-r001.mp4"
+        },
+        {
+          "in_out": [
+            4.375,
+            6.791667
+          ],
+          "target": [
+            4.36,
+            6.36
+          ],
+          "source": "GB030-1-r001.mp4"
+        },
+        {
+          "in_out": [
+            6.791667,
+            9.333333
+          ],
+          "target": [
+            6.36,
+            9.36
+          ],
+          "source": "GB030-1-r001.mp4"
+        }
+      ],
+      "additional_use": null,
+      "audio_policy": "仅替换画面；最终干声与BGM沿用冻结绝对时窗，不采用变速原生人声"
+    }
+  ]
+}

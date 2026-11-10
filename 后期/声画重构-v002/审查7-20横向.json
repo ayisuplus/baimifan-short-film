@@ -1,0 +1,96 @@
+{
+  "scope": "实际查看v001-r3第7–20批全部现有2fps联系表，关注跨镜空间与叙事，不替代另两代理逐句听画审。",
+  "audio_review": "未实听。",
+  "items": [
+    {
+      "batches": [
+        7,
+        8
+      ],
+      "film_start": 79.583333,
+      "film_end": 104.291667,
+      "category": "桥接缺失",
+      "finding": "殿底进入后一切就到高处Claude旁，缺上阶空间过渡。",
+      "minimal_repair": "最小补上阶约3秒；现v005已补。",
+      "new_shot_needed": true
+    },
+    {
+      "batches": [
+        9
+      ],
+      "film_start": 104.291667,
+      "film_end": 118.291667,
+      "category": "情绪节拍",
+      "finding": "开锁重复不宜全按等速剪；失败→喘息→听见来人的因果需要停顿。",
+      "minimal_repair": "保留2–3秒失败与听声转头，不必须重生。",
+      "new_shot_needed": false
+    },
+    {
+      "batches": [
+        10,
+        11
+      ],
+      "film_start": 118.291667,
+      "film_end": 132.666667,
+      "category": "桥接缺失",
+      "finding": "高处望搬木者后马上地面抱木，空间跃迁。",
+      "minimal_repair": "补下阶3秒；新推木5秒明确抵抗与被推开。",
+      "new_shot_needed": true
+    },
+    {
+      "batches": [
+        12,
+        13,
+        14
+      ],
+      "film_start": 132.666667,
+      "film_end": 162.125,
+      "category": "受力与停顿",
+      "finding": "推人段动作准备不足；跌倒后的停顿是小鱼受伤和无力的必要情绪。",
+      "minimal_repair": "最小推肩→跌坐3.5秒；保留14批挣扎与抓衣，勿继续加速。",
+      "new_shot_needed": true
+    },
+    {
+      "batches": [
+        15,
+        16,
+        17
+      ],
+      "film_start": 162.125,
+      "film_end": 193.208333,
+      "category": "冲突打断",
+      "finding": "慢慢登阶和燃火需要悬念，踹门原剪仅约0.58秒不足看清蓄力与门开；入场全景可建立正门轴线。",
+      "minimal_repair": "保留教主缓行；踹门1–3秒；17门口群像至少2秒。现v005有新踹门。",
+      "new_shot_needed": false
+    },
+    {
+      "batches": [
+        18,
+        19
+      ],
+      "film_start": 193.208333,
+      "film_end": 216.166667,
+      "category": "因果顺序",
+      "finding": "19批早段已出现木架劈开结果，随后才看到刀触木，原素材结果先于原因；后窗与正门是两路进攻须保持区别。",
+      "minimal_repair": "删除前置结果约本批2.1–2.9秒，窗口飞刀→触木→木裂→Kimi抵达；用现有Claude及后窗宽景放在木裂后可免新增空间镜。若无法接才补2秒触木。",
+      "new_shot_needed": false
+    },
+    {
+      "batches": [
+        20
+      ],
+      "film_start": 216.166667,
+      "film_end": 220.166667,
+      "category": "防守建立",
+      "finding": "护罩先合拢后迎击成立，过快切会弱化保护已到位。",
+      "minimal_repair": "第一次碰撞前留0.3–0.5秒闭合罩成立，不需全批重生。",
+      "new_shot_needed": false
+    }
+  ],
+  "limits": "2fps能确认缺桥、结果先于原因和姿态；准确剪点须原帧确认，表内19局部区间为提取复核范围而非承诺帧级EDL。",
+  "evidence": [
+    "后期/声画重构-v002/证据/独立01-15/B7-r3-full-2fps.jpg 至 B15-r3-full-2fps.jpg",
+    "后期/声画重构-v002/证据16-30/B16-01.jpg 至 B20-01.jpg"
+  ],
+  "latest_note": "此报告是修法依据；v005上/下阶、推搡、踹门已生成，不能将已完成桥接再次列为待付费。"
+}

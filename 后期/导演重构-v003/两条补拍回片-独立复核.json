@@ -1,0 +1,31 @@
+{
+  "status":"visual_candidates_for_edit_not_final_playback_acceptance",
+  "items":[
+    {
+      "source":"视频制作/Metaso-H3-v006/产物/GB015-2-v006-CY024K3-defense-r1.mp4",
+      "verdict":"后期可采用，不必立即再生成",
+      "improvement":"能看见Kimi低位起身、脚掌落地拉开步幅、右臂挥刃、来袭时肩膝后坐承重。明显比旧远景自动冒盾更有主动性。",
+      "residuals":["约2秒弧面已成，2.75秒来束，仍有约0.75秒静等；可删中段同姿态等待。","4.5秒以后罩是半透明，人物仍可见，不符合既有不透明暗月罩；必须接旧不透明余波，不能直接用新尾。"],
+      "candidate_edl":[
+        {"source":"视频制作/Metaso-H3-v006/产物/GB015-2-v006-CY024K3-defense-r1.mp4","in":0,"out":2.0,"duration":2.0},
+        {"source":"视频制作/Metaso-H3-v006/产物/GB015-2-v006-CY024K3-defense-r1.mp4","in":2.625,"out":4.25,"duration":1.625},
+        {"source":"视频制作/Metaso-H3-v003/剪辑候选/GB015-2-v003.mp4","in":3.25,"out":4.0,"duration":0.75}
+      ],
+      "total_seconds":4.375,
+      "join_note":"第一切为同机位持盾相近姿态；第二切以外部反打解释罩完整闭合，旧段只用已撞后的余波，不接旧发射再打一遍。新旧罩色彩可向深靛收拢，保持同次撞击声音连续。待时间线正常速度核一下这两切，不导出视频也可在编辑器核验。",
+      "evidence":["证据/GB015-2-v006-CY024K3-defense-r1-2fps.jpg","证据/Kimi-v006-1.5to3.5-8fps.jpg"]
+    },
+    {
+      "source":"视频制作/Metaso-H3-v006/产物/GB019-v006-CY024A9-caster-r1.mp4",
+      "verdict":"画面主体与施术结果可采用；音频逐音和保调听感仍需听审",
+      "improvement":"0–约7.25秒GPT可辨脸/嘴/手，水珠从手势附近出现；后段转手与上浮水珠，约13.5秒进入月夜云景。没有继续15秒单一头像。",
+      "candidate_range":[0,13.625],
+      "insert_existing_action":{"source":"视频制作/Metaso-H3-v002/剪辑候选/GB019-v002.mp4","source_range":[0,4.5],"target_range":[2.25,6.75],"purpose":"保留敌矛→扇叶对抗，覆盖画面但Audio1连续"},
+      "audio_boundary":"按实际GPT补拍音频对位.json，第二句从7.031458起，6.514125秒长，末13.545583；不能按理论13.467或整数13.5裁断。",
+      "caution":"2.25–6.75插入旧动作后，第一句尾只有约0.5秒GPT脸；若听感上‘纯水之主’仍缺可见主体，应将扇挡插段向前挪，而不是再扩近景长度。第一轮可用此最小方案，接受前核台词对应。",
+      "evidence":["证据/GB019-v006-CY024A9-caster-r1-2fps.jpg"],
+      "limits":"2fps可证角色归属/机位变化/手势，不能声称逐音口型通过；未对模型生成音轨作听审，不自动用其替换现选原干声。"
+    }
+  ],
+  "actions":"只读既有回片、输出静帧证据和JSON；没有调用达芬奇、没有新视频导出。"
+}

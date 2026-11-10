@@ -1,0 +1,270 @@
+{
+  "engine": "built-in imagegen",
+  "status": "in_progress_tianpu_direction_pending",
+  "outputs": [
+    {
+      "key": "01-驱逐",
+      "request": "01-驱逐-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-6db201df-64fb-4f5a-8487-eef1f5f54bf5.png",
+      "copy": "镜头设计/图像/CY003C-教徒驱逐-v001.png",
+      "sha256": "2fe1f01b0cc84a9275908aa4c10966320ec928d1baaeb13fa8e4572afcdbadf9",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "key": "02-宫殿",
+      "request": "02-宫殿-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-0b448234-62bf-4d9e-955a-342c749ff94b.png",
+      "copy": "镜头设计/图像/CY010-宫殿大侧远景-v001.png",
+      "sha256": "a0a16579444e865604754943a0fc8a6f103be21b8acbc953b15821a0d4714b80",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "key": "03-祭坛",
+      "request": "03-祭坛-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-cd686ac6-ff24-4327-828a-133e7ea0d503.png",
+      "copy": "镜头设计/图像/CY013-祭坛空间母版-v001.png",
+      "sha256": "c4fba4be094654f85f1f48cc7e7f12649ac89ee5704185eaf0403cae9cc71e58",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "key": "04-群像",
+      "request": "04-群像-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-eb7a1bc2-1078-441a-97d0-d309e8d510d5.png",
+      "copy": "镜头设计/图像/CY024-援军纵深队形-v001.png",
+      "sha256": "e3c691f27e15d0ef56b5631e9a8706fc8a671e12fb75a423bcea5153f441ab3d",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "key": "05-倒影",
+      "request": "05-倒影-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-408bf990-f281-4afd-84ea-ee54d1ad8648.png",
+      "copy": "镜头设计/图像/CY025-眼中GPT-v001.png",
+      "sha256": "af1d519b70e6f2a8e421a4cc690a6ff3b6ebb0859b609249c7ee49b7f2350ab7",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "key": "06-脚部与营救",
+      "request": "06-脚部与营救-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-1db68321-be6c-49ce-b517-00d972923b8b.png",
+      "copy": "镜头设计/图像/脚部与营救-四格-v001.png",
+      "sha256": "78471017cbe9e83658fb967be66f23daa30486e4f578cf0da3da08af75284396",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "key": "07-护罩灭火",
+      "request": "07-护罩灭火-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-43131ed3-a97e-4aae-8394-c13e1d6ad261.png",
+      "copy": "镜头设计/图像/火焰护罩水魔法-四格-v001.png",
+      "sha256": "2f2cd1f3b8cfac9f950bb78f07472f83dd8edc155b4d28e9dd97e9eafd1cc5af",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "key": "08-火把交接",
+      "request": "08-火把交接-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-fe4d9e31-f9d1-4838-95ff-48f0e4c03a58.png",
+      "copy": "镜头设计/图像/CY021A-低柴火把交接-v001.png",
+      "sha256": "1c7cde26e3fcb6b545297cb306bdfc1b020614585ab15b079c24be92b6fd4c49",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "key": "09-赤足三阶母版",
+      "request": "09-赤足三阶母版-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-45d50e71-a60e-4f48-bde3-9c7ddb0ab1e1.png",
+      "copy": "镜头设计/图像/CY013-祭坛空间母版-v002.png",
+      "sha256": "0122afd2633ca69b26562915ce61ae9e5a7598ea41e5ce596f7c8829d30fc5fc",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "key": "10-赤足解锁",
+      "request": "10-赤足解锁-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-df4dab7f-e30b-4410-95a5-7af8b588efc0.png",
+      "copy": "镜头设计/图像/脚部与营救-四格-v002.png",
+      "sha256": "d31708013afb56a13487839c0eb46fa8c56eef3a0fea06ab57e150fe99485538",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "key": "11-赤足护罩水魔法",
+      "request": "11-赤足护罩水魔法-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-1d72e730-319b-4e3e-9d50-5f505e70f508.png",
+      "copy": "镜头设计/图像/火焰护罩水魔法-四格-v002.png",
+      "sha256": "2a5984d9630d006fdbf65a82704da576a39bf290e3611e35bf5709d3d571a414",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "key": "12-赤足火把交接",
+      "request": "12-赤足火把交接-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-eeaf0545-416e-41ff-bc18-b907cf35d05a.png",
+      "copy": "镜头设计/图像/CY021A-低柴火把交接-v002.png",
+      "sha256": "0070f4d98a4052988a71f7d478c7cba204f2fad111c182d7d2246851e68db2b6",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "key": "13-空堂三阶",
+      "request": "13-空堂三阶-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-e126fa44-54b3-4839-a2a9-e70252f44d9c.png",
+      "copy": "镜头设计/图像/CY012-空堂三阶-v001.png",
+      "sha256": "4568a2883d50b307f1d3ca44b43bbe54c44c6ebdc7f4f4ba02e7bced75747518",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "key": "14-阻拦三阶",
+      "request": "14-阻拦三阶-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-43c2b6fe-ef32-44ad-b101-6b14270fe830.png",
+      "copy": "镜头设计/图像/空间修订C-三阶-v003.png",
+      "sha256": "cb8a93d36d0ad8f3a0a0ee6e978bfc4b0dd5ac481e2981e62f3211cfbe57bf6a",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "key": "15-教徒三阶",
+      "request": "15-教徒三阶-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-c01304ef-965c-4602-931c-3a90acd9e227.png",
+      "copy": "镜头设计/图像/S04-三阶祭坛-v003.png",
+      "sha256": "836573da94ce09ad4fd2104d9367a656fb3b050f0a4ef41a41f5660d167acde7",
+      "size": [
+        1364,
+        1153
+      ]
+    },
+    {
+      "key": "16-战斗三阶",
+      "request": "16-战斗三阶-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-c9339e19-9cbe-40ab-936d-42aefc8204e6.png",
+      "copy": "镜头设计/图像/S05E-三阶祭坛-v005.png",
+      "sha256": "826c22880ced330272ecb082c6268c302e20d9056aa0a51c0be77077aebba1b5",
+      "size": [
+        1367,
+        1151
+      ]
+    },
+    {
+      "key": "17-落地赤足",
+      "request": "17-落地赤足-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-48322e2f-5812-41bc-83d4-f1f5092e6d41.png",
+      "copy": "镜头设计/图像/空间修订F-赤足站稳-v003.png",
+      "sha256": "336eb1e5c178b3ae64267a6035173e75c4cb2a934ee05c55c056389bcc9166a5",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "key": "18-脚部纠错",
+      "request": "18-脚部纠错-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-970a65f4-6e0e-4aa4-a8ef-b70b99f6d1ae.png",
+      "copy": "镜头设计/图像/脚部与营救-四格-v003.png",
+      "sha256": "5f852936ecc308f16e810f516c74737df80d9f20beebe515214de69590405f89",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "key": "19-空堂减阶纠错",
+      "request": "19-空堂减阶纠错-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-c1e05293-11d5-4d42-bf3f-a6f42300ad14.png",
+      "copy": "镜头设计/图像/CY012-空堂三阶-v002.png",
+      "sha256": "bef0eba01fe0cf8a40f6089d334eaeb5cbcb7fa4cd1fcfbd7c27719136b2abbf",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "key": "20-教徒减阶纠错",
+      "request": "20-教徒减阶纠错-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-cb74f71e-7d06-4e9c-88aa-864cfeb04a00.png",
+      "copy": "镜头设计/图像/S04-三阶祭坛-v004.png",
+      "sha256": "290a4d0206f4e22642b57de64664e74c0c1019d4e37f43d31bc459fd10e42905",
+      "size": [
+        1363,
+        1154
+      ]
+    },
+    {
+      "key": "21-落地支点纠错",
+      "request": "21-落地支点纠错-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-f73cffd6-3a72-48c4-801f-cf41dd1f9b37.png",
+      "copy": "镜头设计/图像/空间修订F-赤足站稳-v004.png",
+      "sha256": "3c606cb06a1bd702ef6e972f99186e37cce12c75becb8b1d335a7f9598405c75",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "key": "22-阻拦减阶纠错",
+      "request": "22-阻拦减阶纠错-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-edfe1e6f-563b-4b25-b4a6-c857bba1508d.png",
+      "copy": "镜头设计/图像/空间修订C-三阶-v004.png",
+      "sha256": "52b6b7a8db253e95cc6f1cae569457a234355fc5e9331f02ad36aa32b95a3b1a",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "key": "23-对峙减阶纠错",
+      "request": "23-对峙减阶纠错-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-1da96047-8ed7-4a23-8885-f75f1e831772.png",
+      "copy": "镜头设计/图像/S05E-三阶祭坛-v006.png",
+      "sha256": "d13faac94ebef192aacc1cc4b3d60911ef3afdec2f3941f9b6bacafc33cc0258",
+      "size": [
+        1367,
+        1150
+      ]
+    },
+    {
+      "key": "24-点火减阶纠错",
+      "request": "24-点火减阶纠错-请求.json",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-839764b0-81de-40d2-8783-92fce58dddc6.png",
+      "copy": "镜头设计/图像/火焰护罩水魔法-四格-v003.png",
+      "sha256": "052a1f629135863ee5ea08546f3af2d26ed28c6a76a6f3e77ba20ed87ee1cc82",
+      "size": [
+        1672,
+        941
+      ]
+    }
+  ]
+}

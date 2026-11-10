@@ -1,0 +1,23 @@
+{
+  "status": "trial_not_adopted",
+  "images": 3,
+  "hashes": "match",
+  "page_links": "all_local_targets_exist",
+  "image_review": "root_and_independent_reviewer_viewed_both_current_candidates",
+  "main_previs": "v0.49_unchanged",
+  "dialogue": "pure_water_redemption_text_saved_in_trial_no_new_audio",
+  "dynamic": "not_generated_or_validated",
+  "limitations": [
+    "Arrival eye highlight can be softened to read as water rather than independent creature",
+    "Dragon head must retain form until approaching impact, then dissolve to surf"
+  ],
+  "browser": {
+    "page": "水龙试演-v001.html",
+    "two_images_loaded": true,
+    "natural_widths": [
+      1672,
+      1672
+    ],
+    "screenshot": "镜头设计/图像/水龙召临-v001/试演页.png"
+  }
+}

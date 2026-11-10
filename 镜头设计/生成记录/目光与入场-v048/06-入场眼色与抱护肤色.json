@@ -1,0 +1,18 @@
+[
+  {
+    "id": "CY024",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/月刃救援-v041/CY024-v041-r1.png"
+    ],
+    "prompt": "Minimal local iris-color correction of this exact 16:9 anime group arrival frame. Only change the BLONDE black-and-red armored AXE-wielding woman just behind GPT on SCREEN RIGHT (Grok): her two irises are wrongly orange-red; restore BLUE irises with dark pupils, clean white sclera, natural eyelid skin and no red glow. Every other character's eyes, every face shape and expression, all pose, weapons, clothing colors, decorations, cathedral, lights, framing and count must remain exactly as the input. Do not alter the orange-haired red-hat woman's amber eyes. No redesign, no text. This is just the two irises on the blonde axe woman."
+  },
+  {
+    "id": "CY024A0",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/千问抱紧我-v037/CY024A0-v037-r1.png"
+    ],
+    "prompt": "Minimal local skin-color edit of exact anime image, preserve complete 16:9 composition. Remove the strong pink cheek blush patches and diagonal blush hatching on lavender-haired Qwen's face. Reduce broad blush patches on blue-haired DeepSeek child's cheeks to a faint natural skin tone, keeping slight tear irritation right at eyelid margins. Match each cheek to that character's forehead/chin under existing warm-edge/cool-key light, do not globally relight. Keep Qwen's BLUE-VIOLET irises, child's BLUE irises, white sclera, original tears and face dirt, caring/worried expressions, delicate eyelashes, face geometry, EXACT cradling arms, child's grip, closed fan, costume details, hair ornament side and background candles. No expression changes, no smoothing away mud or tears, no extra hands, no text."
+  }
+]

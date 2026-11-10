@@ -1,0 +1,30 @@
+[
+  {
+    "name": "004-key-r1",
+    "type": "key",
+    "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\source\\004-first.png",
+    "seed": 202610303525,
+    "prompt": "Repaint this exact frame into traditional hand-drawn Japanese 2D gothic anime, preserving the camera, composition, all silhouettes, person count, identities, face shapes, gaze and poses. Clear continuous ink outlines, broad connected hair locks, matte skin, two-tone hard-edged cel shading, painted background and simplified hand-drawn ornament. Remove realistic individual hair strands, plastic gloss, PBR embroidery, photoreal microtexture and mirror-like surface detail. Do not redesign characters, camera, environment or staging. No captions or text. The small foreground devil GPT already has the correct 2D design: PRESERVE her folded arms, skeptical face, dark red horns, red membrane wings, pale hair and small white tail. She is a symbolic chibi conscience, not another physical visitor. Preserve the exact adult GPT figure behind on the purple couch, her face direction, hand and torso pose. Flatten and simplify adult hair, skin and upholstery material only, with less visual contrast in the background than on the chibi. Keep all palace lights and objects. No angel figure, feather wings on the devil, new gesture or changed pose."
+  },
+  {
+    "name": "005-key-r1",
+    "type": "key",
+    "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\source\\005-first.png",
+    "seed": 202610303526,
+    "prompt": "Repaint this exact frame into traditional hand-drawn Japanese 2D gothic anime, preserving the camera, composition, all silhouettes, person count, identities, face shapes, gaze and poses. Clear continuous ink outlines, broad connected hair locks, matte skin, two-tone hard-edged cel shading, painted background and simplified hand-drawn ornament. Remove realistic individual hair strands, plastic gloss, PBR embroidery, photoreal microtexture and mirror-like surface detail. Do not redesign characters, camera, environment or staging. No captions or text. The small foreground angel GPT already has the correct 2D design. PRESERVE her white feather wings and halo: this is the symbolic angel conscience, so feather wings are intentional. Keep lavender eyes, white horns, spiral temple ornament, pale lavender hair and hands near her chest. Preserve the partial adult white sleeve and purple couch in the background, only simplifying their realistic fabric highlights into painted cel shapes. The background stays lower-contrast and softer than the chibi. Do not change feathers into membrane wings or remove the halo."
+  },
+  {
+    "name": "009-key-r1",
+    "type": "key",
+    "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\source\\009-first.png",
+    "seed": 202610303527,
+    "prompt": "Repaint this exact frame into traditional hand-drawn Japanese 2D gothic anime, preserving the camera, composition, all silhouettes, person count, identities, face shapes, gaze and poses. Clear continuous ink outlines, broad connected hair locks, matte skin, two-tone hard-edged cel shading, painted background and simplified hand-drawn ornament. Remove realistic individual hair strands, plastic gloss, PBR embroidery, photoreal microtexture and mirror-like surface detail. Do not redesign characters, camera, environment or staging. No captions or text. Preserve this exact over-the-shoulder shot. Adult pale-haired GPT is cropped in the LEFT foreground, seen from behind; simplify the existing thin strands into broad inked lavender locks and gold ornament into flat drawn lines. Do not turn her face toward camera. Far down the hall, tiny blue whale-hat Xiaoyu is seen FROM BEHIND walking AWAY toward the existing luminous doorway in the distance. Do not move her toward GPT, add another child or relocate the doorway. Keep the long perspective and floor pattern; paint floor reflections as subdued broad shapes. Preserve the existing cool dim palace and sparse lamps, no new brightness."
+  },
+  {
+    "name": "019a-key-r1",
+    "type": "key",
+    "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\source\\019a-first.png",
+    "seed": 202610303528,
+    "prompt": "Repaint this exact frame into traditional hand-drawn Japanese 2D gothic anime, preserving the camera, composition, all silhouettes, person count, identities, face shapes, gaze and poses. Clear continuous ink outlines, broad connected hair locks, matte skin, two-tone hard-edged cel shading, painted background and simplified hand-drawn ornament. Remove realistic individual hair strands, plastic gloss, PBR embroidery, photoreal microtexture and mirror-like surface detail. Do not redesign characters, camera, environment or staging. No captions or text. Preserve the close candle insert: one short ivory candle with the existing thick wax ridges, a small ordinary AMBER flame, the same dark-gold holder and cool blue stone behind. Convert wax translucency and specular texture into matte painted planes with simple inked wax contours. This is an ordinary room candle, NOT the priest magic torch: no purple or black flame. Keep the exact diagonal low angle, candle height, wax shape and holder scale. Do not add a person, second candle, magic glow, smoke or text."
+  }
+]

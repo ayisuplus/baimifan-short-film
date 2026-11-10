@@ -1,0 +1,40 @@
+{
+  "id": "BGM-CY-KH-09",
+  "bvid": "BV1jm4y1Z7Rb",
+  "part": 9,
+  "title": "The King",
+  "display_title": "国王",
+  "work": "天国王朝",
+  "composer": "Harry Gregson-Williams",
+  "source_page_title": "The King",
+  "navigation_translation": "中文名为导航释义，原名保留。",
+  "cid": 504349001,
+  "source": "https://www.bilibili.com/video/BV1jm4y1Z7Rb/?p=9",
+  "uploader": "xtrikil",
+  "video_title": "【电影音乐】天国王朝 - 原声合集",
+  "path": "资产/声音/BGM/重选-v004/BGM-CY-KH-09.m4a",
+  "bytes": 5711473,
+  "sha256": "5305d8091c95ff4122d102dffa005219fc50b61e2fc9fe43c6b0043468d94f93",
+  "duration": 344.0645,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "bit_rate": "131957"
+      }
+    ],
+    "format": {
+      "duration": "344.064500"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

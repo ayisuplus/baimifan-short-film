@@ -1,0 +1,212 @@
+{
+  "version": "v002-alignment-delta-1",
+  "base": "音效设计-对位.json 175条冻结不改",
+  "operation": "append_events_only",
+  "basis": "普通事件继续以v001-r3批内秒交给现有映射；B17使用gpt_entry采用段anchor。不要当成替换175条全集。",
+  "audition_status": "未实听；音源单步由RMS峰选取。画面当前计划使用源窗口4fps实际检查，接触估计容差约±0.125秒；不得称逐帧或最终混音通过。",
+  "events": [
+    {
+      "batch_number": 3,
+      "relative_time": 2.5,
+      "source_id": "walk-leather-shoes1",
+      "source_in": 4.445,
+      "duration": 0.26,
+      "gain_db": -30,
+      "track": "Foley",
+      "purpose": "近景上阶独立脚触石阶，远景前2秒不铺近距离脚步。",
+      "fade_in": 0.004,
+      "fade_out": 0.035,
+      "lowpass": 4800
+    },
+    {
+      "batch_number": 3,
+      "relative_time": 2.95,
+      "source_id": "walk-leather-shoes1",
+      "source_in": 5.965,
+      "duration": 0.26,
+      "gain_db": -30,
+      "track": "Foley",
+      "purpose": "近景上阶独立脚触石阶，远景前2秒不铺近距离脚步。",
+      "fade_in": 0.004,
+      "fade_out": 0.035,
+      "lowpass": 4800
+    },
+    {
+      "batch_number": 17,
+      "relative_time": 0.3125,
+      "source_id": "walk-leather-shoes1",
+      "source_in": 4.445,
+      "duration": 0.26,
+      "gain_db": -28,
+      "track": "Foley",
+      "purpose": "群像进入时GPT短步；源1.25/1.875/2.375秒，已按源1–3秒放为2.5秒换算。",
+      "fade_in": 0.004,
+      "fade_out": 0.035,
+      "lowpass": 4800,
+      "anchor": "gpt_entry"
+    },
+    {
+      "batch_number": 17,
+      "relative_time": 1.09375,
+      "source_id": "walk-leather-shoes1",
+      "source_in": 5.965,
+      "duration": 0.26,
+      "gain_db": -28,
+      "track": "Foley",
+      "purpose": "群像进入时GPT短步；源1.25/1.875/2.375秒，已按源1–3秒放为2.5秒换算。",
+      "fade_in": 0.004,
+      "fade_out": 0.035,
+      "lowpass": 4800,
+      "anchor": "gpt_entry"
+    },
+    {
+      "batch_number": 17,
+      "relative_time": 1.71875,
+      "source_id": "walk-leather-shoes1",
+      "source_in": 8.855,
+      "duration": 0.26,
+      "gain_db": -28,
+      "track": "Foley",
+      "purpose": "群像进入时GPT短步；源1.25/1.875/2.375秒，已按源1–3秒放为2.5秒换算。",
+      "fade_in": 0.004,
+      "fade_out": 0.035,
+      "lowpass": 4800,
+      "anchor": "gpt_entry"
+    },
+    {
+      "batch_number": 33,
+      "relative_time": 7.25,
+      "source_id": "walk-wet1",
+      "source_in": 2.365,
+      "duration": 0.26,
+      "gain_db": -29,
+      "track": "Foley",
+      "purpose": "湿地独立踏水，源8.75/9.25/9.75/10.25秒；前段省略1.5秒后对应批内。",
+      "fade_in": 0.004,
+      "fade_out": 0.035,
+      "lowpass": 4800
+    },
+    {
+      "batch_number": 33,
+      "relative_time": 7.75,
+      "source_id": "walk-wet1",
+      "source_in": 2.955,
+      "duration": 0.26,
+      "gain_db": -29,
+      "track": "Foley",
+      "purpose": "湿地独立踏水，源8.75/9.25/9.75/10.25秒；前段省略1.5秒后对应批内。",
+      "fade_in": 0.004,
+      "fade_out": 0.035,
+      "lowpass": 4800
+    },
+    {
+      "batch_number": 33,
+      "relative_time": 8.25,
+      "source_id": "walk-wet1",
+      "source_in": 4.165,
+      "duration": 0.26,
+      "gain_db": -29,
+      "track": "Foley",
+      "purpose": "湿地独立踏水，源8.75/9.25/9.75/10.25秒；前段省略1.5秒后对应批内。",
+      "fade_in": 0.004,
+      "fade_out": 0.035,
+      "lowpass": 4800
+    },
+    {
+      "batch_number": 33,
+      "relative_time": 8.75,
+      "source_id": "walk-wet1",
+      "source_in": 6.545,
+      "duration": 0.26,
+      "gain_db": -29,
+      "track": "Foley",
+      "purpose": "湿地独立踏水，源8.75/9.25/9.75/10.25秒；前段省略1.5秒后对应批内。",
+      "fade_in": 0.004,
+      "fade_out": 0.035,
+      "lowpass": 4800
+    },
+    {
+      "batch_number": 43,
+      "relative_time": 0.25,
+      "source_id": "walk-leather-shoes1",
+      "source_in": 4.445,
+      "duration": 0.26,
+      "gain_db": -32,
+      "track": "Foley",
+      "purpose": "Claude靠近长椅的两次轻脚触地；后续落座保留原chair事件。",
+      "fade_in": 0.004,
+      "fade_out": 0.035,
+      "lowpass": 4800
+    },
+    {
+      "batch_number": 43,
+      "relative_time": 0.625,
+      "source_id": "walk-leather-shoes1",
+      "source_in": 5.965,
+      "duration": 0.26,
+      "gain_db": -32,
+      "track": "Foley",
+      "purpose": "Claude靠近长椅的两次轻脚触地；后续落座保留原chair事件。",
+      "fade_in": 0.004,
+      "fade_out": 0.035,
+      "lowpass": 4800
+    }
+  ],
+  "closed_pending_alignment": [
+    {
+      "batch_number": 3,
+      "decision": "add",
+      "reason": "add：前2秒人物极远不加近脚声；2.25秒切近景后两次上阶可读，补两轻步。",
+      "evidence": "后期/声画重构-v002/证据/步点终核/B3.jpg"
+    },
+    {
+      "batch_number": 6,
+      "decision": "omit",
+      "reason": "omit：前移以裙摆/身体起伏表达，脚在画缘持续受遮挡，没有可靠独立接触点；保衣料与空间声，不强化机械走路。",
+      "evidence": "后期/声画重构-v002/证据/步点终核/B6.jpg"
+    },
+    {
+      "batch_number": 12,
+      "decision": "omit",
+      "reason": "omit：0–3秒为摆柴俯身，腿脚被木堆遮住；已有木头接触，额外脚步会误读搬动方向。",
+      "evidence": "后期/声画重构-v002/证据/步点终核/B12.jpg"
+    },
+    {
+      "batch_number": 15,
+      "decision": "omit",
+      "reason": "omit：登阶被长袍遮脚，脚底接触不可读；保悬念对白和衣袍气息，不强行按袍摆每次起伏配靴声。",
+      "evidence": "后期/声画重构-v002/证据/步点终核/B15.jpg"
+    },
+    {
+      "batch_number": 17,
+      "decision": "add",
+      "reason": "add：门口群像可见GPT交替落脚，采用源1–3秒已轻慢，补三步并按anchor换算。",
+      "evidence": "后期/声画重构-v002/证据/步点终核/B17.jpg"
+    },
+    {
+      "batch_number": 21,
+      "decision": "omit",
+      "reason": "omit：当前4–6秒主要为白裙人物移动/展开，足被裙和反光遮住，未见可可靠锁定的接触；无需额外突出。",
+      "evidence": "后期/声画重构-v002/证据/步点终核/B21.jpg"
+    },
+    {
+      "batch_number": 33,
+      "decision": "add",
+      "reason": "add：源8.75/9.25/9.75/10.25秒可见脚与水面接触/水花，补四个湿地短步。",
+      "evidence": "后期/声画重构-v002/证据/步点终核/B33.jpg"
+    },
+    {
+      "batch_number": 35,
+      "decision": "omit",
+      "reason": "omit：原11秒附近是空殿水面，12.3秒后为门外群像被黑袍遮脚；旧步声会无故使空殿出现脚步，删除正确。",
+      "evidence": "后期/声画重构-v002/证据/步点终核/B35.jpg"
+    },
+    {
+      "batch_number": 43,
+      "decision": "add",
+      "reason": "add：靠近长椅时可见两次轻落脚，随后进入落座；不续循环。",
+      "evidence": "后期/声画重构-v002/证据/步点终核/B43.jpg"
+    }
+  ],
+  "unresolved_pending_alignment": []
+}

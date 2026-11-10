@@ -1,0 +1,278 @@
+{
+  "edits": [
+    {
+      "start": 4418,
+      "end": 4838,
+      "segments": [
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\产物\\GB013-H3-v001.mp4",
+          "in": 0,
+          "out": 72,
+          "frames": 72,
+          "speed": 100.0,
+          "props": {},
+          "batch": 16,
+          "note": "Claude受火煎熬，省略重复列队慢走",
+          "old_sound_start": 4418
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v014\\产物\\CY022-v014-release-r1.mp4",
+          "in": 0,
+          "out": 18,
+          "frames": 18,
+          "speed": 100.0,
+          "props": {},
+          "batch": 15,
+          "note": "仅采用已独立复核的0–18聚术；拒绝换手后段",
+          "old_sound_start": null
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v014\\产物\\CY022-v014-hand-release-r2.mp4",
+          "in": 18,
+          "out": 34,
+          "frames": 16,
+          "speed": 100.0,
+          "props": {},
+          "batch": 15,
+          "note": "单手离掌特写，短转腕作为切位省略",
+          "old_sound_start": null
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v005\\产物\\GB013-v005-CY023-r1.mp4",
+          "in": 31,
+          "out": 55,
+          "frames": 24,
+          "speed": 100.0,
+          "props": {},
+          "batch": 16,
+          "note": "脚踹门接触一击",
+          "old_sound_start": null
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v014\\产物\\CY023-v014-water-close-r2.mp4",
+          "in": 4,
+          "out": 22,
+          "frames": 18,
+          "speed": 100.0,
+          "props": {},
+          "batch": 16,
+          "note": "单手握拳出水，向右截击",
+          "old_sound_start": null
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v014\\产物\\CY022-v014-air-intercept-r2.mp4",
+          "in": 16,
+          "out": 34,
+          "frames": 18,
+          "speed": 100.0,
+          "props": {},
+          "batch": 16,
+          "note": "无人净空对冲，在亮点切开",
+          "old_sound_start": null
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v014\\产物\\CY022-v014-grip-free-r2.mp4",
+          "in": 28,
+          "out": 88,
+          "frames": 40,
+          "speed": 150.0,
+          "props": {},
+          "batch": 16,
+          "note": "手明确离开上臂；细节切位连接",
+          "old_sound_start": null
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v014\\产物\\CY024A0-v014-rescue-carry-r2.mp4",
+          "in": 0,
+          "out": 123,
+          "frames": 123,
+          "speed": 100.0,
+          "props": {},
+          "batch": 17,
+          "note": "托臀后离地并退柱；右手保留折扇并短暂辅助承托",
+          "old_sound_start": null
+        }
+      ],
+      "reason": "补齐聚术、离掌、破门、水击、空中截击、松手、抱离，删除静止列队",
+      "sound_events": [
+        {
+          "id": "V3-church-fire-return",
+          "offset": 0,
+          "duration": 13.708333333333334,
+          "gain_db": -5
+        },
+        {
+          "id": "V3-spear-whoosh",
+          "offset": 96,
+          "duration": 0.4,
+          "gain_db": -6
+        },
+        {
+          "id": "SFX-063",
+          "offset": 105,
+          "duration": 0.5
+        },
+        {
+          "id": "SFX-064",
+          "offset": 106,
+          "duration": 0.6
+        },
+        {
+          "id": "V3-water-collect",
+          "offset": 130,
+          "duration": 0.7,
+          "gain_db": -5
+        },
+        {
+          "id": "V3-fan-catch",
+          "offset": 152,
+          "duration": 0.35,
+          "gain_db": -4
+        },
+        {
+          "id": "SFX-097",
+          "offset": 222,
+          "duration": 0.7
+        },
+        {
+          "id": "SFX-162",
+          "offset": 238,
+          "duration": 1.2,
+          "gain_db": -4
+        }
+      ]
+    },
+    {
+      "start": 5466,
+      "end": 5571,
+      "segments": [
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v014\\产物\\CY024K3-v014-shield-close-r1.mp4",
+          "in": 0,
+          "out": 32,
+          "frames": 32,
+          "speed": 100.0,
+          "props": {},
+          "batch": 20,
+          "note": "持刃起身",
+          "old_sound_start": null
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB014-v002.mp4",
+          "in": 120,
+          "out": 132,
+          "frames": 12,
+          "speed": 100.0,
+          "props": {},
+          "batch": 20,
+          "note": "敌方反应遮接快速拉远段",
+          "old_sound_start": 4886
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v014\\产物\\CY024K3-v014-shield-close-r1.mp4",
+          "in": 42,
+          "out": 96,
+          "frames": 54,
+          "speed": 100.0,
+          "props": {},
+          "batch": 20,
+          "note": "同一蓝紫月罩连续封顶、恢复暗膜",
+          "old_sound_start": null
+        }
+      ],
+      "reason": "月罩从无到完整闭合，消除圆盘硬切暗球；敌方反应遮接模糊段",
+      "sound_events": [
+        {
+          "id": "V3-fan-shield",
+          "offset": 40,
+          "duration": 2,
+          "gain_db": -3
+        }
+      ]
+    },
+    {
+      "start": 10368,
+      "end": 10689,
+      "segments": [
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB030-1-v003.mp4",
+          "in": 78,
+          "out": 108,
+          "frames": 30,
+          "speed": 100.0,
+          "props": {},
+          "batch": 40,
+          "note": "星火术名后离指",
+          "old_sound_start": 10446
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB030-1-v003.mp4",
+          "in": 108,
+          "out": 126,
+          "frames": 18,
+          "speed": 100.0,
+          "props": {},
+          "batch": 40,
+          "note": "空架",
+          "old_sound_start": 10476
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB030-1-v003.mp4",
+          "in": 153,
+          "out": 228,
+          "frames": 75,
+          "speed": 100.0,
+          "props": {},
+          "batch": 40,
+          "note": "空架燃起",
+          "old_sound_start": 10521
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v003\\剪辑候选\\GB030-1-v003.mp4",
+          "in": 228,
+          "out": 252,
+          "frames": 24,
+          "speed": 100.0,
+          "props": {},
+          "batch": 40,
+          "note": "Claude闭眼脱力，切落坐后的GPT接近",
+          "old_sound_start": 10596
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v014\\产物\\CY030-v014-weight-transfer-r1.mp4",
+          "in": 0,
+          "out": 90,
+          "frames": 90,
+          "speed": 100.0,
+          "props": {},
+          "batch": 40,
+          "note": "坐地后下蹲托背托膝、承重离地；不再直接跳成横抱",
+          "old_sound_start": null
+        }
+      ],
+      "reason": "星火释放与燃架紧接术名；接抱补真实承重动作，脱力落坐用切镜省略",
+      "sound_events": [
+        {
+          "id": "SFX-162",
+          "offset": 156,
+          "duration": 2.5,
+          "gain_db": 0
+        }
+      ]
+    }
+  ],
+  "voice_relative": {
+    "VO-CY024-01": {
+      "edit_start": 4418,
+      "offset": 296
+    }
+  },
+  "review_method": "Three independent action reviews plus lead visual inspection; source windows above only",
+  "editorial_choices": [
+    "GPT改为握拳出水，单手方向一致",
+    "千问右手保留合扇并短暂辅助承托，人物设计和抱持因果优先",
+    "Claude脱力落坐用近景转中景省略，随后拍清下蹲与托抱；不宣称站立直接接重",
+    "护盾形成态蓝白、终态深紫，作为同一月罩的能量建立"
+  ],
+  "author_final_accepted": false
+}

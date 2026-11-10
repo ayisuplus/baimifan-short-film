@@ -1,0 +1,718 @@
+{
+  "codec": "libx264",
+  "crf": 17,
+  "fps": 24,
+  "size": [
+    1344,
+    768
+  ],
+  "audio": false,
+  "retiming": "frame sampling only; no optical flow",
+  "fit": "uniform fit and centered pad; no aspect crop or stretching",
+  "clips": [
+    {
+      "id": "051",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\051-v034-edit.mp4",
+      "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/051-video-r1-no-upscale_00001_.mp4",
+      "source_in": 0,
+      "source_out_exclusive": 24,
+      "target_frames": 24,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "保留背影显形与靴部光，24前切走；后段抬错误右手白刃弃用。前18帧双刃发亮存在，但未暴露抬错手动作。不做延长定格。"
+    },
+    {
+      "id": "052",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\052-v034-edit.mp4",
+      "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/052-video-r1-no-upscale_00001_.mp4",
+      "source_in": 6,
+      "source_out_exclusive": 40,
+      "target_frames": 34,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "保留举左白刃预备、前倾、投掷、刀离手；40出点，不带42后窗前魔法圆。刀出画右，直接接054迎面入室，无反向镜头。"
+    },
+    {
+      "id": "054",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\054-v034-edit.mp4",
+      "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/054-video-r1-no-upscale_00001_.mp4",
+      "source_in": 0,
+      "source_out_exclusive": 42,
+      "target_frames": 24,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "保留中央单窗破口、同一白刃冲近下掠，约1.75倍采样形成飞行速度；0帧已破窗，开头可叠2帧冷白冲击但只作建议。旁窗保留，42后空窗尾停不要。禁光流补帧。"
+    },
+    {
+      "id": "055",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\055-v034-edit.mp4",
+      "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/055-video-r1-no-upscale_00001_.mp4",
+      "source_in": 0,
+      "source_out_exclusive": 48,
+      "target_frames": 36,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "完整保留刃下降钉入木头→短震→42起刀柄银闪，作为056瞬移依据；不能只用前24。约1.33倍采样。木火黑芯紫边，无需额外橙火。"
+    },
+    {
+      "id": "056",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\056-v034-edit.mp4",
+      "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/056-video-r1-no-upscale_00001_.mp4",
+      "source_in": 0,
+      "source_out_exclusive": 16,
+      "target_frames": 16,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "只取落地压低身体、尘浪向两侧排开；16后紫火转橙开始明显，20后绝不使用。原帧核实中央后窗已有破口，无需因窗裁切。055银闪后建议2帧白闪接本镜首帧，遮掉未生成的显形过程；该效果尚未执行。"
+    },
+    {
+      "id": "058",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\058-v034-edit.mp4",
+      "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/058-video-r1-no-upscale_00001_.mp4",
+      "source_in": 6,
+      "source_out_exclusive": 32,
+      "target_frames": 26,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "保留教徒抬手→单次琥珀弹朝台上Kimi飞行；32即切反应，避免弹已消失仍无人反应的后半段。058→059→061必须联合核验弹的因果，不宣称当前缺镜链已闭合。"
+    },
+    {
+      "id": "062a",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\062a-v034-edit.mp4",
+      "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/062a-video-r1-no-upscale_00001_.mp4",
+      "source_in": 0,
+      "source_out_exclusive": 68,
+      "target_frames": 68,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "试锁0–18→紫闪18–36→撤刃36–54→双刃降出画面60–66；保留68帧完成三拍。镜内只证明刀已放低/退出画面，不能声称已清楚入鞘。后续Kimi空手可自然衔接。"
+    },
+    {
+      "id": "062b",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\062b-v034-edit.mp4",
+      "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/062b-video-r1-no-upscale_00001_.mp4",
+      "source_in": 0,
+      "source_out_exclusive": 42,
+      "target_frames": 42,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "骑士从展开跨步至两列立枪站定；真实动作偏向收拢列队而非向外让路，但中央通道全程可见。取到42稳定，不留后续长停。不要用字幕/旁白声称攻击或举矛冲锋。"
+    },
+    {
+      "id": "063",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\063-v034-edit.mp4",
+      "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/063-video-r1-no-upscale_00001_.mp4",
+      "source_in": 10,
+      "source_out_exclusive": 104,
+      "target_frames": 84,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "邀请手势10–24→千问视线响应→78–96合扇→结尾眼神确认，轻微加速保全应答动作。取更早出点会把回应切没；二维线条、蓝发双辫与夜间宫台一致。"
+    },
+    {
+      "id": "064",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\064-v034-edit.mp4",
+      "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/064-video-r1-no-upscale_00001_.mp4",
+      "source_in": 4,
+      "source_out_exclusive": 68,
+      "target_frames": 60,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "GPT邀请→Gemini抬眼→42–60合书→点头回应；去前尾静等，膜翼保留。不能只取抬眼而遗漏合书。"
+    },
+    {
+      "id": "065a",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\065a-v034-edit.mp4",
+      "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/065a-video-r1-no-upscale_00001_.mp4",
+      "source_in": 12,
+      "source_out_exclusive": 72,
+      "target_frames": 60,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "保留Grok握稳一柄双刃斧、转脸、轻点头和答应表情；斧刃不扫向GPT，夜间火箭场未跳轴。"
+    },
+    {
+      "id": "067",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\067-v034-preserve.mp4",
+      "source": "E:/projects/内容创作/故事短片/白米饭/后期/OpenCut后续画面-v018/逐镜视频/067_B25_v011_6075_0.mp4",
+      "source_in": 0,
+      "source_out_exclusive": 42,
+      "target_frames": 42,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "原有五列群像蒙太奇42帧保留，已查看3个时点。作为回忆组的招募完成转接卡；不宣称各人完整动作片段。"
+    },
+    {
+      "id": "068",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\068-v034-edit.mp4",
+      "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/068-video-r1-no-upscale_00001_.mp4",
+      "source_in": 8,
+      "source_out_exclusive": 62,
+      "target_frames": 54,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "孩子靠紧衣襟→千问托稳、微笑，保留一轮情绪不延长尾停。封闭扇从窄边看略似书，但没有明显换物；手臂大部在画外，只能确认孩子稳定受托，不能仅凭此近景认证解剖左右。"
+    },
+    {
+      "id": "069",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\069-v034-preserve.mp4",
+      "source": "E:/projects/内容创作/故事短片/白米饭/后期/OpenCut后续画面-v018/逐镜视频/069_B25_v011_6171_2.mp4",
+      "source_in": 0,
+      "source_out_exclusive": 102,
+      "target_frames": 102,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "原升空建立镜保留；新剪辑小节另抽帧检查。"
+    },
+    {
+      "id": "070",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\070-v034-edit.mp4",
+      "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/070-video-r1-no-upscale_00001_.mp4",
+      "source_in": 0,
+      "source_out_exclusive": 54,
+      "target_frames": 54,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "二维线条、两膜翼、单尾稳定；抬手动作有延续，尾部纯停留。 接069悬停状态，切到短攻击插镜，避免重复抬手。"
+    },
+    {
+      "id": "071a",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\071a-v034-edit.mp4",
+      "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/071a-video-r1-no-upscale_00001_.mp4",
+      "source_in": 8,
+      "source_out_exclusive": 32,
+      "target_frames": 24,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "有一次明确橙金释放，袖摆跟随；首帧已带能量，后半重复停姿。 以发射动作为切入，不保留42帧以后空手停顿。"
+    },
+    {
+      "id": "071b",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\071b-v034-edit.mp4",
+      "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/071b-video-r1-no-upscale_00001_.mp4",
+      "source_in": 18,
+      "source_out_exclusive": 60,
+      "target_frames": 36,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "光沿扇骨与扇叶流动可读；直到约60帧才剥离，后段脱出物过大且不够像单枚长叶。 在离扇动势开始时切到071c；不要保留60帧后大块扇面飞过镜头。此剪法需要接头确认；若仍读不清单叶离轴，再重生。"
+    },
+    {
+      "id": "071c",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\071c-v034-edit.mp4",
+      "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/071c-video-r1-no-upscale_00001_.mp4",
+      "source_in": 0,
+      "source_out_exclusive": 24,
+      "target_frames": 24,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "接触爆光明确，但首帧已经接触，30帧后橙黑射线不散且扇叶持续僵持，没有正确下落结果。 切在第一次白蓝撞击峰值，立即回GPT/罩内安全，避免把后半错当拦截完成。若要求明确落叶结果，补1条短下落反应。"
+    },
+    {
+      "id": "072",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\072-v034-edit.mp4",
+      "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/072-video-r1-no-upscale_00001_.mp4",
+      "source_in": 18,
+      "source_out_exclusive": 84,
+      "target_frames": 66,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "手部聚水、抬眼与二维画风清楚，后段重复抬头停留。 以念咒/视线上移承接外景水滴；不必加大无动机推镜。"
+    },
+    {
+      "id": "074",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\074-v034-edit.mp4",
+      "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/074-video-r1-no-upscale_00001_.mp4",
+      "source_in": 12,
+      "source_out_exclusive": 48,
+      "target_frames": 36,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "大水滴加速拉长并离开画面，有向天空带视线；0帧较像玻璃球，尾部等待较长。 用加速拉长段，切至云涡，少停留在玻璃球状静止首帧。"
+    },
+    {
+      "id": "079",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\079-v034-edit.mp4",
+      "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/079-video-r1-no-upscale_00001_.mp4",
+      "source_in": 0,
+      "source_out_exclusive": 16,
+      "target_frames": 16,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "前16帧表情/抬眼可用；18帧后龙头出现在教主背后近肩，与下一镜正面盾面迎击方向冲突。 只保留抬眼反应，不用龙绕到背后的后段。"
+    },
+    {
+      "id": "081",
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\081-v034-edit.mp4",
+      "source": "G:/comfyui/ComfyUI/ComfyUI/output/Baimifan/v032/081-video-r1-no-upscale_00001_.mp4",
+      "source_in": 6,
+      "source_out_exclusive": 54,
+      "target_frames": 48,
+      "source_dimensions": [
+        1344,
+        768
+      ],
+      "output_dimensions": [
+        1344,
+        768
+      ],
+      "fps": 24,
+      "audio_streams": 0,
+      "verified": true,
+      "note": "6–54帧下冲撞盾与水花爆发有力度；78帧后整个顶部大面积破裂落石，与只保留一个破口矛盾。 在水花压过盾缘的峰值切到082抓阶，舍掉后段全顶崩塌；不要慢放扩大CG感。"
+    }
+  ],
+  "previews": [
+    {
+      "name": "preview-g02-part01",
+      "source_ids": [
+        "051",
+        "052",
+        "054",
+        "055",
+        "056",
+        "058"
+      ],
+      "frames": 162,
+      "cuts": [
+        {
+          "id": "051",
+          "start": 0,
+          "frames": 24
+        },
+        {
+          "id": "052",
+          "start": 24,
+          "frames": 34
+        },
+        {
+          "id": "054",
+          "start": 58,
+          "frames": 24
+        },
+        {
+          "id": "055",
+          "start": 82,
+          "frames": 36
+        },
+        {
+          "id": "055to056-flash",
+          "start": 118,
+          "frames": 2
+        },
+        {
+          "id": "056",
+          "start": 120,
+          "frames": 16
+        },
+        {
+          "id": "058",
+          "start": 136,
+          "frames": 26
+        }
+      ],
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\preview-g02-part01.mp4",
+      "sheet": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\preview-g02-part01.jpg",
+      "complete_group": false,
+      "full_decode_check": "pass"
+    },
+    {
+      "name": "preview-g02-part02",
+      "source_ids": [
+        "062a",
+        "062b"
+      ],
+      "frames": 110,
+      "cuts": [
+        {
+          "id": "062a",
+          "start": 0,
+          "frames": 68
+        },
+        {
+          "id": "062b",
+          "start": 68,
+          "frames": 42
+        }
+      ],
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\preview-g02-part02.mp4",
+      "sheet": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\preview-g02-part02.jpg",
+      "complete_group": false,
+      "full_decode_check": "pass"
+    },
+    {
+      "name": "preview-g03-part01",
+      "source_ids": [
+        "063",
+        "064",
+        "065a"
+      ],
+      "frames": 204,
+      "cuts": [
+        {
+          "id": "063",
+          "start": 0,
+          "frames": 84
+        },
+        {
+          "id": "064",
+          "start": 84,
+          "frames": 60
+        },
+        {
+          "id": "065a",
+          "start": 144,
+          "frames": 60
+        }
+      ],
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\preview-g03-part01.mp4",
+      "sheet": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\preview-g03-part01.jpg",
+      "complete_group": false,
+      "full_decode_check": "pass"
+    },
+    {
+      "name": "preview-g03-part02",
+      "source_ids": [
+        "067",
+        "068"
+      ],
+      "frames": 96,
+      "cuts": [
+        {
+          "id": "067",
+          "start": 0,
+          "frames": 42
+        },
+        {
+          "id": "068",
+          "start": 42,
+          "frames": 54
+        }
+      ],
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\preview-g03-part02.mp4",
+      "sheet": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\preview-g03-part02.jpg",
+      "complete_group": false,
+      "full_decode_check": "pass"
+    },
+    {
+      "name": "preview-g04-part01",
+      "source_ids": [
+        "069",
+        "070",
+        "071a",
+        "071b",
+        "071c",
+        "072"
+      ],
+      "frames": 306,
+      "cuts": [
+        {
+          "id": "069",
+          "start": 0,
+          "frames": 102
+        },
+        {
+          "id": "070",
+          "start": 102,
+          "frames": 54
+        },
+        {
+          "id": "071a",
+          "start": 156,
+          "frames": 24
+        },
+        {
+          "id": "071b",
+          "start": 180,
+          "frames": 36
+        },
+        {
+          "id": "071c",
+          "start": 216,
+          "frames": 24
+        },
+        {
+          "id": "072",
+          "start": 240,
+          "frames": 66
+        }
+      ],
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\preview-g04-part01.mp4",
+      "sheet": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\preview-g04-part01.jpg",
+      "complete_group": false,
+      "full_decode_check": "pass"
+    },
+    {
+      "name": "preview-g04-part02",
+      "source_ids": [
+        "074"
+      ],
+      "frames": 36,
+      "cuts": [
+        {
+          "id": "074",
+          "start": 0,
+          "frames": 36
+        }
+      ],
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\preview-g04-part02.mp4",
+      "sheet": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\preview-g04-part02.jpg",
+      "complete_group": false,
+      "full_decode_check": "pass"
+    },
+    {
+      "name": "preview-g04-part03",
+      "source_ids": [
+        "079"
+      ],
+      "frames": 16,
+      "cuts": [
+        {
+          "id": "079",
+          "start": 0,
+          "frames": 16
+        }
+      ],
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\preview-g04-part03.mp4",
+      "sheet": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\preview-g04-part03.jpg",
+      "complete_group": false,
+      "full_decode_check": "pass"
+    },
+    {
+      "name": "preview-g04-part04",
+      "source_ids": [
+        "081"
+      ],
+      "frames": 48,
+      "cuts": [
+        {
+          "id": "081",
+          "start": 0,
+          "frames": 48
+        }
+      ],
+      "output": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\preview-g04-part04.mp4",
+      "sheet": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\preview-g04-part04.jpg",
+      "complete_group": false,
+      "full_decode_check": "pass"
+    }
+  ],
+  "executed_effect": {
+    "file": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\全片画风与动作统一-v034\\edits\\055to056-cold-white-flash-2f.mp4",
+    "frames": 2,
+    "color": "#E9F5FF",
+    "position": "055 -> 056, inserted only into group02 part01 preview; standalone source for parent to insert",
+    "executed": true
+  },
+  "pending": {
+    "2": [
+      "059",
+      "061"
+    ],
+    "3": [
+      "065b",
+      "066"
+    ],
+    "4": [
+      "073",
+      "075",
+      "077",
+      "078",
+      "080",
+      "082",
+      "083",
+      "085"
+    ]
+  },
+  "complete": false,
+  "color_tags": "BT.709 limited range, left chroma location, consistent across original and generated clips"
+}

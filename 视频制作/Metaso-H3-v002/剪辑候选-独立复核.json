@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-28",
+  "scope": ["GB005-v002", "GB014-v002", "GB011-1-v002", "GB030-1-v002"],
+  "method": "抽核剪辑候选半秒帧；GB011-1推手衔接追加10fps采样，GB030-1最后4秒追加5fps采样。仅复核既有缺陷和剪辑衔接，不替代连续原速视听、口型和音轨验收。",
+  "items": [
+    {
+      "id": "GB005-v002",
+      "verdict": "existing_visual_issue_removed_by_edit",
+      "finding": "8秒后为干净紧肩后构图，椅子与腿不再入画，远处小鱼仍向门口离开，肩背与发丝仍有自然运动；无重复回放起身或明显静帧补长。",
+      "interpretation": "省略完整起身的起始阶段，接搓手停顿到站起目送；不声称全程站起动作完整可见。",
+      "evidence": "审查/独立复核细帧/GB005-剪辑候选-半秒采样.jpg",
+      "further_generation_recommended": false
+    },
+    {
+      "id": "GB014-v002",
+      "verdict": "existing_visual_issue_removed_by_crop",
+      "finding": "反应镜右上后窗的黑衣人已排除；教主转头过程中眼、鼻、口保持在框内，头顶发梢轻微截断不影响本轮观看目标。群像至反应切点已对齐约3秒。",
+      "evidence": "审查/独立复核细帧/GB014-剪辑候选-半秒采样.jpg",
+      "further_generation_recommended": false
+    },
+    {
+      "id": "GB011-1-v002",
+      "verdict": "existing_character_and_action_issues_removed",
+      "finding": "0—5秒橙发受缚Claude开口画面、5秒切下方对峙、约8秒进入推倒。7.3—9.1秒细采样显示教主先抬手作推开动作，切低机位后小鱼失衡落地；靴子留在原位，无踢踩。",
+      "interpretation": "接触瞬间通过切镜省略，视觉因果是手推后摔落，未把被省略接触称为已目视验证。",
+      "evidence": ["审查/独立复核细帧/GB011-1-剪辑候选-半秒采样.jpg", "审查/独立复核细帧/GB011-1-剪辑候选-推手细采样.jpg"],
+      "further_generation_recommended": false
+    },
+    {
+      "id": "GB030-1-v002",
+      "verdict": "edit_ellipsis_acceptable_for_existing_issue",
+      "finding": "最后4秒前半为Claude低头失力、GPT从右侧靠近伸手；后半切入时Claude已被托离地面，随后继续起抱。坐地与手掌接触地面的错误帧已移除，两镜同侧受力方向一致。",
+      "interpretation": "可作为省略探膝瞬间的剪辑表达，既有可见坐地问题消除。并非全程连续负重动作或所有手位均已验证；最终原速连续播放仍需检查剪点是否突兀。",
+      "evidence": "审查/独立复核细帧/GB030-1-剪辑候选-承接细采样.jpg",
+      "further_generation_recommended": false
+    }
+  ],
+  "status": "独立抽核完成；本轮不建议对上述四候选再付费重生成"
+}

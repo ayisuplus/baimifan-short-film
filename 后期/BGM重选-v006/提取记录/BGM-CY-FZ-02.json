@@ -1,0 +1,45 @@
+{
+  "id": "BGM-CY-FZ-02",
+  "bvid": "BV1Vx411G7kG",
+  "part": 2,
+  "title": "let the stars fall down",
+  "display_title": "让群星陨落",
+  "work": "Fate/Zero",
+  "composer": "梶浦由記",
+  "source_page_title": "let the stars fall down",
+  "navigation_translation": "中文译名仅供本项目导航；保留原曲名与来源分P。",
+  "cid": 23944266,
+  "source": "https://www.bilibili.com/video/BV1Vx411G7kG/?p=2",
+  "uploader": "天使动漫",
+  "video_title": "【Fate/Zero】OST原声集完全版 / 音乐：梶浦由記",
+  "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-02.m4a",
+  "bytes": 3057310,
+  "sha256": "5d774ae5fcf881fabb4f748817851106a9d40d8b1245a13d8495d9f45fbaeed0",
+  "duration": 125.432834,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "193549"
+      }
+    ],
+    "format": {
+      "duration": "125.432834"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "AAC stream copied from retained public muxed video with ffmpeg -vn -c:a copy; no re-encoding, cuts, pitch, speed or gain changes.",
+  "source_media": {
+    "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-02-source.mp4",
+    "bytes": 5064186,
+    "sha256": "e4f2d43d70f1faba4d949c09ebe6a975f406dc87e6c73776cd4bbf11cea117c9"
+  }
+}

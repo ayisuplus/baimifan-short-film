@@ -1,0 +1,166 @@
+{
+  "version": "v042",
+  "previous_index": "镜头设计/生成记录/生成索引-v041.json",
+  "generated_images": 8,
+  "images": [
+    {
+      "id": "CY024K1A",
+      "path": "镜头设计/图像/月相阵纹-v042/CY024K1A-v042-r1.png",
+      "sha256": "d07202a8d4339f7c1ef665e2262cf9cd431e8b147f34b3ed9e634a8dee3c02e9",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/月相阵纹-v042/动作与衔接请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月相阵纹-v042/CY024K2-v042-r2.png",
+          "sha256": "71498445b93643311b2d7bb2cfd960f75974c411e8402d65fb58004d85404dda"
+        },
+        {
+          "path": "镜头设计/图像/月刃救援-v041/CY024K1-v041-r1.png",
+          "sha256": "4bdd310a9a733e7d38216437de00d50dfaab642fdea2d00bf0b80c5a3681782d"
+        }
+      ]
+    },
+    {
+      "id": "CY024K2",
+      "path": "镜头设计/图像/月相阵纹-v042/CY024K2-v042-r2.png",
+      "sha256": "71498445b93643311b2d7bb2cfd960f75974c411e8402d65fb58004d85404dda",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/月相阵纹-v042/高柴恢复请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月相阵纹-v042/CY024K2-v042-r1.png",
+          "sha256": "dc0c14485e71e68ce4dc06c65902ea735bb03b8f65b203e56ceaf04c22777966"
+        },
+        {
+          "path": "镜头设计/图像/月刃救援-v041/CY024K2-v041-r2.png",
+          "sha256": "ace7e452f03ac5530996994f467c21cad0b473d136f0749f97ff81c4bf8c3977"
+        }
+      ]
+    },
+    {
+      "id": "CY024K3",
+      "path": "镜头设计/图像/月相阵纹-v042/CY024K3-v042-r2.png",
+      "sha256": "d20b92b519252151d3229ec6c7516e3502a908187355fae2c2f884280fcba80b",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/月相阵纹-v042/踝扣连续性请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月相阵纹-v042/CY024K3-v042-r1.png",
+          "sha256": "5fb4c99b1ac672fad1bf391fe65a54a79a6d380876cc3b0568f3c248885b02e3"
+        },
+        {
+          "path": "镜头设计/图像/月刃救援-v041/CY024K3-v041-r3.png",
+          "sha256": "a01d4d80f0b330808ea7f155cda46adff8bb56da789c13219feb7f09eca563a4"
+        }
+      ]
+    },
+    {
+      "id": "CY024K4",
+      "path": "镜头设计/图像/月相阵纹-v042/CY024K4-v042-r5.png",
+      "sha256": "b80ef01dffa777ca71ddc79c85dce5e9462c6488ee120336afaf6455e3165c20",
+      "size": [
+        1670,
+        942
+      ],
+      "request": "镜头设计/生成记录/月相阵纹-v042/试镣左臂连接修正请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月相阵纹-v042/CY024K4-v042-r3.png",
+          "sha256": "cbdf1aafa361beec6f68b2a124a07cc4b65fe0fe326153d6fcd809b5663cacab"
+        }
+      ]
+    },
+    {
+      "id": "CY024A1",
+      "path": "镜头设计/图像/月相阵纹-v042/CY024A1-v042-r1.png",
+      "sha256": "bae9e9c4cd58f41b16ae6396a01769bee3c1468694b91aa909676cf9e42f29ff",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/月相阵纹-v042/动作与衔接请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月刃救援-v041/CY024A1-v041-r2.png",
+          "sha256": "925936733090c716e6cfe1374310e3c28897e8b104bafb528f6ba716155df404"
+        },
+        {
+          "path": "镜头设计/图像/月相阵纹-v042/CY024K2-v042-r2.png",
+          "sha256": "71498445b93643311b2d7bb2cfd960f75974c411e8402d65fb58004d85404dda"
+        }
+      ]
+    },
+    {
+      "id": "CY024A2",
+      "path": "镜头设计/图像/月相阵纹-v042/CY024A2-v042-r1.png",
+      "sha256": "8cf3e6d935ff1b85a281a5d440fb154649eee1b92b21c6c8a015b79b29a64e62",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/月相阵纹-v042/动作与衔接请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月刃救援-v041/CY024A2-v041-r1.png",
+          "sha256": "0076db4da731d82133cd631e4ed157fb9270dbf1a06fd0518ac248a53eab8e1d"
+        },
+        {
+          "path": "镜头设计/图像/月相阵纹-v042/CY024K2-v042-r2.png",
+          "sha256": "71498445b93643311b2d7bb2cfd960f75974c411e8402d65fb58004d85404dda"
+        }
+      ]
+    },
+    {
+      "id": "CY024A4",
+      "path": "镜头设计/图像/月相阵纹-v042/CY024A4-v042-r2.png",
+      "sha256": "bc06b894638ca6127e6e867a9f9936e88dbd2b6a790bf8a086adde8f65791d95",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/月相阵纹-v042/共用护罩边界修正请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月相阵纹-v042/CY024A4-v042-r1.png",
+          "sha256": "c9ef4b14e9919580d560c9c92ef46b4f10c465e926e23ee0c97ee03588586f0a"
+        }
+      ]
+    },
+    {
+      "id": "CY024B3",
+      "path": "镜头设计/图像/月相阵纹-v042/CY024B3-v042-r1.png",
+      "sha256": "878995cf95c4d5619492d030785c60960bb8f02324c60e55b4fb1fd38821f0a8",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/月相阵纹-v042/首轮请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月刃救援-v041/CY024B3-v041-r1.png",
+          "sha256": "8dd5ee6566c42c050529d535753d38a361fd23a13caba6694954f0e24687c0b8"
+        }
+      ]
+    }
+  ],
+  "not_used": [
+    "K2r1提前清柴，r2恢复高柴",
+    "K3r1漏踝扣，r2补回",
+    "A4r1误生局部小护罩，r2改共用罩的局部地面边界",
+    "K4r1高举刀贴腕被作者指出像攻击，r2改为已经收刀、刃口远离Claude",
+    "K4r1高举刀像攻击，r2退刀；r2左侧弧边像额外月环，r3去除边界",
+    "K4r1高举刀像攻击，r2退刀但边缘月环歧义，r3去环但手臂逻辑被指出，r4左臂仍接错侧；r5重构左肩肘腕连接"
+  ],
+  "engine": "built-in image_gen",
+  "mode": "edit and reference generation",
+  "transparent_background": false
+}

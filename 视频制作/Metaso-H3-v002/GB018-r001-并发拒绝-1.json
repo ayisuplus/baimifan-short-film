@@ -1,0 +1,12 @@
+{
+  "http_status": 429,
+  "response": {
+    "type": "error",
+    "error": {
+      "type": "rate_limit_error",
+      "message": "concurrent video task limit reached, please retry later (1002)",
+      "http_code": "429"
+    },
+    "request_id": "ae2ff113-538f-446b-9bc2-67796406dfaf"
+  }
+}

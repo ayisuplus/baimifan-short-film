@@ -1,0 +1,53 @@
+[
+  {
+    "id": "closeup",
+    "label": "小鱼近景",
+    "source": "镜头设计/图像/数学宫殿-v056/CY006.png",
+    "source_sha256": "14f6bc3c1e7468b6c0e35c5560f7094e570e5bfc47a4eb492a636d5fe990212a",
+    "source_size": [
+      1672,
+      941
+    ],
+    "input": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\图片超分对比-20261031\\inputs\\Baimifan_upscale_20261031_closeup.png",
+    "input_sha256": "58f388c06b3cac2f0c977e149015585ba3d447ff3d4237d7b5f725e9b6e14cbd",
+    "target_size": [
+      3840,
+      2162
+    ],
+    "baseline": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\图片超分对比-20261031\\baselines\\closeup_original_lanczos.png"
+  },
+  {
+    "id": "fullbody",
+    "label": "小鱼全身与服装母版",
+    "source": "资产/图像/CHAR-DEEPSEEK_服装母版.png",
+    "source_sha256": "fe8dcebc373dec660b53dc09daf3cb433f4ec854643d56468fbd2438b4f49ed2",
+    "source_size": [
+      1915,
+      821
+    ],
+    "input": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\图片超分对比-20261031\\inputs\\Baimifan_upscale_20261031_fullbody.png",
+    "input_sha256": "8ce254087ae1bd013ce3cbcc4d376fd90af8f68f56f62df57d793a4a43dafd88",
+    "target_size": [
+      3840,
+      1646
+    ],
+    "baseline": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\图片超分对比-20261031\\baselines\\fullbody_original_lanczos.png"
+  },
+  {
+    "id": "palace",
+    "label": "宫殿空间",
+    "source": "资产/图像/ENV-PALACE-v001.png",
+    "source_sha256": "9a7bf3cfe98df7c15a60070c2db417076e9a594ea77542af6dc0cc83c6df04bc",
+    "source_size": [
+      1672,
+      941
+    ],
+    "input": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\图片超分对比-20261031\\inputs\\Baimifan_upscale_20261031_palace.png",
+    "input_sha256": "5383ca16a1b3039f4f2d950e9c70180c19db8fa6482491cbd58c05a786a015be",
+    "target_size": [
+      3840,
+      2162
+    ],
+    "baseline": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\图片超分对比-20261031\\baselines\\palace_original_lanczos.png"
+  }
+]

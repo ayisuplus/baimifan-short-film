@@ -1,0 +1,40 @@
+{
+  "id": "BGM-CY-FR-13",
+  "bvid": "BV1U6BfBCE5o",
+  "part": 13,
+  "title": "Before the Light Fades",
+  "display_title": "在光芒消逝之前",
+  "work": "葬送的芙莉莲",
+  "composer": "Evan Call",
+  "source_page_title": "13.Before the Light Fades",
+  "navigation_translation": "中文曲名为导航释义；原名保留。",
+  "cid": 35547250939,
+  "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=13",
+  "uploader": "高速公路的残像",
+  "video_title": "《葬送的芙莉莲》原声带",
+  "path": "资产/声音/BGM/重选-v003/BGM-CY-FR-13.m4a",
+  "bytes": 1627525,
+  "sha256": "a0d1ea50fdc3a556164d6bf63255e5e9fd04033ba782e07b0c0e4c84ba83cb84",
+  "duration": 126.362766,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "95653"
+      }
+    ],
+    "format": {
+      "duration": "126.362766"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

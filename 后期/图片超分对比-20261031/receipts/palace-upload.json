@@ -1,0 +1,1 @@
+{"schema": "envelope/1", "type": "envelope", "ok": true, "command": "upload", "version": "1.22.0", "where": "local", "data": {"uploads": [{"local_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\图片超分对比-20261031\\inputs\\Baimifan_upscale_20261031_palace.png", "cloud_name": "Baimifan_upscale_20261031_palace.png", "subfolder": "", "type": "input"}]}, "error": null}

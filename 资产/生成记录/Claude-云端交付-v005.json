@@ -1,0 +1,35 @@
+{
+  "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+  "status": "ready",
+  "delivery": "awaiting_host_save",
+  "files": [
+    {
+      "nodeId": "a-yq7w272cqtj8",
+      "outputIndex": 0,
+      "mime": "audio/mpeg",
+      "filename": "VOICE-CLAUDE-v005-cloud.mp3",
+      "sourceIdentity": "sha256-eec4223c000d625d94c888b78cd87eacc16b1a07b855ef775a00f6ebb230cc33",
+      "contentHash": null,
+      "hashEvidence": "media-bytes-not-read",
+      "metadataSource": "canvas.nodeList.data",
+      "deliverySource": "watermark-service-result",
+      "resourceId": "res_e04bb2d0578547268580a4883cd3b088",
+      "taskId": "20261021124203771279236",
+      "url": "https://libtv-res.liblib.art/wm/sd-gen-save-img/genius_playground/audio/4a687bfc3acc4951adf244cb28598805/cb75816f8959eb2df8ad3e076c8a73747db531d03674cd7b2bbe90cf1b49097b.mp3",
+      "derivation": {
+        "kind": "watermark",
+        "operationId": "wop_6379f7f1ba4fc2f5086a6cc5eab8bbf970079819833a04d669542ff127ac90ef",
+        "watermark": true,
+        "communityWatermark": true
+      },
+      "sourceSizeBytes": 25332
+    }
+  ],
+  "fileCount": 1,
+  "inlineBytes": 0,
+  "operationIds": [
+    "wop_6379f7f1ba4fc2f5086a6cc5eab8bbf970079819833a04d669542ff127ac90ef"
+  ],
+  "sourceValidation": "rechecked-after-preparation",
+  "hostInstruction": "Save every URL or UTF-8 inlineText using its filename, or package all entries into a host-created archive. Report actual saved paths only after host download/write succeeds. This manifest is not a download, an archive, or evidence of local persistence."
+}

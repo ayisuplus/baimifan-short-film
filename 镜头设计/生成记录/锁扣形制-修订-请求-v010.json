@@ -1,0 +1,17 @@
+{
+  "key": "lock_consistency_fix",
+  "engine": "built-in imagegen",
+  "destination": "镜头设计/图像/细节G-锁扣停手-v002.png",
+  "shot_ids_in_panel_order": [
+    "CY016B"
+  ],
+  "request": {
+    "prompt": "Use case: precise-object-edit / illustration-story. Make ONE standalone cinematic 16:9 close-up based on image 1's BOTTOM LEFT panel of the toddler's small hands paused on a locked chain, preserving navy snowflake sleeves, white fur cuffs, ivory orange floral dress, long orange hair edge, warm candle/cool church lighting. IMPORTANT: correct the PADLOCK to match image 2's BOTTOM RIGHT detail exactly in general design and relative scale. The established lock is a SMALL vertically oriented antique bronze padlock with a rounded arch shackle, rounded lower corners, delicate scrollwork, a single prominent keyhole, roughly one toddler palm wide. It hangs from ONE horizontal strand of dark chain across Claude's waist. It is NOT a huge plate, wide rectangular chest lock, cross engraved book, nor a complex cluster of diagonal chains. Two small toddler hands pause in contact at opposite sides of this small CLOSED padlock: one hand close to the arched shackle, the other at its lower-right edge. Chain and lock remain intact and entirely closed. Frame tighter than the source, fill it with tiny hands, small lock, fur cuffs and floral cloth; no whole faces or bodies, no other people. Slightly pink tired fingers, no blood or wounds, no success unlocking. The child has just heard returning footsteps offscreen and freezes. Preserve anatomically plausible five-finger hands, original material colors. No words, no arrows, no labels, no grid, no extra inset panels. The new frame must clearly be the SAME lock and horizontal chain as the existing close-up in image 2.",
+    "referenced_image_paths": [
+      "E:/projects/内容创作/穿云/镜头设计/图像/细节B-迟疑与回声-v001.png",
+      "E:/projects/内容创作/穿云/镜头设计/图像/S03A-空堂潜入-v003.png"
+    ],
+    "transparent_background": false
+  },
+  "reason": "New detailed lock grew into a large plate; restore established small padlock and horizontal chain."
+}

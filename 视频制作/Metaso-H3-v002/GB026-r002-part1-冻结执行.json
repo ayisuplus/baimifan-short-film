@@ -1,0 +1,158 @@
+{
+  "batch": {
+    "batch_number": 36,
+    "batch_id": "GB026",
+    "attempt_id": "GB026-r002-part1",
+    "repair_source_attempt": "GB026-r001",
+    "film_start": 386.842729,
+    "part_offset": 0,
+    "used_seconds": 3,
+    "duration": 4,
+    "shot_ids": [
+      "CY027D"
+    ],
+    "prompt": "subject_definitions:\nImage 1=Qwen身份；仅服装、面貌，四视图是同一人\nImage 2=DeepSeek身份；仅服装、面貌，四视图是同一人\nImage 3=圣骑士身份；仅服装、面貌，四视图是同一人\nImage 4=CY027D构图与空间依据，不把终态当第一帧\nsummary:\n哥特异世界动画，16:9，4 秒。只拍以下单场景的连续动作；按对应参考保持角色服装发色，不新增人物，不用角色四视图产生分身。无字幕、水印、BGM和可辨台词；最终对白将后期独立铺入。\ndetailed_description:\n[Shot 1] 0–3s。采用Image 4原群像构图与每个同伴对应位置，摄影机在正门方向看向长阶，人物面向摄影机所在的正门来敌。最高祭坛在画面背景上方。八位下层同伴含蓝衣千问，千问始终抱着蓝鲸帽小鱼，小鱼双脚悬空贴近千问衣裙，不单独站地或行走；孩子不算持武器迎敌者。两翼只由Image 3银白铠甲骑士守柱廊，不移动加入同伴队列。0—1秒前排抬眼转向镜头所在的入口，1—3秒前排各向镜头方向稳住一步，侧翼持武器警戒，不冲向背景祭坛、不背对摄影机。其余同伴沿群像原位置只做小幅转头收势，不另外设计造型或单人近景。最高祭坛整个区域由厚实不透明暗紫护罩遮住，罩面只有缓慢暗纹，绝不透明或开口，内里的Kimi、Claude、刑架均完全不可见；罩前也不站任何人物。中央高窗已有破口，左右窗完整。3—4秒原位警戒延续，供剪辑舍弃，不新增攻击。GPT本镜不入画、不增加白发龙角分身。\noverall_soundscape:\n仅自然环境、衣料与动作拟音，无咏唱、呼唤、口头反应和新增旁白。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+        "kind": "identity",
+        "person": "Qwen",
+        "name_en": "Qwen",
+        "asset_id": "MULKZI2W5366M",
+        "status": "作者指定复用",
+        "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+        "purpose": "Qwen四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+        "original_slot": 1
+      },
+      {
+        "slot": 2,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+        "kind": "identity",
+        "person": "DeepSeek",
+        "name_en": "DeepSeek",
+        "asset_id": "CHAR-DEEPSEEK",
+        "status": "候选待作者审阅",
+        "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+        "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+        "original_slot": 2
+      },
+      {
+        "slot": 3,
+        "path": "资产/图像/CHAR-PALADIN-v001.png",
+        "kind": "identity",
+        "person": "圣骑士",
+        "name_en": "the palace paladins",
+        "asset_id": "CHAR-PALADIN",
+        "status": "候选待作者审阅",
+        "limits": "侧背结构是设计补全，不作为精确工程正交图。队伍枪距、披风碰撞与行进连续性待动态验证。",
+        "purpose": "圣骑士四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d",
+        "original_slot": 3
+      },
+      {
+        "slot": 4,
+        "path": "镜头设计/图像/目光与入场-v048/CY027D-v048-r1.png",
+        "kind": "composition",
+        "shot_id": "CY027D",
+        "purpose": "构图、空间与代表状态：八人守门，Kimi守祭坛；不是默认首帧",
+        "status": "v0.48朝向、反应、咏唱及局部色偏修订候选，待作者画面审阅",
+        "limits": "",
+        "sha256": "f97aef426d66c147f3161da161241371c7c2b91f82966231306c4793e9ccb527",
+        "original_slot": 6
+      }
+    ],
+    "estimated_credits": 40.8,
+    "status": "prepared",
+    "accepted": false,
+    "repair_of": {
+      "attempt_id": "GB026-r001",
+      "task_id": "2115145720762523648",
+      "local_path": "视频制作/Metaso-H3-v002/产物/GB026-r001.mp4"
+    },
+    "source_reuse": [
+      {
+        "in_out": [
+          3.625,
+          6.625
+        ],
+        "target": [
+          3,
+          6
+        ],
+        "source": "GB026-r001.mp4"
+      },
+      {
+        "in_out": [
+          7.25,
+          10.625
+        ],
+        "target": [
+          6,
+          10
+        ],
+        "source": "GB026-r001.mp4"
+      },
+      {
+        "in_out": [
+          10.625,
+          12.25
+        ],
+        "target": [
+          10,
+          12
+        ],
+        "source": "GB026-r001.mp4"
+      }
+    ],
+    "additional_use": null,
+    "audio_policy": "仅替换画面；最终干声与BGM沿用冻结绝对时窗，不采用变速原生人声",
+    "title": "守门、胜负与取钥匙",
+    "change_reason": "独立复核：局部角色、道具或空间连续性纠正，详见次七批审查报告。"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "subject_definitions:\nImage 1=Qwen身份；仅服装、面貌，四视图是同一人\nImage 2=DeepSeek身份；仅服装、面貌，四视图是同一人\nImage 3=圣骑士身份；仅服装、面貌，四视图是同一人\nImage 4=CY027D构图与空间依据，不把终态当第一帧\nsummary:\n哥特异世界动画，16:9，4 秒。只拍以下单场景的连续动作；按对应参考保持角色服装发色，不新增人物，不用角色四视图产生分身。无字幕、水印、BGM和可辨台词；最终对白将后期独立铺入。\ndetailed_description:\n[Shot 1] 0–3s。采用Image 4原群像构图与每个同伴对应位置，摄影机在正门方向看向长阶，人物面向摄影机所在的正门来敌。最高祭坛在画面背景上方。八位下层同伴含蓝衣千问，千问始终抱着蓝鲸帽小鱼，小鱼双脚悬空贴近千问衣裙，不单独站地或行走；孩子不算持武器迎敌者。两翼只由Image 3银白铠甲骑士守柱廊，不移动加入同伴队列。0—1秒前排抬眼转向镜头所在的入口，1—3秒前排各向镜头方向稳住一步，侧翼持武器警戒，不冲向背景祭坛、不背对摄影机。其余同伴沿群像原位置只做小幅转头收势，不另外设计造型或单人近景。最高祭坛整个区域由厚实不透明暗紫护罩遮住，罩面只有缓慢暗纹，绝不透明或开口，内里的Kimi、Claude、刑架均完全不可见；罩前也不站任何人物。中央高窗已有破口，左右窗完整。3—4秒原位警戒延续，供剪辑舍弃，不新增攻击。GPT本镜不入画、不增加白发龙角分身。\noverall_soundscape:\n仅自然环境、衣料与动作拟音，无咏唱、呼唤、口头反应和新增旁白。\nnon_diegetic_music:\nN/A"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115144282224386048"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141523506393088"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141532830461952"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115145679890341888"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 4,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "2026-10-28作者授权：参考图超限想办法砍不重要参考，该返修的都返修；沿用Metaso H3"
+}

@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-26",
+  "engine": "built-in image_gen",
+  "approved_design": "镜头设计/图像/宫殿柔光-v055/CY007-对称卧榻懒懒龙-候选.png",
+  "jobs": [
+    {
+      "id": "CY005",
+      "inputs": [
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/宫殿柔光-v055/CY005-柔光.png",
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/宫殿柔光-v055/CY007-对称卧榻懒懒龙-候选.png"
+      ],
+      "prompt": "Edit image 1: existing very wide low-angle palace entrance shot with small blue whale-hat child running away from camera to raised dais. Image 2 is the AUTHOR-APPROVED NEW THRONE AND RECLINING WHITE DRAGON WOMAN design. Replace ONLY image 1's distant upright seated woman and old narrow throne with the exact symmetrical broad gold Gothic lavender cushioned throne-daybed and the same lazy side-reclining woman from image 2, scaled correctly to the DISTANT dais. She lies head at frontal screen-left, legs stretched screen-right, anatomical right hand supporting her cheek, anatomical left hand draped freely on front cushion edge; one normal long fin-ridged tail lies along her legs, two wings. Do not enlarge woman relative to hall; woman remains distant. Daybed's central crown is aligned with hall centerline, back against far short wall, seat faces entrance camera. Both sides symmetrical and grounded on existing dais; same platform stairs and columns. Keep child exact same identity, blue outfit, running pose, size, no bowl; child approaching front-left/head end of dais. Keep huge spacious palace, existing softly luminous pastel windows and subdued satin floor reflections from image 1. No extra people, no additional chairs, no upright seated duplicate. Full cinematic 16:9 image, no text/collage.",
+      "generated_source": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-ef6d2d34-98b3-4ef9-9c52-86781d77737e.png",
+      "output": "镜头设计/图像/宫殿躺姿-v055/CY005.png",
+      "status": "candidate_pending_author_review",
+      "sha256": "f5e1b758602e37f88b14c7445e3379abb9f9a25a4eb93341b7e6cbf54bc1efa0",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "CY006",
+      "inputs": [
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/宫殿柔光-v055/CY006-柔光.png",
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/宫殿柔光-v055/CY007-对称卧榻懒懒龙-候选.png"
+      ],
+      "prompt": "Edit image 1 into a reverse close-up compatible with the reclining white dragon woman in image 2. Image1 controls child's exact identity, face, blue eyes, whale hat, clothing, tears, clasped hands and pleading open-mouth expression. Preserve the child at same size and place, looking slightly upward to SCREEN RIGHT toward the offscreen reclined woman's face. REMOVE the entire upright white-haired woman's shoulder/hair occupying the right foreground in image1: she is now lying down and that vertical shoulder would be a continuity error. Show ONLY the child in this shot; fill vacated right area with the same softly blurred palace floor/columns. At extreme lower-right edge may show a tiny out-of-focus lavender-gold horizontal cushion trim consistent with image2, no adult body parts. Camera positioned near the head-end of the daybed looking slightly down toward child standing one step below the dais, not a steep overhead shot. The child is anxiously asking for help, hands empty, no bowl. Use the same subdued ivory-gold-lavender soft dusk light as these references, soft face illumination, detailed pastel windows and satin floor, no glaring highlights, keep face/eyes dominant. Preserve anime style, landscape16:9, no extra people, no words.",
+      "generated_source": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-73fe4f0f-2ead-4938-9cc5-5e543f0b997f.png",
+      "output": "镜头设计/图像/宫殿躺姿-v055/CY006.png",
+      "status": "candidate_pending_author_review",
+      "sha256": "60b735a5fbca6c6a6b42a444c075dfae4875bb14bf84ba1f71401bd91a1cfae6",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "CY007",
+      "inputs": [
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/宫殿柔光-v055/CY007-对称卧榻懒懒龙-候选.png"
+      ],
+      "prompt": "Derive a cinematic MEDIUM CLOSE-UP of the SAME reclining white dragon woman in this reference for the moment she calmly refuses a plea. Keep exact identity, hair, horns, lilac eyes, accessories, original white/lavender dress and same side-lying posture. Camera moves closer from same front half-space without mirroring: her head is still on screen-left and body extends toward screen-right on the same symmetrical gold Gothic lavender throne-daybed. Composition head/horns to waist, her face prominent, some cushion and high back visible, no need whole throne. Anatomical RIGHT elbow supported by left-end cushion and RIGHT hand supports her right cheek as in source. Her LEFT forearm/hand stays low, resting freely on the front cushion edge, not a golden armrest. Her eyes lower slightly toward offscreen child at screen-left/below camera: languid detached posture but a subtle hesitation in eyes, composed closed lips just before speaking. Not mocking, not smiling, no exaggerated sleepy yawn. Preserve folded two shoulder wings with only visible portion needed; do not introduce tail across chest or through furniture; tail is outside close-up. Soft restrained ivory gold lavender dusk light with readable face and white clothes, background defocused and quiet, no glare increase. Full 16:9 single film frame, no child in frame, no text, no collage.",
+      "generated_source": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-cc49bb4f-4834-465f-99cc-8d3871e5b6c0.png",
+      "output": "镜头设计/图像/宫殿躺姿-v055/CY007.png",
+      "status": "candidate_pending_author_review",
+      "sha256": "450505b15327868303239aae29164f8f2f7d2ff82626a47c4b1e8a6d08427c84",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "CY008",
+      "inputs": [
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/独立镜头-v009/CY008-v009.png",
+        "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-73fe4f0f-2ead-4938-9cc5-5e543f0b997f.png"
+      ],
+      "prompt": "Edit image 1, the blue whale-hat child's disappointed follow-up close-up. Image 2 defines the newly revised matching camera arrangement and SOFT LIGHT for the immediately previous shot. Preserve image1 child's exact identity, blue eyes, hair, whale hat, clothing, lower lip, worried smaller open mouth and original slight trembling clasped hands; this is 'but she will die', distinct more subdued expression than image2. REMOVE image1's entire upright white adult shoulder/hair from right foreground, fill with blurred palace background; no adult visible. Match image2 reverse angle near the head end of a reclining woman's daybed, only gently looking down to the child, child eyeline lightly up toward SCREEN RIGHT offscreen. Keep child left-center, same scale, empty hands, no bowl. Thin out-of-focus horizontal lavender cushion trim at very bottom-right as in image2 is acceptable, no vertical adult torso. Reduce blinding gold floor/window reflections to image2's quiet satin surfaces, muted pastel windows; preserve clean whites, vivid natural blue and soft warm skin. Same single scene landscape16:9, no text/collage/new people.",
+      "generated_source": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-26dcfa93-ac76-41eb-bab8-03614c8e7b20.png",
+      "output": "镜头设计/图像/宫殿躺姿-v055/CY008.png",
+      "status": "candidate_pending_author_review",
+      "sha256": "f35608a15d882c5e87929712e78b7157fdd054da165d73da7c86afffcffb637a",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "CY009",
+      "inputs": [
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/独立镜头-v009/CY009-v009.png",
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/宫殿柔光-v055/CY007-对称卧榻懒懒龙-候选.png",
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/宫殿柔光-v055/CY005-柔光.png"
+      ],
+      "prompt": "Edit image1: child in blue whale hat walking toward camera away from throne, wiping tears. Keep child's exact identity, proportions, costume, sad expression, empty hands, walking pose and foreground composition. Replace distant narrow upright throne and sitting white woman with the SAME symmetrical wide gold Gothic lavender throne-daybed and SIDE-RECLINING ChatGPT from image2. Head on frontal screen-left, legs toward right, right hand supports cheek, free left hand rests front cushion edge. She has NOT stood up yet; her eyes quietly follow departing child. Daybed remains centered on existing dais against far short wall, whole symmetrical structure appropriate distant scale, no extra throne/people. Match image3's already softened environment lighting: readable pale peach-lavender sky through windows, muted gold trim, satin marble reflection without dazzling bright streaks. Preserve original palace geometry, banners, columns, flowers. Cinematic detailed anime 16:9, no text/collage, no bowl.",
+      "generated_source": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-f2514684-879b-4c24-96a4-7205e4dc3c84.png",
+      "output": "镜头设计/图像/宫殿躺姿-v055/CY009.png",
+      "status": "candidate_pending_author_review",
+      "sha256": "da77b2aeb1a0f282d0b8e560e3458d13aba46e2cef104029271e08f13f1f1d21",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "CY010",
+      "inputs": [
+        "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-cc49bb4f-4834-465f-99cc-8d3871e5b6c0.png"
+      ],
+      "prompt": "Create one cinematic insert CLOSE-UP from the supplied reclining woman shot: focus ONLY on her anatomical LEFT hand that is freely draped over the front lavender cushion edge at the bottom of the reference. It is NOT the right hand supporting cheek. Same exact hand, delicate gold wrist bracelets and translucent white sleeve, same lavender brocade cushion with gold embroidery and piping, gold throne rail below. Moment: on hearing a distant bell, her left fingertips subtly CURL and PRESS into the soft upholstered front edge, making small visible compression folds; hesitant controlled tension, NOT an aggressive fist, NOT gripping a rigid metal armrest. Palm heel stays supported on cushion, thumb and four fingers anatomically coherent, no extra fingers. Her body remains side-reclining; only cropped sleeve/hair in background, no face necessary. Camera at front cushion height, moderately close side angle showing hand-cushion contact and fabric deformation clearly. Soft dusk light, white clothes clean, lavender cushion readable, subtle gold reflections, no brilliant glare or new props. Match same detailed anime illustration style and landscape16:9; no text/collage.",
+      "generated_source": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-3d9b369e-b8ba-4123-a9c6-5acff0d37b51.png",
+      "output": "镜头设计/图像/宫殿躺姿-v055/CY010.png",
+      "status": "candidate_pending_author_review",
+      "sha256": "8ab4d070782daba9712662e6035ab73253bc5dfab329ce19f7cce79b6527208c",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "CY009A",
+      "inputs": [
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/宫殿柔光-v055/CY009A-柔光.png",
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/宫殿柔光-v055/CY007-对称卧榻懒懒龙-候选.png"
+      ],
+      "prompt": "Edit image1, the reverse EXTREME WIDE palace shot looking from beside throne down the long hall to distant exit. Preserve the standing white dragon woman exactly in foreground left-center, her identity/hair/white dress/two folded wings/ONE proportioned long tapered tail, her gaze toward departing tiny blue whale-hat child far away, all architecture and perspective and softened lighting. Change image1's EMPTY narrow chair on far left into the EMPTY wide symmetrical royal throne-daybed of image2: gold Gothic frame, tall central crown with equal sloped wings of backrest, matching armrests, long lavender brocade seat and round bolsters at both ends. It is the same piece of furniture seen in perspective from near its side/back; do not paste a frontal symmetrical view at wrong angle. Throne remains near the SHORT end wall behind woman, its seat FRONT faces along the long hall toward distant exit. Widen the seat across the hall's width, do not rotate it to lie against the LONG side wall. Near end/frame may extend out of LEFT image crop naturally. Connected seat/armrests/base, furniture grounded on existing dais, no floating separate tall chair. Cushions slightly compressed where she previously reclined but EMPTY now. She has just risen and stands in front of the daybed, looking after child. Tail now naturally descends from sacrum behind dress onto dais, no phantom tail on empty seat. Keep only two people. Far exit softly luminous, side windows pastel with details, no glaring white-gold floor. Same detailed anime16:9 full frame, no text/collage.",
+      "generated_source": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-fb496c65-f842-4d5c-9a5c-9273b9668aff.png",
+      "output": "镜头设计/图像/宫殿躺姿-v055/CY009A.png",
+      "status": "rejected_wrong_orientation",
+      "sha256": "8e49f141ba0c0249b30e1f13218b3ef4345547f74bd0245d14ea395bf6294c65",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "CY009A-r2",
+      "inputs": [
+        "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-fb496c65-f842-4d5c-9a5c-9273b9668aff.png",
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/宫殿柔光-v055/CY007-对称卧榻懒懒龙-候选.png"
+      ],
+      "prompt": "RECOMPOSE camera and throne orientation to FIX SPATIAL GEOMETRY. Image1 supplies palace/standing woman/child but its sofa orientation is WRONG. Image2 supplies the symmetrical throne design. New frame: high rear THREE-QUARTER view from BEHIND the throne at the palace short end wall, looking down the immense central aisle to opposite distant exit. The throne-daybed's LONG BACK runs LEFT-TO-RIGHT ACROSS the hall, PERPENDICULAR to the aisle's near-to-far axis, PARALLEL to the broad stair nosings of the dais. Its seat FRONT faces AWAY FROM CAMERA toward the far exit. Thus CAMERA SEES the BACK EXTERIOR of the long Gothic gold/lavender throne in the LOWER FOREGROUND, not its frontal seat/apron. Do not show the frontal brocade cushions to camera! Show one continuous broad backside with central crown and matching ends; its left-right extent crosses the foreground horizontally/slightly in perspective rather than receding down the aisle. Camera high enough and offset to one side so the rear backrest occupies only lower-left foreground and does not obscure standing woman. The same white dragon woman stands on the FAR/front side of the throne, between it and aisle, back to camera, slightly right of frame center, watching tiny blue whale-hat child near centered distant exit. Her whole standing figure or most of it readable beyond throne's end; white hair/dress, two folded wings and one finned tapering tail at feet. Order in depth is CAMERA -> REAR OF THRONE -> STANDING WOMAN -> STEPS DOWN -> LONG HALL -> CHILD -> EXIT. Wide palace hall with bilateral colonnades and windows receding toward centered exit, broad dais steps traverse left-right. Keep architecture, costumes, scale, subdued pastel window lighting/satin floors and detailed anime style from refs. Do NOT retain wrong old foreground couch orientation, do NOT place couch along a long side wall, do NOT show cushion FRONT and far exit from behind simultaneously. One 16:9 cinematic wide shot, no added people/text/diagrams/collage.",
+      "generated_source": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-2f8bf12f-2fde-47a6-98a4-73a7eed94b54.png",
+      "output": "镜头设计/图像/宫殿躺姿-v055/CY009A-r2.png",
+      "status": "superseded_by_author_close_ots_request",
+      "sha256": "28dfbd5818f31697bbf3b62a04a6af806fd332bd4eaf158d6499deb922996e08",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "rejection_reason": "空间结构修正后仍认为张力不足，改肩后半脑与肩膀构图"
+    },
+    {
+      "date": "2026-10-26",
+      "engine": "built-in image_gen",
+      "id": "CY009A-r3",
+      "inputs": [
+        "镜头设计/图像/宫殿躺姿-v055/CY009A-r2.png",
+        "镜头设计/图像/宫殿躺姿-v055/CY007.png"
+      ],
+      "prompt": "Recompose image 1 into an intimate cinematic over-the-shoulder shot, same moment and palace, 16:9. Image 1 supplies the existing palace aisle, far exit and small blue whale-hat child walking away; image 2 supplies exact white dragon woman's lavender-white hair, horn, gold hair ornament and bare shoulder costume details ONLY. Camera now VERY CLOSE directly behind ChatGPT's shoulder, at her standing shoulder height. At the LEFT edge foreground show ONLY a cropped HALF of the back of her head, partial horn and ONE shoulder, large and softly out of focus, covering roughly left quarter to third. The left frame cuts through her head and shoulder; NEVER show a complete head, face, torso, full back, wings, feet or tail. We look PAST her shoulder down the same long central aisle toward the SMALL distant blue whale-hat child in the right-center distance, seen from behind walking away toward the far doorway. Child is clear and legible, lonely amid a huge empty hall; strong foreground/background depth and emotional separation. Camera is in front of the throne on the aisle side now, so throne is completely behind camera, NO throne or rail blocking foreground. Preserve the palace's architecture, lavender banners, tall Gothic windows, ivory/gold materials and longitudinal perspective. Soft dusk light and restrained warm highlights, darker foreground hair/shoulder silhouette with a delicate rim; preserve intrinsic palette. Reduce blown floor glare and candle glare, no white clipping, no extra flare. Focus on far child, foreground shoulder recognizable but gently soft; no extreme bokeh hiding the setting. Quiet tense animation-film shot showing her watching the child's determined departure. Exactly two characters: cropped foreground ChatGPT and small distant child. No new characters, no mirror, no captions, no border, no collage. This is a purposeful new CAMERA POSITION, not a crop of the full-body wide shot.",
+      "generated_source": "C:/Users/36322/.codex/generated_images/01a172cc-398b-71b3-98dc-536dd1b4ac2c/exec-32aaac0b-1f57-4976-a0c9-dc4a6ad7a885.png",
+      "output": "镜头设计/图像/宫殿躺姿-v055/CY009A-r3-过肩.png",
+      "status": "candidate_pending_author_review",
+      "author_direction": "从ChatGPT肩后拍，只露半个脑袋加肩膀，前方远处是小鱼。",
+      "sha256": "870574e66a07706e19a0dcead5c7d11564faa378b077d916bf8eb396791cccd3",
+      "dimensions": [
+        1672,
+        941
+      ]
+    }
+  ]
+}

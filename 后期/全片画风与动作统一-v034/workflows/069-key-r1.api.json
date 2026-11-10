@@ -1,0 +1,114 @@
+{
+  "1": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "Baimifan_v034_069-key-r1.png"
+    }
+  },
+  "5": {
+    "class_type": "UNETLoader",
+    "inputs": {
+      "unet_name": "qwen_image_2.1_bf16.safetensors",
+      "weight_dtype": "fp8_e4m3fn"
+    }
+  },
+  "6": {
+    "class_type": "CLIPLoader",
+    "inputs": {
+      "clip_name": "qwen3vl_8b_fp8_scaled.safetensors",
+      "type": "qwen_image",
+      "device": "cpu"
+    }
+  },
+  "7": {
+    "class_type": "VAELoader",
+    "inputs": {
+      "vae_name": "qwen_image_2.1_vae_bf16.safetensors"
+    }
+  },
+  "8": {
+    "class_type": "QwenImage21Cache",
+    "inputs": {
+      "model": [
+        "5",
+        0
+      ],
+      "device": "cpu",
+      "dtype": "default"
+    }
+  },
+  "9": {
+    "class_type": "TextEncodeQwenImage21",
+    "inputs": {
+      "clip": [
+        "6",
+        0
+      ],
+      "vae": [
+        "7",
+        0
+      ],
+      "images.image_1": [
+        "1",
+        0
+      ],
+      "prompt": "Traditional hand-drawn 2D Japanese gothic anime matching the established Claude struggle shot: confident dark ink contours, clearly grouped orange or white-lilac hair locks, matte flat skin, hard-edged two-tone cel shadows, hand-painted dark backgrounds. Retain drawn lace and charred fabric texture; do not erase lace or replace costumes with generic plain dresses. No CGI, plastic skin, volumetric beauty rendering, shiny doll faces or photographic hair. Restyle this exact original first frame while preserving its strong low frontal composition and the same horned white-lilac-haired GPT, ornate pale gown, one tail and TWO broad pale-lavender DRAGON MEMBRANE wings with finger ribs. Keep the same identity, hair, dress silhouette and beginning-of-rise stance. Draw the skin and gown as matte two-tone cel shapes and strong ink lines; remove soft plastic rendering, glowing milky skin, heavy bloom and glossy 3D floor reflection. Her feet are just leaving the stone by a small distance at the beginning of ONE controlled upward rise; do not put her high in the vault. Maintain a dark Gothic NIGHT cathedral with deep blue stained-glass windows and restrained amber chandeliers and candle clusters. This is BEFORE the flood: existing amber candles remain LIT. Reduce the global overbright golden wash and keep the lighting compatible with the following dark-blue airborne shot, without darkening her face into silhouette. Preserve intact nave vault and scale of architecture; no daylight or new window holes. Her two spread membrane wings must remain anatomically connected to the shoulders, no feathers, no extra wings or arms. Remove drifting feather-shaped white particles; only a few tiny dust specks allowed. No other person.",
+      "negative_prompt": "3d, cgi, photorealism, glossy plastic skin, realistic hair strands, volumetric rendering, text, watermark",
+      "resolution": 992
+    }
+  },
+  "10": {
+    "class_type": "KSampler",
+    "inputs": {
+      "model": [
+        "8",
+        0
+      ],
+      "positive": [
+        "9",
+        0
+      ],
+      "negative": [
+        "9",
+        1
+      ],
+      "latent_image": [
+        "9",
+        2
+      ],
+      "seed": 202610303714,
+      "steps": 40,
+      "cfg": 1.0,
+      "sampler_name": "euler",
+      "scheduler": "simple",
+      "denoise": 1.0
+    }
+  },
+  "11": {
+    "class_type": "VAEDecodeTiled",
+    "inputs": {
+      "samples": [
+        "10",
+        0
+      ],
+      "vae": [
+        "7",
+        0
+      ],
+      "tile_size": 512,
+      "overlap": 64,
+      "temporal_size": 64,
+      "temporal_overlap": 8
+    }
+  },
+  "18": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "11",
+        0
+      ],
+      "filename_prefix": "Baimifan/v034/069-key-r1"
+    }
+  }
+}

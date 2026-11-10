@@ -1,0 +1,777 @@
+[
+  {
+    "role": "Claude",
+    "kind": "designed",
+    "note": "已确认候选 1；这是声线选择，逐句表演仍可再挑。",
+    "lines": [],
+    "previews": [
+      {
+        "candidate": 1,
+        "file": "../ElevenLabs-正式台词试听-v002/Claude-1.mp3",
+        "seconds": 26.592625
+      },
+      {
+        "candidate": 2,
+        "file": "../ElevenLabs-正式台词试听-v002/Claude-2.mp3",
+        "seconds": 30.746083
+      },
+      {
+        "candidate": 3,
+        "file": "../ElevenLabs-正式台词试听-v002/Claude-3.mp3",
+        "seconds": 32.91425
+      }
+    ]
+  },
+  {
+    "role": "GPT",
+    "kind": "designed",
+    "note": "正式台词 18 句。使用全部实际台词。",
+    "lines": [
+      {
+        "id": "VO-CY004D-01",
+        "role": "GPT",
+        "previous_batch": 3,
+        "previous_record_frame": 790,
+        "previous_ja": "通してあげて。",
+        "previous_zh": "让她进来。",
+        "previous_audio_duration_seconds": 2.199999999999998,
+        "status": "retained_in_draft",
+        "ja": "通してあげて。",
+        "zh_back_translation": "让她过去吧。",
+        "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+        "reading_hints": {}
+      },
+      {
+        "id": "VO-CY007-01",
+        "role": "GPT",
+        "previous_batch": 4,
+        "previous_record_frame": 1097,
+        "previous_ja": "教会のことに、関わるべきじゃない。",
+        "previous_zh": "教会的事，我不该插手。",
+        "previous_audio_duration_seconds": 3.4299999999999975,
+        "status": "revised_draft",
+        "ja": "教会には手を出さない。……そう約束したの。",
+        "zh_back_translation": "我答应过，不干涉教会。",
+        "direction": "听见Claude会被烧死后已停止托腮、撑起身体，看着孩子再说。主动选择守约，而非救不了人；停顿短，不演成漫不经心的推辞。",
+        "reading_hints": {},
+        "revision_history": [
+          {
+            "version": "v0.66",
+            "ja": "教会には……手を出せない。",
+            "zh_back_translation": "教会的事……我不能插手。",
+            "direction": "迟疑后压住情绪。不是冷漠宣读原则。"
+          }
+        ]
+      },
+      {
+        "id": "VO-CY024-01",
+        "role": "GPT",
+        "previous_batch": 17,
+        "previous_record_frame": 4786,
+        "previous_ja": "二人を守って。",
+        "previous_zh": "护住她们。",
+        "previous_audio_duration_seconds": 1.4100000000000061,
+        "status": "retained_in_draft",
+        "ja": "二人を守って。",
+        "zh_back_translation": "护住她们。",
+        "direction": "GPT的局部水击已经截散袭向小鱼的术光后，短促下达现场保护指令；同伴边行动边回应，不停下来展示队形。",
+        "reading_hints": {}
+      },
+      {
+        "id": "VO-CY026A-01",
+        "role": "GPT",
+        "previous_batch": 21,
+        "previous_record_frame": 5717,
+        "previous_ja": "センモン、人助けに付き合って。",
+        "previous_zh": "千问，陪我救个人。",
+        "previous_audio_duration_seconds": 1.820000000000012,
+        "status": "retained_in_draft",
+        "ja": "センモン、人助けに付き合って。",
+        "zh_back_translation": "千问，陪我去救个人。",
+        "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+        "reading_hints": {}
+      },
+      {
+        "id": "VO-CY026B-01",
+        "role": "GPT",
+        "previous_batch": 22,
+        "previous_record_frame": 5844,
+        "previous_ja": "ジェミニ。",
+        "previous_zh": "Gemini。",
+        "previous_audio_duration_seconds": 0.9800000000000182,
+        "status": "retained_in_draft",
+        "ja": "ジェミニ。",
+        "zh_back_translation": "Gemini。",
+        "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+        "reading_hints": {}
+      },
+      {
+        "id": "VO-CY026C-01",
+        "role": "GPT",
+        "previous_batch": 23,
+        "previous_record_frame": 5928,
+        "previous_ja": "グロック。",
+        "previous_zh": "Grok。",
+        "previous_audio_duration_seconds": 1.0400000000000016,
+        "status": "retained_in_draft",
+        "ja": "グロック。",
+        "zh_back_translation": "Grok。",
+        "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+        "reading_hints": {}
+      },
+      {
+        "id": "VO-CY026D1-01",
+        "role": "GPT",
+        "previous_batch": 23,
+        "previous_record_frame": 6024,
+        "previous_ja": "キミ。クロードが危ない。",
+        "previous_zh": "Kimi，Claude 出事了。",
+        "previous_audio_duration_seconds": 2.339924999999994,
+        "status": "retained_in_draft",
+        "ja": "キミ。クロードが危ない。",
+        "zh_back_translation": "Kimi，Claude有危险。",
+        "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+        "reading_hints": {}
+      },
+      {
+        "id": "VO-CY026E-01",
+        "role": "GPT",
+        "previous_batch": 25,
+        "previous_record_frame": 6303,
+        "previous_ja": "コンゲン、ラマ……みんな来て。",
+        "previous_zh": "混元，Llama……都来。",
+        "previous_audio_duration_seconds": 3.3799999999999955,
+        "status": "retained_in_draft",
+        "ja": "コンゲン、ラマ……みんな来て。",
+        "zh_back_translation": "混元，Llama……都来。",
+        "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+        "reading_hints": {}
+      },
+      {
+        "id": "VO-CY024A-01",
+        "role": "GPT",
+        "previous_batch": 25,
+        "previous_record_frame": 6567,
+        "previous_ja": "蒼穹の果てに座し、",
+        "previous_zh": "盘踞于苍穹尽头，",
+        "previous_audio_duration_seconds": 2.8365,
+        "status": "revised_draft",
+        "ja": "清き水の主よ。",
+        "zh_back_translation": "纯水之主啊。",
+        "direction": "庄重呼唤。主读ぬし，保留用户明确的称谓，不改水之灵。",
+        "reading_hints": {
+          "清き": "きよき",
+          "主": "ぬし"
+        }
+      },
+      {
+        "id": "VO-CY024A2-01",
+        "role": "GPT",
+        "previous_batch": 26,
+        "previous_record_frame": 6819,
+        "previous_ja": "この世に散らばる水の息吹を、",
+        "previous_zh": "请将散落尘世的万千水息，",
+        "previous_audio_duration_seconds": 6.514125,
+        "status": "revised_draft",
+        "ja": "水よ、集え。",
+        "zh_back_translation": "水啊，汇聚吧。",
+        "direction": "声音开始收紧，对应水息响应并汇聚，不匀速吟诗。",
+        "reading_hints": {}
+      },
+      {
+        "id": "VO-CY024A3-01",
+        "role": "GPT",
+        "previous_batch": 27,
+        "previous_record_frame": 7010,
+        "previous_ja": "星々の下に浮かぶ、果てなき海へと集めよ。",
+        "previous_zh": "汇作悬于群星之下的无岸之海。",
+        "previous_audio_duration_seconds": 5.800125,
+        "status": "revised_draft",
+        "ja": "雲の上に、海を成せ。",
+        "zh_back_translation": "在云层之上，化作大海。",
+        "direction": "随水势攀升加重后半句；云海在高处形成，主龙尚未攻击。",
+        "reading_hints": {
+          "成せ": "なせ"
+        }
+      },
+      {
+        "id": "VO-CY024A4-01",
+        "role": "GPT",
+        "previous_batch": 30,
+        "previous_record_frame": 7577,
+        "previous_ja": "罪なき者を焼く炎を、奔流で鎮めよ。",
+        "previous_zh": "令灼烧无辜的烈焰，在奔流中止息；",
+        "previous_audio_duration_seconds": 4.759975000000016,
+        "status": "revised_draft",
+        "ja": "炎を鎮め、",
+        "zh_back_translation": "平息烈焰，",
+        "direction": "接下句的连续祈愿，逗号处只短停，不能当作完整发令收句。",
+        "reading_hints": {}
+      },
+      {
+        "id": "VO-CY024A5-01",
+        "role": "GPT",
+        "previous_batch": 31,
+        "previous_record_frame": 7834,
+        "previous_ja": "清き水の主よ、汝の救済を、ここに——",
+        "previous_zh": "纯水之主啊，请降下你的救赎——",
+        "previous_audio_duration_seconds": 6.816674999999994,
+        "status": "revised_draft",
+        "ja": "罪なき者に、救いを――",
+        "zh_back_translation": "让无辜之人，得到救赎——",
+        "direction": "回到救人的目的，收住蓄力；对象由前文纯水之主明确，不重复第二次长呼唤。",
+        "reading_hints": {}
+      },
+      {
+        "id": "VO-CY024A5-02",
+        "role": "GPT",
+        "previous_batch": 31,
+        "previous_record_frame": 8017,
+        "previous_ja": "そうりゅうてんけい！",
+        "previous_zh": "沧龙天倾！",
+        "previous_audio_duration_seconds": 1.3425499999999981,
+        "status": "revised_draft",
+        "ja": "蒼龍天傾！",
+        "zh_back_translation": "沧龙天倾！",
+        "direction": "そうりゅうてんけい。短、决绝；术名与解印连贯，主龙在术名结束后随手势释放。",
+        "reading_hints": {
+          "蒼龍天傾": "そうりゅうてんけい"
+        }
+      },
+      {
+        "id": "VO-CY027B-01",
+        "role": "GPT",
+        "previous_batch": 34,
+        "previous_record_frame": 8665,
+        "previous_ja": "うるさい。",
+        "previous_zh": "聒噪。",
+        "previous_audio_duration_seconds": 0.9299999999999878,
+        "status": "retained_in_draft",
+        "ja": "うるさい。",
+        "zh_back_translation": "吵死了。",
+        "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+        "reading_hints": {}
+      },
+      {
+        "id": "VO-CY028A-01",
+        "role": "GPT",
+        "previous_batch": 37,
+        "previous_record_frame": 9634,
+        "previous_ja": "ゆっくりでいい。",
+        "previous_zh": "慢慢来。",
+        "previous_audio_duration_seconds": 1.580000000000003,
+        "status": "retained_in_draft",
+        "ja": "ゆっくりでいい。",
+        "zh_back_translation": "慢慢来。",
+        "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+        "reading_hints": {}
+      },
+      {
+        "id": "VO-CY028A2-01",
+        "role": "GPT",
+        "previous_batch": 38,
+        "previous_record_frame": 9781,
+        "previous_ja": "無事よ。下で待ってる。",
+        "previous_zh": "她没事，在下面等你。",
+        "previous_audio_duration_seconds": 4.070000000000012,
+        "status": "retained_in_draft",
+        "ja": "無事よ。下で待ってる。",
+        "zh_back_translation": "她没事。在下面等着呢。",
+        "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+        "reading_hints": {}
+      },
+      {
+        "id": "VO-CY028-01",
+        "role": "GPT",
+        "previous_batch": 41,
+        "previous_record_frame": 10708,
+        "previous_ja": "行こう。",
+        "previous_zh": "我们走。",
+        "previous_audio_duration_seconds": 0.8800000000000333,
+        "status": "retained_in_draft",
+        "ja": "行こう。",
+        "zh_back_translation": "我们走。",
+        "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+        "reading_hints": {}
+      }
+    ],
+    "previews": [
+      {
+        "candidate": 1,
+        "file": "GPT-1.mp3",
+        "seconds": 49.240792
+      },
+      {
+        "candidate": 2,
+        "file": "GPT-2.mp3",
+        "seconds": 51.408958
+      },
+      {
+        "candidate": 3,
+        "file": "GPT-3.mp3",
+        "seconds": 51.330583
+      }
+    ]
+  },
+  {
+    "role": "Kimi",
+    "kind": "designed",
+    "note": "正式台词 4 句。为满足设计预览最低字数，原句重复 3 轮。",
+    "lines": [
+      {
+        "id": "VO-CY024R-01",
+        "role": "Kimi",
+        "previous_batch": 17,
+        "previous_record_frame": 4852,
+        "previous_ja": "月の裏に潜む影よ、",
+        "previous_zh": "隐于月背的暗影啊，",
+        "previous_audio_duration_seconds": 2.2000000000000077,
+        "status": "revised_draft",
+        "ja": "月の裏に眠る、古き意志よ。",
+        "zh_back_translation": "沉睡于月背的古老意志啊。",
+        "direction": "先闻呼唤，后见后窗Kimi。向古老意志请求，不新增具名神祇；举刃起势与呼唤相接，不停步念一段说明。",
+        "reading_hints": {
+          "古き意志": "ふるきいし"
+        },
+        "revision_history": [
+          {
+            "version": "v0.66",
+            "ja": "月影よ。",
+            "zh_back_translation": "月影啊。",
+            "direction": "先呼唤，银光开始响应；从画外起声可以，但不能在起势前已完成全部术式。"
+          }
+        ]
+      },
+      {
+        "id": "VO-CY024K0-01",
+        "role": "Kimi",
+        "previous_batch": 18,
+        "previous_record_frame": 5018,
+        "previous_ja": "この刃の銀の光をたどり、",
+        "previous_zh": "请循此刃的银辉，",
+        "previous_audio_duration_seconds": 3.7000000000000077,
+        "status": "revised_draft",
+        "ja": "この刃を標に、道を開け。",
+        "zh_back_translation": "以这把刀为路标，开出一条路。",
+        "direction": "举刃蓄力，标读しるべ；动作明确把明刃作为位移坐标，不生成实体道路或独立传送门。",
+        "reading_hints": {
+          "刃": "やいば",
+          "標": "しるべ"
+        }
+      },
+      {
+        "id": "VO-CY024K1A-01",
+        "role": "Kimi",
+        "previous_batch": 19,
+        "previous_record_frame": 5301,
+        "previous_ja": "月影渡り！",
+        "previous_zh": "月影渡！",
+        "previous_audio_duration_seconds": 0.8799999999999955,
+        "status": "revised_draft",
+        "ja": "月影渡り！",
+        "zh_back_translation": "月影渡！",
+        "direction": "明刃破窗并钉稳后发令，紧接瞬移与回收；这里不是护罩的术名。",
+        "reading_hints": {
+          "月影渡り": "つきかげわたり"
+        }
+      },
+      {
+        "id": "VO-CY026D-02",
+        "role": "Kimi",
+        "previous_batch": 24,
+        "previous_record_frame": 6267,
+        "previous_ja": "彼女は任せて。",
+        "previous_zh": "她交给我。",
+        "previous_audio_duration_seconds": 1.3989500000000135,
+        "status": "revised_draft",
+        "ja": "任せて。",
+        "zh_back_translation": "交给我。",
+        "direction": "先由安眠接呼唤，连续看清睁眼、撑起身体、看向GPT，再简短回答；不跳过清醒过程，不重新闭眼睡回去。",
+        "reading_hints": {},
+        "previous_draft_ja": "彼女は任せて。",
+        "previous_draft_zh_back_translation": "她交给我。"
+      }
+    ],
+    "previews": [
+      {
+        "candidate": 1,
+        "file": "Kimi-1.mp3",
+        "seconds": 36.519167
+      },
+      {
+        "candidate": 2,
+        "file": "Kimi-2.mp3",
+        "seconds": 37.146083
+      },
+      {
+        "candidate": 3,
+        "file": "Kimi-3.mp3",
+        "seconds": 36.675917
+      }
+    ]
+  },
+  {
+    "role": "教主",
+    "kind": "designed",
+    "note": "正式台词 4 句。为满足设计预览最低字数，原句重复 3 轮。",
+    "lines": [
+      {
+        "id": "VO-CY021A-01",
+        "role": "教主／Claude的父亲",
+        "previous_batch": 12,
+        "previous_record_frame": 3486,
+        "previous_ja": "我が娘よ、神がお待ちだ。",
+        "previous_zh": "我的女儿，神明在等你。",
+        "previous_audio_duration_seconds": 4.416666666666667,
+        "status": "retained_in_draft",
+        "ja": "我が娘よ、神がお待ちだ。",
+        "zh_back_translation": "我的女儿，神明在等你。",
+        "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+        "reading_hints": {}
+      },
+      {
+        "id": "VO-CY019-01",
+        "role": "教主／Claude的父亲",
+        "previous_batch": 12,
+        "previous_record_frame": 3622,
+        "previous_ja": "どけ。",
+        "previous_zh": "让开。",
+        "previous_audio_duration_seconds": 0.7999999999999924,
+        "status": "retained_in_draft",
+        "ja": "どけ。",
+        "zh_back_translation": "让开。",
+        "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+        "reading_hints": {}
+      },
+      {
+        "id": "VO-CY027A-01",
+        "role": "教主／Claude的父亲",
+        "previous_batch": 34,
+        "previous_record_frame": 8532,
+        "previous_ja": "不干渉条約を破ったな。",
+        "previous_zh": "你违反了互不干涉条约。",
+        "previous_audio_duration_seconds": 2.7899999999999636,
+        "status": "retained_in_draft",
+        "ja": "不干渉条約を破ったな。",
+        "zh_back_translation": "你违反了互不干涉条约。",
+        "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+        "reading_hints": {}
+      },
+      {
+        "id": "VO-CY029-01",
+        "role": "教主／Claude的父亲",
+        "previous_batch": 38,
+        "previous_record_frame": 9986,
+        "previous_ja": "クロード……来なさい。",
+        "previous_zh": "Claude……过来。",
+        "previous_audio_duration_seconds": 3.099999999999985,
+        "status": "retained_in_draft",
+        "ja": "クロード……来なさい。",
+        "zh_back_translation": "Claude……过来。",
+        "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+        "reading_hints": {}
+      }
+    ],
+    "previews": [
+      {
+        "candidate": 1,
+        "file": "教主-1.mp3",
+        "seconds": 35.970583
+      },
+      {
+        "candidate": 2,
+        "file": "教主-2.mp3",
+        "seconds": 37.642417
+      },
+      {
+        "candidate": 3,
+        "file": "教主-3.mp3",
+        "seconds": 36.597542
+      }
+    ]
+  },
+  {
+    "role": "千问",
+    "kind": "direct",
+    "note": "现成日语声线，一次提交；主结果直接审核，网页附送版本折叠保留。",
+    "voice": "Kyoko",
+    "lines": [
+      {
+        "id": "VO-CY026A1-01",
+        "role": "千问",
+        "previous_batch": 21,
+        "previous_record_frame": 5805,
+        "previous_ja": "行きましょう。",
+        "previous_zh": "走吧。",
+        "previous_audio_duration_seconds": 1.1500249999999899,
+        "status": "retained_in_draft",
+        "ja": "行きましょう。",
+        "zh_back_translation": "走吧。",
+        "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+        "reading_hints": {}
+      },
+      {
+        "id": "VO-CY024A0-01",
+        "role": "千问",
+        "previous_batch": 25,
+        "previous_record_frame": 6401,
+        "previous_ja": "つかまって。",
+        "previous_zh": "抱紧我。",
+        "previous_audio_duration_seconds": 1.3137499999999893,
+        "status": "retained_in_draft",
+        "ja": "つかまって。",
+        "zh_back_translation": "抱紧我。",
+        "direction": "回忆结束时千问已经在右侧柱内抱稳小鱼，只收紧抱持，不再次从地面抱起；低声安抚，随后看向GPT。",
+        "reading_hints": {}
+      }
+    ],
+    "previews": [
+      {
+        "candidate": 1,
+        "file": "千问-直配-2wqApxs9dzFQNUwgr6qw.mp3",
+        "seconds": 1.959125,
+        "model": "eleven_v4"
+      },
+      {
+        "candidate": 2,
+        "file": "千问-直配-fdLllESjpHB5Ma8cj8dS.mp3",
+        "seconds": 1.959125,
+        "model": "eleven_v4_exp"
+      }
+    ]
+  },
+  {
+    "role": "Gemini",
+    "kind": "direct",
+    "note": "现成日语声线，一次提交；主结果直接审核，网页附送版本折叠保留。",
+    "voice": "Yui - Warm, Clear and Natural",
+    "lines": [
+      {
+        "id": "VO-CY026B-02",
+        "role": "Gemini",
+        "previous_batch": 22,
+        "previous_record_frame": 5875,
+        "previous_ja": "私も行く。",
+        "previous_zh": "我去。",
+        "previous_audio_duration_seconds": 1.2300000000000182,
+        "status": "retained_in_draft",
+        "ja": "私も行く。",
+        "zh_back_translation": "我也去。",
+        "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+        "reading_hints": {}
+      }
+    ],
+    "previews": [
+      {
+        "candidate": 1,
+        "file": "Gemini-直配-oGnIkLaScZshfvIW8YvI.mp3",
+        "seconds": 1.22775,
+        "model": "eleven_v4"
+      },
+      {
+        "candidate": 2,
+        "file": "Gemini-直配-usZrdsdFiGhzVCmuTe0J.mp3",
+        "seconds": 1.149375,
+        "model": "eleven_v4_exp"
+      }
+    ]
+  },
+  {
+    "role": "Grok",
+    "kind": "direct",
+    "note": "现成日语声线，一次提交；主结果直接审核，网页附送版本折叠保留。",
+    "voice": "Morioki - Calm, Measured and Muffled",
+    "lines": [
+      {
+        "id": "VO-CY026C-02",
+        "role": "Grok",
+        "previous_batch": 23,
+        "previous_record_frame": 5961,
+        "previous_ja": "もちろん。",
+        "previous_zh": "当然。",
+        "previous_audio_duration_seconds": 0.9800000000000182,
+        "status": "retained_in_draft",
+        "ja": "もちろん。",
+        "zh_back_translation": "当然。",
+        "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+        "reading_hints": {}
+      }
+    ],
+    "previews": [
+      {
+        "candidate": 1,
+        "file": "Grok-直配-Idpo2kDUQ3usLAaAFREt.mp3",
+        "seconds": 1.071,
+        "model": "eleven_v4"
+      },
+      {
+        "candidate": 2,
+        "file": "Grok-直配-x2INH8ReFYCghIjq3lQY.mp3",
+        "seconds": 0.91425,
+        "model": "eleven_v4_exp"
+      }
+    ]
+  },
+  {
+    "role": "天使GPT",
+    "kind": "direct",
+    "note": "现成日语声线，一次提交；主结果直接审核，网页附送版本折叠保留。",
+    "voice": "Shizuka - Natural and Soft",
+    "lines": [
+      {
+        "id": "VO-CY008M-02",
+        "role": "天使GPT",
+        "previous_batch": 5,
+        "previous_record_frame": 1379,
+        "previous_ja": "でも、この子を見てよ……あの人たち、正気なの？本当にクロードを焼き殺そうとしてるんだよ！",
+        "previous_zh": "可你看看这孩子……那些人疯了吗？他们真的要烧死克劳德啊！",
+        "previous_audio_duration_seconds": 10.009974999999997,
+        "status": "revised_draft",
+        "ja": "それで、見殺しにするの？",
+        "zh_back_translation": "所以，就眼看着她死吗？",
+        "direction": "紧接守约提醒，轻而尖锐地质问；不再复述献祭，也不喊口号。",
+        "reading_hints": {},
+        "revision_history": [
+          {
+            "version": "v0.66",
+            "ja": "でも、この子を見てよ……クロードを見殺しにするの？",
+            "zh_back_translation": "可是，你看看这孩子……难道就眼看着Claude死吗？",
+            "direction": "逼问自己的良心，句尾落在见死不救的选择上，不重复说明火祭。"
+          }
+        ]
+      }
+    ],
+    "previews": [
+      {
+        "candidate": 1,
+        "file": "天使GPT-直配-5fCDhoDObEpAuqJzCr2j.mp3",
+        "seconds": 2.50775,
+        "model": "eleven_v4"
+      },
+      {
+        "candidate": 2,
+        "file": "天使GPT-直配-CvlRnpKJkqPg3k9td14h.mp3",
+        "seconds": 2.429375,
+        "model": "eleven_v4_exp"
+      }
+    ]
+  },
+  {
+    "role": "恶魔GPT",
+    "kind": "direct",
+    "note": "现成日语声线，一次提交；主结果直接审核，网页附送版本折叠保留。",
+    "voice": "Konoha - Professional JP Explainer",
+    "lines": [
+      {
+        "id": "VO-CY008M-01",
+        "role": "恶魔GPT",
+        "previous_batch": 5,
+        "previous_record_frame": 1288,
+        "previous_ja": "協定を忘れないで。教会のことに手を出しちゃだめ。",
+        "previous_zh": "别忘了协议。教会的事，你不能插手。",
+        "previous_audio_duration_seconds": 3.580000000000003,
+        "status": "revised_draft",
+        "ja": "協定を忘れないで。",
+        "zh_back_translation": "别忘了协议。",
+        "direction": "压低而短促，提醒代价；不夸张打闹，不拖慢孩子正在等待的时间。",
+        "reading_hints": {},
+        "revision_history": [
+          {
+            "version": "v0.66",
+            "ja": "協定を忘れないで。教会のことに手を出しちゃだめ。",
+            "zh_back_translation": "别忘了协议。教会的事，你不能插手。",
+            "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。"
+          }
+        ]
+      }
+    ],
+    "previews": [
+      {
+        "candidate": 1,
+        "file": "恶魔GPT-直配-JE2UutmGh7NBDN19C6d9.mp3",
+        "seconds": 1.880813,
+        "model": "eleven_v4"
+      },
+      {
+        "candidate": 2,
+        "file": "恶魔GPT-直配-Qyb5v0xyM2Hm71HuUsry.mp3",
+        "seconds": 1.880813,
+        "model": "eleven_v4_exp"
+      }
+    ]
+  },
+  {
+    "role": "教徒",
+    "kind": "direct",
+    "note": "现成日语声线，一次提交；主结果直接审核，网页附送版本折叠保留。",
+    "voice": "Ishibashi - Inviting, Natural and Smoky",
+    "lines": [
+      {
+        "id": "VO-CY004-01",
+        "role": "教徒",
+        "previous_batch": 2,
+        "previous_record_frame": 516,
+        "previous_ja": "今宵、クロードを火の供物に。",
+        "previous_zh": "今夜，为 Claude 行火祭。",
+        "previous_audio_duration_seconds": 5.0,
+        "status": "revised_draft",
+        "ja": "クロードを中へ。生贄の儀の支度をしろ。",
+        "zh_back_translation": "把Claude带进去。准备献祭仪式。",
+        "direction": "对门内接应者下令准备献祭，前半随押送，后半被小鱼听见。教会把Claude当作献给神的祭品，不以罪名宣判；不向观众补讲教义。",
+        "reading_hints": {
+          "生贄": "いけにえ",
+          "儀": "ぎ"
+        },
+        "revision_history": [
+          {
+            "version": "v0.66",
+            "ja": "今宵、クロードを火の供物に。",
+            "zh_back_translation": "今夜，为 Claude 行火祭。",
+            "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。"
+          },
+          {
+            "version": "v0.68",
+            "ja": "クロードを中へ。火刑の支度をしろ。",
+            "zh_back_translation": "把Claude带进去。准备火刑。",
+            "direction": "向门内接应者下令，前半随押送，后半被小鱼从门外听到；不是向观众宣告，不加日落后的新时限。"
+          }
+        ]
+      },
+      {
+        "id": "VO-CY010A-01",
+        "role": "教徒",
+        "previous_batch": 7,
+        "previous_record_frame": 1910,
+        "previous_ja": "こくじんの薪を、一人一本持ってこい。",
+        "previous_zh": "取乌烬木，一人一根。",
+        "previous_audio_duration_seconds": 2.8700000000000045,
+        "status": "retained_in_draft",
+        "ja": "こくじんの薪を、一人一本持ってこい。",
+        "zh_back_translation": "取乌烬木，一人一根。",
+        "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+        "reading_hints": {}
+      }
+    ],
+    "previews": [
+      {
+        "candidate": 1,
+        "file": "教徒-直配-sBasCmUCkqdPXe3dC2X4.mp3",
+        "seconds": 6.426063,
+        "model": "eleven_v4"
+      },
+      {
+        "candidate": 2,
+        "file": "教徒-直配-z8vlS1xqMRvJ0ZdD1mzX.mp3",
+        "seconds": 6.426063,
+        "model": "eleven_v4_exp"
+      }
+    ]
+  },
+  {
+    "role": "小鱼",
+    "kind": "retained",
+    "note": "按作者决定暂时保留现有声音，本轮未重新生成。",
+    "lines": [],
+    "previews": []
+  }
+]

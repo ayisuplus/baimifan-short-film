@@ -1,0 +1,44 @@
+{
+  "batch": {
+    "attempt_id": "CY022-v014-air-intercept-r2",
+    "batch_number": 16,
+    "batch_id": "GB013",
+    "duration": 4,
+    "prompt": "精细日式二维动画单镜，保持参考线稿与平涂阴影，禁止3D手办材质，无对白字幕音乐。只取参考教堂冷蓝窗和暖金光影为背景风格，镜内完全没有人物、手、火把、祭架，只有半空一小块净空的特写。开头一条已经离体的琥珀细光从右往左高速飞行；同时一束窄清水从左向右迎来。0.5至1秒两者在画面中心的空中相撞，一次小范围白色水花闪开，金光在水中碎散并熄灭，余水向下落；1至4秒留出散水余势。固定镜头，不生成巨浪、光球蓄力、火焰或人物，不让攻击撞建筑。本镜只交代空中截击。",
+    "references": [
+      {
+        "path": "视频制作/Metaso-H3-v013/参考/CY022-R1-聚术首帧-r1.png",
+        "role": "reference_image",
+        "sha256": "02bf5eec8f727230ebd519daab95d30ef52dce789392bd3d46bcb4dd41ad8ee5",
+        "visually_reviewed": true
+      }
+    ],
+    "estimated_credits": 40.8,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "拆分先前混淆的空间与接触动作为单一可验收插镜",
+    "repair_of": "v014 rescue r1 rejected"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "精细日式二维动画单镜，保持参考线稿与平涂阴影，禁止3D手办材质，无对白字幕音乐。只取参考教堂冷蓝窗和暖金光影为背景风格，镜内完全没有人物、手、火把、祭架，只有半空一小块净空的特写。开头一条已经离体的琥珀细光从右往左高速飞行；同时一束窄清水从左向右迎来。0.5至1秒两者在画面中心的空中相撞，一次小范围白色水花闪开，金光在水中碎散并熄灭，余水向下落；1至4秒留出散水余势。固定镜头，不生成巨浪、光球蓄力、火焰或人物，不让攻击撞建筑。本镜只交代空中截击。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115678936394723328"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 4,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者要求直接修复教堂段，密塔剩余额度优先，不足转本地ComfyUI；现余额971.3，经控制台实时核实。保留历史，不充值，不导出。"
+}

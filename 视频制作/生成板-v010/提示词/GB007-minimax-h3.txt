@@ -1,0 +1,35 @@
+subject_definitions:
+<Subject 1>: Claude, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: DeepSeek, identity and outfit from four-view sheet <Picture 2>.
+<Picture 3>: [Shot 1] composition and state reference; not its first frame.
+<Picture 4>: [Shot 2] composition and state reference; not its first frame.
+<Picture 5>: [Shot 3] composition and state reference; not its first frame.
+<Picture 6>: [Shot 4] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. Claude warns with a look; the footrest and chains establish the restraints, yet DeepSeek reaches the platform and tries the lock.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Use an eyeline reverse of the child's upward look; the faint movement sound and candles retain the same empty church. Use <Picture 3> for composition. Claude hears the small sound from the side wall and looks down toward DeepSeek offscreen below. Surprise turns to concern, and she gently shakes her head to discourage the child from approaching. Her body remains restrained against the cross. Tilt slightly with Claude lowering her face, then hold the face-and-shoulder close-up for surprise and a restrained head shake. Candle crackle and faint breathing from the two characters; the hall stays quiet.
+[Shot 2] At 00:03.000, Move from Claude's concerned downward look to the restraint detail, carrying the quiet without adding a new action against her. Use <Picture 4> for composition. Only Claude's bare feet, ankle chains and a cropped portion of her skirt are visible. Both feet stand on the small wooden footrest fixed to the cross's upright post. Each ankle is chained toward the post. Low piles of wood lie below on either side, without burying her toes or skirt. Make a short downward tilt from the ankles to the fixed footrest, ending on its clearance above the low wood piles. Soft candle crackle, faint breathing and a slight chain sound.
+[Shot 3] At 00:05.000, Omit the stair climb across the cut and enter with the child already on the left of the cross; the question comes from their established facing positions. Use <Picture 5> for composition. DeepSeek has reached the level top platform beside the left side of the cross. Claude asks why she came; the child looks up and gives her promise. DeepSeek rises onto her toes and reaches both hands to the waist lock, ending with her grip established for the next attempt. All restraints remain fastened. Make a small lateral adjustment in a side two-shot on the platform, keeping the child, waist lock and Claude's face legible; tilt slightly with the reach. A few light steps, fabric movement and the empty hall's echo remain below the two lines; no chanting. From 5.1 to 6.7 seconds, Claude (S1) speaks with matching lip movement: <d>[English] What are you doing here?</d>. From 6.9 to 8.8 seconds, DeepSeek (S2) speaks with matching lip movement: <d>[English] I'll get you out of here.</d>.
+[Shot 4] At 00:09.000, Begin with both hands already on the clasp; only after it resists does she change her grip to the chain. Use <Picture 6> for composition. On tiptoe, DeepSeek tries to pry the waist lock, which does not move. She then grasps the chain across Claude's waist and pulls outward. It strikes the wooden cross once with a clear ring. Unable to open it, she adjusts her stance to continue trying; Claude remains upright and all five restraints remain closed. No cultists return yet. From the same side, follow the hands from the clasp to the waist chain, easing back to accommodate one pull and settling at its contact with the cross. One clear metallic chain strike and its echo, then quiet; no returning footsteps or cultist voices yet.
+From 14 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 9s: Begin checking the lock and chain.
+English speech with lip sync; no audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

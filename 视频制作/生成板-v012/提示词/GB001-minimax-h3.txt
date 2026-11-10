@@ -1,0 +1,35 @@
+subject_definitions:
+<Subject 1>: DeepSeek, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: Claude, identity and outfit from four-view sheet <Picture 2>.
+<Picture 3>: [Shot 1] composition and state reference; not its first frame.
+<Picture 4>: [Shot 2] composition and state reference; not its first frame.
+<Picture 5>: [Shot 3] composition and state reference; not its first frame.
+<Picture 6>: [Shot 4] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. A child stops before a procession, meets Claude's gaze, offers rice once, and waits.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Open on her walk; her raised eyeline motivates the next cut. Use <Picture 3> for composition. DeepSeek walks with the bowl, stops before the crossing procession and looks up toward Claude. Track laterally at child-eye level and ease to a stop with her. Footsteps and market murmur, followed by continuing robe rustle.
+[Shot 2] At 00:05.000, Cut along the child's eyeline to Claude; ambience remains continuous. Use <Picture 4> for composition. Claude turns toward the stopped footsteps and looks down toward the child at screen left. Hold the camera still as foreground robes drift and Claude turns. Market murmur recedes beneath close fabric movement.
+[Shot 3] At 00:09.000, Reverse along the eyeline; one lift and offer reaches the space between them. Use <Picture 5> for composition. DeepSeek looks at Claude, then the rice, and raises and extends the bowl once. Push in gently beside Claude's shoulder, keeping the child and bowl visible. Soft sleeves and a slight bowl-handling sound, below the invitation. From 9.8 to 11.4 seconds, DeepSeek (S1) speaks with matching lip movement: <d>[Japanese] 少し食べる？</d>.
+[Shot 4] At 00:12.000, Match the already offered bowl; do not repeat the lift. Use <Picture 6> for composition. The child holds the full bowl between them; steam rises and no receiving hand enters. Match the rim and grip in close-up; ease the preceding push to a stop. Distant market murmur and quiet breathing; no repeated line.
+From 14 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 12s: Match-cut to the offered bowl.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

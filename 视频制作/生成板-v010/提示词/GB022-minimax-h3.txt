@@ -1,0 +1,29 @@
+subject_definitions:
+<Subject 1>: ChatGPT, identity and outfit from four-view sheet <Picture 1>.
+<Picture 2>: [Shot 1] composition and state reference; not its first frame.
+<Picture 3>: [Shot 2] composition and state reference; not its first frame.
+<Picture 4>: [Shot 3] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. The sealed prayer culminates in one command; the dragon responds and releases surf only on shield contact.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Picture 2>: weak_reference - shot layout; animate the specified action.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Cut along the leader's raised eyeline to the caster; the dragon is already coiled. Leave the planned sonic gap before the spell name. Use <Picture 2> for composition. GPT hovers upright with wings spread and both hands joined at her chest, paired index fingers raised. The water dragon forms one loose spatial coil, high behind the wings and low before her knees, its head beside the right shoulder facing the enemy below. Its liquid depth, mane and taper remain visible; it is neither ice nor a flat ring. She completes the prayer and names the spell without stroking it or pointing. The hands remain sealed and the dragon does not attack yet. Push in slowly from a slightly low frontal medium-wide view, preserving the face, chest-level seal and three-dimensional dragon coil; settle at the spell name. Effect timings are relative to this shot start: Low coiling water for 0–2.4 seconds; lower effects beneath the prayer at 2.4–5 seconds, leave the 5–5.8-second pause, then keep the name clear at 5.8–7.9 seconds. No impact yet. From 2.4 to 5 seconds, ChatGPT (S1) speaks with matching lip movement: <d>[English] Let your salvation descend—</d>. From 5.8 to 7.9 seconds, ChatGPT (S1) speaks with matching lip movement: <d>[English] Heavenfall Deluge!</d>.
+[Shot 2] At 00:08.000, Cut closer after the name while the hands remain joined; the seal opens before the dragon responds, launching down toward screen right. Use <Picture 3> for composition. GPT first fixes her gaze on the leader below, separates her hands, retains the left at her chest and drives her right arm forward and down once with the index finger extended. No water comes from the fingertip. The dragon turns its head, twists the long neck and opens its raised-back, lowered-front coil into one descent toward the right foreground. The gesture precedes the response; no shield splash or contact occurs yet. From the same side in a knee-up view, track slightly with the right shoulder thrust, keeping hand and dragon head visible without crossing the axis. Quiet sleeves as the hands separate, then accelerating water after the single forward point. Save impact for the next shot.
+[Shot 3] At 00:09.500, Match the upper-left to lower-right attack; impact sounds only on shield contact. The dissolving head passes its momentum into the lower steps. Use <Picture 4> for composition. The leader braces in the right foreground, knees bent and arms raised beneath his newly formed dark-gold shield. The dragon drives from upper left onto the shield's upper-left curve; its muzzle becomes heavy surf only at contact while brow, eye and trailing neck remain readable. The shield compresses locally, robe and body recoil without falling. Following water rushes down the side steps, dispersing cultists and extinguishing remaining fire. GPT and the highest altar stay offscreen and unharmed; the head dissolves fully and supply stops, leaving retreating water without new structural damage. Hold a 24mm knee-high view behind the leader's side, recoil briefly at contact, then stabilize while foreground water passes and the contact point remains readable. One low contact impact and brief shield resonance, followed by heavy water on stone, snapping fabric and distant wordless cries. No thunder or allied-shield impact.
+From 14.5 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 5s: Pause the incantation during the seal shot; 8s: Release the seal and begin pointing; 9.5s: Cut to the low-angle shield collision shot.
+English speech with lip sync; no audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

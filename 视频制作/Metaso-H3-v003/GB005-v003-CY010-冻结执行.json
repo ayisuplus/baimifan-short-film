@@ -1,0 +1,55 @@
+{
+  "batch": {
+    "batch_number": 6,
+    "batch_id": "GB005",
+    "attempt_id": "GB005-v003-CY010",
+    "title": "独自离去、搓手迟疑与起身目送",
+    "shot_ids": [
+      "CY010"
+    ],
+    "film_start": 69.592729,
+    "part_offset": 5,
+    "used_seconds": 3,
+    "duration": 4,
+    "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。4秒固定手部特写，前3秒用于剪辑。画面中已有且始终只有同一个人的两只手，白袖金镯与紫金软垫不变。0–1.6秒右拇指在左手背上缓慢揉动两下，幅度小；1.6–3秒双手停住，表现犹豫转为决心。3–4秒自然保持供剪辑余量。手不从画外进入，手不离开软垫，不增加第三只手，不出现脸或其他身体。不说话。",
+    "references": [
+      {
+        "slot": 1,
+        "path": "镜头设计/图像/宫殿躺姿-v055/CY010-r2-搓手.png",
+        "sha256": "63d4ac1b354c7022f52a846530d4c8d0f0dd6ce3b60857dcaacb6f8ac6a64f6f",
+        "role": "first_frame"
+      }
+    ],
+    "estimated_credits": 40.8,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "起态已经有双手，不再让手从画外进入；只保留犹豫的手部反应。",
+    "repair_of": {
+      "author_rejected_version": "v002",
+      "batch_id": "GB005"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json",
+    "mode": "first_frame"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。4秒固定手部特写，前3秒用于剪辑。画面中已有且始终只有同一个人的两只手，白袖金镯与紫金软垫不变。0–1.6秒右拇指在左手背上缓慢揉动两下，幅度小；1.6–3秒双手停住，表现犹豫转为决心。3–4秒自然保持供剪辑余量。手不从画外进入，手不离开软垫，不增加第三只手，不出现脸或其他身体。不说话。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115169855588982784"
+        },
+        "role": "first_frame"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 4,
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者要求修复第6、11、20、21、39批剧情与空间错误，沿用已授权Metaso H3积分；40仅必要接头。无充值。"
+}

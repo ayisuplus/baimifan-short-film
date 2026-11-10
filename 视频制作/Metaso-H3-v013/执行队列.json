@@ -1,0 +1,63 @@
+{
+  "model": "MiniMax-H3",
+  "provider": "metaso",
+  "resolution": "768P",
+  "ratio": "16:9",
+  "authorization": "2026-10-29作者要求开始考虑声画调整，明确先使用密塔剩余积分，用完转本地ComfyUI；本次为已接受魔法救场剧情的无对白局部5秒动作试验，不充值，不自动采用，不导出。",
+  "spending_ceiling_credits": 51.0,
+  "balance_observed_credits": 1022.3,
+  "price_source": "https://metaso.cn/minimax-h3",
+  "items": [
+    {
+      "attempt_id": "CY022-v013-charge-release-r1",
+      "batch_number": 15,
+      "batch_id": "GB012",
+      "shot_id": "CY022-R1",
+      "parent_shot_id": "CY022",
+      "duration": 5,
+      "prompt": "日式二维动漫电影的连续动作镜头，严格使用首帧中的原人物、同一哥特教堂冷蓝夜窗与暖色侧光。始终保持首帧线稿、平涂阴影和原服装纹样，人物脸型、发色、鲸鱼帽、袖口不变；不要三维建模、塑料皮肤、手办材质、静图推拉或漫剧。5秒单镜，无对白，嘴闭合，不新增字幕、旁白或音乐；生成声不作正式配音和混音。\n起始就是参考图状态：画面右上方教主已将火把交给右后方教徒，正在掌前聚起小团琥珀术光；左下方小鱼上臂被左侧黑袍教徒扣住。保留这个三角空间、双方距离与轴线。教主只有一只施法手，另一手在体侧；火把全程仅由后方教徒持有。小鱼始终在左下，扣住上臂的手不滑到脖子、不松开、不增加手指。\n0至1秒：小鱼轻轻扭肩试图挣脱，扣臂之手阻住，衣袖和发尾有连续牵动；教主目光冷静锁定她。1至3秒：教主施法腕略收，手指收紧再展开，掌前术光由松散光丝凝成更小、更亮的琥珀光核；肩臂与衣袖有真实蓄势，没有面部变形。3至4.6秒：在压迫停顿中，教主肘肩向前贯通，手掌沿原朝向小鱼的方向推出，袖口随后摆动；小鱼恐惧但没有张嘴说话。4.6至5秒：术光刚刚脱离手掌，向左下空隙前进一小段，切在尚未抵达小鱼的位置；最后一帧仍有清楚的未接触间距，任何能量都不能击中人物，不出现受伤或小鱼被击飞。\n摄像机保持首帧低位斜仰角，只有极轻跟随呼吸的运动，不切镜、不换场。地面仍为干燥石阶，没有水迹、水罩、水龙、雨或新人物入场。紫色火把在背景燃烧。画外祭架不在本镜展示；不要添加刀剑或第二个祭品。此镜仅表现施法前段，后续破门、水击截散和抱离由别的镜头完成。",
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v013/参考/CY022-R1-聚术首帧-r1.png",
+          "role": "first_frame",
+          "sha256": "02bf5eec8f727230ebd519daab95d30ef52dce789392bd3d46bcb4dd41ad8ee5",
+          "purpose": "聚术开始状态，已与CY020B原图并排核对造型/画风；仅代表可见中景空间",
+          "visually_reviewed": true,
+          "review_level": "agent_candidate_review_not_author_final"
+        }
+      ],
+      "estimated_credits": 51.0,
+      "status": "downloaded_candidate",
+      "accepted": false,
+      "change_reason": "v0.69新增教主魔法威胁小鱼因果，原素材无此动作；本镜只覆盖蓄力末段到离掌，前置扣臂/交火把与后续截击不包含",
+      "repair_of": "v0.69 scene rescue addition; no full-batch replacement",
+      "audio": "none; final charge/release/cloth sound added in post",
+      "safe_cut": "before any magic contacts the child",
+      "quality_gate": "match original identity/style; continuous grip/arm; visible anticipation; no contact with child; no water yet",
+      "submit_started": "2026-10-29T13:35:40+0800",
+      "task_id": "2115678948273647616",
+      "local_path": "视频制作/Metaso-H3-v013/产物/CY022-v013-charge-release-r1.mp4",
+      "sha256": "4d55606669739a54a81e3e653899ce11743dbb920f8349ea599235a5db895fb6",
+      "bytes": 7154954,
+      "review_status": "full_clip_rejected_tail_action_error",
+      "actual_credits": null,
+      "review": {
+        "method": "20 sampled frames at 0.25-second spacing; not continuous listening acceptance",
+        "candidate_window_seconds": [
+          0,
+          3.25
+        ],
+        "candidate_window_status": "charge-only candidate; not adopted; needs motion and cut verification",
+        "rejected_window_seconds": [
+          3.25,
+          5.0
+        ],
+        "reason": "约3.5秒术光从原施法手转到另一只手；末段缓慢漂浮下落，未形成要求的定向离掌。不得整条采用，不把回片作下一轮参考。",
+        "next_change": "如现有蓄力段可用，剪在发射前，与破门/截击镜重组；若必须正面展示离掌，只补原参考中同一手的推出与离掌，不再包含换手/长时间聚光。",
+        "author_final": false
+      }
+    }
+  ],
+  "estimated_balance_after": 971.3,
+  "balance_after_status": "estimate_only; console refresh timed out, no invoice amount in task receipt"
+}

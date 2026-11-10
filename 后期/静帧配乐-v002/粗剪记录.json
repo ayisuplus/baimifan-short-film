@@ -1,0 +1,1038 @@
+{
+  "version": "v002",
+  "shot_plan": "镜头设计/shot-plan-v0.6.json",
+  "shot_plan_sha256": "46472ed5fe20fc903006af6c1e84547a7b38f176a639aa93d0c7db31b4b6ec98",
+  "duration": 239,
+  "shot_count": 69,
+  "video": "后期/静帧配乐-v002/穿云-全片静帧配乐-v002.mp4",
+  "audio": "后期/静帧配乐-v002/全片-BGM-v002.wav",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1280,
+        "height": 720,
+        "nb_frames": "5736"
+      },
+      {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "nb_frames": "11205"
+      }
+    ],
+    "format": {
+      "duration": "239.000000"
+    }
+  },
+  "sha256": "3823ebacaa5b65429d07c11ca615973ac5120c404dce2c1016c45feaf9c95abe",
+  "decode_ok": true,
+  "sample_peak": 0.509658932685852,
+  "cues": [
+    {
+      "music": "Hobbits",
+      "path": "资产/声音/BGM/B站-BV1Ay4y1J7q6_p2.m4a",
+      "timeline_in": 2,
+      "timeline_out": 18.4,
+      "source_in": 0,
+      "source_out": 16.4,
+      "target_lufs": -23,
+      "fade_in": 1,
+      "fade_out": 2.4,
+      "source_sha256": "b75b107e45cfdf92e933da43ba1a47c8ef06232f426f6c1682d39b4e584fc2b7"
+    },
+    {
+      "music": "Knife",
+      "path": "资产/声音/BGM/B站-BV1Ay4y1J7q6_p7.m4a",
+      "timeline_in": 18,
+      "timeline_out": 91,
+      "source_in": 0,
+      "source_out": 73,
+      "target_lufs": -25,
+      "fade_in": 1.2,
+      "fade_out": 1.2,
+      "source_sha256": "17ab943b84024b813042429ca45309649c6b19a3478ef8f342b9e62535f77cdc"
+    },
+    {
+      "music": "Knife",
+      "path": "资产/声音/BGM/B站-BV1Ay4y1J7q6_p7.m4a",
+      "timeline_in": 95,
+      "timeline_out": 135,
+      "source_in": 73,
+      "source_out": 113,
+      "target_lufs": -20,
+      "fade_in": 0.4,
+      "fade_out": 0.2,
+      "source_sha256": "17ab943b84024b813042429ca45309649c6b19a3478ef8f342b9e62535f77cdc"
+    },
+    {
+      "music": "Victory",
+      "path": "资产/声音/参考/Victory-BV1Qs411J71S.m4a",
+      "timeline_in": 135,
+      "timeline_out": 148.3,
+      "source_in": 127.28,
+      "source_out": 140.58,
+      "target_lufs": -17,
+      "fade_in": 0.015,
+      "fade_out": 0.5,
+      "source_sha256": "84527966e8feb71cb4d9bb37bf05cbaf60d83bd8aba2da925000176a43a84566"
+    },
+    {
+      "music": "Courage",
+      "path": "资产/声音/BGM/B站-BV1Eu4y1L7qz.m4a",
+      "timeline_in": 147.8,
+      "timeline_out": 173,
+      "source_in": 45,
+      "source_out": 70.19999999999999,
+      "target_lufs": -19,
+      "fade_in": 0.5,
+      "fade_out": 0.5,
+      "source_sha256": "640f7efc2fa026af04632c8252bf874cc88e1b9496b50c2dcdad50c088b54c10"
+    },
+    {
+      "music": "Victory",
+      "path": "资产/声音/参考/Victory-BV1Qs411J71S.m4a",
+      "timeline_in": 173,
+      "timeline_out": 186,
+      "source_in": 140.28,
+      "source_out": 153.28,
+      "target_lufs": -18,
+      "fade_in": 0.25,
+      "fade_out": 0.12,
+      "source_sha256": "84527966e8feb71cb4d9bb37bf05cbaf60d83bd8aba2da925000176a43a84566"
+    },
+    {
+      "music": "Courage",
+      "path": "资产/声音/BGM/B站-BV1Eu4y1L7qz.m4a",
+      "timeline_in": 188,
+      "timeline_out": 215.4,
+      "source_in": 0,
+      "source_out": 27.400000000000006,
+      "target_lufs": -25,
+      "fade_in": 1.3,
+      "fade_out": 1.2,
+      "source_sha256": "640f7efc2fa026af04632c8252bf874cc88e1b9496b50c2dcdad50c088b54c10"
+    },
+    {
+      "music": "Hobbits",
+      "path": "资产/声音/BGM/B站-BV1Ay4y1J7q6_p2.m4a",
+      "timeline_in": 214.6,
+      "timeline_out": 239,
+      "source_in": 0,
+      "source_out": 24.400000000000006,
+      "target_lufs": -22,
+      "fade_in": 1.2,
+      "fade_out": 3,
+      "source_sha256": "b75b107e45cfdf92e933da43ba1a47c8ef06232f426f6c1682d39b4e584fc2b7"
+    }
+  ],
+  "shots": [
+    {
+      "id": "CY001",
+      "start": 0,
+      "end": 5,
+      "image": "镜头设计/图像/S01-粗分镜-v001.png",
+      "image_sha256": "8b4e5a8393c43892e3288f287478fff5169b1b0026b25b8a891106168017b73e",
+      "crop": [
+        1,
+        1,
+        831,
+        464
+      ]
+    },
+    {
+      "id": "CY002",
+      "start": 5,
+      "end": 9,
+      "image": "镜头设计/图像/S01-粗分镜-v001.png",
+      "image_sha256": "8b4e5a8393c43892e3288f287478fff5169b1b0026b25b8a891106168017b73e",
+      "crop": [
+        841,
+        1,
+        830,
+        464
+      ]
+    },
+    {
+      "id": "CY003",
+      "start": 9,
+      "end": 12,
+      "image": "镜头设计/图像/S01-粗分镜-v001.png",
+      "image_sha256": "8b4e5a8393c43892e3288f287478fff5169b1b0026b25b8a891106168017b73e",
+      "crop": [
+        1,
+        473,
+        831,
+        466
+      ]
+    },
+    {
+      "id": "CY003A",
+      "start": 12,
+      "end": 14,
+      "image": "镜头设计/图像/细节A-递饭与选择-v001.png",
+      "image_sha256": "a3daed2aa18dcc61bf295206e2efe16212a3209ccea1681fd66bf0a5dfc1390c",
+      "crop": [
+        1,
+        1,
+        831,
+        465
+      ]
+    },
+    {
+      "id": "CY003B",
+      "start": 14,
+      "end": 18,
+      "image": "镜头设计/图像/细节A-递饭与选择-v001.png",
+      "image_sha256": "a3daed2aa18dcc61bf295206e2efe16212a3209ccea1681fd66bf0a5dfc1390c",
+      "crop": [
+        842,
+        1,
+        829,
+        465
+      ]
+    },
+    {
+      "id": "CY004",
+      "start": 18,
+      "end": 24,
+      "image": "镜头设计/图像/S01-粗分镜-v001.png",
+      "image_sha256": "8b4e5a8393c43892e3288f287478fff5169b1b0026b25b8a891106168017b73e",
+      "crop": [
+        841,
+        473,
+        830,
+        466
+      ]
+    },
+    {
+      "id": "CY004A",
+      "start": 24,
+      "end": 26,
+      "image": "镜头设计/图像/空间修订A-地点与起飞-v001.png",
+      "image_sha256": "68c37a9443e0bd64cd94f486a8f8f3e8b428733b434d9c3be0bc6cdff1841e81",
+      "crop": [
+        1,
+        1,
+        831,
+        467
+      ]
+    },
+    {
+      "id": "CY004B",
+      "start": 26,
+      "end": 28,
+      "image": "镜头设计/图像/空间修订A-地点与起飞-v001.png",
+      "image_sha256": "68c37a9443e0bd64cd94f486a8f8f3e8b428733b434d9c3be0bc6cdff1841e81",
+      "crop": [
+        840,
+        1,
+        831,
+        467
+      ]
+    },
+    {
+      "id": "CY005",
+      "start": 28,
+      "end": 31,
+      "image": "镜头设计/图像/S02-粗分镜-v001.png",
+      "image_sha256": "2872500648f5436714ed0eba2b50e15a50fe358acfc6163ea13382151cfdcf73",
+      "crop": [
+        4,
+        4,
+        674,
+        378
+      ]
+    },
+    {
+      "id": "CY006",
+      "start": 31,
+      "end": 37,
+      "image": "镜头设计/图像/S02-粗分镜-v001.png",
+      "image_sha256": "2872500648f5436714ed0eba2b50e15a50fe358acfc6163ea13382151cfdcf73",
+      "crop": [
+        686,
+        4,
+        674,
+        378
+      ]
+    },
+    {
+      "id": "CY007A",
+      "start": 37,
+      "end": 39,
+      "image": "镜头设计/图像/细节B-迟疑与回声-v001.png",
+      "image_sha256": "989047c25984586989d3d5aeb4a414ddad83fba49c45da402e328409d357edb8",
+      "crop": [
+        1,
+        1,
+        831,
+        466
+      ]
+    },
+    {
+      "id": "CY007",
+      "start": 39,
+      "end": 43,
+      "image": "镜头设计/图像/S02-粗分镜-v001.png",
+      "image_sha256": "2872500648f5436714ed0eba2b50e15a50fe358acfc6163ea13382151cfdcf73",
+      "crop": [
+        4,
+        387,
+        674,
+        378
+      ]
+    },
+    {
+      "id": "CY008",
+      "start": 43,
+      "end": 47,
+      "image": "镜头设计/图像/S02-粗分镜-v001.png",
+      "image_sha256": "2872500648f5436714ed0eba2b50e15a50fe358acfc6163ea13382151cfdcf73",
+      "crop": [
+        686,
+        387,
+        674,
+        378
+      ]
+    },
+    {
+      "id": "CY009",
+      "start": 47,
+      "end": 52,
+      "image": "镜头设计/图像/S02-粗分镜-v001.png",
+      "image_sha256": "2872500648f5436714ed0eba2b50e15a50fe358acfc6163ea13382151cfdcf73",
+      "crop": [
+        4,
+        771,
+        674,
+        377
+      ]
+    },
+    {
+      "id": "CY010",
+      "start": 52,
+      "end": 55,
+      "image": "镜头设计/图像/空间修订A-地点与起飞-v001.png",
+      "image_sha256": "68c37a9443e0bd64cd94f486a8f8f3e8b428733b434d9c3be0bc6cdff1841e81",
+      "crop": [
+        1,
+        473,
+        831,
+        467
+      ]
+    },
+    {
+      "id": "CY010A",
+      "start": 55,
+      "end": 59,
+      "image": "镜头设计/图像/S03A-空堂潜入-v003.png",
+      "image_sha256": "94700e54e16cf2195e00b5cd68f2caad350308b0ce6338fdbc2223dd475dd987",
+      "crop": [
+        1,
+        1,
+        830,
+        308
+      ]
+    },
+    {
+      "id": "CY011",
+      "start": 59,
+      "end": 64,
+      "image": "镜头设计/图像/S03A-空堂潜入-v003.png",
+      "image_sha256": "94700e54e16cf2195e00b5cd68f2caad350308b0ce6338fdbc2223dd475dd987",
+      "crop": [
+        841,
+        1,
+        830,
+        308
+      ]
+    },
+    {
+      "id": "CY012",
+      "start": 64,
+      "end": 68,
+      "image": "镜头设计/图像/S03A-空堂潜入-v003.png",
+      "image_sha256": "94700e54e16cf2195e00b5cd68f2caad350308b0ce6338fdbc2223dd475dd987",
+      "crop": [
+        1,
+        316,
+        830,
+        307
+      ]
+    },
+    {
+      "id": "CY013",
+      "start": 68,
+      "end": 72,
+      "image": "镜头设计/图像/空间修订B-祭坛与锁链-v002.png",
+      "image_sha256": "3bb946311c77f82286b29e304cf52085271ee1fbe5bf75a73a586889d254b454",
+      "crop": [
+        1,
+        1,
+        831,
+        467
+      ]
+    },
+    {
+      "id": "CY015",
+      "start": 72,
+      "end": 76,
+      "image": "镜头设计/图像/空间修订B-祭坛与锁链-v002.png",
+      "image_sha256": "3bb946311c77f82286b29e304cf52085271ee1fbe5bf75a73a586889d254b454",
+      "crop": [
+        840,
+        1,
+        831,
+        467
+      ]
+    },
+    {
+      "id": "CY015A",
+      "start": 76,
+      "end": 81,
+      "image": "镜头设计/图像/S03A-空堂潜入-v003.png",
+      "image_sha256": "94700e54e16cf2195e00b5cd68f2caad350308b0ce6338fdbc2223dd475dd987",
+      "crop": [
+        841,
+        630,
+        830,
+        310
+      ]
+    },
+    {
+      "id": "CY016",
+      "start": 81,
+      "end": 85,
+      "image": "镜头设计/图像/空间修订B-祭坛与锁链-v002.png",
+      "image_sha256": "3bb946311c77f82286b29e304cf52085271ee1fbe5bf75a73a586889d254b454",
+      "crop": [
+        1,
+        475,
+        831,
+        465
+      ]
+    },
+    {
+      "id": "CY016A1",
+      "start": 85,
+      "end": 87,
+      "image": "镜头设计/图像/细节B-迟疑与回声-v001.png",
+      "image_sha256": "989047c25984586989d3d5aeb4a414ddad83fba49c45da402e328409d357edb8",
+      "crop": [
+        841,
+        1,
+        830,
+        466
+      ]
+    },
+    {
+      "id": "CY016A",
+      "start": 87,
+      "end": 91,
+      "image": "镜头设计/图像/空间修订B-祭坛与锁链-v002.png",
+      "image_sha256": "3bb946311c77f82286b29e304cf52085271ee1fbe5bf75a73a586889d254b454",
+      "crop": [
+        840,
+        475,
+        831,
+        465
+      ]
+    },
+    {
+      "id": "CY016B",
+      "start": 91,
+      "end": 93,
+      "image": "镜头设计/图像/细节G-锁扣停手-v002.png",
+      "image_sha256": "ad794a5aa464a14c0274a4a278b0104bb17292fbe76b748ee08e09bebc7caf63",
+      "crop": [
+        0,
+        0,
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "CY016B1",
+      "start": 93,
+      "end": 95,
+      "image": "镜头设计/图像/细节B-迟疑与回声-v001.png",
+      "image_sha256": "989047c25984586989d3d5aeb4a414ddad83fba49c45da402e328409d357edb8",
+      "crop": [
+        841,
+        474,
+        830,
+        466
+      ]
+    },
+    {
+      "id": "CY016C",
+      "start": 95,
+      "end": 99,
+      "image": "镜头设计/图像/S03B-解锁未成-v003.png",
+      "image_sha256": "45d97bb6f6a3e7720534505dd29735941aefd346fe70834899baa5013e140e4c",
+      "crop": [
+        840,
+        474,
+        831,
+        466
+      ]
+    },
+    {
+      "id": "CY016D",
+      "start": 99,
+      "end": 101,
+      "image": "镜头设计/图像/空间修订C-阻拦与入场-v002.png",
+      "image_sha256": "9a19c15f86efa0ccc447c86b891e3b372022742c614beb640bbf6ee7f8dbaea3",
+      "crop": [
+        1,
+        1,
+        832,
+        468
+      ]
+    },
+    {
+      "id": "CY017",
+      "start": 101,
+      "end": 106,
+      "image": "镜头设计/图像/S04-粗分镜-v002.png",
+      "image_sha256": "cb6d76f294286d55acca90c58ffe4cee9ebd9317deee23fbe6925f6dfa466616",
+      "crop": [
+        5,
+        4,
+        674,
+        378
+      ]
+    },
+    {
+      "id": "CY018",
+      "start": 106,
+      "end": 110,
+      "image": "镜头设计/图像/S04-粗分镜-v002.png",
+      "image_sha256": "cb6d76f294286d55acca90c58ffe4cee9ebd9317deee23fbe6925f6dfa466616",
+      "crop": [
+        685,
+        4,
+        674,
+        378
+      ]
+    },
+    {
+      "id": "CY019",
+      "start": 110,
+      "end": 113,
+      "image": "镜头设计/图像/S04-粗分镜-v002.png",
+      "image_sha256": "cb6d76f294286d55acca90c58ffe4cee9ebd9317deee23fbe6925f6dfa466616",
+      "crop": [
+        5,
+        387,
+        674,
+        355
+      ]
+    },
+    {
+      "id": "CY020",
+      "start": 113,
+      "end": 118,
+      "image": "镜头设计/图像/S04-粗分镜-v002.png",
+      "image_sha256": "cb6d76f294286d55acca90c58ffe4cee9ebd9317deee23fbe6925f6dfa466616",
+      "crop": [
+        685,
+        387,
+        674,
+        355
+      ]
+    },
+    {
+      "id": "CY020A",
+      "start": 118,
+      "end": 120,
+      "image": "镜头设计/图像/空间修订C-阻拦与入场-v002.png",
+      "image_sha256": "9a19c15f86efa0ccc447c86b891e3b372022742c614beb640bbf6ee7f8dbaea3",
+      "crop": [
+        840,
+        1,
+        831,
+        468
+      ]
+    },
+    {
+      "id": "CY021",
+      "start": 120,
+      "end": 124,
+      "image": "镜头设计/图像/S04-粗分镜-v002.png",
+      "image_sha256": "cb6d76f294286d55acca90c58ffe4cee9ebd9317deee23fbe6925f6dfa466616",
+      "crop": [
+        5,
+        748,
+        674,
+        397
+      ]
+    },
+    {
+      "id": "CY021A",
+      "start": 124,
+      "end": 127,
+      "image": "镜头设计/图像/连续性-动作衔接-v001.png",
+      "image_sha256": "043ab8e7e200d011447868153715823f9c3e0bfc40680611aa78d8368e0a2523",
+      "crop": [
+        0,
+        1,
+        965,
+        499
+      ]
+    },
+    {
+      "id": "CY022A",
+      "start": 127,
+      "end": 129,
+      "image": "镜头设计/图像/空间修订C-阻拦与入场-v002.png",
+      "image_sha256": "9a19c15f86efa0ccc447c86b891e3b372022742c614beb640bbf6ee7f8dbaea3",
+      "crop": [
+        1,
+        472,
+        832,
+        468
+      ]
+    },
+    {
+      "id": "CY022",
+      "start": 129,
+      "end": 133,
+      "image": "镜头设计/图像/S04-粗分镜-v002.png",
+      "image_sha256": "cb6d76f294286d55acca90c58ffe4cee9ebd9317deee23fbe6925f6dfa466616",
+      "crop": [
+        685,
+        748,
+        674,
+        397
+      ]
+    },
+    {
+      "id": "CY022B",
+      "start": 133,
+      "end": 135,
+      "image": "镜头设计/图像/细节C-危局与回应-v001.png",
+      "image_sha256": "0e03bf65553b8f9bc3b55db5ed532bd9ed3036c45b29a14cc9818c40dedfc2cf",
+      "crop": [
+        839,
+        1,
+        832,
+        467
+      ]
+    },
+    {
+      "id": "CY023",
+      "start": 135,
+      "end": 137,
+      "image": "镜头设计/图像/S05A-粗分镜-v003.png",
+      "image_sha256": "47921c1e183b60f8448e382ffe35b0ab811327a8c5d3f5082e935523723a15ea",
+      "crop": [
+        4,
+        3,
+        830,
+        466
+      ]
+    },
+    {
+      "id": "CY024",
+      "start": 137,
+      "end": 140,
+      "image": "镜头设计/图像/S05A-粗分镜-v003.png",
+      "image_sha256": "47921c1e183b60f8448e382ffe35b0ab811327a8c5d3f5082e935523723a15ea",
+      "crop": [
+        838,
+        3,
+        830,
+        466
+      ]
+    },
+    {
+      "id": "CY024A",
+      "start": 140,
+      "end": 142,
+      "image": "镜头设计/图像/空间修订C-阻拦与入场-v002.png",
+      "image_sha256": "9a19c15f86efa0ccc447c86b891e3b372022742c614beb640bbf6ee7f8dbaea3",
+      "crop": [
+        840,
+        472,
+        831,
+        468
+      ]
+    },
+    {
+      "id": "CY027",
+      "start": 142,
+      "end": 145,
+      "image": "镜头设计/图像/S05B-粗分镜-v006.png",
+      "image_sha256": "5ed3d2eb6dc8d832ee6f415021abd48bc327d919918e282878e6345c2b977e8e",
+      "crop": [
+        4,
+        3,
+        828,
+        465
+      ]
+    },
+    {
+      "id": "CY025",
+      "start": 145,
+      "end": 148,
+      "image": "镜头设计/图像/细节C-危局与回应-v001.png",
+      "image_sha256": "0e03bf65553b8f9bc3b55db5ed532bd9ed3036c45b29a14cc9818c40dedfc2cf",
+      "crop": [
+        1,
+        474,
+        832,
+        466
+      ]
+    },
+    {
+      "id": "CY026A",
+      "start": 148,
+      "end": 151,
+      "image": "镜头设计/图像/S05C-四方邀请-v001.png",
+      "image_sha256": "469b322b09c6c3389eadc071f1fc3c798ea07208f12fbaae69e90948a6402d5f",
+      "crop": [
+        1,
+        1,
+        833,
+        466
+      ]
+    },
+    {
+      "id": "CY026A1",
+      "start": 151,
+      "end": 153,
+      "image": "镜头设计/图像/细节D-四方应邀-v001.png",
+      "image_sha256": "6702f4ed9d0d8d305fb0dfd7afcd5f3b7683054139b17b8aaea3b93867179943",
+      "crop": [
+        1,
+        1,
+        832,
+        467
+      ]
+    },
+    {
+      "id": "CY026B",
+      "start": 153,
+      "end": 157,
+      "image": "镜头设计/图像/S05C-四方邀请-v001.png",
+      "image_sha256": "469b322b09c6c3389eadc071f1fc3c798ea07208f12fbaae69e90948a6402d5f",
+      "crop": [
+        839,
+        1,
+        832,
+        466
+      ]
+    },
+    {
+      "id": "CY026C",
+      "start": 157,
+      "end": 161,
+      "image": "镜头设计/图像/S05C-四方邀请-v001.png",
+      "image_sha256": "469b322b09c6c3389eadc071f1fc3c798ea07208f12fbaae69e90948a6402d5f",
+      "crop": [
+        1,
+        472,
+        833,
+        468
+      ]
+    },
+    {
+      "id": "CY026D1",
+      "start": 161,
+      "end": 163,
+      "image": "镜头设计/图像/细节D-四方应邀-v001.png",
+      "image_sha256": "6702f4ed9d0d8d305fb0dfd7afcd5f3b7683054139b17b8aaea3b93867179943",
+      "crop": [
+        838,
+        472,
+        833,
+        468
+      ]
+    },
+    {
+      "id": "CY026D",
+      "start": 163,
+      "end": 166,
+      "image": "镜头设计/图像/S05C-四方邀请-v001.png",
+      "image_sha256": "469b322b09c6c3389eadc071f1fc3c798ea07208f12fbaae69e90948a6402d5f",
+      "crop": [
+        839,
+        472,
+        832,
+        468
+      ]
+    },
+    {
+      "id": "CY026E",
+      "start": 166,
+      "end": 170,
+      "image": "镜头设计/图像/S05D-应召分屏-v001.png",
+      "image_sha256": "db7a626651b4caa696c5dc3d630adc9d4d21f92876c7544f260c85d533232156",
+      "crop": [
+        0,
+        0,
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "CY026",
+      "start": 170,
+      "end": 173,
+      "image": "镜头设计/图像/S05A-粗分镜-v003.png",
+      "image_sha256": "47921c1e183b60f8448e382ffe35b0ab811327a8c5d3f5082e935523723a15ea",
+      "crop": [
+        838,
+        473,
+        830,
+        464
+      ]
+    },
+    {
+      "id": "CY027A",
+      "start": 173,
+      "end": 177,
+      "image": "镜头设计/图像/S05E-对抗与战后-v004.png",
+      "image_sha256": "7c6f4f698584dbd83821c1ced7829637d41875900de825c7d1c8fe4f9d291705",
+      "crop": [
+        1,
+        1,
+        679,
+        370
+      ]
+    },
+    {
+      "id": "CY027B",
+      "start": 177,
+      "end": 179,
+      "image": "镜头设计/图像/S05E-对抗与战后-v004.png",
+      "image_sha256": "7c6f4f698584dbd83821c1ced7829637d41875900de825c7d1c8fe4f9d291705",
+      "crop": [
+        686,
+        1,
+        679,
+        370
+      ]
+    },
+    {
+      "id": "CY027C",
+      "start": 179,
+      "end": 182,
+      "image": "镜头设计/图像/空间修订A-地点与起飞-v001.png",
+      "image_sha256": "68c37a9443e0bd64cd94f486a8f8f3e8b428733b434d9c3be0bc6cdff1841e81",
+      "crop": [
+        840,
+        473,
+        831,
+        467
+      ]
+    },
+    {
+      "id": "CY027D",
+      "start": 182,
+      "end": 185,
+      "image": "镜头设计/图像/S05E-对抗与战后-v004.png",
+      "image_sha256": "7c6f4f698584dbd83821c1ced7829637d41875900de825c7d1c8fe4f9d291705",
+      "crop": [
+        686,
+        375,
+        679,
+        375
+      ]
+    },
+    {
+      "id": "CY027E",
+      "start": 185,
+      "end": 186,
+      "image": "镜头设计/图像/S05E-对抗与战后-v004.png",
+      "image_sha256": "7c6f4f698584dbd83821c1ced7829637d41875900de825c7d1c8fe4f9d291705",
+      "crop": [
+        1,
+        753,
+        679,
+        397
+      ]
+    },
+    {
+      "id": "CY027E1",
+      "start": 186,
+      "end": 188,
+      "image": "镜头设计/图像/细节E-战后落尘-v001.png",
+      "image_sha256": "099f09008f863a0ee57fc4c37073688c5691809e2b6d7028fe75fbf414fab5fc",
+      "crop": [
+        0,
+        0,
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "CY027F",
+      "start": 188,
+      "end": 192,
+      "image": "镜头设计/图像/S05E-对抗与战后-v004.png",
+      "image_sha256": "7c6f4f698584dbd83821c1ced7829637d41875900de825c7d1c8fe4f9d291705",
+      "crop": [
+        686,
+        753,
+        679,
+        397
+      ]
+    },
+    {
+      "id": "CY027G",
+      "start": 192,
+      "end": 195,
+      "image": "镜头设计/图像/空间修订F-解锁与站稳-v002.png",
+      "image_sha256": "a55735915deebad8228dc393f324e8d944b004a273aff6861d4ada407c897157",
+      "crop": [
+        234,
+        1,
+        953,
+        466
+      ]
+    },
+    {
+      "id": "CY028",
+      "start": 195,
+      "end": 198,
+      "image": "镜头设计/图像/空间修订D-托稳与落脚-v002.png",
+      "image_sha256": "c5821f1030ad3c9626c5ddde41ad6a27fee1f1f6308012b1df357709b45357cb",
+      "crop": [
+        329,
+        508,
+        580,
+        366
+      ]
+    },
+    {
+      "id": "CY028A",
+      "start": 198,
+      "end": 202,
+      "image": "镜头设计/图像/空间修订F-解锁与站稳-v002.png",
+      "image_sha256": "a55735915deebad8228dc393f324e8d944b004a273aff6861d4ada407c897157",
+      "crop": [
+        234,
+        474,
+        953,
+        465
+      ]
+    },
+    {
+      "id": "CY029",
+      "start": 202,
+      "end": 206,
+      "image": "镜头设计/图像/细节C-危局与回应-v001.png",
+      "image_sha256": "0e03bf65553b8f9bc3b55db5ed532bd9ed3036c45b29a14cc9818c40dedfc2cf",
+      "crop": [
+        839,
+        474,
+        832,
+        466
+      ]
+    },
+    {
+      "id": "CY029A",
+      "start": 206,
+      "end": 209,
+      "image": "镜头设计/图像/细节A-递饭与选择-v001.png",
+      "image_sha256": "a3daed2aa18dcc61bf295206e2efe16212a3209ccea1681fd66bf0a5dfc1390c",
+      "crop": [
+        1,
+        474,
+        831,
+        465
+      ]
+    },
+    {
+      "id": "CY030",
+      "start": 209,
+      "end": 215,
+      "image": "镜头设计/图像/S05B-粗分镜-v005.png",
+      "image_sha256": "7816a4ba5850cd1f5ffc5b3d09b9c814e1ac1f1217b4544bc1ae1bd8686f3233",
+      "crop": [
+        837,
+        472,
+        829,
+        465
+      ]
+    },
+    {
+      "id": "CY031",
+      "start": 215,
+      "end": 220,
+      "image": "镜头设计/图像/S06-粗分镜-v002.png",
+      "image_sha256": "20cec5cb26ea4ad00a7e14ccebb0c82abb68dd6190a21f1c515b0309bc472164",
+      "crop": [
+        1,
+        1,
+        831,
+        465
+      ]
+    },
+    {
+      "id": "CY031A",
+      "start": 220,
+      "end": 224,
+      "image": "镜头设计/图像/连续性-动作衔接-v001.png",
+      "image_sha256": "043ab8e7e200d011447868153715823f9c3e0bfc40680611aa78d8368e0a2523",
+      "crop": [
+        0,
+        1083,
+        965,
+        545
+      ]
+    },
+    {
+      "id": "CY032A",
+      "start": 224,
+      "end": 226,
+      "image": "镜头设计/图像/细节F-接勺握持-v002.png",
+      "image_sha256": "d19d00ca7d0b68f3f107390adfeee6b904a87d11f53bbe420482f5becb28c775",
+      "crop": [
+        0,
+        0,
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "CY033",
+      "start": 226,
+      "end": 230,
+      "image": "镜头设计/图像/S06-粗分镜-v002.png",
+      "image_sha256": "20cec5cb26ea4ad00a7e14ccebb0c82abb68dd6190a21f1c515b0309bc472164",
+      "crop": [
+        1,
+        475,
+        831,
+        465
+      ]
+    },
+    {
+      "id": "CY034",
+      "start": 230,
+      "end": 239,
+      "image": "镜头设计/图像/S06-粗分镜-v002.png",
+      "image_sha256": "20cec5cb26ea4ad00a7e14ccebb0c82abb68dd6190a21f1c515b0309bc472164",
+      "crop": [
+        841,
+        475,
+        830,
+        465
+      ]
+    }
+  ],
+  "notes": [
+    "69镜、239秒；五格按0.6秒依次显露。",
+    "对白仅字幕；无临时读稿、正式配音或拟音。",
+    "援军登场Victory按CY023定位；条约对白处压低，开场/被发现前/落尘保留留白。",
+    "各乐段in/out为本轮试听方案，未实际听审；响度/解码不等于听感通过。",
+    "CPU静帧渲染；未启动Resolve，未创建Resolve工程。"
+  ],
+  "metadata_verified_against_render_inputs": true
+}

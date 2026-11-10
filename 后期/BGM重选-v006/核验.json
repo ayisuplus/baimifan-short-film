@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-25",
+  "new_tracks": 6,
+  "decode_and_hash_ok": true,
+  "source_videos_retained": 3,
+  "shot_plan_content_unchanged": true,
+  "old_page_exact_snapshot": true,
+  "browser": {
+    "new_tracks_playable": 6,
+    "music_and_picture_independent": true,
+    "pointer_seek": {
+      "track": "BGM-CY-FZ-02",
+      "seconds": 48.7,
+      "paused": true
+    },
+    "marks_before_after": 5,
+    "console_errors": 0,
+    "listening_status": "Playback function tested; actual musical listening review not performed."
+  }
+}

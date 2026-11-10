@@ -1,0 +1,20 @@
+{
+  "id": "CY024A6",
+  "source": "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/纯水潮汐-v050/CY024A6-v050-r1.png",
+  "reuse_record": "镜头设计/生成记录/纯水潮汐-v050/实际请求.json",
+  "input": {
+    "referenced_image_paths": [
+      "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/苍龙雷渊-v031/CY024A6-v031-r1.png"
+    ],
+    "transparent_background": false,
+    "prompt": "Edit the supplied image. Keep precisely the same gothic cathedral exterior, intact roof, night sky composition, warm windows and spires, and panoramic 16:9 frame. Remove ALL violet lightning, electrical branches, electric glow. In the immense spiral cloud ceiling, show a restrained glimpse of an impossible suspended ocean: dark deep blue liquid strata with soft silver moon reflections between broad heavy cloud folds, like an ocean held aloft, still accumulating and NOT falling. Cloud spiral has a soft organic dark center, NOT a bright portal, not a magic rune. No descending water, no beam, no firework, no dragon, no text. Powerful quiet anticipation. Preserve intricate cinematic anime rendering and original church proportions."
+  },
+  "output": "镜头设计/图像/结印盘龙-v050/CY024A6-v050-r1.png",
+  "sha256": "7d47a428f4731958e5ff81d617dcaf42ae7d40c2f5234d3aa312c32f0d9b70ae",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "engine": "built-in image_gen",
+  "status": "revised_storyboard_candidate_pending_author_visual_review"
+}

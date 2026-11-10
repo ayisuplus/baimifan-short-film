@@ -1,0 +1,18 @@
+{
+  "batches": 44,
+  "planned_shots": 133,
+  "current_source_hashes_unchanged": true,
+  "local_links_checked": 234,
+  "issue_evidence_links_checked": 69,
+  "issue_times_within_actual_videos": true,
+  "python_syntax": "passed",
+  "javascript_syntax": "passed",
+  "visual_review": "全时长2fps抽帧与疑点加密，三名独立分段复核，主代理归并",
+  "continuous_audio_listening": false,
+  "lip_sync_accepted": false,
+  "browser_visual_verification": false,
+  "preview_service": "8968连接拒绝；启动操作被自动审批策略阻止，未绕过",
+  "media_modified": false,
+  "paid_generation_submitted": false,
+  "repair_methods_trial_edited": false
+}

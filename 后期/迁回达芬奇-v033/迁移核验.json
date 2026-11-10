@@ -1,0 +1,31 @@
+{
+  "project": "《白米饭》",
+  "timeline": "v033_OpenCut_Picture_Return",
+  "timeline_id": "3d2dab90-e853-4a03-88f8-6af2809ba7c5",
+  "clips": 118,
+  "frames": 9059,
+  "fps": 24,
+  "source_windows_verified": true,
+  "original_timelines_preserved": {
+    "v001_Original_44_Reference": true,
+    "v001_Director_Post_Repair": true,
+    "v001_Director_Post_Repair_r2": true,
+    "v001_Director_Post_Repair_Final": true,
+    "v002_Church_Sound_Reconstruction": true,
+    "v003_Dramatic_Reconstruction_Work": true,
+    "v003_Dramatic_Reconstruction": true,
+    "v004_Screenshot_2D_Style_Rework": true,
+    "v005_2D_Anime_Fixes": true,
+    "v008_Local_Continuity_Fixes": true,
+    "v009_Selected_Voices_Assembly": true,
+    "v010_Dialogue_Subtitle_Sync": true,
+    "v011_Church_Animation_Repair": true,
+    "v012_Shot_By_Shot_Repair": true,
+    "v013_Stair_Restore": true,
+    "v014_Palace_Color_Match": true
+  },
+  "picture_only": true,
+  "saved": true,
+  "comfyui_used": false,
+  "final_render": false
+}

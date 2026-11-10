@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115169775516835840",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "孩子含泪独自离开，白衣GPT目送",
+    "status": "succeeded",
+    "created_at": 1793130747,
+    "updated_at": 1793130763,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115169775516835840/content?expires=1793735652&signature=02f03f99b32cc722ae0abb43898047af1b8ec983086784de3ba046ad4f439936"
+    },
+    "resolution": "768P",
+    "duration": 5,
+    "usage": {
+      "total_seconds": 5,
+      "input_seconds": 0,
+      "output_seconds": 5,
+      "input_image_count": 1
+    },
+    "ratio": "adaptive",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

@@ -1,0 +1,17 @@
+subject_definitions:
+<Picture 1>=ChatGPT四视图：同一人四角度，身份服饰保持
+<Picture 2>=Kimi四视图：同一人四角度，身份服饰保持
+<Picture 3>=构图状态，非强制首帧
+summary:
+[reference generation] 哥特异世界动画，16:9，15秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。
+retention_analysis:
+身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。
+detailed_description:
+[Shot 1] 0–9.16s <Picture 3>；画内:ChatGPT、Kimi。以睁眼后的视线匹配切入已经坐起的Kimi；点头落定后切多地回应。从月石边双人中景缓慢横移小半步，露出GPT俯身和Kimi点头关系，随后停住听完分路。Kimi已经睁眼并坐起；视野放宽，看见俯身等她的ChatGPT，直接承接分路交代。 GPT低声交代分路，Kimi点头。 一句说明自己负责什么，一句把Claude托付给Kimi；目光落到Kimi身上，像对熟悉的同伴说话，不是朗读作战报告。 困意收起，短而笃定；接住GPT的托付，不复述路线。 声音:月面安静，无风声。 GPT在镜内0.2–7.361秒说完同一句日语；Kimi在镜内7.661–9.06秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。
+0.2–7.361s ChatGPT 匹配口型:<d>[Japanese] 正面で私が気を引く。祭壇の後ろのステンドグラスから入って、彼女を守って。</d>；仅一次。
+7.661–9.06s Kimi 匹配口型:<d>[Japanese] 彼女は任せて。</d>；仅一次。
+9.16–15s保持末态微动，无新动作台词，剪去余量。
+overall_soundscape:
+仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。
+non_diegetic_music:
+N/A

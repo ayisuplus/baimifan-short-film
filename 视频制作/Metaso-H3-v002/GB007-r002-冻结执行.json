@@ -1,0 +1,157 @@
+{
+  "batch": {
+    "batch_number": 8,
+    "batch_id": "GB007",
+    "attempt_id": "GB007-r002",
+    "title": "察觉与试锁",
+    "shot_ids": [
+      "CY013",
+      "CY013A",
+      "CY015",
+      "CY016"
+    ],
+    "film_start": 96.592729,
+    "part_offset": 0.0,
+    "used_seconds": 15.0,
+    "duration": 15,
+    "prompt": "subject_definitions:\nImage 1=Claude四视图：同一人四角度，身份服饰保持\nImage 2=DeepSeek四视图：同一人四角度，身份服饰保持\nImage 3=构图状态，非强制首帧\nImage 4=构图状态，非强制首帧\nImage 5=构图状态，非强制首帧\nImage 6=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，15秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–3s Image 3；画内:Claude。承前宝宝抬头方向作视线反打，轻响和烛火仍来自同一空堂。面肩近景随Claude低头轻俯，随即停住容纳一怔与摇头，不绕过刑架。Claude 低头看见远处的 DeepSeek，先是一怔，随即忧虑地轻轻摇头，示意她不要靠近。 声音:烛火与两人微弱呼吸，保持空堂安静。\n[Shot 2] 3–5s Image 4；画内:Claude。从Claude向下的担忧落到束缚细节；同一静默连贯，不另加受刑动作。赤足细节近景沿脚踝至固定脚托短短下摇，收在脚托与两侧低柴的净距，避免误读为悬吊。Claude 赤足站在十字架竖柱固定的小木脚托上，脚踝各有锁链连向竖柱；脚托下方两侧只放低矮柴堆，裙摆与脚趾没有埋进木柴。 人物:仅赤足、踝链与局部裙摆。 声音:烛火、微弱呼吸和链条细响，不加吟唱。\n[Shot 3] 5–10s Image 5；画内:DeepSeek、Claude。明确略去登阶路程，切到宝宝已在平台木架左侧；Claude的问句由面对她的关系发出。同侧近机位沿孩子仰视联系Claude，双方说话嘴可见；手够向腰锁，背景退暗，避免退成全身合照。小鱼抬头向Claude保证，踮脚伸手够腰锁。 调度:小鱼站最高平整台面木架左侧；Claude直立双腕受缚，双踝与脚托在画外仍保持。保证对白顺序与口型不变；无钥匙工具。 注意:小鱼站最高平整台面木架左侧；Claude直立双腕受缚，双踝与脚托在画外仍保持。保证对白顺序与口型不变；无钥匙工具。 声音:轻脚步、衣料和空堂回声；没有吟唱。DeepSeek：我带你出去。 Claude在镜内0.1–1.72秒说完同一句日语；小鱼在镜内2.02–3.52秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 4] 10–15s Image 6；画内:DeepSeek、Claude。按上一镜双手刚够住锁扣起演；失败后才换抓横链，不从地面重够。贴近腰锁与双手，窄景深沿绷紧链条短移；先看掰锁失败，再看手转抓链，局部侧脸保留受力表情。DeepSeek 踮起脚试着掰锁，扣锁纹丝不动。她改为握紧腰前横链往外拉，锁链撞上木架，发出清脆的响声。 调度:掰锁转拉链中间状态，不是解锁成功。Claude只见躯干及局部受缚腕，脸/脚画外；锁和链均完整闭合，无钥匙工具。 注意:掰锁转拉链中间状态，不是解锁成功。Claude只见躯干及局部受缚腕，脸/脚画外；锁和链均完整闭合，无钥匙工具。 人物:Claude仅躯干及局部受缚腕，脸与脚画外；小鱼局部脸/双手。 声音:一次清脆金属锁链响及回声，随后安静，不提前接教徒声音。\n5.1–6.72s Claude 匹配口型:<d>[Japanese] どうしてここに？</d>；仅一次。\n7.02–8.52s DeepSeek 匹配口型:<d>[Japanese] 私が連れ出すよ。</d>；仅一次。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "Claude",
+        "name_en": "Claude",
+        "asset_id": "CHAR-CLAUDE",
+        "status": "候选待作者审阅",
+        "limits": "侧背与下裙含补全，不作为精确工程正交图。受缚至离殿采用赤足，四视图鞋仅为日常服装参考。近景不为展示花饰而换侧；不新增另一朵花。",
+        "purpose": "Claude四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a",
+        "original_slot": 1
+      },
+      {
+        "slot": 2,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+        "kind": "identity",
+        "person": "DeepSeek",
+        "name_en": "DeepSeek",
+        "asset_id": "CHAR-DEEPSEEK",
+        "status": "候选待作者审阅",
+        "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+        "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+        "original_slot": 2
+      },
+      {
+        "slot": 3,
+        "path": "镜头设计/图像/天瀑空间-v014/CY013-v014-r3.png",
+        "kind": "composition",
+        "shot_id": "CY013",
+        "purpose": "构图、空间与代表状态：她发现了宝宝；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "8aa15353392208180c0a97cb8f31a2b598db9a6c81360ca77dca00e80273f35f",
+        "original_slot": 3
+      },
+      {
+        "slot": 4,
+        "path": "镜头设计/图像/天瀑空间-v014/CY013A-v014-r3.png",
+        "kind": "composition",
+        "shot_id": "CY013A",
+        "purpose": "构图、空间与代表状态：赤足、脚托与踝链；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "d09dd015273c2fee89cc4afa22159b834bf3d69c31ee68f1abd7c3549b4726f9",
+        "original_slot": 4
+      },
+      {
+        "slot": 5,
+        "path": "镜头设计/图像/空间张力-v063/CY015-v063-r1.png",
+        "kind": "composition",
+        "shot_id": "CY015",
+        "purpose": "构图、空间与代表状态：偷偷的保证；不是默认首帧",
+        "status": "v063空间与张力修订候选，待作者审阅",
+        "limits": "",
+        "sha256": "536607737f05b3df218eaf4b574394580f2dbb68e04a19670799e56634c2bf6c",
+        "original_slot": 5
+      },
+      {
+        "slot": 6,
+        "path": "镜头设计/图像/空间张力-v063/CY016-v063-r1.png",
+        "kind": "composition",
+        "shot_id": "CY016",
+        "purpose": "构图、空间与代表状态：试锁，再拉链；不是默认首帧",
+        "status": "v063空间与张力修订候选，待作者审阅",
+        "limits": "",
+        "sha256": "f1c37a7b42ed2405c55465877a1290500a22edcde512254506cfc03ef0352004",
+        "original_slot": 6
+      }
+    ],
+    "estimated_credits": 158.7,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "旧服务输入审核失败，原合法叙事完整输入在作者指定Metaso尝试一次；不为规避审核删改内容。",
+    "repair_of": {
+      "task_id": "20261028004703676989236",
+      "local_path": null
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "subject_definitions:\nImage 1=Claude四视图：同一人四角度，身份服饰保持\nImage 2=DeepSeek四视图：同一人四角度，身份服饰保持\nImage 3=构图状态，非强制首帧\nImage 4=构图状态，非强制首帧\nImage 5=构图状态，非强制首帧\nImage 6=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，15秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–3s Image 3；画内:Claude。承前宝宝抬头方向作视线反打，轻响和烛火仍来自同一空堂。面肩近景随Claude低头轻俯，随即停住容纳一怔与摇头，不绕过刑架。Claude 低头看见远处的 DeepSeek，先是一怔，随即忧虑地轻轻摇头，示意她不要靠近。 声音:烛火与两人微弱呼吸，保持空堂安静。\n[Shot 2] 3–5s Image 4；画内:Claude。从Claude向下的担忧落到束缚细节；同一静默连贯，不另加受刑动作。赤足细节近景沿脚踝至固定脚托短短下摇，收在脚托与两侧低柴的净距，避免误读为悬吊。Claude 赤足站在十字架竖柱固定的小木脚托上，脚踝各有锁链连向竖柱；脚托下方两侧只放低矮柴堆，裙摆与脚趾没有埋进木柴。 人物:仅赤足、踝链与局部裙摆。 声音:烛火、微弱呼吸和链条细响，不加吟唱。\n[Shot 3] 5–10s Image 5；画内:DeepSeek、Claude。明确略去登阶路程，切到宝宝已在平台木架左侧；Claude的问句由面对她的关系发出。同侧近机位沿孩子仰视联系Claude，双方说话嘴可见；手够向腰锁，背景退暗，避免退成全身合照。小鱼抬头向Claude保证，踮脚伸手够腰锁。 调度:小鱼站最高平整台面木架左侧；Claude直立双腕受缚，双踝与脚托在画外仍保持。保证对白顺序与口型不变；无钥匙工具。 注意:小鱼站最高平整台面木架左侧；Claude直立双腕受缚，双踝与脚托在画外仍保持。保证对白顺序与口型不变；无钥匙工具。 声音:轻脚步、衣料和空堂回声；没有吟唱。DeepSeek：我带你出去。 Claude在镜内0.1–1.72秒说完同一句日语；小鱼在镜内2.02–3.52秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 4] 10–15s Image 6；画内:DeepSeek、Claude。按上一镜双手刚够住锁扣起演；失败后才换抓横链，不从地面重够。贴近腰锁与双手，窄景深沿绷紧链条短移；先看掰锁失败，再看手转抓链，局部侧脸保留受力表情。DeepSeek 踮起脚试着掰锁，扣锁纹丝不动。她改为握紧腰前横链往外拉，锁链撞上木架，发出清脆的响声。 调度:掰锁转拉链中间状态，不是解锁成功。Claude只见躯干及局部受缚腕，脸/脚画外；锁和链均完整闭合，无钥匙工具。 注意:掰锁转拉链中间状态，不是解锁成功。Claude只见躯干及局部受缚腕，脸/脚画外；锁和链均完整闭合，无钥匙工具。 人物:Claude仅躯干及局部受缚腕，脸与脚画外；小鱼局部脸/双手。 声音:一次清脆金属锁链响及回声，随后安静，不提前接教徒声音。\n5.1–6.72s Claude 匹配口型:<d>[Japanese] どうしてここに？</d>；仅一次。\n7.02–8.52s DeepSeek 匹配口型:<d>[Japanese] 私が連れ出すよ。</d>；仅一次。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141454194728960"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141523506393088"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115146340872544256"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115146349712044032"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115146358374195200"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115146367735619584"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 15,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "2026-10-28作者授权：参考图超限想办法砍不重要参考，该返修的都返修；沿用Metaso H3"
+}

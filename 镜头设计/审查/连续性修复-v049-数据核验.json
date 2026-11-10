@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "shots": 131,
+  "seconds": 431.5,
+  "changed_images": [
+    "CY015",
+    "CY016",
+    "CY016D",
+    "CY017",
+    "CY018",
+    "CY019",
+    "CY020A",
+    "CY021",
+    "CY022A",
+    "CY022A1"
+  ],
+  "unchanged_images": 121,
+  "unchanged_audio_arrangement": true,
+  "browser_marks_verified": 131,
+  "new_images_integrity_verified": 10,
+  "scope": "Data, file integrity and rendered selection labels; visual review is separate."
+}

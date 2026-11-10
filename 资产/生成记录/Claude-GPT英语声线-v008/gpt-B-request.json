@@ -1,0 +1,47 @@
+{
+  "prompt": {
+    "1": {
+      "class_type": "BreezeTTS2LoadModel",
+      "inputs": {
+        "model": "bf16 (best quality)",
+        "dtype": "bf16",
+        "device": "cuda",
+        "attention": "sdpa",
+        "decode_mode": "eager",
+        "download_if_missing": false
+      }
+    },
+    "2": {
+      "class_type": "BreezeTTS2VoiceDesign",
+      "inputs": {
+        "breeze_model": [
+          "1",
+          0
+        ],
+        "text": "Let her in. I shouldn't interfere in Church affairs. Easy now. She's safe. Waiting for you down below.",
+        "instruction": "Japanese anime voice actress. A full, resonant and soft adult dragon-queen voice. Relaxed and dignified, with measured phrasing and unmistakable quiet authority. Let her in is an unhurried command; the Church line carries composed reluctance; Easy now and the reassurance become warmly protective. Speak the given lines in clear English, with brief pauses between sentences.",
+        "cfg_scale": 4.0,
+        "max_new_tokens": 256,
+        "temperature": 0.9,
+        "top_k": 50,
+        "top_p": 1.0,
+        "repetition_penalty": 1.1,
+        "depth_temperature": 0.9,
+        "depth_top_k": 50,
+        "depth_top_p": 1.0,
+        "seed": 20261029
+      }
+    },
+    "3": {
+      "class_type": "SaveAudio",
+      "inputs": {
+        "audio": [
+          "2",
+          0
+        ],
+        "filename_prefix": "audio/BreezeTTS2/WhiteRice-Anime-v008/gpt-B"
+      }
+    }
+  },
+  "client_id": "white-rice-heroines-anime-v008"
+}

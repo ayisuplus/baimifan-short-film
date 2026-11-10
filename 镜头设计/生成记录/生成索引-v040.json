@@ -1,0 +1,320 @@
+{
+  "version": "v040",
+  "previous_index": "镜头设计/生成记录/生成索引-v039.json",
+  "generated_images": 16,
+  "images": [
+    {
+      "id": "CY016C",
+      "path": "镜头设计/图像/火祭因果-v040/CY016C-v040-r1.png",
+      "sha256": "1632dfb3fc095275212842c5cde19a6c3d7d34b80152e566926f1cc2010916ac",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/火祭因果-v040/首批请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/天瀑空间-v014/CY016C-v014-r6.png",
+          "sha256": "e1deb9edaf17eee987ccf10579ff0e36ca5e172033ff8dbcc93e834b8fcce413"
+        }
+      ]
+    },
+    {
+      "id": "CY017",
+      "path": "镜头设计/图像/火祭因果-v040/CY017-v040-r1.png",
+      "sha256": "766c2fa09f4a64dccb9b76943ffc5ad8e41ffd9e9297f50f26786c62b752544d",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/火祭因果-v040/阻拦请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/天瀑空间-v014/CY017-v014-r4.png",
+          "sha256": "6619a87fb27d982e8096d0ffd23c2ad8bf82ab835a6eb2c9793067fc6a54420c"
+        },
+        {
+          "path": "镜头设计/图像/火祭因果-v040/CY016C-v040-r1.png",
+          "sha256": "1632dfb3fc095275212842c5cde19a6c3d7d34b80152e566926f1cc2010916ac"
+        }
+      ]
+    },
+    {
+      "id": "CY017A",
+      "path": "镜头设计/图像/火祭因果-v040/CY017A-v040-r1.png",
+      "sha256": "2b207c2ae64f753c9eb115b00ecb1c66df590b10c77354f13c423e4963f081ee",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/火祭因果-v040/铺柴与最后阻拦请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/天瀑空间-v014/CY013A-v014-r3.png",
+          "sha256": "d09dd015273c2fee89cc4afa22159b834bf3d69c31ee68f1abd7c3549b4726f9"
+        },
+        {
+          "path": "镜头设计/图像/火祭因果-v040/CY018B-v040-r1.png",
+          "sha256": "bf4763eb83a43992188a958c2e1239e03a52a7c6bb0c9f19cf88ddf46401cbe6"
+        }
+      ]
+    },
+    {
+      "id": "CY018",
+      "path": "镜头设计/图像/火祭因果-v040/CY018-v040-r1.png",
+      "sha256": "5711ce85dbe02430c2c1d78fe587cb96edb017be444ed0abd24df18622683a2f",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/火祭因果-v040/阻拦请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/天瀑空间-v014/CY018-v014-r3.png",
+          "sha256": "f038de190248361ef19fa3dcc1bf4197d885214e9f0696a71931ea7763fe7f5a"
+        },
+        {
+          "path": "镜头设计/图像/天瀑空间-v014/CY017-v014-r4.png",
+          "sha256": "6619a87fb27d982e8096d0ffd23c2ad8bf82ab835a6eb2c9793067fc6a54420c"
+        }
+      ]
+    },
+    {
+      "id": "CY018B",
+      "path": "镜头设计/图像/火祭因果-v040/CY018B-v040-r1.png",
+      "sha256": "bf4763eb83a43992188a958c2e1239e03a52a7c6bb0c9f19cf88ddf46401cbe6",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/火祭因果-v040/首批请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/祭坛长椅连续性-v023/CY012-v023-r8.png",
+          "sha256": "399c6ea538e210b44ca22eec0fdcf4f669edd0991160caa78f77548a14a9e7c9"
+        },
+        {
+          "path": "镜头设计/图像/天瀑空间-v014/CY013-v014-r3.png",
+          "sha256": "8aa15353392208180c0a97cb8f31a2b598db9a6c81360ca77dca00e80273f35f"
+        }
+      ]
+    },
+    {
+      "id": "CY019",
+      "path": "镜头设计/图像/火祭因果-v040/CY019-v040-r1.png",
+      "sha256": "6c6e6c8e42ba80e280c4bc8b4780d95fa8976cd6487f2581ab583f6f0913524a",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/火祭因果-v040/铺柴与最后阻拦请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/天瀑空间-v014/CY019-v014-r7.png",
+          "sha256": "d761959b0b36975b18e2dda6986e25660029f804e9648cd32bb5255a5092b335"
+        },
+        {
+          "path": "镜头设计/图像/火祭因果-v040/CY018B-v040-r1.png",
+          "sha256": "bf4763eb83a43992188a958c2e1239e03a52a7c6bb0c9f19cf88ddf46401cbe6"
+        }
+      ]
+    },
+    {
+      "id": "CY020A",
+      "path": "镜头设计/图像/火祭因果-v040/CY020A-v040-r1.png",
+      "sha256": "1e9d14c607f19da8db98d4102f9062a49f045ed6fefe9844066298ae02b1a81c",
+      "size": [
+        1671,
+        941
+      ],
+      "request": "镜头设计/生成记录/火祭因果-v040/高柴背景同步请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/天瀑空间-v014/CY020A-v014-r6.png",
+          "sha256": "149e74e1b9711738b3208794311168b0a69835de169f06e85758a0739895aaeb"
+        },
+        {
+          "path": "镜头设计/图像/火祭因果-v040/CY018B-v040-r1.png",
+          "sha256": "bf4763eb83a43992188a958c2e1239e03a52a7c6bb0c9f19cf88ddf46401cbe6"
+        }
+      ]
+    },
+    {
+      "id": "CY021",
+      "path": "镜头设计/图像/火祭因果-v040/CY021-v040-r1.png",
+      "sha256": "111af9791e0cbab110c6455f870683892966790f7817e03a7c8ef6eaa1e2bdd5",
+      "size": [
+        1672,
+        940
+      ],
+      "request": "镜头设计/生成记录/火祭因果-v040/高柴背景同步请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/天瀑空间-v014/CY021-v014-r4.png",
+          "sha256": "f9c0c18344bcdb9fb291f156c83837368f8264bdbb879e0e1e7cdc7222418a6e"
+        },
+        {
+          "path": "镜头设计/图像/火祭因果-v040/CY018B-v040-r1.png",
+          "sha256": "bf4763eb83a43992188a958c2e1239e03a52a7c6bb0c9f19cf88ddf46401cbe6"
+        }
+      ]
+    },
+    {
+      "id": "CY022A",
+      "path": "镜头设计/图像/火祭因果-v040/CY022A-v040-r1.png",
+      "sha256": "9799c1c4c32716318fa5d1d251adee7e1fac6e442e21e534bdfe932c3ef36356",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/火祭因果-v040/高柴背景同步请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/天瀑空间-v014/CY022A-v014-r5.png",
+          "sha256": "1602e258b5a6d5ddb5903585fc9007c9fb8e2d9ddc0c1396653d4334cddc2eeb"
+        },
+        {
+          "path": "镜头设计/图像/火祭因果-v040/CY018B-v040-r1.png",
+          "sha256": "bf4763eb83a43992188a958c2e1239e03a52a7c6bb0c9f19cf88ddf46401cbe6"
+        }
+      ]
+    },
+    {
+      "id": "CY022A1",
+      "path": "镜头设计/图像/火祭因果-v040/CY022A1-v040-r1.png",
+      "sha256": "6db024dda3cae07003ca988e4696e9d0e18cc3e0a6b0602a8fc19147c824c909",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/火祭因果-v040/高柴背景同步请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/动作收尾-v015/CY022A1-v015-r1.png",
+          "sha256": "52d8dc2131e6dc79c3736588d5b86c2892422442123ee65ba45dd64c901c1d78"
+        },
+        {
+          "path": "镜头设计/图像/火祭因果-v040/CY018B-v040-r1.png",
+          "sha256": "bf4763eb83a43992188a958c2e1239e03a52a7c6bb0c9f19cf88ddf46401cbe6"
+        }
+      ]
+    },
+    {
+      "id": "CY022",
+      "path": "镜头设计/图像/火祭因果-v040/CY022-v040-r1.png",
+      "sha256": "f914a8b5f3008cb7348386f369e243f661c23aaa7ef741d5fb9c4ce91534dd8e",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/火祭因果-v040/燃烧与冲散请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/末轮叙事优化-v035/CY022-v035-r1.png",
+          "sha256": "69f17214132e672233816daf6ee2a4256047fb10133a7abfc3f6ca70fef4ff78"
+        },
+        {
+          "path": "镜头设计/图像/火祭因果-v040/CY018B-v040-r1.png",
+          "sha256": "bf4763eb83a43992188a958c2e1239e03a52a7c6bb0c9f19cf88ddf46401cbe6"
+        }
+      ]
+    },
+    {
+      "id": "CY024K2",
+      "path": "镜头设计/图像/火祭因果-v040/CY024K2-v040-r1.png",
+      "sha256": "80c0db2033d8b7ff1675f5ff99660b68a2ddbbbbbb5cbdd21e8262a3f0c798a9",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/火祭因果-v040/Kimi暗月破柴与护盾请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/火祭因果-v040/CY018B-v040-r1.png",
+          "sha256": "bf4763eb83a43992188a958c2e1239e03a52a7c6bb0c9f19cf88ddf46401cbe6"
+        },
+        {
+          "path": "镜头设计/图像/月光救赎-v032/CY024A1-v032-r1.png",
+          "sha256": "b79103ebbf65f5625563c9a100bb6c3354ac82ae20d5b296f1cf483f2427291f"
+        },
+        {
+          "path": "镜头设计/图像/天瀑空间-v014/CY013A-v014-r3.png",
+          "sha256": "d09dd015273c2fee89cc4afa22159b834bf3d69c31ee68f1abd7c3549b4726f9"
+        }
+      ]
+    },
+    {
+      "id": "CY016D",
+      "path": "镜头设计/图像/火祭因果-v040/CY016D-v040-r2.png",
+      "sha256": "ac352a853e19a5d667754ca590eb1858c6883d8f7d9211ea4abd28e5d62896de",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/火祭因果-v040/铺柴与最后阻拦请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/火祭因果-v040/CY016D-v040-r1.png",
+          "sha256": "a9eab357de1b7131b05a52dd7727d45701bc3c5683f8dee40e159c2cc3e3d09c"
+        }
+      ]
+    },
+    {
+      "id": "CY020B",
+      "path": "镜头设计/图像/火祭因果-v040/CY020B-v040-r2.png",
+      "sha256": "f17362939f1f2b29209a463e89658dd76cdfa93746eeeff1582057ef0399e721",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/火祭因果-v040/手侧与水雷全景修正.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/火祭因果-v040/CY020B-v040-r1.png",
+          "sha256": "ab6fa9e8bc09063639f5bb775b5fc8b74afb6d65c201880afc9729512d07ce6c"
+        }
+      ]
+    },
+    {
+      "id": "CY024A1",
+      "path": "镜头设计/图像/火祭因果-v040/CY024A1-v040-r2.png",
+      "sha256": "f705ae9b2ce5188a32f7e7b4382653815ad6377661b0dd40e5cbf3ac045790b2",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/火祭因果-v040/Kimi暗月破柴与护盾请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/火祭因果-v040/CY024A1-v040-r1.png",
+          "sha256": "83fd3353588bc13e84f0b11a765b11a01e3a88aa0ac98786d1f52bd190f50965"
+        }
+      ]
+    },
+    {
+      "id": "CY024K1",
+      "path": "镜头设计/图像/火祭因果-v040/CY024K1-v040-r2.png",
+      "sha256": "b7ab2455112a28807c7e6c6b915cec8cda86fdeded6409727987624f2fea6c0f",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/火祭因果-v040/Kimi空间修正请求.json",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月光救赎-v032/CY024A1-v032-r1.png",
+          "sha256": "b79103ebbf65f5625563c9a100bb6c3354ac82ae20d5b296f1cf483f2427291f"
+        }
+      ]
+    }
+  ],
+  "not_used": [
+    "CY024B2-v040-r1.png：作者认为水势过小，改由Kimi破柴",
+    "CY024B-v040-r1.png：随小水浪方案撤出，沿用原宏大水雷图",
+    "CY024A4-v040-r1.png：高柴方案退出，Kimi破柴后沿用旧脚托裙边图",
+    "CY024K1-v040-r1.png：空间重复，改用r2",
+    "CY016D-v040-r1.png：单人两木错误，改用r2",
+    "CY020B-v040-r1.png：火把手侧不连续，改用r2",
+    "CY024A1-v040-r1.png：高柴背景被新暗月破柴方案替代"
+  ]
+}

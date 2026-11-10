@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115189162136100864",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "父亲伏地伸手缓缓垂下",
+    "status": "succeeded",
+    "created_at": 1793135369,
+    "updated_at": 1793135386,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115189162136100864/content?expires=1793740495&signature=db08b980adf4033987c1370a299c1c6790b3efff75adb347cccad107ada031cf"
+    },
+    "resolution": "768P",
+    "duration": 4,
+    "usage": {
+      "total_seconds": 4,
+      "input_seconds": 0,
+      "output_seconds": 4,
+      "input_image_count": 1
+    },
+    "ratio": "adaptive",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "date": "2026-10-20",
+  "atlas_items": 17,
+  "reused_assets": 8,
+  "generation_calls": 9,
+  "new_active_candidates": 7,
+  "retained_history": [
+    "CHAR-GPT-v001",
+    "CHAR-GPT-v002"
+  ],
+  "files": [
+    {
+      "id": "CHAR-CLAUDE",
+      "path": "资产/图像/CHAR-CLAUDE-v001.png",
+      "sha256": "0aa02c0b782ae97e141dcaa9238e3202385bcc932ecc3c51f1d3a8001c288b24",
+      "width": 1312,
+      "height": 1199,
+      "mode": "RGB"
+    },
+    {
+      "id": "CHAR-DEEPSEEK",
+      "path": "资产/图像/CHAR-DEEPSEEK_服装母版.png",
+      "sha256": "fe8dcebc373dec660b53dc09daf3cb433f4ec854643d56468fbd2438b4f49ed2",
+      "width": 1915,
+      "height": 821,
+      "mode": "RGB"
+    },
+    {
+      "id": "CHAR-GPT",
+      "path": "资产/图像/CHAR-GPT-v003.png",
+      "sha256": "58faf0fe4ba26c782b150dca19aebecd619f334a56de0899d8ad547ac3af16bb",
+      "width": 949,
+      "height": 1658,
+      "mode": "RGB"
+    },
+    {
+      "id": "ENV-STREET",
+      "path": "资产/图像/ENV-STREET-v001.png",
+      "sha256": "fe11e66783231a9cc305bbfc1c9430dc0f62d4535d9da20dfc3deead5208c9c5",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB"
+    },
+    {
+      "id": "ENV-PALACE",
+      "path": "资产/图像/ENV-PALACE-v001.png",
+      "sha256": "9a7bf3cfe98df7c15a60070c2db417076e9a594ea77542af6dc0cc83c6df04bc",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB"
+    },
+    {
+      "id": "ENV-CHURCH",
+      "path": "资产/图像/ENV-CHURCH-v001.png",
+      "sha256": "9abf138400dee10937e41746970e9527a0b184555ac23337ae3f595bea9bfb32",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB"
+    },
+    {
+      "id": "CHAR-PRIEST",
+      "path": "资产/图像/CHAR-PRIEST-v001.png",
+      "sha256": "8076abf07d048b1c6bfc96d2356d6dd33a170119c596374bdd97bfd22dae8fe9",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGB"
+    },
+    {
+      "id": "CHAR-CULTIST",
+      "path": "资产/图像/CHAR-CULTIST-v001.png",
+      "sha256": "1031119f267781bf4aae1171fff4820b7fe5cb5b1b1d34c6cbf8769c917a6048",
+      "width": 1312,
+      "height": 1199,
+      "mode": "RGB"
+    },
+    {
+      "id": "MULKZI2WM2FEL",
+      "path": "资产/图像/C09_Grok.png",
+      "sha256": "05f7abcb005dfae0b50360aef7c9ca241e475146727e040f9c174821092ed8e3",
+      "width": 690,
+      "height": 700,
+      "mode": "RGB"
+    },
+    {
+      "id": "MULKZI2WI4VGS",
+      "path": "资产/图像/C08_Mistral.png",
+      "sha256": "e3d95ddd1c326c6795109f9d28f89aec8c95e15acbe79a4034f252b42b01eec5",
+      "width": 690,
+      "height": 700,
+      "mode": "RGB"
+    },
+    {
+      "id": "MULKZI2W3JZ5F",
+      "path": "资产/图像/C07_Perplexity.png",
+      "sha256": "1ece10907aa90cf41b282a1c44f284236ee3a10d2e8665fde0bf7a4d0b7b516d",
+      "width": 690,
+      "height": 700,
+      "mode": "RGB"
+    },
+    {
+      "id": "MULKZI2W8B4P3",
+      "path": "资产/图像/C06_Gemini.png",
+      "sha256": "29eecec8ac02e8b3cff42bff8fa1ac555aa0d1a618c899c72518ce5f92771eba",
+      "width": 690,
+      "height": 700,
+      "mode": "RGB"
+    },
+    {
+      "id": "MULKZI2WQUZ98",
+      "path": "资产/图像/C05_Zai-GLM.png",
+      "sha256": "7900e48e2d4cdeb0d3e510840cf50a059a4d117752d415aa96ecd7696dc1715d",
+      "width": 690,
+      "height": 700,
+      "mode": "RGB"
+    },
+    {
+      "id": "MULKZI2W5366M",
+      "path": "资产/图像/C04_Qwen.png",
+      "sha256": "f64c8b979b002fbc946103867b90850b8f4a3b0de773cddd4a0d9474b119fd27",
+      "width": 690,
+      "height": 700,
+      "mode": "RGB"
+    },
+    {
+      "id": "MULKZI2WMFNJE",
+      "path": "资产/图像/C03_Kimi.png",
+      "sha256": "c438afef56d45a8ce520fc944696dfd0f7ac25c1c1c563a7f52a8ac818512fcb",
+      "width": 690,
+      "height": 700,
+      "mode": "RGB"
+    },
+    {
+      "id": "REF-CLAUDE",
+      "path": "概念参考/01-Claude-母版概念参考.webp",
+      "sha256": "d4bb1e86b085e6593aacee04ac15802c07996646bdede8e5f9b047baef7e7cd7",
+      "width": 1916,
+      "height": 821,
+      "mode": "RGB"
+    },
+    {
+      "id": "REF-STREET",
+      "path": "概念参考/02-DeepSeek-母版概念参考.webp",
+      "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972",
+      "width": 1916,
+      "height": 821,
+      "mode": "RGB"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "status": "passed",
+  "source_sha256": "ba20a438d8a0d1d91cfe352002ea60c672055bf310fbee02c5da84fcd5ec2d3d",
+  "source_not_modified_by_builder": true,
+  "previous_source_unchanged": true,
+  "changed_shots": {
+    "CY003C": {
+      "path": "镜头设计/图像/空间张力-v063/CY003C-v063-r1.png",
+      "sha256": "b513fa23f430c34f61433f188da15c075a472269af0a89e047535550cce44f29"
+    },
+    "CY004B": {
+      "path": "镜头设计/图像/空间张力-v063/CY004B-v063-r1.png",
+      "sha256": "7532f97f0d412d7002e0e2acbbd28364f8765340249994e5fe85e2ac84163765"
+    },
+    "CY004C": {
+      "path": "镜头设计/图像/空间张力-v063/CY004C-v063-r1.png",
+      "sha256": "24380275c46ffb8fc7162bd547dc91cebed2c201ef5e46b7166b3b49c755946e"
+    },
+    "CY004D": {
+      "path": "镜头设计/图像/空间张力-v063/CY004D-v063-r1.png",
+      "sha256": "fbf95430ebe93e19426129eec05b3131977ae5b9427fd389b8e277577e1e7ca9"
+    },
+    "CY015": {
+      "path": "镜头设计/图像/空间张力-v063/CY015-v063-r1.png",
+      "sha256": "536607737f05b3df218eaf4b574394580f2dbb68e04a19670799e56634c2bf6c"
+    },
+    "CY016": {
+      "path": "镜头设计/图像/空间张力-v063/CY016-v063-r1.png",
+      "sha256": "f1c37a7b42ed2405c55465877a1290500a22edcde512254506cfc03ef0352004"
+    },
+    "CY016D": {
+      "path": "镜头设计/图像/空间张力-v063/CY016D-v063-r1.png",
+      "sha256": "24af6ba366af39c437c62489825e78b75096f01f2df5c8b0470002c7d529f414"
+    },
+    "CY017": {
+      "path": "镜头设计/图像/空间张力-v063/CY017-v063-r2.png",
+      "sha256": "2d445d048201b68d30a115540b45762e96a60062ddf27647a181a2b556627725"
+    },
+    "CY018": {
+      "path": "镜头设计/图像/空间张力-v063/CY018-v063-r2.png",
+      "sha256": "97b531e5e89b700f93b71e2b7de74ed38f77a018e98041a54ae66820b06611e6"
+    }
+  },
+  "affected_batches": [
+    {
+      "id": "GB002",
+      "shots": [
+        "CY003C"
+      ],
+      "references": 6,
+      "selected": "minimax-h3",
+      "chars": 1545
+    },
+    {
+      "id": "GB003",
+      "shots": [
+        "CY004B",
+        "CY004C",
+        "CY004D"
+      ],
+      "references": 7,
+      "selected": "minimax-h3",
+      "chars": 1869
+    },
+    {
+      "id": "GB007",
+      "shots": [
+        "CY015",
+        "CY016"
+      ],
+      "references": 6,
+      "selected": "minimax-h3",
+      "chars": 1699
+    },
+    {
+      "id": "GB009",
+      "shots": [
+        "CY016D",
+        "CY017",
+        "CY018"
+      ],
+      "references": 6,
+      "selected": "minimax-h3",
+      "chars": 1914
+    }
+  ],
+  "audio_outputs_sha256": {
+    "BGM试听.wav": "d43542e7346cbf350e3a03347b0f10bb6da8305023da4ae61634248eaf3d9ed7",
+    "BGM试听.mp3": "b875339a499ca9cdcc87f88f15bc9fadcdeb69a6c1107bd4f3bb79966aaea800",
+    "全片声音预览.mp3": "8d58cbcfdeefa123b0cf04e3e1cb72c9d4a225a1821c8150befd548da563a7b8"
+  },
+  "audio_outputs_identical": true,
+  "timing_dialogue_unchanged": true,
+  "author_adoption": false,
+  "video_generated": false
+}

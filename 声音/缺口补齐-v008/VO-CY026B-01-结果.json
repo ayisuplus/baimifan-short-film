@@ -1,0 +1,45 @@
+{
+  "line_id": "VO-CY026B-01",
+  "role": "GPT",
+  "line": {
+    "id": "VO-CY026B-01",
+    "role": "GPT",
+    "previous_batch": 22,
+    "previous_record_frame": 5844,
+    "previous_ja": "ジェミニ。",
+    "previous_zh": "Gemini。",
+    "previous_audio_duration_seconds": 0.9800000000000182,
+    "status": "retained_in_draft",
+    "ja": "ジェミニ。",
+    "zh_back_translation": "Gemini。",
+    "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+    "reading_hints": {},
+    "voice_role": "GPT",
+    "performance_direction_v004": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+    "tts_reading_text": "ジェミニ。",
+    "voice_asset": "GPT",
+    "timeline_adopted": false,
+    "performance_acceptance": "逐句表演与准确性待验收；作者已确认声线",
+    "audio_state": "needs_recording"
+  },
+  "voice_id": "tsunTpzA4d2kBihHrZ2R",
+  "voice_source": "selected v004 candidate 1",
+  "body": {
+    "text": "ジェミニ。",
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "ja"
+  },
+  "status": "saved_pending_review",
+  "author_performance_accepted": false,
+  "request_id": "mJtGKBdKojxPo8KOVG4p",
+  "character_cost_header": "5",
+  "file": "声音/缺口补齐-v008/VO-CY026B-01__GPT.mp3",
+  "bytes": 15089,
+  "sha256": "2283b62f5790c4b11e1c3a11b4f89aa36f158bb2e600931bfd1a0fe5db370e35",
+  "media": {
+    "format": {
+      "duration": "0.882358"
+    }
+  },
+  "decode_ok": true
+}

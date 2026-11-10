@@ -1,0 +1,12 @@
+{
+  "shared_gain_db": -3.0,
+  "unattenuated_peak": 0.7941330075263977,
+  "peak_after_gain": 0.5622031149186101,
+  "finite": true,
+  "voice_pieces": 64,
+  "music_cues": 17,
+  "sfx_events": 126,
+  "samples": 22994000,
+  "export": "未导出成片；检查在内存中进行",
+  "boundary": "PCM无削波不等于响度、音色及听感验收"
+}

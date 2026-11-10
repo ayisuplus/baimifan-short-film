@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {
+      "path": "资产/资产图册.html",
+      "cards": 17,
+      "links_checked": 85
+    },
+    {
+      "path": "资产/历史/资产图册-v001.html",
+      "cards": 17,
+      "links_checked": 57
+    }
+  ],
+  "images_decoded": 17,
+  "reused_hashes_verified": 7,
+  "broken_links": [],
+  "stable_asset_ids_preserved": true,
+  "browser_render_test": false
+}

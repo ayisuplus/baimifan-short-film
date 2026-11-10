@@ -1,0 +1,8 @@
+{
+  "unattenuated_peak": 0.7941329479217529,
+  "shared_gain_db": -3,
+  "peak_after_gain": 0.5622030727217531,
+  "finite": true,
+  "exported_video_or_master": false,
+  "verification_boundary": "PCM样本电平检查不等于听感、响度和音色最终验收"
+}

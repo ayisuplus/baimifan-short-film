@@ -1,0 +1,355 @@
+{
+  "status": "技术结构检查通过；作者拒绝3D建模画风，正在二维纠偏",
+  "video_clips": 121,
+  "frames": 11497,
+  "seconds": 479.0416666666667,
+  "voice_pieces": 64,
+  "music_segments": 17,
+  "enabled_tracks": 8,
+  "old_timeline_preserved": {
+    "name": "v003_Dramatic_Reconstruction",
+    "frames": 11497,
+    "clips": 113
+  },
+  "native_quantization": [
+    {
+      "name": "B04_GB004_05",
+      "planned": [
+        270,
+        336
+      ],
+      "native": [
+        270,
+        335
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B08_GB007_04",
+      "planned": [
+        240,
+        331
+      ],
+      "native": [
+        240,
+        330
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B11_GB009_04",
+      "planned": [
+        264,
+        312
+      ],
+      "native": [
+        264,
+        311
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B17_GB014_02",
+      "planned": [
+        72,
+        156
+      ],
+      "native": [
+        72,
+        155
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B18_v004_5018_02",
+      "planned": [
+        96,
+        144
+      ],
+      "native": [
+        95,
+        144
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B19_GB015-1_05",
+      "planned": [
+        240,
+        288
+      ],
+      "native": [
+        240,
+        287
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B20_v003_kimi_defense_03",
+      "planned": [
+        78,
+        96
+      ],
+      "native": [
+        78,
+        95
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B21_GB016-1_02",
+      "planned": [
+        144,
+        271
+      ],
+      "native": [
+        144,
+        270
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B24_GB017R2_01",
+      "planned": [
+        34,
+        242
+      ],
+      "native": [
+        34,
+        241
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B25_v004_6476_04",
+      "planned": [
+        180,
+        192
+      ],
+      "native": [
+        179,
+        191
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B27_GB020-1_01",
+      "planned": [
+        0,
+        108
+      ],
+      "native": [
+        0,
+        107
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B29_GB020-2_01",
+      "planned": [
+        0,
+        134
+      ],
+      "native": [
+        0,
+        133
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B30_GB021_03",
+      "planned": [
+        153,
+        278
+      ],
+      "native": [
+        153,
+        277
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B31_GB022-1_02",
+      "planned": [
+        288,
+        324
+      ],
+      "native": [
+        288,
+        323
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B32_GB022-2_01",
+      "planned": [
+        0,
+        120
+      ],
+      "native": [
+        0,
+        119
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B34_GB024_01",
+      "planned": [
+        0,
+        334
+      ],
+      "native": [
+        0,
+        333
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B36_GB026_02",
+      "planned": [
+        72,
+        288
+      ],
+      "native": [
+        72,
+        287
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B38_GB028_03",
+      "planned": [
+        293,
+        341
+      ],
+      "native": [
+        293,
+        340
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B39_GB029_02",
+      "planned": [
+        131,
+        203
+      ],
+      "native": [
+        131,
+        202
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B40_GB030-1_01",
+      "planned": [
+        0,
+        321
+      ],
+      "native": [
+        0,
+        320
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B42_GB031_03",
+      "planned": [
+        216,
+        336
+      ],
+      "native": [
+        216,
+        335
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B43_GB032_03",
+      "planned": [
+        178,
+        243
+      ],
+      "native": [
+        178,
+        242
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    },
+    {
+      "name": "B44_GB033_02",
+      "planned": [
+        103,
+        225
+      ],
+      "native": [
+        103,
+        224
+      ],
+      "reason": "非整数变速回读取整误差1帧，无声器物/闭口段；不影响总长或配音"
+    }
+  ],
+  "new_video_decode_checks": [
+    {
+      "attempt": "GB010-v007-father-style-audio-r1",
+      "returncode": 0,
+      "errors": ""
+    },
+    {
+      "attempt": "GB011-v007-Claude-style-audio-r2",
+      "returncode": 0,
+      "errors": ""
+    },
+    {
+      "attempt": "GB027-v007-stair-eyeline-r1",
+      "returncode": 0,
+      "errors": ""
+    },
+    {
+      "attempt": "GB004M-v007-early-devil-audio-r1",
+      "returncode": 0,
+      "errors": ""
+    },
+    {
+      "attempt": "GB004M-v007-early-angel-audio-r1",
+      "returncode": 0,
+      "errors": ""
+    },
+    {
+      "attempt": "GB005-v007-early-decision-audio-r1",
+      "returncode": 0,
+      "errors": ""
+    },
+    {
+      "attempt": "GB006-v007-early-inside-bridge-r1",
+      "returncode": 0,
+      "errors": ""
+    },
+    {
+      "attempt": "GB014-v007-group-entry-style-audio-r1",
+      "returncode": 0,
+      "errors": ""
+    },
+    {
+      "attempt": "GB018-v007-gpt-rise-style-audio-r1",
+      "returncode": 0,
+      "errors": ""
+    },
+    {
+      "attempt": "GB014A-v007-kimi-window-style-audio-r2",
+      "returncode": 0,
+      "errors": ""
+    }
+  ],
+  "selected_voice_preservation": "63句64片段保留；仅VO-CY009-01后移7帧。作者B12删20帧及双音频片段保持。",
+  "music_preservation": "全部17段与原版位置/时长/音量回读一致",
+  "foley": "局部转身、群像脚步与洞口触地重新对位；其他声音原位保留",
+  "exported_video_or_project": false,
+  "qa_stills": 5,
+  "limits": [
+    "独立4/12fps视觉与实际声音活动窗口核验，不等于逐日语音素认证",
+    "尚未冒称全片连续听审、作者审美核定",
+    "只处理截图及接点，作者核定后才扩展其他同类问题"
+  ],
+  "native_timeline": "v004_Screenshot_2D_Style_Rework"
+}

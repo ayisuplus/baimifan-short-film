@@ -1,0 +1,920 @@
+{
+  "version": "v004",
+  "shot_plan": "镜头设计/shot-plan-v0.39.json",
+  "shot_plan_sha256": "f758b6ce51a9aa4b9c088a42369ef8c79e7e91e3ba6ad3f9dbb801c1bfbb696a",
+  "sections": [
+    {
+      "id": "M01",
+      "first_shot": "CY001",
+      "last_shot": "CY002",
+      "candidates": [],
+      "note": "街市先行，暂不入乐"
+    },
+    {
+      "id": "M02",
+      "first_shot": "CY003",
+      "last_shot": "CY003B",
+      "candidates": [
+        "BGM-CY-TIME-001"
+      ],
+      "note": "首尾主题候选，轻短乐句"
+    },
+    {
+      "id": "M03",
+      "first_shot": "CY003C",
+      "last_shot": "CY009A",
+      "candidates": [
+        "BGM-CY-SCHEME-001"
+      ],
+      "note": "局部压力候选；求助、拒绝与钟声留白"
+    },
+    {
+      "id": "M04",
+      "first_shot": "CY010A",
+      "last_shot": "CY016A",
+      "candidates": [
+        "BGM-CY-SCHEME-001"
+      ],
+      "note": "潜入以环境声为主，候选仅供比较"
+    },
+    {
+      "id": "M05",
+      "first_shot": "CY016B",
+      "last_shot": "CY022B2",
+      "candidates": [
+        "BGM-CY-SCHEME-001"
+      ],
+      "note": "脚步先到，再逐渐加压"
+    },
+    {
+      "id": "M06",
+      "first_shot": "CY022B1",
+      "last_shot": "CY022C",
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "门外列阵与破门预备"
+    },
+    {
+      "id": "M07",
+      "first_shot": "CY023",
+      "last_shot": "CY023A",
+      "candidates": [
+        "BGM-CY-FEAR-001",
+        "BGM-CY-ZOLTRAAK-001"
+      ],
+      "note": "破门与援军，两曲对照"
+    },
+    {
+      "id": "M08",
+      "first_shot": "CY026A",
+      "last_shot": "CY026E",
+      "candidates": [
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "召集回闪，短回应优先"
+    },
+    {
+      "id": "M09",
+      "first_shot": "CY024A0",
+      "last_shot": "CY024B1",
+      "candidates": [
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-MAGIC-001"
+      ],
+      "note": "长咏唱双候选；04:03–04:03.8收声、04:06水雷重音尚待精剪"
+    },
+    {
+      "id": "M10",
+      "first_shot": "CY027",
+      "last_shot": "CY027B",
+      "candidates": [
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "降落与对峙，正式编排需要压低或停乐"
+    },
+    {
+      "id": "M11",
+      "first_shot": "CY027B1",
+      "last_shot": "CY027E2",
+      "candidates": [
+        "BGM-CY-ZOLTRAAK-001",
+        "BGM-CY-FEAR-001"
+      ],
+      "note": "变龙与短促行动尾段"
+    },
+    {
+      "id": "M12",
+      "first_shot": "CY027F",
+      "last_shot": "CY028A2",
+      "candidates": [],
+      "note": "解锁与寻找，先留滴水和呼吸"
+    },
+    {
+      "id": "M13",
+      "first_shot": "CY028B",
+      "last_shot": "CY030",
+      "candidates": [
+        "BGM-CY-LIFT-001"
+      ],
+      "note": "Claude选择与离殿；05:12–05:18父亲打断，停乐仍待精剪"
+    },
+    {
+      "id": "M14",
+      "first_shot": "CY031",
+      "last_shot": "CY034",
+      "candidates": [
+        "BGM-CY-TIME-001"
+      ],
+      "note": "接勺、第一口饭与日常回归"
+    }
+  ],
+  "effects": {
+    "CY001": "街市叫卖、碗勺轻碰、脚步",
+    "CY002": "远处叫卖、近处衣料与连续脚步",
+    "CY003": "街市底声、递碗衣料与餐具轻响",
+    "CY003A": "细小碗响，街市声拉远",
+    "CY003B": "朦胧街市声；尾部接黑袍衣料",
+    "CY003C": "掌击碗沿、米饭散落、短促吸气",
+    "CY004": "合门声压住街市，接急促脚步",
+    "CY004A": "放碗轻响与脚步",
+    "CY004B": "长阶上的脚步与暮色环境",
+    "CY004C": "脚步、甲片与长枪动作声",
+    "CY004D": "收枪、甲片轻响",
+    "CY005": "急脚步与空殿喘息回响",
+    "CY006": "喘息渐稳，空殿安静",
+    "CY007": "极轻衣料声，回应后留空",
+    "CY008": "空殿静默",
+    "CY009": "脚步由近到远",
+    "CY010": "第一声远钟，尾响延续",
+    "CY009A": "脚步远去、钟声尾音接教堂夜风",
+    "CY010A": "远处交谈与脚步渐弱、夜风；无吟唱",
+    "CY011": "石屑、布料摩擦、烛火轻响",
+    "CY011A": "石屑、布料摩擦与空堂底声",
+    "CY012": "落地闷响、长堂回声、烛火",
+    "CY013": "烛火、微弱呼吸",
+    "CY013A": "烛火、微弱呼吸与链条细响",
+    "CY015": "轻脚步、衣料与空堂回声",
+    "CY016": "金属锁链清脆一响与回声，随后安静",
+    "CY016A1": "锁链余响、烛芯轻响",
+    "CY016A": "呼吸、锁扣摩擦、烛火",
+    "CY016B": "画外脚步与低语先入，锁链细响骤停",
+    "CY016B1": "脚步接近、门轴声，同一空间混响",
+    "CY016C": "门轴、提灯、停顿后的急脚步",
+    "CY016D": "急脚步、落脚与衣料",
+    "CY017": "门闩、衣料；剧情吟唱待制作",
+    "CY018": "金属盆沿碰撞、炭火爆裂与火星",
+    "CY019": "围合的衣料与脚步",
+    "CY020": "画外衣料、闷响、木架震动；不加惨叫",
+    "CY020B": "画外衣料与闷响",
+    "CY020A": "失守落地与衣料声",
+    "CY021": "急促喘息、衣料擦地",
+    "CY021B": "攥紧衣料摩擦与喘息",
+    "CY021A": "第二支火把燃烧、衣料；剧情吟唱延续",
+    "CY022A": "衣料滑脱、指尖掠石；吟唱压低一瞬",
+    "CY022A1": "鞋底敲击石阶、火把、远处低吟",
+    "CY022": "木纹骤裂、低沉黑焰呼啸",
+    "CY022B": "短促吸气、腕链锐响、受阻喘息",
+    "CY022B2": "教徒集体吟唱、殿内混响、柴火爆裂",
+    "CY022B1": "甲靴齐步、甲片、枪尾触地",
+    "CY026": "两步清晰鞋跟声、衣料掠动",
+    "CY022C": "室内吟唱与混响、门板震动",
+    "CY023": "干脆破门声，剧情吟唱立刻切断",
+    "CY024": "脚步；门外长枪与甲片声接近",
+    "CY023A": "骑士脚步与甲片声",
+    "CY026A": "云宫环境底声",
+    "CY026A1": "清脆合扇声",
+    "CY026B": "室内灯火、纸页微响",
+    "CY026C": "基地低频机械声，切月背时收掉",
+    "CY026D1": "月面安静，无风声",
+    "CY026D": "轻微衣料，月面无风声",
+    "CY026E": "五次轻促切点，环境按各路画面衔接",
+    "CY024A0": "衣料收紧、短促呼吸；末尾接拍翼低频",
+    "CY024A": "翼膜低沉振动与气流",
+    "CY024A9": "术光破空声",
+    "CY024A10": "0.15秒扇轴短咔；0.3–1.1秒开扇金属细响；1.4秒卡扣、1.7秒弹脱破空",
+    "CY024A11": "环境压低、细薄破空声；碰撞留下一镜",
+    "CY024A12": "短促清脆撞击，残光散去后接月辉微光声",
+    "CY024A1": "指尖月牙轻响",
+    "CY024A2": "轻微月辉共鸣",
+    "CY024A3": "液桥合并轻响；无雨声或近雷",
+    "CY024A6": "云内闷雷与开阔远空感，避让咏唱",
+    "CY024A7": "对白后的闷雷，非最终落水重音",
+    "CY024A4": "短露火焰噼啪；不能提前熄火",
+    "CY024A8": "闷雷经殿内回响",
+    "CY024A5": "收声处呼吸与远雷；末字接水雷",
+    "CY024B": "水幕爆响、雷击低频、持续瀑声；紫电短促爆裂后先熄",
+    "CY024B1": "余浪拍石、木椅滑擦翻转、教徒短促失衡声",
+    "CY027": "水声退低、末次拍翼、鞋尖触水与湿地脚步",
+    "CY027A": "教堂回声恢复",
+    "CY027B": "短答后留半拍，接气流",
+    "CY027B1": "水流旋起、低沉龙鸣",
+    "CY027B2": "羽翼振响、暗金魔法低鸣",
+    "CY027B3": "掠空气流、羽翼振动，空间转开阔",
+    "CY027C": "水龙掠空、羽翼气流，接远雷",
+    "CY025": "水流升空尾音、远雷渐起",
+    "CY027E": "雨渐密，三声间隔闷雷对应闪光",
+    "CY027E1": "近处雨滴、湿地涟漪、远雷尾音",
+    "CY027D0": "雨中密集脚步、甲片与长枪、一声无词示警",
+    "CY027D": "同时起步、衣料与武器破风",
+    "CY027E2": "短促魔法爆鸣、玻璃共振，尾声沉下",
+    "CY027F": "雨渐停、滴水、湿地落脚、碎石轻响；战斗声停止",
+    "CY027F1": "踝扣打开、链条落在脚托旁",
+    "CY027G": "扶持衣料、腕扣与锁链声",
+    "CY028A": "锁链余响、滴水、扶稳时的衣料",
+    "CY028A2": "滴水与安静呼吸",
+    "CY028B": "轻微呼吸、初蓄微光",
+    "CY028C": "水汽蒸散轻响与呼吸",
+    "CY029": "呼吸与滴水；让父亲呼唤清楚",
+    "CY029E": "呼唤尾音消散，呼吸与滴水",
+    "CY029E1": "呼吸、微光持续；不重复起咏",
+    "CY029E2": "安静环境，咏唱跨切",
+    "CY029E3": "火种轻微燃烧声，咏唱在前",
+    "CY029E4": "攥紧衣襟轻响，咏唱在前",
+    "CY029B1": "轻微火种声与呼吸",
+    "CY029B2": "环境压低，贴近视点的火焰掠过声",
+    "CY029B": "短促腾燃、木料燃烧、锁链声",
+    "CY029C": "呼吸一滞、衣袖滑落",
+    "CY029D": "衣裙摩擦、短促呼吸",
+    "CY028": "抱持衣料与呼吸",
+    "CY029A": "衣袖轻擦、呼吸渐稳",
+    "CY030": "脚步渐远；滴水与空架火声留在殿内",
+    "CY031": "街市叫卖、碗勺轻响",
+    "CY031A": "让座与衣料细响、街市底声",
+    "CY032A": "勺柄轻触、街市声",
+    "CY033": "杯子轻碰、自然街市声",
+    "CY034A": "柔和街市、轻微餐具；不放大咀嚼",
+    "CY034": "小鱼笑与回望呼吸；最后4秒街市自然停留"
+  },
+  "effects_status": "设计说明 · 未制作音效音轨",
+  "effects_note": "从当前声音设计整理，少量动作拟音为本轮提案；原始声音说明在逐镜详情保留。",
+  "audition_note": "新增8首，S02/S03共23镜各3个新候选；其余92镜和四个实际标记保持。配乐适配与具体原曲区间待作者试听，未加响度或变速制造史诗感。",
+  "music_manifests": [
+    "资产/生成记录/BGM重选-音频-v001.json",
+    "资产/生成记录/BGM重选-音频-v002.json",
+    "资产/生成记录/BGM重选-音频-v003.json",
+    "资产/生成记录/BGM重选-音频-v004.json"
+  ],
+  "author_feedback": {
+    "S05_S06": "作者认为当前选曲可以，保持候选和留白；尚未锁定具体原曲区间。",
+    "S02_S04": "2026-10-24：三场仍无合适曲目，新增10首并逐镜换入新候选；旧候选在v002保留。",
+    "method": "逐镜候选独立比较，不自动每镜切换音乐。",
+    "S04": "2026-10-24：作者选定沉默的镇魂曲，实际标记CY018，S04完整保留。",
+    "S02_S03": "方向正确，但史诗感不足；第四轮改以TSFH、Audiomachine及天国王朝比较更大的管弦/合唱与推进规模。"
+  },
+  "shot_overrides": {
+    "CY001": {
+      "candidates": [
+        "BGM-CY-MT-03",
+        "BGM-CY-MT-15",
+        "BGM-CY-NA-03"
+      ],
+      "note": "阳光与饭碗，比较童话日常、亲近感和轻柔幻想；仍可选择只留街声",
+      "status": "新候选 · 待作者试听",
+      "audition_question": "阳光与饭碗，比较童话日常、亲近感和轻柔幻想；仍可选择只留街声"
+    },
+    "CY002": {
+      "candidates": [
+        "BGM-CY-MT-39",
+        "BGM-CY-NA-03",
+        "BGM-CY-LR-15"
+      ],
+      "note": "回望尚未求救，比较内心距离与神秘感，避免提前悲壮",
+      "status": "新候选 · 待作者试听",
+      "audition_question": "回望尚未求救，比较内心距离与神秘感，避免提前悲壮"
+    },
+    "CY003": {
+      "candidates": [
+        "BGM-CY-TIME-001",
+        "BGM-CY-MT-15",
+        "BGM-CY-NA-03"
+      ],
+      "note": "第一次邀请，保留首尾呼应并比较更轻的陌生人善意",
+      "status": "新候选 · 待作者试听",
+      "audition_question": "第一次邀请，保留首尾呼应并比较更轻的陌生人善意"
+    },
+    "CY003A": {
+      "candidates": [
+        "BGM-CY-MT-15",
+        "BGM-CY-MT-39",
+        "BGM-CY-NA-03"
+      ],
+      "note": "饭碗悬着无人接，比较温暖的等待与微小失落，不催情",
+      "status": "新候选 · 待作者试听",
+      "audition_question": "饭碗悬着无人接，比较温暖的等待与微小失落，不催情"
+    },
+    "CY003B": {
+      "candidates": [
+        "BGM-CY-TIME-001",
+        "BGM-CY-MT-20",
+        "BGM-CY-MT-39"
+      ],
+      "note": "眼底映出小鱼，比较克制感谢与压住的悲伤",
+      "status": "新候选 · 待作者试听",
+      "audition_question": "眼底映出小鱼，比较克制感谢与压住的悲伤"
+    },
+    "CY003C": {
+      "candidates": [
+        "BGM-CY-MT-18",
+        "BGM-CY-MT-84",
+        "BGM-CY-LR-04"
+      ],
+      "note": "掀饭是突变，比较短促惊愕、危险预感；拍碗声必须先到",
+      "status": "新候选 · 待作者试听",
+      "audition_question": "掀饭是突变，比较短促惊愕、危险预感；拍碗声必须先到"
+    },
+    "CY004": {
+      "candidates": [
+        "BGM-CY-MT-13",
+        "BGM-CY-MT-84",
+        "BGM-CY-LR-04"
+      ],
+      "note": "听见火祭消息，比较恐惧与危机，不把教徒对白盖住",
+      "status": "新候选 · 待作者试听",
+      "audition_question": "听见火祭消息，比较恐惧与危机，不把教徒对白盖住"
+    },
+    "CY004A": {
+      "candidates": [
+        "BGM-CY-NA-02",
+        "BGM-CY-MT-63",
+        "BGM-CY-MT-15"
+      ],
+      "note": "放下空碗去求援，比较紧迫、主动选择与善意驱动",
+      "status": "新候选 · 待作者试听",
+      "audition_question": "放下空碗去求援，比较紧迫、主动选择与善意驱动"
+    },
+    "CY004B": {
+      "candidates": [
+        "BGM-CY-TS-19",
+        "BGM-CY-KH-05",
+        "BGM-CY-TS-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-FR-13",
+        "BGM-CY-AM-30",
+        "BGM-CY-AM-01"
+      ],
+      "note": "第四轮 · 史诗尺度的求助与抉择，比较宏大推进和对白留白；镜头动作：暮色里的长阶",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的求助与抉择，比较宏大推进和对白留白"
+    },
+    "CY004C": {
+      "candidates": [
+        "BGM-CY-KH-09",
+        "BGM-CY-TS-19",
+        "BGM-CY-TS-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-30",
+        "BGM-CY-FR-13",
+        "BGM-CY-AM-01"
+      ],
+      "note": "第四轮 · 史诗尺度的求助与抉择，比较宏大推进和对白留白；镜头动作：长枪拦路",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的求助与抉择，比较宏大推进和对白留白"
+    },
+    "CY004D": {
+      "candidates": [
+        "BGM-CY-KH-05",
+        "BGM-CY-TS-19",
+        "BGM-CY-KH-09"
+      ],
+      "previous_candidates": [
+        "BGM-CY-FR-13",
+        "BGM-CY-AM-30",
+        "BGM-CY-AM-01"
+      ],
+      "note": "第四轮 · 史诗尺度的求助与抉择，比较宏大推进和对白留白；镜头动作：让她进来",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的求助与抉择，比较宏大推进和对白留白"
+    },
+    "CY005": {
+      "candidates": [
+        "BGM-CY-KH-09",
+        "BGM-CY-TS-19",
+        "BGM-CY-KH-05"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-30",
+        "BGM-CY-AM-01",
+        "BGM-CY-FR-13"
+      ],
+      "note": "第四轮 · 史诗尺度的求助与抉择，比较宏大推进和对白留白；镜头动作：独座大殿",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的求助与抉择，比较宏大推进和对白留白"
+    },
+    "CY006": {
+      "candidates": [
+        "BGM-CY-TS-19",
+        "BGM-CY-KH-09",
+        "BGM-CY-TS-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-01",
+        "BGM-CY-FR-13",
+        "BGM-CY-AM-30"
+      ],
+      "note": "第四轮 · 史诗尺度的求助与抉择，比较宏大推进和对白留白；镜头动作：请救救她",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的求助与抉择，比较宏大推进和对白留白"
+    },
+    "CY007": {
+      "candidates": [
+        "BGM-CY-KH-09",
+        "BGM-CY-TS-19",
+        "BGM-CY-TS-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-30",
+        "BGM-CY-AM-01",
+        "BGM-CY-FR-13"
+      ],
+      "note": "第四轮 · 史诗尺度的求助与抉择，比较宏大推进和对白留白；镜头动作：收住迟疑的拒绝",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的求助与抉择，比较宏大推进和对白留白"
+    },
+    "CY008": {
+      "candidates": [
+        "BGM-CY-TS-19",
+        "BGM-CY-KH-09",
+        "BGM-CY-TS-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-01",
+        "BGM-CY-FR-13",
+        "BGM-CY-AM-30"
+      ],
+      "note": "第四轮 · 史诗尺度的求助与抉择，比较宏大推进和对白留白；镜头动作：没有回答",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的求助与抉择，比较宏大推进和对白留白"
+    },
+    "CY009": {
+      "candidates": [
+        "BGM-CY-TS-01",
+        "BGM-CY-TS-19",
+        "BGM-CY-KH-05"
+      ],
+      "previous_candidates": [
+        "BGM-CY-FR-13",
+        "BGM-CY-AM-30",
+        "BGM-CY-AM-01"
+      ],
+      "note": "第四轮 · 史诗尺度的求助与抉择，比较宏大推进和对白留白；镜头动作：那我自己去",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的求助与抉择，比较宏大推进和对白留白"
+    },
+    "CY010": {
+      "candidates": [
+        "BGM-CY-KH-09",
+        "BGM-CY-TS-19",
+        "BGM-CY-KH-05"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-30",
+        "BGM-CY-FR-13",
+        "BGM-CY-AM-01"
+      ],
+      "note": "第四轮 · 史诗尺度的求助与抉择，比较宏大推进和对白留白；镜头动作：扶手上的迟疑",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的求助与抉择，比较宏大推进和对白留白"
+    },
+    "CY009A": {
+      "candidates": [
+        "BGM-CY-TS-19",
+        "BGM-CY-KH-09",
+        "BGM-CY-TS-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-01",
+        "BGM-CY-AM-30",
+        "BGM-CY-FR-13"
+      ],
+      "note": "第四轮 · 史诗尺度的求助与抉择，比较宏大推进和对白留白；镜头动作：长殿尽头的蓝点",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的求助与抉择，比较宏大推进和对白留白"
+    },
+    "CY010A": {
+      "candidates": [
+        "BGM-CY-KH-15",
+        "BGM-CY-TS-05",
+        "BGM-CY-TS-07"
+      ],
+      "previous_candidates": [
+        "BGM-CY-FR-40",
+        "BGM-CY-AM-14",
+        "BGM-CY-AM-18"
+      ],
+      "note": "第四轮 · 史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋；镜头动作：等他们离开",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋"
+    },
+    "CY011": {
+      "candidates": [
+        "BGM-CY-TS-05",
+        "BGM-CY-KH-15",
+        "BGM-CY-TS-07"
+      ],
+      "previous_candidates": [
+        "BGM-CY-FR-40",
+        "BGM-CY-AM-14",
+        "BGM-CY-AM-18"
+      ],
+      "note": "第四轮 · 史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋；镜头动作：鲸帽卡住了",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋"
+    },
+    "CY011A": {
+      "candidates": [
+        "BGM-CY-KH-15",
+        "BGM-CY-TS-07",
+        "BGM-CY-AU-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-18",
+        "BGM-CY-FR-40",
+        "BGM-CY-AM-14"
+      ],
+      "note": "第四轮 · 史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋；镜头动作：脱开石沿，挤进空堂",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋"
+    },
+    "CY012": {
+      "candidates": [
+        "BGM-CY-TS-07",
+        "BGM-CY-KH-15",
+        "BGM-CY-TS-05"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-18",
+        "BGM-CY-AM-14",
+        "BGM-CY-FR-40"
+      ],
+      "note": "第四轮 · 史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋；镜头动作：空荡荡的教堂",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋"
+    },
+    "CY013": {
+      "candidates": [
+        "BGM-CY-AU-01",
+        "BGM-CY-TS-19",
+        "BGM-CY-KH-15"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-01",
+        "BGM-CY-AM-18",
+        "BGM-CY-FR-13"
+      ],
+      "note": "第四轮 · 史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋；镜头动作：她发现了宝宝",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋"
+    },
+    "CY013A": {
+      "candidates": [
+        "BGM-CY-KH-15",
+        "BGM-CY-TS-05",
+        "BGM-CY-TS-07"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-14",
+        "BGM-CY-FR-40",
+        "BGM-CY-AM-18"
+      ],
+      "note": "第四轮 · 史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋；镜头动作：赤足、脚托与踝链",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋"
+    },
+    "CY015": {
+      "candidates": [
+        "BGM-CY-AU-01",
+        "BGM-CY-TS-19",
+        "BGM-CY-TS-07"
+      ],
+      "previous_candidates": [
+        "BGM-CY-FR-13",
+        "BGM-CY-AM-01",
+        "BGM-CY-AM-18"
+      ],
+      "note": "第四轮 · 史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋；镜头动作：偷偷的保证",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋"
+    },
+    "CY016": {
+      "candidates": [
+        "BGM-CY-TS-05",
+        "BGM-CY-KH-15",
+        "BGM-CY-AU-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-FR-40",
+        "BGM-CY-AM-14",
+        "BGM-CY-AM-18"
+      ],
+      "note": "第四轮 · 史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋；镜头动作：试锁，再拉链",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋"
+    },
+    "CY016A1": {
+      "candidates": [
+        "BGM-CY-KH-15",
+        "BGM-CY-TS-07",
+        "BGM-CY-AU-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-18",
+        "BGM-CY-AM-14",
+        "BGM-CY-AM-01"
+      ],
+      "note": "第四轮 · 史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋；镜头动作：烛泪又落下一滴",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋"
+    },
+    "CY016A": {
+      "candidates": [
+        "BGM-CY-AU-01",
+        "BGM-CY-TS-19",
+        "BGM-CY-KH-15"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-01",
+        "BGM-CY-FR-13",
+        "BGM-CY-AM-18"
+      ],
+      "note": "第四轮 · 史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋；镜头动作：已经试了很久",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋"
+    },
+    "CY016B": {
+      "candidates": [
+        "BGM-CY-TS-05",
+        "BGM-CY-KH-15",
+        "BGM-CY-TS-07"
+      ],
+      "previous_candidates": [
+        "BGM-CY-FR-40",
+        "BGM-CY-AM-14",
+        "BGM-CY-AM-26"
+      ],
+      "note": "第四轮 · 史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋；镜头动作：停在锁扣上的手",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋"
+    },
+    "CY016B1": {
+      "candidates": [
+        "BGM-CY-TS-07",
+        "BGM-CY-TS-05",
+        "BGM-CY-KH-15"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-26",
+        "BGM-CY-AM-14",
+        "BGM-CY-FR-40"
+      ],
+      "note": "第四轮 · 史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋；镜头动作：先听见，再看见",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋"
+    },
+    "CY016C": {
+      "candidates": [
+        "BGM-CY-KH-15",
+        "BGM-CY-TS-07",
+        "BGM-CY-TS-05"
+      ],
+      "previous_candidates": [
+        "BGM-CY-AM-14",
+        "BGM-CY-AM-26",
+        "BGM-CY-FR-40"
+      ],
+      "note": "第四轮 · 史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋；镜头动作：灯照见了她",
+      "status": "史诗方向新候选 · 待作者试听",
+      "audition_question": "史诗尺度的潜入与解救，比较更强的压迫和推进，避免过早凯旋"
+    },
+    "CY016D": {
+      "candidates": [
+        "BGM-CY-FR-53",
+        "BGM-CY-AM-26",
+        "BGM-CY-RZ-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-63",
+        "BGM-CY-NA-02",
+        "BGM-CY-MT-84"
+      ],
+      "note": "第三轮新候选：冲下长阶阻火，比较挣扎行动与力量差",
+      "status": "待作者试听",
+      "audition_question": "冲下长阶阻火，比较挣扎行动与力量差"
+    },
+    "CY017": {
+      "candidates": [
+        "BGM-CY-AM-26",
+        "BGM-CY-RZ-01",
+        "BGM-CY-PN-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-NA-06",
+        "BGM-CY-MT-75",
+        "BGM-CY-MT-89"
+      ],
+      "note": "第三轮新候选：神明在等你，比较恐惧与被牺牲者视角",
+      "status": "待作者试听",
+      "audition_question": "神明在等你，比较恐惧与被牺牲者视角"
+    },
+    "CY018": {
+      "candidates": [
+        "BGM-CY-FR-53",
+        "BGM-CY-AM-26",
+        "BGM-CY-RZ-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-84",
+        "BGM-CY-MT-63",
+        "BGM-CY-LR-05"
+      ],
+      "note": "第三轮新候选：撞偏火把，比较抵抗和危机，撞击音效先落点",
+      "status": "待作者试听",
+      "audition_question": "撞偏火把，比较抵抗和危机，撞击音效先落点"
+    },
+    "CY019": {
+      "candidates": [
+        "BGM-CY-FR-53",
+        "BGM-CY-PN-01",
+        "BGM-CY-RZ-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-15",
+        "BGM-CY-MT-75",
+        "BGM-CY-NA-06"
+      ],
+      "note": "第三轮新候选：小身体挡路，比较反抗与孩子的脆弱",
+      "status": "待作者试听",
+      "audition_question": "小身体挡路，比较反抗与孩子的脆弱"
+    },
+    "CY020": {
+      "candidates": [
+        "BGM-CY-RZ-01",
+        "BGM-CY-PN-01",
+        "BGM-CY-AM-26"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-20",
+        "BGM-CY-MT-63",
+        "BGM-CY-NA-11"
+      ],
+      "note": "第三轮新候选：别碰她，比较保护性愤怒和心痛，喊声优先",
+      "status": "待作者试听",
+      "audition_question": "别碰她，比较保护性愤怒和心痛，喊声优先"
+    },
+    "CY020B": {
+      "candidates": [
+        "BGM-CY-AM-26",
+        "BGM-CY-FR-53",
+        "BGM-CY-RZ-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-75",
+        "BGM-CY-NA-06",
+        "BGM-CY-LR-05"
+      ],
+      "note": "第三轮新候选：教主逼近，比较力量差和持续施压",
+      "status": "待作者试听",
+      "audition_question": "教主逼近，比较力量差和持续施压"
+    },
+    "CY020A": {
+      "candidates": [
+        "BGM-CY-RZ-01",
+        "BGM-CY-PN-01",
+        "BGM-CY-AM-26"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-18",
+        "BGM-CY-MT-13",
+        "BGM-CY-NA-11"
+      ],
+      "note": "第三轮新候选：失守落地，比较努力落空，落地后允许停乐",
+      "status": "待作者试听",
+      "audition_question": "失守落地，比较努力落空，落地后允许停乐"
+    },
+    "CY021": {
+      "candidates": [
+        "BGM-CY-PN-01",
+        "BGM-CY-RZ-01",
+        "BGM-CY-AM-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-20",
+        "BGM-CY-MT-39",
+        "BGM-CY-NA-11"
+      ],
+      "note": "第三轮新候选：求父亲放过孩子，比较个人哀求而非宏大仪式",
+      "status": "待作者试听",
+      "audition_question": "求父亲放过孩子，比较个人哀求而非宏大仪式"
+    },
+    "CY021B": {
+      "candidates": [
+        "BGM-CY-PN-01",
+        "BGM-CY-RZ-01",
+        "BGM-CY-AM-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-15",
+        "BGM-CY-MT-20",
+        "BGM-CY-MT-13"
+      ],
+      "note": "第三轮新候选：攥住袍尾，比较脆弱坚持和将失去的力气",
+      "status": "待作者试听",
+      "audition_question": "攥住袍尾，比较脆弱坚持和将失去的力气"
+    },
+    "CY021A": {
+      "candidates": [
+        "BGM-CY-AM-26",
+        "BGM-CY-FR-53",
+        "BGM-CY-RZ-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-42",
+        "BGM-CY-NA-06",
+        "BGM-CY-LR-05"
+      ],
+      "note": "第三轮新候选：第二支火把，比较冷酷决定与危险升级",
+      "status": "待作者试听",
+      "audition_question": "第二支火把，比较冷酷决定与危险升级"
+    },
+    "CY022A": {
+      "candidates": [
+        "BGM-CY-PN-01",
+        "BGM-CY-RZ-01",
+        "BGM-CY-AM-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-20",
+        "BGM-CY-MT-13",
+        "BGM-CY-NA-11"
+      ],
+      "note": "第三轮新候选：衣摆滑脱，比较无力，呼吸和衣料可独立留白",
+      "status": "待作者试听",
+      "audition_question": "衣摆滑脱，比较无力，呼吸和衣料可独立留白"
+    },
+    "CY022A1": {
+      "candidates": [
+        "BGM-CY-AM-26",
+        "BGM-CY-RZ-01",
+        "BGM-CY-PN-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-89",
+        "BGM-CY-NA-11",
+        "BGM-CY-LR-13"
+      ],
+      "note": "第三轮新候选：持火登阶，比较仪式压迫与受难者视角",
+      "status": "待作者试听",
+      "audition_question": "持火登阶，比较仪式压迫与受难者视角"
+    },
+    "CY022": {
+      "candidates": [
+        "BGM-CY-AM-26",
+        "BGM-CY-FR-53",
+        "BGM-CY-RZ-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-04",
+        "BGM-CY-LR-05",
+        "BGM-CY-NA-11"
+      ],
+      "note": "第三轮新候选：黑焰初起，比较失控与不可逆转，不写成英雄施法",
+      "status": "待作者试听",
+      "audition_question": "黑焰初起，比较失控与不可逆转，不写成英雄施法"
+    },
+    "CY022B": {
+      "candidates": [
+        "BGM-CY-RZ-01",
+        "BGM-CY-PN-01",
+        "BGM-CY-AM-26"
+      ],
+      "previous_candidates": [
+        "BGM-CY-MT-13",
+        "BGM-CY-MT-20",
+        "BGM-CY-NA-11"
+      ],
+      "note": "第三轮新候选：火隙痛苦，比较悲剧与恐惧，避免美化受难",
+      "status": "待作者试听",
+      "audition_question": "火隙痛苦，比较悲剧与恐惧，避免美化受难"
+    },
+    "CY022B2": {
+      "candidates": [
+        "BGM-CY-RZ-01",
+        "BGM-CY-AM-26",
+        "BGM-CY-PN-01"
+      ],
+      "previous_candidates": [
+        "BGM-CY-NA-11",
+        "BGM-CY-MT-89",
+        "BGM-CY-LR-05"
+      ],
+      "note": "第三轮新候选：祭坛被吞没，比较绝望规模与孩子视角；长曲仅作整曲试听，段落待选",
+      "status": "待作者试听",
+      "audition_question": "祭坛被吞没，比较绝望规模与孩子视角；长曲仅作整曲试听，段落待选"
+    }
+  },
+  "previous": "后期/BGM重选-v003/预演编排.json",
+  "author_marks_record": "后期/BGM重选-v004/作者已选记录.json"
+}

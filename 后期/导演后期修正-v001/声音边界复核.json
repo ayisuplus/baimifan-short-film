@@ -1,0 +1,2508 @@
+{
+  "schema": "bmr-audio-boundary-review-v1",
+  "status": "review_only_no_audio_or_video_changes",
+  "sources": [
+    {
+      "path": "后期/导演全片审查-v001/当前44批审查清单.json",
+      "sha256": "4fde52d09abcec713667cb6e03e6ceb55068729ec828f8f183298b436ca4b2f7"
+    },
+    {
+      "path": "后期/生成收口-v025/配音对位方案.json",
+      "sha256": "03ec8674ff5f38694d0738d35149b7addd23a12308172b482166bd33057e373b"
+    },
+    {
+      "path": "后期/生成收口-v025/本轮对位采用.json",
+      "sha256": "5a277634fadee443153e46b9ea32f42cb5fe4082f39e30f2b6231197dab48bc8"
+    },
+    {
+      "path": "后期/生成收口-v025/实际BGM剪辑.json",
+      "sha256": "d4a6c3c9f96afc67bccaed4af924a4d14b005ae867114e25c5b2fb5bf99586ce"
+    }
+  ],
+  "clock": "所有local_start/end基于当前清单film_start（v025故事时钟），不是回片源文件实际镜界。整数帧落点需声轨按样本精确保持，画面按24fps选帧，不把音频尾向下取整。",
+  "policy": [
+    "63条作者现选录音各一次，完整file_in/out、rate=1；不复用历史母版造成重复，不自动改选声。",
+    "当前清单相对v025仅21批千问回应+0.45秒，已写入局部9.75–10.900042。",
+    "允许只重定时画面；画音解链。若整条时间线删时长，应从干声+BGM源重新装配，不直接剪包含对白的全片混音。",
+    "对白间空白/末尾余量不等于可裁上限；还需动作完整、气口、受保护停顿与BGM乐句。",
+    "BGM不得整体倍速/循环补长；动作点按CY镜与实际动作重新锚定。原瞬态只是候选，不能宣称听审确认重拍。"
+  ],
+  "protected_beats": [
+    {
+      "name": "Kimi显形",
+      "batch": 18,
+      "local_start": 0,
+      "local_end": 4,
+      "duration": 4
+    },
+    {
+      "name": "Claude被父亲打断的停咏",
+      "batch": 38,
+      "local_start": 8.24,
+      "local_end": 14.24,
+      "duration": 6
+    },
+    {
+      "name": "祈愿到术名",
+      "batch": 31,
+      "local_start": 6.816687,
+      "local_end": 7.616687,
+      "duration": 0.8
+    },
+    {
+      "name": "片尾无BGM",
+      "batch": 44,
+      "local_start": 5,
+      "local_end": 9,
+      "duration": 4
+    }
+  ],
+  "validation": {
+    "batches": 44,
+    "voice_cues": 63,
+    "all_source_sha256_match": true,
+    "all_file_durations_match": true,
+    "timeline_overlaps": [],
+    "auditory_review": false,
+    "lipsync_verified": false
+  },
+  "batches": [
+    {
+      "batch_number": 1,
+      "id": "GB001",
+      "film_start_v025": 0,
+      "baseline_duration": 14.98,
+      "current_video_duration": 15.083333,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY003-01",
+          "shot_id": "CY003",
+          "role": "小鱼",
+          "text_ja": "少し食べる？",
+          "local_start": 9.8,
+          "local_end": 12.88,
+          "duration": 3.08,
+          "file": "后期/日语配音交接-v001/试音候选-v001/VO-CY003-01__Xiaoyu__ja__v001-trialA.wav",
+          "file_in": 0,
+          "file_out": 3.08,
+          "rate": 1,
+          "sha256": "d16b4d027f5979490b51df619ef2588d96299fa7780318465e9066dacfdea92c",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY003"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 12.88,
+      "tail_after_last_voice_not_automatic_cut_budget": 2.1,
+      "tightening_constraint": "按下列整句文件边界保留；无台词不表示拟音/BGM可任意硬切。",
+      "cross_shot_reposition": "可在同场听者/道具反应上作J/L剪辑，需明确说话者和因果；不得自动跨场移动。",
+      "bgm_off_intersections_v025": [
+        {
+          "id": "S01",
+          "local_start": 0,
+          "local_end": 5,
+          "reason": "街市环境声，暂不进音乐"
+        }
+      ]
+    },
+    {
+      "batch_number": 2,
+      "id": "GB002",
+      "film_start_v025": 14.98,
+      "baseline_duration": 14.692729,
+      "current_video_duration": 15.083333,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY003B-01",
+          "shot_id": "CY003B",
+          "role": "Claude",
+          "text_ja": "ありがとう。でも、私……",
+          "local_start": 1.5,
+          "local_end": 4.652729,
+          "duration": 3.152729167,
+          "file": "后期/日语配音修正-v005/干声/VO-CY003B-01__Claude__ja__v005.wav",
+          "file_in": 0,
+          "file_out": 3.1527291666666666,
+          "rate": 1,
+          "sha256": "be47da3f7db58f461a22bac4a2f44e4b35d424ef336a91165e5b5a9aa0a7d7e5",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY003B"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY004-01",
+          "shot_id": "CY004",
+          "role": "教徒",
+          "text_ja": "今宵、クロードを火の供物に。",
+          "local_start": 7.092729,
+          "local_end": 12.092729,
+          "duration": 5.0,
+          "file": "后期/日语配音交接-v001/试音候选-v001/VO-CY004-01__Cultist__ja__v001-trial.wav",
+          "file_in": 0,
+          "file_out": 5.0,
+          "rate": 1,
+          "sha256": "c374e54c0584c92951c7a268e3cc08969429963a53a8d16bd66346a1974c0949",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY004"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 12.092729,
+      "tail_after_last_voice_not_automatic_cut_budget": 2.6,
+      "tightening_constraint": "Claude整句到4.652729；维持未完话被打断的设计，拍碗接点应在词尾后约0.04秒，即约4.692729。教徒7.092729–12.092729须完整。",
+      "cross_shot_reposition": "Claude可在眼睛/碗的反应镜上继续，但不能用拍击大声盖住词尾；教徒可跨关门/孩子反应镜作画外，不得改成另一人发言。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 3,
+      "id": "GB003",
+      "film_start_v025": 29.672729,
+      "baseline_duration": 11,
+      "current_video_duration": 11.541667,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY004D-01",
+          "shot_id": "CY004D",
+          "role": "GPT",
+          "text_ja": "通してあげて。",
+          "local_start": 5.0,
+          "local_end": 7.2,
+          "duration": 2.2,
+          "file": "后期/日语配音交接-v001/试音候选-v001/VO-CY004D-01__GPT__ja__v001-candA.wav",
+          "file_in": 0,
+          "file_out": 2.2,
+          "rate": 1,
+          "sha256": "b5e105924623128798c4128731ea0cafc38a941f538b0dcbf94664f3443250d6",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY004D"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 7.2,
+      "tail_after_last_voice_not_automatic_cut_budget": 3.8,
+      "tightening_constraint": "GPT5–7.2为画外放行指令。",
+      "cross_shot_reposition": "允许提前到守卫抬杆前形成命令→放行因果；整句2.2秒不变，与前批教徒台词不重叠。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 4,
+      "id": "GB004",
+      "film_start_v025": 40.672729,
+      "baseline_duration": 14,
+      "current_video_duration": 14.375,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY006-01",
+          "shot_id": "CY006",
+          "role": "小鱼",
+          "text_ja": "今夜、クロードが焼き殺されちゃう。助けてくれる？",
+          "local_start": 0.6,
+          "local_end": 5.18,
+          "duration": 4.58,
+          "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY006-01__Xiaoyu__ja__v001.wav",
+          "file_in": 0,
+          "file_out": 4.58,
+          "rate": 1,
+          "sha256": "fb26f19b10a8a9e26edfb5420bdc42f647ff8e2c10ca96a9d4ffb73e035f2349",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY006"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY007-01",
+          "shot_id": "CY007",
+          "role": "GPT",
+          "text_ja": "教会のことに、関わるべきじゃない。",
+          "local_start": 6.3,
+          "local_end": 9.73,
+          "duration": 3.43,
+          "file": "后期/日语配音修正-v004/干声/VO-CY007-01__GPT__ja__v004.wav",
+          "file_in": 0,
+          "file_out": 3.43,
+          "rate": 1,
+          "sha256": "569413d7d5d74b6c1f9e179a0b6ad5be19b906e76ad63b48bdffd2b96a29bf4e",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY007"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY008-01",
+          "shot_id": "CY008",
+          "role": "小鱼",
+          "text_ja": "でも……死んじゃうよ。",
+          "local_start": 10.5,
+          "local_end": 13.219979,
+          "duration": 2.719979167,
+          "file": "后期/日语配音修正-v004/干声/VO-CY008-01__Xiaoyu__ja__v004.wav",
+          "file_in": 0,
+          "file_out": 2.7199791666666666,
+          "rate": 1,
+          "sha256": "b351bd6289a628c1d4b8dbeccd89e105b408d54cc9fdd7babb1c4d1f0f8d6ded",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY008"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 13.219979,
+      "tail_after_last_voice_not_automatic_cut_budget": 0.780021,
+      "tightening_constraint": "按下列整句文件边界保留；无台词不表示拟音/BGM可任意硬切。",
+      "cross_shot_reposition": "可在同场听者/道具反应上作J/L剪辑，需明确说话者和因果；不得自动跨场移动。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 5,
+      "id": "GB004M",
+      "film_start_v025": 54.672729,
+      "baseline_duration": 14.92,
+      "current_video_duration": 15.083333,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY008M-01",
+          "shot_id": "CY008M",
+          "role": "恶魔GPT",
+          "text_ja": "協定を忘れないで。教会のことに手を出しちゃだめ。",
+          "local_start": 0.25,
+          "local_end": 3.83,
+          "duration": 3.58,
+          "file": "资产/声音/王宫内心戏-v001/VO-CY008M-01__恶魔GPT__ja__v001.wav",
+          "file_in": 0,
+          "file_out": 3.58,
+          "rate": 1,
+          "sha256": "a0b46f6a411c25619ff2d2a689bcb12d751073abb33268de66810ffe189e3548",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY008M"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY008M-02",
+          "shot_id": "CY008M",
+          "role": "天使GPT",
+          "text_ja": "でも、この子を見てよ……あの人たち、正気なの？本当にクロードを焼き殺そうとしてるんだよ！",
+          "local_start": 4.03,
+          "local_end": 14.039979,
+          "duration": 10.009979167,
+          "file": "后期/日语配音修正-v004/干声/VO-CY008M-02__AngelGPT__ja__v004.wav",
+          "file_in": 0,
+          "file_out": 10.009979166666668,
+          "rate": 1,
+          "sha256": "db7f7afd4c2d8bf85baf3b67f46de36e4156d5f8d452ccf8d06263c7fb038f6c",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY008M"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 14.039979,
+      "tail_after_last_voice_not_automatic_cut_budget": 0.880021,
+      "tightening_constraint": "两句合计13.589979秒，句间0.2秒，当前0.25–14.039979连续对白跨度13.789979秒。无需缩批长，优先左右裁切聚焦。",
+      "cross_shot_reposition": "可在左恶魔/右天使/现实GPT反应之间切，保持原声次序与每句原速；非发言分身嘴动可局部冻结。不要把两句叠加或把天使长句删短。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 6,
+      "id": "GB005",
+      "film_start_v025": 69.592729,
+      "baseline_duration": 14,
+      "current_video_duration": 14.0,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY009-01",
+          "shot_id": "CY009",
+          "role": "小鱼",
+          "text_ja": "じゃあ、自分で行く。",
+          "local_start": 0.0,
+          "local_end": 1.7,
+          "duration": 1.7,
+          "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY009-01__Xiaoyu__ja__v001.wav",
+          "file_in": 0,
+          "file_out": 1.7,
+          "rate": 1,
+          "sha256": "7f78d5caa97b90b5aad17ef49fe036104796f618f11a97b3493749d812ca68e3",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY009"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 1.7,
+      "tail_after_last_voice_not_automatic_cut_budget": 12.3,
+      "tightening_constraint": "小鱼0–1.7采用v001，不能错用旧表2.38秒。后段无对白不等于无情绪。",
+      "cross_shot_reposition": "可留在孩子离开镜，后续手部和肩后可缩；不要把末字切到门外而丢说话目标。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 7,
+      "id": "GB006",
+      "film_start_v025": 83.592729,
+      "baseline_duration": 13,
+      "current_video_duration": 13.666667,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY010A-01",
+          "shot_id": "CY010A",
+          "role": "教徒",
+          "text_ja": "こくじんの薪を、一人一本持ってこい。",
+          "local_start": 0.0,
+          "local_end": 2.87,
+          "duration": 2.87,
+          "file": "后期/日语配音修正-v004/干声/VO-CY010A-01__Cultist__ja__v004.wav",
+          "file_in": 0,
+          "file_out": 2.87,
+          "rate": 1,
+          "sha256": "af829992a3e96d55231277be997093cbc70116075a86423b7caab077eeed7571",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY010A"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 2.87,
+      "tail_after_last_voice_not_automatic_cut_budget": 10.13,
+      "tightening_constraint": "按下列整句文件边界保留；无台词不表示拟音/BGM可任意硬切。",
+      "cross_shot_reposition": "可在同场听者/道具反应上作J/L剪辑，需明确说话者和因果；不得自动跨场移动。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 8,
+      "id": "GB007",
+      "film_start_v025": 96.592729,
+      "baseline_duration": 15.0,
+      "current_video_duration": 15.0,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY015-01",
+          "shot_id": "CY015",
+          "role": "Claude",
+          "text_ja": "どうしてここに？",
+          "local_start": 5.1,
+          "local_end": 6.72,
+          "duration": 1.62,
+          "file": "后期/日语配音修正-v004/干声/VO-CY015-01__Claude__ja__v004.wav",
+          "file_in": 0,
+          "file_out": 1.62,
+          "rate": 1,
+          "sha256": "d92a8b9ee997f0731f06edc2d40f90858b6804ae428f433bcb810c7ebda97db2",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY015"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY015-02",
+          "shot_id": "CY015",
+          "role": "小鱼",
+          "text_ja": "私が連れ出すよ。",
+          "local_start": 7.02,
+          "local_end": 8.52,
+          "duration": 1.5,
+          "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY015-02__Xiaoyu__ja__v001.wav",
+          "file_in": 0,
+          "file_out": 1.5,
+          "rate": 1,
+          "sha256": "46e685533eb52b5e50972554a9adf9a74fd10bd4575a68aab0f0c994cc201604",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY015"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 8.52,
+      "tail_after_last_voice_not_automatic_cut_budget": 6.48,
+      "tightening_constraint": "对白5.1–6.72和7.02–8.52；试锁10–15秒画面可加速/缩保持，语音不能随视频倍速。",
+      "cross_shot_reposition": "对白可延续到同场锁链/手部特写，保留问后答的0.3秒气口；之后拟音与动作重新同步。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 9,
+      "id": "GB008",
+      "film_start_v025": 111.592729,
+      "baseline_duration": 13.98,
+      "current_video_duration": 14.375,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY016A-01",
+          "shot_id": "CY016A",
+          "role": "Claude",
+          "text_ja": "もういいから、早く逃げて。",
+          "local_start": 2.0,
+          "local_end": 6.22,
+          "duration": 4.22,
+          "file": "后期/日语配音修正-v004/干声/VO-CY016A-01__Claude__ja__v004.wav",
+          "file_in": 0,
+          "file_out": 4.22,
+          "rate": 1,
+          "sha256": "14ac3d60d476358a1e414289bf5c1c6e965b86ded4a4302ac1b5dd0c3a17a695",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY016A"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY016A-02",
+          "shot_id": "CY016A",
+          "role": "小鱼",
+          "text_ja": "あと一回だけ。",
+          "local_start": 6.52,
+          "local_end": 9.879958,
+          "duration": 3.359958333,
+          "file": "后期/日语配音修正-v004/干声/VO-CY016A-02__Xiaoyu__ja__v004.wav",
+          "file_in": 0,
+          "file_out": 3.359958333333333,
+          "rate": 1,
+          "sha256": "fb04f1bad773718c50016b411441a0ed2369ebae49a790784fefcd4414165ec4",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY016A"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY016B1-01",
+          "shot_id": "CY016B1",
+          "role": "Claude",
+          "text_ja": "逃げて！",
+          "local_start": 12.18,
+          "local_end": 13.56,
+          "duration": 1.38,
+          "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY016B1-01__Claude__ja__v001.wav",
+          "file_in": 0,
+          "file_out": 1.38,
+          "rate": 1,
+          "sha256": "e3c884092ba3fb5d00e32cf3e669fe53be5d2d342cb3e694b6c7e5abe8fdac50",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY016B1"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 13.56,
+      "tail_after_last_voice_not_automatic_cut_budget": 0.42,
+      "tightening_constraint": "Claude2–6.22、小鱼6.52–9.879958，Claude12.18–13.56。",
+      "cross_shot_reposition": "首句可画外覆盖孩子疲惫，最后逃跑警告应在发现返堂队伍之后，不能移到孩子尚未察觉之前。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 10,
+      "id": "GB008R2",
+      "film_start_v025": 125.572729,
+      "baseline_duration": 4,
+      "current_video_duration": 5.166667,
+      "required_dialogue": [],
+      "last_voice_end_without_reposition": null,
+      "tail_after_last_voice_not_automatic_cut_budget": null,
+      "tightening_constraint": "按下列整句文件边界保留；无台词不表示拟音/BGM可任意硬切。",
+      "cross_shot_reposition": "无锁定对白，可按动作剪画面；BGM和环境声另按实际切点调整。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 11,
+      "id": "GB009",
+      "film_start_v025": 129.572729,
+      "baseline_duration": 13,
+      "current_video_duration": 13.0,
+      "required_dialogue": [],
+      "last_voice_end_without_reposition": null,
+      "tail_after_last_voice_not_automatic_cut_budget": null,
+      "tightening_constraint": "按下列整句文件边界保留；无台词不表示拟音/BGM可任意硬切。",
+      "cross_shot_reposition": "无锁定对白，可按动作剪画面；BGM和环境声另按实际切点调整。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 12,
+      "id": "GB010",
+      "film_start_v025": 142.572729,
+      "baseline_duration": 13.9,
+      "current_video_duration": 14.375,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY021A-01",
+          "shot_id": "CY021A",
+          "role": "教主／Claude的父亲",
+          "text_ja": "我が娘よ、神がお待ちだ。",
+          "local_start": 4.5,
+          "local_end": 10.8,
+          "duration": 6.3,
+          "file": "后期/日语配音交接-v001/试音候选-v001/VO-CY021A-01__CultLeader__ja__v001-trial.wav",
+          "file_in": 0,
+          "file_out": 6.3,
+          "rate": 1,
+          "sha256": "7bb8eaf2ebf391e8623eb04ac3a15b7ac06a59a027a24e0fef71547ed9d38e91",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY021A"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY019-01",
+          "shot_id": "CY019",
+          "role": "教主／Claude的父亲",
+          "text_ja": "どけ。",
+          "local_start": 10.9,
+          "local_end": 11.7,
+          "duration": 0.8,
+          "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY019-01__CultLeader__ja__v001.wav",
+          "file_in": 0,
+          "file_out": 0.8,
+          "rate": 1,
+          "sha256": "262d58be5691f8ebbf81f7d72cf90f018f7911c409d614857c012317a8e09793",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY019"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 11.7,
+      "tail_after_last_voice_not_automatic_cut_budget": 2.2,
+      "tightening_constraint": "按下列整句文件边界保留；无台词不表示拟音/BGM可任意硬切。",
+      "cross_shot_reposition": "可在同场听者/道具反应上作J/L剪辑，需明确说话者和因果；不得自动跨场移动。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 13,
+      "id": "GB011-1",
+      "film_start_v025": 156.472729,
+      "baseline_duration": 10,
+      "current_video_duration": 10.0,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY020-01",
+          "shot_id": "CY020",
+          "role": "Claude",
+          "text_ja": "その子に触らないで！",
+          "local_start": 1.0,
+          "local_end": 3.639979,
+          "duration": 2.639979167,
+          "file": "后期/日语配音修正-v004/干声/VO-CY020-01__Claude__ja__v004.wav",
+          "file_in": 0,
+          "file_out": 2.6399791666666665,
+          "rate": 1,
+          "sha256": "c404b8ec5d4f4ed00f28bbeefc1b73a145fa052a0e721b8ee50bacb2bf4cd9cc",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY020"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 3.639979,
+      "tail_after_last_voice_not_automatic_cut_budget": 6.360021,
+      "tightening_constraint": "Claude1–3.639979必须完整；约7.25–8.75秒横拨接跌倒的修剪不触及对白。",
+      "cross_shot_reposition": "Claude可覆盖锁链和小鱼/教主反打，但制止必须发生在推倒前；不能挪到倒地后才喊。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 14,
+      "id": "GB011-2",
+      "film_start_v025": 166.472729,
+      "baseline_duration": 5.8,
+      "current_video_duration": 6.583333,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY021-01",
+          "shot_id": "CY021",
+          "role": "Claude",
+          "text_ja": "お父様……その子を逃がして。",
+          "local_start": 0.0,
+          "local_end": 4.13,
+          "duration": 4.13,
+          "file": "后期/日语配音修正-v004/干声/VO-CY021-01__Claude__ja__v004.wav",
+          "file_in": 0,
+          "file_out": 4.13,
+          "rate": 1,
+          "sha256": "128c88fa4c23723474f0eed224adefea3792a8b074ceaa77a6454c4fd421e327",
+          "existing_cross_shot_offscreen": true,
+          "visual_shots": [
+            "CY021",
+            "CY021B"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 4.13,
+      "tail_after_last_voice_not_automatic_cut_budget": 1.67,
+      "tightening_constraint": "Claude0–4.13跨CY021/CY021B，本批原本就允许画外连续。",
+      "cross_shot_reposition": "可缩孩子撑地/抓袍画面并让祈求跨镜，但须在父亲离开/点火前交代完，不截“放她走”。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 15,
+      "id": "GB012",
+      "film_start_v025": 172.272729,
+      "baseline_duration": 12,
+      "current_video_duration": 12.25,
+      "required_dialogue": [],
+      "last_voice_end_without_reposition": null,
+      "tail_after_last_voice_not_automatic_cut_budget": null,
+      "tightening_constraint": "按下列整句文件边界保留；无台词不表示拟音/BGM可任意硬切。",
+      "cross_shot_reposition": "无锁定对白，可按动作剪画面；BGM和环境声另按实际切点调整。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 16,
+      "id": "GB013",
+      "film_start_v025": 184.272729,
+      "baseline_duration": 14,
+      "current_video_duration": 14.375,
+      "required_dialogue": [],
+      "last_voice_end_without_reposition": null,
+      "tail_after_last_voice_not_automatic_cut_budget": null,
+      "tightening_constraint": "本批无锁定台词；10–12秒为破门前停乐区，破门重音跟实际撞击，不跟旧12秒机械对齐。",
+      "cross_shot_reposition": "无词吟唱与风声可跨内外景换透视，撞门/开门那一下骤停；未制作的拟音不能当已在原混音中。",
+      "bgm_off_intersections_v025": [
+        {
+          "id": "S02",
+          "local_start": 10.000001,
+          "local_end": 12.000001,
+          "reason": "保留无词吟唱、环境声，破门前停乐"
+        }
+      ]
+    },
+    {
+      "batch_number": 17,
+      "id": "GB014",
+      "film_start_v025": 198.272729,
+      "baseline_duration": 6.5,
+      "current_video_duration": 6.5,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY024-01",
+          "shot_id": "CY024",
+          "role": "GPT",
+          "text_ja": "二人を守って。",
+          "local_start": 0.15,
+          "local_end": 1.56,
+          "duration": 1.41,
+          "file": "后期/日语配音修正-v004/干声/VO-CY024-01__GPT__ja__v004.wav",
+          "file_in": 0,
+          "file_out": 1.41,
+          "rate": 1,
+          "sha256": "078e261ea2584260a860be9576f6417026483df9ad1f8186663c4f2a536cbec7",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY024"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY024R-01",
+          "shot_id": "CY024R",
+          "role": "Kimi",
+          "text_ja": "月の裏に潜む影よ、",
+          "local_start": 3.6,
+          "local_end": 5.8,
+          "duration": 2.2,
+          "file": "后期/日语配音修正-v004/干声/VO-CY024R-01__Kimi__ja__v004.wav",
+          "file_in": 0,
+          "file_out": 2.2,
+          "rate": 1,
+          "sha256": "f5a0e8fdd5e6a3d853466c64467157f0a4dfc4ef0215237600b723b2214cdb6e",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY024R"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 5.8,
+      "tail_after_last_voice_not_automatic_cut_budget": 0.7,
+      "tightening_constraint": "按下列整句文件边界保留；无台词不表示拟音/BGM可任意硬切。",
+      "cross_shot_reposition": "可在同场听者/道具反应上作J/L剪辑，需明确说话者和因果；不得自动跨场移动。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 18,
+      "id": "GB014A",
+      "film_start_v025": 204.772729,
+      "baseline_duration": 12.29,
+      "current_video_duration": 12.291667,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY024K0-01",
+          "shot_id": "CY024K0",
+          "role": "Kimi",
+          "text_ja": "この刃の銀の光をたどり、",
+          "local_start": 4.0,
+          "local_end": 7.7,
+          "duration": 3.7,
+          "file": "后期/日语配音修正-v004/干声/VO-CY024K0-01__Kimi__ja__v004.wav",
+          "file_in": 0,
+          "file_out": 3.7,
+          "rate": 1,
+          "sha256": "fbd77c9de30d52774957082e740b9b5f87110e9bce89b9017c3832f365966f75",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY024K0"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY024K0-02",
+          "shot_id": "CY024K0",
+          "role": "Kimi",
+          "text_ja": "彼方へと通じる扉を、我に開け——",
+          "local_start": 7.7,
+          "local_end": 11.680042,
+          "duration": 3.980041667,
+          "file": "后期/日语配音修正-v004/干声/VO-CY024K0-02__Kimi__ja__v004.wav",
+          "file_in": 0,
+          "file_out": 3.9800416666666667,
+          "rate": 1,
+          "sha256": "196fa1ce602a0fc7f419c10e6ec6eb4bb31120ba39cff3c5e84dee41e627ed3c",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY024K0"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 11.680042,
+      "tail_after_last_voice_not_automatic_cut_budget": 0.609958,
+      "tightening_constraint": "显形前4秒是独立保护节拍；随后4–11.680042连续咏唱，不能缩成不到这两段之和。",
+      "cross_shot_reposition": "可换月影/剑光反打，但显形4秒不能被咏唱吞掉。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 19,
+      "id": "GB015-1",
+      "film_start_v025": 217.062729,
+      "baseline_duration": 12.0,
+      "current_video_duration": 12.0,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY024K1A-01",
+          "shot_id": "CY024K1A",
+          "role": "Kimi",
+          "text_ja": "月影渡り！",
+          "local_start": 3.6,
+          "local_end": 4.48,
+          "duration": 0.88,
+          "file": "后期/日语配音修正-v002/干声/VO-CY024K1A-01__Kimi__ja__v002-0.9s.wav",
+          "file_in": 0,
+          "file_out": 0.88,
+          "rate": 1,
+          "sha256": "65d8c1c196a0b7df6b31e55459584603083ec20e19c5bb13dcb78fe63aadf847",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY024K1A"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 4.48,
+      "tail_after_last_voice_not_automatic_cut_budget": 7.52,
+      "tightening_constraint": "按下列整句文件边界保留；无台词不表示拟音/BGM可任意硬切。",
+      "cross_shot_reposition": "可在同场听者/道具反应上作J/L剪辑，需明确说话者和因果；不得自动跨场移动。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 20,
+      "id": "GB015-2",
+      "film_start_v025": 229.062729,
+      "baseline_duration": 4,
+      "current_video_duration": 4.0,
+      "required_dialogue": [],
+      "last_voice_end_without_reposition": null,
+      "tail_after_last_voice_not_automatic_cut_budget": null,
+      "tightening_constraint": "按下列整句文件边界保留；无台词不表示拟音/BGM可任意硬切。",
+      "cross_shot_reposition": "无锁定对白，可按动作剪画面；BGM和环境声另按实际切点调整。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 21,
+      "id": "GB016-1",
+      "film_start_v025": 233.062729,
+      "baseline_duration": 11.3,
+      "current_video_duration": 11.291667,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY026A-01",
+          "shot_id": "CY026A",
+          "role": "GPT",
+          "text_ja": "センモン、人助けに付き合って。",
+          "local_start": 6.1,
+          "local_end": 7.92,
+          "duration": 1.82,
+          "file": "后期/日语配音修正-v003/干声/VO-CY026A-01__GPT__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 1.82,
+          "rate": 1,
+          "sha256": "e26ed0100a774f77e810e5997b213ce5ec636cc36ad185ba6e10cac4ad325fb5",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY026A"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY026A1-01",
+          "shot_id": "CY026A1",
+          "role": "千问",
+          "text_ja": "行きましょう。",
+          "local_start": 9.75,
+          "local_end": 10.900042,
+          "duration": 1.150041667,
+          "file": "后期/日语配音修正-v004/干声/VO-CY026A1-01__Qwen__ja__v004.wav",
+          "file_in": 0,
+          "file_out": 1.1500416666666666,
+          "rate": 1,
+          "sha256": "7bb53bbb81db87fcd3adf22223d2e8c2119a1379b19a1d14b42d3fbcc4cd9977",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY026A1"
+          ],
+          "override": "v003声音修订.json：合扇后入声"
+        }
+      ],
+      "last_voice_end_without_reposition": 10.900042,
+      "tail_after_last_voice_not_automatic_cut_budget": 0.399958,
+      "tightening_constraint": "当前GPT6.1–7.92；千问9.75–10.900042，采用v003后移0.45秒。尾部只剩约0.399958秒，不能按旧9.3秒回应重剪。",
+      "cross_shot_reposition": "GPT可在扇/千问反应镜作画外；千问回应必须合扇完成后再入。若改合扇速度，整句移位而非变速，随后批次联动。",
+      "bgm_off_intersections_v025": [
+        {
+          "id": "S03",
+          "local_start": 6.000001,
+          "local_end": 11.3,
+          "reason": "召集回闪以对白、角色标志拟音与转场气口连接，避免长曲拖满"
+        }
+      ]
+    },
+    {
+      "batch_number": 22,
+      "id": "GB016-2",
+      "film_start_v025": 244.362729,
+      "baseline_duration": 4,
+      "current_video_duration": 5.166667,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY026B-01",
+          "shot_id": "CY026B",
+          "role": "GPT",
+          "text_ja": "ジェミニ。",
+          "local_start": 0.1,
+          "local_end": 1.08,
+          "duration": 0.98,
+          "file": "后期/日语配音修正-v003/干声/VO-CY026B-01__GPT__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 0.98,
+          "rate": 1,
+          "sha256": "8f2faf3046ecd93527b90ab647832da2b74c759357a738eaa1382bd993a0d45d",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY026B"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY026B-02",
+          "shot_id": "CY026B",
+          "role": "Gemini",
+          "text_ja": "私も行く。",
+          "local_start": 1.38,
+          "local_end": 2.61,
+          "duration": 1.23,
+          "file": "后期/日语配音修正-v003/干声/VO-CY026B-02__Gemini__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 1.23,
+          "rate": 1,
+          "sha256": "bab724f58a66cfec1ada23fa5dd1a75adf23b159d856f2f01efc25fe6d0d92d5",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY026B"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 2.61,
+      "tail_after_last_voice_not_automatic_cut_budget": 1.39,
+      "tightening_constraint": "按下列整句文件边界保留；无台词不表示拟音/BGM可任意硬切。",
+      "cross_shot_reposition": "可在同场听者/道具反应上作J/L剪辑，需明确说话者和因果；不得自动跨场移动。",
+      "bgm_off_intersections_v025": [
+        {
+          "id": "S03",
+          "local_start": 0.0,
+          "local_end": 4.0,
+          "reason": "召集回闪以对白、角色标志拟音与转场气口连接，避免长曲拖满"
+        }
+      ]
+    },
+    {
+      "batch_number": 23,
+      "id": "GB017",
+      "film_start_v025": 248.362729,
+      "baseline_duration": 6.54,
+      "current_video_duration": 7.291667,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY026C-01",
+          "shot_id": "CY026C",
+          "role": "GPT",
+          "text_ja": "グロック。",
+          "local_start": 0.1,
+          "local_end": 1.14,
+          "duration": 1.04,
+          "file": "后期/日语配音修正-v003/干声/VO-CY026C-01__GPT__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 1.04,
+          "rate": 1,
+          "sha256": "4748d671ef50e1de87170073da9711bb58d75f5089e98b7b1eb2d60e786b153e",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY026C"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY026C-02",
+          "shot_id": "CY026C",
+          "role": "Grok",
+          "text_ja": "もちろん。",
+          "local_start": 1.44,
+          "local_end": 2.42,
+          "duration": 0.98,
+          "file": "后期/日语配音修正-v003/干声/VO-CY026C-02__Grok__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 0.98,
+          "rate": 1,
+          "sha256": "82d55c5afdb9ca52b92db715b2924aba6c45758cd274bdb695b8ed507655faa1",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY026C"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY026D1-01",
+          "shot_id": "CY026D1",
+          "role": "GPT",
+          "text_ja": "キミ。クロードが危ない。",
+          "local_start": 4.1,
+          "local_end": 6.439937,
+          "duration": 2.3399375,
+          "file": "后期/日语配音修正-v005/干声/VO-CY026D1-01__GPT__ja__v005.wav",
+          "file_in": 0,
+          "file_out": 2.3399375,
+          "rate": 1,
+          "sha256": "bc01a477e23d3f174ccedaa6464cca1e9bce5b7e60d01ea7f0b11b9c2b9a2c15",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY026D1"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 6.439937,
+      "tail_after_last_voice_not_automatic_cut_budget": 0.100063,
+      "tightening_constraint": "按下列整句文件边界保留；无台词不表示拟音/BGM可任意硬切。",
+      "cross_shot_reposition": "可在同场听者/道具反应上作J/L剪辑，需明确说话者和因果；不得自动跨场移动。",
+      "bgm_off_intersections_v025": [
+        {
+          "id": "S03",
+          "local_start": 0.0,
+          "local_end": 6.54,
+          "reason": "召集回闪以对白、角色标志拟音与转场气口连接，避免长曲拖满"
+        }
+      ]
+    },
+    {
+      "batch_number": 24,
+      "id": "GB017R2",
+      "film_start_v025": 254.902729,
+      "baseline_duration": 9.16,
+      "current_video_duration": 10.125,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY026D-01",
+          "shot_id": "CY026D",
+          "role": "GPT",
+          "text_ja": "正面で私が気を引く。祭壇の後ろのステンドグラスから入って、彼女を守って。",
+          "local_start": 0.2,
+          "local_end": 7.360583,
+          "duration": 7.160583333,
+          "file": "后期/日语配音修正-v005/干声/VO-CY026D-01__GPT__ja__v005.wav",
+          "file_in": 0,
+          "file_out": 7.160583333333333,
+          "rate": 1,
+          "sha256": "9153a0cfc2a27a06911e65dfb2ad51cc847030960ccefc63b909ac601f3fdfc7",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY026D"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY026D-02",
+          "shot_id": "CY026D",
+          "role": "Kimi",
+          "text_ja": "彼女は任せて。",
+          "local_start": 7.660583,
+          "local_end": 9.059541,
+          "duration": 1.398958333,
+          "file": "后期/日语配音修正-v005/干声/VO-CY026D-02__Kimi__ja__v005.wav",
+          "file_in": 0,
+          "file_out": 1.3989583333333333,
+          "rate": 1,
+          "sha256": "1215d3f7a7e38a44feb84cd7a4cf11443dc45f40d21cde9f9a3a211da21d0141",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY026D"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 9.059541,
+      "tail_after_last_voice_not_automatic_cut_budget": 0.100459,
+      "tightening_constraint": "GPT0.2–7.360583、Kimi7.660583–9.059541；9.16秒基线只余0.100459秒尾量。0.3秒问答间隔保留。",
+      "cross_shot_reposition": "可把GPT分工说明铺到月面/接收指令的Kimi反应镜；Kimi回应放本人或明确反应镜，先听完指令后回答。不得因转场把末句截掉。",
+      "bgm_off_intersections_v025": [
+        {
+          "id": "S03",
+          "local_start": 0.0,
+          "local_end": 9.16,
+          "reason": "召集回闪以对白、角色标志拟音与转场气口连接，避免长曲拖满"
+        }
+      ]
+    },
+    {
+      "batch_number": 25,
+      "id": "GB018",
+      "film_start_v025": 264.062729,
+      "baseline_duration": 14.45,
+      "current_video_duration": 14.458333,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY026E-01",
+          "shot_id": "CY026E",
+          "role": "GPT",
+          "text_ja": "コンゲン、ラマ……みんな来て。",
+          "local_start": 0.0,
+          "local_end": 3.38,
+          "duration": 3.38,
+          "file": "后期/日语配音修正-v003/干声/VO-CY026E-01__GPT__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 3.38,
+          "rate": 1,
+          "sha256": "2af5928b50b82160d75322404dc3e27c6cb7fb5e19edceac6fa47b3a4f82eb89",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY026E"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY024A0-01",
+          "shot_id": "CY024A0",
+          "role": "千问",
+          "text_ja": "つかまって。",
+          "local_start": 4.1,
+          "local_end": 5.41375,
+          "duration": 1.31375,
+          "file": "后期/日语配音修正-v005/干声/VO-CY024A0-01__Qwen__ja__v005.wav",
+          "file_in": 0,
+          "file_out": 1.31375,
+          "rate": 1,
+          "sha256": "45c922c765735d1c34bb05ed79006e068d428d6eb2961274ef62e9e3c0f4cf1a",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY024A0"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY024A-01",
+          "shot_id": "CY024A",
+          "role": "GPT",
+          "text_ja": "蒼穹の果てに座し、",
+          "local_start": 10.99,
+          "local_end": 14.11,
+          "duration": 3.12,
+          "file": "后期/日语配音修正-v003/干声/VO-CY024A-01__GPT__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 3.12,
+          "rate": 1,
+          "sha256": "eb61c1d9321e58318035392fd2e257e1f40142bc77ca8352dfb660c88cfecd68",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY024A"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 14.11,
+      "tail_after_last_voice_not_automatic_cut_budget": 0.34,
+      "tightening_constraint": "召集0–3.38、抱紧4.1–5.41375、咏唱10.99–14.11。压缩飞行动作会改变咏唱起点，需整条语音与后续法术链重新锚定。",
+      "cross_shot_reposition": "召集可用群像反应；“つかまって”应在抱紧/起飞前后因果点，不能起飞许久才说。咏唱可覆盖升空/水势，保持与26–31连续且不叠句。",
+      "bgm_off_intersections_v025": [
+        {
+          "id": "S03",
+          "local_start": 0.0,
+          "local_end": 4.000001,
+          "reason": "召集回闪以对白、角色标志拟音与转场气口连接，避免长曲拖满"
+        }
+      ]
+    },
+    {
+      "batch_number": 26,
+      "id": "GB019",
+      "film_start_v025": 278.512729,
+      "baseline_duration": 14.89,
+      "current_video_duration": 14.916667,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY024A9-01",
+          "shot_id": "CY024A9",
+          "role": "GPT",
+          "text_ja": "幾千の深き流れを統べる、清き水の主よ、",
+          "local_start": 0.0,
+          "local_end": 7.395208,
+          "duration": 7.395208333,
+          "file": "后期/日语配音修正-v005/干声/VO-CY024A9-01__GPT__ja__v005.wav",
+          "file_in": 0,
+          "file_out": 7.395208333333334,
+          "rate": 1,
+          "sha256": "07c86919cf7011b6517ba732d22edf1a19c3bb5dc403d2b72311184008ae6359",
+          "existing_cross_shot_offscreen": true,
+          "visual_shots": [
+            "CY024A9",
+            "CY024A10",
+            "CY024A11",
+            "CY024A12",
+            "CY024A1"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY024A2-01",
+          "shot_id": "CY024A2",
+          "role": "GPT",
+          "text_ja": "この世に散らばる水の息吹を、",
+          "local_start": 7.55,
+          "local_end": 14.79,
+          "duration": 7.24,
+          "file": "后期/日语配音修正-v003/干声/VO-CY024A2-01__GPT__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 7.24,
+          "rate": 1,
+          "sha256": "260e7b87f38a296e17088beb7f76899368df814f36a6b8dfc8a6d6ee27882cb2",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY024A2"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 14.79,
+      "tail_after_last_voice_not_automatic_cut_budget": 0.1,
+      "tightening_constraint": "首句0–7.395208跨5镜是既有画外配置，后句7.55–14.79。",
+      "cross_shot_reposition": "按现成visual_shots跨水迹/手/远景，整句一次原速；切画面不拆声文件。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 27,
+      "id": "GB020-1",
+      "film_start_v025": 293.402729,
+      "baseline_duration": 6.52,
+      "current_video_duration": 7.291667,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY024A3-01",
+          "shot_id": "CY024A3",
+          "role": "GPT",
+          "text_ja": "星々の下に浮かぶ、果てなき海へと集めよ。",
+          "local_start": 0.0,
+          "local_end": 6.44,
+          "duration": 6.44,
+          "file": "后期/日语配音修正-v003/干声/VO-CY024A3-01__GPT__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 6.44,
+          "rate": 1,
+          "sha256": "67c9ed1705a8ea0b755215429768a717de1d561ef7a465dca1d6fd3309780bb0",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY024A3"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 6.44,
+      "tail_after_last_voice_not_automatic_cut_budget": 0.08,
+      "tightening_constraint": "咏唱0–6.44，计划6.52秒，仅0.08秒尾量。若画面只留局部特写，仍须容纳6.44秒完整录音。",
+      "cross_shot_reposition": "可跨剪同场水势/人物/建筑遮挡修补画面；跨批延续时26末、28首一并重排，不能压缩声音或按7.29秒原回片比例拉音。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 28,
+      "id": "GB020-1R2",
+      "film_start_v025": 299.922729,
+      "baseline_duration": 11.35,
+      "current_video_duration": 12.25,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY024A6-01",
+          "shot_id": "CY024A6",
+          "role": "GPT",
+          "text_ja": "厚き雲を岸に、風を導きに、",
+          "local_start": 0.0,
+          "local_end": 3.919958,
+          "duration": 3.919958333,
+          "file": "后期/日语配音修正-v003/干声/VO-CY024A6-01__GPT__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 3.919958333333333,
+          "rate": 1,
+          "sha256": "f24b1aa3dab99e5a09d8914ca1fd6694f8691bdcea5313f185a92eb084453d72",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY024A6"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY024A6-02",
+          "shot_id": "CY024A6",
+          "role": "GPT",
+          "text_ja": "眠れる潮よ、うねり、押し寄せよ。",
+          "local_start": 4.219958,
+          "local_end": 9.473541,
+          "duration": 5.253583333,
+          "file": "后期/日语配音修正-v005/干声/VO-CY024A6-02__GPT__ja__v005.wav",
+          "file_in": 0,
+          "file_out": 5.253583333333333,
+          "rate": 1,
+          "sha256": "fcc7e9b86e19f4234b46543dc72fe6fa3aa4212d174544f5cc58512a44ad1da2",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY024A6"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 9.473541,
+      "tail_after_last_voice_not_automatic_cut_budget": 1.876459,
+      "tightening_constraint": "咏唱0–3.919958及4.219958–9.473541；句间0.3秒。尾部1.876459秒无对白并非全部可删，须留水势动作。",
+      "cross_shot_reposition": "两句可作为同一连续咒语覆盖不同水势镜，不要求嘴始终入画；保留前后法术动作顺序。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 29,
+      "id": "GB020-2",
+      "film_start_v025": 311.272729,
+      "baseline_duration": 5.59,
+      "current_video_duration": 5.583333,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY024A7-01",
+          "shot_id": "CY024A7",
+          "role": "GPT",
+          "text_ja": "今こそ天を開き、大海を翻せ。",
+          "local_start": 0.0,
+          "local_end": 5.35,
+          "duration": 5.35,
+          "file": "后期/日语配音修正-v003/干声/VO-CY024A7-01__GPT__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 5.35,
+          "rate": 1,
+          "sha256": "744f47a0c2e7c9663204969fb3e90e7738e284c15bf3e3e9867a9eae4fd78699",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY024A7"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 5.35,
+      "tail_after_last_voice_not_automatic_cut_budget": 0.24,
+      "tightening_constraint": "按下列整句文件边界保留；无台词不表示拟音/BGM可任意硬切。",
+      "cross_shot_reposition": "可在同场听者/道具反应上作J/L剪辑，需明确说话者和因果；不得自动跨场移动。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 30,
+      "id": "GB021",
+      "film_start_v025": 316.862729,
+      "baseline_duration": 11.58,
+      "current_video_duration": 11.583333,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY024A4-01",
+          "shot_id": "CY024A4",
+          "role": "GPT",
+          "text_ja": "罪なき者を焼く炎を、奔流で鎮めよ。",
+          "local_start": 1.5,
+          "local_end": 6.259979,
+          "duration": 4.759979167,
+          "file": "后期/日语配音修正-v003/干声/VO-CY024A4-01__GPT__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 4.759979166666667,
+          "rate": 1,
+          "sha256": "6b4d32164b86ec62746003a2a3dba3ebe1d40a458794cc1a9041ac575faaa96b",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY024A4"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY024A8-01",
+          "shot_id": "CY024A8",
+          "role": "GPT",
+          "text_ja": "我が道を阻む壁を、荒波に沈めよ！",
+          "local_start": 6.36,
+          "local_end": 11.54,
+          "duration": 5.18,
+          "file": "后期/日语配音修正-v003/干声/VO-CY024A8-01__GPT__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 5.18,
+          "rate": 1,
+          "sha256": "f39cf29a7a116a5ae7b5ac94e597e3d2af6002dbcdb69451cb49fdde5a267242",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY024A8"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 11.54,
+      "tail_after_last_voice_not_automatic_cut_budget": 0.04,
+      "tightening_constraint": "咏唱1.5–6.259979及6.36–11.54，计划尾量仅0.04秒。修腕扣/垂手穿帮宜画面遮切，不能截末句。",
+      "cross_shot_reposition": "GPT咒语可覆盖手腕/锁扣/受刑者或水幕反应；不把语音归给Claude。若缩画面，保留完整音频跨至下一安全反应镜，并重排31祈愿起点。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 31,
+      "id": "GB022-1",
+      "film_start_v025": 328.442729,
+      "baseline_duration": 13.5,
+      "current_video_duration": 13.5,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY024A5-01",
+          "shot_id": "CY024A5",
+          "role": "GPT",
+          "text_ja": "清き水の主よ、汝の救済を、ここに——",
+          "local_start": 0.0,
+          "local_end": 6.816687,
+          "duration": 6.8166875,
+          "file": "后期/日语配音修正-v005/干声/VO-CY024A5-01__GPT__ja__v005.wav",
+          "file_in": 0,
+          "file_out": 6.8166875,
+          "rate": 1,
+          "sha256": "1a769eca42abf8656def29398eacdfbdb11d690ee5cad1436c1f2df9e0528ca5",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY024A5"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY024A5-02",
+          "shot_id": "CY024A5",
+          "role": "GPT",
+          "text_ja": "そうりゅうてんけい！",
+          "local_start": 7.616687,
+          "local_end": 8.959249,
+          "duration": 1.3425625,
+          "file": "后期/日语配音修正-v005/干声/VO-CY024A5-02__GPT__ja__v005.wav",
+          "file_in": 0,
+          "file_out": 1.3425625,
+          "rate": 1,
+          "sha256": "acab4f60069cd825d4a8d6e1e37bcda9f1fbae6d402b9e248d64b65f11f9d92f",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY024A5"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 8.959249,
+      "tail_after_last_voice_not_automatic_cut_budget": 4.540751,
+      "tightening_constraint": "祈愿0–6.816687；硬保留6.816687–7.616687的0.8秒停顿；术名7.616687–8.959249。指挥动作原12–13.5无新增对白，但须发生在术名后。",
+      "cross_shot_reposition": "祈愿和术名可铺水龙/手印反打，保持同一施法者。术名后可收短静候再接前指，不能把发令动作拉到术名前；水声延续停乐空窗。",
+      "bgm_off_intersections_v025": [
+        {
+          "id": "S04",
+          "local_start": 6.816687,
+          "local_end": 7.616687,
+          "reason": "祈祷到术名的停顿；保留水声"
+        }
+      ]
+    },
+    {
+      "batch_number": 32,
+      "id": "GB022-2",
+      "film_start_v025": 341.942729,
+      "baseline_duration": 5,
+      "current_video_duration": 5.0,
+      "required_dialogue": [],
+      "last_voice_end_without_reposition": null,
+      "tail_after_last_voice_not_automatic_cut_budget": null,
+      "tightening_constraint": "按下列整句文件边界保留；无台词不表示拟音/BGM可任意硬切。",
+      "cross_shot_reposition": "无锁定对白，可按动作剪画面；BGM和环境声另按实际切点调整。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 33,
+      "id": "GB023",
+      "film_start_v025": 346.942729,
+      "baseline_duration": 12,
+      "current_video_duration": 12.25,
+      "required_dialogue": [],
+      "last_voice_end_without_reposition": null,
+      "tail_after_last_voice_not_automatic_cut_budget": null,
+      "tightening_constraint": "按下列整句文件边界保留；无台词不表示拟音/BGM可任意硬切。",
+      "cross_shot_reposition": "无锁定对白，可按动作剪画面；BGM和环境声另按实际切点调整。",
+      "bgm_off_intersections_v025": [
+        {
+          "id": "S05",
+          "local_start": 6.000001,
+          "local_end": 12.0,
+          "reason": "安慰、落下、条约问答，给角色声音空间"
+        }
+      ]
+    },
+    {
+      "batch_number": 34,
+      "id": "GB024",
+      "film_start_v025": 358.942729,
+      "baseline_duration": 13.9,
+      "current_video_duration": 13.916667,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY027A-01",
+          "shot_id": "CY027A",
+          "role": "教主／Claude的父亲",
+          "text_ja": "不干渉条約を破ったな。",
+          "local_start": 0.1,
+          "local_end": 2.89,
+          "duration": 2.79,
+          "file": "后期/日语配音修正-v003/干声/VO-CY027A-01__CultLeader__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 2.79,
+          "rate": 1,
+          "sha256": "8b00ebd48b7a81fac676139c25e2c6cadef8d247b0992f39786289c6983f32f2",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY027A"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY027B-01",
+          "shot_id": "CY027B",
+          "role": "GPT",
+          "text_ja": "うるさい。",
+          "local_start": 5.1,
+          "local_end": 6.03,
+          "duration": 0.93,
+          "file": "后期/日语配音修正-v003/干声/VO-CY027B-01__GPT__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 0.93,
+          "rate": 1,
+          "sha256": "3647a4185b4ad529559f7376c8667e8caa1f406d5d51af4713b287f8a4f49ec7",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY027B"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 6.03,
+      "tail_after_last_voice_not_automatic_cut_budget": 7.87,
+      "tightening_constraint": "按下列整句文件边界保留；无台词不表示拟音/BGM可任意硬切。",
+      "cross_shot_reposition": "可在同场听者/道具反应上作J/L剪辑，需明确说话者和因果；不得自动跨场移动。",
+      "bgm_off_intersections_v025": [
+        {
+          "id": "S05",
+          "local_start": 0.0,
+          "local_end": 6.900001,
+          "reason": "安慰、落下、条约问答，给角色声音空间"
+        }
+      ]
+    },
+    {
+      "batch_number": 35,
+      "id": "GB025",
+      "film_start_v025": 372.842729,
+      "baseline_duration": 14,
+      "current_video_duration": 14.375,
+      "required_dialogue": [],
+      "last_voice_end_without_reposition": null,
+      "tail_after_last_voice_not_automatic_cut_budget": null,
+      "tightening_constraint": "按下列整句文件边界保留；无台词不表示拟音/BGM可任意硬切。",
+      "cross_shot_reposition": "无锁定对白，可按动作剪画面；BGM和环境声另按实际切点调整。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 36,
+      "id": "GB026",
+      "film_start_v025": 386.842729,
+      "baseline_duration": 12,
+      "current_video_duration": 12.0,
+      "required_dialogue": [],
+      "last_voice_end_without_reposition": null,
+      "tail_after_last_voice_not_automatic_cut_budget": null,
+      "tightening_constraint": "按下列整句文件边界保留；无台词不表示拟音/BGM可任意硬切。",
+      "cross_shot_reposition": "无锁定对白，可按动作剪画面；BGM和环境声另按实际切点调整。",
+      "bgm_off_intersections_v025": [
+        {
+          "id": "S06",
+          "local_start": 10.000001,
+          "local_end": 12.0,
+          "reason": "钥匙、撤罩、解链、安抚及父亲停顿以对白与环境声承担"
+        }
+      ]
+    },
+    {
+      "batch_number": 37,
+      "id": "GB027",
+      "film_start_v025": 398.842729,
+      "baseline_duration": 14.2,
+      "current_video_duration": 14.208008,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY028A-01",
+          "shot_id": "CY028A",
+          "role": "GPT",
+          "text_ja": "ゆっくりでいい。",
+          "local_start": 8.1,
+          "local_end": 9.68,
+          "duration": 1.58,
+          "file": "后期/日语配音修正-v003/干声/VO-CY028A-01__GPT__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 1.58,
+          "rate": 1,
+          "sha256": "abb88ae1baf94d63def0a9870bfef1453753b7c1f12f6c1e3830e42c7db32d17",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY028A"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY028A-02",
+          "shot_id": "CY028A",
+          "role": "Claude",
+          "text_ja": "あの子は……",
+          "local_start": 10.8,
+          "local_end": 12.31,
+          "duration": 1.51,
+          "file": "后期/日语配音修正-v003/干声/VO-CY028A-02__Claude__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 1.51,
+          "rate": 1,
+          "sha256": "f80011ce27c046c8598daaca1c88796e3e83bcffb9322fb1b1730da4e4484118",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY028A"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 12.31,
+      "tail_after_last_voice_not_automatic_cut_budget": 1.89,
+      "tightening_constraint": "GPT8.1–9.68，Claude10.8–12.31；解链/起身前半可修，但应先解开和扶稳再安抚。",
+      "cross_shot_reposition": "GPT可在Claude/手部反应上作画外，Claude问孩子的半句可接38批GPT回答；两批互相联动，不能把等待变为重叠对白。",
+      "bgm_off_intersections_v025": [
+        {
+          "id": "S06",
+          "local_start": 0.0,
+          "local_end": 14.2,
+          "reason": "钥匙、撤罩、解链、安抚及父亲停顿以对白与环境声承担"
+        }
+      ]
+    },
+    {
+      "batch_number": 38,
+      "id": "GB028",
+      "film_start_v025": 413.042729,
+      "baseline_duration": 14.24,
+      "current_video_duration": 14.208333,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY028A2-01",
+          "shot_id": "CY028A2",
+          "role": "GPT",
+          "text_ja": "無事よ。下で待ってる。",
+          "local_start": 0.0,
+          "local_end": 4.07,
+          "duration": 4.07,
+          "file": "后期/日语配音修正-v003/干声/VO-CY028A2-01__GPT__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 4.07,
+          "rate": 1,
+          "sha256": "7f42e80a0517612d6e2334179793d93cc733d0bde6ba149d0bcb5af0836781f2",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY028A2"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY028B-01",
+          "shot_id": "CY028B",
+          "role": "Claude",
+          "text_ja": "灰の中に眠る",
+          "local_start": 4.17,
+          "local_end": 6.02,
+          "duration": 1.85,
+          "file": "后期/日语配音修正-v003/干声/VO-CY028B-01__Claude__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 1.85,
+          "rate": 1,
+          "sha256": "6936131d346515d094c223af5582f80cf5e2cdd4190bc99bd14875e781b649da",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY028B"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY028C-01",
+          "shot_id": "CY028C",
+          "role": "Claude",
+          "text_ja": "かすかな光よ、",
+          "local_start": 6.52,
+          "local_end": 8.24,
+          "duration": 1.72,
+          "file": "后期/日语配音修正-v003/干声/VO-CY028C-01__Claude__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 1.72,
+          "rate": 1,
+          "sha256": "d4af4124f9277a2377e341afa68ed930e3eef13365df80508137328f0be24822",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY028C"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY029-01",
+          "shot_id": "CY029",
+          "role": "教主／Claude的父亲",
+          "text_ja": "クロード……来なさい。",
+          "local_start": 8.54,
+          "local_end": 11.64,
+          "duration": 3.1,
+          "file": "后期/日语配音修正-v003/干声/VO-CY029-01__CultLeader__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 3.1,
+          "rate": 1,
+          "sha256": "db992faee86277ecb2a425f61414019e5520435b381467ed5a54f31ffa2c4b62",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY029"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 11.64,
+      "tail_after_last_voice_not_automatic_cut_budget": 2.6,
+      "tightening_constraint": "0–4.07安抚；4.17–6.02及6.52–8.24起咏；父亲8.54–11.64。8.24–14.24为Claude停咏6秒，含父亲插话及反应。",
+      "cross_shot_reposition": "父亲可画外覆盖Claude反应，停咏6秒整体保留，再接39批续咏；不能把父亲之后反应停顿剪没。",
+      "bgm_off_intersections_v025": [
+        {
+          "id": "S06",
+          "local_start": 0.0,
+          "local_end": 14.24,
+          "reason": "钥匙、撤罩、解链、安抚及父亲停顿以对白与环境声承担"
+        }
+      ]
+    },
+    {
+      "batch_number": 39,
+      "id": "GB029",
+      "film_start_v025": 427.282729,
+      "baseline_duration": 13.38,
+      "current_video_duration": 13.416667,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY029E1-01",
+          "shot_id": "CY029E1",
+          "role": "Claude",
+          "text_ja": "我が呼び声に応えよ。",
+          "local_start": 0.0,
+          "local_end": 2.369979,
+          "duration": 2.369979167,
+          "file": "后期/日语配音修正-v003/干声/VO-CY029E1-01__Claude__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 2.3699791666666665,
+          "rate": 1,
+          "sha256": "2acc01b8e839aa51a442e7456b757730338d94e6aeb00ce4370bcc6cb786dda7",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY029E1"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY029E2-01",
+          "shot_id": "CY029E2",
+          "role": "Claude",
+          "text_ja": "まだ消えぬ温もりをたどり、",
+          "local_start": 2.7,
+          "local_end": 5.34,
+          "duration": 2.64,
+          "file": "后期/日语配音修正-v003/干声/VO-CY029E2-01__Claude__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 2.64,
+          "rate": 1,
+          "sha256": "5b4ff7d999721a0e0ef9d739f6a5e1ffd5a0a318fc8614c93489b33a5a5f8650",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY029E2"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY029E3-01",
+          "shot_id": "CY029E3",
+          "role": "Claude",
+          "text_ja": "この手のひらで、",
+          "local_start": 5.44,
+          "local_end": 7.17,
+          "duration": 1.73,
+          "file": "后期/日语配音修正-v003/干声/VO-CY029E3-01__Claude__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 1.73,
+          "rate": 1,
+          "sha256": "dedcd6677ef4c27ad64f10e9493aae76a2b2ebf2628bbd56cbfc28fcf9b9c607",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY029E3"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY029E4-01",
+          "shot_id": "CY029E4",
+          "role": "Claude",
+          "text_ja": "もう一度、燃えよ——",
+          "local_start": 8.44,
+          "local_end": 11.05,
+          "duration": 2.61,
+          "file": "后期/日语配音修正-v003/干声/VO-CY029E4-01__Claude__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 2.61,
+          "rate": 1,
+          "sha256": "50b47da1d2371cf74885decad2c36f959b683ace4822016ff3ab58caa4dfac42",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY029E4"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 11.05,
+      "tail_after_last_voice_not_automatic_cut_budget": 2.33,
+      "tightening_constraint": "四句0–2.369979、2.7–5.34、5.44–7.17、8.44–11.05，随后动作衔接40术名。",
+      "cross_shot_reposition": "可跨眼神/掌心/小鱼仰望，维持同一Claude连续施法，不把最后句搬到点火之后。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 40,
+      "id": "GB030-1",
+      "film_start_v025": 440.662729,
+      "baseline_duration": 13.36,
+      "current_video_duration": 13.375,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY029B1-01",
+          "shot_id": "CY029B1",
+          "role": "Claude",
+          "text_ja": "せいか。",
+          "local_start": 0.0,
+          "local_end": 0.99,
+          "duration": 0.99,
+          "file": "后期/日语配音修正-v003/干声/VO-CY029B1-01__Claude__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 0.99,
+          "rate": 1,
+          "sha256": "0ef9e34639b7c71f97bc5e3d2eea1a978d4df201555ea01c436c0efc6778f5db",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY029B1"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 0.99,
+      "tail_after_last_voice_not_automatic_cut_budget": 12.37,
+      "tightening_constraint": "术名0–0.99，后续释放/虚脱/接住无台词；末段接住区域停乐。",
+      "cross_shot_reposition": "术名跟星火动作前置；可修后续慢镜与接住，不重复术名。",
+      "bgm_off_intersections_v025": [
+        {
+          "id": "S07",
+          "local_start": 11.360001,
+          "local_end": 13.36,
+          "reason": "接住、抱稳、依靠及离殿保留呼吸脚步"
+        }
+      ]
+    },
+    {
+      "batch_number": 41,
+      "id": "GB030-2",
+      "film_start_v025": 454.022729,
+      "baseline_duration": 3,
+      "current_video_duration": 5.166667,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY028-01",
+          "shot_id": "CY028",
+          "role": "GPT",
+          "text_ja": "行こう。",
+          "local_start": 0.8,
+          "local_end": 1.68,
+          "duration": 0.88,
+          "file": "后期/日语配音修正-v003/干声/VO-CY028-01__GPT__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 0.88,
+          "rate": 1,
+          "sha256": "6a7ce44259dfc2dbf6bb54580543d63cb6c94f73dfe9c108c5681046ab995a6a",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY028"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 1.68,
+      "tail_after_last_voice_not_automatic_cut_budget": 1.32,
+      "tightening_constraint": "GPT“行こう”0.8–1.68，完整0.88秒；原片5.166667不代表需要5秒对白，当前基线3秒。",
+      "cross_shot_reposition": "可以跨接抱稳/转身/离殿镜，最好先抱稳再说并迈步。保持词尾后短气口；此段停乐，呼吸与脚步需独立制作。",
+      "bgm_off_intersections_v025": [
+        {
+          "id": "S07",
+          "local_start": 0.0,
+          "local_end": 3.0,
+          "reason": "接住、抱稳、依靠及离殿保留呼吸脚步"
+        }
+      ]
+    },
+    {
+      "batch_number": 42,
+      "id": "GB031",
+      "film_start_v025": 457.022729,
+      "baseline_duration": 14,
+      "current_video_duration": 14.0,
+      "required_dialogue": [],
+      "last_voice_end_without_reposition": null,
+      "tail_after_last_voice_not_automatic_cut_budget": null,
+      "tightening_constraint": "按下列整句文件边界保留；无台词不表示拟音/BGM可任意硬切。",
+      "cross_shot_reposition": "无锁定对白，可按动作剪画面；BGM和环境声另按实际切点调整。",
+      "bgm_off_intersections_v025": [
+        {
+          "id": "S07",
+          "local_start": 0.0,
+          "local_end": 9.000001,
+          "reason": "接住、抱稳、依靠及离殿保留呼吸脚步"
+        }
+      ]
+    },
+    {
+      "batch_number": 43,
+      "id": "GB032",
+      "film_start_v025": 471.022729,
+      "baseline_duration": 10,
+      "current_video_duration": 10.125,
+      "required_dialogue": [
+        {
+          "cue_id": "VO-CY031A-01",
+          "shot_id": "CY031A",
+          "role": "小鱼",
+          "text_ja": "少し食べる？",
+          "local_start": 1.0,
+          "local_end": 2.78,
+          "duration": 1.78,
+          "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY031A-01__Xiaoyu__ja__v001.wav",
+          "file_in": 0,
+          "file_out": 1.78,
+          "rate": 1,
+          "sha256": "f29b298239b50d560f23fe2b2be984a5d2fe7b03ab8c588862f8bcc9bb392e38",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY031A"
+          ],
+          "override": null
+        },
+        {
+          "cue_id": "VO-CY031A-02",
+          "shot_id": "CY031A",
+          "role": "Claude",
+          "text_ja": "うん。",
+          "local_start": 3.08,
+          "local_end": 3.78,
+          "duration": 0.7,
+          "file": "后期/日语配音修正-v003/干声/VO-CY031A-02__Claude__ja__v003.wav",
+          "file_in": 0,
+          "file_out": 0.7,
+          "rate": 1,
+          "sha256": "90fb8abbd3649083d9f4d5b48a7cab12458728580ebc230ee700315a56cf94c3",
+          "existing_cross_shot_offscreen": false,
+          "visual_shots": [
+            "CY031A"
+          ],
+          "override": null
+        }
+      ],
+      "last_voice_end_without_reposition": 3.78,
+      "tail_after_last_voice_not_automatic_cut_budget": 6.22,
+      "tightening_constraint": "按下列整句文件边界保留；无台词不表示拟音/BGM可任意硬切。",
+      "cross_shot_reposition": "可在同场听者/道具反应上作J/L剪辑，需明确说话者和因果；不得自动跨场移动。",
+      "bgm_off_intersections_v025": []
+    },
+    {
+      "batch_number": 44,
+      "id": "GB033",
+      "film_start_v025": 481.022729,
+      "baseline_duration": 9,
+      "current_video_duration": 9.416667,
+      "required_dialogue": [],
+      "last_voice_end_without_reposition": null,
+      "tail_after_last_voice_not_automatic_cut_budget": null,
+      "tightening_constraint": "无对白；批内5–9秒对应最后4秒无BGM。9.416667回片多出的0.416667不属于受保护时长。",
+      "cross_shot_reposition": "可收前段推进/吃饭/余味前的冗余，但新片尾必须反推保留4秒完整无BGM区，保留环境声，不等于4秒数字静音。",
+      "bgm_off_intersections_v025": [
+        {
+          "id": "S08",
+          "local_start": 5.000001,
+          "local_end": 9.0,
+          "reason": "末镜无BGM四秒"
+        }
+      ]
+    }
+  ],
+  "file_checks": [
+    {
+      "cue_id": "VO-CY003-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 3.08,
+      "required_file_out": 3.08,
+      "duration_matches": true,
+      "method": "完整解码48k单声道样本数（WAV头占位长度不可用）"
+    },
+    {
+      "cue_id": "VO-CY003B-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 3.152725,
+      "required_file_out": 3.1527291666666666,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY004-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 5.0,
+      "required_file_out": 5.0,
+      "duration_matches": true,
+      "method": "完整解码48k单声道样本数（WAV头占位长度不可用）"
+    },
+    {
+      "cue_id": "VO-CY004D-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 2.2,
+      "required_file_out": 2.2,
+      "duration_matches": true,
+      "method": "完整解码48k单声道样本数（WAV头占位长度不可用）"
+    },
+    {
+      "cue_id": "VO-CY006-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 4.58,
+      "required_file_out": 4.58,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY007-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 3.43,
+      "required_file_out": 3.43,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY008-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 2.719975,
+      "required_file_out": 2.7199791666666666,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY008M-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 3.58,
+      "required_file_out": 3.58,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY008M-02",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 10.009975,
+      "required_file_out": 10.009979166666668,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY009-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 1.7,
+      "required_file_out": 1.7,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY010A-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 2.87,
+      "required_file_out": 2.87,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY015-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 1.62,
+      "required_file_out": 1.62,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY015-02",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 1.5,
+      "required_file_out": 1.5,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY016A-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 4.22,
+      "required_file_out": 4.22,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY016A-02",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 3.35995,
+      "required_file_out": 3.359958333333333,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY016B1-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 1.38,
+      "required_file_out": 1.38,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY021A-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 6.3,
+      "required_file_out": 6.3,
+      "duration_matches": true,
+      "method": "完整解码48k单声道样本数（WAV头占位长度不可用）"
+    },
+    {
+      "cue_id": "VO-CY019-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 0.8,
+      "required_file_out": 0.8,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY020-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 2.639975,
+      "required_file_out": 2.6399791666666665,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY021-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 4.13,
+      "required_file_out": 4.13,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY024-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 1.41,
+      "required_file_out": 1.41,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY024R-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 2.2,
+      "required_file_out": 2.2,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY024K0-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 3.7,
+      "required_file_out": 3.7,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY024K0-02",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 3.980025,
+      "required_file_out": 3.9800416666666667,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY024K1A-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 0.88,
+      "required_file_out": 0.88,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY026A-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 1.82,
+      "required_file_out": 1.82,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY026A1-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 1.150025,
+      "required_file_out": 1.1500416666666666,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY026B-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 0.98,
+      "required_file_out": 0.98,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY026B-02",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 1.23,
+      "required_file_out": 1.23,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY026C-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 1.04,
+      "required_file_out": 1.04,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY026C-02",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 0.98,
+      "required_file_out": 0.98,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY026D1-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 2.339925,
+      "required_file_out": 2.3399375,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY026D-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 7.160575,
+      "required_file_out": 7.160583333333333,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY026D-02",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 1.39895,
+      "required_file_out": 1.3989583333333333,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY026E-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 3.38,
+      "required_file_out": 3.38,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY024A0-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 1.31375,
+      "required_file_out": 1.31375,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY024A-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 3.12,
+      "required_file_out": 3.12,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY024A9-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 7.3952,
+      "required_file_out": 7.395208333333334,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY024A2-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 7.24,
+      "required_file_out": 7.24,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY024A3-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 6.44,
+      "required_file_out": 6.44,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY024A6-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 3.91995,
+      "required_file_out": 3.919958333333333,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY024A6-02",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 5.253575,
+      "required_file_out": 5.253583333333333,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY024A7-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 5.35,
+      "required_file_out": 5.35,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY024A4-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 4.759975,
+      "required_file_out": 4.759979166666667,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY024A8-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 5.18,
+      "required_file_out": 5.18,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY024A5-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 6.816675,
+      "required_file_out": 6.8166875,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY024A5-02",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 1.34255,
+      "required_file_out": 1.3425625,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY027A-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 2.79,
+      "required_file_out": 2.79,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY027B-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 0.93,
+      "required_file_out": 0.93,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY028A-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 1.58,
+      "required_file_out": 1.58,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY028A-02",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 1.51,
+      "required_file_out": 1.51,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY028A2-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 4.07,
+      "required_file_out": 4.07,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY028B-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 1.85,
+      "required_file_out": 1.85,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY028C-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 1.72,
+      "required_file_out": 1.72,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY029-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 3.1,
+      "required_file_out": 3.1,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY029E1-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 2.369975,
+      "required_file_out": 2.3699791666666665,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY029E2-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 2.64,
+      "required_file_out": 2.64,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY029E3-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 1.73,
+      "required_file_out": 1.73,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY029E4-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 2.61,
+      "required_file_out": 2.61,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY029B1-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 0.99,
+      "required_file_out": 0.99,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY028-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 0.88,
+      "required_file_out": 0.88,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY031A-01",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 1.78,
+      "required_file_out": 1.78,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    },
+    {
+      "cue_id": "VO-CY031A-02",
+      "sha256_matches": true,
+      "decoded_or_sample_seconds": 0.7,
+      "required_file_out": 0.7,
+      "duration_matches": true,
+      "method": "WAV样本数"
+    }
+  ],
+  "limits": [
+    "本报告核文件、时码与叙事声音边界；未做完整连续听审、逐词对齐、响度验收或口型通过。",
+    "4个早期WAV的头部长度是异常占位值，已用完整解码确认分别3.08/5.0/2.2/6.3秒，不将头部伪时长当缺失或长音。",
+    "跨镜移位是本轮后期可行建议，不改作者选声，不自动采用新台词。"
+  ]
+}

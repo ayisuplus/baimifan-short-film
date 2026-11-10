@@ -1,0 +1,41 @@
+{
+  "engine": "built-in image_gen",
+  "role": "恶魔GPT大头娃娃四视图",
+  "records": [
+    {
+      "version": "v001",
+      "path": "资产/图像/王宫内心戏-v001/CHAR-GPT-DEVIL-TURN-v001-白角未采用.png",
+      "status": "rejected_white_horns",
+      "sha256": "add033dbebb88a9f55beff8a648a4744d3f94ee03c179f176965da1716ef9f3f",
+      "size": [
+        2172,
+        724
+      ]
+    },
+    {
+      "version": "v002",
+      "path": "资产/图像/王宫内心戏-v001/CHAR-GPT-DEVIL-TURN-v002-配色未采用.png",
+      "status": "rejected_color_harmony",
+      "sha256": "83b35b1684ea91eaaf0e0ebb88d9e307bf865defceade1fcac95b33eba205001",
+      "size": [
+        2172,
+        724
+      ]
+    },
+    {
+      "version": "v003",
+      "path": "资产/图像/王宫内心戏-v001/CHAR-GPT-DEVIL-TURN-v003.png",
+      "status": "author_adopted",
+      "sha256": "e44ded7f0a9e27a70ff2980d4d95a331882f929efe7394257daab0cc01910b15",
+      "size": [
+        2172,
+        724
+      ],
+      "approval": "2026-10-26 作者：可以了，接着做。采用恶魔v003酒红配色。"
+    }
+  ],
+  "proportion_source": "资产/图像/王宫内心戏-v001/CHAR-GPT-ANGEL-TURN-v003.png",
+  "author_direction": "角必须红色；作者指出红角与原紫色服饰不协调，授权调整配色。",
+  "palette": "深宝石酒红角、低饱和灰酒红披肩与翼膜、象牙白裙、白发与少量金饰；保留紫色眼睛。",
+  "prompt": "资产/生成记录/王宫内心戏-v001/恶魔配色-v003-prompt.txt"
+}

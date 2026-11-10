@@ -1,0 +1,744 @@
+{
+  "reviewer": "independent_reference_review",
+  "source": "后期/生成收口-v025/逐批输入审阅快照.json",
+  "summary": "13个原Seedance批次中4批实际图数超9，其余9批只需使用Metaso更长提示词容量。仅精简4批，均保留全部构图参考且减至9张。",
+  "original_reference_total": 121,
+  "new_reference_total": 101,
+  "items": [
+    {
+      "batch_number": 17,
+      "batch_id": "GB014",
+      "original_reference_count": 12,
+      "new_reference_count": 9,
+      "keep_original_slots": [
+        1,
+        2,
+        3,
+        4,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "old_to_new_slot": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "8": 5,
+        "9": 6,
+        "10": 7,
+        "11": 8,
+        "12": 9
+      },
+      "drop": [
+        {
+          "slot": 5,
+          "path": "资产/图像/四视图复用/C16_Tencent-Hunyuan-角色设定卡.png",
+          "reason": "混元仅在3秒低位广角群像中出镜，无独立近景；原11已给出当前群像中的红白服装和位置。"
+        },
+        {
+          "slot": 6,
+          "path": "资产/图像/四视图复用/C10_Meta-角色设定卡.png",
+          "reason": "Llama仅3秒群像背景，原11保留其浅色轮廓和位置，无换视角独立表演。"
+        },
+        {
+          "slot": 7,
+          "path": "资产/图像/四视图复用/C05_Zai-GLM-角色设定卡.png",
+          "reason": "智谱仅3秒群像背景，黑色帽型/衣色及队形由原11提供。"
+        }
+      ],
+      "visual_review": "目视全部参考拼图及完整源提示词，身份卡与群像/分屏重复用途已核对。",
+      "contact_sheet": "视频制作/Metaso-H3-v002/审查/17-GB014-全部参考.jpg",
+      "source_prompt": "视频制作/生成板-v025/提示词/GB014-minimax-h3.txt",
+      "source_prompt_characters": 1667,
+      "source_prompt_sha256": "642604e67c503d0bc6910c254e82e24eae9680c318a946db5dfe98396555bbf0",
+      "prompt_complete_checks": {
+        "ends_with_non_diegetic_music_NA": true,
+        "shot_blocks": 2,
+        "within_metaso_10000": true
+      },
+      "no_composition_deleted": true,
+      "composition_reference_replacement": "所有构图/动作正文引用均有保留图；按old_to_new_slot重编号即可，不需要把删除构图改成文字。",
+      "required_prompt_scope": "对于未另附身份卡的混元、Llama、智谱，仅在原群像参考对应位置保持已有服装、发色和轮廓，三人不独立切近景、不新增造型；GPT加八位同伴仍共九人，不得减少人数或加入Kimi。",
+      "prompt_change_instructions": [
+        "删除subject_definitions中被删身份卡对应行；不要删除人物名、镜头或任何对白。",
+        "保留图引用统一按映射转换为Image N，不可顺序替换导致编号串改；使用单次正则回调。",
+        "删除后的身份卡人物保留在画内名单/人数/动作中；按本条required_prompt_scope明确群像或分屏的局部身份用途。",
+        "retention_analysis不能继续笼统称全部身份均由四视图fully_preserved；改为主角四视图保持、背景或分屏角色由保留场景图约束。",
+        "原本构图图不替代身份的全局条款需改成仅对仍附身份卡角色适用，避免与本轮精简策略冲突。",
+        "日语对白、镜长、BGM空窗与动作切点保持；不因转H3截断完整提示词。"
+      ],
+      "review_risk": "群像中少数背景人物精确小饰物约束减弱，属于本轮删冗余卡的可见取舍；完整群像构图仍保留，不能承诺动态所有细节不漂移。"
+    },
+    {
+      "batch_number": 18,
+      "batch_id": "GB014A",
+      "original_reference_count": 5,
+      "new_reference_count": 5,
+      "keep_original_slots": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "old_to_new_slot": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5
+      },
+      "drop": [],
+      "visual_review": "图数未超限，不作本轮删图；未在本轮逐张重新视觉验收。",
+      "contact_sheet": "视频制作/Metaso-H3-v002/审查/18-GB014A-全部参考.jpg",
+      "source_prompt": "视频制作/生成板-v025/提示词/GB014A-minimax-h3.txt",
+      "source_prompt_characters": 2222,
+      "source_prompt_sha256": "81e8a438d7c23eb62b8f6810ebcdaa498439473c20a5978de4699c7df6b7eed5",
+      "prompt_complete_checks": {
+        "ends_with_non_diegetic_music_NA": true,
+        "shot_blocks": 2,
+        "within_metaso_10000": true
+      },
+      "no_composition_deleted": true,
+      "composition_reference_replacement": "所有构图/动作正文引用均有保留图；按old_to_new_slot重编号即可，不需要把删除构图改成文字。",
+      "required_prompt_scope": "无需删除，原参考按原顺序保留。",
+      "prompt_change_instructions": [
+        "删除subject_definitions中被删身份卡对应行；不要删除人物名、镜头或任何对白。",
+        "保留图引用统一按映射转换为Image N，不可顺序替换导致编号串改；使用单次正则回调。",
+        "删除后的身份卡人物保留在画内名单/人数/动作中；按本条required_prompt_scope明确群像或分屏的局部身份用途。",
+        "retention_analysis不能继续笼统称全部身份均由四视图fully_preserved；改为主角四视图保持、背景或分屏角色由保留场景图约束。",
+        "原本构图图不替代身份的全局条款需改成仅对仍附身份卡角色适用，避免与本轮精简策略冲突。",
+        "日语对白、镜长、BGM空窗与动作切点保持；不因转H3截断完整提示词。"
+      ],
+      "review_risk": "本轮只改服务输入格式，现有图数无需精简。"
+    },
+    {
+      "batch_number": 19,
+      "batch_id": "GB015-1",
+      "original_reference_count": 6,
+      "new_reference_count": 6,
+      "keep_original_slots": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "old_to_new_slot": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6
+      },
+      "drop": [],
+      "visual_review": "图数未超限，不作本轮删图；未在本轮逐张重新视觉验收。",
+      "contact_sheet": "视频制作/Metaso-H3-v002/审查/19-GB015-1-全部参考.jpg",
+      "source_prompt": "视频制作/生成板-v025/提示词/GB015-1-minimax-h3.txt",
+      "source_prompt_characters": 2154,
+      "source_prompt_sha256": "d964dcd308b2fe13bb5693bf9983d6106b3980c5fa46358c499bb771936b9cdc",
+      "prompt_complete_checks": {
+        "ends_with_non_diegetic_music_NA": true,
+        "shot_blocks": 4,
+        "within_metaso_10000": true
+      },
+      "no_composition_deleted": true,
+      "composition_reference_replacement": "所有构图/动作正文引用均有保留图；按old_to_new_slot重编号即可，不需要把删除构图改成文字。",
+      "required_prompt_scope": "无需删除，原参考按原顺序保留。",
+      "prompt_change_instructions": [
+        "删除subject_definitions中被删身份卡对应行；不要删除人物名、镜头或任何对白。",
+        "保留图引用统一按映射转换为Image N，不可顺序替换导致编号串改；使用单次正则回调。",
+        "删除后的身份卡人物保留在画内名单/人数/动作中；按本条required_prompt_scope明确群像或分屏的局部身份用途。",
+        "retention_analysis不能继续笼统称全部身份均由四视图fully_preserved；改为主角四视图保持、背景或分屏角色由保留场景图约束。",
+        "原本构图图不替代身份的全局条款需改成仅对仍附身份卡角色适用，避免与本轮精简策略冲突。",
+        "日语对白、镜长、BGM空窗与动作切点保持；不因转H3截断完整提示词。"
+      ],
+      "review_risk": "本轮只改服务输入格式，现有图数无需精简。"
+    },
+    {
+      "batch_number": 25,
+      "batch_id": "GB018",
+      "original_reference_count": 11,
+      "new_reference_count": 9,
+      "keep_original_slots": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "old_to_new_slot": {
+        "3": 1,
+        "4": 2,
+        "5": 3,
+        "6": 4,
+        "7": 5,
+        "8": 6,
+        "9": 7,
+        "10": 8,
+        "11": 9
+      },
+      "drop": [
+        {
+          "slot": 1,
+          "path": "资产/图像/四视图复用/C16_Tencent-Hunyuan-角色设定卡.png",
+          "reason": "五格原9清楚给出混元正面与当时服饰；本镜仅抬眼，既有分屏足以约束，独立全套卡冗余。"
+        },
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图复用/C10_Meta-角色设定卡.png",
+          "reason": "五格原9清楚给出Llama正面与当时服饰；仅放下揉眼的手，不换服装或独立换视角。"
+        }
+      ],
+      "visual_review": "目视全部参考拼图及完整源提示词，身份卡与群像/分屏重复用途已核对。",
+      "contact_sheet": "视频制作/Metaso-H3-v002/审查/25-GB018-全部参考.jpg",
+      "source_prompt": "视频制作/生成板-v025/提示词/GB018-minimax-h3.txt",
+      "source_prompt_characters": 2133,
+      "source_prompt_sha256": "2ea9292f2bad90d9512cdf37d3d013ef0c926c97e2ab3d1410d0cabac9b510a9",
+      "prompt_complete_checks": {
+        "ends_with_non_diegetic_music_NA": true,
+        "shot_blocks": 3,
+        "within_metaso_10000": true
+      },
+      "no_composition_deleted": true,
+      "composition_reference_replacement": "所有构图/动作正文引用均有保留图；按old_to_new_slot重编号即可，不需要把删除构图改成文字。",
+      "required_prompt_scope": "五格图中的混元、Llama同时作为本镜局部身份外观依据，保留原格内服饰、发色、脸型及空间；每人只在自己的格内做原定小动作。后三格智谱合书、Mistral提剑、Perplexity扶眼镜仍各保留完整身份卡。",
+      "prompt_change_instructions": [
+        "删除subject_definitions中被删身份卡对应行；不要删除人物名、镜头或任何对白。",
+        "保留图引用统一按映射转换为Image N，不可顺序替换导致编号串改；使用单次正则回调。",
+        "删除后的身份卡人物保留在画内名单/人数/动作中；按本条required_prompt_scope明确群像或分屏的局部身份用途。",
+        "retention_analysis不能继续笼统称全部身份均由四视图fully_preserved；改为主角四视图保持、背景或分屏角色由保留场景图约束。",
+        "原本构图图不替代身份的全局条款需改成仅对仍附身份卡角色适用，避免与本轮精简策略冲突。",
+        "日语对白、镜长、BGM空窗与动作切点保持；不因转H3截断完整提示词。"
+      ],
+      "review_risk": "群像中少数背景人物精确小饰物约束减弱，属于本轮删冗余卡的可见取舍；完整群像构图仍保留，不能承诺动态所有细节不漂移。"
+    },
+    {
+      "batch_number": 26,
+      "batch_id": "GB019",
+      "original_reference_count": 9,
+      "new_reference_count": 9,
+      "keep_original_slots": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "old_to_new_slot": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9
+      },
+      "drop": [],
+      "visual_review": "图数未超限，不作本轮删图；未在本轮逐张重新视觉验收。",
+      "contact_sheet": "视频制作/Metaso-H3-v002/审查/26-GB019-全部参考.jpg",
+      "source_prompt": "视频制作/生成板-v025/提示词/GB019-minimax-h3.txt",
+      "source_prompt_characters": 3760,
+      "source_prompt_sha256": "968afb42bbf7c7ef5f1caba6cce6dae92a85196c0286702f03f6e53f733162e1",
+      "prompt_complete_checks": {
+        "ends_with_non_diegetic_music_NA": true,
+        "shot_blocks": 6,
+        "within_metaso_10000": true
+      },
+      "no_composition_deleted": true,
+      "composition_reference_replacement": "所有构图/动作正文引用均有保留图；按old_to_new_slot重编号即可，不需要把删除构图改成文字。",
+      "required_prompt_scope": "无需删除，原参考按原顺序保留。",
+      "prompt_change_instructions": [
+        "删除subject_definitions中被删身份卡对应行；不要删除人物名、镜头或任何对白。",
+        "保留图引用统一按映射转换为Image N，不可顺序替换导致编号串改；使用单次正则回调。",
+        "删除后的身份卡人物保留在画内名单/人数/动作中；按本条required_prompt_scope明确群像或分屏的局部身份用途。",
+        "retention_analysis不能继续笼统称全部身份均由四视图fully_preserved；改为主角四视图保持、背景或分屏角色由保留场景图约束。",
+        "原本构图图不替代身份的全局条款需改成仅对仍附身份卡角色适用，避免与本轮精简策略冲突。",
+        "日语对白、镜长、BGM空窗与动作切点保持；不因转H3截断完整提示词。"
+      ],
+      "review_risk": "本轮只改服务输入格式，现有图数无需精简。"
+    },
+    {
+      "batch_number": 30,
+      "batch_id": "GB021",
+      "original_reference_count": 6,
+      "new_reference_count": 6,
+      "keep_original_slots": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "old_to_new_slot": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6
+      },
+      "drop": [],
+      "visual_review": "图数未超限，不作本轮删图；未在本轮逐张重新视觉验收。",
+      "contact_sheet": "视频制作/Metaso-H3-v002/审查/30-GB021-全部参考.jpg",
+      "source_prompt": "视频制作/生成板-v025/提示词/GB021-minimax-h3.txt",
+      "source_prompt_characters": 2138,
+      "source_prompt_sha256": "2ca02a0c76a1612bb0fcb7385a7de8bb4de34da903ae0cedb80bf0da8f8e2423",
+      "prompt_complete_checks": {
+        "ends_with_non_diegetic_music_NA": true,
+        "shot_blocks": 3,
+        "within_metaso_10000": true
+      },
+      "no_composition_deleted": true,
+      "composition_reference_replacement": "所有构图/动作正文引用均有保留图；按old_to_new_slot重编号即可，不需要把删除构图改成文字。",
+      "required_prompt_scope": "无需删除，原参考按原顺序保留。",
+      "prompt_change_instructions": [
+        "删除subject_definitions中被删身份卡对应行；不要删除人物名、镜头或任何对白。",
+        "保留图引用统一按映射转换为Image N，不可顺序替换导致编号串改；使用单次正则回调。",
+        "删除后的身份卡人物保留在画内名单/人数/动作中；按本条required_prompt_scope明确群像或分屏的局部身份用途。",
+        "retention_analysis不能继续笼统称全部身份均由四视图fully_preserved；改为主角四视图保持、背景或分屏角色由保留场景图约束。",
+        "原本构图图不替代身份的全局条款需改成仅对仍附身份卡角色适用，避免与本轮精简策略冲突。",
+        "日语对白、镜长、BGM空窗与动作切点保持；不因转H3截断完整提示词。"
+      ],
+      "review_risk": "本轮只改服务输入格式，现有图数无需精简。"
+    },
+    {
+      "batch_number": 34,
+      "batch_id": "GB024",
+      "original_reference_count": 7,
+      "new_reference_count": 7,
+      "keep_original_slots": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "old_to_new_slot": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7
+      },
+      "drop": [],
+      "visual_review": "图数未超限，不作本轮删图；未在本轮逐张重新视觉验收。",
+      "contact_sheet": "视频制作/Metaso-H3-v002/审查/34-GB024-全部参考.jpg",
+      "source_prompt": "视频制作/生成板-v025/提示词/GB024-minimax-h3.txt",
+      "source_prompt_characters": 2071,
+      "source_prompt_sha256": "6e75d4a6411c67ac9cede28093cdbd0120f3f75e4b9bb96e049224c1cb48c2b4",
+      "prompt_complete_checks": {
+        "ends_with_non_diegetic_music_NA": true,
+        "shot_blocks": 5,
+        "within_metaso_10000": true
+      },
+      "no_composition_deleted": true,
+      "composition_reference_replacement": "所有构图/动作正文引用均有保留图；按old_to_new_slot重编号即可，不需要把删除构图改成文字。",
+      "required_prompt_scope": "无需删除，原参考按原顺序保留。",
+      "prompt_change_instructions": [
+        "删除subject_definitions中被删身份卡对应行；不要删除人物名、镜头或任何对白。",
+        "保留图引用统一按映射转换为Image N，不可顺序替换导致编号串改；使用单次正则回调。",
+        "删除后的身份卡人物保留在画内名单/人数/动作中；按本条required_prompt_scope明确群像或分屏的局部身份用途。",
+        "retention_analysis不能继续笼统称全部身份均由四视图fully_preserved；改为主角四视图保持、背景或分屏角色由保留场景图约束。",
+        "原本构图图不替代身份的全局条款需改成仅对仍附身份卡角色适用，避免与本轮精简策略冲突。",
+        "日语对白、镜长、BGM空窗与动作切点保持；不因转H3截断完整提示词。"
+      ],
+      "review_risk": "本轮只改服务输入格式，现有图数无需精简。"
+    },
+    {
+      "batch_number": 36,
+      "batch_id": "GB026",
+      "original_reference_count": 16,
+      "new_reference_count": 9,
+      "keep_original_slots": [
+        1,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "old_to_new_slot": {
+        "1": 1,
+        "9": 2,
+        "10": 3,
+        "11": 4,
+        "12": 5,
+        "13": 6,
+        "14": 7,
+        "15": 8,
+        "16": 9
+      },
+      "drop": [
+        {
+          "slot": 2,
+          "path": "资产/图像/四视图复用/C06_Gemini-角色设定卡.png",
+          "reason": "该同伴仅守门/收势群像背景，不出现独立近景；两张原13/15完整群像保留其服饰色块、站位与既有空间，删除独立设定卡不删除角色。"
+        },
+        {
+          "slot": 3,
+          "path": "资产/图像/四视图复用/C09_Grok-角色设定卡.png",
+          "reason": "该同伴仅守门/收势群像背景，不出现独立近景；两张原13/15完整群像保留其服饰色块、站位与既有空间，删除独立设定卡不删除角色。"
+        },
+        {
+          "slot": 4,
+          "path": "资产/图像/四视图复用/C16_Tencent-Hunyuan-角色设定卡.png",
+          "reason": "该同伴仅守门/收势群像背景，不出现独立近景；两张原13/15完整群像保留其服饰色块、站位与既有空间，删除独立设定卡不删除角色。"
+        },
+        {
+          "slot": 5,
+          "path": "资产/图像/四视图复用/C10_Meta-角色设定卡.png",
+          "reason": "该同伴仅守门/收势群像背景，不出现独立近景；两张原13/15完整群像保留其服饰色块、站位与既有空间，删除独立设定卡不删除角色。"
+        },
+        {
+          "slot": 6,
+          "path": "资产/图像/四视图复用/C05_Zai-GLM-角色设定卡.png",
+          "reason": "该同伴仅守门/收势群像背景，不出现独立近景；两张原13/15完整群像保留其服饰色块、站位与既有空间，删除独立设定卡不删除角色。"
+        },
+        {
+          "slot": 7,
+          "path": "资产/图像/四视图复用/C08_Mistral-角色设定卡.png",
+          "reason": "该同伴仅守门/收势群像背景，不出现独立近景；两张原13/15完整群像保留其服饰色块、站位与既有空间，删除独立设定卡不删除角色。"
+        },
+        {
+          "slot": 8,
+          "path": "资产/图像/四视图复用/C07_Perplexity-角色设定卡.png",
+          "reason": "该同伴仅守门/收势群像背景，不出现独立近景；两张原13/15完整群像保留其服饰色块、站位与既有空间，删除独立设定卡不删除角色。"
+        }
+      ],
+      "visual_review": "目视全部参考拼图及完整源提示词，身份卡与群像/分屏重复用途已核对。",
+      "contact_sheet": "视频制作/Metaso-H3-v002/审查/36-GB026-全部参考.jpg",
+      "source_prompt": "视频制作/生成板-v025/提示词/GB026-minimax-h3.txt",
+      "source_prompt_characters": 2084,
+      "source_prompt_sha256": "83f98da8f7eb21b4e79d83b7cd29f00188ba9e870b6fd908068846808de7e6d8",
+      "prompt_complete_checks": {
+        "ends_with_non_diegetic_music_NA": true,
+        "shot_blocks": 4,
+        "within_metaso_10000": true
+      },
+      "no_composition_deleted": true,
+      "composition_reference_replacement": "所有构图/动作正文引用均有保留图；按old_to_new_slot重编号即可，不需要把删除构图改成文字。",
+      "required_prompt_scope": "七位无独立身份卡同伴只按两张群像原有位置和服饰做转身迎敌或收势，不另创全身设计或单人特写；仍为八位下层同伴含抱着小鱼的千问。Perplexity在原有位置持杖。GPT与教主、千问与小鱼、骑士另有专门身份卡。Kimi与Claude仍在最高祭坛不透明暗罩内。",
+      "prompt_change_instructions": [
+        "删除subject_definitions中被删身份卡对应行；不要删除人物名、镜头或任何对白。",
+        "保留图引用统一按映射转换为Image N，不可顺序替换导致编号串改；使用单次正则回调。",
+        "删除后的身份卡人物保留在画内名单/人数/动作中；按本条required_prompt_scope明确群像或分屏的局部身份用途。",
+        "retention_analysis不能继续笼统称全部身份均由四视图fully_preserved；改为主角四视图保持、背景或分屏角色由保留场景图约束。",
+        "原本构图图不替代身份的全局条款需改成仅对仍附身份卡角色适用，避免与本轮精简策略冲突。",
+        "日语对白、镜长、BGM空窗与动作切点保持；不因转H3截断完整提示词。"
+      ],
+      "review_risk": "群像中少数背景人物精确小饰物约束减弱，属于本轮删冗余卡的可见取舍；完整群像构图仍保留，不能承诺动态所有细节不漂移。"
+    },
+    {
+      "batch_number": 37,
+      "batch_id": "GB027",
+      "original_reference_count": 8,
+      "new_reference_count": 8,
+      "keep_original_slots": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "old_to_new_slot": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8
+      },
+      "drop": [],
+      "visual_review": "图数未超限，不作本轮删图；未在本轮逐张重新视觉验收。",
+      "contact_sheet": "视频制作/Metaso-H3-v002/审查/37-GB027-全部参考.jpg",
+      "source_prompt": "视频制作/生成板-v025/提示词/GB027-minimax-h3.txt",
+      "source_prompt_characters": 2527,
+      "source_prompt_sha256": "76a9ea452c60e2b50210846423f7b9b82f0bd12730e2e534ab91a1ddc34d3e77",
+      "prompt_complete_checks": {
+        "ends_with_non_diegetic_music_NA": true,
+        "shot_blocks": 4,
+        "within_metaso_10000": true
+      },
+      "no_composition_deleted": true,
+      "composition_reference_replacement": "所有构图/动作正文引用均有保留图；按old_to_new_slot重编号即可，不需要把删除构图改成文字。",
+      "required_prompt_scope": "无需删除，原参考按原顺序保留。",
+      "prompt_change_instructions": [
+        "删除subject_definitions中被删身份卡对应行；不要删除人物名、镜头或任何对白。",
+        "保留图引用统一按映射转换为Image N，不可顺序替换导致编号串改；使用单次正则回调。",
+        "删除后的身份卡人物保留在画内名单/人数/动作中；按本条required_prompt_scope明确群像或分屏的局部身份用途。",
+        "retention_analysis不能继续笼统称全部身份均由四视图fully_preserved；改为主角四视图保持、背景或分屏角色由保留场景图约束。",
+        "原本构图图不替代身份的全局条款需改成仅对仍附身份卡角色适用，避免与本轮精简策略冲突。",
+        "日语对白、镜长、BGM空窗与动作切点保持；不因转H3截断完整提示词。"
+      ],
+      "review_risk": "本轮只改服务输入格式，现有图数无需精简。"
+    },
+    {
+      "batch_number": 38,
+      "batch_id": "GB028",
+      "original_reference_count": 9,
+      "new_reference_count": 9,
+      "keep_original_slots": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "old_to_new_slot": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9
+      },
+      "drop": [],
+      "visual_review": "图数未超限，不作本轮删图；未在本轮逐张重新视觉验收。",
+      "contact_sheet": "视频制作/Metaso-H3-v002/审查/38-GB028-全部参考.jpg",
+      "source_prompt": "视频制作/生成板-v025/提示词/GB028-minimax-h3.txt",
+      "source_prompt_characters": 2881,
+      "source_prompt_sha256": "709b302ece1acc4ffa67835caa6837f9e0de4214cc5f82a0406d76f26951a5d0",
+      "prompt_complete_checks": {
+        "ends_with_non_diegetic_music_NA": true,
+        "shot_blocks": 5,
+        "within_metaso_10000": true
+      },
+      "no_composition_deleted": true,
+      "composition_reference_replacement": "所有构图/动作正文引用均有保留图；按old_to_new_slot重编号即可，不需要把删除构图改成文字。",
+      "required_prompt_scope": "无需删除，原参考按原顺序保留。",
+      "prompt_change_instructions": [
+        "删除subject_definitions中被删身份卡对应行；不要删除人物名、镜头或任何对白。",
+        "保留图引用统一按映射转换为Image N，不可顺序替换导致编号串改；使用单次正则回调。",
+        "删除后的身份卡人物保留在画内名单/人数/动作中；按本条required_prompt_scope明确群像或分屏的局部身份用途。",
+        "retention_analysis不能继续笼统称全部身份均由四视图fully_preserved；改为主角四视图保持、背景或分屏角色由保留场景图约束。",
+        "原本构图图不替代身份的全局条款需改成仅对仍附身份卡角色适用，避免与本轮精简策略冲突。",
+        "日语对白、镜长、BGM空窗与动作切点保持；不因转H3截断完整提示词。"
+      ],
+      "review_risk": "本轮只改服务输入格式，现有图数无需精简。"
+    },
+    {
+      "batch_number": 39,
+      "batch_id": "GB029",
+      "original_reference_count": 8,
+      "new_reference_count": 8,
+      "keep_original_slots": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "old_to_new_slot": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8
+      },
+      "drop": [],
+      "visual_review": "图数未超限，不作本轮删图；未在本轮逐张重新视觉验收。",
+      "contact_sheet": "视频制作/Metaso-H3-v002/审查/39-GB029-全部参考.jpg",
+      "source_prompt": "视频制作/生成板-v025/提示词/GB029-minimax-h3.txt",
+      "source_prompt_characters": 2338,
+      "source_prompt_sha256": "6fde80906254ac8ef4c1d8f55468f680b12b30f87a4aa3a2c58e43b08f4e9273",
+      "prompt_complete_checks": {
+        "ends_with_non_diegetic_music_NA": true,
+        "shot_blocks": 4,
+        "within_metaso_10000": true
+      },
+      "no_composition_deleted": true,
+      "composition_reference_replacement": "所有构图/动作正文引用均有保留图；按old_to_new_slot重编号即可，不需要把删除构图改成文字。",
+      "required_prompt_scope": "无需删除，原参考按原顺序保留。",
+      "prompt_change_instructions": [
+        "删除subject_definitions中被删身份卡对应行；不要删除人物名、镜头或任何对白。",
+        "保留图引用统一按映射转换为Image N，不可顺序替换导致编号串改；使用单次正则回调。",
+        "删除后的身份卡人物保留在画内名单/人数/动作中；按本条required_prompt_scope明确群像或分屏的局部身份用途。",
+        "retention_analysis不能继续笼统称全部身份均由四视图fully_preserved；改为主角四视图保持、背景或分屏角色由保留场景图约束。",
+        "原本构图图不替代身份的全局条款需改成仅对仍附身份卡角色适用，避免与本轮精简策略冲突。",
+        "日语对白、镜长、BGM空窗与动作切点保持；不因转H3截断完整提示词。"
+      ],
+      "review_risk": "本轮只改服务输入格式，现有图数无需精简。"
+    },
+    {
+      "batch_number": 40,
+      "batch_id": "GB030-1",
+      "original_reference_count": 7,
+      "new_reference_count": 7,
+      "keep_original_slots": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "old_to_new_slot": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7
+      },
+      "drop": [],
+      "visual_review": "图数未超限，不作本轮删图；未在本轮逐张重新视觉验收。",
+      "contact_sheet": "视频制作/Metaso-H3-v002/审查/40-GB030-1-全部参考.jpg",
+      "source_prompt": "视频制作/生成板-v025/提示词/GB030-1-minimax-h3.txt",
+      "source_prompt_characters": 2954,
+      "source_prompt_sha256": "d4844033ded02632a9b3a4d25184fc39c7686ff7a7bd66af116b4370b35a97fa",
+      "prompt_complete_checks": {
+        "ends_with_non_diegetic_music_NA": true,
+        "shot_blocks": 5,
+        "within_metaso_10000": true
+      },
+      "no_composition_deleted": true,
+      "composition_reference_replacement": "所有构图/动作正文引用均有保留图；按old_to_new_slot重编号即可，不需要把删除构图改成文字。",
+      "required_prompt_scope": "无需删除，原参考按原顺序保留。",
+      "prompt_change_instructions": [
+        "删除subject_definitions中被删身份卡对应行；不要删除人物名、镜头或任何对白。",
+        "保留图引用统一按映射转换为Image N，不可顺序替换导致编号串改；使用单次正则回调。",
+        "删除后的身份卡人物保留在画内名单/人数/动作中；按本条required_prompt_scope明确群像或分屏的局部身份用途。",
+        "retention_analysis不能继续笼统称全部身份均由四视图fully_preserved；改为主角四视图保持、背景或分屏角色由保留场景图约束。",
+        "原本构图图不替代身份的全局条款需改成仅对仍附身份卡角色适用，避免与本轮精简策略冲突。",
+        "日语对白、镜长、BGM空窗与动作切点保持；不因转H3截断完整提示词。"
+      ],
+      "review_risk": "本轮只改服务输入格式，现有图数无需精简。"
+    },
+    {
+      "batch_number": 42,
+      "batch_id": "GB031",
+      "original_reference_count": 17,
+      "new_reference_count": 9,
+      "keep_original_slots": [
+        1,
+        2,
+        3,
+        4,
+        12,
+        14,
+        15,
+        16,
+        17
+      ],
+      "old_to_new_slot": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "12": 5,
+        "14": 6,
+        "15": 7,
+        "16": 8,
+        "17": 9
+      },
+      "drop": [
+        {
+          "slot": 5,
+          "path": "资产/图像/四视图复用/C06_Gemini-角色设定卡.png",
+          "reason": "该同伴只出现于离殿背面广角群像；原16已给出发色、服饰背面和队列位置，独立正背侧全套卡对本镜贡献有限。"
+        },
+        {
+          "slot": 6,
+          "path": "资产/图像/四视图复用/C09_Grok-角色设定卡.png",
+          "reason": "该同伴只出现于离殿背面广角群像；原16已给出发色、服饰背面和队列位置，独立正背侧全套卡对本镜贡献有限。"
+        },
+        {
+          "slot": 7,
+          "path": "资产/图像/四视图复用/C16_Tencent-Hunyuan-角色设定卡.png",
+          "reason": "该同伴只出现于离殿背面广角群像；原16已给出发色、服饰背面和队列位置，独立正背侧全套卡对本镜贡献有限。"
+        },
+        {
+          "slot": 8,
+          "path": "资产/图像/四视图复用/C10_Meta-角色设定卡.png",
+          "reason": "该同伴只出现于离殿背面广角群像；原16已给出发色、服饰背面和队列位置，独立正背侧全套卡对本镜贡献有限。"
+        },
+        {
+          "slot": 9,
+          "path": "资产/图像/四视图复用/C05_Zai-GLM-角色设定卡.png",
+          "reason": "该同伴只出现于离殿背面广角群像；原16已给出发色、服饰背面和队列位置，独立正背侧全套卡对本镜贡献有限。"
+        },
+        {
+          "slot": 10,
+          "path": "资产/图像/四视图复用/C08_Mistral-角色设定卡.png",
+          "reason": "该同伴只出现于离殿背面广角群像；原16已给出发色、服饰背面和队列位置，独立正背侧全套卡对本镜贡献有限。"
+        },
+        {
+          "slot": 11,
+          "path": "资产/图像/四视图复用/C07_Perplexity-角色设定卡.png",
+          "reason": "该同伴只出现于离殿背面广角群像；原16已给出发色、服饰背面和队列位置，独立正背侧全套卡对本镜贡献有限。"
+        },
+        {
+          "slot": 13,
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "reason": "教主只在群像前景倒地并留在殿内，原16已有对应服装和位置；没有独立表演或脸部镜头，不需完整四视图。"
+        }
+      ],
+      "visual_review": "目视全部参考拼图及完整源提示词，身份卡与群像/分屏重复用途已核对。",
+      "contact_sheet": "视频制作/Metaso-H3-v002/审查/42-GB031-全部参考.jpg",
+      "source_prompt": "视频制作/生成板-v025/提示词/GB031-minimax-h3.txt",
+      "source_prompt_characters": 1721,
+      "source_prompt_sha256": "5af10ae3b65a05db588bdf1482dbfe8160408db5ab66bb90364dfa6a260ef561",
+      "prompt_complete_checks": {
+        "ends_with_non_diegetic_music_NA": true,
+        "shot_blocks": 3,
+        "within_metaso_10000": true
+      },
+      "no_composition_deleted": true,
+      "composition_reference_replacement": "所有构图/动作正文引用均有保留图；按old_to_new_slot重编号即可，不需要把删除构图改成文字。",
+      "required_prompt_scope": "离殿背面广角以原群像固定其余七同伴的发型、服装背面和队列，十二位核心角色人数保持；倒地教主/教徒留在殿内，银白骑士两翼留守，不加入离殿队伍。Claude/GPT抱持、千问/小鱼抱持、Kimi离开祭坛各保留独立身份约束。",
+      "prompt_change_instructions": [
+        "删除subject_definitions中被删身份卡对应行；不要删除人物名、镜头或任何对白。",
+        "保留图引用统一按映射转换为Image N，不可顺序替换导致编号串改；使用单次正则回调。",
+        "删除后的身份卡人物保留在画内名单/人数/动作中；按本条required_prompt_scope明确群像或分屏的局部身份用途。",
+        "retention_analysis不能继续笼统称全部身份均由四视图fully_preserved；改为主角四视图保持、背景或分屏角色由保留场景图约束。",
+        "原本构图图不替代身份的全局条款需改成仅对仍附身份卡角色适用，避免与本轮精简策略冲突。",
+        "日语对白、镜长、BGM空窗与动作切点保持；不因转H3截断完整提示词。"
+      ],
+      "review_risk": "群像中少数背景人物精确小饰物约束减弱，属于本轮删冗余卡的可见取舍；完整群像构图仍保留，不能承诺动态所有细节不漂移。"
+    }
+  ]
+}

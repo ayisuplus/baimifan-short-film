@@ -1,0 +1,9 @@
+{
+  "name": "089-video-r1",
+  "type": "video",
+  "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\089-key-r1_00001_.png",
+  "key_review": "pass",
+  "prompt": "Animate this exact hand-drawn Japanese gothic anime frame. Preserve ink contours, hard-edged cel shadows, matte skin and painted architecture; no CGI, photoreal rendering, orbit, random zoom, extra limbs, costume change or unrelated cut. Begin by letting the visible white-violet lightning peak fade quickly into dark painted cloud layers. Hold a short dark beat, then one smaller irregular white-violet pulse travels behind the clouds and fades. Thin diagonal drawn rain begins. Fixed wide view of spires; no new creature, fire, blast ball, repeated explosion, camera orbit or pulsing loop. This is an ellipsis of the aerial battle, not a newly expanded fight.",
+  "frames": 96,
+  "seed": 202610304907
+}

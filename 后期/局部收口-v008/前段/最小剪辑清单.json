@@ -1,0 +1,172 @@
+{
+  "baseline_timeline": "v005_2D_Anime_Fixes",
+  "timeline_fps": 24,
+  "scope": "B10/B12/B13/Claude，未修改Resolve/队列/主文档",
+  "edits": [
+    {
+      "current_timeline_start": 3043,
+      "current_timeline_end": 3085,
+      "new_source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v006\\产物\\GB008R2-v006-CY016C-decision-r1.mp4",
+      "source_in": 6,
+      "source_out": 48,
+      "out_convention": "exclusive",
+      "props": {},
+      "speed_percent": 100,
+      "frames": 42,
+      "reason": "保留低头到抬眼决定，切掉源2.25秒后站起的娃娃化尾；下一镜以背面已在下阶承接，允许省略起身中间过程。",
+      "group": "B10-recut-132frames",
+      "sha256": "8ddc1e062c34228cb6de97a2215be3a1104eb10fdb5168485f26e65a4fcb6c4e",
+      "media": {
+        "width": 1344,
+        "height": 768,
+        "avg_frame_rate": "24/1",
+        "nb_frames": "107"
+      },
+      "status": "independently_reviewed_candidate"
+    },
+    {
+      "current_timeline_start": 3085,
+      "current_timeline_end": 3175,
+      "new_source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v005\\产物\\GB008R2-v005-CY016D-transition-r3.mp4",
+      "source_in": 12,
+      "source_out": 102,
+      "out_convention": "exclusive",
+      "props": {},
+      "speed_percent": 100,
+      "frames": 90,
+      "reason": "旧下阶源0.5–4.25秒，向下移动及接近末级真实可见；利用原未用尾余量增加18帧，补足前段缩短量。无新画风或新造型。",
+      "group": "B10-recut-132frames",
+      "sha256": "94c7926b00f59a342f118a9c67209bc2046894dff41d7eef2bccefe3187e00b3",
+      "media": {
+        "width": 1344,
+        "height": 768,
+        "avg_frame_rate": "24/1",
+        "nb_frames": "107"
+      },
+      "status": "independently_reviewed_candidate"
+    },
+    {
+      "current_timeline_start": 3818,
+      "current_timeline_end": 3914,
+      "new_source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v011\\产物\\GB011-1-v011-father-force-2d-r1.mp4",
+      "source_in": 12,
+      "source_out": 108,
+      "out_convention": "exclusive",
+      "props": {},
+      "speed_percent": 100,
+      "frames": 96,
+      "reason": "替换旧干地侧廊推倒三段。源0.5–4.5秒包含空手接肩臂、推出、鞋失衡、手膝落湿地及抬眼；同一蓝窗湿祭坛阶下，非抱起放下。",
+      "group": "B13-wet-stair-force-96frames",
+      "sha256": "f94d8d01dc87ae45574be054949c694d029cd3617f142037483c93e2a9fd3c04",
+      "media": {
+        "width": 1344,
+        "height": 768,
+        "avg_frame_rate": "24/1",
+        "nb_frames": "124"
+      },
+      "status": "independently_reviewed_candidate"
+    }
+  ],
+  "replace_groups": [
+    {
+      "id": "B10-recut-132frames",
+      "current_window": [
+        3043,
+        3175
+      ],
+      "remove_records": [
+        3043,
+        3103
+      ],
+      "output_frames": 132
+    },
+    {
+      "id": "B13-wet-stair-force-96frames",
+      "current_window": [
+        3818,
+        3914
+      ],
+      "remove_records": [
+        3818,
+        3836,
+        3866
+      ],
+      "output_frames": 96
+    }
+  ],
+  "audio_policy": "原选对白、音乐和总时长不动；不使用生成片内声音。音效冲击点可由主审对齐实际接触，但不把轨道存在宣称为听审通过。",
+  "foley_alignment_suggestions": [
+    {
+      "timeline_frame": 3824,
+      "event": "父亲手接触肩臂/衣料"
+    },
+    {
+      "timeline_frame": 3842,
+      "event": "推出与脚滑开始"
+    },
+    {
+      "timeline_frame": 3857,
+      "event": "手掌首次落地，随后膝/衣料低频受力声"
+    }
+  ],
+  "holds": [
+    {
+      "batch": 12,
+      "window": [
+        3622,
+        3644
+      ],
+      "decision": "keep_pending_continuous_audition",
+      "reason": "原声是父亲让开，构图是父亲袍背前景+小鱼张臂反应，可成立为明确画外声。小鱼张嘴表情不等于被证实在念父亲台词；不以另一句父亲嘴部或错视线近景冒充精确对口。",
+      "minimum_pickup_gap": null
+    },
+    {
+      "batch": "13+14",
+      "windows": [
+        [
+          3644,
+          3758
+        ],
+        [
+          3914,
+          4058
+        ]
+      ],
+      "decision": "keep_original_v007_not_v011",
+      "reason": "旧源喊话主段开闭与语音窗大致对应，首段前导怒咬牙/微张唇与第二句长停顿微张唇，不直接等同持续说话。第二句尾使用源260–275的闭口段，已避开源10.5秒多余开口。未核每音素，不因画风换新源。",
+      "uncertainty": "B13源1.25秒开口比-35dB主声音起约提前0.16秒；B14长停顿源6.05–7.92秒仍微张唇，需要原速听审决定是否有明显说话错觉。",
+      "minimum_pickup_gap": null
+    }
+  ],
+  "candidate_checks": {
+    "B13": {
+      "identity": "蓝紫长发/鲸帽/蓝白刺绣冬衣/靴子保持；脸保留画线和上色，末段表情与原CY020A相近。父亲黑金袍和紫焰杖仍在；不使用新四视图/新重绘。",
+      "scene": "湿亮石地、斜向高坛台阶和冷蓝窗，符合原分镜CY020A；原错误侧柱廊已去除。",
+      "force": "0.75–1.375秒为短暂肩臂接触，1.5秒手推离，1.75秒已分离失衡；约2.125秒手掌支地，2.25秒落低。没有托身悬浮。",
+      "remaining": "落地后3.5–4.5秒抬眼较夸张，可作受惊反应；未证明完全无逐帧变形，主审采用后需与前后镜原速核验。"
+    }
+  },
+  "rejected_candidates": [
+    {
+      "id": "GB008R2-v011-decision-descent-2d-r1",
+      "reason": "错误Claude束身站姿和行走方向，不进入清单"
+    }
+  ],
+  "evidence": [
+    "decision.jpg",
+    "old-descent.jpg",
+    "old-Claude.jpg",
+    "father-voice.jpg",
+    "new-force.jpg",
+    "new-force-face.png"
+  ],
+  "method": "当前源段密集抽帧、已存在v011全段2fps+推倒关键8fps联系表实看；对白用原选工作源silencedetect(-35dB/80ms)定位静音。未作连续听审或逐音素验收。",
+  "check_requirements": [
+    "组内覆盖无缝且长度132/96帧",
+    "全片长度11497帧不变",
+    "原音轨和作者选择不改",
+    "B10同侧下阶到B11阻柴接头原速复看",
+    "B13湿场景替换前后服装/尺度/方向原速复看",
+    "Kimi及其他批不扩修"
+  ]
+}

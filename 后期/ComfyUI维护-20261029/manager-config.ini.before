@@ -1,0 +1,5 @@
+[default]
+channel_url = https://cdn.jsdelivr.net/gh/ltdrdata/ComfyUI-Manager@main
+bypass_ssl = true
+network_mode = public
+security_level = normal

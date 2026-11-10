@@ -1,0 +1,71 @@
+{
+  "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+  "nodeId": "a-f4Z8oSXcHa",
+  "node": {
+    "id": "a-f4Z8oSXcHa",
+    "type": "audio",
+    "data": {
+      "url": [
+        "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/audio/4a687bfc3acc4951adf244cb28598805/d193546567842593fec44f58a54f1aba74176138d87bca0bb788a77b6b897c74.wav"
+      ],
+      "generatorType": "default",
+      "params": {
+        "count": 1,
+        "modeType": "text2audio",
+        "model": "seed-audio-1.0",
+        "prompt": "生气的、愤怒的少女说：“别碰她！”",
+        "scene": "",
+        "settings": {
+          "language": "zh",
+          "sample_rate": 24000,
+          "format": "wav"
+        },
+        "advancedSettings": {
+          "voice_setting_pitch": 0,
+          "voice_setting_speed": 1,
+          "voice_setting_vol": 1
+        }
+      },
+      "type": "audio",
+      "_audioMeta": {
+        "measuredAtMs": 1792558458194,
+        "lufs": -16.4
+      },
+      "action": "audio_generate",
+      "name": "CY020 Claude 愤怒少女试音 v006",
+      "resourceIds": [
+        "res_04877a7a101a4f469017db17cbd219bf"
+      ],
+      "taskInfo": {
+        "loading": false,
+        "progressPercent": 0,
+        "status": 2,
+        "taskId": "20261021125003731959236",
+        "taskResult": "{\"images\":[],\"videos\":[],\"audios\":[{\"previewPath\":\"https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/audio/4a687bfc3acc4951adf244cb28598805/d193546567842593fec44f58a54f1aba74176138d87bca0bb788a77b6b897c74.wav\",\"originalPath\":\"sd-gen-save-img/genius_playground/audio/4a687bfc3acc4951adf244cb28598805/d193546567842593fec44f58a54f1aba74176138d87bca0bb788a77b6b897c74.wav\",\"storagePath\":\"sd-gen-save-img/genius_playground/audio/4a687bfc3acc4951adf244cb28598805/d193546567842593fec44f58a54f1aba74176138d87bca0bb788a77b6b897c74.wav\",\"resourceId\":\"res_04877a7a101a4f469017db17cbd219bf\"}]}",
+        "failedReason": "",
+        "outputMaterializedFromTaskResult": true
+      }
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "sourcePosition": "right",
+    "targetPosition": "left"
+  },
+  "canvasDataSource": "api",
+  "mediaPersistence": {
+    "source": "canvas.nodeList.data",
+    "nodes": [
+      {
+        "nodeId": "a-f4Z8oSXcHa",
+        "bindingStatus": "present",
+        "persistedUrlCount": 1,
+        "persistedResourceIdCount": 1,
+        "readUrlCount": 1,
+        "urlsMaterializedForRead": false
+      }
+    ],
+    "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+  }
+}

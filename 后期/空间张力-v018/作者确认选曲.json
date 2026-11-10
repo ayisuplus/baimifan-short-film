@@ -1,0 +1,1632 @@
+{
+  "version": "v059",
+  "date": "2026-10-25",
+  "status": "作者确认用曲，非原曲剪辑点/混音定稿",
+  "confirmation": "作者确认六段用曲已定，Kimi另用let the stars fall down；出场范围CY024R–CY024K4，之后恢复S05主题。 v0.52新增Kimi窗外显形CY024K00，沿用作者已确认的Kimi出场专曲。",
+  "scene_defaults": {
+    "S01": "BGM-CY-MT-03",
+    "S02": "BGM-CY-KH-05",
+    "S03": "BGM-CY-HP7-02",
+    "S04": "BGM-CY-RZ-01",
+    "S05": "BGM-CY-FEAR-001",
+    "S06": "BGM-CY-TIME-001"
+  },
+  "overrides": {
+    "CY024R": "BGM-CY-FZ-02",
+    "CY024K0": "BGM-CY-FZ-02",
+    "CY024K1": "BGM-CY-FZ-02",
+    "CY024K1A": "BGM-CY-FZ-02",
+    "CY024K2": "BGM-CY-FZ-02",
+    "CY024K2A": "BGM-CY-FZ-02",
+    "CY024K3": "BGM-CY-FZ-02",
+    "CY024K4": "BGM-CY-FZ-02",
+    "CY024K00": "BGM-CY-FZ-02"
+  },
+  "marks": {
+    "CY001": "BGM-CY-MT-03",
+    "CY002": "BGM-CY-MT-03",
+    "CY003": "BGM-CY-MT-03",
+    "CY003A": "BGM-CY-MT-03",
+    "CY003B": "BGM-CY-MT-03",
+    "CY003C": "BGM-CY-MT-03",
+    "CY004": "BGM-CY-MT-03",
+    "CY004A": "BGM-CY-MT-03",
+    "CY004B": "BGM-CY-KH-05",
+    "CY004C": "BGM-CY-KH-05",
+    "CY004D": "BGM-CY-KH-05",
+    "CY005": "BGM-CY-KH-05",
+    "CY006": "BGM-CY-KH-05",
+    "CY007": "BGM-CY-KH-05",
+    "CY008": "BGM-CY-KH-05",
+    "CY009": "BGM-CY-KH-05",
+    "CY010": "BGM-CY-KH-05",
+    "CY009A": "BGM-CY-KH-05",
+    "CY010A": "BGM-CY-HP7-02",
+    "CY011": "BGM-CY-HP7-02",
+    "CY011A": "BGM-CY-HP7-02",
+    "CY012": "BGM-CY-HP7-02",
+    "CY013": "BGM-CY-HP7-02",
+    "CY013A": "BGM-CY-HP7-02",
+    "CY015": "BGM-CY-HP7-02",
+    "CY016": "BGM-CY-HP7-02",
+    "CY016A1": "BGM-CY-HP7-02",
+    "CY016A": "BGM-CY-HP7-02",
+    "CY016B": "BGM-CY-HP7-02",
+    "CY016B1": "BGM-CY-HP7-02",
+    "CY016C": "BGM-CY-HP7-02",
+    "CY016D": "BGM-CY-RZ-01",
+    "CY017": "BGM-CY-RZ-01",
+    "CY017A": "BGM-CY-RZ-01",
+    "CY018": "BGM-CY-RZ-01",
+    "CY018B": "BGM-CY-RZ-01",
+    "CY021A": "BGM-CY-RZ-01",
+    "CY019": "BGM-CY-RZ-01",
+    "CY020": "BGM-CY-RZ-01",
+    "CY020B": "BGM-CY-RZ-01",
+    "CY020A": "BGM-CY-RZ-01",
+    "CY021": "BGM-CY-RZ-01",
+    "CY021B": "BGM-CY-RZ-01",
+    "CY022A": "BGM-CY-RZ-01",
+    "CY022A1": "BGM-CY-RZ-01",
+    "CY022": "BGM-CY-RZ-01",
+    "CY022B": "BGM-CY-RZ-01",
+    "CY022B2": "BGM-CY-RZ-01",
+    "CY022B1": "BGM-CY-FEAR-001",
+    "CY026": "BGM-CY-FEAR-001",
+    "CY022C": "BGM-CY-FEAR-001",
+    "CY023": "BGM-CY-FEAR-001",
+    "CY024": "BGM-CY-FEAR-001",
+    "CY024R": "BGM-CY-FZ-02",
+    "CY024K0": "BGM-CY-FZ-02",
+    "CY024K1": "BGM-CY-FZ-02",
+    "CY024K1A": "BGM-CY-FZ-02",
+    "CY024K2": "BGM-CY-FZ-02",
+    "CY024K2A": "BGM-CY-FZ-02",
+    "CY024K3": "BGM-CY-FZ-02",
+    "CY024K4": "BGM-CY-FZ-02",
+    "CY023A": "BGM-CY-FEAR-001",
+    "CY026A": "BGM-CY-FEAR-001",
+    "CY026A1": "BGM-CY-FEAR-001",
+    "CY026B": "BGM-CY-FEAR-001",
+    "CY026C": "BGM-CY-FEAR-001",
+    "CY026D1": "BGM-CY-FEAR-001",
+    "CY026D": "BGM-CY-FEAR-001",
+    "CY026E": "BGM-CY-FEAR-001",
+    "CY024A0": "BGM-CY-FEAR-001",
+    "CY024A": "BGM-CY-FEAR-001",
+    "CY024A9": "BGM-CY-FEAR-001",
+    "CY024A10": "BGM-CY-FEAR-001",
+    "CY024A11": "BGM-CY-FEAR-001",
+    "CY024A12": "BGM-CY-FEAR-001",
+    "CY024A1": "BGM-CY-FEAR-001",
+    "CY024A2": "BGM-CY-FEAR-001",
+    "CY024A3": "BGM-CY-FEAR-001",
+    "CY024A6": "BGM-CY-FEAR-001",
+    "CY024A7": "BGM-CY-FEAR-001",
+    "CY024A4": "BGM-CY-FEAR-001",
+    "CY024A8": "BGM-CY-FEAR-001",
+    "CY024A5": "BGM-CY-FEAR-001",
+    "CY024A5A": "BGM-CY-FEAR-001",
+    "CY024A5B": "BGM-CY-FEAR-001",
+    "CY024B": "BGM-CY-FEAR-001",
+    "CY024B3": "BGM-CY-FEAR-001",
+    "CY024B3A": "BGM-CY-FEAR-001",
+    "CY024B1": "BGM-CY-FEAR-001",
+    "CY027": "BGM-CY-FEAR-001",
+    "CY027A": "BGM-CY-FEAR-001",
+    "CY027B": "BGM-CY-FEAR-001",
+    "CY027B1": "BGM-CY-FEAR-001",
+    "CY027B2": "BGM-CY-FEAR-001",
+    "CY027B3": "BGM-CY-FEAR-001",
+    "CY027C": "BGM-CY-FEAR-001",
+    "CY025": "BGM-CY-FEAR-001",
+    "CY027E": "BGM-CY-FEAR-001",
+    "CY027E1": "BGM-CY-FEAR-001",
+    "CY027D0": "BGM-CY-FEAR-001",
+    "CY027D": "BGM-CY-FEAR-001",
+    "CY027E2": "BGM-CY-FEAR-001",
+    "CY027F": "BGM-CY-FEAR-001",
+    "CY027F0": "BGM-CY-FEAR-001",
+    "CY027F2": "BGM-CY-FEAR-001",
+    "CY027F1": "BGM-CY-FEAR-001",
+    "CY027G": "BGM-CY-FEAR-001",
+    "CY028A": "BGM-CY-FEAR-001",
+    "CY028A2": "BGM-CY-FEAR-001",
+    "CY028B": "BGM-CY-FEAR-001",
+    "CY028C": "BGM-CY-FEAR-001",
+    "CY029": "BGM-CY-FEAR-001",
+    "CY029E": "BGM-CY-FEAR-001",
+    "CY029E1": "BGM-CY-FEAR-001",
+    "CY029E2": "BGM-CY-FEAR-001",
+    "CY029E3": "BGM-CY-FEAR-001",
+    "CY029E4": "BGM-CY-FEAR-001",
+    "CY029B1": "BGM-CY-FEAR-001",
+    "CY029B2": "BGM-CY-FEAR-001",
+    "CY029B": "BGM-CY-FEAR-001",
+    "CY029C": "BGM-CY-FEAR-001",
+    "CY029D": "BGM-CY-FEAR-001",
+    "CY028": "BGM-CY-FEAR-001",
+    "CY029A": "BGM-CY-FEAR-001",
+    "CY030": "BGM-CY-FEAR-001",
+    "CY031": "BGM-CY-TIME-001",
+    "CY031A": "BGM-CY-TIME-001",
+    "CY032A": "BGM-CY-TIME-001",
+    "CY033": "BGM-CY-TIME-001",
+    "CY034A": "BGM-CY-TIME-001",
+    "CY034": "BGM-CY-TIME-001",
+    "CY024K00": "BGM-CY-FZ-02",
+    "CY008M": "BGM-CY-KH-05"
+  },
+  "shots": [
+    {
+      "scene": "S01",
+      "shot": "CY001",
+      "title": "阳光里的饭碗",
+      "start": 0,
+      "end": 5,
+      "music_id": "BGM-CY-MT-03",
+      "music": "魔法が存在する世界で"
+    },
+    {
+      "scene": "S01",
+      "shot": "CY002",
+      "title": "黑袍之间的回望",
+      "start": 5,
+      "end": 9,
+      "music_id": "BGM-CY-MT-03",
+      "music": "魔法が存在する世界で"
+    },
+    {
+      "scene": "S01",
+      "shot": "CY003",
+      "title": "第一次邀请",
+      "start": 9,
+      "end": 12,
+      "music_id": "BGM-CY-MT-03",
+      "music": "魔法が存在する世界で"
+    },
+    {
+      "scene": "S01",
+      "shot": "CY003A",
+      "title": "悬着的一碗饭",
+      "start": 12,
+      "end": 14,
+      "music_id": "BGM-CY-MT-03",
+      "music": "魔法が存在する世界で"
+    },
+    {
+      "scene": "S01",
+      "shot": "CY003B",
+      "title": "眼底的小小来客",
+      "start": 14,
+      "end": 18,
+      "music_id": "BGM-CY-MT-03",
+      "music": "魔法が存在する世界で"
+    },
+    {
+      "scene": "S01",
+      "shot": "CY003C",
+      "title": "白米饭被掀翻",
+      "start": 18,
+      "end": 20,
+      "music_id": "BGM-CY-MT-03",
+      "music": "魔法が存在する世界で"
+    },
+    {
+      "scene": "S01",
+      "shot": "CY004",
+      "title": "门内传出的火祭消息",
+      "start": 20,
+      "end": 26,
+      "music_id": "BGM-CY-MT-03",
+      "music": "魔法が存在する世界で"
+    },
+    {
+      "scene": "S01",
+      "shot": "CY004A",
+      "title": "放下饭碗",
+      "start": 26,
+      "end": 28,
+      "music_id": "BGM-CY-MT-03",
+      "music": "魔法が存在する世界で"
+    },
+    {
+      "scene": "S02",
+      "shot": "CY004B",
+      "title": "暮色里的长阶",
+      "start": 28,
+      "end": 30,
+      "music_id": "BGM-CY-KH-05",
+      "music": "To Jerusalem"
+    },
+    {
+      "scene": "S02",
+      "shot": "CY004C",
+      "title": "长枪拦路",
+      "start": 30,
+      "end": 33,
+      "music_id": "BGM-CY-KH-05",
+      "music": "To Jerusalem"
+    },
+    {
+      "scene": "S02",
+      "shot": "CY004D",
+      "title": "让她进来",
+      "start": 33,
+      "end": 36,
+      "music_id": "BGM-CY-KH-05",
+      "music": "To Jerusalem"
+    },
+    {
+      "scene": "S02",
+      "shot": "CY005",
+      "title": "空殿中的慵懒龙",
+      "start": 36,
+      "end": 39,
+      "music_id": "BGM-CY-KH-05",
+      "music": "To Jerusalem"
+    },
+    {
+      "scene": "S02",
+      "shot": "CY006",
+      "title": "请救救她",
+      "start": 39,
+      "end": 45,
+      "music_id": "BGM-CY-KH-05",
+      "music": "To Jerusalem"
+    },
+    {
+      "scene": "S02",
+      "shot": "CY007",
+      "title": "收住迟疑的拒绝",
+      "start": 45,
+      "end": 49,
+      "music_id": "BGM-CY-KH-05",
+      "music": "To Jerusalem"
+    },
+    {
+      "scene": "S02",
+      "shot": "CY008",
+      "title": "没有回答",
+      "start": 49,
+      "end": 53,
+      "music_id": "BGM-CY-KH-05",
+      "music": "To Jerusalem"
+    },
+    {
+      "scene": "S02",
+      "shot": "CY009",
+      "title": "那我自己去",
+      "start": 53,
+      "end": 58,
+      "music_id": "BGM-CY-KH-05",
+      "music": "To Jerusalem"
+    },
+    {
+      "scene": "S02",
+      "shot": "CY010",
+      "title": "轻轻搓手的迟疑",
+      "start": 58,
+      "end": 61,
+      "music_id": "BGM-CY-KH-05",
+      "music": "To Jerusalem"
+    },
+    {
+      "scene": "S02",
+      "shot": "CY009A",
+      "title": "起身目送长殿尽头",
+      "start": 61,
+      "end": 67,
+      "music_id": "BGM-CY-KH-05",
+      "music": "To Jerusalem"
+    },
+    {
+      "scene": "S03",
+      "shot": "CY010A",
+      "title": "等他们离开",
+      "start": 67,
+      "end": 71,
+      "music_id": "BGM-CY-HP7-02",
+      "music": "Snape to Malfoy Manor"
+    },
+    {
+      "scene": "S03",
+      "shot": "CY011",
+      "title": "鲸帽卡住了",
+      "start": 71,
+      "end": 74,
+      "music_id": "BGM-CY-HP7-02",
+      "music": "Snape to Malfoy Manor"
+    },
+    {
+      "scene": "S03",
+      "shot": "CY011A",
+      "title": "脱开石沿，挤进空堂",
+      "start": 74,
+      "end": 76,
+      "music_id": "BGM-CY-HP7-02",
+      "music": "Snape to Malfoy Manor"
+    },
+    {
+      "scene": "S03",
+      "shot": "CY012",
+      "title": "空荡荡的教堂",
+      "start": 76,
+      "end": 80,
+      "music_id": "BGM-CY-HP7-02",
+      "music": "Snape to Malfoy Manor"
+    },
+    {
+      "scene": "S03",
+      "shot": "CY013",
+      "title": "她发现了宝宝",
+      "start": 80,
+      "end": 83,
+      "music_id": "BGM-CY-HP7-02",
+      "music": "Snape to Malfoy Manor"
+    },
+    {
+      "scene": "S03",
+      "shot": "CY013A",
+      "title": "赤足、脚托与踝链",
+      "start": 83,
+      "end": 85,
+      "music_id": "BGM-CY-HP7-02",
+      "music": "Snape to Malfoy Manor"
+    },
+    {
+      "scene": "S03",
+      "shot": "CY015",
+      "title": "偷偷的保证",
+      "start": 85,
+      "end": 89,
+      "music_id": "BGM-CY-HP7-02",
+      "music": "Snape to Malfoy Manor"
+    },
+    {
+      "scene": "S03",
+      "shot": "CY016",
+      "title": "试锁，再拉链",
+      "start": 89,
+      "end": 94,
+      "music_id": "BGM-CY-HP7-02",
+      "music": "Snape to Malfoy Manor"
+    },
+    {
+      "scene": "S03",
+      "shot": "CY016A1",
+      "title": "烛泪又落下一滴",
+      "start": 94,
+      "end": 96,
+      "music_id": "BGM-CY-HP7-02",
+      "music": "Snape to Malfoy Manor"
+    },
+    {
+      "scene": "S03",
+      "shot": "CY016A",
+      "title": "已经试了很久",
+      "start": 96,
+      "end": 100,
+      "music_id": "BGM-CY-HP7-02",
+      "music": "Snape to Malfoy Manor"
+    },
+    {
+      "scene": "S03",
+      "shot": "CY016B",
+      "title": "停在锁扣上的手",
+      "start": 100,
+      "end": 102,
+      "music_id": "BGM-CY-HP7-02",
+      "music": "Snape to Malfoy Manor"
+    },
+    {
+      "scene": "S03",
+      "shot": "CY016B1",
+      "title": "先听见，再看见",
+      "start": 102,
+      "end": 104,
+      "music_id": "BGM-CY-HP7-02",
+      "music": "Snape to Malfoy Manor"
+    },
+    {
+      "scene": "S03",
+      "shot": "CY016C",
+      "title": "人手一木，返回教堂",
+      "start": 104,
+      "end": 108,
+      "music_id": "BGM-CY-HP7-02",
+      "music": "Snape to Malfoy Manor"
+    },
+    {
+      "scene": "S04",
+      "shot": "CY016D",
+      "title": "抓住第一根木头",
+      "start": 108,
+      "end": 110,
+      "music_id": "BGM-CY-RZ-01",
+      "music": "沈黙のレクイエム"
+    },
+    {
+      "scene": "S04",
+      "shot": "CY017",
+      "title": "被推开，还想阻止",
+      "start": 110,
+      "end": 115,
+      "music_id": "BGM-CY-RZ-01",
+      "music": "沈黙のレクイエム"
+    },
+    {
+      "scene": "S04",
+      "shot": "CY017A",
+      "title": "一根接一根",
+      "start": 115,
+      "end": 117,
+      "music_id": "BGM-CY-RZ-01",
+      "music": "沈黙のレクイエム"
+    },
+    {
+      "scene": "S04",
+      "shot": "CY018",
+      "title": "拦住下一个，又被踢开",
+      "start": 117,
+      "end": 121,
+      "music_id": "BGM-CY-RZ-01",
+      "music": "沈黙のレクイエム"
+    },
+    {
+      "scene": "S04",
+      "shot": "CY018B",
+      "title": "柴堆吞没白裙",
+      "start": 121,
+      "end": 124,
+      "music_id": "BGM-CY-RZ-01",
+      "music": "沈黙のレクイエム"
+    },
+    {
+      "scene": "S04",
+      "shot": "CY021A",
+      "title": "教主接过火把",
+      "start": 124,
+      "end": 129,
+      "music_id": "BGM-CY-RZ-01",
+      "music": "沈黙のレクイエム"
+    },
+    {
+      "scene": "S04",
+      "shot": "CY019",
+      "title": "最后一次，张开双臂",
+      "start": 129,
+      "end": 132,
+      "music_id": "BGM-CY-RZ-01",
+      "music": "沈黙のレクイエム"
+    },
+    {
+      "scene": "S04",
+      "shot": "CY020",
+      "title": "别碰她",
+      "start": 132,
+      "end": 137,
+      "music_id": "BGM-CY-RZ-01",
+      "music": "沈黙のレクイエム"
+    },
+    {
+      "scene": "S04",
+      "shot": "CY020B",
+      "title": "静止对视，高低之间",
+      "start": 137,
+      "end": 140,
+      "music_id": "BGM-CY-RZ-01",
+      "music": "沈黙のレクイエム"
+    },
+    {
+      "scene": "S04",
+      "shot": "CY020A",
+      "title": "失守落地",
+      "start": 140,
+      "end": 142,
+      "music_id": "BGM-CY-RZ-01",
+      "music": "沈黙のレクイエム"
+    },
+    {
+      "scene": "S04",
+      "shot": "CY021",
+      "title": "还想站起来",
+      "start": 142,
+      "end": 144,
+      "music_id": "BGM-CY-RZ-01",
+      "music": "沈黙のレクイエム"
+    },
+    {
+      "scene": "S04",
+      "shot": "CY021B",
+      "title": "攥住袍尾",
+      "start": 144,
+      "end": 146,
+      "music_id": "BGM-CY-RZ-01",
+      "music": "沈黙のレクイエム"
+    },
+    {
+      "scene": "S04",
+      "shot": "CY022A",
+      "title": "衣摆从指间滑走",
+      "start": 146,
+      "end": 148,
+      "music_id": "BGM-CY-RZ-01",
+      "music": "沈黙のレクイエム"
+    },
+    {
+      "scene": "S04",
+      "shot": "CY022A1",
+      "title": "一步一步登阶",
+      "start": 148,
+      "end": 151,
+      "music_id": "BGM-CY-RZ-01",
+      "music": "沈黙のレクイエム"
+    },
+    {
+      "scene": "S04",
+      "shot": "CY022",
+      "title": "点燃高柴",
+      "start": 151,
+      "end": 155,
+      "music_id": "BGM-CY-RZ-01",
+      "music": "沈黙のレクイエム"
+    },
+    {
+      "scene": "S04",
+      "shot": "CY022B",
+      "title": "火隙中的痛苦",
+      "start": 155,
+      "end": 158,
+      "music_id": "BGM-CY-RZ-01",
+      "music": "沈黙のレクイエム"
+    },
+    {
+      "scene": "S04",
+      "shot": "CY022B2",
+      "title": "黑焰吞没祭坛",
+      "start": 158,
+      "end": 162,
+      "music_id": "BGM-CY-RZ-01",
+      "music": "沈黙のレクイエム"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY022B1",
+      "title": "甲靴越前，两翼列阵",
+      "start": 162,
+      "end": 165,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY026",
+      "title": "裙摆先至，迈步向门",
+      "start": 165,
+      "end": 168,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY022C",
+      "title": "破门前的静默",
+      "start": 168,
+      "end": 170,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY023",
+      "title": "砰",
+      "start": 170,
+      "end": 172,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024",
+      "title": "门后的人",
+      "start": 172,
+      "end": 175,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024R",
+      "title": "教主回身，注意力转向正门",
+      "start": 175,
+      "end": 178.5,
+      "music_id": "BGM-CY-FZ-02",
+      "music": "let the stars fall down"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024K00",
+      "title": "月光流动，背影渐显",
+      "start": 178.5,
+      "end": 182.5,
+      "music_id": "BGM-CY-FZ-02",
+      "music": "let the stars fall down"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024K0",
+      "title": "窗外近景，举刃请门",
+      "start": 182.5,
+      "end": 188.5,
+      "music_id": "BGM-CY-FZ-02",
+      "music": "let the stars fall down"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024K1",
+      "title": "明刃破窗，玻璃迎面炸开",
+      "start": 188.5,
+      "end": 191.5,
+      "music_id": "BGM-CY-FZ-02",
+      "music": "let the stars fall down"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024K1A",
+      "title": "明刃钉柴，瞬移坐标亮起",
+      "start": 191.5,
+      "end": 193.5,
+      "music_id": "BGM-CY-FZ-02",
+      "music": "let the stars fall down"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024K2",
+      "title": "循刃瞬临，爆气震开柴堆",
+      "start": 193.5,
+      "end": 196.5,
+      "music_id": "BGM-CY-FZ-02",
+      "music": "let the stars fall down"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024K2A",
+      "title": "震柴惊动教徒，转身施法",
+      "start": 196.5,
+      "end": 198.5,
+      "music_id": "BGM-CY-FZ-02",
+      "music": "let the stars fall down"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024K3",
+      "title": "暗月闭合，截住教徒法术",
+      "start": 198.5,
+      "end": 202.5,
+      "music_id": "BGM-CY-FZ-02",
+      "music": "let the stars fall down"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024K4",
+      "title": "罩内试镣，见痛收刀",
+      "start": 202.5,
+      "end": 205.5,
+      "music_id": "BGM-CY-FZ-02",
+      "music": "let the stars fall down"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY023A",
+      "title": "圣骑士鱼贯而入",
+      "start": 205.5,
+      "end": 208.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY026A",
+      "title": "云宫合扇",
+      "start": 208.5,
+      "end": 211.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY026A1",
+      "title": "合扇就是回答",
+      "start": 211.5,
+      "end": 213.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY026B",
+      "title": "小屋里的回应",
+      "start": 213.5,
+      "end": 217.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY026C",
+      "title": "发射塔下的点头",
+      "start": 217.5,
+      "end": 221.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY026D1",
+      "title": "月背睁眼",
+      "start": 221.5,
+      "end": 223.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY026D",
+      "title": "月背约定，两路救援",
+      "start": 223.5,
+      "end": 230.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY026E",
+      "title": "各路回应",
+      "start": 230.5,
+      "end": 234.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024A0",
+      "title": "抱紧我",
+      "start": 234.5,
+      "end": 236.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024A",
+      "title": "展翼离地，空中起咏",
+      "start": 236.5,
+      "end": 243.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024A9",
+      "title": "掌前爆发，暗金术矛",
+      "start": 243.5,
+      "end": 244.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024A10",
+      "title": "开扇咔响，单叶解锁",
+      "start": 244.5,
+      "end": 246.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024A11",
+      "title": "扇叶上行，刃尖侧前极特写",
+      "start": 246.5,
+      "end": 248.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024A12",
+      "title": "侧面仰拍，半空截击",
+      "start": 248.5,
+      "end": 249.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024A1",
+      "title": "抱住她，先让她缓一口气",
+      "start": 249.5,
+      "end": 252.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024A2",
+      "title": "拭汗拨发，确认她的状态",
+      "start": 252.5,
+      "end": 256.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024A3",
+      "title": "水息上浮，合滴回弹",
+      "start": 256.5,
+      "end": 262.0,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024A6",
+      "title": "云腹聚水，倒悬之海",
+      "start": 262.0,
+      "end": 268.0,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024A7",
+      "title": "俯冲，水龙直下穹顶",
+      "start": 268.0,
+      "end": 271.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024A5A",
+      "title": "贴近破口，水首掠镜",
+      "start": 271.5,
+      "end": 273.0,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024A4",
+      "title": "蹲下查看踝链",
+      "start": 273.0,
+      "end": 277.0,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024A8",
+      "title": "教主追视入殿水龙",
+      "start": 277.0,
+      "end": 281.0,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024A5",
+      "title": "居中结印，水龙盘身",
+      "start": 281.0,
+      "end": 289.0,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024A5B",
+      "title": "解印，一指出击",
+      "start": 289.0,
+      "end": 290.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024B",
+      "title": "低机位撞盾，水首压境",
+      "start": 290.5,
+      "end": 295.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024B1",
+      "title": "汇流冲人，指尖抓空",
+      "start": 295.5,
+      "end": 298.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024B3",
+      "title": "大招余波，浅水空殿",
+      "start": 298.5,
+      "end": 301.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY024B3A",
+      "title": "余声渐远，靠肩安抚",
+      "start": 301.5,
+      "end": 303.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY027",
+      "title": "退水降落，收翼走近",
+      "start": 303.5,
+      "end": 307.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY027A",
+      "title": "互不干涉条约",
+      "start": 307.5,
+      "end": 311.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY027B",
+      "title": "聒噪",
+      "start": 311.5,
+      "end": 313.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY027B1",
+      "title": "白紫水龙显形",
+      "start": 313.5,
+      "end": 315.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY027B2",
+      "title": "黑金鸦翼展开",
+      "start": 315.5,
+      "end": 317.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY027B3",
+      "title": "穿过破顶腾空",
+      "start": 317.5,
+      "end": 320.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY027C",
+      "title": "破口之上",
+      "start": 320.5,
+      "end": 322.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY025",
+      "title": "她还是来了",
+      "start": 322.5,
+      "end": 325.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY027E",
+      "title": "略去激战",
+      "start": 325.5,
+      "end": 329.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY027E1",
+      "title": "雨滴落入大殿",
+      "start": 329.5,
+      "end": 331.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY027D0",
+      "title": "外院教徒，围向正门",
+      "start": 331.5,
+      "end": 334.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY027D",
+      "title": "八人守门，Kimi守祭坛",
+      "start": 334.5,
+      "end": 337.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY027E2",
+      "title": "窗内的战斗",
+      "start": 337.5,
+      "end": 340.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY027F",
+      "title": "垂眼讥笑，胜负已分",
+      "start": 340.5,
+      "end": 344.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY027F0",
+      "title": "从教主腰间取下钥匙",
+      "start": 344.5,
+      "end": 346.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY027F2",
+      "title": "暗月散尽，接过钥匙",
+      "start": 346.5,
+      "end": 349.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY027F1",
+      "title": "用钥匙先解踝链",
+      "start": 349.5,
+      "end": 351.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY027G",
+      "title": "先扶稳，再开最后腕扣",
+      "start": 351.5,
+      "end": 354.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY028A",
+      "title": "解锁后扶稳",
+      "start": 354.5,
+      "end": 359.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY028A2",
+      "title": "她在下面等你",
+      "start": 359.5,
+      "end": 362.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY028B",
+      "title": "起咏，微光初聚",
+      "start": 362.5,
+      "end": 364.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY028C",
+      "title": "锁痕与微光",
+      "start": 364.5,
+      "end": 366.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY029",
+      "title": "听见父亲的声音",
+      "start": 366.5,
+      "end": 370.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY029E",
+      "title": "无力挽留",
+      "start": 370.5,
+      "end": 372.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY029E1",
+      "title": "停顿后，仍选择继续",
+      "start": 372.5,
+      "end": 376.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY029E2",
+      "title": "教主听见她的选择",
+      "start": 376.5,
+      "end": 380.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY029E3",
+      "title": "指间火种已经成形",
+      "start": 380.5,
+      "end": 383.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY029E4",
+      "title": "小鱼攥紧衣襟",
+      "start": 383.5,
+      "end": 387.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY029B1",
+      "title": "放出一枚火种",
+      "start": 387.5,
+      "end": 390.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY029B2",
+      "title": "火种主观逼近空架",
+      "start": 390.5,
+      "end": 392.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY029B",
+      "title": "触木后骤然燃起",
+      "start": 392.5,
+      "end": 395.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY029C",
+      "title": "收手后脱力",
+      "start": 395.5,
+      "end": 397.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY029D",
+      "title": "及时托住",
+      "start": 397.5,
+      "end": 399.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY028",
+      "title": "稳稳抱起",
+      "start": 399.5,
+      "end": 402.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY029A",
+      "title": "主动靠近",
+      "start": 402.5,
+      "end": 405.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S05",
+      "shot": "CY030",
+      "title": "一同走出大殿",
+      "start": 405.5,
+      "end": 411.5,
+      "music_id": "BGM-CY-FEAR-001",
+      "music": "Fear Brought Me This Far"
+    },
+    {
+      "scene": "S06",
+      "shot": "CY031",
+      "title": "数日后的长椅",
+      "start": 411.5,
+      "end": 416.5,
+      "music_id": "BGM-CY-TIME-001",
+      "music": "Time Flows Ever Onward"
+    },
+    {
+      "scene": "S06",
+      "shot": "CY031A",
+      "title": "为她留出的座位",
+      "start": 416.5,
+      "end": 420.5,
+      "music_id": "BGM-CY-TIME-001",
+      "music": "Time Flows Ever Onward"
+    },
+    {
+      "scene": "S06",
+      "shot": "CY032A",
+      "title": "这次有人接住",
+      "start": 420.5,
+      "end": 422.5,
+      "music_id": "BGM-CY-TIME-001",
+      "music": "Time Flows Ever Onward"
+    },
+    {
+      "scene": "S06",
+      "shot": "CY033",
+      "title": "旁边的一杯热饮",
+      "start": 422.5,
+      "end": 426.5,
+      "music_id": "BGM-CY-TIME-001",
+      "music": "Time Flows Ever Onward"
+    },
+    {
+      "scene": "S06",
+      "shot": "CY034A",
+      "title": "第一口饭",
+      "start": 426.5,
+      "end": 428.5,
+      "music_id": "BGM-CY-TIME-001",
+      "music": "Time Flows Ever Onward"
+    },
+    {
+      "scene": "S06",
+      "shot": "CY034",
+      "title": "阳光里坐一会儿",
+      "start": 428.5,
+      "end": 435.5,
+      "music_id": "BGM-CY-TIME-001",
+      "music": "Time Flows Ever Onward"
+    }
+  ],
+  "source_plan": "镜头设计/shot-plan-v0.56.json",
+  "source_plan_sha256": "2ac84024c573aa4fa27d8dece3a2bcb69de0d8bdab047d9a3865414a4c9ed80b",
+  "music_sources": {
+    "BGM-CY-FEAR-001": {
+      "id": "BGM-CY-FEAR-001",
+      "title": "Fear Brought Me This Far",
+      "composer": "Evan Call",
+      "part": 28,
+      "cid": 35555248455,
+      "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=28",
+      "uploader": "高速公路的残像",
+      "video_title": "《葬送的芙莉莲》原声带",
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-FEAR-001.m4a",
+      "bytes": 1721830,
+      "sha256": "3ea813e300f11b4426cc4a4fdc5d071cee307f4f1bc69f6484e1eefdc0b7dd74",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "104531"
+          }
+        ],
+        "format": {
+          "duration": "139.551701"
+        }
+      },
+      "duration": 139.551701,
+      "decode_ok": true,
+      "status": "候选 · 待听审",
+      "heard": false,
+      "extraction": "Video DASH AAC audio stream saved directly; no re-encoding, speed, pitch, gain or cuts.",
+      "source_in": null,
+      "source_out": null
+    },
+    "BGM-CY-FZ-02": {
+      "id": "BGM-CY-FZ-02",
+      "bvid": "BV1Vx411G7kG",
+      "part": 2,
+      "title": "let the stars fall down",
+      "display_title": "让群星陨落",
+      "work": "Fate/Zero",
+      "composer": "梶浦由記",
+      "source_page_title": "let the stars fall down",
+      "navigation_translation": "中文译名仅供本项目导航；保留原曲名与来源分P。",
+      "cid": 23944266,
+      "source": "https://www.bilibili.com/video/BV1Vx411G7kG/?p=2",
+      "uploader": "天使动漫",
+      "video_title": "【Fate/Zero】OST原声集完全版 / 音乐：梶浦由記",
+      "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-02.m4a",
+      "bytes": 3057310,
+      "sha256": "5d774ae5fcf881fabb4f748817851106a9d40d8b1245a13d8495d9f45fbaeed0",
+      "duration": 125.432834,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "193549"
+          }
+        ],
+        "format": {
+          "duration": "125.432834"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "AAC stream copied from retained public muxed video with ffmpeg -vn -c:a copy; no re-encoding, cuts, pitch, speed or gain changes.",
+      "source_media": {
+        "path": "资产/声音/BGM/重选-v006/BGM-CY-FZ-02-source.mp4",
+        "bytes": 5064186,
+        "sha256": "e4f2d43d70f1faba4d949c09ebe6a975f406dc87e6c73776cd4bbf11cea117c9"
+      }
+    },
+    "BGM-CY-HP7-02": {
+      "id": "BGM-CY-HP7-02",
+      "bvid": "BV1Y6UtYFEyG",
+      "part": 2,
+      "title": "Snape to Malfoy Manor",
+      "display_title": "斯内普前往马尔福庄园",
+      "work": "哈利·波特与死亡圣器（上）",
+      "composer": "Alexandre Desplat",
+      "source_page_title": "02. Snape to Malfoy Manor - Alexandre Desplat",
+      "navigation_translation": "中文译名仅供本项目导航；保留原曲名与来源分P。",
+      "cid": 26834177989,
+      "source": "https://www.bilibili.com/video/BV1Y6UtYFEyG/?p=2",
+      "uploader": "Wayne_Chi",
+      "video_title": "[FLAC无损]《哈利·波特与死亡圣器(上)》电影原声带",
+      "path": "资产/声音/BGM/重选-v006/BGM-CY-HP7-02.m4a",
+      "bytes": 3151417,
+      "sha256": "ea9165c4b1ba540803c7de7fb08b011aee084d696aadf2cb9962e7acd23a6fdb",
+      "duration": 118.527667,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bit_rate": "253784"
+          }
+        ],
+        "format": {
+          "duration": "118.527667"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    "BGM-CY-KH-05": {
+      "id": "BGM-CY-KH-05",
+      "bvid": "BV1jm4y1Z7Rb",
+      "part": 5,
+      "title": "To Jerusalem",
+      "display_title": "前往耶路撒冷",
+      "work": "天国王朝",
+      "composer": "Harry Gregson-Williams",
+      "source_page_title": "To Jerusalem",
+      "navigation_translation": "中文名为导航释义，原名保留。",
+      "cid": 504346785,
+      "source": "https://www.bilibili.com/video/BV1jm4y1Z7Rb/?p=5",
+      "uploader": "xtrikil",
+      "video_title": "【电影音乐】天国王朝 - 原声合集",
+      "path": "资产/声音/BGM/重选-v004/BGM-CY-KH-05.m4a",
+      "bytes": 1599656,
+      "sha256": "f0127de39de56e0557b030fa70344f99f96edda61040240e3eacb1d2b703fe5d",
+      "duration": 96.277833,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bit_rate": "131956"
+          }
+        ],
+        "format": {
+          "duration": "96.277833"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    "BGM-CY-MT-03": {
+      "id": "BGM-CY-MT-03",
+      "bvid": "BV1JP4y1m78A",
+      "part": 3,
+      "title": "魔法が存在する世界で",
+      "display_title": "存在魔法的世界",
+      "work": "无职转生",
+      "composer": "藤澤慶昌",
+      "source_page_title": "02. 魔法が存在する世界で",
+      "cid": 40238842218,
+      "source": "https://www.bilibili.com/video/BV1JP4y1m78A/?p=3",
+      "uploader": "L-2-C",
+      "video_title": "「无职转生 ～到了异世界就拿出真本事～」原声集/OST",
+      "path": "资产/声音/BGM/重选-v002/BGM-CY-MT-03.m4a",
+      "bytes": 2770650,
+      "sha256": "6726d4d192ca25ee0921d7bf8255e7f9f4757f837c9537ecb76ec7d3386d8edb",
+      "duration": 131.016871,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "144563"
+          }
+        ],
+        "format": {
+          "duration": "131.016871"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    "BGM-CY-RZ-01": {
+      "id": "BGM-CY-RZ-01",
+      "bvid": "BV1Gs411W7UB",
+      "part": 1,
+      "title": "沈黙のレクイエム",
+      "display_title": "沉默的镇魂曲",
+      "work": "Re：从零开始的异世界生活",
+      "composer": "末廣健一郎",
+      "source_page_title": "",
+      "navigation_translation": "中文曲名为导航释义；原名保留。",
+      "cid": 11565122,
+      "source": "https://www.bilibili.com/video/BV1Gs411W7UB/?p=1",
+      "uploader": "达叔是逗比",
+      "video_title": "【末廣健一郎】沉默的镇魂曲-Elegy for Rem原版【ost】",
+      "path": "资产/声音/BGM/重选-v003/BGM-CY-RZ-01.m4a",
+      "bytes": 7039930,
+      "sha256": "15ff41df0917bd4415b7750ede29e192e647d93dc7a40d70f5daea5610c18fb9",
+      "duration": 424.127833,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bit_rate": "132087"
+          }
+        ],
+        "format": {
+          "duration": "424.127833"
+        }
+      },
+      "decode_ok": true,
+      "status": "候选 · 作者试听比较",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+    },
+    "BGM-CY-TIME-001": {
+      "id": "BGM-CY-TIME-001",
+      "title": "Time Flows Ever Onward",
+      "composer": "Evan Call",
+      "part": 9,
+      "cid": 35546988660,
+      "source": "https://www.bilibili.com/video/BV1U6BfBCE5o/?p=9",
+      "uploader": "高速公路的残像",
+      "video_title": "《葬送的芙莉莲》原声带",
+      "path": "资产/声音/BGM/重选-v001/BGM-CY-TIME-001.m4a",
+      "bytes": 1811608,
+      "sha256": "72bd9d9171da81a356f365036769c9922ac30ca5ad90e0ce6f5331c0e9d059fc",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bit_rate": "91532"
+          }
+        ],
+        "format": {
+          "duration": "138.088844"
+        }
+      },
+      "duration": 138.088844,
+      "decode_ok": true,
+      "status": "候选 · 待听审",
+      "heard": false,
+      "extraction": "Video DASH AAC audio stream saved directly; no re-encoding, speed, pitch, gain or cuts.",
+      "source_in": null,
+      "source_out": null
+    }
+  },
+  "source_in_out_status": "未锁定；需要按乐句剪辑并实际听审",
+  "playback_policy": "音乐独立试听；逐镜选择不自动等于逐镜重启曲目",
+  "previous": "后期/宫殿躺姿-v055/作者确认选曲.json",
+  "film_title": "白米饭"
+}

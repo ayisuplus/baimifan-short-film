@@ -1,0 +1,19 @@
+{
+  "engine": "built-in image_gen",
+  "date": "2026-10-25",
+  "shot": "CY017",
+  "request": {
+    "referenced_image_paths": [
+      "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/火祭因果-v040/CY017-v040-r1.png",
+      "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/祭坛长椅连续性-v023/CY012-v023-r8.png"
+    ],
+    "prompt": "Precise architectural fixture correction. Image 1 is the ONLY target. Image 2 is ONLY a fixture/placement reference for the same church: ONE high central open circular iron candle chandelier. In image 1 remove every enclosed hanging cage lantern and restore the existing background behind it. Place ONE matching thin open dark iron candle ring high above the nave centerline near the TOP EDGE, with small upright candles and fine suspension chains going offscreen above. Respect this camera's perspective and cropping: the upper part may be outside the frame; never lower the chandelier over people's heads or create two rings. Keep EVERY person, expression, face, hand, body pose, clothing, carried object, other props, fire bowls and ground candles absolutely unchanged. Keep original framing, stairs, windows, materials, lighting, colors. Background-fixture edit only, no new action, harm, nudity or sexual content. One full-frame 16:9 still, no text, no collage.",
+    "transparent_background": false
+  },
+  "output": "镜头设计/图像/连续性修复-v049/CY017-v049-r1.png",
+  "sha256": "0485d4876832d11dc33111d03e7b1999d527d2174cc91423a8e6fa0271ec9a0a",
+  "previous_request": "镜头设计/生成记录/火祭因果-v040/阻拦请求.json",
+  "previous_image": "镜头设计/图像/火祭因果-v040/CY017-v040-r1.png",
+  "previous_candidate": null,
+  "review": "technical and root visual inspection complete; independent review and author visual approval tracked separately"
+}

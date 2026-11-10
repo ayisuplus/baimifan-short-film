@@ -1,0 +1,23 @@
+[
+  {
+    "name": "059-key-r3",
+    "type": "key",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\059-key-r1_00001_.png",
+    "seed": 202610303401,
+    "prompt": "Traditional hand-drawn 2D Japanese gothic anime. Confident dark ink outlines, broad hair locks, flat matte skin, hard-edged two-tone cel shadows, painted backgrounds. No CGI, plastic skin, glossy reflections, photorealistic hair or 3D lighting. Preserve the exact identities and costumes. Reframe as a wide FULL BODY shot from a slightly higher eye-level camera, not a low angle. Move the camera back 35 percent: Kimi in front and Claude restrained to the cross behind must be much smaller in frame. Leave a full standing persons height of EMPTY SPACE above Kimi so she can stand without leaving the frame. Keep Kimi in the same low crouch at the beginning with boots on stone, dark C blade in her RIGHT hand at image left and pale C blade in LEFT at image right. The cross stays on highest platform. The burning wood is entirely black with SMALL dark-violet flames, no orange or cyan fire. Only central window broken, intact side walls. Keep only sparse existing amber candles on far walls; no new lights. Simpler cloth and matte stone, no water on floor yet."
+  },
+  {
+    "name": "061-key-r3",
+    "type": "key",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\059-key-r1_00001_.png",
+    "seed": 202610303402,
+    "prompt": "Traditional hand-drawn 2D Japanese gothic anime. Confident dark ink outlines, broad hair locks, flat matte skin, hard-edged two-tone cel shadows, painted backgrounds. No CGI, plastic skin, glossy reflections, photorealistic hair or 3D lighting. Preserve the exact identities and costumes. Change the POSE and CAMERA completely but retain the exact characters and clothing: Kimi is now STANDING STRAIGHT on BOTH boots in front of the cross, knees extended, full body visible. NO crouch, NO kneeling. Move camera back to a wide shot with her head at the middle height of frame and boots visible. Her arms bent low near waist, dark C-shaped blade in anatomical RIGHT hand, pale blade LEFT. Bound orange-haired Claude and her cross behind her remain fully visible, unchanged. A thin indigo ring lies flat on the floor enclosing both women and the cross. Push all burning logs OUTSIDE this ring. Low flames have black cores and purple edges, never orange or cyan. One small amber bolt approaches from foreground toward ring, not yet hit. One broken rear central window, intact side walls. Matte dry floor, no reflective CGI."
+  },
+  {
+    "name": "066-key-r3",
+    "type": "key",
+    "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\066-key-r2_00001_.png",
+    "seed": 202610303403,
+    "prompt": "Traditional hand-drawn 2D Japanese gothic anime. Confident dark ink outlines, broad hair locks, flat matte skin, hard-edged two-tone cel shadows, painted backgrounds. No CGI, plastic skin, glossy reflections, photorealistic hair or 3D lighting. Preserve the exact identities and costumes. ONLY correct GPT wings on the white-haired woman at image left. Completely remove all feather shapes and replace the visible wing with one neatly folded pale lavender DRAGON MEMBRANE wing: smooth webbing stretched between three slender finger-like ribs, scalloped pointed edges, no feathers anywhere. The opposite folded wing is mostly hidden behind her torso. Exactly TWO wings total and one tail, retain two horns and spiral temple ornament. Keep both women, faces, hand on shoulder, clothing, pose, lunar rocks and black starry sky exactly as this source. Do not import cathedral or clouds. Preserve inked cel animation style."
+  }
+]

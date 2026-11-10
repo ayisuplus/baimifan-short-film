@@ -1,0 +1,9 @@
+{
+  "id": "069",
+  "key_job": "069-key-r1",
+  "video_name": "069-video-r1",
+  "status": "await_key_review",
+  "generate_frames": 72,
+  "target_frames": 48,
+  "motion_prompt": "Traditional hand-drawn 2D Japanese gothic anime matching the established Claude struggle shot: confident dark ink contours, clearly grouped orange or white-lilac hair locks, matte flat skin, hard-edged two-tone cel shadows, hand-painted dark backgrounds. Retain drawn lace and charred fabric texture; do not erase lace or replace costumes with generic plain dresses. No CGI, plastic skin, volumetric beauty rendering, shiny doll faces or photographic hair. GPT performs ONE short controlled rise from just above the floor into a low stable hover. Her two already-spread membrane wings make one small downward correction, lifting her body only a short distance, then hold steady. Gown and hair follow the upward acceleration with slight delay and settle downward. Camera eases upward only enough to retain the same low frontal composition, then stops with both head and lower body readable. End with a brief stable hover ready to cut to side shot070. No repeated wing flaps, no second lift, no landing, no orbit, no long posing tail. Keep the same deep blue NIGHT windows and restrained lit amber lamps throughout. No flood yet, no new fire, no added particles, no skin glow, no 3D shading. Preserve exact identity, two membrane wings, one tail and the costume."
+}

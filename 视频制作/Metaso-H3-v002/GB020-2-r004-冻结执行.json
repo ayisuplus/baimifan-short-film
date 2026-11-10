@@ -1,0 +1,57 @@
+{
+  "batch": {
+    "batch_number": 29,
+    "batch_id": "GB020-2",
+    "attempt_id": "GB020-2-r004",
+    "title": "俯冲，水龙直下穹顶",
+    "shot_ids": [
+      "CY024A7"
+    ],
+    "film_start": 311.272729,
+    "part_offset": 0.0,
+    "used_seconds": 5.59,
+    "duration": 6,
+    "prompt": "从给定第一帧原样开始，只让已有画面动起来，不重新设计角色或背景。单一连续镜头，无切镜，无字幕水印、无音乐、无新增人物。6秒，陡俯视相机缓缓沿画中纯水巨浪下降。保持首帧透明无眼球的水流形状，表面只有一直流动的泡沫与折射，任何时刻都没有实体动物、鳞片、眼睛亮点。0–4.8秒水流向完整屋顶迫近，4.8–5.59秒水流吻端只在中央中殿同一位置接触屋顶并压开第一处缺口，最后停留在撞点，后殿与左右窗完整。5.59–6秒延续水花，不产生第二次撞击。全程没有人体。GPT画外0–5.35秒自然说一次：<d>[Japanese] 今こそ天を開き、大海を翻せ。</d>。",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/Metaso-H3-v002/修订参考/water-start-固定首帧-r004.png",
+        "sha256": "aa1a5ccb544f9a574e4aa54d7d70398eb96ddc7af037d8c2087d26d549fbc235",
+        "kind": "first_frame",
+        "role": "first_frame"
+      }
+    ],
+    "estimated_credits": 61.2,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "参考模式重复重构出错误元素；改用官方固定首帧模式，锁住已修正的画面元素。",
+    "repair_of": {
+      "attempt_id": "GB020-2-r003",
+      "task_id": "2115148813883596800",
+      "local_path": "视频制作/Metaso-H3-v002/产物/GB020-2-r003.mp4"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json",
+    "mode": "first_frame"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "从给定第一帧原样开始，只让已有画面动起来，不重新设计角色或背景。单一连续镜头，无切镜，无字幕水印、无音乐、无新增人物。6秒，陡俯视相机缓缓沿画中纯水巨浪下降。保持首帧透明无眼球的水流形状，表面只有一直流动的泡沫与折射，任何时刻都没有实体动物、鳞片、眼睛亮点。0–4.8秒水流向完整屋顶迫近，4.8–5.59秒水流吻端只在中央中殿同一位置接触屋顶并压开第一处缺口，最后停留在撞点，后殿与左右窗完整。5.59–6秒延续水花，不产生第二次撞击。全程没有人体。GPT画外0–5.35秒自然说一次：<d>[Japanese] 今こそ天を開き、大海を翻せ。</d>。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115150893525295104"
+        },
+        "role": "first_frame"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 6,
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "2026-10-28作者授权：参考图超限想办法砍不重要参考，该返修的都返修；沿用Metaso H3"
+}

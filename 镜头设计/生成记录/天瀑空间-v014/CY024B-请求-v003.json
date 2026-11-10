@@ -1,0 +1,14 @@
+{
+  "id": "CY024B",
+  "take": 3,
+  "destination": "镜头设计/图像/天瀑空间-v014/CY024B-v014-r3.png",
+  "request": "镜头设计/生成记录/天瀑空间-v014/CY024B-请求-v003.json",
+  "input": {
+    "prompt": "编辑图1。图1的巨大天瀑继续保留，水从破碎穹顶倾泻，占画面上方大部分，冲遍中殿。图2用于锁定空间：GPT在左前景、教主正前方中央下段缓台开暗金护罩、千问抱DeepSeek在右柱边，Claude远在最高平台。六只火盆、左右等高圣灯和两蜡烛全部被水浇灭，水帘可遮住大部分道具。保持猛烈水势，不把教主移到旁边。 保持细腻哥特异世界动漫电影画风与原画幅，单幅无文字。",
+    "referenced_image_paths": [
+      "E:/projects/内容创作/穿云/镜头设计/图像/天瀑空间-v014/CY024B-v014-r2.png",
+      "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-d9478815-77d0-4e5e-860a-9487d71a318f.png"
+    ],
+    "transparent_background": false
+  }
+}

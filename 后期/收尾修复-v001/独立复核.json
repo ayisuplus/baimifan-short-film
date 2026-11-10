@@ -1,0 +1,745 @@
+{
+  "version": "v001",
+  "scope": "v012 independent clock, source sample coverage and model selection review",
+  "status": "technical_checks_passed_pending_listening",
+  "source_files": [
+    "视频制作/生成板-v012/展开数据.json",
+    "后期/收尾修复-v001/实际BGM剪辑.json",
+    "后期/收尾修复-v001/配音对位方案.json",
+    "镜头设计/shot-plan-v0.57.json"
+  ],
+  "checks": {
+    "batches": 40,
+    "shots": 132,
+    "dialogue_cues": 61,
+    "unique_cue_ids": 61,
+    "rhythm_points": 46,
+    "expected_rhythm_points": 46,
+    "mix_events": 46,
+    "source_files": 42,
+    "film_seconds": 450.9,
+    "selected_seedance_batches": [
+      "GB014",
+      "GB018",
+      "GB026",
+      "GB031"
+    ],
+    "all_sources_sample_covered_once": true,
+    "technical_output_decode_proof": {
+      "BGM试听.wav": {
+        "decoded_samples": 21643200,
+        "decoded_seconds": 450.9,
+        "peak_dbfs": -16.638159331285795,
+        "all_finite": true,
+        "silence_max_abs": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "BGM试听.mp3": {
+        "decoded_samples": 21643200,
+        "decoded_seconds": 450.9,
+        "peak_dbfs": -16.920724175800586,
+        "all_finite": true
+      },
+      "全片声音预览.mp3": {
+        "decoded_samples": 21643200,
+        "decoded_seconds": 450.9,
+        "peak_dbfs": -4.1842822939008055,
+        "all_finite": true
+      }
+    },
+    "auditory_review_performed": false,
+    "source_hash_current": "83d23bc169a8bcdc862aecf8bbd7306668800f2651ae6e86fe6c252811df3287",
+    "board_source_hash_matches": true,
+    "actual_bgm_source_hash_matches": true,
+    "all_dual_prompt_shot_times_match_rows": true,
+    "all_46_prompt_action_times_match_actual_audio": true,
+    "all_61_cues_within_single_batch": true,
+    "all_h3_spoken_words_concatenate_to_original_cues": true,
+    "stale_review_clock_fields_remaining": 0,
+    "final_text_followup_resolved": true,
+    "audio_output_hashes_unchanged": true,
+    "scene_seconds_sum": 450.9
+  },
+  "issues": [],
+  "master_batch_crossings": [
+    {
+      "event": "MASTER-GPT-1",
+      "batches": [
+        "GB018",
+        "GB019",
+        "GB020-1",
+        "GB020-2"
+      ],
+      "post_mix": "single continuous event"
+    },
+    {
+      "event": "MASTER-GPT-2",
+      "batches": [
+        "GB021",
+        "GB022-1"
+      ],
+      "post_mix": "single continuous event"
+    },
+    {
+      "event": "MASTER-Claude-1",
+      "batches": [
+        "GB028",
+        "GB029",
+        "GB030-1"
+      ],
+      "post_mix": "single continuous event"
+    }
+  ],
+  "source_sample_coverage": [
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY003-01__Xiaoyu__ja__v001.wav",
+      "rate": 40000,
+      "frames": 64000,
+      "segments": [
+        [
+          0,
+          64000,
+          "VO-CY003-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY003B-01__Claude__ja__v001.wav",
+      "rate": 40000,
+      "frames": 71200,
+      "segments": [
+        [
+          0,
+          71200,
+          "VO-CY003B-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY004-01__Cultist__ja__v001.wav",
+      "rate": 40000,
+      "frames": 88000,
+      "segments": [
+        [
+          0,
+          88000,
+          "VO-CY004-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY004D-01__GPT__ja__v001.wav",
+      "rate": 40000,
+      "frames": 88000,
+      "segments": [
+        [
+          0,
+          88000,
+          "VO-CY004D-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY006-01__Xiaoyu__ja__v001.wav",
+      "rate": 40000,
+      "frames": 183200,
+      "segments": [
+        [
+          0,
+          183200,
+          "VO-CY006-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY007-01__GPT__ja__v001.wav",
+      "rate": 40000,
+      "frames": 100000,
+      "segments": [
+        [
+          0,
+          100000,
+          "VO-CY007-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY008-01__Xiaoyu__ja__v001.wav",
+      "rate": 40000,
+      "frames": 100000,
+      "segments": [
+        [
+          0,
+          100000,
+          "VO-CY008-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY009-01__Xiaoyu__ja__v001.wav",
+      "rate": 40000,
+      "frames": 68000,
+      "segments": [
+        [
+          0,
+          68000,
+          "VO-CY009-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY010A-01__Cultist__ja__v001.wav",
+      "rate": 40000,
+      "frames": 160000,
+      "segments": [
+        [
+          0,
+          160000,
+          "VO-CY010A-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY015-01__Claude__ja__v001.wav",
+      "rate": 40000,
+      "frames": 60000,
+      "segments": [
+        [
+          0,
+          60000,
+          "VO-CY015-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY015-02__Xiaoyu__ja__v001.wav",
+      "rate": 40000,
+      "frames": 60000,
+      "segments": [
+        [
+          0,
+          60000,
+          "VO-CY015-02"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY016A-01__Claude__ja__v001.wav",
+      "rate": 40000,
+      "frames": 80000,
+      "segments": [
+        [
+          0,
+          80000,
+          "VO-CY016A-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY016A-02__Xiaoyu__ja__v001.wav",
+      "rate": 40000,
+      "frames": 68000,
+      "segments": [
+        [
+          0,
+          68000,
+          "VO-CY016A-02"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY016B1-01__Claude__ja__v001.wav",
+      "rate": 40000,
+      "frames": 55200,
+      "segments": [
+        [
+          0,
+          55200,
+          "VO-CY016B1-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY021A-01__CultLeader__ja__v001.wav",
+      "rate": 40000,
+      "frames": 100000,
+      "segments": [
+        [
+          0,
+          100000,
+          "VO-CY021A-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY019-01__CultLeader__ja__v001.wav",
+      "rate": 40000,
+      "frames": 32000,
+      "segments": [
+        [
+          0,
+          32000,
+          "VO-CY019-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY020-01__Claude__ja__v001.wav",
+      "rate": 40000,
+      "frames": 60000,
+      "segments": [
+        [
+          0,
+          60000,
+          "VO-CY020-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY021-01__Claude__ja__v001.wav",
+      "rate": 40000,
+      "frames": 232000,
+      "segments": [
+        [
+          0,
+          232000,
+          "VO-CY021-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY024-01__GPT__ja__v001.wav",
+      "rate": 40000,
+      "frames": 108000,
+      "segments": [
+        [
+          0,
+          108000,
+          "VO-CY024-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/母版/母版-Kimi月影渡-连续咏唱.wav",
+      "rate": 40000,
+      "frames": 475200,
+      "segments": [
+        [
+          0,
+          108800,
+          "MASTER-Kimi-1"
+        ],
+        [
+          108800,
+          345200,
+          "MASTER-Kimi-2"
+        ],
+        [
+          345200,
+          475200,
+          "MASTER-Kimi-3"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY026A-01__GPT__ja__v001.wav",
+      "rate": 40000,
+      "frames": 128000,
+      "segments": [
+        [
+          0,
+          128000,
+          "VO-CY026A-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY026A1-01__Qwen__ja__v001.wav",
+      "rate": 40000,
+      "frames": 80000,
+      "segments": [
+        [
+          0,
+          80000,
+          "VO-CY026A1-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY026B-01__GPT__ja__v001.wav",
+      "rate": 40000,
+      "frames": 68000,
+      "segments": [
+        [
+          0,
+          68000,
+          "VO-CY026B-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY026B-02__Gemini__ja__v001.wav",
+      "rate": 40000,
+      "frames": 51200,
+      "segments": [
+        [
+          0,
+          51200,
+          "VO-CY026B-02"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY026C-01__GPT__ja__v001.wav",
+      "rate": 40000,
+      "frames": 80000,
+      "segments": [
+        [
+          0,
+          80000,
+          "VO-CY026C-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY026C-02__Grok__ja__v001.wav",
+      "rate": 40000,
+      "frames": 55200,
+      "segments": [
+        [
+          0,
+          55200,
+          "VO-CY026C-02"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY026D1-01__GPT__ja__v001.wav",
+      "rate": 40000,
+      "frames": 60000,
+      "segments": [
+        [
+          0,
+          60000,
+          "VO-CY026D1-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY026D-01__GPT__ja__v001.wav",
+      "rate": 40000,
+      "frames": 180000,
+      "segments": [
+        [
+          0,
+          180000,
+          "VO-CY026D-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY026D-02__Kimi__ja__v001.wav",
+      "rate": 40000,
+      "frames": 32000,
+      "segments": [
+        [
+          0,
+          32000,
+          "VO-CY026D-02"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY026E-01__GPT__ja__v001.wav",
+      "rate": 40000,
+      "frames": 160000,
+      "segments": [
+        [
+          0,
+          160000,
+          "VO-CY026E-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY024A0-01__Qwen__ja__v001.wav",
+      "rate": 40000,
+      "frames": 120000,
+      "segments": [
+        [
+          0,
+          120000,
+          "VO-CY024A0-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/母版/母版-GPT沧海天倾-连续咏唱.wav",
+      "rate": 40000,
+      "frames": 2120000,
+      "segments": [
+        [
+          0,
+          1268800,
+          "MASTER-GPT-1"
+        ],
+        [
+          1268800,
+          1901600,
+          "MASTER-GPT-2"
+        ],
+        [
+          1901600,
+          2120000,
+          "MASTER-GPT-3"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY027A-01__CultLeader__ja__v001.wav",
+      "rate": 40000,
+      "frames": 187200,
+      "segments": [
+        [
+          0,
+          187200,
+          "VO-CY027A-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY027B-01__GPT__ja__v001.wav",
+      "rate": 40000,
+      "frames": 51200,
+      "segments": [
+        [
+          0,
+          51200,
+          "VO-CY027B-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY028A-01__GPT__ja__v001.wav",
+      "rate": 40000,
+      "frames": 100000,
+      "segments": [
+        [
+          0,
+          100000,
+          "VO-CY028A-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY028A-02__Claude__ja__v001.wav",
+      "rate": 40000,
+      "frames": 131200,
+      "segments": [
+        [
+          0,
+          131200,
+          "VO-CY028A-02"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY028A2-01__GPT__ja__v001.wav",
+      "rate": 40000,
+      "frames": 80000,
+      "segments": [
+        [
+          0,
+          80000,
+          "VO-CY028A2-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/母版/母版-Claude星火-含停顿-连续咏唱.wav",
+      "rate": 40000,
+      "frames": 1156400,
+      "segments": [
+        [
+          0,
+          1156400,
+          "MASTER-Claude-1"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY029-01__CultLeader__ja__v001.wav",
+      "rate": 40000,
+      "frames": 167200,
+      "segments": [
+        [
+          0,
+          167200,
+          "VO-CY029-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY028-01__GPT__ja__v001.wav",
+      "rate": 40000,
+      "frames": 51200,
+      "segments": [
+        [
+          0,
+          51200,
+          "VO-CY028-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY031A-01__Xiaoyu__ja__v001.wav",
+      "rate": 40000,
+      "frames": 71200,
+      "segments": [
+        [
+          0,
+          71200,
+          "VO-CY031A-01"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    },
+    {
+      "file": "后期/日语配音交接-v001/成品-v001/干声/VO-CY031A-02__Claude__ja__v001.wav",
+      "rate": 40000,
+      "frames": 32000,
+      "segments": [
+        [
+          0,
+          32000,
+          "VO-CY031A-02"
+        ]
+      ],
+      "all_samples_exactly_once": true
+    }
+  ],
+  "limits": [
+    "没有实际听审，逐字日语/音色/口型/乐句情绪未验收。",
+    "跨批母版在后期单次连续混入，模型生成的分句声只是临时声音，不能作为最终拼接母版。",
+    "正在修改的动态文字不纳入本次因果审查；最终需再核对来源hash。"
+  ],
+  "resolved_findings": [
+    {
+      "id": "stale_review_clock",
+      "count": 165,
+      "status": "fixed_and_independently_rechecked",
+      "description": "初查dialogue[].review内duration/film_start/film_end等165处沿用旧时钟。主代理同步自然原声时间并重建生成板，复核全部消除。",
+      "example_before": {
+        "field": "batches[GB001].dialogue[VO-CY003-01].review.film_end",
+        "value": 11.547029
+      },
+      "example_after": {
+        "value": 11.4
+      }
+    },
+    {
+      "id": "final_CY028A2_dialogue_relation",
+      "status": "fixed_and_independently_rechecked",
+      "description": "最终文字小修曾误称GPT答句在前镜结束；实际原声位于CY028A2前2秒。已改源对白/声音和中英transition为本镜GPT画外完整回答、小鱼无词反应且不对嘴，时长与音频文件未变。"
+    }
+  ],
+  "method_notes": [
+    "数值比较容许1e-5秒浮点舍入；十进制格式化差异不是时钟问题。",
+    "GB019的H3在同批内使用scenetrans跨镜分段；去标签后重组文字与整句完全相等，无漏字重复。",
+    "母版跨批保持后期单事件连续；各可见cue全部留在一批内。内部词边界仍是估计，并未听审。"
+  ],
+  "protected_timing_checks": {
+    "kimi_manifest_seconds": 4,
+    "gpt_prayer_silence_seconds": 0.8,
+    "claude_master_six_second_pause_sample_range": [
+      224400,
+      464400
+    ],
+    "claude_master_pause_samples_all_zero": true,
+    "father_range": [
+      382.9,
+      387.08
+    ],
+    "father_wholly_inside_pause": true,
+    "ending_music_off_seconds": 4
+  },
+  "final_text_followup": {
+    "source_hash_reviewed": "83d23bc169a8bcdc862aecf8bbd7306668800f2651ae6e86fe6c252811df3287",
+    "status": "corrected_and_rechecked",
+    "passed": [
+      "subtitle and revision 450.9",
+      "scene duration sum 450.9",
+      "BGM UI clock values 11.40 / 8.91 / 5.74-6.54",
+      "ending silence446.9-450.9"
+    ],
+    "finding": {
+      "field": "shots[CY028A2].dialogue/sound and GB028.rows[CY028A2].transition/effects",
+      "description": "新文字称GPT答句前镜已结束，但采用原声与两模型prompt仍在本镜373.99–375.99完整说出答句。应恢复GPT画外答句，宝宝无词反应。",
+      "audio_change_needed": false
+    },
+    "final_source_hash": "83d23bc169a8bcdc862aecf8bbd7306668800f2651ae6e86fe6c252811df3287",
+    "correction": {
+      "shot": "CY028A2",
+      "source_dialogue": "ChatGPT（画外）：她没事，在下面等你。",
+      "source_sound": "本镜前2秒GPT在画外完整回答，宝宝无词反应，不跟随对嘴；滴水与安静呼吸，保持祭坛方向与距离感，不新增台词。",
+      "board_transition": "沿Claude俯视方向切小鱼，在本镜前2秒听GPT画外完整回答；宝宝无词反应不对嘴，保持祭坛方向。",
+      "voice_range": [
+        373.99,
+        375.99
+      ],
+      "shot_range": [
+        373.99,
+        376.99
+      ],
+      "audio_changed": false
+    }
+  }
+}

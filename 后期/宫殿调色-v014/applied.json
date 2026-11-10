@@ -1,0 +1,65 @@
+[
+  {
+    "name": "B03_v013_StairsAndGuards_1",
+    "start": 682,
+    "end": 730,
+    "grade": "stair",
+    "lut": "MCP\\Baimifan_v014_stair_r1.cube"
+  },
+  {
+    "name": "B03_v013_StairsAndGuards_2",
+    "start": 730,
+    "end": 850,
+    "grade": "gate",
+    "lut": "MCP\\Baimifan_v014_gate_r1.cube"
+  },
+  {
+    "name": "B03_v013_StairsAndGuards_3",
+    "start": 850,
+    "end": 916,
+    "grade": "gate",
+    "lut": "MCP\\Baimifan_v014_gate_r1.cube"
+  },
+  {
+    "name": "B03_v013_StairsAndGuards_4",
+    "start": 916,
+    "end": 946,
+    "grade": "inner",
+    "lut": "MCP\\Baimifan_v014_inner_r1.cube"
+  },
+  {
+    "name": "B04_GB004_01",
+    "start": 946,
+    "end": 1070,
+    "grade": "dialogue",
+    "lut": "MCP\\Baimifan_v014_dialogue_r1.cube"
+  },
+  {
+    "name": "B04_GB004_02",
+    "start": 1070,
+    "end": 1097,
+    "grade": "dialogue",
+    "lut": "MCP\\Baimifan_v014_dialogue_r1.cube"
+  },
+  {
+    "name": "B04_GB004_03",
+    "start": 1097,
+    "end": 1180,
+    "grade": "dialogue",
+    "lut": "MCP\\Baimifan_v014_dialogue_r1.cube"
+  },
+  {
+    "name": "B04_GB004_04",
+    "start": 1180,
+    "end": 1198,
+    "grade": "dialogue",
+    "lut": "MCP\\Baimifan_v014_dialogue_r1.cube"
+  },
+  {
+    "name": "B04_GB004_05",
+    "start": 1198,
+    "end": 1282,
+    "grade": "dialogue",
+    "lut": "MCP\\Baimifan_v014_dialogue_r1.cube"
+  }
+]

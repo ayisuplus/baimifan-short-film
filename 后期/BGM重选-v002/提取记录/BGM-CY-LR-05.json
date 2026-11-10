@@ -1,0 +1,39 @@
+{
+  "id": "BGM-CY-LR-05",
+  "bvid": "BV1BT411v722",
+  "part": 5,
+  "title": "The Treason of Isengard",
+  "display_title": "艾辛格的背叛",
+  "work": "指环王：护戒使者",
+  "composer": "Howard Shore",
+  "source_page_title": "04 The Treason of Isengard",
+  "cid": 1031906401,
+  "source": "https://www.bilibili.com/video/BV1BT411v722/?p=5",
+  "uploader": "拾光留声机",
+  "video_title": "电影与音乐，到底是谁成就了谁-经典奥斯卡史诗电影《指环王1：魔戒再现  电影原声带》",
+  "path": "资产/声音/BGM/重选-v002/BGM-CY-LR-05.m4a",
+  "bytes": 5187336,
+  "sha256": "aa720e2c51d9949d664d352b3abc8367dd60ef4d0b07700a5cd66c93d7bd62de",
+  "duration": 245.759569,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "83396"
+      }
+    ],
+    "format": {
+      "duration": "245.759569"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

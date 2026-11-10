@@ -1,0 +1,11 @@
+{
+  "shot_id": "CY028",
+  "tool": "image_gen__imagegen",
+  "input": {
+    "prompt": "只删除白发GPT耳朵旁错误新增的那朵橙花（画面横向约49%、纵向16%处），恢复GPT原有的白发、精灵耳和银色饰物。Claude的橙花在她自身左侧远侧，被两人头部完全挡住，本角度不可见，不要在任何其他位置画花。保留Claude头纱及全部人物表情、动作、手脚、服装和背景灯光，不改其他内容。无字。",
+    "referenced_image_paths": [
+      "E:/projects/内容创作/穿云/镜头设计/图像/头纱连续-v013/CY028-v013-r2.png"
+    ],
+    "transparent_background": false
+  }
+}

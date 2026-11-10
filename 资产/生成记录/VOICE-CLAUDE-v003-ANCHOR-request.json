@@ -1,0 +1,44 @@
+{
+  "24": {
+    "class_type": "VoxCPM_TTS",
+    "inputs": {
+      "model_name": "VoxCPM2",
+      "lora_name": "None",
+      "text": "别害怕，我会陪着你。等天亮了，我们一起离开这里。",
+      "voice_design": "十八岁少女声，清柔通透，轻盈自然的中高声区，清晰普通话。安静克制，略带忧伤，自然说话。",
+      "cfg": 2.0,
+      "steps": 10,
+      "normalize_text": false,
+      "seed": 20261021,
+      "force_offload": true,
+      "device": "cuda",
+      "dtype": "bf16",
+      "advanced_params": [
+        "30",
+        0
+      ]
+    }
+  },
+  "30": {
+    "class_type": "VoxCPM_AdvancedParams",
+    "inputs": {
+      "min_tokens": 2,
+      "max_tokens": 2048,
+      "temperature": 1.0,
+      "sway": 1.0,
+      "use_cfg_zero_star": true,
+      "retry_max_attempts": 3,
+      "retry_threshold": 6.0
+    }
+  },
+  "1": {
+    "class_type": "SaveAudio",
+    "inputs": {
+      "audio": [
+        "24",
+        0
+      ],
+      "filename_prefix": "audio/chuanyun/VOICE-CLAUDE-v003-ANCHOR"
+    }
+  }
+}

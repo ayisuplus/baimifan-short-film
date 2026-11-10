@@ -1,0 +1,323 @@
+{
+  "version": "v048",
+  "previous_index": "镜头设计/生成记录/生成索引-v047.json",
+  "engine": "built-in image_gen",
+  "mode": "reference edit",
+  "transparent_background": false,
+  "images": [
+    {
+      "id": "CY022A1",
+      "path": "镜头设计/图像/目光与入场-v048/CY022A1-v048-r1.png",
+      "sha256": "4b4f34f7c90a1c35c4d5a1d90be23d653d5a5b54029bd38cdacd0cc185ddb502",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/目光与入场-v048/01-朝向与教主反应.json",
+      "request_sha256": "d1238dec257f3ed1c61047707ab121425df986cdc5d9745f2312aea6951dc31c",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/火祭因果-v040/CY022A1-v040-r1.png",
+          "sha256": "6db024dda3cae07003ca988e4696e9d0e18cc3e0a6b0602a8fc19147c824c909"
+        }
+      ]
+    },
+    {
+      "id": "CY024R",
+      "path": "镜头设计/图像/目光与入场-v048/CY024R-v048-r1.png",
+      "sha256": "8058a67fcf61ccb6b26b4c756173effc2994fd5bfd0005ae665aaf9e9094ef12",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/目光与入场-v048/01-朝向与教主反应.json",
+      "request_sha256": "d1238dec257f3ed1c61047707ab121425df986cdc5d9745f2312aea6951dc31c",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/苍龙雷渊-v031/CY024A8-v031-r3.png",
+          "sha256": "d6143562c83800a48ee206e4d6363ff14222aa56c74e07f18150f1df19ff7828"
+        },
+        {
+          "path": "镜头设计/图像/火祭因果-v040/CY022A1-v040-r1.png",
+          "sha256": "6db024dda3cae07003ca988e4696e9d0e18cc3e0a6b0602a8fc19147c824c909"
+        }
+      ]
+    },
+    {
+      "id": "CY025",
+      "path": "镜头设计/图像/目光与入场-v048/CY025-v048-r1.png",
+      "sha256": "f05576c45ec4da41220460f5ddfe0cca6477699d2ade1e7d88dbb43f7ab900ea",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/目光与入场-v048/02-后段肤色与眼色修正.json",
+      "request_sha256": "88d2df827b3baa378dc7da2514e7c667991871d1dfdfadbed81c0e918b979ac8",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/动作收尾-v015/CY025-v015-r2.png",
+          "sha256": "a60308cf86006005358f8b0cc803a31380b7980be6f7889bf2c677621513952b"
+        }
+      ]
+    },
+    {
+      "id": "CY027B",
+      "path": "镜头设计/图像/目光与入场-v048/CY027B-v048-r1.png",
+      "sha256": "7bd904d35e2e4dc881fb642a040afbebab3dd9aa9e66109cd9316e85a991a5b5",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/目光与入场-v048/02-后段肤色与眼色修正.json",
+      "request_sha256": "88d2df827b3baa378dc7da2514e7c667991871d1dfdfadbed81c0e918b979ac8",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/天瀑空间-v014/CY027B-v014-r1.png",
+          "sha256": "cf46935908a8e78cbb9bb8d55115573699063b0167114282b296d2d54aa67afe"
+        }
+      ]
+    },
+    {
+      "id": "CY028A2",
+      "path": "镜头设计/图像/目光与入场-v048/CY028A2-v048-r1.png",
+      "sha256": "2006931f94b084f74ff229869ad6da3363000546ef53b1b65a2adcfa85865413",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/目光与入场-v048/02-后段肤色与眼色修正.json",
+      "request_sha256": "88d2df827b3baa378dc7da2514e7c667991871d1dfdfadbed81c0e918b979ac8",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/战后对白与补镜-v025/CY028A2-v025-r1.png",
+          "sha256": "2e87649688f10d7ff09d16f07376bef028e757cef7b680156a7dfff69a0121e1"
+        }
+      ]
+    },
+    {
+      "id": "CY029E4",
+      "path": "镜头设计/图像/目光与入场-v048/CY029E4-v048-r1.png",
+      "sha256": "8a4e846a6193fe0734c79dfc3c24edb75fa36f899f9e3893cc60b9515559a24b",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/目光与入场-v048/02-后段肤色与眼色修正.json",
+      "request_sha256": "88d2df827b3baa378dc7da2514e7c667991871d1dfdfadbed81c0e918b979ac8",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/末轮叙事优化-v035/CY029E4-v035-r1.png",
+          "sha256": "921ccc056004f550c368948e76e281f257c6bba8ca56e0ea53d3dc750001d8ae"
+        }
+      ]
+    },
+    {
+      "id": "CY027F2",
+      "path": "镜头设计/图像/目光与入场-v048/CY027F2-v048-r1.png",
+      "sha256": "81e574d8d45c0f2b118be0041f192caf947dc81c757f24c52f6c50457cf7819d",
+      "size": [
+        1670,
+        942
+      ],
+      "request": "镜头设计/生成记录/目光与入场-v048/02-后段肤色与眼色修正.json",
+      "request_sha256": "88d2df827b3baa378dc7da2514e7c667991871d1dfdfadbed81c0e918b979ac8",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/暗月瞬临-v045/CY027F2-v045-r2.png",
+          "sha256": "421a529d3365ee8ce38dba2fdb6e9dbc96965a56c0ae3f8c04659d6c2487a7cf"
+        }
+      ]
+    },
+    {
+      "id": "CY027G",
+      "path": "镜头设计/图像/目光与入场-v048/CY027G-v048-r1.png",
+      "sha256": "1a2eea63ed7e18bfbd3bdf489f275d3b95fd91163a6f3d98844fee56915a6a7b",
+      "size": [
+        1670,
+        942
+      ],
+      "request": "镜头设计/生成记录/目光与入场-v048/02-后段肤色与眼色修正.json",
+      "request_sha256": "88d2df827b3baa378dc7da2514e7c667991871d1dfdfadbed81c0e918b979ac8",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/火焰伤后与星火-v036/CY027G-v036-r1.png",
+          "sha256": "469e5cdb2c30b06f7e088a1600a4f40aada5c18447204e091b3db70582d4b49c"
+        }
+      ]
+    },
+    {
+      "id": "CY028A",
+      "path": "镜头设计/图像/目光与入场-v048/CY028A-v048-r1.png",
+      "sha256": "02236be584cb2307c450932230f9ae951ab0f052342f0048c5b907e2ba47cc76",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/目光与入场-v048/02-后段肤色与眼色修正.json",
+      "request_sha256": "88d2df827b3baa378dc7da2514e7c667991871d1dfdfadbed81c0e918b979ac8",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/暗月瞬临-v045/CY028A-v045-r1.png",
+          "sha256": "eeafd4cf212d0e5dab7629f1176d77cc5659048e4de6ca52ad67cd7a699b5add"
+        }
+      ]
+    },
+    {
+      "id": "CY024K0",
+      "path": "镜头设计/图像/目光与入场-v048/CY024K0-v048-r1.png",
+      "sha256": "4b497861a096e952e47adf0f477551b8495d7b239739d971ed53145c8f5f56de",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/目光与入场-v048/03-窗外咏唱举刃.json",
+      "request_sha256": "63cd93362ba3c51c95ac769840c0647b8debb68a9f5f8f4ab24b7d750e4ea0b2",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/暗月瞬临-v045/CY024K0-v045-r1.png",
+          "sha256": "61c991684c40f08041a3274679de8ea59cb01ca064c2122cf653d95a56005cd8"
+        },
+        {
+          "path": "镜头设计/图像/月刃救援-v041/KIMI双刃-v041-r3.png",
+          "sha256": "41e1cfdc7480ac646ee3970e9876b5c38cd6e6932180131acd55643b46bb0c9e"
+        }
+      ]
+    },
+    {
+      "id": "CY027F",
+      "path": "镜头设计/图像/目光与入场-v048/CY027F-v048-r1.png",
+      "sha256": "be1ee54b60bf1b1e6275cfbfd7d2609a15142a5153baf80f9e14fbe922dcdd0f",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/目光与入场-v048/04-群像眼色修正.json",
+      "request_sha256": "b1743fc30a8dcc9fc6017f9bc7aa21cf2c1710f5735e79d60fb06c360cf469d2",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月刃救援-v041/CY027F-v041-r1.png",
+          "sha256": "0abb6ce50b9373d4af7b2842ac31e147acf4c4fcc6ca7bdf59e8e5c7a203baf2"
+        }
+      ]
+    },
+    {
+      "id": "CY027D",
+      "path": "镜头设计/图像/目光与入场-v048/CY027D-v048-r1.png",
+      "sha256": "f97aef426d66c147f3161da161241371c7c2b91f82966231306c4793e9ccb527",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/目光与入场-v048/04-群像眼色修正.json",
+      "request_sha256": "b1743fc30a8dcc9fc6017f9bc7aa21cf2c1710f5735e79d60fb06c360cf469d2",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/暗月瞬临-v045/CY027D-v045-r1.png",
+          "sha256": "4fb2f8ee821266b72f75a74fa4f7bb1303956abdcfebfe1c642271c933969c7c"
+        }
+      ]
+    },
+    {
+      "id": "CY024K4",
+      "path": "镜头设计/图像/目光与入场-v048/CY024K4-v048-r1.png",
+      "sha256": "e3ef521890a01f0caa2951b28922d1a3d71b5b2d6109e22d7662420a301dcaf6",
+      "size": [
+        1670,
+        942
+      ],
+      "request": "镜头设计/生成记录/目光与入场-v048/05-罩内肤色修正.json",
+      "request_sha256": "0aa2bff07dfe8b408fbe5685733535cdadbc38daa3165e2f8f837ac73df9bcfd",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/暗月瞬临-v045/CY024K4-v045-r1.png",
+          "sha256": "584098aca8ed3de1539a18a771829e2d6876cce224af363108c5e75e8abfac73"
+        }
+      ]
+    },
+    {
+      "id": "CY024A1",
+      "path": "镜头设计/图像/目光与入场-v048/CY024A1-v048-r1.png",
+      "sha256": "b3cf735f3c15a4653287539da0afa463cbc1a1e159f9e568c172725affde02a1",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/目光与入场-v048/05-罩内肤色修正.json",
+      "request_sha256": "0aa2bff07dfe8b408fbe5685733535cdadbc38daa3165e2f8f837ac73df9bcfd",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/暗月瞬临-v045/CY024A1-v045-r3.png",
+          "sha256": "1dc36092dbe8b492fa7b7cc2f8f778da41d3f3d00035d3ff898dc2083ef97c29"
+        }
+      ]
+    },
+    {
+      "id": "CY024A2",
+      "path": "镜头设计/图像/目光与入场-v048/CY024A2-v048-r1.png",
+      "sha256": "bb96f43403bcdfc34dda83a6fd5042feffd229fd177693a4d9b68ec20e7c48d5",
+      "size": [
+        1670,
+        942
+      ],
+      "request": "镜头设计/生成记录/目光与入场-v048/05-罩内肤色修正.json",
+      "request_sha256": "0aa2bff07dfe8b408fbe5685733535cdadbc38daa3165e2f8f837ac73df9bcfd",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/暗月瞬临-v045/CY024A2-v045-r2.png",
+          "sha256": "03789e5186443701be97ceab870a46ee23c504159ab65a045f724d49eed1fbe5"
+        }
+      ]
+    },
+    {
+      "id": "CY024B3A",
+      "path": "镜头设计/图像/目光与入场-v048/CY024B3A-v048-r1.png",
+      "sha256": "514faf587a2e3dafb7023966eec417f0724713659eb8c537cc99a2b585ddc96f",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/目光与入场-v048/05-罩内肤色修正.json",
+      "request_sha256": "0aa2bff07dfe8b408fbe5685733535cdadbc38daa3165e2f8f837ac73df9bcfd",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/控水协作-v046/CY024B3A-v046-r1.png",
+          "sha256": "9f47e4450ce755ab733560e05d5575819004a1df9996a8c1875c6efdcbd26f1e"
+        }
+      ]
+    },
+    {
+      "id": "CY024",
+      "path": "镜头设计/图像/目光与入场-v048/CY024-v048-r1.png",
+      "sha256": "b8a6dd3356348c52dd4f426e3b8973a8adf20417878a5718a83621e84c17be74",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/目光与入场-v048/06-入场眼色与抱护肤色.json",
+      "request_sha256": "bff00202a662fbe692f68681a27dc56c0cb3b771d30372fc454ebb59149354be",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/月刃救援-v041/CY024-v041-r1.png",
+          "sha256": "45af99e93e1d6e5de8920b4308c3ba89e728f63a91fcc8663ca74c52be8348ba"
+        }
+      ]
+    },
+    {
+      "id": "CY024A0",
+      "path": "镜头设计/图像/目光与入场-v048/CY024A0-v048-r1.png",
+      "sha256": "1febea4f0ae7996dea7f423de62d33d234b95eb3d50a954385f773cde5230437",
+      "size": [
+        1672,
+        941
+      ],
+      "request": "镜头设计/生成记录/目光与入场-v048/06-入场眼色与抱护肤色.json",
+      "request_sha256": "bff00202a662fbe692f68681a27dc56c0cb3b771d30372fc454ebb59149354be",
+      "inputs": [
+        {
+          "path": "镜头设计/图像/千问抱紧我-v037/CY024A0-v037-r1.png",
+          "sha256": "b66984c718b9b5239970527948e22508f0afcf1d8cec7d82681fb073cfcc584d"
+        }
+      ]
+    }
+  ]
+}

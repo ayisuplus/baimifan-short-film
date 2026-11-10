@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115141621271293952",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "哥特异世界：教堂救赎与街市重逢",
+    "status": "succeeded",
+    "created_at": 1793124035,
+    "updated_at": 1793124052,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115141621271293952/content?expires=1793728910&signature=c9f950bebbdbef42384aba57f66ab0d9c2308ba33e698436bf235e32c2927e72"
+    },
+    "resolution": "768P",
+    "duration": 5,
+    "usage": {
+      "total_seconds": 5,
+      "input_seconds": 0,
+      "output_seconds": 5,
+      "input_image_count": 3
+    },
+    "ratio": "16:9",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

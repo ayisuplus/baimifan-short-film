@@ -1,0 +1,24 @@
+{
+  "locked_files_verified": 98,
+  "local_links_verified": 586,
+  "shots": 105,
+  "total_seconds": 348.0,
+  "spell_sequence_seconds": 42,
+  "estimated_gpt_incantation_seconds": 40.8,
+  "full_spell_verified": true,
+  "changed_existing_image_ids": [
+    "CY024A6",
+    "CY024B"
+  ],
+  "added_ids": [
+    "CY024A7",
+    "CY024A8"
+  ],
+  "other_timing_and_dialogue_preserved": true,
+  "new_current_images": 3,
+  "generation_outputs_preserved": 5,
+  "reused_water_drop": true,
+  "video_produced": false,
+  "audio_produced": false,
+  "independent_continuity_review": "passed_current_scope_dynamic_pending"
+}

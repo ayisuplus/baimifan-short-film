@@ -1,0 +1,29 @@
+subject_definitions:
+<Subject 1>: DeepSeek, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: ChatGPT, identity and outfit from four-view sheet <Picture 2>.
+<Picture 3>: [Shot 1] composition and state reference; not its first frame.
+<Picture 4>: [Shot 2] composition and state reference; not its first frame.
+<Picture 5>: [Shot 3] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. The child leaves while GPT reclines. At the bell she lowers her right hand from her cheek, gently rubs her hands together and pauses, then separates them to rise once and watch the departure.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Start from her lowered gaze, let the decision lead into her turn and departure, and carry receding steps into the bell. Use <Picture 3> for composition. After saying her decision, DeepSeek turns and walks toward the entrance and camera, wiping a tear with one empty hand. GPT remains visibly reclining on the distant daybed, right hand under cheek and left hand on cushion; only her eyes follow. She has not risen. The child remains inside the hall when the bell arrives. Match the arrival shot decor: head-end study table on screen left, foot-end ring instrument on right, gold dodecahedron opal lamps and high ellipse-ring chandelier. Keep the walking route empty. Face the daybed in a medium-wide shot and track backward briefly as the child approaches the camera; retain reclining GPT in the distant background. Footsteps recede through the hall; the final spoken syllable settles before the distant bell. From 1 to 2.65157 seconds, DeepSeek (S1) speaks with matching lip movement: <d>[Chinese] 那我自己去。</d>.
+[Shot 2] At 00:05.000, Let the bell lead into the hand detail; the child's receding steps remain offscreen, maintaining continuity into the watching shot. Use <Picture 4> for composition. Times are relative to this shot: at 0-0.7 seconds GPT lowers her right hand from her cheek to loosely meet her left hand above the cushion; her head and shoulder remain supported by the pillow. At 0.7-2.5 seconds she gently rubs her palms and fingertips together in two small slow passes, relaxed fingers slightly bent. At 2.5-3 seconds she stops with hands loosely together. She remains reclining, without gripping fabric, clenching fists or forceful hand-wringing. Do not sit up yet. Hold a close detail of both hands and the cushion. Her right hand enters, the palms rub gently and pause. Keep the camera steady with natural micro-movement. One distant bell with a lingering decay and the child's faint receding steps.
+[Shot 3] At 00:08.000, Cut from the pause after gentle hand rubbing to the tight shoulder view. Her hands separate and she begins one rise; cheek support has already been released. The image is the standing END state, not the opening frame. Use <Picture 5> for composition. Within this shot, all following times are relative to its start: at 0-2 seconds, GPT separates her relaxed hands, places her left palm on the cushion and pushes her upper body up; only the cropped half back of her head and one shoulder lift in the near left foreground. At 2-4 seconds she completes the same rise as the camera gently rises with her shoulder and settles. Her legs plant, wings fold and single tail clears the chair frame OFFSCREEN; do not reveal these actions or widen the shot. At 4-6 seconds she stands still watching the distant child continue away, back to camera, through the far door. Keep the child clear and the foreground softly out of focus. The throne remains behind camera, outside the image. No full face, full body or repeated rise. Only the corridor lamps and distant high ellipse-ring chandelier are visible. Use gold dodecahedron cages with soft opal cores; the throne and study table stay behind camera, never move them to the far door. Use a tight over-the-shoulder framing: crop half the back of GPT head and one shoulder at the left edge, softly foregrounded, and keep the distant child in focus. Rise gently with her head and shoulder, then settle. Never widen, orbit to her face or reveal the throne behind camera. Distant footsteps and the bell decay diminish; church night wind begins at the following change of place and time.
+From 14 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

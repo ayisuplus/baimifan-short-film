@@ -1,0 +1,21 @@
+{
+  "batches": 34,
+  "shots": 132,
+  "film_seconds": 435.5,
+  "request_seconds": 510,
+  "all_shots_once_in_order": true,
+  "all_dynamic_directions_complete": true,
+  "identity_references": "四方向图；缺失明确列出，未用概念图替代",
+  "source_sha256": "2ac84024c573aa4fa27d8dece3a2bcb69de0d8bdab047d9a3865414a4c9ed80b",
+  "max_h3_chars": 6984,
+  "max_images": 16,
+  "h3_capacity_gaps": [
+    "GB014",
+    "GB016",
+    "GB018",
+    "GB026",
+    "GB031"
+  ],
+  "status": "全片规划完成，未上传/冻结/生成",
+  "verification_scope": "结构与文字参考核对；不等于视频动态和音频听审"
+}

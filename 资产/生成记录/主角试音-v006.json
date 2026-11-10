@@ -1,0 +1,158 @@
+{
+  "engine": "Mixed; see each result",
+  "previous": "资产/生成记录/主角试音-v005.json",
+  "results": [
+    {
+      "role": "DeepSeek",
+      "shot_id": "CY003",
+      "text": "你要吃一点吗？",
+      "request": "资产/生成记录/VOICE-DS-v002-request.json",
+      "status": "generated_pending_listen",
+      "previous_path": "资产/声音/试音/VOICE-DS-v001.flac",
+      "sample_note": "v002 · 本地 VoxCPM2，使用作者指定博主的角色参考音频",
+      "reference_path": "资产/声音/参考/DS-这个刀子真甜-参考-v001.wav",
+      "prompt_id": "f1eec5e0-05fb-4822-a0e4-adbf979ff8f9",
+      "validation_errors": {},
+      "server_status": {
+        "status_str": "success",
+        "completed": true,
+        "messages": [
+          [
+            "execution_start",
+            {
+              "prompt_id": "f1eec5e0-05fb-4822-a0e4-adbf979ff8f9",
+              "timestamp": 1792555555285
+            }
+          ],
+          [
+            "execution_cached",
+            {
+              "nodes": [],
+              "prompt_id": "f1eec5e0-05fb-4822-a0e4-adbf979ff8f9",
+              "timestamp": 1792555555290
+            }
+          ],
+          [
+            "execution_success",
+            {
+              "prompt_id": "f1eec5e0-05fb-4822-a0e4-adbf979ff8f9",
+              "timestamp": 1792555560876
+            }
+          ]
+        ]
+      },
+      "path": "资产/声音/试音/VOICE-DS-v002.flac",
+      "sha256": "dce247b97b9f66b360bcd978f89b51b8ac5ff6287eaef0e5bd6c71382669f887",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "2.560000"
+        }
+      },
+      "native_output": {
+        "filename": "VOICE-DS-v002_00001.flac",
+        "subfolder": "audio\\chuanyun",
+        "type": "output"
+      },
+      "engine": "VoxCPM2 local ComfyUI"
+    },
+    {
+      "role": "ChatGPT",
+      "shot_id": "CY007",
+      "text": "我不能插手教会的仪式。",
+      "request": "资产/生成记录/VOICE-GPT-v001-request.json",
+      "status": "generated_pending_listen",
+      "prompt_id": "730b496d-fbe5-4efe-b726-4b2333e4a8fd",
+      "validation_errors": {},
+      "server_status": {
+        "status_str": "success",
+        "completed": true,
+        "messages": [
+          [
+            "execution_start",
+            {
+              "prompt_id": "730b496d-fbe5-4efe-b726-4b2333e4a8fd",
+              "timestamp": 1792553596546
+            }
+          ],
+          [
+            "execution_cached",
+            {
+              "nodes": [],
+              "prompt_id": "730b496d-fbe5-4efe-b726-4b2333e4a8fd",
+              "timestamp": 1792553596546
+            }
+          ],
+          [
+            "execution_success",
+            {
+              "prompt_id": "730b496d-fbe5-4efe-b726-4b2333e4a8fd",
+              "timestamp": 1792553601059
+            }
+          ]
+        ]
+      },
+      "path": "资产/声音/试音/VOICE-GPT-v001.flac",
+      "sha256": "8bceb14f3a2e375ea2117e60e43ba31b78b4a38cb8d37ad35d581f68cd632164",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "2.080000"
+        }
+      },
+      "native_output": {
+        "filename": "VOICE-GPT-v001_00001.flac",
+        "subfolder": "audio\\chuanyun",
+        "type": "output"
+      },
+      "sample_note": "沿用 v001 · 作者认为接近，尚未锁定",
+      "engine": "VoxCPM2 local ComfyUI"
+    },
+    {
+      "role": "Claude",
+      "shot_id": "CY020",
+      "text": "别碰她！",
+      "engine": "LibTV / Seed Audio 1.0",
+      "path": "资产/声音/试音/VOICE-CLAUDE-v006-cloud.wav",
+      "sha256": "0edaaf72a55679d63c3a0d97339820fbc7a717c6f2279d8dfb389c6d98d537ad",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "pcm_s16le",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "4.995102"
+        }
+      },
+      "status": "generated_pending_listen",
+      "request": "资产/生成记录/VOICE-CLAUDE-v006-cloud-request.json",
+      "run_record": "资产/生成记录/Claude-愤怒试音-v006.json",
+      "previous_path": "资产/声音/试音/VOICE-CLAUDE-v005-cloud.mp3",
+      "previous_label": "对照：v005（作者反馈太柔和、没有力气）",
+      "sample_note": "v006 · LibTV / Seed Audio 1.0；实际提示词：生气的、愤怒的少女说：“别碰她！”",
+      "reference_path": null,
+      "alternatives": [],
+      "workflow_review": null
+    }
+  ],
+  "listening_status": "Claude v005太柔和无力，v006按作者原话生气的、愤怒的少女重做；待听审。"
+}

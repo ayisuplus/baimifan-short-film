@@ -1,0 +1,99 @@
+{
+  "batch": {
+    "batch_number": 37,
+    "batch_id": "GB027",
+    "attempt_id": "GB027-r002-CY027F2",
+    "title": "撤罩、解锁与落脚",
+    "shot_ids": [
+      "CY027F2"
+    ],
+    "film_start": 398.842729,
+    "part_offset": 0,
+    "used_seconds": 3,
+    "duration": 4,
+    "prompt": "哥特异世界动画，16:9，保持既有素材的精细二次元风格、服装本色和人物脸。单一连续镜头，不插入其他镜头，不重演前后剧情。无字幕、水印、BGM。4秒，无对白。Image 1=右侧ChatGPT，始终白银露肩服、银玫瑰装饰、白角和淡紫翼尾；Image 2=左侧Kimi，黑紫星月服和K饰只属于她；Image 3=中央Claude，橙发、自己左鬓花饰、焦黑白金衣裙、赤足；Image 4是三人既有祭坛站位和黑铁原钥匙形制。三者服装不得混合，GPT身上绝无黑紫星月布或K标。\n祭坛中景，保持Claude双脚和固定脚托可见。所有普通蜡烛完全熄灭，散柴熄灭且湿，衣裙焦损没有火苗或橙色余烬。只有冷月照亮湿石面；中央彩窗破口保留，两侧窗完整。\n0–0.5秒暗月罩从不透明状态散尽，再显出三人与木架；不通过未撤的罩透视Claude。0.5–1秒右侧GPT将唯一黑铁钥匙伸向左侧Kimi张开的空手。1–2.5秒钥匙清楚落进Kimi掌心，Kimi接稳；只交接一次，不复制钥匙。2.5–3秒Kimi拿钥匙俯向画外踝扣，Claude仍受腕踝与腰链束缚、踩住固定脚托。3–4秒保持终态余量。双月刃已在Kimi后腰，不要重新收刃；本镜不解锁。暗膜收束、钥匙落掌、余水滴落声，无烛火声。",
+    "references": [
+      {
+        "slot": 1,
+        "original_batch_slot": 1,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9"
+      },
+      {
+        "slot": 2,
+        "original_batch_slot": 2,
+        "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+        "kind": "identity",
+        "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc"
+      },
+      {
+        "slot": 3,
+        "original_batch_slot": 3,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "sha256": "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a"
+      },
+      {
+        "slot": 4,
+        "original_batch_slot": 4,
+        "path": "镜头设计/图像/目光与入场-v048/CY027F2-v048-r1.png",
+        "kind": "composition",
+        "sha256": "81e574d8d45c0f2b118be0041f192caf947dc81c757f24c52f6c50457cf7819d"
+      }
+    ],
+    "change_reason": "独立回片复核明确缺陷：GB027-CY027F2-局部准备",
+    "repair_of": {
+      "attempt_id": "GB027-r001",
+      "task_id": "2115144502695096320",
+      "local_path": "视频制作/Metaso-H3-v002/产物/GB027-r001.mp4"
+    },
+    "source": "新增问题返修-准备.json",
+    "status": "prepared",
+    "accepted": false,
+    "estimated_credits": 40.8
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "哥特异世界动画，16:9，保持既有素材的精细二次元风格、服装本色和人物脸。单一连续镜头，不插入其他镜头，不重演前后剧情。无字幕、水印、BGM。4秒，无对白。Image 1=右侧ChatGPT，始终白银露肩服、银玫瑰装饰、白角和淡紫翼尾；Image 2=左侧Kimi，黑紫星月服和K饰只属于她；Image 3=中央Claude，橙发、自己左鬓花饰、焦黑白金衣裙、赤足；Image 4是三人既有祭坛站位和黑铁原钥匙形制。三者服装不得混合，GPT身上绝无黑紫星月布或K标。\n祭坛中景，保持Claude双脚和固定脚托可见。所有普通蜡烛完全熄灭，散柴熄灭且湿，衣裙焦损没有火苗或橙色余烬。只有冷月照亮湿石面；中央彩窗破口保留，两侧窗完整。\n0–0.5秒暗月罩从不透明状态散尽，再显出三人与木架；不通过未撤的罩透视Claude。0.5–1秒右侧GPT将唯一黑铁钥匙伸向左侧Kimi张开的空手。1–2.5秒钥匙清楚落进Kimi掌心，Kimi接稳；只交接一次，不复制钥匙。2.5–3秒Kimi拿钥匙俯向画外踝扣，Claude仍受腕踝与腰链束缚、踩住固定脚托。3–4秒保持终态余量。双月刃已在Kimi后腰，不要重新收刃；本镜不解锁。暗膜收束、钥匙落掌、余水滴落声，无烛火声。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141276083478528"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141446306816000"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141454194728960"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115144445298270208"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 4,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "2026-10-28作者授权：参考图超限想办法砍不重要参考，该返修的都返修；沿用Metaso H3"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-23",
+  "version": "v002",
+  "shots": 115,
+  "seconds": 381,
+  "music_count": 6,
+  "all_embedded_shot_and_music_data_identical_to_v001": true,
+  "prior_page_matches_previous_commit": true,
+  "browser": {
+    "surface": "Codex in-app browser",
+    "url": "http://127.0.0.1:8965/镜头设计/带图分镜.html#previs",
+    "all_six_playable": true,
+    "all_six_persistent_across_shots": true,
+    "manual_jump_and_next_keep_bgm_playing": true,
+    "picture_play_pause_keep_bgm_playing": true,
+    "seek_to_381_seconds_keeps_bgm_playing": true,
+    "candidate_switch_keeps_picture_position": true,
+    "pause_music_keeps_picture_playing": true,
+    "native_audio_controls_exclusive": true,
+    "per_shot_music_button_works": true,
+    "resume_original_candidate_seconds": 15.650821,
+    "music_continues_after_suggested_picture_jump_seconds": 15.948743,
+    "readthrough_default_off": true,
+    "narrow_viewport_width": 390,
+    "narrow_document_width": 375,
+    "console_errors": []
+  },
+  "scope": "Independent music audition; source plan, script, images, dialogue unchanged. No new music extraction or processing.",
+  "listening": "Playback behavior verified; no new aesthetic or mixing acceptance.",
+  "screenshot": "后期/BGM重选-v001/预演台-独立试听-v002.png"
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "CY025",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/动作收尾-v015/CY025-v015-r2.png"
+    ],
+    "prompt": "Precise local color correction of the supplied anime film still, NOT a redesign. Preserve exact composition, camera crop, characters' identities, facial geometry, expressions, gaze, pose, hands, costumes, ornaments, scene, dramatic lighting, tears, wetness, dirt, soot and damaged fabric. No beauty filter, no erasing story evidence. Do not change anything outside the specified facial regions. Single full original frame, no labels. Only the blue-haired child's cheeks and eyelid skin: remove the broad strong pink-red blush patches and diagonal drawn blush hatching under BOTH eyes. Restore natural pale ivory skin consistent with forehead and chin under existing cool light. Keep faint normal living skin variation, clear white sclera, ORIGINAL BLUE irises, original large tears and dirt flecks, worried expression. Do NOT remove tear moisture or mud."
+  },
+  {
+    "id": "CY027B",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/天瀑空间-v014/CY027B-v014-r1.png"
+    ],
+    "prompt": "Precise local color correction of the supplied anime film still, NOT a redesign. Preserve exact composition, camera crop, characters' identities, facial geometry, expressions, gaze, pose, hands, costumes, ornaments, scene, dramatic lighting, tears, wetness, dirt, soot and damaged fabric. No beauty filter, no erasing story evidence. Do not change anything outside the specified facial regions. Single full original frame, no labels. Only white-haired horned woman's face: neutralize the unnatural rosy-red band across eye sockets, lower eyelids and cheeks, reduce red eyeliner-like edging to subtle natural eyelid tone. Natural cool pale ivory skin, clean white sclera, ORIGINAL LIGHT VIOLET irises preserved. Keep stern unimpressed expression, wet skin drops, moonlight, priest foreground."
+  },
+  {
+    "id": "CY028A2",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/战后对白与补镜-v025/CY028A2-v025-r1.png"
+    ],
+    "prompt": "Precise local color correction of the supplied anime film still, NOT a redesign. Preserve exact composition, camera crop, characters' identities, facial geometry, expressions, gaze, pose, hands, costumes, ornaments, scene, dramatic lighting, tears, wetness, dirt, soot and damaged fabric. No beauty filter, no erasing story evidence. Do not change anything outside the specified facial regions. Single full original frame, no labels. Only BOTH visible faces: reduce the conspicuous pink blush patches and red eyelid edging on the blue-haired little girl's cheeks and the lavender-haired woman's cheeks. Natural pale ivory complexions under same cool light, no broad pink mask or hatched blush. Keep original blue child irises, violet woman irises, tears, dirt, tenderness, exact hug and gaze."
+  },
+  {
+    "id": "CY029E4",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/末轮叙事优化-v035/CY029E4-v035-r1.png"
+    ],
+    "prompt": "Precise local color correction of the supplied anime film still, NOT a redesign. Preserve exact composition, camera crop, characters' identities, facial geometry, expressions, gaze, pose, hands, costumes, ornaments, scene, dramatic lighting, tears, wetness, dirt, soot and damaged fabric. No beauty filter, no erasing story evidence. Do not change anything outside the specified facial regions. Single full original frame, no labels. Only blue-haired child's cheek and eye-socket skin: remove broad rosy-red blush patches and diagonal blush marks. Restore natural pale ivory skin matching forehead/chin under existing cool moonlight. Preserve worried mouth and brow, original BLUE irises, white sclera, all tears, face dirt and exact grip on the woman's clothes."
+  },
+  {
+    "id": "CY027F2",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/暗月瞬临-v045/CY027F2-v045-r2.png"
+    ],
+    "prompt": "Precise local color correction of the supplied anime film still, NOT a redesign. Preserve exact composition, camera crop, characters' identities, facial geometry, expressions, gaze, pose, hands, costumes, ornaments, scene, dramatic lighting, tears, wetness, dirt, soot and damaged fabric. No beauty filter, no erasing story evidence. Do not change anything outside the specified facial regions. Single full original frame, no labels. Only the white-haired HORNED woman on SCREEN RIGHT, ChatGPT: change BOTH incorrectly golden/amber irises to her established soft LIGHT VIOLET/LAVENDER iris color with dark pupils and natural reflections. Keep white sclera, subtly neutral pale ivory eyelid/cheek skin, no red or pink eye glow. Do not recolor orange-haired Claude, Kimi on left, hair, costume, ornaments, key, fingers, cuffs or anything else."
+  },
+  {
+    "id": "CY027G",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/火焰伤后与星火-v036/CY027G-v036-r1.png"
+    ],
+    "prompt": "Precise local color correction of the supplied anime film still, NOT a redesign. Preserve exact composition, camera crop, characters' identities, facial geometry, expressions, gaze, pose, hands, costumes, ornaments, scene, dramatic lighting, tears, wetness, dirt, soot and damaged fabric. No beauty filter, no erasing story evidence. Do not change anything outside the specified facial regions. Single full original frame, no labels. Only the white-haired HORNED woman on SCREEN RIGHT behind Claude, ChatGPT: change both incorrectly gold eyes to her established soft LIGHT VIOLET/LAVENDER irises, dark pupils and white sclera, no red eyelid halo. Preserve her gaze and face shape. Orange-haired Claude's AMBER eyes must remain amber, left Kimi purple eyes unchanged. Preserve EXACT wrist unlocking, keys, support hands, body positions, injury clothing, wings and scene."
+  },
+  {
+    "id": "CY028A",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/暗月瞬临-v045/CY028A-v045-r1.png"
+    ],
+    "prompt": "Precise local color correction of the supplied anime film still, NOT a redesign. Preserve exact composition, camera crop, characters' identities, facial geometry, expressions, gaze, pose, hands, costumes, ornaments, scene, dramatic lighting, tears, wetness, dirt, soot and damaged fabric. No beauty filter, no erasing story evidence. Do not change anything outside the specified facial regions. Single full original frame, no labels. Only facial color: on the white-haired HORNED woman SCREEN RIGHT behind Claude, ChatGPT, set both irises to her established soft LIGHT VIOLET/LAVENDER with dark pupils and white sclera, replacing erroneous warm gold tint. Neutralize excess rosy facial blush across visible characters but keep subtle natural skin, worried/fatigued expressions and current cool lighting. Claude orange-haired central woman's eyes remain natural AMBER, Kimi left eyes remain violet. Preserve exact support hands, released cuffs, bodies, costumes, burned hems and background."
+  }
+]

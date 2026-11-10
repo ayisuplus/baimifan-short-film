@@ -1,0 +1,242 @@
+{
+  "engine": "VoxCPM2 local ComfyUI",
+  "endpoint": "http://127.0.0.1:8188",
+  "model_path": "G:/comfyui/ComfyUI/ComfyUI/models/tts/VoxCPM/VoxCPM2",
+  "hardware": {
+    "system": {
+      "os": "win32",
+      "ram_total": 203460149248,
+      "ram_free": 158346887168,
+      "comfyui_version": "0.39.0",
+      "required_frontend_version": "1.53.10",
+      "installed_templates_version": "0.11.76",
+      "required_templates_version": "0.11.76",
+      "comfy_package_versions": [
+        {
+          "name": "comfyui-frontend-package",
+          "installed": "1.53.10",
+          "required": "1.53.10"
+        },
+        {
+          "name": "comfyui-workflow-templates",
+          "installed": "0.11.76",
+          "required": "0.11.76"
+        },
+        {
+          "name": "comfyui-embedded-docs",
+          "installed": "0.5.13",
+          "required": "0.5.13"
+        },
+        {
+          "name": "comfy-kitchen",
+          "installed": "0.2.37",
+          "required": "0.2.37"
+        },
+        {
+          "name": "comfy-aimdo",
+          "installed": "0.5.5",
+          "required": "0.5.5"
+        }
+      ],
+      "python_version": "3.13.12 (main, Feb 12 2026, 00:38:53) [MSC v.1944 64 bit (AMD64)]",
+      "pytorch_version": "2.10.0+cu130",
+      "embedded_python": false,
+      "deploy_environment": "local-desktop2-standalone",
+      "argv": [
+        "main.py",
+        "--listen",
+        "127.0.0.1",
+        "--port",
+        "8188",
+        "--disable-auto-launch"
+      ]
+    },
+    "devices": [
+      {
+        "name": "cuda:0 NVIDIA GeForce RTX 5090 : cudaMallocAsync",
+        "type": "cuda",
+        "index": 0,
+        "vram_total": 34162016256,
+        "vram_free": 32462733312,
+        "torch_vram_total": 33554432,
+        "torch_vram_free": 25034752
+      }
+    ]
+  },
+  "transport_note": "MCP server_info/validate/launch returned generic errors. Used the same installed server through loopback HTTP; bypassed proxy for localhost only. Server /prompt validates inputs before enqueue.",
+  "reference_audio": null,
+  "listening_status": "未进行实际听审，未采用；不得当成全片配音",
+  "results": [
+    {
+      "role": "DeepSeek",
+      "shot_id": "CY003",
+      "text": "你要吃一点吗？",
+      "request": "资产/生成记录/VOICE-DS-v001-request.json",
+      "status": "generated_pending_listen",
+      "prompt_id": "571b99d9-3bb8-4286-8e13-849cf28bc307",
+      "validation_errors": {},
+      "server_status": {
+        "status_str": "success",
+        "completed": true,
+        "messages": [
+          [
+            "execution_start",
+            {
+              "prompt_id": "571b99d9-3bb8-4286-8e13-849cf28bc307",
+              "timestamp": 1792553580981
+            }
+          ],
+          [
+            "execution_cached",
+            {
+              "nodes": [],
+              "prompt_id": "571b99d9-3bb8-4286-8e13-849cf28bc307",
+              "timestamp": 1792553580982
+            }
+          ],
+          [
+            "execution_success",
+            {
+              "prompt_id": "571b99d9-3bb8-4286-8e13-849cf28bc307",
+              "timestamp": 1792553596067
+            }
+          ]
+        ]
+      },
+      "path": "资产/声音/试音/VOICE-DS-v001.flac",
+      "sha256": "8555407ce88d2bfcadb2a7579615be8a85521428629a881f90237e70dce3c0df",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "2.560000"
+        }
+      },
+      "native_output": {
+        "filename": "VOICE-DS-v001_00001.flac",
+        "subfolder": "audio\\chuanyun",
+        "type": "output"
+      }
+    },
+    {
+      "role": "ChatGPT",
+      "shot_id": "CY007",
+      "text": "我不能插手教会的仪式。",
+      "request": "资产/生成记录/VOICE-GPT-v001-request.json",
+      "status": "generated_pending_listen",
+      "prompt_id": "730b496d-fbe5-4efe-b726-4b2333e4a8fd",
+      "validation_errors": {},
+      "server_status": {
+        "status_str": "success",
+        "completed": true,
+        "messages": [
+          [
+            "execution_start",
+            {
+              "prompt_id": "730b496d-fbe5-4efe-b726-4b2333e4a8fd",
+              "timestamp": 1792553596546
+            }
+          ],
+          [
+            "execution_cached",
+            {
+              "nodes": [],
+              "prompt_id": "730b496d-fbe5-4efe-b726-4b2333e4a8fd",
+              "timestamp": 1792553596546
+            }
+          ],
+          [
+            "execution_success",
+            {
+              "prompt_id": "730b496d-fbe5-4efe-b726-4b2333e4a8fd",
+              "timestamp": 1792553601059
+            }
+          ]
+        ]
+      },
+      "path": "资产/声音/试音/VOICE-GPT-v001.flac",
+      "sha256": "8bceb14f3a2e375ea2117e60e43ba31b78b4a38cb8d37ad35d581f68cd632164",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "2.080000"
+        }
+      },
+      "native_output": {
+        "filename": "VOICE-GPT-v001_00001.flac",
+        "subfolder": "audio\\chuanyun",
+        "type": "output"
+      }
+    },
+    {
+      "role": "Claude",
+      "shot_id": "CY020",
+      "text": "别碰她！",
+      "request": "资产/生成记录/VOICE-CLAUDE-v001-request.json",
+      "status": "generated_pending_listen",
+      "prompt_id": "1ff706cc-eff7-4e1b-b4f2-8b6429cd9cef",
+      "validation_errors": {},
+      "server_status": {
+        "status_str": "success",
+        "completed": true,
+        "messages": [
+          [
+            "execution_start",
+            {
+              "prompt_id": "1ff706cc-eff7-4e1b-b4f2-8b6429cd9cef",
+              "timestamp": 1792553603008
+            }
+          ],
+          [
+            "execution_cached",
+            {
+              "nodes": [],
+              "prompt_id": "1ff706cc-eff7-4e1b-b4f2-8b6429cd9cef",
+              "timestamp": 1792553603008
+            }
+          ],
+          [
+            "execution_success",
+            {
+              "prompt_id": "1ff706cc-eff7-4e1b-b4f2-8b6429cd9cef",
+              "timestamp": 1792553607517
+            }
+          ]
+        ]
+      },
+      "path": "资产/声音/试音/VOICE-CLAUDE-v001.flac",
+      "sha256": "1ed29a372a9dbadc86633c1f603261616df595b505d967e1f8a6c93906645f1d",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "sample_rate": "48000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "1.760000"
+        }
+      },
+      "native_output": {
+        "filename": "VOICE-CLAUDE-v001_00001.flac",
+        "subfolder": "audio\\chuanyun",
+        "type": "output"
+      }
+    }
+  ]
+}

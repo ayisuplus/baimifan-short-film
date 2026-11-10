@@ -1,0 +1,32 @@
+{
+  "status": "单镜试验回片，场景改善；画风与动作未最终通过，待作者比较",
+  "author_rejected_timeline": "v005_2D_Anime_Fixes",
+  "timeline_modified": false,
+  "attempt_id": "GB014-v010-original-shot-only-r1",
+  "task_id": "2115439849669603328",
+  "visual_references": 1,
+  "turnarounds": 0,
+  "reference": "镜头设计/图像/目光与入场-v048/CY024-v048-r1.png",
+  "sha256": "9e50e9d6ab729b3b16dd5481d19da5e9acba1425c142b47ca31b10966b680c59",
+  "technical": {
+    "full_decode": true,
+    "width": 1344,
+    "height": 768,
+    "fps": "24/1",
+    "video_duration": "5.166667",
+    "container_duration": "5.175000"
+  },
+  "observations": [
+    "九人、满月、冷蓝夜景、湿地反射与原入口轴线恢复",
+    "比v009忠实原分镜，细腻分层画法恢复"
+  ],
+  "remaining": [
+    "人物体积光和材质仍偏重；没有宣告二维画风通过",
+    "队伍后段趋于定势，指令到千问实际保护的交接仍需后续镜头承担",
+    "未验收逐音素口型及全片连续视听"
+  ],
+  "cause": "上一轮v009已不传四视图，但引用了漂移回片的重绘稿；本次同时还原原分镜与修改提示，不能证明四视图是原因。实看GPT与千问卡是二维描线插画。",
+  "estimated_credits": 51,
+  "billing_verified": false,
+  "new_final_export": false
+}

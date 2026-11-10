@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-24",
+  "version": "v009",
+  "shots": 115,
+  "seconds": 381.0,
+  "changed_bgm_shots": [
+    "CY010A",
+    "CY011",
+    "CY011A",
+    "CY012",
+    "CY013",
+    "CY013A",
+    "CY015",
+    "CY016",
+    "CY016A1",
+    "CY016A",
+    "CY016B",
+    "CY016B1",
+    "CY016C"
+  ],
+  "unchanged_bgm_shots": 102,
+  "all_non_bgm_fields_identical": true,
+  "new_audio": 6,
+  "hashes_valid": true,
+  "all_full_decode_ok": true,
+  "musical_fit": "待作者试听比较；技术核验不代表听感判断",
+  "browser": {
+    "marks_preserved": {
+      "CY001": "BGM-CY-MT-03",
+      "CY009": "BGM-CY-KH-05",
+      "CY018": "BGM-CY-RZ-01",
+      "CY026B": "BGM-CY-FEAR-001",
+      "CY031": "BGM-CY-TIME-001"
+    },
+    "played_ready_state_4": [
+      "BGM-CY-AC2-28",
+      "BGM-CY-LR3-09",
+      "BGM-CY-AC2-19"
+    ],
+    "seek_checked": true,
+    "cross_shot_continuous": true,
+    "console_errors": [],
+    "final_paused": true,
+    "final_shot": "CY010A",
+    "final_music": "BGM-CY-AC2-28"
+  },
+  "screenshot": "后期/BGM重选-v005/秘密行动候选-v009.png"
+}

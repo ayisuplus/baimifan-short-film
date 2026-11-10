@@ -1,0 +1,10 @@
+{
+  "id": "CY016",
+  "request": {
+    "prompt": "保持此图两人动作和位置，16:9独立原画局修。宝宝在左双手拉紧Claude腰前横链，Claude在右仍受缚。去掉背景左侧所有额外台阶和铜盆，改为同一祭坛平平台延伸后接木架后方的暗石墙及烛台；画面底边也不出现额外阶沿。Claude腰前只保留一道横向黑铁链和一枚竖长方锁，不要多层腰带；地面干燥。人物与服饰不变，无文字。",
+    "referenced_image_paths": [
+      "C:/Users/36322/.codex/generated_images/01a1587f-dadf-7201-b369-999281d55060/exec-45740303-3907-4640-9b38-0b24a7f801af.png"
+    ],
+    "transparent_background": false
+  }
+}

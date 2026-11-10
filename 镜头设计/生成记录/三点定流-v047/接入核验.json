@@ -1,0 +1,35 @@
+{
+  "version": "v047",
+  "shots": 130,
+  "seconds": 425.5,
+  "old_shots_unchanged_duration_dialogue_and_candidates": 128,
+  "added_shots": [
+    "CY024A5A",
+    "CY024A5B"
+  ],
+  "new_shot_seconds": 1.5,
+  "new_candidates_inherit": "M09",
+  "current_images": 4,
+  "stored_images": 6,
+  "music_files_verified": 55,
+  "source_quotes_verified": 130,
+  "old_page_snapshot_matches_head": true,
+  "image_input_hashes_verified": true,
+  "dynamic_execution": "not_produced",
+  "formal_sound": "not_produced",
+  "browser": {
+    "version": "v0.47",
+    "next_sequence": [
+      "CY024A5",
+      "CY024A5A",
+      "CY024A5B",
+      "CY024B"
+    ],
+    "marks": "5 / 6 段有选曲标记 · 5 / 130 镜已标记",
+    "console_errors": [],
+    "screenshot": "后期/三点定流-v047/预演核验.png",
+    "left_point_final_image": "CY024A5A-v047-r2.png"
+  },
+  "local_art_fix": "CY024A5A-r2统一银玫瑰，主动作不变",
+  "independent_static_review": "独立复核.md：四图动作通过；A5A-r2头饰漂移已解决"
+}

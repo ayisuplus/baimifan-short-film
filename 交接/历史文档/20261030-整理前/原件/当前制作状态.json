@@ -1,0 +1,326 @@
+{
+  "updated": "2026-10-30",
+  "project_root": "E:\\projects\\内容创作\\故事短片\\白米饭",
+  "handoff": "新对话交接-20261029.md",
+  "script_version": "v0.69",
+  "voices": "声音/正式配音准备-v006/正式配音清单.json",
+  "timeline_baseline": "v013_Stair_Restore",
+  "timeline_evidence": "2026-10-29读回v014：第三四批9段在达芬奇调色；全部剪辑/声音/字幕不变，原v013及范围外颜色版本保留",
+  "voice_summary": {
+    "active_lines": 54,
+    "assembled_lines": 54,
+    "missing_audio_files": 0,
+    "new_gap_completion_lines": 12,
+    "reading_repair_lines": 4,
+    "final_performance_accepted": false
+  },
+  "next_action": "后半程042–119只读审查已完成，详见后期/后半程逐镜审查-v031/审查意见.md：78段中建议改74段，8段补动作/连续性、57段统一画风/场景、9段剪辑优先、4段暂保留。待作者选择下一组施工；当前剪辑仍v030，声音字幕暂缓。",
+  "latest_visual_audit": "后期/后半程逐镜审查-v031/审查意见.md",
+  "export_allowed": false,
+  "entries": [
+    {
+      "name": "小鱼脱手与二维统一v030",
+      "path": "后期/小鱼脱手与二维统一-v030/修订说明.md"
+    },
+    {
+      "name": "Claude二维画风与去重v029",
+      "path": "后期/Claude二维画风去重-v029/修订说明.md"
+    },
+    {
+      "name": "点火前剪辑收紧v027",
+      "path": "后期/点火前剪辑收紧-v027/修订说明.md"
+    },
+    {
+      "name": "OpenCut阻拦动作修订v025",
+      "path": "后期/阻拦动作修订-v025/修订说明.md"
+    },
+    {
+      "name": "OpenCut潜入教堂连续性修订v022",
+      "path": "后期/潜入教堂修订-v022/修订说明.md"
+    },
+    {
+      "name": "下一段潜入教堂画面审查",
+      "path": "后期/下一段审查-v021/审查意见.md"
+    },
+    {
+      "name": "OpenCut006背影回走v020",
+      "path": "后期/OpenCut006回身-v020/修订说明.md"
+    },
+    {
+      "name": "OpenCut三镜节奏与情绪灯光v019",
+      "path": "后期/OpenCut三镜修订-v019/修订说明.md"
+    },
+    {
+      "name": "OpenCut后续画面迁移v018",
+      "path": "后期/OpenCut后续画面-v018/迁移说明.md"
+    },
+    {
+      "name": "OpenCut独立剪辑v017",
+      "path": "后期/独立剪辑-v017/修订说明.md"
+    },
+    {
+      "name": "作者采用的俯拍亮灯素材",
+      "path": "视频制作/Metaso-H3-v016/制作说明.md"
+    },
+    {
+      "name": "当前v014宫殿调色说明",
+      "path": "后期/宫殿调色-v014/修订说明.md"
+    },
+    {
+      "name": "当前v013长阶恢复说明",
+      "path": "后期/逐镜修订-v012/第三批/长阶恢复/修订说明.md"
+    },
+    {
+      "name": "当前第三批逐镜修订v012",
+      "path": "后期/逐镜修订-v012/第三批/工程内审阅.html"
+    },
+    {
+      "name": "教堂动作修订v011",
+      "path": "后期/教堂动画修订-v011/工程内审阅.html"
+    },
+    {
+      "name": "当前v010对白字幕同步",
+      "path": "后期/对白字幕同步-v010/工程内审阅.html"
+    },
+    {
+      "name": "当前v009对白装配与工程复看",
+      "path": "后期/对白补齐-v009/工程内审阅.html"
+    },
+    {
+      "name": "项目首页",
+      "path": "00_打开项目.html"
+    },
+    {
+      "name": "逐句试听与三轮对照",
+      "path": "声音/逐句切分审阅-v007/逐句试听.html"
+    },
+    {
+      "name": "当前声线指针",
+      "path": "声音/当前声线.json"
+    },
+    {
+      "name": "正式配音清单",
+      "path": "声音/正式配音准备-v006/正式配音清单.json"
+    },
+    {
+      "name": "配音审阅页",
+      "path": "声音/正式配音准备-v006/配音清单.html"
+    },
+    {
+      "name": "作者选择快照",
+      "path": "声音/正式配音准备-v006/作者选择快照.json"
+    },
+    {
+      "name": "完整台词与补录",
+      "path": "声音/正式配音准备-v006/台词与补录清单.md"
+    },
+    {
+      "name": "日语对白主数据",
+      "path": "剧本/白米饭-日语对白-v0.69.json"
+    },
+    {
+      "name": "日语与中文回译",
+      "path": "剧本/白米饭-日语对白-v0.69.md"
+    },
+    {
+      "name": "场景正文源",
+      "path": "剧本/白米饭-场景正文-v0.69.template.md"
+    },
+    {
+      "name": "完整场景剧本",
+      "path": "剧本/白米饭-场景剧本-v0.69.md"
+    },
+    {
+      "name": "台词渲染脚本",
+      "path": "scripts/render_japanese_dialogue_v069.py"
+    },
+    {
+      "name": "正片基线审阅",
+      "path": "后期/局部收口-v008/工程内审阅.html"
+    },
+    {
+      "name": "正片基线计划",
+      "path": "后期/局部收口-v008/后期执行计划.json"
+    },
+    {
+      "name": "声画修订方案",
+      "path": "后期/声画调整-v011/调整方案.md"
+    },
+    {
+      "name": "首轮动作试片结果",
+      "path": "后期/声画调整-v011/本轮结果.md"
+    },
+    {
+      "name": "ComfyUI修复说明",
+      "path": "后期/ComfyUI维护-20261029/修复说明.md"
+    },
+    {
+      "name": "千问已选日语",
+      "path": "声音/千问跨语言试音-v005/千问-IndexTTS-日语克隆.wav"
+    },
+    {
+      "name": "千问中文身份参考",
+      "path": "声音/千问跨语言试音-v005/千问-Breeze-中文原声.flac"
+    }
+  ],
+  "voice_split_review": "声音/逐句切分审阅-v007/切分清单.json",
+  "voice_split_summary": {
+    "unique_lines": 35,
+    "candidate_files": 51,
+    "listening_accepted": false,
+    "selected_repeat_takes": {
+      "Kimi": 2,
+      "教主": 2
+    },
+    "current_missing_audio_files": 0,
+    "needs_recording_historical": 12
+  },
+  "voice_summary_scope": "v006按当前已选声线统计的旧口径，needs_recording=12不是从未生成12句；更正见voice_coverage_correction",
+  "voice_coverage_correction": "声音/逐句切分审阅-v007/生成覆盖口径更正.json",
+  "voice_generation_summary": {
+    "selected_voice_split_lines": 35,
+    "existing_independent_lines": 7,
+    "prior_generated_gpt_lines_needing_voice_reconciliation": 9,
+    "xiaoyu_new_text_unmatched": 3,
+    "current_missing_audio_files": 0,
+    "gpt_selected_voice_completion": 9,
+    "xiaoyu_authorized_local_completion": 3
+  },
+  "timeline_current": "v014_Palace_Color_Match",
+  "dialogue_assembly": "后期/教堂动画修订-v011/修订计划.json",
+  "dialogue_assembly_verification": "后期/逐镜修订-v012/第三批/长阶恢复/核验结果.json",
+  "voice_completion": "声音/缺口补齐-v008/修正采用映射.json",
+  "voice_summary_historical_v006": {
+    "selected_master_contains_text": 35,
+    "needs_recording": 12,
+    "exact_existing_line": 7
+  },
+  "dialogue_text_subtitle_audit": "后期/对白字幕核对-v010/核对结论.md",
+  "subtitle_status": {
+    "resolve_track_count": 1,
+    "installed": true,
+    "cue_count": 56,
+    "text_and_frames_verified": true,
+    "verified_at": "2026-10-29",
+    "language": "zh",
+    "reference_language": "ja"
+  },
+  "opening_dialogue_audit": {
+    "id": "VO-CY003B-01",
+    "deleted_phrase_in_v068": "でも、私……",
+    "not_audio_split_loss": true,
+    "voice_end_to_slap_segment_gap_seconds": 0.011666667,
+    "next": "已同步至拍碗段剪点；实际接触动作与口型继续随画面审查"
+  },
+  "subtitle_work_deferred": true,
+  "subtitle_work_order": "作者2026-10-29明确：暂不处理字幕，最后统一处理",
+  "bgm_work_deferred": true,
+  "bgm_future_plan": "作者准备最后全部替换成AI生成音乐",
+  "adopted_palace_lights": {
+    "path": "视频制作/Metaso-H3-v016/产物/CY005L-v016-high-angle-r2.mp4",
+    "sha256": "7298e44081c01791a3f66d63019440f3e4341ad262bfed73f1ce1e2354ebd05e",
+    "author_accepted": true,
+    "timeline_installed": false,
+    "no_regeneration": true,
+    "resolve_bin": "v016_宫殿俯拍亮灯_作者采用",
+    "imported": true
+  },
+  "independent_editor": {
+    "tool": "OpenCut Classic",
+    "url": "http://127.0.0.1:8978/editor/ae0f78d7-610f-40c9-9a18-cea6be2a24be",
+    "project": "白米饭｜小鱼脱手与二维统一 v030",
+    "frames": 9142,
+    "fps": 24,
+    "source_segments": 117,
+    "export_verified": false,
+    "reload_verified": true,
+    "resolve_accessed_this_turn": false,
+    "resolve_installed": false,
+    "receipt": "后期/小鱼脱手与二维统一-v030/修订说明.md",
+    "previous_project_url": "http://127.0.0.1:8978/editor/ab9aef66-c176-4b46-970a-c1cfa7464dc5",
+    "new_silent_clips": 2,
+    "replacement_snapshot": {
+      "frames": 9425,
+      "source_segments": 119,
+      "note": "006等长替换完成时的快照，已被作者后续剪辑更新"
+    },
+    "author_edits_preserved": true,
+    "current_observed_date": "2026-10-30"
+  },
+  "emotional_lights_direction": {
+    "author_accepted_direction": true,
+    "direction": "保留回答渐暗，离开逐灯熄灭，出口留光",
+    "final_shots_author_accepted": false,
+    "upscale": false
+  },
+  "shot006_direction": {
+    "author_confirmed": "转成背影，朝画面里的入口走远",
+    "installed": true,
+    "author_final_review_pending": true
+  },
+  "church_entry_v022": {
+    "installed": true,
+    "author_review_pending": true,
+    "upscale": false,
+    "removed_frames": 36
+  },
+  "blocking_v025": {
+    "installed": true,
+    "author_review_pending": true,
+    "shot027_take": "r3",
+    "shot027_frames": 90,
+    "shot030_frames": 30,
+    "removed_frames": 18,
+    "upscale": false,
+    "other_clips_preserved": true
+  },
+  "preignition_edit_v027": {
+    "installed": true,
+    "author_review_pending": true,
+    "036_frames": 54,
+    "037_frames": 68,
+    "removed_frames": 34,
+    "other_clips_preserved": true
+  },
+  "claude_style_v029": {
+    "installed": true,
+    "author_review_pending": true,
+    "targets": [
+      "035",
+      "038",
+      "039"
+    ],
+    "replacement_shots": [
+      "035",
+      "038"
+    ],
+    "removed_shot": "039",
+    "removed_frames": 48,
+    "upscale": false,
+    "original_acting_design_preserved": true,
+    "frame_exact_motion_preserved": false,
+    "other115_clips_preserved": true
+  },
+  "approved_visual_direction": {
+    "reference": "后期/Claude二维画风去重-v029/Claude-二维关键帧.png",
+    "author_approved": true,
+    "description": "清晰墨线、哑光平涂、硬边二维赛璐璐，哥特式背景；本轮只实施037/041，不批量重生全片"
+  },
+  "xiaoyu_release_v030": {
+    "installed": true,
+    "author_review_pending": true,
+    "targets": [
+      "037",
+      "041"
+    ],
+    "041_action_focus": "小鱼抓袍子、教徒离开",
+    "041_parts_frames": [
+      68,
+      70,
+      84,
+      66
+    ],
+    "upscale": false,
+    "other115_clips_preserved": true
+  }
+}

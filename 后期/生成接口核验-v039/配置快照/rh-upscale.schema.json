@@ -1,0 +1,50 @@
+{
+  "class_name": "RhartVideoVideoUpscaler",
+  "display_name": "RH RH视频超分",
+  "name_cn": "RH视频超分",
+  "name_en": "rh-video-upscaler",
+  "endpoint": "rhart-video/video-upscaler",
+  "output_type": "video",
+  "category": "RunningHub/RHArt Video",
+  "params": [
+    {
+      "fieldKey": "videoUrl",
+      "type": "VIDEO",
+      "required": true,
+      "label": "videoUrl",
+      "description": "输入视频（支持最长10分钟）",
+      "accept": "[\"MP4\"]",
+      "maxSize": 500
+    },
+    {
+      "fieldKey": "targetResolution",
+      "type": "LIST",
+      "required": true,
+      "label": "targetResolution",
+      "description": "目标分辨率",
+      "defaultValue": "1080p",
+      "options": [
+        {
+          "value": "720p",
+          "description": "720p",
+          "descriptionEn": "720p"
+        },
+        {
+          "value": "1080p",
+          "description": "1080p",
+          "descriptionEn": "1080p"
+        },
+        {
+          "value": "2k",
+          "description": "2k",
+          "descriptionEn": "2k"
+        },
+        {
+          "value": "4k",
+          "description": "4k",
+          "descriptionEn": "4k"
+        }
+      ]
+    }
+  ]
+}

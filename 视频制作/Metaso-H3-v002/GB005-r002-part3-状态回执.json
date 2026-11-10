@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115145783271940096",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "紧过肩目送小鱼离去",
+    "status": "succeeded",
+    "created_at": 1793125027,
+    "updated_at": 1793125049,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115145783271940096/content?expires=1793729950&signature=190212cd0e70764162fd308fabfe1d74dba69a6f8c03ee9416bcba8e15981667"
+    },
+    "resolution": "768P",
+    "duration": 6,
+    "usage": {
+      "total_seconds": 6,
+      "input_seconds": 0,
+      "output_seconds": 6,
+      "input_image_count": 3
+    },
+    "ratio": "16:9",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "h3-i2v",
+    "assets": 1,
+    "prepared": true
+  },
+  {
+    "id": "qwen-edit",
+    "assets": 2,
+    "prepared": true
+  },
+  {
+    "id": "rtx",
+    "assets": 1,
+    "prepared": true
+  },
+  {
+    "id": "realesrgan",
+    "assets": 1,
+    "prepared": true
+  },
+  {
+    "id": "seedvr2",
+    "assets": 1,
+    "prepared": true
+  },
+  {
+    "id": "rh-h3",
+    "assets": 1,
+    "prepared": true
+  },
+  {
+    "id": "rh-seedance",
+    "assets": 1,
+    "prepared": true
+  },
+  {
+    "id": "rh-upscale",
+    "assets": 1,
+    "prepared": true
+  }
+]

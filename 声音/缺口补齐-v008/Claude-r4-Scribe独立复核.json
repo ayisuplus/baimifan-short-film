@@ -1,0 +1,85 @@
+{
+  "status": "completed",
+  "method": "unprompted Scribe v2 Japanese; no expected text or keyterms",
+  "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\声音\\缺口补齐-v008\\VO-CY028B-01__Claude-r4-edit.wav",
+  "source_sha256": "aebb674c58416f7347f4172ab264b9173d486021a3a1cd54c8faf4de9a361adb",
+  "response": {
+    "language_code": "jpn",
+    "language_probability": 1.0,
+    "text": "灰に眠る微かな光よ。",
+    "words": [
+      {
+        "text": "灰",
+        "start": 0.24,
+        "end": 0.34,
+        "type": "word",
+        "logprob": -0.0844520777463913
+      },
+      {
+        "text": "に",
+        "start": 0.42,
+        "end": 0.54,
+        "type": "word",
+        "logprob": -1.0967194612021558e-05
+      },
+      {
+        "text": "眠",
+        "start": 0.54,
+        "end": 0.64,
+        "type": "word",
+        "logprob": -0.000302745756926015
+      },
+      {
+        "text": "る",
+        "start": 0.7,
+        "end": 0.78,
+        "type": "word",
+        "logprob": -6.985420623095706e-05
+      },
+      {
+        "text": "微",
+        "start": 0.86,
+        "end": 1.02,
+        "type": "word",
+        "logprob": -0.3560383915901184
+      },
+      {
+        "text": "か",
+        "start": 1.02,
+        "end": 1.12,
+        "type": "word",
+        "logprob": -0.0008646087371744215
+      },
+      {
+        "text": "な",
+        "start": 1.14,
+        "end": 1.26,
+        "type": "word",
+        "logprob": -0.0008646087371744215
+      },
+      {
+        "text": "光",
+        "start": 1.26,
+        "end": 1.5,
+        "type": "word",
+        "logprob": -2.4676019165781327e-05
+      },
+      {
+        "text": "よ",
+        "start": 1.52,
+        "end": 1.68,
+        "type": "word",
+        "logprob": -0.0025007424410432577
+      },
+      {
+        "text": "。",
+        "start": 1.68,
+        "end": 1.68,
+        "type": "word",
+        "logprob": -0.018151599913835526
+      }
+    ],
+    "transcription_id": "HCAdDmTdoDff7ODuieja",
+    "audio_duration_secs": 1.813
+  }
+}

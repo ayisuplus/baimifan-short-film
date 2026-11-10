@@ -1,0 +1,100 @@
+{
+  "batch": {
+    "batch_number": 6,
+    "batch_id": "GB005",
+    "attempt_id": "GB005-r002-part3",
+    "title": "独自离去、搓手迟疑与起身目送",
+    "shot_ids": [
+      "CY009A"
+    ],
+    "film_start": 77.592729,
+    "part_offset": 8.0,
+    "used_seconds": 6.0,
+    "duration": 6,
+    "prompt": "优先修正要求：全镜只拍GPT左后肩的紧过肩机位，GPT身体占画面左边缘小部分，画框始终不含胸腰、腿、王座、尾巴或正脸；摄影机与肩膀同步升高，不能先拉远展示站起再推近。远处小鱼背影和门持续可见。\nsubject_definitions:\nImage 1=DeepSeek四视图：同一人四角度，身份服饰保持\nImage 2=ChatGPT四视图：同一人四角度，身份服饰保持\nImage 3=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，6秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–6s Image 3；画内:ChatGPT、DeepSeek。承搓手停住、双手分开切近过肩，头肩接同一次起身；镜内0–2秒抬起上身，2–4秒随站起升高并收停，4–6秒站定目送。图片只作目送终态参考。摄影机贴近GPT肩后，左边缘只截半个后脑和一个肩膀，焦点保持远处小鱼；随同一次起身平稳升高少许后收停，不拉远、不绕到正脸，王座在机后画外。承双手轻搓后的停顿，镜内0–2秒GPT分开双手、左掌撑垫抬起上身，近景只见左边缘半个后脑与肩膀轻轻抬起；2–4秒接同一次起身，摄影机随头肩平稳升高少许并收停，收腿落脚、收翼和尾巴避开椅框在画外连续完成；4–6秒头肩站定，只留呼吸与少量发丝微动，目送远处小鱼背对镜头走向并越过宫门。全程不拉远露全身，不换到脸部，不重复起身。 只见沿长廊两侧的十二面体柔光灯与远处高悬椭圆环灯；王座和手稿小几在机后画外，不搬到远门口。 注意:当前图为紧过肩目送终态；只露半个后脑与一个肩膀，远处小鱼背影清晰。镜内0–4秒随同一次起身轻升并收停，4–6秒目送；腿、尾巴与王座均在画外。 当前背景采用数学宫殿灯具；按本镜实际视野显示，不挪摆件、不新增人物。 人物:紧过肩仅露半个后脑和一侧肩膀，远处小鱼背对镜头离去；王座、腿和尾巴在画外。图为站立目送终态，不是首帧；随同一次起身轻升收停。 声音:远去脚步、钟声尾音，末尾接教堂夜风。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+        "kind": "identity",
+        "person": "DeepSeek",
+        "name_en": "DeepSeek",
+        "asset_id": "CHAR-DEEPSEEK",
+        "status": "候选待作者审阅",
+        "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+        "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+        "original_slot": 1
+      },
+      {
+        "slot": 2,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "ChatGPT",
+        "name_en": "ChatGPT",
+        "asset_id": "CHAR-GPT",
+        "status": "候选待作者审阅",
+        "limits": "两侧躯干略带斜角。开衩与腿饰以原图/正面图的角色右腿为准，不按对称读取；尾巴弯曲是姿态参考，侧背含补全。",
+        "purpose": "ChatGPT四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9",
+        "original_slot": 2
+      },
+      {
+        "slot": 3,
+        "path": "镜头设计/图像/数学宫殿-v056/CY009A.png",
+        "kind": "composition",
+        "shot_id": "CY009A",
+        "purpose": "构图、空间与代表状态：起身目送长殿尽头；不是默认首帧",
+        "status": "数学宫殿方向作者认可；本轮新静帧待作者审阅",
+        "limits": "",
+        "sha256": "44c7f45cb3ea56cd8da3857d0f6f419170c333f06f63588938a52ee7e3dc1fd6",
+        "original_slot": 5
+      }
+    ],
+    "estimated_credits": 61.2,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "起身过肩段6秒局部补拍，前8秒复用。",
+    "repair_of": {
+      "task_id": "20261028004003163309236",
+      "local_path": "视频制作/LibTV-H3-v001/产物/GB005-H3-v001.mp4"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "优先修正要求：全镜只拍GPT左后肩的紧过肩机位，GPT身体占画面左边缘小部分，画框始终不含胸腰、腿、王座、尾巴或正脸；摄影机与肩膀同步升高，不能先拉远展示站起再推近。远处小鱼背影和门持续可见。\nsubject_definitions:\nImage 1=DeepSeek四视图：同一人四角度，身份服饰保持\nImage 2=ChatGPT四视图：同一人四角度，身份服饰保持\nImage 3=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，6秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–6s Image 3；画内:ChatGPT、DeepSeek。承搓手停住、双手分开切近过肩，头肩接同一次起身；镜内0–2秒抬起上身，2–4秒随站起升高并收停，4–6秒站定目送。图片只作目送终态参考。摄影机贴近GPT肩后，左边缘只截半个后脑和一个肩膀，焦点保持远处小鱼；随同一次起身平稳升高少许后收停，不拉远、不绕到正脸，王座在机后画外。承双手轻搓后的停顿，镜内0–2秒GPT分开双手、左掌撑垫抬起上身，近景只见左边缘半个后脑与肩膀轻轻抬起；2–4秒接同一次起身，摄影机随头肩平稳升高少许并收停，收腿落脚、收翼和尾巴避开椅框在画外连续完成；4–6秒头肩站定，只留呼吸与少量发丝微动，目送远处小鱼背对镜头走向并越过宫门。全程不拉远露全身，不换到脸部，不重复起身。 只见沿长廊两侧的十二面体柔光灯与远处高悬椭圆环灯；王座和手稿小几在机后画外，不搬到远门口。 注意:当前图为紧过肩目送终态；只露半个后脑与一个肩膀，远处小鱼背影清晰。镜内0–4秒随同一次起身轻升并收停，4–6秒目送；腿、尾巴与王座均在画外。 当前背景采用数学宫殿灯具；按本镜实际视野显示，不挪摆件、不新增人物。 人物:紧过肩仅露半个后脑和一侧肩膀，远处小鱼背对镜头离去；王座、腿和尾巴在画外。图为站立目送终态，不是首帧；随同一次起身轻升收停。 声音:远去脚步、钟声尾音，末尾接教堂夜风。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141523506393088"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115141276083478528"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115145774780440576"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 6,
+    "ratio": "16:9",
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "2026-10-28作者授权：参考图超限想办法砍不重要参考，该返修的都返修；沿用Metaso H3"
+}

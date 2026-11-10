@@ -1,0 +1,42 @@
+{
+  "id": "CHAR-DEEPSEEK-TURN-v002",
+  "asset_id": "CHAR-DEEPSEEK",
+  "date": "2026-10-20",
+  "engine": "built-in image_gen",
+  "original_output": "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-e360d56a-edae-44d8-ac3e-0c76905104e4.png",
+  "path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v002.png",
+  "sha256": "059b90ca009309e14452b30347d4d172318c1073e81c35c8f73b46f08724deeb",
+  "image": {
+    "width": 2169,
+    "height": 725,
+    "mode": "RGB"
+  },
+  "actual_request": {
+    "prompt": "Use case: precise-object-edit. Edit reference IMAGE 1, the four-view DeepSeek sheet, with only a localized construction correction to the blue whale hat and a small clarification of the back bow/body-tail connection. Preserve EXACTLY the current child's face, happy expression, eyes, baby-like head-body ratio, hairstyle, colors, fur trim, coat pattern, boots, hands, body pose, four full-body view order and neutral backdrop. Do not redesign or redraw the character into an older person. Image 2, the original street mother concept, is the primary authority for the whale-hat structure.\nProblem in image1: front and rear views show TWO separate forked whale tails at left and right sides of the cap. Correct the hat to ONE coherent stuffed-whale anatomy repeated across all 4 views: ONE rear-center hat tail stalk ending in ONE two-lobed fluke, and TWO simple rounded OVAL pectoral fins, one on each side. Pectoral fins must NOT be forked and must NOT look like extra whale tails. Keep top two-lobed WATER SPOUT upright at crown, distinct from the rear tail. Keep whale facial eyes/cheeks at front and white fluffy brim intact. In strict front view, the SINGLE rear tail can be naturally concealed behind the cap; do not force it into both sides. In back view, show ONE centered rear hat-tail fluke; lateral fins are smooth oval shapes, not two additional tails. In each side profile, show one oval near-side fin and the single rear fluke in the proper projected position. Use the original street image's distinction between rounded fin and forked rear tail. Remove all duplicate forked side-tail appendages.\nIn back body view ONLY, clarify that the blue coat bow has two fabric ribbon ends and the body has ONE separate whale tail attached beneath the coat, with a visible separate contour/gap where practical; don't fuse a ribbon end into the anatomical tail. Retain the original single body tail in all views. Do not add extra tails anywhere. Everything else remains the same. Maintain the same wide 3:1 four-panel full-body layout at high detail, no crop or rescale of one figure, no text, no labels, no extra panel. Opaque neutral background. No prompt text. This is a minor correction, preserve the faces and proportions of image1.",
+    "referenced_image_paths": [
+      "E:\\projects\\内容创作\\穿云\\资产\\图像\\四视图\\CHAR-DEEPSEEK-TURN-v001.png",
+      "E:\\projects\\内容创作\\穿云\\概念参考\\02-DeepSeek-母版概念参考.webp"
+    ],
+    "transparent_background": false
+  },
+  "references": [
+    {
+      "path": "E:\\projects\\内容创作\\穿云\\资产\\图像\\四视图\\CHAR-DEEPSEEK-TURN-v001.png",
+      "project_path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v001.png",
+      "sha256": "58340639d0225f3ea909dc7398a464306da34d08bea2125c37eb74b3e70fef5c"
+    },
+    {
+      "path": "E:\\projects\\内容创作\\穿云\\概念参考\\02-DeepSeek-母版概念参考.webp",
+      "project_path": "概念参考/02-DeepSeek-母版概念参考.webp",
+      "sha256": "4c5d87b19a5eb37b7cbf60e9c30b9a8e4340f258cbc92e3c817b8c1632a67972"
+    }
+  ],
+  "view_order": [
+    "正面全身",
+    "朝画面左侧面全身",
+    "背面全身",
+    "朝画面右侧面全身"
+  ],
+  "status": "历史候选：后帽尾侧面缺失、背面扁平，后续修订",
+  "review": "视觉复核-v002.md；属于影视四向参考，非工程测量或作者采用验收。"
+}

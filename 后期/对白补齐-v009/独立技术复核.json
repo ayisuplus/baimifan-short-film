@@ -1,0 +1,17 @@
+{
+  "reviewer": "independent subagent audit_voice_splits",
+  "scope": "54-ID source, PCM trim and fade reconstruction, overlaps and removed IDs; Claude final r4 incremental recheck",
+  "passed": true,
+  "maximum_pcm24_quantization_difference": 1.19e-07,
+  "final_claude": {
+    "prefix_end_exclusive": 54640,
+    "suffix_start": 70384,
+    "suffix_end_exclusive": 95697,
+    "join_fade_samples": 265,
+    "assembly_samples": 78498,
+    "sample_rate": 44100,
+    "start_frame": 9881,
+    "end_frame": 9923.72
+  },
+  "limitations": "No continuous listening, voice acting, phoneme lip sync or final creative approval."
+}

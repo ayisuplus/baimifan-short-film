@@ -1,0 +1,186 @@
+{
+  "reviewer": "style_audit_middle independent",
+  "verdict": "pass_structural_readback_with_scope_limits",
+  "inputs": {
+    "修前实际状态.json": "3ee6f5c0a7d2b9ecddda014467566ca23e74676826da3684631690ad63aae790",
+    "修后实际状态.json": "f4f9a2f42390353df8984f053b268d0c1bdbcb4498269379023716ac9c5b4545",
+    "剪辑施工增量.json": "3db8b84218fff9201c061ab91a5d9cde402aae47571521623b14c4c642887868",
+    "声音施工增量.json": "076c5c3a97ec71fdf58e4c5a08b7f5a2f34d20c6c05d6cc04c32837c5943ac1c",
+    "对白增益修正.json": "6c1933579acaec539c38c34f29f0803e31713b4752411fa56e3c0f389f506ded"
+  },
+  "baseline": "v005_2D_Anime_Fixes",
+  "applied": "v008_Local_Continuity_Fixes",
+  "frames_before": 11497,
+  "frames_after": 11497,
+  "video_count_before": 121,
+  "video_count_after": 123,
+  "unmodified_video_count": 110,
+  "unmodified_video_checked_fields": [
+    "name",
+    "start",
+    "end",
+    "path",
+    "source_in",
+    "source_out",
+    "speed",
+    "props"
+  ],
+  "unexpected_video_differences": [],
+  "all_middle_B18_to_B32_unchanged_count": 36,
+  "all_middle_unchanged": [
+    "B18_GB014A_01_v004_keep",
+    "B18_v004_5018_01",
+    "B18_v004_5018_02",
+    "B18_v004_5018_03",
+    "B19_GB015-1_01",
+    "B19_GB015-1_02",
+    "B19_GB015-1_03",
+    "B19_GB015-1_04",
+    "B19_GB015-1_05",
+    "B20_v003_kimi_defense_01",
+    "B20_v003_kimi_defense_02",
+    "B20_v003_kimi_defense_03",
+    "B21_GB016-1_01",
+    "B21_GB016-1_02",
+    "B22_GB016-2_01",
+    "B23_GB017_01",
+    "B24_GB017R2_01",
+    "B25_GB018_01",
+    "B25_GB018_02_v004_keep",
+    "B25_v005_2D_6476",
+    "B25_v005_2D_6560",
+    "B25_v005_2D_6578",
+    "B25_v005_2D_6628",
+    "B26_v003_gpt_chant_01",
+    "B26_v003_gpt_chant_02",
+    "B26_v003_gpt_chant_03",
+    "B27_GB020-1_01",
+    "B28_GB020-1R2_01",
+    "B28_GB020-1R2_02",
+    "B29_GB020-2_01",
+    "B30_GB021_01",
+    "B30_GB021_02",
+    "B30_GB021_03",
+    "B31_GB022-1_01",
+    "B31_GB022-1_02",
+    "B32_GB022-2_01"
+  ],
+  "B17": {
+    "pass": true,
+    "source_in": 24,
+    "source_out": 84,
+    "timeline": [
+      4778,
+      4838
+    ],
+    "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v010\\产物\\GB014-v010-original-shot-only-r1.mp4",
+    "speed": {
+      "Percentage": 100
+    },
+    "note": "RetimeProcess由0变1是新片默认值；本镜100%原速且源/时间线长度均60，其他变换仍Zoom1/Pan0/Tilt0，不导致变速。"
+  },
+  "B40_unchanged_prefix_10368_10641_preserved": true,
+  "voice_count": 64,
+  "voice_selection_and_integer_timeline_differences": [],
+  "source_endpoint_schema_differences": [
+    {
+      "name": "VO-CY004-01",
+      "old_last_source_frame": 119,
+      "new_exclusive_source_seconds": 5,
+      "unchanged_timeline": [
+        516,
+        636
+      ]
+    },
+    {
+      "name": "VO-CY015-02",
+      "old_last_source_frame": 35,
+      "new_exclusive_source_seconds": 1.5,
+      "unchanged_timeline": [
+        2474,
+        2510
+      ]
+    },
+    {
+      "name": "VO-CY021A-01",
+      "old_last_source_frame": 105,
+      "new_exclusive_source_seconds": 4.416666666666667,
+      "unchanged_timeline": [
+        3486,
+        3592
+      ]
+    }
+  ],
+  "voice_gain_adjustment_count": 13,
+  "voice_gain_unexpected_differences": [],
+  "audio_readback_unit_note": "修前GetEnd为整数帧/GetSourceEndFrame为帧；修后GetEnd(True)含小数帧/GetSourceEndTime为秒。按24fps转换并向下取整数后比较，不能将schema差异误报为对白被挪。修后未记录GetSpeed/全部音频props，故不宣称仅凭两快照验证所有音频属性完全相同。",
+  "music_bridge": {
+    "declared": {
+      "start": 6285,
+      "cut": 6303,
+      "end": 6321,
+      "old_source_mapping_after": 6409,
+      "old_tail": 8007
+    },
+    "M09_actual": [
+      6285,
+      8007
+    ],
+    "N01_actual": [
+      5696,
+      6321
+    ],
+    "crossfade_window": [
+      6285,
+      6321
+    ],
+    "note": "前20帧原入场淡入随新桥改变；6409之后至8007的工作WAV与原段对应样本最大差1个24bit LSB，证明后段内容映射与卡点保持，但不是字节/样本完全原样。淡入/淡出曲线已烘焙到工作WAV，不替代听觉过渡验收。"
+  },
+  "PCM_checks": {
+    "Foley_kimi_4922_6303": {
+      "samples": 2762000,
+      "same_shape": true,
+      "sample_exact_equal": true,
+      "max_abs_int32_delta": 0,
+      "max_abs_24bit_lsb_delta": 0.0,
+      "max_abs_delta_dbfs": null,
+      "within_3_lsb_24bit": true
+    },
+    "Action_kimi_4922_6303": {
+      "samples": 2762000,
+      "same_shape": true,
+      "sample_exact_equal": false,
+      "max_abs_int32_delta": 768,
+      "max_abs_24bit_lsb_delta": 3.0,
+      "max_abs_delta_dbfs": -128.9313729110381,
+      "within_3_lsb_24bit": true
+    },
+    "M09_tail_6409_8007": {
+      "samples": 3196000,
+      "same_shape": true,
+      "sample_exact_equal": false,
+      "max_abs_int32_delta": 256,
+      "max_abs_24bit_lsb_delta": 1.0,
+      "max_abs_delta_dbfs": -138.47379800543135,
+      "within_3_lsb_24bit": true
+    },
+    "N01_prefix_5696_6285": {
+      "samples": 1178000,
+      "same_shape": true,
+      "sample_exact_equal": false,
+      "max_abs_int32_delta": 256,
+      "max_abs_24bit_lsb_delta": 1.0,
+      "max_abs_delta_dbfs": -138.47379800543135,
+      "within_3_lsb_24bit": true
+    }
+  },
+  "timeline_contiguous": true,
+  "saved": true,
+  "exported": false,
+  "old_timeline_preserved": "v005_2D_Anime_Fixes",
+  "limits": [
+    "这是独立文件回读及PCM比较，未调用或修改Resolve。",
+    "未执行完整连续听审，不宣称逐音素口型、音色或最终张力通过。",
+    "修后video未记track/enabled字段，不以此证明这些未记录属性；source/speed/所有已记录props已逐项核对。"
+  ]
+}

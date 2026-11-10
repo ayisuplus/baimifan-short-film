@@ -1,0 +1,180 @@
+{
+  "independent_sampled_batches": [
+    5,
+    6,
+    7,
+    9,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    20,
+    21,
+    22,
+    23,
+    27
+  ],
+  "primary_sampled_batches": [
+    1,
+    2,
+    3,
+    4,
+    10,
+    24,
+    28,
+    29
+  ],
+  "independent_file_mapping_verified_count": 20,
+  "all_file_technical_verified_count": 23,
+  "scope": "半秒图片采样，未完整动态、声音或口型验收",
+  "needs_rework": [
+    13,
+    21
+  ],
+  "edit_review": [
+    6,
+    29
+  ],
+  "details": [
+    {
+      "batch_number": 1,
+      "batch_id": "GB001",
+      "quality_status": "sampled_pending_full_review",
+      "review": "半秒采样：四镜结构与角色外观基本保持，递饭动作可见。切点与计划存在偏移，未验收口型。"
+    },
+    {
+      "batch_number": 2,
+      "batch_id": "GB002",
+      "quality_status": "sampled_pending_full_review",
+      "review": "半秒采样：Claude特写、掀饭、告知与转身跑开均可见。掀饭力度与衔接需连续观看确认，未验收口型。"
+    },
+    {
+      "batch_number": 3,
+      "batch_id": "GB003",
+      "quality_status": "sampled_pending_full_review",
+      "review": "半秒采样：冷蓝紫暮色与长阶纵深保持，入门和内殿可见。守卫初始交叉枪动作、末镜是否及时停下需专项复核；切点略偏移。"
+    },
+    {
+      "batch_number": 4,
+      "batch_id": "GB004",
+      "quality_status": "sampled_pending_full_review",
+      "review": "半秒采样：求救、GPT卧榻回应、小鱼追问三段可见。尚未对照最终干声检查口型与表演节奏。"
+    },
+    {
+      "batch_number": 5,
+      "batch_id": "GB004M",
+      "quality_status": "sampled_pending_full_review",
+      "review": "文件与完整解码通过，待视听审片。"
+    },
+    {
+      "batch_number": 6,
+      "batch_id": "GB005",
+      "quality_status": "edit_review",
+      "review": "独立半秒采样：约8–10秒露出GPT腿部和较宽坐姿，偏离“紧过肩、不露腿”构图；优先评估裁切能否保留起身动作。"
+    },
+    {
+      "batch_number": 7,
+      "batch_id": "GB006",
+      "quality_status": "sampled_pending_full_review",
+      "review": "文件与完整解码通过，待视听审片。"
+    },
+    {
+      "batch_number": 9,
+      "batch_id": "GB008",
+      "quality_status": "sampled_pending_full_review",
+      "review": "文件与完整解码通过，待视听审片。"
+    },
+    {
+      "batch_number": 10,
+      "batch_id": "GB008R2",
+      "quality_status": "sampled_pending_full_review",
+      "review": "半秒采样：教徒扛木进入教堂、由远到近的动作可见；待连续动作与接点复核。"
+    },
+    {
+      "batch_number": 11,
+      "batch_id": "GB009",
+      "quality_status": "sampled_pending_full_review",
+      "review": "文件与完整解码通过，待视听审片。"
+    },
+    {
+      "batch_number": 12,
+      "batch_id": "GB010",
+      "quality_status": "sampled_pending_full_review",
+      "review": "文件与完整解码通过，待视听审片。"
+    },
+    {
+      "batch_number": 13,
+      "batch_id": "GB011-1",
+      "quality_status": "needs_rework",
+      "review": "独立半秒采样复核：约0–5秒应出现Claude喊“别碰她”的镜头未出现，实际为小鱼画面；可能错角色代说，需连续视听确认。约8–10秒落地更像靴子拨踢，未见计划中的左手推开。不能直接用于成片。"
+    },
+    {
+      "batch_number": 14,
+      "batch_id": "GB011-2",
+      "quality_status": "sampled_pending_full_review",
+      "review": "文件与完整解码通过，待视听审片。"
+    },
+    {
+      "batch_number": 15,
+      "batch_id": "GB012",
+      "quality_status": "sampled_pending_full_review",
+      "review": "文件与完整解码通过，待视听审片。"
+    },
+    {
+      "batch_number": 16,
+      "batch_id": "GB013",
+      "quality_status": "sampled_pending_full_review",
+      "review": "文件与完整解码通过，待视听审片。"
+    },
+    {
+      "batch_number": 20,
+      "batch_id": "GB015-2",
+      "quality_status": "sampled_pending_full_review",
+      "review": "文件与完整解码通过，待视听审片。"
+    },
+    {
+      "batch_number": 21,
+      "batch_id": "GB016-1",
+      "quality_status": "needs_rework",
+      "review": "独立半秒采样：约6.5–9秒白衣GPT拿着蓝金折扇、千问空手；下一特写又变回千问持扇。道具归属与跨镜连续性错误，不能直接用于成片。"
+    },
+    {
+      "batch_number": 22,
+      "batch_id": "GB016-2",
+      "quality_status": "sampled_pending_full_review",
+      "review": "文件与完整解码通过，待视听审片。"
+    },
+    {
+      "batch_number": 23,
+      "batch_id": "GB017",
+      "quality_status": "sampled_pending_full_review",
+      "review": "文件与完整解码通过，待视听审片。"
+    },
+    {
+      "batch_number": 24,
+      "batch_id": "GB017R2",
+      "quality_status": "sampled_pending_full_review",
+      "review": "半秒采样：月背GPT/Kimi双人对话和岩石前景存在，角色外观基本保持；未做逐句声音或口型验收。"
+    },
+    {
+      "batch_number": 27,
+      "batch_id": "GB020-1",
+      "quality_status": "sampled_pending_full_review",
+      "review": "文件与完整解码通过，待视听审片。"
+    },
+    {
+      "batch_number": 28,
+      "batch_id": "GB020-1R2",
+      "quality_status": "sampled_pending_full_review",
+      "review": "半秒采样：教堂上空云涡与聚水旋转过程可见；实际空间与剪辑承接仍待连续复核。"
+    },
+    {
+      "batch_number": 29,
+      "batch_id": "GB020-2",
+      "quality_status": "edit_review",
+      "review": "半秒采样：水龙俯冲动作明确。头部前段偏实体蓝龙、后段转透明水体，需连续复核材质过渡；采样未见突兀凸出眼球，不等于动态观感验收。"
+    }
+  ]
+}

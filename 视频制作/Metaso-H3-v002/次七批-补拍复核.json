@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-28",
+  "scope": "仅核验五条局部补拍的既有缺陷修复，并提供GB018剪辑时间；不扩大成新的美术审查",
+  "method": "半秒采样、疑点原尺寸帧、媒体时长及既有ffmpeg场景差分。未试听，未进行最终口型/音轨验收。",
+  "items": [
+    {
+      "attempt_id": "GB028-r002-part1",
+      "status": "visual_target_fixed",
+      "finding": "原先未点燃阶段的背景明火已去除；蓝辫千问持续抱着小鱼，冷月湿地背景保持。孩子由略垂眼到仰望，未见掌心火种或换人。",
+      "source_in_out": [
+        0,
+        4.17
+      ],
+      "target_batch_offset": 0,
+      "target_duration": 4.17,
+      "setpts_factor": 1,
+      "actual_video_duration": 5.166667,
+      "additional_generation_needed": false
+    },
+    {
+      "attempt_id": "GB029-r002-part4",
+      "status": "usable_after_trim_and_retime",
+      "finding": "小鱼前方的错误掌心火种已消失，千问辫子恢复蓝紫色。开头仍有一处远景火焰，1.0秒顶部尚可见；1.5秒大帧确认已被镜头推进排除，后续采样未再出现。小鱼微张嘴是可见状态，未据采样判定为说话或口型通过。",
+      "source_in_out": [
+        1.5,
+        5.166667
+      ],
+      "target_batch_offset": 8.44,
+      "target_duration": 4.94,
+      "setpts_factor": 1.3472727273,
+      "playback_speed": 0.742240216,
+      "actual_video_duration": 5.166667,
+      "method": "只对自然运动放慢，不冻帧、不重复段落；源生音不混入最终，Claude画外干声维持冻结时窗。",
+      "evidence": [
+        "审查/独立复核细帧/GB029-r002-part4-1.png",
+        "审查/独立复核细帧/GB029-r002-part4-1.5.png",
+        "审查/独立复核细帧/GB029-r002-part4-2.png"
+      ],
+      "additional_generation_needed": false
+    },
+    {
+      "attempt_id": "GB026-r002-part1",
+      "status": "target_not_fixed_duplicate_child",
+      "finding": "暗罩不透明、无人物透出、朝正门方向均修好；但1.5秒原尺寸帧清楚显示两名鲸帽小鱼：后排千问抱一个，前排紫猫耳同伴又抱一个，属于新增重复孩子，不能作为完整群像采用。",
+      "actual_video_duration": 4.458333,
+      "evidence": [
+        "审查/独立复核细帧/GB026-r002-part1-1.5.png"
+      ],
+      "additional_generation_needed": true,
+      "recommendation": "仅对此3秒有效防线再做局部，唯一小鱼必须只在中后排千问怀里，前排猫耳同伴Gemini空手/原武器不抱孩子。尽可能直接用CY027D整体构图约束，删去会令孩子成为独立主体的重复身份强调；不能通过裁掉前排核心人物假称群像完整。"
+    },
+    {
+      "attempt_id": "GB031-r002-part2",
+      "status": "visual_target_fixed",
+      "finding": "已按原图面向敞开正门、月亮和远处城堡离去，不再向燃烧祭坛行走。GPT抱Claude、千问抱小鱼的关系在采样保持；门侧出现火盆，但不是原先祭坛挡路错误，本轮不扩展为新返修。",
+      "source_in_out": [
+        0,
+        6
+      ],
+      "target_batch_offset": 3,
+      "target_duration": 6,
+      "setpts_factor": 1,
+      "actual_video_duration": 6.583333,
+      "additional_generation_needed": false,
+      "evidence": [
+        "审查/独立复核细帧/GB031-r002-part2-3.png"
+      ]
+    },
+    {
+      "attempt_id": "GB030-1-r002-part45",
+      "status": "target_not_fixed_edit_trial_first",
+      "finding": "1.5秒原帧仍见Claude坐地、手掌接触地面；3秒后才被抱起。不能称站立失力直接接住已完成。末段抱起本身可复用，应先尝试用近景与动作省略剪掉中间坐地。",
+      "actual_video_duration": 4.458333,
+      "edit_trial": [
+        {
+          "note": "原版近景上背失力与GPT靠近；裁去下缘折膝与地面。只表达开始承接，不声称完整负重可见。",
+          "target_duration": 2,
+          "source_in_out": [
+            9.333333,
+            11.458333
+          ],
+          "crop": "crop=1100:619:100:0",
+          "target_batch_offset": 9.36,
+          "source": "GB030-1-r001.mp4",
+          "setpts_factor": 0.9411764706
+        },
+        {
+          "note": "接新片已离地起抱段，省略中间探膝过程；不使用坐地帧，不冻帧。",
+          "target_duration": 2,
+          "source_in_out": [
+            3,
+            4.458333
+          ],
+          "target_batch_offset": 11.36,
+          "source": "GB030-1-r002-part45.mp4",
+          "setpts_factor": 1.3714285714
+        }
+      ],
+      "acceptance": "先连续查看剪辑版两镜接点、方向和承接是否通顺，若仍明显像从地上抱起则保留待返修，不能把遮挡直接等同动作正确。",
+      "additional_generation_needed": "conditional_after_local_edit",
+      "evidence": [
+        "审查/独立复核细帧/GB030-1-r002-part45-1.5.png",
+        "审查/独立复核细帧/GB030-1-r002-part45-3.png",
+        "审查/独立复核细帧/GB030-1-r002-part45-3.5.png"
+      ]
+    },
+    {
+      "attempt_id": "GB026-r003-part1",
+      "status": "visual_target_fixed",
+      "finding": "正确原构图固定首帧版中，唯一小鱼留在中后排千问怀里；前排紫猫耳Gemini不再抱第二个孩子。最高祭坛暗紫罩保持不透明，罩内人和刑架不可见。群体面向摄影机所在的入口，未再转身朝祭坛推进。",
+      "source_in_out": [
+        0,
+        3
+      ],
+      "target_batch_offset": 0,
+      "target_duration": 3,
+      "setpts_factor": 1,
+      "actual_video_duration": 4.458333,
+      "additional_generation_needed": false,
+      "supersedes": "GB026-r002-part1",
+      "evidence": [
+        "审查/GB026-r003-part1-半秒采样.jpg",
+        "审查/独立复核细帧/GB026-r003-part1-1.5.png"
+      ]
+    }
+  ],
+  "GB028_eye_retime": {
+    "source_attempt": "GB028-r001",
+    "source_in_out": [
+      10,
+      11.875
+    ],
+    "source_duration": 1.875,
+    "target_in_out": [
+      8.24,
+      12.24
+    ],
+    "target_duration": 4,
+    "setpts_factor": 2.1333333333,
+    "playback_speed": 0.46875,
+    "note": "近静态眼部反应略超过2倍时长，主代理已允许并要求记录；只放慢一遍，不重复眨眼。父亲干声8.54—11.64秒原速独立铺入。"
+  },
+  "GB018_measured_edl": {
+    "source_attempt": "GB018-r001",
+    "fps": "24/1",
+    "frames": 362,
+    "actual_video_duration": 15.083333,
+    "internal_cuts_frame_numbers_zero_based": [
+      97,
+      169
+    ],
+    "internal_cuts_seconds": [
+      4.0416666667,
+      7.0416666667
+    ],
+    "segments": [
+      {
+        "shot": "CY026E",
+        "source_frames_inclusive_exclusive": [
+          0,
+          97
+        ],
+        "source_in_out": [
+          0,
+          4.0416666667
+        ],
+        "target_in_out": [
+          0,
+          4
+        ],
+        "setpts_factor": 0.9896907216
+      },
+      {
+        "shot": "CY024A0",
+        "source_frames_inclusive_exclusive": [
+          97,
+          169
+        ],
+        "source_in_out": [
+          4.0416666667,
+          7.0416666667
+        ],
+        "target_in_out": [
+          4,
+          7.2
+        ],
+        "setpts_factor": 1.0666666667
+      },
+      {
+        "shot": "CY024A",
+        "source_frames_inclusive_exclusive": [
+          169,
+          362
+        ],
+        "source_in_out": [
+          7.0416666667,
+          15.0833333333
+        ],
+        "target_in_out": [
+          7.2,
+          14.45
+        ],
+        "setpts_factor": 0.9015544041
+      }
+    ],
+    "audio_policy": "仅画面按EDL调整，最终干声和BGM保持冻结时窗；不使用变速源生对白。"
+  },
+  "final_resolution": {
+    "GB028": "GB028-r002-part1取0—4.17秒",
+    "GB029": "GB029-r002-part4取1.5—5.166667秒并延至4.94秒",
+    "GB026": "GB026-r003-part1取0—3秒，r002重复孩子版保留为拒用历史",
+    "GB031": "GB031-r002-part2取0—6秒",
+    "GB030": "剪辑候选GB030-1-v002通过既有缺陷抽核，以近景到已离地起抱的动作省略消除坐地帧，详剪辑候选-独立复核.json"
+  }
+}

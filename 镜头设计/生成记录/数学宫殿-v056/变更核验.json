@@ -1,0 +1,20 @@
+{
+  "shots": 132,
+  "seconds": 435.5,
+  "new_images": [
+    "CY005",
+    "CY006",
+    "CY007",
+    "CY008",
+    "CY009",
+    "CY009A"
+  ],
+  "reused_hand_closeup": "镜头设计/图像/宫殿躺姿-v055/CY010-r2-搓手.png",
+  "timing_dialogue_actions_framing_unchanged": true,
+  "music_marks_unchanged": true,
+  "source_quotes_verified": 132,
+  "previous_source": "镜头设计/shot-plan-v0.55.json",
+  "source": "镜头设计/shot-plan-v0.56.json",
+  "source_sha256": "2ac84024c573aa4fa27d8dece3a2bcb69de0d8bdab047d9a3865414a4c9ed80b",
+  "scope": "静帧与文本；未生成动态视频或重新听审"
+}

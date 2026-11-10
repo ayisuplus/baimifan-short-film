@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115304704527110144",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "小鱼踏阶而下",
+    "status": "succeeded",
+    "created_at": 1793162917,
+    "updated_at": 1793162937,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115304704527110144/content?expires=1793767880&signature=58cca59407a7c6d53fafdef6f8a68b6ba2c4c68f25deb73104125d0367c00353"
+    },
+    "resolution": "768P",
+    "duration": 4,
+    "usage": {
+      "total_seconds": 4,
+      "input_seconds": 0,
+      "output_seconds": 4,
+      "input_image_count": 1
+    },
+    "ratio": "adaptive",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

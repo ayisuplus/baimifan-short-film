@@ -1,0 +1,410 @@
+{
+  "kind": "新增七条单镜回片独立目视复核",
+  "created_at": "2026-10-28T02:33:38.655859",
+  "scope": "半秒采样、投刃每两帧精查、救人1秒/0.5秒放大；未听音，未生成，未改队列。",
+  "results": [
+    {
+      "attempt_id": "GB014A-r002-CY024K0",
+      "source_path": "视频制作/Metaso-H3-v002/产物/GB014A-r002-CY024K0.mp4",
+      "source_sha256": "49b20d01ca48fa0bde327545e772faf12a0170bddd762de13229c5a4a6eb4718",
+      "status": "动作已补，裁掉提前裂窗后可进入剪辑验收",
+      "fixed_observed": [
+        "7.5秒亮刃与张开左手之间有空气间隔；7.6667秒明刃已出画，左手空手；右手仍握暗刃。"
+      ],
+      "remaining_observed": [
+        "约8秒起提前出现玻璃裂纹，不能保留到本镜目标尾。",
+        "实际投刃早于原局部7.68秒对白结束点，需要画面轻慢放后复核口型。"
+      ],
+      "editing_suggestion": {
+        "source_frames": [
+          0,
+          186
+        ],
+        "source_in": 0,
+        "source_out_exclusive": 7.75,
+        "target_duration": 8.29,
+        "video_speed": 0.9348612786489747,
+        "duration_multiplier": 1.0696774193548386,
+        "reason": "整体轻慢放约6.97%，投刃起动约目标7.84秒，离手约8.02秒；源7.75排他避免裂窗。原两句仍0–3.7和3.7–7.68秒。",
+        "evidence": "审查/GB014A-r002-投刃精查.jpg"
+      },
+      "evidence_sheet": "视频制作/Metaso-H3-v002/审查/GB014A-r002-CY024K0-半秒采样.jpg",
+      "audio_lipsync": "未听音；不称口型通过"
+    },
+    {
+      "attempt_id": "GB024-r002-CY027B1",
+      "source_path": "视频制作/Metaso-H3-v002/产物/GB024-r002-CY027B1.mp4",
+      "source_sha256": "bb6c645d7d33ed1224c12bd76b8dd27d0d396d0dfdee4a9ccb353da55c02e15a",
+      "status": "关键动作目视通过，待剪入",
+      "fixed_observed": [
+        "人形同一身体转为白紫长龙；约1.5–2秒已无裙褶/玫瑰衣饰残留。",
+        "未出现第二个完整GPT人形或额外教主。"
+      ],
+      "remaining_observed": [
+        "此为采样及关键动作验收，未全片接镜。"
+      ],
+      "editing_suggestion": {
+        "source_frames": [
+          0,
+          48
+        ],
+        "source_in": 0,
+        "source_out_exclusive": 2,
+        "target_duration": 2,
+        "video_speed": 1,
+        "duration_multiplier": 1
+      },
+      "evidence_sheet": "视频制作/Metaso-H3-v002/审查/GB024-r002-CY027B1-半秒采样.jpg",
+      "audio_lipsync": "未听音；不称口型通过"
+    },
+    {
+      "attempt_id": "GB024-r002-CY027B3",
+      "source_path": "视频制作/Metaso-H3-v002/产物/GB024-r002-CY027B3.mp4",
+      "source_sha256": "c5e78d5cfa7f5a4af5a502c004c3cce838e959a96d295e6b505fcff40d046916",
+      "status": "穿洞动作已补，轻加速可剪入",
+      "fixed_observed": [
+        "教主与白紫长龙沿同一破口向上离开；约4秒时龙尾和教主均已出洞。",
+        "没有新撞开洞口或穿衣龙。"
+      ],
+      "remaining_observed": [
+        "直接只取前3秒会截掉尾部穿出，需用足动作源。"
+      ],
+      "editing_suggestion": {
+        "source_frames": [
+          0,
+          100
+        ],
+        "source_in": 0,
+        "source_out_exclusive": 4.166666666666667,
+        "target_duration": 3,
+        "video_speed": 1.3888888888888888,
+        "duration_multiplier": 0.72,
+        "reason": "取至4.166667秒，保留明确空洞末态；压为3秒，非用前3秒截断。"
+      },
+      "evidence_sheet": "视频制作/Metaso-H3-v002/审查/GB024-r002-CY027B3-半秒采样.jpg",
+      "audio_lipsync": "未听音；不称口型通过"
+    },
+    {
+      "attempt_id": "GB027-r002-CY027F2",
+      "source_path": "视频制作/Metaso-H3-v002/产物/GB027-r002-CY027F2.mp4",
+      "source_sha256": "169639a8c37df23a1a570736c90d6923570a32d7c0f27e6ee67e7535c9e29182",
+      "status": "服装修正；灯火连续性仍阻断",
+      "fixed_observed": [
+        "GPT为白银衣装；Kimi仍黑紫星月服，未再串衣。",
+        "撤罩与钥匙交接动作可辨。"
+      ],
+      "remaining_observed": [
+        "整个祭坛及背景多组蜡烛仍燃烧，与v025已灭火状态矛盾。"
+      ],
+      "editing_suggestion": {
+        "source_in": 0,
+        "source_out_exclusive": 3,
+        "target_duration": 3,
+        "video_speed": 1,
+        "use_condition": "只能作为合成候选；须把普通烛火与对应暖反光移除再验，不宜继续相同多角色提示反复抽卡。"
+      },
+      "evidence_sheet": "视频制作/Metaso-H3-v002/审查/GB027-r002-CY027F2-半秒采样.jpg",
+      "audio_lipsync": "未听音；不称口型通过"
+    },
+    {
+      "attempt_id": "GB027-r002-CY027G",
+      "source_path": "视频制作/Metaso-H3-v002/产物/GB027-r002-CY027G.mp4",
+      "source_sha256": "17e21823d7771f3bf8f7919acc5517011702dbc10ec87ffcf670eaa946aca788",
+      "status": "服装修正；火焰与踝扣连续性仍阻断",
+      "fixed_observed": [
+        "GPT白银服稳定，先扶持再开腕的总体调度可辨。"
+      ],
+      "remaining_observed": [
+        "约1秒放大可见两侧大面积燃柴和大量烛火。",
+        "本镜应已解除双踝，但两脚仍戴黑色踝扣，且双足下垂，未稳定踩住固定脚托。",
+        "上镜新踝扣镜已完成解除，此处重新出现，不能靠调整时点解决。"
+      ],
+      "editing_suggestion": {
+        "source_in": 0,
+        "source_out_exclusive": 3,
+        "target_duration": 3,
+        "use_condition": "不可直接采用；先评估只保留上身承托/解腕局部并消除火焰的合成是否可行，不能以裁切宣称双踝/脚托已正确。",
+        "evidence": "审查/GB027-r002-CY027G-独立精查.jpg"
+      },
+      "evidence_sheet": "视频制作/Metaso-H3-v002/审查/GB027-r002-CY027G-半秒采样.jpg",
+      "audio_lipsync": "未听音；不称口型通过"
+    },
+    {
+      "attempt_id": "GB027-r002-CY028A",
+      "source_path": "视频制作/Metaso-H3-v002/产物/GB027-r002-CY028A.mp4",
+      "source_sha256": "9d9fdcb498616a9e084147c6da75c68864a12da553ed5304dc77f224584aa27b",
+      "status": "服装修正；灯火和束具仍阻断",
+      "fixed_observed": [
+        "GPT始终白银服，扶下后同侧推近过程存在。",
+        "后段胸上近景不再穿Kimi服。"
+      ],
+      "remaining_observed": [
+        "0.5秒放大可见Claude双腕戴黑扣、双踝也被黑扣环住，五处解除的先决条件不成立。",
+        "前景蜡烛、刑架旁木块和裙边仍有可见火光/红余烬。",
+        "目标2.7秒应到胸上近景，实际约3.5秒才收近，属于可剪重排的小偏差；但不能掩盖束具/火焰问题。"
+      ],
+      "editing_suggestion": {
+        "use_condition": "后段无束具入画的近景可单独保留为候选，但原单镜先落脚后推近仍缺无锁、无火的合格起段；不要把胸上裁切直接当整镜已修好。",
+        "evidence": "审查/GB027-r002-CY028A-独立精查.jpg"
+      },
+      "evidence_sheet": "视频制作/Metaso-H3-v002/审查/GB027-r002-CY028A-半秒采样.jpg",
+      "audio_lipsync": "未听音；不称口型通过"
+    },
+    {
+      "attempt_id": "GB027-r002-CY027F1",
+      "source_path": "视频制作/Metaso-H3-v002/产物/GB027-r002-CY027F1.mp4",
+      "source_sha256": "a10d92051a852bd1f0ca446ed4cff9993b81d01378053e7722a60e64d88490db",
+      "status": "踝扣解除动作与灭火外观可局部保留",
+      "fixed_observed": [
+        "裙边是冷色焦黑，未再见橙红燃烧。",
+        "第一扣移开后最后踝扣张开脱离，双足始终在脚托。"
+      ],
+      "remaining_observed": [
+        "原片仍演了两次踝扣，不能把4秒全片压成2秒重演两遍。",
+        "精确钥匙插入/转锁需全速复核，采样不能宣称金属机构细节完美。"
+      ],
+      "editing_suggestion": {
+        "source_frames": [
+          24,
+          72
+        ],
+        "source_in": 1,
+        "source_out_exclusive": 3,
+        "target_duration": 2,
+        "video_speed": 1,
+        "duration_multiplier": 1,
+        "reason": "源1秒第一扣已在脚托旁，保留第二扣打开与移开；3秒附近双足自由。"
+      },
+      "evidence_sheet": "视频制作/Metaso-H3-v002/审查/GB027-r002-CY027F1-半秒采样.jpg",
+      "audio_lipsync": "未听音；不称口型通过"
+    },
+    {
+      "attempt_id": "GB027-r003-CY027F2",
+      "source_path": "视频制作/Metaso-H3-v002/产物/GB027-r003-CY027F2.mp4",
+      "source_sha256": "ccc31b87101dbea1c4d6c402778167b4e4f539c342f3608fa1eca851582f1b75",
+      "status": "固定首帧后仍失败，无合格完整3秒段",
+      "fixed_observed": [
+        "起始GPT与Kimi服装未串位。"
+      ],
+      "remaining_observed": [
+        "撤罩后Claude脚下重新生成明火，边缘烛台也重新燃起。",
+        "Claude显形后变成大面积黑色短裙/黑服，与原白金焦损长裙不一致。",
+        "问题贯穿钥匙交接终态，裁去末尾无法得到完整合格3秒。"
+      ],
+      "editing_suggestion": {
+        "usable_duration": null,
+        "reason": "不能只取撤罩前空场冒充已经撤罩交钥匙；不建议以同样起图继续无差别重试。",
+        "crop_test": {
+          "size": [
+            600,
+            338
+          ],
+          "tested_origin": [
+            410,
+            270
+          ],
+          "result": "完整交接时仍显示Claude错误黑服/裸腿背景；r002相同裁切则仍带入烛火。不能得到干净完整交接。",
+          "evidence": "审查/交钥匙裁切方案-独立.jpg"
+        },
+        "fallback_firstframe": {
+          "path": "视频制作/Metaso-H3-v002/审查/交钥匙-干净双手首帧-独立.png",
+          "source_time": 0,
+          "crop": [
+            510,
+            335,
+            600,
+            338
+          ],
+          "viewed": true,
+          "observed": "无Claude、无人脸、无火、无束具；只见左右手、GPT白袖、Kimi黑紫袖边和唯一黑铁钥匙，暗背景。",
+          "intended_request_seconds": 4,
+          "intended_use_seconds": 3,
+          "direction": "固定双手近特写，右侧白袖手将唯一黑铁钥匙轻放左侧黑紫袖的掌心，再松开撤手；掌心合拢接稳；3秒内完成，剩余微动。背景保持暗且虚，不再揭示Claude、窗户、烛台或地面。无对白、无新增人脸、不生成第二把钥匙。"
+        }
+      },
+      "evidence_sheet": "视频制作/Metaso-H3-v002/审查/GB027-r003-CY027F2-半秒采样.jpg",
+      "audio_lipsync": "本镜无对白；未听音，不称完整视听验收通过"
+    },
+    {
+      "attempt_id": "GB027-r003-CY027G",
+      "source_path": "视频制作/Metaso-H3-v002/产物/GB027-r003-CY027G.mp4",
+      "source_sha256": "15042adacf3487da4ed38159cc6310e6bc2545c083b21d2c5e6f98367fc2825d",
+      "status": "固定首帧修正成立，可取2.5秒放至3秒",
+      "fixed_observed": [
+        "全段采样普通烛台和散柴均保持熄灭。",
+        "1秒放大双踝自由、赤足稳踩固定脚托，GPT白银服不串位。",
+        "2.5秒放大最后腕扣已移离，双腕自由，Kimi拿着空扣，GPT继续扶持。"
+      ],
+      "remaining_observed": [
+        "3秒以后开始迈下，应裁去以免和下一镜重复。"
+      ],
+      "editing_suggestion": {
+        "source_frames": [
+          0,
+          60
+        ],
+        "source_in": 0,
+        "source_out_exclusive": 2.5,
+        "target_duration": 3,
+        "video_speed": 0.8333333333333334,
+        "duration_multiplier": 1.2,
+        "reason": "保留先扶稳、最后腕扣移离和脚托稳定末态，原3秒后迈下不进入本镜；不冻帧。",
+        "evidence": "审查/GB027-r003-CY027G-独立-2.5s.jpg"
+      },
+      "evidence_sheet": "视频制作/Metaso-H3-v002/审查/GB027-r003-CY027G-半秒采样.jpg",
+      "audio_lipsync": "本镜无对白；未听音，不称完整视听验收通过"
+    },
+    {
+      "attempt_id": "GB027-r003-CY028A",
+      "source_path": "视频制作/Metaso-H3-v002/产物/GB027-r003-CY028A.mp4",
+      "source_sha256": "eb2a0b9e8b7d730dc313a44b6889b5617b4465571d751925cac7ce7ad285f3d4",
+      "status": "本轮火焰/束具/服装问题目视修复，可进入剪辑验收",
+      "fixed_observed": [
+        "半秒采样全段蜡烛和散柴均保持熄灭，衣边无橙红燃烧。",
+        "Claude双腕与双踝未重新长出黑扣，原束具留在Kimi手中或刑架。",
+        "GPT白银衣服、Claude焦损白金衣稳定；扶持、赤足迈下、落地站稳、同侧推近按顺序出现。"
+      ],
+      "remaining_observed": [
+        "未听音，原两句配音与动态口型仍需后期核验；不以目视替代。"
+      ],
+      "editing_suggestion": {
+        "source_frames": [
+          0,
+          149
+        ],
+        "source_in": 0,
+        "source_out_exclusive": 6.2,
+        "target_duration": 6.2,
+        "video_speed": 1,
+        "duration_multiplier": 1,
+        "frame_note": "目标沿用v025精确6.2秒；24fps视觉最后切点取最近帧149，不移动全片音频。",
+        "voice_windows": [
+          {
+            "speaker": "GPT",
+            "start": 0.1,
+            "end": 1.68,
+            "text": "ゆっくりでいい。"
+          },
+          {
+            "speaker": "Claude",
+            "start": 2.8,
+            "end": 4.31,
+            "text": "あの子は……"
+          }
+        ]
+      },
+      "evidence_sheet": "视频制作/Metaso-H3-v002/审查/GB027-r003-CY028A-半秒采样.jpg",
+      "audio_lipsync": "未听音，未通过口型验收"
+    },
+    {
+      "attempt_id": "GB027-r004-CY027F2",
+      "source_path": "视频制作/Metaso-H3-v002/产物/GB027-r004-CY027F2.mp4",
+      "source_sha256": "5ed531dcff47120d717b4df6c39982378ad408efd0d1452dbaecce710c3acedc",
+      "status": "交钥匙近特写本轮目视核验可用",
+      "fixed_observed": [
+        "约2秒钥匙落入Kimi左侧黑紫袖掌心；2.5秒后GPT右侧白袖手已松开并后撤。",
+        "3–3.5秒钥匙仍清楚留在Kimi掌心，未跟GPT手撤走、未凭空消失、未复制第二把。",
+        "关键交接帧未见突然新增/消失的手指、穿掌或手型突变；放下时自然遮挡不作额外手指。",
+        "暗背景保持，未生成Claude、火焰、烛台、地面或束具。"
+      ],
+      "remaining_observed": [],
+      "editing_suggestion": {
+        "source_frames": [
+          12,
+          84
+        ],
+        "source_in": 0.5,
+        "source_out_exclusive": 3.5,
+        "target_batch_in": 0,
+        "target_batch_out": 3,
+        "target_duration": 3,
+        "video_speed": 1,
+        "duration_multiplier": 1,
+        "reason": "涵盖钥匙下降、落掌、GPT松开撤手以及钥匙留在Kimi掌心的完整因果；不需重拍或变速。"
+      },
+      "evidence_sheet": "视频制作/Metaso-H3-v002/审查/GB027-r004-CY027F2-钥匙交接独立.jpg",
+      "audio_lipsync": "本镜无对白；未听音，钥匙拟音待后期对位。"
+    }
+  ],
+  "summary": {
+    "ready_for_edit_review": [
+      "GB014A-r002-CY024K0",
+      "GB024-r002-CY027B1",
+      "GB024-r002-CY027B3",
+      "GB027-r002-CY027F1"
+    ],
+    "still_blocked": [
+      "GB027-r002-CY027F2",
+      "GB027-r002-CY027G",
+      "GB027-r002-CY028A"
+    ]
+  },
+  "accepted": false,
+  "updated_at": "2026-10-28T02:44:24.379647",
+  "additional_rounds": {
+    "r003": {
+      "checked": [
+        "GB027-r003-CY027F2",
+        "GB027-r003-CY027G",
+        "GB027-r003-CY028A"
+      ],
+      "ready_for_edit": [
+        "GB027-r003-CY027G",
+        "GB027-r003-CY028A"
+      ],
+      "remaining_blocked": [
+        "GB027-r003-CY027F2"
+      ],
+      "scope": "只复核本轮火焰/束具/身份及有效段，没有扩大细节。"
+    },
+    "r004_F2": {
+      "checked": [
+        "GB027-r004-CY027F2"
+      ],
+      "ready_for_edit": [
+        "GB027-r004-CY027F2"
+      ],
+      "remaining_blocked": []
+    }
+  },
+  "GB027_final_edit_recommendation": {
+    "target_duration": 14.2,
+    "segments": [
+      {
+        "attempt_id": "GB027-r004-CY027F2",
+        "source_in": 0.5,
+        "source_out": 3.5,
+        "target_in": 0,
+        "target_out": 3,
+        "speed": 1
+      },
+      {
+        "attempt_id": "GB027-r002-CY027F1",
+        "source_in": 1,
+        "source_out": 3,
+        "target_in": 3,
+        "target_out": 5,
+        "speed": 1
+      },
+      {
+        "attempt_id": "GB027-r003-CY027G",
+        "source_in": 0,
+        "source_out": 2.5,
+        "target_in": 5,
+        "target_out": 8,
+        "speed": 0.8333333333333334
+      },
+      {
+        "attempt_id": "GB027-r003-CY028A",
+        "source_in": 0,
+        "source_out": 6.2,
+        "target_in": 8,
+        "target_out": 14.2,
+        "speed": 1
+      }
+    ],
+    "coverage_seconds": 14.2,
+    "status": "局部画面可剪入；原配音/BGM原时码不动，拼接后全速/原声与口型未验收",
+    "scope": "本轮救人段已列的服装、火焰、束具和钥匙交接问题收口；历史失败版本保留。"
+  }
+}

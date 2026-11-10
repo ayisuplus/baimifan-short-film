@@ -1,0 +1,68 @@
+{
+  "batch": {
+    "batch_number": 20,
+    "batch_id": "GB015-2",
+    "attempt_id": "GB015-2-v003-r002-close",
+    "title": "暗月闭合，截住教徒法术",
+    "shot_ids": [
+      "CY024K3"
+    ],
+    "film_start": 229.062729,
+    "part_offset": 0,
+    "used_seconds": 2,
+    "duration": 4,
+    "prompt": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。4秒单一连续镜头，只完成从首图到末图的闭罩动作。所有敌人保持首图掌心聚能，不释放任何攻击，不出现光束。Kimi在原地抬右手圆暗刃，浓厚的深靛色不透明暗幕从地面包起，像实体暗夜帷幕迅速向上合拢。结尾必须精确到末图完全遮住Kimi、Claude和整个刑架的暗色穹顶，表面厚实暗哑，完全看不见内部人物或木架。Claude全程固定刑架，敌人位置不动，相机固定。整镜没有攻击、没有闪爆、没有水流，不出现玻璃或透明罩。无对白。",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/Metaso-H3-v003/修订参考/CY024K3-闭罩前-r002.png",
+        "sha256": "c80a01b22b0c1add10dee90e819fbb34110919d0ac609e6eb7725937faa270eb",
+        "role": "first_frame"
+      },
+      {
+        "slot": 2,
+        "path": "视频制作/Metaso-H3-v003/修订参考/CY024K3-闭罩完全不透明终态-r001.png",
+        "sha256": "401c37b745307134666b7536faa93e788fdf8b4c8b020ae2275dd6df73d998db",
+        "role": "last_frame"
+      }
+    ],
+    "estimated_credits": 40.8,
+    "status": "prepared",
+    "accepted": false,
+    "change_reason": "初次v003暗罩透明不合格；以正确起态和不透明终态双帧只拍闭罩，攻击另镜。",
+    "repair_of": {
+      "author_rejected_version": "v002",
+      "batch_id": "GB015-2"
+    },
+    "source": "后期/制作工作台-v025/工作台数据.json",
+    "mode": "first_frame"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "严格从固定首帧开始，只让该画面发生指定动作；保持原有角色、服装、道具和空间。单一连续镜头，不切镜，不增加人物，无字幕水印，无背景音乐。4秒单一连续镜头，只完成从首图到末图的闭罩动作。所有敌人保持首图掌心聚能，不释放任何攻击，不出现光束。Kimi在原地抬右手圆暗刃，浓厚的深靛色不透明暗幕从地面包起，像实体暗夜帷幕迅速向上合拢。结尾必须精确到末图完全遮住Kimi、Claude和整个刑架的暗色穹顶，表面厚实暗哑，完全看不见内部人物或木架。Claude全程固定刑架，敌人位置不动，相机固定。整镜没有攻击、没有闪爆、没有水流，不出现玻璃或透明罩。无对白。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115173851113381888"
+        },
+        "role": "first_frame"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115183786117095424"
+        },
+        "role": "last_frame"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 4,
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "作者要求修复第6、11、20、21、39批剧情与空间错误，沿用已授权Metaso H3积分；40仅必要接头。无充值。"
+}

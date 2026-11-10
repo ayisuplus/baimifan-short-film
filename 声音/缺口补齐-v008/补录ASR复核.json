@@ -1,0 +1,89 @@
+{
+  "method": "Whisper-small offline unprompted Japanese; not listening approval",
+  "lines": [
+    {
+      "id": "VO-CY004D-01",
+      "file": "声音/缺口补齐-v008/VO-CY004D-01__GPT.mp3",
+      "sha256": "efc2bc954130a61a14c8a9abbd488d843a762a2b49858d2dc2680238c1e8cabd",
+      "expected": "通してあげて。",
+      "asr": "通してあげて"
+    },
+    {
+      "id": "VO-CY006-01",
+      "file": "声音/缺口补齐-v008/VO-CY006-01__小鱼.wav",
+      "sha256": "ccca04bba920716d36074333d6f769e7aec5d79f59f50c987d506f748009edba",
+      "expected": "今夜、クロードが焼かれちゃう。お願い、助けて。",
+      "asr": "今夜クロードが焼かれちゃお願い助けて"
+    },
+    {
+      "id": "VO-CY007-01",
+      "file": "声音/缺口补齐-v008/VO-CY007-01__GPT.mp3",
+      "sha256": "727f9f502f7942adaebfa6fbcda8760de8c00a040b92254d6aab465cf8818fd2",
+      "expected": "教会には手を出さない。……そう約束したの。",
+      "asr": "境界には手を出さないそう約束したの"
+    },
+    {
+      "id": "VO-CY015-02",
+      "file": "声音/缺口补齐-v008/VO-CY015-02__小鱼.wav",
+      "sha256": "182be54284936c2bebc3fe73641dff1ee8b5aee66db67b467be289420620d4f6",
+      "expected": "迎えに来たの。",
+      "asr": "迎えに来たの"
+    },
+    {
+      "id": "VO-CY019-02",
+      "file": "声音/缺口补齐-v008/VO-CY019-02__小鱼.wav",
+      "sha256": "de53b8c051a3ddf3297c69b3247bd361d44937ed147703b5c7b3c8b847e8242e",
+      "expected": "いや。",
+      "asr": "いや"
+    },
+    {
+      "id": "VO-CY026A-01",
+      "file": "声音/缺口补齐-v008/VO-CY026A-01__GPT.mp3",
+      "sha256": "7a318346b8138115e1eebffa6b835ba40cf83a3a5d31ef4d2484b68b1cca0758",
+      "expected": "センモン、人助けに付き合って。",
+      "asr": "専門見えづけに付き合って"
+    },
+    {
+      "id": "VO-CY026B-01",
+      "file": "声音/缺口补齐-v008/VO-CY026B-01__GPT.mp3",
+      "sha256": "2283b62f5790c4b11e1c3a11b4f89aa36f158bb2e600931bfd1a0fe5db370e35",
+      "expected": "ジェミニ。",
+      "asr": "ジェミニ"
+    },
+    {
+      "id": "VO-CY026C-01",
+      "file": "声音/缺口补齐-v008/VO-CY026C-01__GPT.mp3",
+      "sha256": "cbf714858bb6a09fc74356d49d7c4cfca95cb8bc78fef2f1efacbeaecf69d185",
+      "expected": "グロック。",
+      "asr": "グロック"
+    },
+    {
+      "id": "VO-CY026D1-01",
+      "file": "声音/缺口补齐-v008/VO-CY026D1-01__GPT.mp3",
+      "sha256": "dfcbdff4b39bfeb710e6d68731252c464ad93088744040209b9916db75502607",
+      "expected": "キミ。クロードが危ない。",
+      "asr": "君 クロドが見ない"
+    },
+    {
+      "id": "VO-CY026E-01",
+      "file": "声音/缺口补齐-v008/VO-CY026E-01__GPT.mp3",
+      "sha256": "f7e0c62f01d5474f9e686c33088c59643c63f74c46c5180b3a87b26b70b6bc45",
+      "expected": "コンゲン、ラマ……みんな来て。",
+      "asr": "今元ラマみんな来て"
+    },
+    {
+      "id": "VO-CY027B-01",
+      "file": "声音/缺口补齐-v008/VO-CY027B-01__GPT.mp3",
+      "sha256": "b97293f20e60d74c9055cfb4d62fa7b69c119588d28c6805b090108d989f4ca2",
+      "expected": "うるさい。",
+      "asr": "うるさい"
+    },
+    {
+      "id": "VO-CY028-01",
+      "file": "声音/缺口补齐-v008/VO-CY028-01__GPT.mp3",
+      "sha256": "b05fb81e71cc4e7b4feda2811c8abd57a1f7305978f1594418e4167d72efd41b",
+      "expected": "行こう。",
+      "asr": "行く"
+    }
+  ]
+}

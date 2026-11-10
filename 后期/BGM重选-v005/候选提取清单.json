@@ -1,0 +1,71 @@
+{
+  "version": "v005",
+  "music": [
+    {
+      "id": "BGM-CY-AC2-06",
+      "bvid": "BV1TQ4y1L7tR",
+      "part": 6,
+      "title": "Approaching Target 1",
+      "display_title": "接近目标 1",
+      "work": "刺客信条 II",
+      "composer": "Jesper Kyd",
+      "source_page_title": "【OST & 游戏原声带】歌名：《接近目标1》（Approaching Target 1)",
+      "navigation_translation": "中文名称用于导航，原曲名及分P标题保留。"
+    },
+    {
+      "id": "BGM-CY-AC2-28",
+      "bvid": "BV1TQ4y1L7tR",
+      "part": 28,
+      "title": "Night Mission in Venice",
+      "display_title": "威尼斯夜间任务",
+      "work": "刺客信条 II",
+      "composer": "Jesper Kyd",
+      "source_page_title": "【OST & 游戏原声带】歌名：《潜入黑夜-威尼斯》（Night Mission in Venice）",
+      "navigation_translation": "中文名称用于导航，原曲名及分P标题保留。"
+    },
+    {
+      "id": "BGM-CY-AC2-19",
+      "bvid": "BV1TQ4y1L7tR",
+      "part": 19,
+      "title": "Sanctuary",
+      "display_title": "庇护所",
+      "work": "刺客信条 II",
+      "composer": "Jesper Kyd",
+      "source_page_title": "【OST & 游戏原声带】歌名：《庇护所》（Sanctuary)",
+      "navigation_translation": "中文名称用于导航，原曲名及分P标题保留。"
+    },
+    {
+      "id": "BGM-CY-AC2-13",
+      "bvid": "BV1TQ4y1L7tR",
+      "part": 13,
+      "title": "Dreams of Venice",
+      "display_title": "威尼斯之梦",
+      "work": "刺客信条 II",
+      "composer": "Jesper Kyd",
+      "source_page_title": "【OST & 游戏原声带】歌名：《威尼斯之梦》（Dreams of Venice）",
+      "navigation_translation": "中文名称用于导航，原曲名及分P标题保留。"
+    },
+    {
+      "id": "BGM-CY-LR3-09",
+      "bvid": "BV1az4y1272D",
+      "part": 9,
+      "title": "Cirith Ungol",
+      "display_title": "西力斯昂哥",
+      "work": "指环王3：王者归来",
+      "composer": "Howard Shore",
+      "source_page_title": "09-Cirith Ungol",
+      "navigation_translation": "中文名称用于导航，原曲名及分P标题保留。"
+    },
+    {
+      "id": "BGM-CY-LR3-06",
+      "bvid": "BV1az4y1272D",
+      "part": 6,
+      "title": "Minas Morgul",
+      "display_title": "米那斯魔窟",
+      "work": "指环王3：王者归来",
+      "composer": "Howard Shore",
+      "source_page_title": "06-Minas Morgul",
+      "navigation_translation": "中文名称用于导航，原曲名及分P标题保留。"
+    }
+  ]
+}

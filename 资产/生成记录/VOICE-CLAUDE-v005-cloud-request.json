@@ -1,0 +1,12 @@
+{
+  "provider": "LibTV",
+  "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+  "tool": "synthesize_speech",
+  "idempotencyKey": "chuanyun-claude-v005-soft-girl-20261021",
+  "model": "Minimax-speech-2.8-hd",
+  "voiceId": "Chinese (Mandarin)_Soft_Girl",
+  "text": "别碰她！",
+  "intent": "云端现成柔和少女声，比较自然音高和吐字。无高音/中高声区/尖细要求，无已失败VoxCPM参考上传。",
+  "scope": "只生成一句一个候选，不批量合成、不自动克隆音色。",
+  "note": "synthesize_speech仅接受模型、音色和文本，使用服务默认设置，不宣称已设置独立情绪或音高控制。"
+}

@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115149207525978112",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "教堂队伍抱人离场夜行",
+    "status": "succeeded",
+    "created_at": 1793125843,
+    "updated_at": 1793125865,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115149207525978112/content?expires=1793730695&signature=bf09addf9b4103bf4623a77158a841dd8312ba74e733cfdc5d8e7968806cd969"
+    },
+    "resolution": "768P",
+    "duration": 6,
+    "usage": {
+      "total_seconds": 6,
+      "input_seconds": 0,
+      "output_seconds": 6,
+      "input_image_count": 5
+    },
+    "ratio": "16:9",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

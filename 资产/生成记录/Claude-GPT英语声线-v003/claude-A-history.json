@@ -1,0 +1,106 @@
+{
+  "prompt": [
+    12,
+    "beca0fae-f95b-413b-8850-a950892abe72",
+    {
+      "1": {
+        "class_type": "BreezeTTS2LoadModel",
+        "inputs": {
+          "model": "bf16 (best quality)",
+          "dtype": "bf16",
+          "device": "cuda",
+          "attention": "sdpa",
+          "decode_mode": "eager",
+          "download_if_missing": false
+        }
+      },
+      "2": {
+        "class_type": "BreezeTTS2VoiceDesign",
+        "inputs": {
+          "breeze_model": [
+            "1",
+            0
+          ],
+          "text": "Thank you. What are you doing here? The little girl...",
+          "instruction": "Create the distinctive feminine voice of a young adult heroine in a Japanese fantasy anime, speaking clear English. A delicate, bell-clear tone with warmth underneath, musical phrasing and expressive little changes at phrase endings. The voice belongs to an animated heroine, not a live-action child. Thank you is gently reserved; What are you doing here reveals sudden concern; The little girl trails into a worried thought. Keep one recognizable voice throughout. Brief pauses between sentences; speak only the supplied words.",
+          "cfg_scale": 4.0,
+          "max_new_tokens": 256,
+          "temperature": 0.9,
+          "top_k": 50,
+          "top_p": 1.0,
+          "repetition_penalty": 1.1,
+          "depth_temperature": 0.9,
+          "depth_top_k": 50,
+          "depth_top_p": 1.0,
+          "seed": 20261028
+        }
+      },
+      "3": {
+        "class_type": "SaveAudio",
+        "inputs": {
+          "audio": [
+            "2",
+            0
+          ],
+          "filename_prefix": "audio/BreezeTTS2/WhiteRice-Anime-v003/claude-A"
+        }
+      }
+    },
+    {
+      "client_id": "white-rice-heroines-anime-v003",
+      "create_time": 1792991382420
+    },
+    [
+      "3"
+    ]
+  ],
+  "outputs": {
+    "3": {
+      "audio": [
+        {
+          "filename": "claude-A_00001.flac",
+          "subfolder": "audio\\BreezeTTS2\\WhiteRice-Anime-v003",
+          "type": "output"
+        }
+      ]
+    }
+  },
+  "status": {
+    "status_str": "success",
+    "completed": true,
+    "messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "beca0fae-f95b-413b-8850-a950892abe72",
+          "timestamp": 1792991382421
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [
+            "1"
+          ],
+          "prompt_id": "beca0fae-f95b-413b-8850-a950892abe72",
+          "timestamp": 1792991382421
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "beca0fae-f95b-413b-8850-a950892abe72",
+          "timestamp": 1792991391552
+        }
+      ]
+    ]
+  },
+  "meta": {
+    "3": {
+      "node_id": "3",
+      "display_node": "3",
+      "parent_node": null,
+      "real_node_id": "3"
+    }
+  }
+}

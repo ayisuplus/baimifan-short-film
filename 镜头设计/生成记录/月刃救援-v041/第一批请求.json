@@ -1,0 +1,23 @@
+[
+  {
+    "id": "KIMI双刃",
+    "refs": [
+      "镜头设计/图像/月光救赎-v032/CY024A1-v032-r1.png"
+    ],
+    "prompt": "Create a refined anime fantasy weapon-and-character reference, landscape single full-body Kimi on a neutral dark slate background, based EXACTLY on reference woman's identity, silver-lilac long hair, small silver crown black bows rainbow hair ornament, white dress black corset navy star moon shawl, K medallion, unchanged colors. She stands naturally holding TWO practical one-handed crescent CURVED SWORDS, one in EACH hand, blade about forearm plus hand length, ordinary grip and small crescent guard, not chakrams/not giant rings. Anatomical RIGHT hand holds the DARK moon saber: obsidian matte blade with a hairline silver cutting edge. Anatomical LEFT hand holds the BRIGHT moon saber: silver-white blade with a restrained pearly glow. Both share same elegant crescent curve silhouette. Keep fingers distinct gripping hilts, tips pointed down away from body. Full head-to-shoes visible. No text, labels, panels or watermark. This is supporting weapon reference, not new costume."
+  },
+  {
+    "id": "CY024",
+    "refs": [
+      "镜头设计/图像/天瀑空间-v014/CY024-v014-r3.png"
+    ],
+    "prompt": "Edit this exact anime cinematic image minimally. REMOVE ONLY Kimi: the silver-lilac-haired woman in navy moon-and-stars dress, second from RIGHT, between the purple-haired small girl and far-right teal-haired staff woman. Fill her space naturally with the existing doorway/cathedral and unobstructed floor; do not replace her with anyone. Preserve the white dragon heroine front center, every other ally identity, exact costumes, poses, perspective, moonlit open door, broken masonry, warm lighting. Kimi is entering separately elsewhere and must be absent here. No text. Maintain original widescreen framing."
+  },
+  {
+    "id": "CY027F",
+    "refs": [
+      "镜头设计/图像/展翼与扇叶-v033/CY027F-v033-r1.png"
+    ],
+    "prompt": "Edit this exact image minimally. REMOVE ONLY Kimi, the far RIGHT standing silver-haired navy star-moon-cloak woman touching the seated purple girl's shoulder. Remove her hand as well. Fill with existing cathedral floor, columns, dark depth naturally. Preserve ALL other characters including purple girl, teal staff woman, dragon heroine, Qwen holding blue baby, fallen priest foregroundleft, knights, broken central roof, water and moon. Kimi is already far away on the altar outside this shot. Do not add replacements or alter other identities. No text, preserve widescreen composition."
+  }
+]

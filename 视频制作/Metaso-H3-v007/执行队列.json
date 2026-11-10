@@ -1,0 +1,998 @@
+{
+  "model": "MiniMax-H3",
+  "resolution": "768P",
+  "ratio": "16:9",
+  "spending_ceiling_credits": 1000,
+  "authorization": "用户要求修正九张截图并明确继续；延续已授权Metaso H3局部补拍范围，修完待作者核定后再查全片",
+  "items": [
+    {
+      "attempt_id": "GB011-v007-Claude-style-audio-r1",
+      "batch_number": 13,
+      "batch_id": "GB011-1+GB011-2",
+      "duration": 11,
+      "mode": "reference_with_selected_audio",
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/Claude-原片风格.png",
+          "role": "reference_image",
+          "sha256": "9110a2b7b9a863f56d52fe803d3989890707b3277e2ff2f5d30cf5417bf171ed",
+          "purpose": "当前相邻原片的身份、服装、渲染和光影唯一视觉基准"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/Claude-两种表演原声.wav",
+          "role": "reference_audio",
+          "sha256": "3903b716581af55af3497040560caf82480de86ea97d8c6a3e09910c85e45dc0",
+          "seconds": 11,
+          "purpose": "作者已选实际声音，包含真实停顿及对位静音"
+        }
+      ],
+      "prompt": "严格延续Image 1原片的高细节二次元三维渲染与精细插画融合质感：细密发丝、柔和皮肤体积、蕾丝与刺绣、木纹和真实空间景深、冷蓝窗光与暖烛边光。不要重画成平涂赛璐璐、粗线漫画或廉价2D动画，不换脸型、五官年龄、服装和饰物位置。即使嘴动也要保持原片的面部立体光影。\n11秒连续近景，Claude仍双腕受缚在高坛横木，脚下柴未点燃，不出现释放、松链、流血、火烧或其他人。保持Image1的花饰、头纱、露肩白金蕾丝衣裙与黑胸结；镜头完整看见头顶到胸前，双腕边缘保留，禁止极端裁脸和持续推近。摄影机位于台阶下略仰拍，Claude视线落在右下方父亲与更低处的小鱼。\nAudio 1从0秒原样播放，是唯一台词与口型逐时刻基准。第一句その子に触らないで！在约1秒开始，喊声坚决愤怒，眉眼用力，不能带笑；真实起止以音频为准。之后闭口，眼神追随孩子在阶下失衡，身体仍被束缚，只有肩膀挣动。源片4.75秒进入第二种表演，目光转向父亲，约5.15秒后的音频说お父様……その子を逃がして。称呼后的长停顿必须闭唇，眼神由愤怒变为忍住恐惧的恳求，第二半句再开口，不能从头到尾循环张嘴。说完闭口等待至11秒；无新增词、气词或第二人声。\n全程只有同一Claude近景；没有切镜、换景、字幕、BGM；发丝轻微摆动，面部清晰，不摇头遮嘴。前0–4.75秒和后4.75–10.75秒分别需要成为可独立剪用的连续表演，4.75秒处嘴闭可安全切点。",
+      "estimated_credits": 112.2,
+      "status": "downloaded_candidate",
+      "acceptance": [
+        "原片画风/面部/服装不跳变",
+        "音频发声时嘴动、静音时闭口",
+        "眼神和受缚或站立状态符合剧情",
+        "存在完整可用的目标时长"
+      ],
+      "change_reason": "作者截图明确否定上一轮画风与口型；只修定点区间",
+      "submit_started": "2026-10-28T16:40:01+0800",
+      "task_id": "2115362962127663104",
+      "local_path": "视频制作/Metaso-H3-v007/产物/GB011-v007-Claude-style-audio-r1.mp4",
+      "sha256": "d985b25af33727061b6f7e5c9a21f96b080484481decd35121219b963c64fcf2",
+      "bytes": 11196617,
+      "review_decision": "rejected",
+      "review_reason": "开头凭空出现鱼形物体；原参考边缘小鱼帽子被误解，不能直接采用。"
+    },
+    {
+      "attempt_id": "GB010-v007-father-style-audio-r1",
+      "batch_number": 12,
+      "batch_id": "GB010",
+      "duration": 6,
+      "mode": "reference_with_selected_audio",
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/教主-原片风格.png",
+          "role": "reference_image",
+          "sha256": "7d7755947dcc47d956c9bb86a70e58ab8e931b1b31fd6873775346f2c10450e9",
+          "purpose": "当前相邻原片的身份、服装、渲染和光影唯一视觉基准"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/教主-当前剪辑原声.wav",
+          "role": "reference_audio",
+          "sha256": "ee9eec20fb02f8db7b829eb87efd948ac65fca993ab7745400b397564f646b86",
+          "seconds": 6,
+          "purpose": "作者已选实际声音，包含真实停顿及对位静音"
+        }
+      ],
+      "prompt": "严格延续Image 1原片的高细节二次元三维渲染与精细插画融合质感：细密发丝、柔和皮肤体积、蕾丝与刺绣、木纹和真实空间景深、冷蓝窗光与暖烛边光。不要重画成平涂赛璐璐、粗线漫画或廉价2D动画，不换脸型、五官年龄、服装和饰物位置。即使嘴动也要保持原片的面部立体光影。\n6秒教主说话近景。只留Image1棕发教主的胸像与原有深蓝高窗背景，不出现前景递杖教徒，也不出现新增火盆、人群或孩子。教主已接过紫焰权杖，左手稳握，紫焰为已有法术，不是柴火。摄影机在他侧面稍低、三分之二侧脸，脸与嘴清晰，仍有完整额头下巴和肩膀。男人从阶下转头抬眼望向画外上方受缚女儿，说我が娘よ、神がお待ちだ。不要看向地上的孩子说此句；眼神傲慢冷硬、没有笑，头部转动很小。\nAudio1是作者实际剪过的唯一原声口型时间基准，从0秒播放，包含前0.35秒静音、句中停顿与末尾等待。嘴形必须按Audio1真实发声与停顿开闭，不改字、另读或重排音频，不增加第二句。末尾闭口停住。光照和材质延续参考原片，不变成平涂漫画脸。固定中近景，无快速推镜、极端大头、切镜、字幕、BGM。",
+      "estimated_credits": 61.2,
+      "status": "downloaded_candidate",
+      "acceptance": [
+        "原片画风/面部/服装不跳变",
+        "音频发声时嘴动、静音时闭口",
+        "眼神和受缚或站立状态符合剧情",
+        "存在完整可用的目标时长"
+      ],
+      "change_reason": "作者截图明确否定上一轮画风与口型；只修定点区间",
+      "submit_started": "2026-10-28T16:40:59+0800",
+      "task_id": "2115363194694479872",
+      "local_path": "视频制作/Metaso-H3-v007/产物/GB010-v007-father-style-audio-r1.mp4",
+      "sha256": "f5f46bc04aafdf885f131bf7594f9ae209d6881ef599258f145afd25e334de44",
+      "bytes": 4625713,
+      "review_decision": "selected_ranges_v005_pending_author",
+      "adopted_ranges": [
+        {
+          "timeline_frames": [
+            3478,
+            3594
+          ],
+          "source_frames": [
+            0,
+            116
+          ],
+          "speed": 100.0
+        },
+        {
+          "timeline_frames": [
+            3594,
+            3622
+          ],
+          "source_frames": [
+            60,
+            74
+          ],
+          "speed": 50.0
+        }
+      ]
+    },
+    {
+      "attempt_id": "GB011-v007-Claude-style-audio-r2",
+      "batch_number": 13,
+      "batch_id": "GB011-1+GB011-2",
+      "duration": 11,
+      "mode": "reference_with_selected_audio",
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/Claude-修净近景.png",
+          "role": "reference_image",
+          "purpose": "r1源4.5秒实际无杂物近景；维持原片细节、脸型、光影",
+          "sha256": "5bb9f1cf2707cf098d88e3bc2c18f73e33614204165b2df6e5069a2afe86fd40"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/Claude-两种表演原声.wav",
+          "role": "reference_audio",
+          "sha256": "3903b716581af55af3497040560caf82480de86ea97d8c6a3e09910c85e45dc0",
+          "seconds": 11,
+          "purpose": "作者已选实际声音，包含真实停顿及对位静音"
+        }
+      ],
+      "prompt": "严格延续Image 1原片的高细节二次元三维渲染与精细插画融合质感：细密发丝、柔和皮肤体积、蕾丝与刺绣、木纹和真实空间景深、冷蓝窗光与暖烛边光。不要重画成平涂赛璐璐、粗线漫画或廉价2D动画，不换脸型、五官年龄、服装和饰物位置。即使嘴动也要保持原片的面部立体光影。\n11秒连续近景，Claude仍双腕受缚在高坛横木，脚下柴未点燃，不出现释放、松链、流血、火烧或其他人。保持Image1的花饰、头纱、露肩白金蕾丝衣裙与黑胸结；镜头完整看见头顶到胸前，双腕边缘保留，禁止极端裁脸和持续推近。摄影机位于台阶下略仰拍，Claude视线落在右下方父亲与更低处的小鱼。\nAudio 1从0秒原样播放，是唯一台词与口型逐时刻基准。第一句その子に触らないで！在约1秒开始，喊声坚决愤怒，眉眼用力，不能带笑；真实起止以音频为准。之后闭口，眼神追随孩子在阶下失衡，身体仍被束缚，只有肩膀挣动。源片4.75秒进入第二种表演，目光转向父亲，约5.15秒后的音频说お父様……その子を逃がして。称呼后的长停顿必须闭唇，眼神由愤怒变为忍住恐惧的恳求，第二半句再开口，不能从头到尾循环张嘴。说完闭口等待至11秒；无新增词、气词或第二人声。\n全程只有同一Claude近景；没有切镜、换景、字幕、BGM；发丝轻微摆动，面部清晰，不摇头遮嘴。前0–4.75秒和后4.75–10.75秒分别需要成为可独立剪用的连续表演，4.75秒处嘴闭可安全切点。\nImage1已是干净的Claude近景，整条片始终维持此景别，不先拉到全身、不增加任何鱼、鱼形玩偶、动物、小鱼角色、其他人或前景道具。唯一画面是被缚Claude的面部、头纱、肩胸、双腕边缘及横木。不要在最后加笑容或说新台词。",
+      "estimated_credits": 112.2,
+      "status": "downloaded_candidate",
+      "acceptance": [
+        "原片画风/面部/服装不跳变",
+        "音频发声时嘴动、静音时闭口",
+        "眼神和受缚或站立状态符合剧情",
+        "存在完整可用的目标时长"
+      ],
+      "change_reason": "只改失败条件：上一条4.5秒无杂物且材质一致的近景作唯一视觉参考，避免帽子误读",
+      "submit_started": "2026-10-28T16:50:35+0800",
+      "task_id": "2115365610558533632",
+      "provider_status": "running",
+      "local_path": "视频制作/Metaso-H3-v007/产物/GB011-v007-Claude-style-audio-r2.mp4",
+      "sha256": "d3f6e8e552d89e22b79590efd068d9c1e7396d16778214c006f5c4c84ff1012d",
+      "bytes": 12159683,
+      "review_decision": "selected_ranges_v005_pending_author",
+      "adopted_ranges": [
+        {
+          "timeline_frames": [
+            3644,
+            3758
+          ],
+          "source_frames": [
+            0,
+            114
+          ],
+          "speed": 100.0
+        },
+        {
+          "timeline_frames": [
+            3914,
+            4028
+          ],
+          "source_frames": [
+            114,
+            228
+          ],
+          "speed": 100.0
+        },
+        {
+          "timeline_frames": [
+            4028,
+            4058
+          ],
+          "source_frames": [
+            260,
+            275
+          ],
+          "speed": 50.0
+        }
+      ]
+    },
+    {
+      "attempt_id": "GB027-v007-stair-eyeline-r1",
+      "batch_number": 37,
+      "batch_id": "GB027-to-GB028",
+      "duration": 4,
+      "mode": "reference_with_selected_audio",
+      "status": "downloaded_candidate",
+      "estimated_credits": 40.8,
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/bridge-阶上.png",
+          "role": "reference_image",
+          "purpose": "Claude已解锁与GPT搀扶状态、服装、台阶",
+          "sha256": "6b90d7c42256116bc28364b9483da3adf32d387969e0119c0f9b424d77afda44"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/bridge-阶下.png",
+          "role": "reference_image",
+          "purpose": "台阶下千问怀抱小鱼的身份服装与状态",
+          "sha256": "1ff6ed0cc8714229d8f0089cdda922ce068bcf1636b008606348e469760f650c"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/bridge-Claude问孩子.wav",
+          "role": "reference_audio",
+          "purpose": "已选Claude问孩子原声，约1.51秒后闭口",
+          "sha256": "533d3dfeb73637d2b7a7477098f8ec93920fe16aecfbce14530daa8a21478885",
+          "seconds": 4
+        }
+      ],
+      "prompt": "4秒电影空间桥接镜头。严格延续Image1和Image2细密发丝、精细蕾丝金属、皮肤体积和冷蓝光的二次元三维插画融合质感，不改平涂漫画。Image1为阶上受救出的橙发Claude与扶她的白发有翼GPT；Image2为台阶下紫发千问抱着蓝帽小鱼。四个人各一个，不能融合、换服、缩小成玩具。Claude双手已经解锁，衣裙有原片焦黑边，GPT轻扶她右上臂。摄影机在Claude左后肩上方，以橙发头纱和自由垂手作近前景，向下方看见至少四级完整石阶，阶下三米处千问抱着小鱼抬头。台阶向画面右下延伸，明确高度差与安全距离。保持同一侧轴线，固定景别不切镜。Claude轻轻转头看向阶下孩子，Audio1从0秒播放她现有的あの子は……，仅Claude发声，语音1.51秒后停住；侧后机位不正面表演夸张口型，GPT和千问与孩子全部闭嘴。1.5秒后视线沿台阶停在孩子，克制呼吸，保持扶持关系至4秒，切下一镜小鱼反应。无水冲、落地瞬移、更多角色、脱衣、绑回锁链、超大法阵、字幕、BGM或额外声音。",
+      "acceptance": [
+        "上下台阶距离清楚",
+        "Claude已解锁且被GPT扶持",
+        "千问怀抱小鱼身份准确",
+        "可剪前82帧，不重复旧小鱼反应"
+      ],
+      "change_reason": "替换B37末段重复的小鱼镜及回切，先交代阶上到阶下，再接B38原反应",
+      "submit_started": "2026-10-28T16:50:41+0800",
+      "task_id": "2115365637791625216",
+      "local_path": "视频制作/Metaso-H3-v007/产物/GB027-v007-stair-eyeline-r1.mp4",
+      "sha256": "b89662eeee5f3c2b09a93c66527082e2c8b0ecb2f3cb4d4ca94dca2c3557d6ab",
+      "bytes": 3545565,
+      "review_decision": "superseded_style_rework",
+      "adopted_ranges": [
+        {
+          "record": 9699,
+          "source_frames": [
+            0,
+            82
+          ],
+          "timeline_frames": 82,
+          "speed": 100.0
+        }
+      ],
+      "review_reason": "原候选保留作历史；当前v005使用真正二维重绘输入生成的v009局部。不得根据旧提示词再执行。"
+    },
+    {
+      "attempt_id": "GB004M-v007-early-devil-audio-r1",
+      "batch_number": 5,
+      "batch_id": "GB004M-devil",
+      "duration": 4,
+      "mode": "reference_with_selected_audio",
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/early-devil-style-crop.png",
+          "role": "reference_image",
+          "sha256": "7fc8549b7cf029ca4a6f688584e6c4c9cfb39f2f8ca45b2ea303c0cfc5a562c0",
+          "purpose": "已实际看过的原片渲染、角色与空间基准；裁切不重绘",
+          "provenance": {
+            "source": "视频制作/LibTV-H3-v001/产物/GB004M-H3-v001.mp4",
+            "source_seconds": 2.5,
+            "filter": "crop=640:640:0:128"
+          }
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/early-devil-selected-padded.wav",
+          "role": "reference_audio",
+          "sha256": "a90acb54ac4463551d4d760e3d869e7d07ca1a80147c20fc0d81cec02c7f4039",
+          "seconds": 4,
+          "purpose": "作者已选实际配音，原速完整，仅加首尾静音；Audio1从0秒播放",
+          "provenance": {
+            "cue_id": "VO-CY008M-01",
+            "working_source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY008M-01-工作源.wav",
+            "original_source": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\声音\\王宫内心戏-v001\\VO-CY008M-01__恶魔GPT__ja__v001.wav",
+            "working_source_sha256": "5a1b4899546a8c2a9ee2a0297048ba460ac44e667c783f41a16a62bc6e4d2be6",
+            "leading_padding_frames": 6,
+            "speech_source_samples": 171840,
+            "sample_rate": 48000,
+            "gain_db": 0,
+            "speed": 1
+          }
+        }
+      ],
+      "prompt": "延续Image 1原片的高细节二次元三维渲染与精细插画融合：细密发丝、柔和皮肤体积、真实布料厚度、蕾丝刺绣、精密金饰、石材和真实景深。不得更平涂，不改成赛璐璐、粗线漫画或低细节2D。五官年龄、头身比例、发色、服装、帽子或角和翅膀完全沿原片。16:9，全程连续单镜，嘴与眼睛清晰，不变脸，不增角色，不加字幕、BGM或新台词。\n只拍Image1前景红角、红蝠翼、白金小礼裙的恶魔GPT分身。她首帧已经完整在画面内，中近景到膝上，头角与蝠翼不裁断，位于左中，朝画面右方提醒另一分身。背景仅保留柔焦侧躺的成人GPT局部与紫金软垫，不另出现天使，成人始终闭口。0–0.25秒恶魔闭嘴瞥向右边；Audio1唯一原声从0秒播放，实际话音从0.25秒开始，日语为「協定を忘れないで。教会のことに手を出しちゃだめ。」冷硬提醒而非卖萌，逐音节匹配口型，句间真实停顿闭嘴。约3.83秒说完，闭嘴保持到4秒。不改语速，不另读，不做开场进场，不循环开口；保持手臂交叠，只一个克制的眉眼加重。",
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "acceptance": [
+        "首帧人物已入画",
+        "仅恶魔嘴随完整选声开闭",
+        "保留原片立体材质与身份",
+        "连续96帧可用"
+      ],
+      "change_reason": "仅用户截图定点返修；不改全片总长，不整批重做",
+      "edit_mapping": {
+        "replace_clip": "B05_GB004M_01",
+        "original_source": "视频制作/LibTV-H3-v001/产物/GB004M-H3-v001.mp4",
+        "original_source_frames": [
+          0,
+          96
+        ],
+        "candidate_source_frames": [
+          0,
+          96
+        ],
+        "timeline_frames": [
+          1282,
+          1378
+        ],
+        "timeline_seconds": [
+          53.416666666666664,
+          57.416666666666664
+        ],
+        "candidate_speed_percent": 100,
+        "voice_record_frame": 1288,
+        "timeline_delta_frames": 0
+      },
+      "submit_started": "2026-10-28T16:56:36+0800",
+      "task_id": "2115367123309113344",
+      "local_path": "视频制作/Metaso-H3-v007/产物/GB004M-v007-early-devil-audio-r1.mp4",
+      "sha256": "4c3f0657e63bc069fe41420b9b642ca4555142676d1de31c485dd6e420cdd6e3",
+      "bytes": 1873600,
+      "review_decision": "selected_ranges_v005_pending_author",
+      "adopted_ranges": [
+        {
+          "timeline_frames": [
+            1282,
+            1378
+          ],
+          "source_frames": [
+            0,
+            96
+          ],
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "attempt_id": "GB004M-v007-early-angel-audio-r1",
+      "batch_number": 5,
+      "batch_id": "GB004M-angel",
+      "duration": 11,
+      "mode": "reference_with_selected_audio",
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/early-angel-style-crop.png",
+          "role": "reference_image",
+          "sha256": "e6e4a3352f8f747703b0254350c92d5675e0bdfd9fa1f6c2cf7574a3f1bbb8db",
+          "purpose": "已实际看过的原片渲染、角色与空间基准；裁切不重绘",
+          "provenance": {
+            "source": "视频制作/LibTV-H3-v001/产物/GB004M-H3-v001.mp4",
+            "source_seconds": 8,
+            "filter": "crop=640:640:704:128"
+          }
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/early-angel-selected-padded.wav",
+          "role": "reference_audio",
+          "sha256": "480574dc9b1dc2135502e2e7f0ce482820e07393f48f20c62fb21dc4c8789ffa",
+          "seconds": 11,
+          "purpose": "作者已选实际配音，原速完整，仅加首尾静音；Audio1从0秒播放",
+          "provenance": {
+            "cue_id": "VO-CY008M-02",
+            "working_source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY008M-02-工作源.wav",
+            "original_source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY008M-02__AngelGPT__ja__v004.wav",
+            "working_source_sha256": "e1b7523cf3aad26bc6342e97d4821ac53f6160c7a15c5ef66e07f3ba0aebf7ba",
+            "leading_padding_frames": 1,
+            "speech_source_samples": 480479,
+            "sample_rate": 48000,
+            "gain_db": 0,
+            "speed": 1
+          }
+        }
+      ],
+      "prompt": "延续Image 1原片的高细节二次元三维渲染与精细插画融合：细密发丝、柔和皮肤体积、真实布料厚度、蕾丝刺绣、精密金饰、石材和真实景深。不得更平涂，不改成赛璐璐、粗线漫画或低细节2D。五官年龄、头身比例、发色、服装、帽子或角和翅膀完全沿原片。16:9，全程连续单镜，嘴与眼睛清晰，不变脸，不增角色，不加字幕、BGM或新台词。\n只拍Image1前景白角、光环、白羽翅膀的天使GPT分身，中近景，全部光环和头顶保留，位于右中，望向画外左边恶魔。背景只有虚焦成人GPT衣袖、紫金软垫；成人不说话、不出现恶魔。首帧天使已在画面中；Audio1从0秒播放，前1/24秒静音，随后立即说「でも、この子を見てよ……あの人たち、正気なの？本当にクロードを焼き殺そうとしてるんだよ！」以音频每个实际起止、停顿为口型基准，不能等三秒才张嘴。情绪先心疼孩子再对处刑愤怒，眉眼变化清楚，双手由胸口轻攥至一手朝画外孩子方向指示，身体不大幅晃动。约10.052秒话音结束，立即闭嘴，余下至11秒保持担忧的凝视。保持声音完整原速，不添笑声气词，不循环说话；0–10.9167秒必须完整可剪用。",
+      "estimated_credits": 112.2,
+      "status": "downloaded_candidate",
+      "acceptance": [
+        "从第1帧后即随选声发声，不延迟开口",
+        "10.01秒完整原声保留",
+        "无另一分身抢口型",
+        "头顶光环完整且高细节风格一致"
+      ],
+      "change_reason": "仅用户截图定点返修；不改全片总长，不整批重做",
+      "edit_mapping": {
+        "replace_clip": "B05_GB004M_02",
+        "original_source": "视频制作/LibTV-H3-v001/产物/GB004M-H3-v001.mp4",
+        "original_source_frames": [
+          96,
+          358
+        ],
+        "candidate_source_frames": [
+          0,
+          262
+        ],
+        "unused_candidate_tail_frames": [
+          262,
+          264
+        ],
+        "timeline_frames": [
+          1378,
+          1640
+        ],
+        "timeline_seconds": [
+          57.416666666666664,
+          68.33333333333333
+        ],
+        "candidate_speed_percent": 100,
+        "voice_record_frame": 1379,
+        "timeline_delta_frames": 0
+      },
+      "submit_started": "2026-10-28T16:56:41+0800",
+      "task_id": "2115367145847599104",
+      "local_path": "视频制作/Metaso-H3-v007/产物/GB004M-v007-early-angel-audio-r1.mp4",
+      "sha256": "ef8eacf0e9884a0bfdb54dc476cdf50135273a257bb57f90dae2007401f5f2c8",
+      "bytes": 7924585,
+      "review_decision": "selected_ranges_v005_pending_author",
+      "adopted_ranges": [
+        {
+          "timeline_frames": [
+            1378,
+            1640
+          ],
+          "source_frames": [
+            0,
+            262
+          ],
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "attempt_id": "GB005-v007-early-decision-audio-r1",
+      "batch_number": 6,
+      "batch_id": "GB005-first5",
+      "duration": 5,
+      "mode": "reference_with_selected_audio",
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/early-xiaoyu-original.png",
+          "role": "reference_image",
+          "sha256": "66e7fe07e9fd8f4fc0cd9b9cb813a7fc0fbb41479adad42f1ff886c05fd7352c",
+          "purpose": "已实际看过的原片渲染、角色与空间基准；裁切不重绘",
+          "provenance": {
+            "source": "视频制作/Metaso-H3-v003/剪辑候选/GB005-v003.mp4",
+            "source_seconds": 1,
+            "filter": null
+          }
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/early-xiaoyu-selected-padded.wav",
+          "role": "reference_audio",
+          "sha256": "cb1c3a4fab9af95ccea237dd6b7a6b46f2f66952e67f4e4f4272da5e9eec49d4",
+          "seconds": 5,
+          "purpose": "作者已选实际配音，原速完整，仅加首尾静音；Audio1从0秒播放",
+          "provenance": {
+            "cue_id": "VO-CY009-01",
+            "working_source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY009-01-工作源.wav",
+            "original_source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\成品-v001\\干声\\VO-CY009-01__Xiaoyu__ja__v001.wav",
+            "working_source_sha256": "dc8eb8ce314f4a62d2b97f2da95b376a3d214b0c9a63e36fd579148c784faad9",
+            "leading_padding_frames": 7,
+            "speech_source_samples": 81600,
+            "sample_rate": 48000,
+            "gain_db": 0,
+            "speed": 1
+          }
+        }
+      ],
+      "prompt": "延续Image 1原片的高细节二次元三维渲染与精细插画融合：细密发丝、柔和皮肤体积、真实布料厚度、蕾丝刺绣、精密金饰、石材和真实景深。不得更平涂，不改成赛璐璐、粗线漫画或低细节2D。五官年龄、头身比例、发色、服装、帽子或角和翅膀完全沿原片。16:9，全程连续单镜，嘴与眼睛清晰，不变脸，不增角色，不加字幕、BGM或新台词。\nImage1的小鱼在同一数学宫殿，背景成人GPT仍头左脚右侧躺软榻，宫门在摄影机身后，宫灯、几何吊灯、地面透视均沿原片。摄影机处于孩子高度，起始是小鱼胸上中近景，完整鲸鱼帽及嘴清楚。她已经向宫门转身，停步，眼睛微红，回头望画外身后GPT，不是对着观众说。0–0.291667秒抬眼压住委屈，嘴闭；Audio1从0秒播放，从0.291667秒起说「じゃあ、自分で行く。」1.7秒完整台词、日语口型按真实原声，声音约1.992秒结束。停0.3秒，闭嘴咽回情绪；随后把脸转回前方、擦一次眼泪，朝摄影机身后的宫门迈出坚定小步。摄影机平滑短距离后退到中景，保持人物比例，不穿帮瞬移。4.5–5秒留孩子步子与裙边落下的可剪点，接原片GPT搓手特写。不要边走边持续闭眼，不要长时间擦脸遮嘴，不出现额外动作或对白。",
+      "estimated_credits": 51.0,
+      "status": "downloaded_candidate",
+      "acceptance": [
+        "真实1.7秒选声只后移7帧，其他声音不动",
+        "决定与转身离开的情绪可读",
+        "嘴部不被擦泪遮挡",
+        "后续手部与送别原片保留"
+      ],
+      "change_reason": "仅用户截图定点返修；不改全片总长，不整批重做",
+      "edit_mapping": {
+        "replace_clip_partial": "B06_GB005_01",
+        "original_source": "视频制作/Metaso-H3-v003/剪辑候选/GB005-v003.mp4",
+        "original_source_frames": [
+          0,
+          120
+        ],
+        "candidate_source_frames": [
+          0,
+          120
+        ],
+        "timeline_frames": [
+          1640,
+          1760
+        ],
+        "timeline_seconds": [
+          68.33333333333333,
+          73.33333333333333
+        ],
+        "keep_original_source_frames": [
+          120,
+          270
+        ],
+        "keep_timeline_frames": [
+          1760,
+          1910
+        ],
+        "candidate_speed_percent": 100,
+        "voice_record_frame_before": 1640,
+        "voice_record_frame_after": 1647,
+        "voice_shift_frames": 7,
+        "timeline_delta_frames": 0
+      },
+      "submit_started": "2026-10-28T16:56:46+0800",
+      "task_id": "2115367167817625600",
+      "local_path": "视频制作/Metaso-H3-v007/产物/GB005-v007-early-decision-audio-r1.mp4",
+      "sha256": "354e14f4fc746f449d30a49d6b0e6c655707de039ddc47039738fba6d21ac168",
+      "bytes": 5028439,
+      "review_decision": "selected_ranges_v005_pending_author",
+      "adopted_ranges": [
+        {
+          "timeline_frames": [
+            1640,
+            1694
+          ],
+          "source_frames": [
+            0,
+            54
+          ],
+          "speed": 100.0
+        }
+      ]
+    },
+    {
+      "attempt_id": "GB006-v007-early-inside-bridge-r1",
+      "batch_number": 7,
+      "batch_id": "GB006-inside-transition",
+      "duration": 4,
+      "mode": "reference_only",
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/early-hole-original.png",
+          "role": "reference_image",
+          "sha256": "28a7c3cf26b620dead361c6e1ec3ef7a432bee4758166f7b1128591d5c9e32fb",
+          "purpose": "已实际看过的原片渲染、角色与空间基准；裁切不重绘",
+          "provenance": {
+            "source": "视频制作/LibTV-H3-v001/产物/GB006-H3-v001.mp4",
+            "source_seconds": 9.5,
+            "filter": null
+          }
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/early-church-original.png",
+          "role": "reference_image",
+          "sha256": "ecf30168affa0e82226f9404a9d78ef891eb91885b7d01a86ce4855297775eb8",
+          "purpose": "已实际看过的原片渲染、角色与空间基准；裁切不重绘",
+          "provenance": {
+            "source": "视频制作/LibTV-H3-v001/产物/GB006-H3-v001.mp4",
+            "source_seconds": 12,
+            "filter": null
+          }
+        }
+      ],
+      "prompt": "延续Image 1原片的高细节二次元三维渲染与精细插画融合：细密发丝、柔和皮肤体积、真实布料厚度、蕾丝刺绣、精密金饰、石材和真实景深。不得更平涂，不改成赛璐璐、粗线漫画或低细节2D。五官年龄、头身比例、发色、服装、帽子或角和翅膀完全沿原片。16:9，全程连续单镜，嘴与眼睛清晰，不变脸，不增角色，不加字幕、BGM或新台词。\n这是连接Image1挤洞末态和Image2教堂地面空间的低机位内侧过渡。Image1锁定鲸鱼帽、小鱼脸和石洞样式；Image2仅锁定室内冷蓝窗光、暖边光、湿石地材质与祭坛在远处高位的方向，不把宽景全部重演。只见一个小鱼，镜头在墙洞内侧接近地面，三分之二侧身，墙洞在画面左后；她从左后洞口向画面右前进入室内。0–1秒小鱼双手已越过内侧石沿，鲸鱼帽软侧鳍刚脱离石沿，身体仍低伏。关键可剪段1–3秒：她用双手撑内侧地面，两膝从洞口滑入、落地，重心确实移入室内，随后稍抬头，目光朝画外右上方高坛。保持同一方向，不翻转墙洞侧别。3–4秒静静抬眼保持，供剪接远处高坛全景；不站起跑走，不登阶，不出现另一个孩子。全程没有对白、不做说话口型；只允许闭嘴紧张呼吸动作。无字幕、无音乐。这个镜头不显示火堆，不改变Claude受缚状态；保持原片高细节3D二次元体积，帽子不变成动物头，短腿毛边靴与蓝白衣裙不变。",
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "acceptance": [
+        "候选1–3秒内完成落地及抬眼，不能拖到3秒以后",
+        "墙洞/身体方向不翻转、没有克隆孩子",
+        "大厅稳定段与登阶接点保持",
+        "现有对白、音乐、音效绝对时码不移动"
+      ],
+      "change_reason": "仅用户截图定点返修；不改全片总长，不整批重做",
+      "edit_mapping": {
+        "replace_clip_partial": "B07_v003_church_space_01",
+        "original_source": "视频制作/LibTV-H3-v001/产物/GB006-H3-v001.mp4",
+        "original_source_frames": [
+          240,
+          312
+        ],
+        "original_timeline_frames": [
+          2126,
+          2234
+        ],
+        "candidate_source_frames": [
+          24,
+          72
+        ],
+        "timeline_frames": [
+          2126,
+          2174
+        ],
+        "timeline_seconds": [
+          88.58333333333333,
+          90.58333333333333
+        ],
+        "candidate_speed_percent": 100,
+        "unused_candidate_handles_frames": [
+          [
+            0,
+            24
+          ],
+          [
+            72,
+            96
+          ]
+        ],
+        "remaining_original": {
+          "source_frames": [
+            264,
+            312
+          ],
+          "timeline_frames": [
+            2174,
+            2234
+          ],
+          "speed_percent": 80,
+          "note": "稳定大厅源11–13秒48帧放为60帧，仅作轻微减速；先逐帧检查，无镜像跳变才采用"
+        },
+        "keep_next_clip": "B07_GB006_03",
+        "keep_next_timeline_frames": [
+          2234,
+          2306
+        ],
+        "voice_changes": [],
+        "timeline_delta_frames": 0
+      },
+      "submit_started": "2026-10-28T16:56:52+0800",
+      "task_id": "2115367196870520832",
+      "local_path": "视频制作/Metaso-H3-v007/产物/GB006-v007-early-inside-bridge-r1.mp4",
+      "sha256": "aadc2c3c019996f65d3114687c4f3dff9aaab07720e2fffe5121a9cdb4ac2bf2",
+      "bytes": 5606832,
+      "review_decision": "superseded_style_rework",
+      "adopted_ranges": [
+        {
+          "record": 2126,
+          "source_frames": [
+            24,
+            72
+          ],
+          "timeline_frames": 48,
+          "speed": 100.0
+        }
+      ],
+      "review_reason": "原候选保留作历史；当前v005使用真正二维重绘输入生成的v009局部。不得根据旧提示词再执行。"
+    },
+    {
+      "attempt_id": "GB014-v007-group-entry-style-audio-r1",
+      "batch_number": 17,
+      "batch_id": "GB014",
+      "duration": 5,
+      "timeline_replace_frames": [
+        4778,
+        4838
+      ],
+      "use_candidate_frames": [
+        24,
+        84
+      ],
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/late-B17-group-original.png",
+          "role": "reference_image",
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB014-v002.mp4",
+          "source_second": 2.5,
+          "purpose": "群像身份、服装、持物、门口环境及原片渲染基准",
+          "reviewed_evidence": "后期/截图定点修正-v004/证据/late-B17-actualsource-2fps.jpg",
+          "sha256": "d45f1f8fe42b6ffafddaf80196924b91e40bb7dc1098a86900b3db5dc320e9ac"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/late-B17-GPT-selected.wav",
+          "role": "reference_audio",
+          "seconds": 5,
+          "purpose": "作者原选工作声音；只添加静音，不变速、不换音色、不重新合成",
+          "parts": [
+            {
+              "id": "VO-CY024-01",
+              "offset_seconds": 1.3333333333333333,
+              "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024-01-工作源.wav",
+              "speaker": "GPT",
+              "zh": "护住她们。",
+              "ja": "二人を守って。"
+            }
+          ],
+          "sha256": "84da49fe41e18be1fb3c332c321694fc1adad26c37044fda0ed127bf54028c5d"
+        }
+      ],
+      "prompt": "严格继承Image1原片高细节二次元三维渲染与精细插画融合质感：细密发丝、柔和皮肤体积、原有蕾丝刺绣和衣料厚度、真实空间景深、冷蓝窗光与克制暖光。不改成平涂赛璐璐、粗线漫画，不改变脸型、年龄、衣服、饰品、武器或翅膀。优化构图和表演，不另换美术风格。\n5秒连续门口入场，门已经破开，不再开门或踹门。保持Image1全部既定人物身份和武器，不增删换装。摄影机仍在殿内看门口、低位微偏侧，门边破木作前景，GPT在队伍前方，伙伴形成前中后三层而非横排摆拍。前1秒准备和视线确认；1至3.5秒必须是一段完整可独立剪用的入场和命令：GPT向殿内迈半步，目光看向受困者方向，伙伴向两翼警戒。只有中央白发双角GPT说Audio1中的二人を守って，声音从1.333333秒起、真实发声以音频为准；其他人嘴闭。说完闭唇，3.5至5秒保持同一受威胁方向的警戒供剪辑余量。命令要短促坚决、不微笑、不看摄影机。动作正常速度、腿脚受力真实，不慢动作、不整齐走秀、不新增台词或音乐，不切镜。",
+      "mode": "reference_with_selected_audio",
+      "estimated_credits": 51.0,
+      "status": "downloaded_candidate",
+      "change_reason": "作者截图定点返修，保持现时间线总帧数；候选需视觉和口型复核",
+      "acceptance": [
+        "原片身份、服装、画风连续",
+        "原选声音与发声/闭口节奏匹配",
+        "动作因果和相邻镜头空间连续",
+        "use_candidate_frames可完整覆盖目标窗口，不借变速修嘴",
+        "保留既有音轨，不采用模型另造的人声"
+      ],
+      "submit_started": "2026-10-28T17:01:23+0800",
+      "task_id": "2115368334851256320",
+      "local_path": "视频制作/Metaso-H3-v007/产物/GB014-v007-group-entry-style-audio-r1.mp4",
+      "sha256": "b68ba8ac98da777fe98de43e8d22c2e81057fce718370ac3a54ad9b21ffe3da7",
+      "bytes": 6195439,
+      "review_decision": "superseded_style_rework",
+      "adopted_ranges": [
+        {
+          "record": 4778,
+          "source_frames": [
+            24,
+            84
+          ],
+          "timeline_frames": 60,
+          "speed": 100.0
+        }
+      ],
+      "review_reason": "原候选保留作历史；当前v005使用真正二维重绘输入生成的v009局部。不得根据旧提示词再执行。"
+    },
+    {
+      "attempt_id": "GB014A-v007-kimi-window-style-audio-r1",
+      "batch_number": 18,
+      "batch_id": "GB014A",
+      "duration": 9,
+      "timeline_replace_frames": [
+        5018,
+        5229
+      ],
+      "use_candidate_frames": [
+        0,
+        211
+      ],
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/late-B18-kimi-original.png",
+          "role": "reference_image",
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB014A-v002.mp4",
+          "source_second": 4.5,
+          "purpose": "Kimi原片身份、服装、明暗双刃左右手与侧面窗位置",
+          "reviewed_evidence": "后期/截图定点修正-v004/证据/late-B18-actualsource-2fps.jpg",
+          "sha256": "de9f9330eb410b12eaaea34d428a4c250dac82be94b8f4ae88a79ebbecee9630"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/late-B18-window-space.png",
+          "role": "reference_image",
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB014A-v002.mp4",
+          "source_second": 3.5,
+          "purpose": "只用于窗外位置、窗框比例和面朝玻璃的空间关系，不重复凝形",
+          "reviewed_evidence": "后期/截图定点修正-v004/证据/late-B18-actualsource-2fps.jpg",
+          "sha256": "9ca10433cced2b6cb34a7e07c2f4338dcf058f68060f583ab2adbbdd0d354ebc"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/late-B18-Kimi-selected.wav",
+          "role": "reference_audio",
+          "seconds": 9,
+          "purpose": "作者原选工作声音；只添加静音，不变速、不换音色、不重新合成",
+          "parts": [
+            {
+              "id": "VO-CY024K0-01",
+              "offset_seconds": 0,
+              "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024K0-01-工作源.wav",
+              "speaker": "Kimi",
+              "zh": "请循此刃的银辉，",
+              "ja": "この刃の銀の光をたどり、"
+            },
+            {
+              "id": "VO-CY024K0-02",
+              "offset_seconds": 3.7083333333333335,
+              "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024K0-02-工作源.wav",
+              "speaker": "Kimi",
+              "zh": "为我开启通往彼端的门扉——",
+              "ja": "彼方へと通じる扉を、我に開け——"
+            }
+          ],
+          "sha256": "2da01b4e455be2cc22922262570d2fc8443ed15d53151e8651ce303ff2d050ea"
+        }
+      ],
+      "prompt": "严格继承Image1原片高细节二次元三维渲染与精细插画融合质感：细密发丝、柔和皮肤体积、原有蕾丝刺绣和衣料厚度、真实空间景深、冷蓝窗光与克制暖光。不改成平涂赛璐璐、粗线漫画，不改变脸型、年龄、衣服、饰品、武器或翅膀。优化构图和表演，不另换美术风格。\n9秒Kimi窗外请门和甩刃。承接她已经在教堂正后中央高窗外凝实，人物朝向同一玻璃，镜头在她窗外侧后方看三分之二侧脸，窗棂保留在画面右缘。左手明刃抬肩旁，右手暗刃低持，绝不左右互换。Audio1是Kimi唯一台词与口型基准，从0秒播放。0秒开始请循此刃的银辉，3.708333秒起为我开启通往彼端的门扉，完整日语原声及真实停顿以Audio1为准，不另读中文，不添加第一句或月影渡。嘴部只在实际发声时运动。0至4秒侧脸与明刃近景，轻收近但保留肩和手；4至7.7秒摄影机同侧滑向肩后，越刀锋清楚看到完整窗棂和内侧目标，Kimi不转身面对摄影机，仍坚定朝玻璃请求。约7.7秒音频结束后留短半拍，8.0至8.7秒肩带肘向右前方发力甩出左手明刃。明刃出画，人物留窗外；8.79秒前出手动作已经完成并留余量。下一镜从窗内看破窗，当前镜不提前破碎、不本人穿窗、不瞬移、不加护罩。头发同方向飘、动作有惯性，避免站姿悬停只动嘴。禁新增人声、BGM、字幕。",
+      "mode": "reference_with_selected_audio",
+      "estimated_credits": 91.8,
+      "status": "downloaded_candidate",
+      "change_reason": "作者截图定点返修，保持现时间线总帧数；候选需视觉和口型复核",
+      "acceptance": [
+        "原片身份、服装、画风连续",
+        "原选声音与发声/闭口节奏匹配",
+        "动作因果和相邻镜头空间连续",
+        "use_candidate_frames可完整覆盖目标窗口，不借变速修嘴",
+        "保留既有音轨，不采用模型另造的人声"
+      ],
+      "submit_started": "2026-10-28T17:01:32+0800",
+      "task_id": "2115368367528947712",
+      "local_path": "视频制作/Metaso-H3-v007/产物/GB014A-v007-kimi-window-style-audio-r1.mp4",
+      "sha256": "bbb61221ee8078a2bf8c3711fefa0d5154f0b39ca67bda2e23b731bf988dcc7e",
+      "bytes": 11030998,
+      "review_decision": "rejected",
+      "review_reason": "发力前窗已出现大洞，动作因果错误；不能入剪"
+    },
+    {
+      "attempt_id": "GB018-v007-gpt-rise-style-audio-r1",
+      "batch_number": 25,
+      "batch_id": "GB018",
+      "duration": 8,
+      "timeline_replace_frames": [
+        6476,
+        6650
+      ],
+      "use_candidate_frames": [
+        0,
+        174
+      ],
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/late-B25-GPT-wing-original.png",
+          "role": "reference_image",
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB018-v002.mp4",
+          "source_second": 8.5,
+          "purpose": "GPT脸、原白色衣裙、双角、两片膜翼、原教堂和原片渲染基准",
+          "reviewed_evidence": "后期/截图定点修正-v004/证据/late-B25-actualsource-2fps.jpg",
+          "sha256": "c8aa8b964eda275a2d1a9b83e7d06e0f967a891cd61fdade51e9a9addba73665"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/late-B25-GPT-selected.wav",
+          "role": "reference_audio",
+          "seconds": 8,
+          "purpose": "作者原选工作声音；只添加静音，不变速、不换音色、不重新合成",
+          "parts": [
+            {
+              "id": "VO-CY024A-01",
+              "offset_seconds": 3.7916666666666665,
+              "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024A-01-工作源.wav",
+              "speaker": "GPT",
+              "zh": "盘踞于苍穹尽头，",
+              "ja": "蒼穹の果てに座し、"
+            }
+          ],
+          "sha256": "d01404cb8b3ebf12468fe3e915d9a2c285dca48a82b23ca031d8bd2b8eb6858c"
+        }
+      ],
+      "prompt": "严格继承Image1原片高细节二次元三维渲染与精细插画融合质感：细密发丝、柔和皮肤体积、原有蕾丝刺绣和衣料厚度、真实空间景深、冷蓝窗光与克制暖光。不改成平涂赛璐璐、粗线漫画，不改变脸型、年龄、衣服、饰品、武器或翅膀。优化构图和表演，不另换美术风格。\n8秒GPT展翼离地并开始咏唱，只包含中央白发双角双膜翼的GPT。保持Image1白色原裙、双角、翼骨结构和薄膜质感，不换装、不变成羽翼、不增加手杖。她仍在原教堂大厅，避免吊灯穿模。0至1.5秒低侧机位看半身到双脚和一侧翼根，有力下扇、裙摆与地面浮尘受气流向下外扬，脚尖真实离地，不能开场已经悬空摆拍。1.5至3.7秒同侧缓升到三分之四中景，人物避开吊灯，水珠依次上浮，前中后层次清楚；灯只作远处暖色层次，冷蓝窗光勾边。3.791667秒起，GPT按Audio1原选日语完整说盘踞于苍穹尽头，真实发声与停顿以音频为准，此时侧脸嘴部清楚、目光抬向穹顶。说完闭唇，至7.25秒是完整可剪用动作和句子，7.25至8秒只延续悬停余量。Audio1只有GPT这一句。千问的抱紧我已经在前一个镜头说完，这个镜头绝对不说抱紧我，不出现千问、小鱼或其他人。不重读其他咏唱、不加叹词、BGM或字幕；不要全段正面全身对称摆姿势，不环绕转圈，不用快速推脸。",
+      "mode": "reference_with_selected_audio",
+      "estimated_credits": 81.6,
+      "status": "downloaded_candidate",
+      "change_reason": "作者截图定点返修，保持现时间线总帧数；候选需视觉和口型复核",
+      "acceptance": [
+        "原片身份、服装、画风连续",
+        "原选声音与发声/闭口节奏匹配",
+        "动作因果和相邻镜头空间连续",
+        "use_candidate_frames可完整覆盖目标窗口，不借变速修嘴",
+        "保留既有音轨，不采用模型另造的人声"
+      ],
+      "submit_started": "2026-10-28T17:01:38+0800",
+      "task_id": "2115368389140885504",
+      "local_path": "视频制作/Metaso-H3-v007/产物/GB018-v007-gpt-rise-style-audio-r1.mp4",
+      "sha256": "d0a90f6c84cb0ab22c9ff5295b6310620faafb4320ef92e388d1f45e5dc4740c",
+      "bytes": 9491685,
+      "review_decision": "superseded_style_rework",
+      "adopted_ranges": [
+        {
+          "record": 6476,
+          "source_frames": [
+            0,
+            60
+          ],
+          "timeline_frames": 60,
+          "speed": 100.0
+        },
+        {
+          "record": 6536,
+          "source_frames": [
+            60,
+            72
+          ],
+          "timeline_frames": 24,
+          "speed": 50.0
+        },
+        {
+          "record": 6560,
+          "source_frames": [
+            72,
+            144
+          ],
+          "timeline_frames": 72,
+          "speed": 100.0
+        },
+        {
+          "record": 6632,
+          "source_frames": [
+            180,
+            192
+          ],
+          "timeline_frames": 18,
+          "speed": 66.66666666666666
+        }
+      ],
+      "review_reason": "原候选保留作历史；当前v005使用真正二维重绘输入生成的v009局部。不得根据旧提示词再执行。"
+    },
+    {
+      "attempt_id": "GB014A-v007-kimi-window-style-audio-r2",
+      "batch_number": 18,
+      "batch_id": "GB014A",
+      "duration": 9,
+      "timeline_replace_frames": [
+        5018,
+        5229
+      ],
+      "use_candidate_frames": [
+        0,
+        211
+      ],
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/late-B18-kimi-original.png",
+          "role": "reference_image",
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB014A-v002.mp4",
+          "source_second": 4.5,
+          "purpose": "Kimi原片身份、服装、明暗双刃左右手与侧面窗位置",
+          "reviewed_evidence": "后期/截图定点修正-v004/证据/late-B18-actualsource-2fps.jpg",
+          "sha256": "de9f9330eb410b12eaaea34d428a4c250dac82be94b8f4ae88a79ebbecee9630"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/late-B18-window-space.png",
+          "role": "reference_image",
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v002\\剪辑候选\\GB014A-v002.mp4",
+          "source_second": 3.5,
+          "purpose": "只用于窗外位置、窗框比例和面朝玻璃的空间关系，不重复凝形",
+          "reviewed_evidence": "后期/截图定点修正-v004/证据/late-B18-actualsource-2fps.jpg",
+          "sha256": "9ca10433cced2b6cb34a7e07c2f4338dcf058f68060f583ab2adbbdd0d354ebc"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/late-B18-Kimi-selected.wav",
+          "role": "reference_audio",
+          "seconds": 9,
+          "purpose": "作者原选工作声音；只添加静音，不变速、不换音色、不重新合成",
+          "parts": [
+            {
+              "id": "VO-CY024K0-01",
+              "offset_seconds": 0,
+              "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024K0-01-工作源.wav",
+              "speaker": "Kimi",
+              "zh": "请循此刃的银辉，",
+              "ja": "この刃の銀の光をたどり、"
+            },
+            {
+              "id": "VO-CY024K0-02",
+              "offset_seconds": 3.7083333333333335,
+              "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024K0-02-工作源.wav",
+              "speaker": "Kimi",
+              "zh": "为我开启通往彼端的门扉——",
+              "ja": "彼方へと通じる扉を、我に開け——"
+            }
+          ],
+          "sha256": "2da01b4e455be2cc22922262570d2fc8443ed15d53151e8651ce303ff2d050ea"
+        }
+      ],
+      "prompt": "Image1为Kimi身份与已举起的银色圆环刃、右手暗刃、服装和原片细密三维二次元插画质感。Image2明确她悬浮在教堂外，面对完好无损的彩色玻璃高窗。严格保持二图完整玻璃，玻璃为封闭实体表面，窗上全是连续蓝色菱形彩片和完整黑色窗棂，没有门、孔洞、圆洞、三角裂口、缺片、透明通道或裂纹。整段禁止玻璃发生任何改变或显露室内。\n9秒连续单镜，固定在Kimi左侧略后，清晰三分之二侧脸和银刃近景，窗玻璃固定在画面右半边。前7.7秒人物面向玻璃，只念咒与凝聚刃的银辉；Audio1从0秒播放原有日语この刃の銀の光をたどり、彼方へと通じる扉を、我に開け——，是真实配音和口型唯一基准，禁止另念或无声乱动嘴，停顿闭口。头发受夜风同向缓摆，身体有克制呼吸，不对镜头摆拍、不转身、不换摄影机侧别、不运镜穿窗。光只聚在左手圆环刃，不能在玻璃上画几何轮廓或魔法入口。\n7.7秒台词说完，闭口。8.0秒左肩稍后收，肘与腕带动明刃向画面右侧玻璃方向掷出，8.5秒左右明刃离手飞出画面右边；最后0.5秒保持随势，玻璃仍完整，影片结束在飞刃接触玻璃之前。下一剪辑镜头才破窗。右手暗刃始终低持不投掷。人物不穿窗，不施放护罩，不出现室内人物、不提前发生撞击。衣服、脸型、发饰、材质、光线沿原片，禁止平涂赛璐璐。无字幕、BGM、新台词。",
+      "mode": "reference_with_selected_audio",
+      "estimated_credits": 91.8,
+      "status": "downloaded_candidate",
+      "change_reason": "首轮误生破窗。固定机位、玻璃必须完整，出手后在撞击前结束。",
+      "acceptance": [
+        "原片身份、服装、画风连续",
+        "原选声音与发声/闭口节奏匹配",
+        "动作因果和相邻镜头空间连续",
+        "use_candidate_frames可完整覆盖目标窗口，不借变速修嘴",
+        "保留既有音轨，不采用模型另造的人声"
+      ],
+      "submit_started": "2026-10-28T17:14:13+0800",
+      "task_id": "2115371557063438337",
+      "local_path": "视频制作/Metaso-H3-v007/产物/GB014A-v007-kimi-window-style-audio-r2.mp4",
+      "sha256": "05b0e0a7ca7830bae2b2f88731dbdb8da6967579d590cf845505c6e9749ac2b2",
+      "bytes": 9710389,
+      "review_decision": "selected_ranges_v005_pending_author",
+      "adopted_ranges": [
+        {
+          "timeline_frames": [
+            5018,
+            5162
+          ],
+          "source_frames": [
+            0,
+            144
+          ],
+          "speed": 100.0
+        },
+        {
+          "timeline_frames": [
+            5162,
+            5211
+          ],
+          "source_frames": [
+            96,
+            144
+          ],
+          "speed": 97.95918367346938
+        },
+        {
+          "timeline_frames": [
+            5211,
+            5229
+          ],
+          "source_frames": [
+            150,
+            168
+          ],
+          "speed": 100.0
+        }
+      ]
+    }
+  ]
+}

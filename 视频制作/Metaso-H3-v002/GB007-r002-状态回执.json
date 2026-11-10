@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115146381669228544",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "哥特异世界：教堂营救",
+    "status": "succeeded",
+    "created_at": 1793125170,
+    "updated_at": 1793125231,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115146381669228544/content?expires=1793730044&signature=f0f7e852cb2bf386a4c6769a7f7d40f06be6a7d030a4bb298160fe853a0ca7e7"
+    },
+    "resolution": "768P",
+    "duration": 15,
+    "usage": {
+      "total_seconds": 15,
+      "input_seconds": 0,
+      "output_seconds": 15,
+      "input_image_count": 6
+    },
+    "ratio": "16:9",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

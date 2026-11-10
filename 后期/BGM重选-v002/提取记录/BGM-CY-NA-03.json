@@ -1,0 +1,39 @@
+{
+  "id": "BGM-CY-NA-03",
+  "bvid": "BV1QT4y1M79V",
+  "part": 3,
+  "title": "A Narnia Lullaby",
+  "display_title": "纳尼亚摇篮曲",
+  "work": "纳尼亚传奇：狮子、女巫和魔衣柜",
+  "composer": "Harry Gregson-Williams",
+  "source_page_title": "3 - A Narnia Lullaby",
+  "cid": 267027024,
+  "source": "https://www.bilibili.com/video/BV1QT4y1M79V/?p=3",
+  "uploader": "xtrikil",
+  "video_title": "【电影音乐】纳尼亚传奇：狮子、女巫和魔衣柜-原声合集",
+  "path": "资产/声音/BGM/重选-v002/BGM-CY-NA-03.m4a",
+  "bytes": 616471,
+  "sha256": "862c0042e959132c2c276333124d9fe32ab71fa9f1b601d011f050fa7bfb2626",
+  "duration": 73.21229,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "bit_rate": "67168"
+      }
+    ],
+    "format": {
+      "duration": "73.212290"
+    }
+  },
+  "decode_ok": true,
+  "status": "候选 · 作者试听比较",
+  "heard": false,
+  "source_in": null,
+  "source_out": null,
+  "extraction": "Public video DASH AAC saved without re-encoding, cuts, pitch, speed or gain changes."
+}

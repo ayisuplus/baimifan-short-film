@@ -1,0 +1,5 @@
+{
+  "status": "cli_error_do_not_retry_automatically",
+  "returncode": 1,
+  "error": "{\n  \"error\": {\n    \"code\": 403,\n    \"details\": {\n      \"detail\": {\n        \"code\": \"feature_not_available\",\n        \"request_id\": \"c3397eefd5e6a45f808d8f7b0f73cfd8\",\n        \"status\": \"feature_unavailable\",\n        \"type\": \"authorization_error\"\n      }\n    },\n    \"help\": \"Credentials were supplied via: `xi-api-key` header (--api-key or env var ELEVENLABS_API_KEY).\",\n    \"message\": \"Creating a voice through the API is only available on a paid plan.\",\n    \"reason\": \"feature_not_available\"\n  }\n}\n"
+}

@@ -1,0 +1,20 @@
+{
+  "original_locked_files_verified": 98,
+  "local_links_verified": 569,
+  "shots": 102,
+  "duration_seconds": 330,
+  "spell_sequence_seconds": 24,
+  "ending_seconds": [
+    2,
+    7
+  ],
+  "changed_existing_image_ids": [
+    "CY024B",
+    "CY034"
+  ],
+  "generation_records_hash_verified": 6,
+  "approved_spell_lines_verified": 8,
+  "other_dialogue_preserved": true,
+  "video_produced": false,
+  "audio_produced": false
+}

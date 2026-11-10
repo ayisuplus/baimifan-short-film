@@ -1,0 +1,30 @@
+subject_definitions:
+<Subject 1>: Kimi, identity and outfit from four-view sheet <Picture 1>.
+<Picture 2>: [Shot 1] composition and state reference; not its first frame.
+<Picture 5>: [Shot 2] composition and state reference; not its first frame.
+<Picture 3>: [Shot 1] additional transformation state, timed below.
+<Picture 4>: [Shot 1] additional transformation state, timed below.
+
+summary:
+[reference generation] A 15-second sequence. Flowing moonlight gathers into a small rear-view figure before the towering window; once solid, a side close-up shows her request and single blade throw.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Picture 2>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 3>: weak_reference - a state within the same continuous shot.
+<Picture 4>: weak_reference - a state within the same continuous shot.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Cut from the completed invocation to empty air outside the rear window; keep all four seconds uncut. Use <Picture 2> for composition. At 0-0.8 seconds, silver-white moonlight enters from behind and left of the camera, with no human silhouette. At 0.8-1.6 it slows and gathers in front of the glass. At 1.6-3.5, hair and shoulders become solid first; the hem, legs and small blades form from connected light filaments, with background visible through unfinished gaps. At 3.5-4, one solid Kimi floats facing the glass, back to camera, both hands low: her left bright blade is screen left and her right dark blade screen right. She does not turn, raise a blade or land. The physical moon stays behind the camera, outside frame. No black smoke, portal or overall opacity fade. Use a distant direct rear full-body view, with Kimi about half of frame height before the towering intact window. Dolly forward slightly on her rear axis and ease to a stop as she becomes solid; never orbit or reveal her face. The previous invocation decays into continuous night wind and a faint airy gathering sound; no impact or new speech. Continuous state progression in batch seconds: at 0, <Picture 3> (start, flowing moonlight without a human silhouette); at 1.6, <Picture 2> (intermediate, light becomes the rear silhouette while hem and legs remain light); at 3.5, <Picture 4> (end, fully solid rear view with both blades held low). Animate between these states without cuts, still-image holds or a whole-body opacity fade.
+[Shot 2] At 00:04.000, After materialization completes, cut the CAMERA from behind to the established exterior side close-up; Kimi never turns away from the same glass. Preserve wind and blade hands; throw after the complete request. Use <Picture 5> for composition. Kimi remains outside the window, visibly looking inside. She raises the small bright blade in her left hand beside her shoulder while holding the dark blade low in her right. She speaks the entire request, leaves its prescribed brief pause, then throws the bright blade toward screen right and forward. Her body stays outside and the hands never exchange weapons. No shield or additional moon ring appears. Once in the exterior side medium close-up, reframe slightly with the raised left-hand blade, then hold for the full request and throw; keep intact glass at the right edge. Continuous night wind beneath the request; the throw follows the spoken line, while glass impact is reserved for the following shot. From 4 to 7.02 seconds, Kimi (S1) speaks with matching lip movement: <d>[Japanese] この刃の銀の光をたどり、</d>. From 7.02 to 9.91 seconds, Kimi (S1) speaks with matching lip movement: <d>[Japanese] 彼方へと通じる扉を、我に開け——</d>.
+From 10.5 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 0s: Moonlight starts flowing in before any silhouette; 4s: After four seconds of formation, cut closer to the blade.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

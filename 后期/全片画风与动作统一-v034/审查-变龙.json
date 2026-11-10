@@ -1,0 +1,136 @@
+{
+  "reviewer": "review_dragon",
+  "method": "Viewed all 14 keyframes; inspected individual problem frames and Qwen/Gemini/Kimi/GPT character sheets; no GPU or generation",
+  "approved_keys": [
+    "086b",
+    "086d",
+    "087",
+    "088",
+    "089",
+    "092b"
+  ],
+  "revisions": [
+    "086a",
+    "086c",
+    "086e",
+    "090a",
+    "090b",
+    "091",
+    "092a",
+    "092c"
+  ],
+  "shots": [
+    {
+      "id": "086a",
+      "status": "revise",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\086a-key-r1_00001_.png",
+      "scope": "keyframe only; video not generated or accepted",
+      "evidence": "后殿屋顶和上部侧墙被毁过多；暗月罩旁出现五名站立陌生人物。人物对峙、二维线条本身可用。",
+      "correction_prompt_en": "Preserve the exact GPT foreground back and red-haired black-gold priest confrontation. Tighten the composition to their waist-up confrontation, keeping the long stair direction readable but cropping most of the upper ceiling out. Remove the five tiny people standing beside the distant indigo dome. Restore the rear altar roof and side walls; only the unseen central nave roof was broken. The distant indigo dome is closed and opaque. All candles are dark, no orange light."
+    },
+    {
+      "id": "086b",
+      "status": "pass",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\086b-key-r1_00001_.png",
+      "scope": "keyframe only; video not generated or accepted",
+      "evidence": "人物近景是二维平涂，单一GPT对着教主肩背，眼线清楚；没有额外人物。画外建筑状态需沿前镜保持。",
+      "correction_prompt_en": ""
+    },
+    {
+      "id": "086c",
+      "status": "revise",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\086c-key-r1_00001_.png",
+      "scope": "keyframe only; video not generated or accepted",
+      "evidence": "低机位有张力、膜翼正确；后墙大面积透天，右后蜡烛有黄焰；胸颈花纹相对前反打简化。",
+      "correction_prompt_en": "Preserve the single white-haired horned dragon girl and both membranous wings, with the same face and white-lilac costume. Restore the lace high-neck/chest inset, shoulder ornaments and fine neckline straps consistent with the preceding GPT close shot; do not turn the dress into a plain strapless top. Preserve a low-angle knee-up transformation-ready composition. Replace the large sky opening behind her with intact gothic side walls and blue stained-glass windows. Only one limited central roof hole remains overhead. Extinguish every distant candle; black wet wicks, no orange flame or warm reflection. A faint white-violet line along her silhouette prepares the transformation, without a separate dragon."
+    },
+    {
+      "id": "086d",
+      "status": "pass",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\086d-key-r1_00001_.png",
+      "scope": "keyframe only; video not generated or accepted",
+      "evidence": "教主红发黑金袍、两只黑羽翼、靴子接地和屈膝重心均清楚；背景完整，羽翼边缘金光可作魔力边缘而非烛光。",
+      "correction_prompt_en": ""
+    },
+    {
+      "id": "086e",
+      "status": "revise",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\086e-key-r1_00001_.png",
+      "scope": "keyframe only; video not generated or accepted",
+      "evidence": "前景多支蜡烛仍燃烧；教主双翼变为通体金色，与086d黑翼跳变；部分墙上方破损过广。",
+      "correction_prompt_en": "Keep one white-violet long dragon on the left and the SAME red-haired priest on the upper right. Change the priest wings to black feathers with only thin muted-gold edges, matching the preceding black-winged form; keep the black-gold robe, not golden armor. Extinguish every foreground and background candle completely: dark wicks, no yellow tips, no warm reflections. Repair the side vaults and upper side walls so only ONE bounded hole remains directly overhead in the central nave. Both figures are heading toward that same hole. Keep a pale violet edge glow on the dragon and broad cel-painted scales, no photoreal or extra human GPT."
+    },
+    {
+      "id": "087",
+      "status": "pass",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\087-key-r1_00001_.png",
+      "scope": "keyframe only; video not generated or accepted",
+      "evidence": "白紫长身龙与黑金翼教主隔空左右对峙清楚，画风为二维插画；龙虽鳞片细密，仍无明显塑料CG。动态需用紫白边缘光保留魔力感。",
+      "correction_prompt_en": ""
+    },
+    {
+      "id": "088",
+      "status": "pass",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\088-key-r1_00001_.png",
+      "scope": "keyframe only; video not generated or accepted",
+      "evidence": "小鱼鲸帽、儿童比例和千问紫发辫子白蓝袖口可辨，手抓衣料与托抱接触清楚，冷色环境一致。",
+      "correction_prompt_en": ""
+    },
+    {
+      "id": "089",
+      "status": "pass",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\089-key-r1_00001_.png",
+      "scope": "keyframe only; video not generated or accepted",
+      "evidence": "固定塔尖与二维夜云构图合适，白紫闪电已有冲击。起帧在闪光峰值，应先衰减再给一次更短余闪，不能再连续爆炸。",
+      "correction_prompt_en": ""
+    },
+    {
+      "id": "090a",
+      "status": "revise",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\090a-key-r1_00001_.png",
+      "scope": "keyframe only; video not generated or accepted",
+      "evidence": "虽二维，实际是深远殿内全景而不是雨滴细节，远端墙面大片残破、镜面反射过强，拖慢空战省略。",
+      "correction_prompt_en": "Reframe this as a TIGHT ground-level insert of wet cathedral stone tiles only. Crop out every wall, window, roof, skyline and distant altar. Keep three or four stone seams, a few small rain rings and thin falling rain streaks. Draw shallow blue water in flat muted painted patches with two restrained white-violet and dark-gold reflected glints. No large mirror-like reflection, no new flood, no characters. Strong clean inked cel-style graphic shapes."
+    },
+    {
+      "id": "090b",
+      "status": "revise",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\090b-key-r1_00001_.png",
+      "scope": "keyframe only; video not generated or accepted",
+      "evidence": "门内望外与两守卫、外院黑袍人群空间成立，但两守卫没有可读长枪，无法从该起帧自然放低枪。",
+      "correction_prompt_en": "Preserve the two CLOSED-HELMET silver knights at the open doorway foreground looking out at the same approaching black-robed group. Widen slightly to show their hands and hips. Give EACH knight exactly ONE continuous long spear held upright in both hands beside the doorway; show clear shafts and spearheads connected to the hands, ready to lower across the threshold. No new person or heroine face. Keep the outer group distant, a wet blue-night courtyard and intact side walls. Both knights stand solidly on the inside of the threshold."
+    },
+    {
+      "id": "091",
+      "status": "revise",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\091-key-r1_00001_.png",
+      "scope": "keyframe only; video not generated or accepted",
+      "evidence": "群像仍含右后方角翼白发GPT；小鱼/千问关系混乱，左后有成人抱小人，右中又出现巨大鲸帽；上部后殿毁坏过广。正中紫发猫耳角色是Gemini，应保留，不能误删。",
+      "correction_prompt_en": "Recompose as a tighter low-angle defensive line, not a full-cast poster. Keep only the three original foreground allies: gold-haired axe woman at left, purple-haired CAT-EARED Gemini in the middle, and blonde red-hatted mage at right, with their original faces, clothes and weapons. At the far right edge behind a pillar, show ONE purple-blue braided Qianwen holding ONE SMALL blue-whale-hood child in her LEFT arm; her right hand holds her closed fan. Remove every white-haired horned dragon girl from this scene: GPT is fighting in dragon form above. Remove the extra adult-and-child pair on the rear stairs. Do not add Kimi, Claude, extra children or giant whale hats. Other allies may remain offscreen. Stagger the foreground allies in a braced line facing the doorway offscreen rather than walking down toward the camera. Leave the opaque indigo dome distant at the top of the stairs. Restore rear altar roof and side windows, all fires extinguished."
+    },
+    {
+      "id": "092a",
+      "status": "revise",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\092a-key-r1_00001_.png",
+      "scope": "keyframe only; video not generated or accepted",
+      "evidence": "夜间俯景和紫白闪光可用，但中殿一整段屋顶被掀空、光柱范围过大，容易使建筑损坏升级；应收成局部破口。",
+      "correction_prompt_en": "Preserve the same high exterior viewpoint and gothic cathedral at rainy blue night. Restore most of the central nave roof so there is exactly ONE LOCALIZED jagged oval opening over the central nave, occupying a small section of roof rather than the whole roof length. Keep the rear altar vault, side roofs, towers and walls intact. Place one concentrated white-violet light inside that opening and much fainter glints near the entrance, no sky beam, no spreading destruction or burning structure. Painted gouache architecture, flat cel light, no CGI reflections."
+    },
+    {
+      "id": "092b",
+      "status": "pass",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\092b-key-r1_00001_.png",
+      "scope": "keyframe only; video not generated or accepted",
+      "evidence": "单一人形GPT与倒地教主关系清楚，双膜翼和一尾可读，起始站姿可接下蹲；不是群像海报。后续动作需先短暂俯视再取钥匙。",
+      "correction_prompt_en": ""
+    },
+    {
+      "id": "092c",
+      "status": "revise",
+      "source": "G:\\comfyui\\ComfyUI\\ComfyUI\\output\\Baimifan\\v032\\092c-key-r1_00001_.png",
+      "scope": "keyframe only; video not generated or accepted",
+      "evidence": "与要求不符：仍是大群像而非腰扣特写；大金钥匙不是黑铁钥匙；出现GPT近似重复人物以及额外手臂。",
+      "correction_prompt_en": "Create a TIGHT INSERT framing ONLY the fallen priest black-gold waist belt on the left and ONE white-lace-sleeved GPT hand entering from the right. Crop away ALL faces, heads, wings, crowd, stairs and skyline. At the belt hook show ONE small MATTE BLACK IRON key with a plain round bow, short shaft and clear simple teeth, roughly palm-length; replace the oversized golden ornate keys. The single key ring is still attached to an openable belt hook at the beginning. GPT fingers have not yet closed around it. Keep the priest clothed and still, shallow blue wet stone behind, flat cel-painted skin and cloth, no metallic CGI shine or warm light."
+    }
+  ]
+}

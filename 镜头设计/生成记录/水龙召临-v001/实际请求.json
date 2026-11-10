@@ -1,0 +1,62 @@
+[
+  {
+    "id": "arrival-r1",
+    "input": {
+      "referenced_image_paths": [
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/纯水潮汐-v050/CY024A5-v050-r1.png",
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/纯水潮汐-v050/CY024B-v050-r1.png"
+      ],
+      "transparent_background": false,
+      "prompt": "Create ONE 16:9 cinematic anime storyboard frame for the moment a conjured WATER DRAGON has just descended from the sky and comes beside its caster, BEFORE any attack. Reference 1 controls the exact adult white dragon woman's identity, natural violet eyes, pale silver long hair, white horns, dark rose hair ornament, ornate white-silver gown, jewelry and two pale lavender membrane wings. Reference 2 controls ONLY the vast gothic cathedral, stairs, blue stained-glass nighttime atmosphere and distant high altar layout, NOT its waves or action. New medium-wide low side angle, show caster hovering with her torso and hands clearly visible on screen LEFT and a monumental WATER DRAGON head beside her on screen RIGHT, facing the same forward/downstage direction as she does, NOT facing her threateningly. Its head is about 1.5 times her torso size, close enough for her extended RIGHT palm to guide its turn but separated by visible air; LEFT hand at her chest. She turns a calm focused gaze towards the enemy offscreen, right open palm just raising to guide, NOT touching or hitting the dragon. The dragon arrived from ABOVE: a thick flowing S-shaped neck/body descends through ONE newly ruptured central nave roof opening in upper background, then curves down behind and outboard of her wing, ending in the head at shoulder height. Clear gap from wing and body, never coils tightly around her. Head has an unmistakable elegant dragon silhouette sculpted entirely of moving translucent deep blue water, tapered long muzzle, brow ridge and two backward swept wave-crests suggesting horns; no solid horns, no purple mane, no hard scales, no claws or legs, no glowing pupils, no ice, crystal or metal. Broad smooth liquid planes with silver moonlit refraction, white foam only on the crest mane and flowing edges. Mouth almost closed, calm poised power waiting for her guidance, not a roaring monster attacking her. Only ONE head. The immense water body remains aloft: floor below still dry, no attack, no flood yet; no lightning, beams or magic circles. Central nave roof has JUST broken to admit it, rear apse roof and side windows remain intact. Do not add warm fire effects to her hands, don't modify the heroine's colors or costume. Rich cinematic dimensional anime rendering consistent with references, precise hands, no text/captions/border. This is a magical water construct beside its human-form caster, not her transformation."
+    },
+    "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-2bb978ac-2c4e-4cef-84ec-cbe800f40f4e.png",
+    "status": "superseded_trial_preserved",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "output": "镜头设计/图像/水龙召临-v001/arrival-r1.png",
+    "sha256": "0dc0ba8bcdaa0695e39dcc5e775e693b7205523802046ac1f124e253f6738e36",
+    "engine": "built-in image_gen"
+  },
+  {
+    "id": "arrival-r2",
+    "input": {
+      "referenced_image_paths": [
+        "C:/Users/36322/.codex/generated_images/01a16925-a797-71a2-9c39-4f481f8b65a6/exec-2bb978ac-2c4e-4cef-84ec-cbe800f40f4e.png",
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/纯水潮汐-v050/CY024A5-v050-r1.png"
+      ],
+      "transparent_background": false,
+      "prompt": "Precise continuity edit of image 1, preserve water dragon shape, head, thick blue liquid, floating posture, woman identity, dress, wings, colors, broken nave roof and lighting. Correct her arms to MATCH image 2: her anatomical RIGHT shoulder is on the viewer's LEFT, this RIGHT upper arm crosses diagonally across the FRONT of her torso and extends toward screen right to guide the water dragon with a relaxed open palm. Her anatomical LEFT hand rests near her sternum with its LEFT elbow closer to screen right. Image 2 shows exactly the required shoulder-arm-hand connections, use that posture adapted slightly upward toward dragon's muzzle. Do NOT swap left/right limbs. Two arms, two natural hands, five fingers each. The dragon head remains beside her facing forward screen right, not towards her. Background lower right: change the camera sightline's distant altar/dome/stairs to a plain SIDE AISLE of this same cathedral with matching blue stained glass and gothic pillars, no throne or person there. This is a SIDE view, so the actual highest altar is out of frame, NOT removed from the story; do not show the dragon head apparently targeting the friendly dome. Preserve the ONE broken central nave roof hole where its watery body descends. No electricity, solid dragon scales, white horns, purple mane, extra head, text or glowing rings. One frame 16:9."
+    },
+    "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-01925f36-eec5-4ecf-a87e-fed2aba0680a.png",
+    "status": "trial_pending_author_review",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "output": "镜头设计/图像/水龙召临-v001/arrival-r2.png",
+    "sha256": "25eff3a5c4539f866eeadc8378b31e27ed89e58f5b5c5f28606c0adfbfb85749",
+    "engine": "built-in image_gen"
+  },
+  {
+    "id": "impact-r1",
+    "input": {
+      "referenced_image_paths": [
+        "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/纯水潮汐-v050/CY024B-v050-r1.png",
+        "C:/Users/36322/.codex/generated_images/01a16925-a797-71a2-9c39-4f481f8b65a6/exec-2bb978ac-2c4e-4cef-84ec-cbe800f40f4e.png"
+      ],
+      "transparent_background": false,
+      "prompt": "Create ONE 16:9 cinematic anime storyboard EDIT of image 1, showing the NEXT ACTION after the water dragon beside its caster in image 2. Image 1 is the exact composition/architecture/cast control. Image 2 is ONLY the design of the deep blue transparent liquid dragon head, swept wave-crests and fluid body, not its camera or arms. Preserve image 1's airborne white dragon woman at left foreground seen from behind, pale membrane wings, her costume, ornate cathedral stairways and pillars, black-gold cultists, small enemy leader in amber gold shield at lower center, intact rear apse and opaque dark-indigo FRIENDLY dome on the far highest DRY altar upper right. Replace the main central curling wave with ONE mighty water dragon: its long thick dark-blue liquid neck follows a broad S-shaped descending curve from high behind and to the OUTSIDE of the caster's wing at upper left, then arcs through the upper central frame and dives toward the enemy gold shield lower center. This neck is a flowing broad liquid mass, not a cylinder, hose or noodle. A clearly recognizable tapered dragon head leads the descending water, muzzle downward at the instant it collides with the gold shield. Head and curved watery horn-crests match image 2. Its leading muzzle is just beginning to break into heavy white spray against the shield; readable dragon forehead and single head remain, no teeth, no biting, no blood. The water dragon is pure water with smooth deep blue surfaces and white foam concentrated on wave-crest mane, silhouette edges and the impact. No hard scales, white solid horns, purple mane, glowing eyes, claws, legs, electricity or extra creature. Caster visibly directs it with her RIGHT arm extending diagonally down and outward, open palm five natural fingers, LEFT hand near torso stabilizing, no water emitted from hands or wings. Water body is separate from her anatomy. Water exploding off the enemy shield runs down into the two LOWER side aisles, sweeping cultists, as trailing ordinary surf, not two additional dragons and not separate aerial waves. Make one dominant head/neck attack trajectory and low runoff beneath. Far highest altar and friendly dark-indigo dome remain clearly isolated on dry stone with a broad empty gap from ALL water, no pressure or strikes against that dome. Preserve central rear broken window and intact side windows, no new destruction to apse. No burning candles, magic rings, text, captions, border or multi-panel. Match intricate dimensional anime rendering, high impact and clean directional silhouette. The story is the woman guiding her summoned water construct to strike the ENEMY, while protecting the distant altar."
+    },
+    "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-449d28ba-86b6-41af-9957-d7811ef2051a.png",
+    "status": "trial_pending_author_review",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "output": "镜头设计/图像/水龙召临-v001/impact-r1.png",
+    "sha256": "13cc1d89426c69d3925a1ef44bb0c0aca9548531c7a7355be13d074a49895331",
+    "engine": "built-in image_gen"
+  }
+]

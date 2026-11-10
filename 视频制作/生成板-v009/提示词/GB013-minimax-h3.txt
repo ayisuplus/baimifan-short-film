@@ -1,0 +1,39 @@
+subject_definitions:
+<Subject 1>: DeepSeek, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: the palace paladins, identity and outfit from four-view sheet <Picture 2>.
+<Subject 3>: ChatGPT, identity and outfit from four-view sheet <Picture 3>.
+<Picture 4>: [Shot 1] composition and state reference; not its first frame.
+<Picture 5>: [Shot 2] composition and state reference; not its first frame.
+<Picture 6>: [Shot 3] composition and state reference; not its first frame.
+<Picture 7>: [Shot 4] composition and state reference; not its first frame.
+<Picture 8>: [Shot 5] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. The burning ritual continues while paladins form outside. GPT approaches in a partial reveal; a door tremor leads to the single breaking kick.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Subject 3>: fully_preserved - identity and outfit design.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+<Picture 7>: weak_reference - shot layout; animate the specified action.
+<Picture 8>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Continue the same fire, now completely obscuring the figure seen in close-up; the chant continues without restarting. Use <Picture 4> for composition. From the rear nave, continuous black fire entirely conceals Claude and any recognizable part of her body. Cultists chant around the altar; the priest is back on the lower landing, and DeepSeek remains below. Ordinary braziers stay orange. The ritual continues without a new action against the child. Ease backward in a low extreme wide shot from the rear nave, revealing the circle of cultists and scale of fire without penetrating it to find Claude. Low collective wordless chanting, church reverberation and crackling timber; no added intelligible lyrics.
+[Shot 2] At 00:04.000, Cut outside at the same time; the indoor chant muffles beneath night wind as armored steps approach from behind, without revealing GPT. Use <Picture 5> for composition. Two ranks of silver-armored paladins advance from behind and split toward the two sides of the closed church entrance. Side sentries turn outward to watch the approaches. The central corridor remains empty, ready for GPT, who is still offscreen with the eight companions. Ease back in a low exterior medium-wide view as paladins overtake the camera, then reframe slightly for the two separating ranks, keeping the center clear. Synchronized armored steps move from rear to front, plates touch lightly, and two spear-butt taps lead into the next footsteps; wind muffles the distant chant.
+[Shot 3] At 00:07.000, Match the spear taps to the silver heels, proceeding along the already cleared center without repeating the formation. Use <Picture 6> for composition. Only GPT's legs, silver-white shoes, moving skirt hem and single tail are revealed as she walks between the formed paladins toward the closed door. Her head and face remain outside the frame. The companions remain offscreen, and the paladins retain their positions at the sides. Track parallel from a low rear-side position for two steps, strictly cropping above the waist and retaining flanking armored boots and spear shafts. Two distinct heel steps and moving fabric; no early door-breaking impact.
+[Shot 4] At 00:10.000, Cut from the exterior approach to the corresponding interior door view; the chant clears, and the tremor anticipates the single breaking action. Use <Picture 7> for composition. Looking from inside along the empty central aisle, the barred main door is still shut. Firelight crosses the floor while cold light leaks through its gaps. The panels shudder just before the breaking action. Nobody enters this environment-only frame yet. Hold a deliberate wide interior view down the empty central aisle, letting the cold door-gap light and one tremor create anticipation. Clearer wordless chanting and interior reverberation return, followed by a brief door-panel rattle leading directly to the break.
+[Shot 5] At 00:12.000, Complete the same door disturbance with one kick; the breaking accent lands now and the chanting stops immediately. Use <Picture 8> for composition. GPT kicks the closed door open once. Cold exterior light enters, splinters and dust fall, and she steps through the opened doorway. Only GPT is revealed as the rescuer in this shot; the companions remain outside the framing until the following group reveal. In a medium-wide view toward the main door, make a small retreat at the kick's burst, then settle so the opening panels and GPT's step remain readable. One decisive door-breaking crash cuts off the chanting immediately; falling fragments and the entry step follow.
+From 14 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 10s: Begin the pre-breach stillness; 12s: Cut into the door breach.
+Japanese speech with lip sync; no audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

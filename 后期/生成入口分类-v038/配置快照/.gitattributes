@@ -1,0 +1,2 @@
+# Workflow SHA-256 is byte-sensitive; preserve snapshots across Windows checkouts.
+*.json -text

@@ -1,0 +1,56 @@
+{
+  "reason": "User questioned missing-generation wording. Rechecked preceding chat actual user decisions, v003 GPT input/receipts/audio, and v004 selected replacement scope.",
+  "previous_chat": "01a17883-69dd-74f1-8f13-bbde7422c943",
+  "voice_choices_confirmed": true,
+  "gpt_prior_generation": {
+    "input": "声音/ElevenLabs-正式台词试听-v003/GPT-输入.json",
+    "line_count": 18,
+    "files": [
+      {
+        "path": "声音/ElevenLabs-正式台词试听-v003/GPT-1.mp3",
+        "sha256": "63300b8c298afcdab8f88a01333f10bf91c2e9a07499de2491699faacfa39640",
+        "decode_ok": true
+      },
+      {
+        "path": "声音/ElevenLabs-正式台词试听-v003/GPT-2.mp3",
+        "sha256": "860290dd29e20615edb05ec35c6bf46995eb06fb4a1d08ed004dcde2bc51167c",
+        "decode_ok": true
+      },
+      {
+        "path": "声音/ElevenLabs-正式台词试听-v003/GPT-3.mp3",
+        "sha256": "7b19384698b138bbbbf492bbf8a5d20f1ab4a334693cd439b6d10ef445fca527",
+        "decode_ok": true
+      }
+    ],
+    "prior_status": "needs_revision; author noted spell performance lacked anime intensity; do not automatically adopt old candidates"
+  },
+  "gpt_current_voice_uncovered_but_prior_generated_ids": [
+    "VO-CY004D-01",
+    "VO-CY007-01",
+    "VO-CY026A-01",
+    "VO-CY026B-01",
+    "VO-CY026C-01",
+    "VO-CY026D1-01",
+    "VO-CY026E-01",
+    "VO-CY027B-01",
+    "VO-CY028-01"
+  ],
+  "xiaoyu_current_text_unmatched_ids": [
+    "VO-CY006-01",
+    "VO-CY015-02",
+    "VO-CY019-02"
+  ],
+  "corrected_summary": {
+    "selected_voice_split_lines": 35,
+    "existing_independent_lines": 7,
+    "prior_generated_gpt_lines_needing_voice_reconciliation": 9,
+    "xiaoyu_new_text_unmatched": 3
+  },
+  "baseline_saved_plan": {
+    "video_segments": 123,
+    "batches": 44,
+    "all_referenced_video_files_exist": true,
+    "resolve_requeried": false
+  },
+  "limits": "Prior GPT audio exists and matches frozen hashes and submitted 18-line text; no claim of all-pronunciation acceptance. Nine lines absent from newly chosen voice master are not nine never-generated lines. Original choice records and media preserved."
+}

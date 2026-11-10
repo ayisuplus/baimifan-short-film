@@ -1,0 +1,13 @@
+{
+  "clip_count": 119,
+  "total_frames": 9425,
+  "fps": 24,
+  "timecode": "00:06:32:17",
+  "reload_verified": true,
+  "tail_order_matches": true,
+  "max_dom_start_error_frames": 0.1997,
+  "max_dom_duration_error_frames": 0.0003,
+  "dom_geometry_note": "DOM pixel rounding gives approximate frame evidence; total timecode also read directly from UI.",
+  "resolve_accessed": false,
+  "upscale": false
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-25",
+  "source": "Existing IAB selection overview, before and after refresh. No marks written.",
+  "marked_shots": {
+    "CY001": {
+      "music_id": "BGM-CY-MT-03",
+      "title": "魔法が存在する世界で"
+    },
+    "CY009": {
+      "music_id": "BGM-CY-KH-05",
+      "title": "To Jerusalem"
+    },
+    "CY018": {
+      "music_id": "BGM-CY-RZ-01",
+      "title": "沈黙のレクイエム"
+    },
+    "CY026B": {
+      "music_id": "BGM-CY-FEAR-001",
+      "title": "Fear Brought Me This Far"
+    },
+    "CY031": {
+      "music_id": "BGM-CY-TIME-001",
+      "title": "Time Flows Ever Onward"
+    }
+  },
+  "unselected_scene": "S03",
+  "automatic_scene_expansion": false
+}

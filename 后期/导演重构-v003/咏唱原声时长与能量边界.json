@@ -1,0 +1,170 @@
+{
+  "method": "16kHz单声道10ms RMS，阈值max(-42dBFS,峰值RMS-32dB)，只作能量边界，不是语音内容/听感验收。",
+  "cues": [
+    {
+      "id": "VO-CY026E-01",
+      "batch": 25,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY026E-01__GPT__ja__v003.wav",
+      "text": "コンゲン、ラマ……みんな来て。",
+      "file_seconds": 3.38,
+      "active_first": 0.26,
+      "active_last": 3.13,
+      "threshold_db": -42,
+      "plan_start_seconds": 253.83333333333334,
+      "tempo_candidate_authorized_scope": false
+    },
+    {
+      "id": "VO-CY024A-01",
+      "batch": 25,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A-01__GPT__ja__v003.wav",
+      "text": "蒼穹の果てに座し、",
+      "file_seconds": 3.12,
+      "active_first": 0.31,
+      "active_last": 2.35,
+      "threshold_db": -42,
+      "plan_start_seconds": 264.8333333333333,
+      "speed_candidates": {
+        "1.08": 2.8889,
+        "1.12": 2.7857,
+        "1.15": 2.713
+      },
+      "tempo_candidate_authorized_scope": true
+    },
+    {
+      "id": "VO-CY024A9-01",
+      "batch": 26,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY024A9-01__GPT__ja__v005.wav",
+      "text": "幾千の深き流れを統べる、清き水の主よ、",
+      "file_seconds": 7.3951875,
+      "active_first": 0.08,
+      "active_last": 7.38,
+      "threshold_db": -42,
+      "plan_start_seconds": 268.2916666666667,
+      "speed_candidates": {
+        "1.08": 6.8474,
+        "1.12": 6.6028,
+        "1.15": 6.4306
+      },
+      "tempo_candidate_authorized_scope": true
+    },
+    {
+      "id": "VO-CY024A2-01",
+      "batch": 26,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A2-01__GPT__ja__v003.wav",
+      "text": "この世に散らばる水の息吹を、",
+      "file_seconds": 7.24,
+      "active_first": 0.3,
+      "active_last": 6.94,
+      "threshold_db": -42,
+      "plan_start_seconds": 275.8333333333333,
+      "speed_candidates": {
+        "1.08": 6.7037,
+        "1.12": 6.4643,
+        "1.15": 6.2957
+      },
+      "tempo_candidate_authorized_scope": true
+    },
+    {
+      "id": "VO-CY024A3-01",
+      "batch": 27,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A3-01__GPT__ja__v003.wav",
+      "text": "星々の下に浮かぶ、果てなき海へと集めよ。",
+      "file_seconds": 6.44,
+      "active_first": 0.31,
+      "active_last": 6.13,
+      "threshold_db": -42,
+      "plan_start_seconds": 283.1666666666667,
+      "speed_candidates": {
+        "1.08": 5.963,
+        "1.12": 5.75,
+        "1.15": 5.6
+      },
+      "tempo_candidate_authorized_scope": true
+    },
+    {
+      "id": "VO-CY024A6-01",
+      "batch": 28,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A6-01__GPT__ja__v003.wav",
+      "text": "厚き雲を岸に、風を導きに、",
+      "file_seconds": 3.9199375,
+      "active_first": 0.32,
+      "active_last": 3.56,
+      "threshold_db": -42,
+      "plan_start_seconds": 289.7083333333333,
+      "tempo_candidate_authorized_scope": false
+    },
+    {
+      "id": "VO-CY024A6-02",
+      "batch": 28,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY024A6-02__GPT__ja__v005.wav",
+      "text": "眠れる潮よ、うねり、押し寄せよ。",
+      "file_seconds": 5.2535625,
+      "active_first": 0.09,
+      "active_last": 5.22,
+      "threshold_db": -40.62,
+      "plan_start_seconds": 293.9166666666667,
+      "tempo_candidate_authorized_scope": false
+    },
+    {
+      "id": "VO-CY024A7-01",
+      "batch": 29,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A7-01__GPT__ja__v003.wav",
+      "text": "今こそ天を開き、大海を翻せ。",
+      "file_seconds": 5.35,
+      "active_first": 0.31,
+      "active_last": 5.05,
+      "threshold_db": -42,
+      "plan_start_seconds": 299.7083333333333,
+      "tempo_candidate_authorized_scope": false
+    },
+    {
+      "id": "VO-CY024A4-01",
+      "batch": 30,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A4-01__GPT__ja__v003.wav",
+      "text": "罪なき者を焼く炎を、奔流で鎮めよ。",
+      "file_seconds": 4.76,
+      "active_first": 0.35,
+      "active_last": 4.46,
+      "threshold_db": -42,
+      "plan_start_seconds": 306.7916666666667,
+      "tempo_candidate_authorized_scope": false
+    },
+    {
+      "id": "VO-CY024A8-01",
+      "batch": 30,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A8-01__GPT__ja__v003.wav",
+      "text": "我が道を阻む壁を、荒波に沈めよ！",
+      "file_seconds": 5.18,
+      "active_first": 0.31,
+      "active_last": 4.88,
+      "threshold_db": -42,
+      "plan_start_seconds": 312.2916666666667,
+      "tempo_candidate_authorized_scope": false
+    },
+    {
+      "id": "VO-CY024A5-01",
+      "batch": 31,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY024A5-01__GPT__ja__v005.wav",
+      "text": "清き水の主よ、汝の救済を、ここに——",
+      "file_seconds": 6.8166875,
+      "active_first": 0.08,
+      "active_last": 6.74,
+      "threshold_db": -42,
+      "plan_start_seconds": 317.5,
+      "tempo_candidate_authorized_scope": false
+    },
+    {
+      "id": "VO-CY024A5-02",
+      "batch": 31,
+      "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY024A5-02__GPT__ja__v005.wav",
+      "text": "そうりゅうてんけい！",
+      "file_seconds": 1.3425625,
+      "active_first": 0.09,
+      "active_last": 1.25,
+      "threshold_db": -42,
+      "plan_start_seconds": 325.125,
+      "tempo_candidate_authorized_scope": false
+    }
+  ],
+  "application": "仅咏唱开场的比较数值，未应用加速；普通召集对话与后续术名不建议加速。"
+}

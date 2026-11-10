@@ -1,0 +1,1230 @@
+{
+  "result": {
+    "timeline": "v004_Screenshot_Targeted_Fixes",
+    "frames": 11497,
+    "video_count": 121,
+    "replacements": [
+      {
+        "name": "B05_v004_1282_01",
+        "start": 1282,
+        "end": 1378,
+        "source_start": 0,
+        "source_end": 96,
+        "speed": {
+          "Percentage": 100
+        }
+      },
+      {
+        "name": "B05_v004_1378_01",
+        "start": 1378,
+        "end": 1640,
+        "source_start": 0,
+        "source_end": 262,
+        "speed": {
+          "Percentage": 100
+        }
+      },
+      {
+        "name": "B06_v004_1640_01",
+        "start": 1640,
+        "end": 1694,
+        "source_start": 0,
+        "source_end": 54,
+        "speed": {
+          "Percentage": 100
+        }
+      },
+      {
+        "name": "B06_v004_1640_02",
+        "start": 1694,
+        "end": 1760,
+        "source_start": 54,
+        "source_end": 120,
+        "speed": {
+          "Percentage": 100
+        }
+      },
+      {
+        "name": "B06_GB005_01_v004_keep",
+        "start": 1760,
+        "end": 1832,
+        "source_start": 120,
+        "source_end": 192,
+        "speed": {
+          "Percentage": 100
+        }
+      },
+      {
+        "name": "B07_v004_2126_01",
+        "start": 2126,
+        "end": 2174,
+        "source_start": 24,
+        "source_end": 72,
+        "speed": {
+          "Percentage": 100
+        }
+      },
+      {
+        "name": "B07_v004_2126_02",
+        "start": 2174,
+        "end": 2234,
+        "source_start": 264,
+        "source_end": 312,
+        "speed": {
+          "Percentage": 80
+        }
+      },
+      {
+        "name": "B12_v004_3478_01",
+        "start": 3478,
+        "end": 3594,
+        "source_start": 0,
+        "source_end": 116,
+        "speed": {
+          "Percentage": 100
+        }
+      },
+      {
+        "name": "B12_v004_3478_02",
+        "start": 3594,
+        "end": 3622,
+        "source_start": 60,
+        "source_end": 74,
+        "speed": {
+          "Percentage": 50
+        }
+      },
+      {
+        "name": "B13_v004_3644_01",
+        "start": 3644,
+        "end": 3758,
+        "source_start": 0,
+        "source_end": 114,
+        "speed": {
+          "Percentage": 100
+        }
+      },
+      {
+        "name": "B13_GB011-1_01_v004_keep",
+        "start": 3758,
+        "end": 3818,
+        "source_start": 114,
+        "source_end": 174,
+        "speed": {
+          "Percentage": 100
+        }
+      },
+      {
+        "name": "B14_v004_3914_01",
+        "start": 3914,
+        "end": 4028,
+        "source_start": 114,
+        "source_end": 228,
+        "speed": {
+          "Percentage": 100
+        }
+      },
+      {
+        "name": "B14_v004_3914_02",
+        "start": 4028,
+        "end": 4058,
+        "source_start": 260,
+        "source_end": 275,
+        "speed": {
+          "Percentage": 50
+        }
+      },
+      {
+        "name": "B17_v004_4778_01",
+        "start": 4778,
+        "end": 4838,
+        "source_start": 24,
+        "source_end": 84,
+        "speed": {
+          "Percentage": 100
+        }
+      },
+      {
+        "name": "B18_GB014A_01_v004_keep",
+        "start": 4922,
+        "end": 5018,
+        "source_start": 0,
+        "source_end": 96,
+        "speed": {
+          "Percentage": 100
+        }
+      },
+      {
+        "name": "B18_v004_5018_01",
+        "start": 5018,
+        "end": 5162,
+        "source_start": 0,
+        "source_end": 144,
+        "speed": {
+          "Percentage": 100
+        }
+      },
+      {
+        "name": "B18_v004_5018_02",
+        "start": 5162,
+        "end": 5211,
+        "source_start": 95,
+        "source_end": 144,
+        "speed": {
+          "Percentage": 97.95918367346938
+        }
+      },
+      {
+        "name": "B18_v004_5018_03",
+        "start": 5211,
+        "end": 5229,
+        "source_start": 150,
+        "source_end": 168,
+        "speed": {
+          "Percentage": 100
+        }
+      },
+      {
+        "name": "B25_GB018_02_v004_keep",
+        "start": 6399,
+        "end": 6476,
+        "source_start": 96,
+        "source_end": 173,
+        "speed": {
+          "Percentage": 100
+        }
+      },
+      {
+        "name": "B25_v004_6476_01",
+        "start": 6476,
+        "end": 6536,
+        "source_start": 0,
+        "source_end": 60,
+        "speed": {
+          "Percentage": 100
+        }
+      },
+      {
+        "name": "B25_v004_6476_02",
+        "start": 6536,
+        "end": 6560,
+        "source_start": 60,
+        "source_end": 72,
+        "speed": {
+          "Percentage": 50
+        }
+      },
+      {
+        "name": "B25_v004_6476_03",
+        "start": 6560,
+        "end": 6632,
+        "source_start": 72,
+        "source_end": 144,
+        "speed": {
+          "Percentage": 100
+        }
+      },
+      {
+        "name": "B25_v004_6476_04",
+        "start": 6632,
+        "end": 6650,
+        "source_start": 179,
+        "source_end": 191,
+        "speed": {
+          "Percentage": 66.66666666666666
+        }
+      },
+      {
+        "name": "B37_v004_9699_01",
+        "start": 9699,
+        "end": 9781,
+        "source_start": 0,
+        "source_end": 82,
+        "speed": {
+          "Percentage": 100
+        }
+      }
+    ],
+    "audio": [
+      {
+        "track": 1,
+        "name": "VO-CY003-01",
+        "start": 235,
+        "end": 308.92,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY003-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 3.08,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY003B-01",
+        "start": 396,
+        "end": 471.6655,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY003B-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 3.1527291666666666,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY004-01",
+        "start": 516,
+        "end": 636,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY004-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 5,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY004D-01",
+        "start": 790,
+        "end": 842.8,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY004D-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 2.2,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY006-01",
+        "start": 960,
+        "end": 1069.92,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY006-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 4.58,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY007-01",
+        "start": 1097,
+        "end": 1179.32,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY007-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 3.43,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY008-01",
+        "start": 1198,
+        "end": 1263.2795,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY008-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 2.7199791666666666,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY008M-01",
+        "start": 1288,
+        "end": 1373.92,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY008M-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 3.58,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY008M-02",
+        "start": 1379,
+        "end": 1619.2395000000001,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY008M-02-工作源.wav",
+        "source_start": 0,
+        "source_end": 10.009979166666668,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY009-01",
+        "start": 1647,
+        "end": 1687.8,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY009-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 1.7,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY010A-01",
+        "start": 1910,
+        "end": 1978.88,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY010A-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 2.8699999999999997,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY015-01",
+        "start": 2428,
+        "end": 2466.88,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY015-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 1.62,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY015-02",
+        "start": 2474,
+        "end": 2510,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY015-02-工作源.wav",
+        "source_start": 0,
+        "source_end": 1.5,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY016A-01",
+        "start": 2659,
+        "end": 2760.28,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY016A-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 4.22,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY016A-02",
+        "start": 2767,
+        "end": 2847.639,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY016A-02-工作源.wav",
+        "source_start": 0,
+        "source_end": 3.359958333333333,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY016B1-01",
+        "start": 2903,
+        "end": 2936.12,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY016B1-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 1.38,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY021A-01",
+        "start": 3486,
+        "end": 3592,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY021A-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 4.416666666666667,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY021A-01-part2",
+        "start": 3592,
+        "end": 3617.2,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY021A-01-part2-工作源.wav",
+        "source_start": 0,
+        "source_end": 1.05,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY019-01",
+        "start": 3622,
+        "end": 3641.2,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY019-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 0.8000000000000002,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY020-01",
+        "start": 3668,
+        "end": 3731.3595,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY020-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 2.6399791666666665,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY021-01",
+        "start": 3924,
+        "end": 4023.12,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY021-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 4.13,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY024-01",
+        "start": 4786,
+        "end": 4819.84,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 1.41,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY024R-01",
+        "start": 4852,
+        "end": 4904.8,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024R-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 2.2,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY024K0-01",
+        "start": 5018,
+        "end": 5106.8,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024K0-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 3.7000000000000006,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY024K0-02",
+        "start": 5107,
+        "end": 5202.5205,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024K0-02-工作源.wav",
+        "source_start": 0,
+        "source_end": 3.980020833333333,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY024K1A-01",
+        "start": 5301,
+        "end": 5322.12,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024K1A-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 0.88,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY026A-01",
+        "start": 5717,
+        "end": 5760.68,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY026A-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 1.82,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY026A1-01",
+        "start": 5805,
+        "end": 5832.6005,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY026A1-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 1.1500208333333333,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY026B-01",
+        "start": 5844,
+        "end": 5867.52,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY026B-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 0.98,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY026B-02",
+        "start": 5875,
+        "end": 5904.52,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY026B-02-工作源.wav",
+        "source_start": 0,
+        "source_end": 1.23,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY026C-01",
+        "start": 5928,
+        "end": 5952.96,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY026C-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 1.04,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY026C-02",
+        "start": 5961,
+        "end": 5984.52,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY026C-02-工作源.wav",
+        "source_start": 0,
+        "source_end": 0.98,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY026D1-01",
+        "start": 6024,
+        "end": 6080.158,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY026D1-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 2.339916666666667,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY026D-01",
+        "start": 6088,
+        "end": 6259.854,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY026D-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 7.160583333333332,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY026D-02",
+        "start": 6267,
+        "end": 6300.575,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY026D-02-工作源.wav",
+        "source_start": 0,
+        "source_end": 1.3989583333333335,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY026E-01",
+        "start": 6303,
+        "end": 6384.12,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY026E-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 3.3800000000000003,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY024A0-01",
+        "start": 6401,
+        "end": 6432.53,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024A0-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 1.31375,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY024A-01",
+        "start": 6567,
+        "end": 6635.076,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024A-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 2.8364999999999996,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY024A9-01",
+        "start": 6656,
+        "end": 6815.155,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024A9-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 6.631458333333334,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY024A2-01",
+        "start": 6819,
+        "end": 6975.339,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024A2-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 6.514125,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY024A3-01",
+        "start": 7010,
+        "end": 7149.203,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024A3-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 5.800125,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY024A6-01",
+        "start": 7167,
+        "end": 7261.079,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024A6-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 3.919958333333333,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY024A6-02",
+        "start": 7268,
+        "end": 7394.086,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024A6-02-工作源.wav",
+        "source_start": 0,
+        "source_end": 5.253583333333333,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY024A7-01",
+        "start": 7407,
+        "end": 7535.4,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024A7-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 5.349999999999999,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY024A4-01",
+        "start": 7577,
+        "end": 7691.2395,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024A4-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 4.759979166666667,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY024A8-01",
+        "start": 7709,
+        "end": 7833.32,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024A8-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 5.18,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY024A5-01",
+        "start": 7834,
+        "end": 7997.6,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024A5-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 6.816666666666666,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY024A5-02",
+        "start": 8017,
+        "end": 8049.221,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024A5-02-工作源.wav",
+        "source_start": 0,
+        "source_end": 1.3425416666666667,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY027A-01",
+        "start": 8532,
+        "end": 8598.96,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY027A-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 2.7900000000000005,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY027B-01",
+        "start": 8665,
+        "end": 8687.32,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY027B-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 0.93,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY028A-01",
+        "start": 9634,
+        "end": 9671.92,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY028A-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 1.58,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY028A-02",
+        "start": 9699,
+        "end": 9735.24,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY028A-02-工作源.wav",
+        "source_start": 0,
+        "source_end": 1.51,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY028A2-01",
+        "start": 9781,
+        "end": 9878.68,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY028A2-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 4.07,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY028B-01",
+        "start": 9881,
+        "end": 9925.4,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY028B-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 1.8500000000000003,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY028C-01",
+        "start": 9937,
+        "end": 9978.28,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY028C-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 1.72,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY029-01",
+        "start": 9986,
+        "end": 10060.4,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY029-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 3.1,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY029E1-01",
+        "start": 10090,
+        "end": 10146.8795,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY029E1-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 2.3699791666666665,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY029E2-01",
+        "start": 10155,
+        "end": 10218.36,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY029E2-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 2.64,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY029E3-01",
+        "start": 10221,
+        "end": 10262.52,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY029E3-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 1.7299999999999998,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY029E4-01",
+        "start": 10293,
+        "end": 10355.64,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY029E4-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 2.61,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY029B1-01",
+        "start": 10368,
+        "end": 10391.76,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY029B1-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 0.9899999999999999,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY028-01",
+        "start": 10708,
+        "end": 10729.12,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY028-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 0.88,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY031A-01",
+        "start": 11049,
+        "end": 11091.72,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY031A-01-工作源.wav",
+        "source_start": 0,
+        "source_end": 1.78,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 1,
+        "name": "VO-CY031A-02",
+        "start": 11099,
+        "end": 11115.8,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY031A-02-工作源.wav",
+        "source_start": 0,
+        "source_end": 0.6999999999999998,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 2,
+        "name": "M01",
+        "start": 110,
+        "end": 691.1999999999999,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\M01-音乐工作段.wav",
+        "source_start": 0,
+        "source_end": 24.216666666666665,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 2,
+        "name": "M03",
+        "start": 1900,
+        "end": 3184.2,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\M03-音乐工作段.wav",
+        "source_start": 0,
+        "source_end": 53.50833333333333,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 2,
+        "name": "M05",
+        "start": 4504,
+        "end": 4667.2,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\M05-音乐工作段.wav",
+        "source_start": 0,
+        "source_end": 6.8,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 2,
+        "name": "M06",
+        "start": 4707,
+        "end": 4847.2,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\M06-音乐工作段.wav",
+        "source_start": 0,
+        "source_end": 5.841666666666666,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 2,
+        "name": "M08",
+        "start": 5633,
+        "end": 5724.2,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\M08-音乐工作段.wav",
+        "source_start": 0,
+        "source_end": 3.7999999999999994,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 2,
+        "name": "M09",
+        "start": 6389,
+        "end": 8007.2,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\M09-音乐工作段.wav",
+        "source_start": 0,
+        "source_end": 67.425,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 2,
+        "name": "N02_aftermath",
+        "start": 8377,
+        "end": 8716,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\N02_aftermath-音乐工作段.wav",
+        "source_start": 0,
+        "source_end": 14.125,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 2,
+        "name": "N03_rescue",
+        "start": 9373,
+        "end": 10108,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\N03_rescue-音乐工作段.wav",
+        "source_start": 0,
+        "source_end": 30.625,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 2,
+        "name": "N04_carry_exit",
+        "start": 10621,
+        "end": 10926,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\N04_carry_exit-音乐工作段.wav",
+        "source_start": 0,
+        "source_end": 12.708333333333334,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 3,
+        "name": "M02",
+        "start": 672,
+        "end": 1919.2,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\M02-音乐工作段.wav",
+        "source_start": 0,
+        "source_end": 51.96666666666667,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 3,
+        "name": "M04",
+        "start": 3165,
+        "end": 4523.2,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\M04-音乐工作段.wav",
+        "source_start": 0,
+        "source_end": 56.59166666666667,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 3,
+        "name": "M07",
+        "start": 4828,
+        "end": 5652.2,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\M07-音乐工作段.wav",
+        "source_start": 0,
+        "source_end": 34.34166666666667,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 3,
+        "name": "N01_flashback",
+        "start": 5696,
+        "end": 6418,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\N01_flashback-音乐工作段.wav",
+        "source_start": 0,
+        "source_end": 30.083333333333332,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 3,
+        "name": "M10",
+        "start": 8007,
+        "end": 8395.2,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\M10-音乐工作段.wav",
+        "source_start": 0,
+        "source_end": 16.175,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 3,
+        "name": "M11",
+        "start": 8686,
+        "end": 9401.2,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\M11-音乐工作段.wav",
+        "source_start": 0,
+        "source_end": 29.8,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 3,
+        "name": "M12",
+        "start": 10080,
+        "end": 10650.2,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\M12-音乐工作段.wav",
+        "source_start": 0,
+        "source_end": 23.758333333333336,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 3,
+        "name": "M13",
+        "start": 10895,
+        "end": 11400.6,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\M13-音乐工作段.wav",
+        "source_start": 0,
+        "source_end": 21.066666666666666,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 5,
+        "name": "Ambience",
+        "start": 0,
+        "end": 11497,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\Ambience-v003-stem.wav",
+        "source_start": 0,
+        "source_end": 479.0416666666667,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 6,
+        "name": "Foley",
+        "start": 0,
+        "end": 11497,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\截图定点修正-v004\\声音\\Foley-v004-stem.wav",
+        "source_start": 0,
+        "source_end": 479.0416666666667,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 7,
+        "name": "Action",
+        "start": 0,
+        "end": 11497,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\Action-v003-stem.wav",
+        "source_start": 0,
+        "source_end": 479.0416666666667,
+        "enabled": true,
+        "volume": -3
+      },
+      {
+        "track": 8,
+        "name": "Magic",
+        "start": 0,
+        "end": 11497,
+        "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\Magic-v003-stem.wav",
+        "source_start": 0,
+        "source_end": 479.0416666666667,
+        "enabled": true,
+        "volume": -3
+      }
+    ],
+    "tracks": [
+      {
+        "index": 1,
+        "name": "Dialogue_Selected",
+        "enabled": true
+      },
+      {
+        "index": 2,
+        "name": "Music_A",
+        "enabled": true
+      },
+      {
+        "index": 3,
+        "name": "Music_B",
+        "enabled": true
+      },
+      {
+        "index": 4,
+        "name": "Music_C",
+        "enabled": true
+      },
+      {
+        "index": 5,
+        "name": "Ambience",
+        "enabled": true
+      },
+      {
+        "index": 6,
+        "name": "Foley",
+        "enabled": true
+      },
+      {
+        "index": 7,
+        "name": "Action",
+        "enabled": true
+      },
+      {
+        "index": 8,
+        "name": "Magic",
+        "enabled": true
+      }
+    ],
+    "save": true,
+    "exported": false
+  }
+}

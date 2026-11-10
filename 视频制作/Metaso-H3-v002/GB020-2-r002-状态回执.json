@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115146615909572608",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "水龙俯冲撞裂教堂屋顶",
+    "status": "succeeded",
+    "created_at": 1793125225,
+    "updated_at": 1793125245,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115146615909572608/content?expires=1793730046&signature=8097a56e0f1df8821f7d7c107a63d3bda4b0f06eddd16370b12077bf4247b4be"
+    },
+    "resolution": "768P",
+    "duration": 6,
+    "usage": {
+      "total_seconds": 6,
+      "input_seconds": 0,
+      "output_seconds": 6,
+      "input_image_count": 1
+    },
+    "ratio": "16:9",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

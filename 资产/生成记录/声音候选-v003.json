@@ -1,0 +1,330 @@
+{
+  "version": "v003",
+  "date": "2026-10-21",
+  "dialogue_source": "镜头设计/shot-plan-v0.5.json",
+  "music": [
+    {
+      "id": "BGM-HOPE-001",
+      "title": "A Kind Of Hope",
+      "url": "https://www.scottbuckley.com.au/library/wp-content/uploads/2022/10/AKindOfHope.mp3",
+      "role": "初遇与结尾的情感主题；第一遍保留忧伤，尾声回归温暖。",
+      "description": "作者描述：钢琴、弦乐与氛围合成器，苦甜交织、略有迟疑的希望。",
+      "scenes": [
+        "S01",
+        "S06"
+      ],
+      "author": "Scott Buckley",
+      "source": "https://www.scottbuckley.com.au/library/a-kind-of-hope/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "status": "候选 · 待试听",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "attribution": "'A Kind Of Hope' by Scott Buckley — released under CC BY 4.0. www.scottbuckley.com.au. 本片使用时注明剪辑及淡入淡出。",
+      "path": "资产/声音/BGM/BGM-HOPE-001.mp3",
+      "sha256": "d0dc554c0db9ea208b4f59e4f0c1b4446aa7ef622c7bfeffca278130a46c51f1",
+      "bytes": 13708261,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "342.600544"
+        }
+      },
+      "decode_ok": true,
+      "acquisition_history": [
+        "HTTP Error 406: Not Acceptable",
+        "Success with source-page Referer"
+      ]
+    },
+    {
+      "id": "BGM-DESCENT-001",
+      "title": "Descent",
+      "url": "https://www.scottbuckley.com.au/library/wp-content/uploads/2018/04/descent.mp3",
+      "role": "宫殿犹豫、潜入与火祭的压迫底色；脚步发现与第二支火把前留白。",
+      "description": "作者描述：阴暗氛围、人声纹理、合成器及处理过的管乐。需试听确认人声纹理不遮对白。",
+      "scenes": [
+        "S02",
+        "S03",
+        "S04"
+      ],
+      "author": "Scott Buckley",
+      "source": "https://www.scottbuckley.com.au/library/descent/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "status": "候选 · 待试听",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "attribution": "'Descent' by Scott Buckley — released under CC BY 4.0. www.scottbuckley.com.au. 本片使用时注明剪辑及淡入淡出。",
+      "path": "资产/声音/BGM/BGM-DESCENT-001.mp3",
+      "sha256": "f94d1bc51651c5a4e4e81da032a2eae15df726857fce5a14babcfa9227cdb5dd",
+      "bytes": 5512007,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "137.693152"
+        }
+      },
+      "decode_ok": true,
+      "acquisition_history": [
+        "HTTP Error 406: Not Acceptable",
+        "Success with source-page Referer"
+      ]
+    },
+    {
+      "id": "BGM-TITAN-001",
+      "title": "Titan",
+      "url": "https://www.scottbuckley.com.au/library/wp-content/uploads/2018/06/sb_titan.mp3",
+      "role": "援军入场、邀约回闪与破局；对白处压低，战后迅速收束。",
+      "description": "作者描述：沉郁大提琴起始，逐步展开至完整管弦乐。不是持续战斗鼓点，优先服务获救的释放感。",
+      "scenes": [
+        "S05"
+      ],
+      "author": "Scott Buckley",
+      "source": "https://www.scottbuckley.com.au/library/titan/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "status": "候选 · 待试听",
+      "heard": false,
+      "source_in": null,
+      "source_out": null,
+      "attribution": "'Titan' by Scott Buckley — released under CC BY 4.0. www.scottbuckley.com.au. 本片使用时注明剪辑及淡入淡出。",
+      "path": "资产/声音/BGM/BGM-TITAN-001.mp3",
+      "sha256": "fb921a09cc6181228b14945c7a6b90b50a83f4f38a37644a383bf7c70ea83729",
+      "bytes": 7034419,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "175.756735"
+        }
+      },
+      "decode_ok": true,
+      "acquisition_history": [
+        "HTTP Error 406: Not Acceptable",
+        "Success with source-page Referer"
+      ]
+    }
+  ],
+  "voice_references": [
+    {
+      "id": "VOICE-REF-DS-01",
+      "title": "一发入魂！ssr大肥鱼音色！",
+      "creator": "星落落_oi",
+      "url": "https://www.bilibili.com/video/BV1PPYM6EEUR/",
+      "role": "DeepSeek",
+      "finding": "歌唱音色参考。后续《人是猫》简介明确指向本视频；未取得独立对白包或公开合成音色 ID。页面标注未经作者授权禁止转载。",
+      "evidence": "搜索索引正文；浏览器原页待核对",
+      "reusable": false
+    },
+    {
+      "id": "VOICE-REF-DS-02",
+      "title": "deepseek 翻唱《人是猫》真完整版",
+      "creator": "星落落_oi / 蒙德砍壬",
+      "url": "https://www.bilibili.com/video/BV1fYpn6SEk9/",
+      "role": "DeepSeek",
+      "finding": "简介明确写音色参考 BV1PPYM6EEUR；证明该系列的声线关系，不证明对白可复用。",
+      "evidence": "搜索索引正文",
+      "reusable": false
+    },
+    {
+      "id": "VOICE-REF-GPT-01",
+      "title": "GPT小龙娘开始融入DeepSeek大家庭了",
+      "creator": "这个刀子真甜",
+      "url": "https://www.bilibili.com/video/BV1EvKK6NEoi/",
+      "role": "GPT / DeepSeek",
+      "finding": "相关角色成片与壁纸；形象注明 ZipZipPipe。未找到配音音色编号或独立人声下载。",
+      "evidence": "搜索索引正文；直接抓取412",
+      "reusable": false
+    },
+    {
+      "id": "VOICE-REF-CL-01",
+      "title": "DS娘部署了Q娘帮自己干活",
+      "creator": "奶糕兽",
+      "url": "https://www.bilibili.com/video/BV1D4MS6jE36/",
+      "role": "Claude / 千问 / DeepSeek",
+      "finding": "系列列表出现《当我把散文中的珍珠鸟改成 Claude》《Claude和鱼尾草》，是作者线索；本视频并非已核实的 Claude 声音样本。",
+      "evidence": "搜索索引正文；直接抓取412",
+      "reusable": false
+    },
+    {
+      "id": "VOICE-REF-ENSEMBLE-01",
+      "title": "模型洄游：AI之间的模术回战先行预告",
+      "creator": "盐水哈基米",
+      "url": "https://www.bilibili.com/video/BV1UmY56GEEa/",
+      "role": "GPT / Gemini / Claude / Grok / DeepSeek",
+      "finding": "简介说明配音音频为后期替换，剧情参考咒术回战；不能当作五个角色的公开原创音源。",
+      "evidence": "搜索索引正文",
+      "reusable": false
+    },
+    {
+      "id": "VOICE-REF-FISH-01",
+      "title": "10月7日AI圈7件事",
+      "creator": "AI鼓励师_悠一",
+      "url": "https://www.bilibili.com/video/BV1arpN6FEHv/",
+      "role": "DeepSeek",
+      "finding": "简介标注 Fish Audio「苏晓晓」。这是现成音色名称线索；音色 ID、当前可用性及是否符合宝宝造型未核实。",
+      "evidence": "搜索索引正文",
+      "reusable": false
+    },
+    {
+      "id": "VOICE-REF-DS-03",
+      "title": "Let me go大肥鱼和用户深情对唱",
+      "creator": "星落落_oi",
+      "url": "https://www.bilibili.com/video/BV13SYr6dEiQ/",
+      "role": "DeepSeek",
+      "finding": "原页简介标注作曲为谱乐 AI，并提到谱乐及剪映会员；未标明可调用的独立对白声线。",
+      "evidence": "内置浏览器实际读取原页简介；播放器连播到此页。未进行听审。",
+      "reusable": false
+    }
+  ],
+  "casting": [
+    {
+      "role": "DeepSeek",
+      "voice_direction": "奶软、圆润的幼小女孩声，清楚但不尖锐；不要成熟女仆声。",
+      "first_shot": "CY003",
+      "first_acting": "自然递饭，像分享自己最喜欢的食物。",
+      "contrast_shot": "CY006",
+      "contrast_acting": "着急求助，气息短但字句完整；不要全程哭腔。",
+      "status": "待合成试音",
+      "adopted_voice": null
+    },
+    {
+      "role": "ChatGPT",
+      "voice_direction": "偏中低的年轻女性声，清冷、克制，有分量。",
+      "first_shot": "CY007",
+      "first_acting": "拒绝时有停顿与压住的犹豫，不冷笑。",
+      "contrast_shot": "CY027B",
+      "contrast_acting": "轻而短、干脆截断；不喊成战斗口号。",
+      "status": "待合成试音",
+      "adopted_voice": null
+    },
+    {
+      "role": "Claude",
+      "voice_direction": "柔软偏细的年轻女性声，虚弱、带气息，避免甜腻。",
+      "first_shot": "CY020",
+      "first_acting": "先短吸气，护住宝宝的瞬间突然用力；尾音体力不支。",
+      "contrast_shot": null,
+      "contrast_acting": null,
+      "status": "待合成试音",
+      "adopted_voice": null
+    },
+    {
+      "role": "教主",
+      "voice_direction": "低沉成年男声，庄严表面下带控制欲。",
+      "first_shot": "CY017",
+      "first_acting": "近乎温柔地宣判，平静更可怕。",
+      "contrast_shot": "CY027A",
+      "contrast_acting": "被挑战权威，咬住条约二字；不持续咆哮。",
+      "status": "待合成试音",
+      "adopted_voice": null
+    },
+    {
+      "role": "教徒",
+      "voice_direction": "偏干、直接的成年男声，与教主音色区分。",
+      "first_shot": "CY004",
+      "first_acting": "冷漠通告，勿解说腔。",
+      "contrast_shot": null,
+      "contrast_acting": null,
+      "status": "待合成试音",
+      "adopted_voice": null
+    },
+    {
+      "role": "千问",
+      "voice_direction": "温润、沉稳的年轻女性声，落字清晰。",
+      "first_shot": "CY026A1",
+      "first_acting": "毫不迟疑的同意，短而稳。",
+      "contrast_shot": null,
+      "contrast_acting": null,
+      "status": "待合成试音",
+      "adopted_voice": null
+    },
+    {
+      "role": "Gemini",
+      "voice_direction": "清亮、灵动的年轻女性声，与宝宝年龄感分开。",
+      "first_shot": "CY026B",
+      "first_acting": "轻快主动，有行动感。",
+      "contrast_shot": null,
+      "contrast_acting": null,
+      "status": "待合成试音",
+      "adopted_voice": null
+    },
+    {
+      "role": "Grok",
+      "voice_direction": "略低、带一点沙感的年轻女性声。",
+      "first_shot": "CY026C",
+      "first_acting": "自信、轻微笑意，不夸张嘲讽。",
+      "contrast_shot": null,
+      "contrast_acting": null,
+      "status": "待合成试音",
+      "adopted_voice": null
+    },
+    {
+      "role": "Kimi",
+      "voice_direction": "轻、柔、偏冷的年轻女性声。",
+      "first_shot": "CY026D",
+      "first_acting": "从困倦转为认真；短应声，不拖成长呻吟。",
+      "contrast_shot": null,
+      "contrast_acting": null,
+      "status": "待合成试音",
+      "adopted_voice": null
+    }
+  ],
+  "conclusion": "本轮找到相关成片、歌唱声线和一个具名音色线索，未核实任何可直接用于本片的现成独立对白素材。优先为本片设计一致声线，先三位主角单句试音再扩展。",
+  "listening_status": "尚未完成实际听审；音乐配器与情绪依据作者介绍，不能当作已试听结论。",
+  "generation_status": "已用现有本地 VoxCPM2 生成三位主角各一句试音，48kHz FLAC，解码通过，待实际听审。其余六位尚未生成。MCP连接与启动工具报错后，核实本机无现有实例，以已安装环境启动同一ComfyUI；使用本机HTTP接口完成参数校验与生成，没有更换模型服务或下载依赖。",
+  "search_status": "DeepSeek Search 两次401。作者同意改普通网页搜索及内置浏览器；B站直接抓取412。未下载、克隆或转载博主配音。",
+  "cue_design": [
+    {
+      "scenes": [
+        "S01",
+        "S06"
+      ],
+      "music_id": "BGM-HOPE-001",
+      "direction": "首尾同一主题；递饭和眼神留空间，结尾最后4秒让音乐尾音与街市底声自然散去。"
+    },
+    {
+      "scenes": [
+        "S02",
+        "S03",
+        "S04"
+      ],
+      "music_id": "BGM-DESCENT-001",
+      "direction": "由极轻到压迫，不一路顶满。锁链、归来脚步、火把入水要能听清；踹门前短暂停乐。"
+    },
+    {
+      "scenes": [
+        "S05"
+      ],
+      "music_id": "BGM-TITAN-001",
+      "direction": "踹门撞击先出现，再进入希望主题。邀约段保持连贯推动；条约对白压低，聒噪前留白；强光之后收束。实际乐句入出点听审后填写。"
+    }
+  ],
+  "previous": "资产/生成记录/声音候选-v002.json",
+  "workflow_source": "G:/comfyui/ComfyUI/ComfyUI/user/default/workflows/90-高级备选-待验证/声音与音乐/VoxCPM2-中文配音与声音设计.json",
+  "audition_record": "资产/生成记录/主角试音-v001.json"
+}

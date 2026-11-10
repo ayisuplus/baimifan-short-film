@@ -1,0 +1,217 @@
+{
+  "id": "d24cbe9a-23a8-4ccc-859c-7cc192a019b7",
+  "revision": 0,
+  "last_node_id": 43,
+  "last_link_id": 54,
+  "nodes": [
+    {
+      "id": 40,
+      "type": "WooshLoadFlow",
+      "pos": [
+        40,
+        80
+      ],
+      "size": [
+        277.30625,
+        82
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "gen_model",
+          "type": "WOOSH_GEN_MODEL",
+          "links": [
+            51
+          ]
+        }
+      ],
+      "properties": {
+        "aux_id": "Saganaki22/ComfyUI-Woosh",
+        "ver": "a2523c2d689aff3b0f2e24fa293acc020a08c357",
+        "Node name for S&R": "WooshLoadFlow"
+      },
+      "widgets_values": [
+        "Woosh-Flow",
+        "Flow"
+      ],
+      "title": "Woosh 模型"
+    },
+    {
+      "id": 41,
+      "type": "WooshTextEncode",
+      "pos": [
+        40,
+        240
+      ],
+      "size": [
+        318.06232538867744,
+        65.95369134042471
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text_conditioning",
+          "type": "WOOSH_TEXT_COND",
+          "links": [
+            52
+          ]
+        }
+      ],
+      "properties": {
+        "aux_id": "Saganaki22/ComfyUI-Woosh",
+        "ver": "a2523c2d689aff3b0f2e24fa293acc020a08c357",
+        "Node name for S&R": "WooshTextEncode"
+      },
+      "widgets_values": [
+        "T2A — text to audio (Flow/DFlow)"
+      ],
+      "title": "文字条件"
+    },
+    {
+      "id": 39,
+      "type": "WooshSample",
+      "pos": [
+        400,
+        80
+      ],
+      "size": [
+        430,
+        380
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "gen_model",
+          "type": "WOOSH_GEN_MODEL",
+          "link": 51
+        },
+        {
+          "name": "text_conditioning",
+          "shape": 7,
+          "type": "WOOSH_TEXT_COND",
+          "link": 52
+        },
+        {
+          "name": "video",
+          "shape": 7,
+          "type": "WOOSH_VIDEO",
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "name": "video_frames",
+          "type": "IMAGE",
+          "links": []
+        },
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "links": [
+            54
+          ]
+        }
+      ],
+      "properties": {
+        "aux_id": "Saganaki22/ComfyUI-Woosh",
+        "ver": "a2523c2d689aff3b0f2e24fa293acc020a08c357",
+        "Node name for S&R": "WooshSample"
+      },
+      "widgets_values": [
+        "thunderstorm and rain",
+        50,
+        4.5,
+        1025217914,
+        "fixed",
+        501,
+        true,
+        false
+      ],
+      "title": "音效描述与生成"
+    },
+    {
+      "id": 43,
+      "type": "SaveAudioAdvanced",
+      "pos": [
+        890,
+        80
+      ],
+      "size": [
+        350,
+        200
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "title": "保存音效并试听",
+      "inputs": [
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "link": 54
+        }
+      ],
+      "outputs": [
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "links": null,
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SaveAudioAdvanced"
+      },
+      "widgets_values": [
+        "audio/Woosh",
+        "flac"
+      ]
+    }
+  ],
+  "links": [
+    [
+      51,
+      40,
+      0,
+      39,
+      0,
+      "WOOSH_GEN_MODEL"
+    ],
+    [
+      52,
+      41,
+      0,
+      39,
+      1,
+      "WOOSH_TEXT_COND"
+    ],
+    [
+      54,
+      39,
+      1,
+      43,
+      0,
+      "AUDIO"
+    ]
+  ],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 1,
+      "offset": [
+        0,
+        0
+      ]
+    }
+  },
+  "version": 0.4
+}

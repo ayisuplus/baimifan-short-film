@@ -1,0 +1,24 @@
+subject_definitions:
+<Subject 1>: ChatGPT, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: Gemini, identity and outfit from four-view sheet <Picture 2>.
+<Picture 3>: [Shot 1] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. Continue the actions below in their listed order, without restarting ongoing motion or speech.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Let the fan sound finish, then cut to another location within the earlier recruitment montage; the book is already open, without a shown journey. Use <Picture 3> for composition. Earlier, at Gemini's cottage, Gemini sits before an already open book while GPT stands beside the table. In one two-shot GPT calls her name; Gemini lifts her eyes from the pages and answers. She has agreed by the end, and the book stays on the table without another placing or opening action. In the cottage two-shot, tilt slightly from Gemini and the already open book to include GPT beside the table, then retain both for the call and reply. Quiet indoor flame ambience and slight paper movement; the name, brief pause and reply remain clear within the shot. From 0.1 to 1.8 seconds, ChatGPT (S1) speaks with matching lip movement: <d>[Japanese] ジェミニ。</d>. From 2 to 3.28 seconds, Gemini (S2) speaks with matching lip movement: <d>[Japanese] 私も行く。</d>.
+From 4 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

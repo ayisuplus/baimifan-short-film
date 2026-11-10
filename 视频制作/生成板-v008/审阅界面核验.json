@@ -1,0 +1,16 @@
+{
+  "historical_regression": [
+    "v006",
+    "v007"
+  ],
+  "unchanged_per_version": "34 batches, 68 prompts, dialogue cues and reference inputs",
+  "ui_checks": [
+    "61 dialogue cards in full reading view",
+    "Chinese exact phrase filtering",
+    "小鱼 alias search",
+    "return from reading to matching batch",
+    "expand unadopted Japanese suggestion"
+  ],
+  "source_and_prompts_changed": false,
+  "scope": "结构、文字与浏览器可见性核验；未做声音听审或视频生成"
+}

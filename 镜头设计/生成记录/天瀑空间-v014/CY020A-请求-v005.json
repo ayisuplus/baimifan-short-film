@@ -1,0 +1,13 @@
+{
+  "id": "CY020A",
+  "take": 5,
+  "destination": "镜头设计/图像/天瀑空间-v014/CY020A-v014-r5.png",
+  "request": "镜头设计/生成记录/天瀑空间-v014/CY020A-请求-v005.json",
+  "input": {
+    "prompt": "仅删除最高平台靠近Claude左右的两只额外小火盆与她脚下的火苗。保留阶梯下中上原有三对大铜火盆、两支蜡烛和两盏圣灯。Claude脚下低柴尚未点燃。其他人物、阶梯、光照、构图不变。",
+    "referenced_image_paths": [
+      "C:\\Users\\36322\\.codex\\generated_images\\01a1587f-dadf-7201-b369-999281d55060\\exec-d786c818-4109-4123-9b5d-a3c40dfc4a4f.png"
+    ],
+    "transparent_background": false
+  }
+}

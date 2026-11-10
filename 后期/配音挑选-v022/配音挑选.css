@@ -1,0 +1,10 @@
+.voice-picker{margin:18px 0;padding:20px;background:#18232f;border:1px solid #38505e;border-radius:12px}
+.picker-header{display:flex;align-items:flex-start;justify-content:space-between;gap:14px;flex-wrap:wrap}
+.picker-header h2{margin:0;font-size:20px;color:#f2e1bd}.picker-header p{margin:4px 0 12px;color:#b7cad4;font-size:13px}
+.choice-count{color:#b9e2d9;font-size:13px}.picker-warning{margin:5px 0 12px;color:#e8c99c;font-size:13px}
+.voice-jumps{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px}.voice-jumps button{font-size:13px;padding:6px 11px}
+#choice-status{min-height:1.5em;color:#a8c7bd;font-size:13px}.voice-line{padding:15px 0;border-top:1px solid #354551}
+.voice-line h3{margin:0 0 5px;font-size:16px}.voice-jp{color:#f4ead7;font-size:18px;margin:5px 0}.voice-zh{color:#b9c8d3;font-size:13px;margin:0 0 8px}
+.voice-context{color:#a9bdc8;font-size:12px;margin:5px 0 10px}.voice-option{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:12px;margin:8px 0;padding:10px 12px;border:1px solid #3a4b59;border-radius:8px;background:#111b25}
+.voice-option.is-chosen{border-color:#8ed2b8;background:#172e2b}.voice-option strong{font-size:14px}.voice-option small{display:block;color:#a5b9c4;line-height:1.5;margin-top:3px}.voice-actions{display:flex;gap:6px;align-items:center;flex-wrap:wrap}.voice-actions button{font-size:13px;padding:7px 11px;white-space:nowrap}.voice-actions button.pick{background:#3f7166;border-color:#6ab49b}.voice-actions button:disabled{opacity:.5;cursor:not-allowed}.voice-actions .current{color:#c4d7de;font-size:12px}.voice-actions .selected{color:#a9e5c6;font-size:13px;font-weight:bold}.group-details{margin-top:10px;color:#c4d2d6;font-size:13px}.group-details summary{color:#a8dcd0;font-weight:600}.group-details p{color:#a9bdc8;font-size:12px}.picker-empty{padding:14px 0;color:#a9bdc8;font-size:14px}
+@media(max-width:600px){.voice-option{grid-template-columns:1fr}.voice-actions{justify-content:flex-start}.voice-picker{padding:14px}.picker-header h2{font-size:18px}}

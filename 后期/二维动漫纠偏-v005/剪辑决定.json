@@ -1,0 +1,246 @@
+{
+  "edits": [
+    {
+      "start": 4778,
+      "end": 4838,
+      "segments": [
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v009\\产物\\GB014-v009-group-2d-r1.mp4",
+          "in": 24,
+          "out": 84,
+          "record": 4778,
+          "frames": 60,
+          "speed": 100,
+          "batch": 17,
+          "props": {},
+          "name": "B17_v005_2D_4778",
+          "note": "二维手绘动漫局部纠偏，实际角色表演；保留现有声音和全片时长"
+        }
+      ]
+    },
+    {
+      "start": 9699,
+      "end": 9781,
+      "segments": [
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v009\\产物\\GB027-v009-stair-eyeline-2d-r1.mp4",
+          "in": 0,
+          "out": 82,
+          "record": 9699,
+          "frames": 82,
+          "speed": 100,
+          "batch": 37,
+          "props": {},
+          "name": "B37_v005_2D_9699",
+          "note": "二维手绘动漫局部纠偏，实际角色表演；保留现有声音和全片时长"
+        }
+      ]
+    },
+    {
+      "start": 6476,
+      "end": 6650,
+      "segments": [
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v009\\产物\\GB018-v009-gpt-rise-2d-r1.mp4",
+          "in": 0,
+          "out": 84,
+          "record": 6476,
+          "frames": 84,
+          "speed": 100,
+          "batch": 25,
+          "props": {},
+          "name": "B25_v005_2D_6476",
+          "note": "二维动漫纠偏；翼面细节避开无声提前张嘴，有声段及闭口尾均原速；原声音位置不变"
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v009\\产物\\GB018-v009-gpt-rise-2d-r1.mp4",
+          "in": 84,
+          "out": 102,
+          "record": 6560,
+          "frames": 18,
+          "speed": 100,
+          "batch": 25,
+          "props": {
+            "ZoomX": 2.4705882352941178,
+            "ZoomY": 2.4705882352941178,
+            "Pan": 988.2352941176471,
+            "Tilt": -558.7058823529412
+          },
+          "name": "B25_v005_2D_6560",
+          "note": "二维动漫纠偏；翼面细节避开无声提前张嘴，有声段及闭口尾均原速；原声音位置不变"
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v009\\产物\\GB018-v009-gpt-rise-2d-r1.mp4",
+          "in": 102,
+          "out": 152,
+          "record": 6578,
+          "frames": 50,
+          "speed": 100,
+          "batch": 25,
+          "props": {},
+          "name": "B25_v005_2D_6578",
+          "note": "二维动漫纠偏；翼面细节避开无声提前张嘴，有声段及闭口尾均原速；原声音位置不变"
+        },
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v009\\产物\\GB018-v009-gpt-rise-2d-r1.mp4",
+          "in": 162,
+          "out": 184,
+          "record": 6628,
+          "frames": 22,
+          "speed": 100,
+          "batch": 25,
+          "props": {},
+          "name": "B25_v005_2D_6628",
+          "note": "二维动漫纠偏；翼面细节避开无声提前张嘴，有声段及闭口尾均原速；原声音位置不变"
+        }
+      ]
+    },
+    {
+      "start": 2126,
+      "end": 2174,
+      "segments": [
+        {
+          "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v009\\产物\\GB006-v009-early-inside-2d-r1.mp4",
+          "in": 36,
+          "out": 84,
+          "record": 2126,
+          "frames": 48,
+          "speed": 100,
+          "batch": 7,
+          "props": {},
+          "name": "B07_v005_2D_2126",
+          "note": "二维动漫入洞过渡；手膝承重末段到抬眼定势，原速48帧，不加对白"
+        }
+      ]
+    }
+  ],
+  "affected": [
+    {
+      "name": "B07_v004_2126_01",
+      "start": 2126,
+      "end": 2174
+    },
+    {
+      "name": "B17_v004_4778_01",
+      "start": 4778,
+      "end": 4838
+    },
+    {
+      "name": "B25_v004_6476_01",
+      "start": 6476,
+      "end": 6536
+    },
+    {
+      "name": "B25_v004_6476_02",
+      "start": 6536,
+      "end": 6560
+    },
+    {
+      "name": "B25_v004_6476_03",
+      "start": 6560,
+      "end": 6632
+    },
+    {
+      "name": "B25_v004_6476_04",
+      "start": 6632,
+      "end": 6650
+    },
+    {
+      "name": "B37_v004_9699_01",
+      "start": 9699,
+      "end": 9781
+    }
+  ],
+  "replacements": [
+    {
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v009\\产物\\GB014-v009-group-2d-r1.mp4",
+      "in": 24,
+      "out": 84,
+      "record": 4778,
+      "frames": 60,
+      "speed": 100,
+      "batch": 17,
+      "props": {},
+      "name": "B17_v005_2D_4778",
+      "note": "二维手绘动漫局部纠偏，实际角色表演；保留现有声音和全片时长"
+    },
+    {
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v009\\产物\\GB027-v009-stair-eyeline-2d-r1.mp4",
+      "in": 0,
+      "out": 82,
+      "record": 9699,
+      "frames": 82,
+      "speed": 100,
+      "batch": 37,
+      "props": {},
+      "name": "B37_v005_2D_9699",
+      "note": "二维手绘动漫局部纠偏，实际角色表演；保留现有声音和全片时长"
+    },
+    {
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v009\\产物\\GB018-v009-gpt-rise-2d-r1.mp4",
+      "in": 0,
+      "out": 84,
+      "record": 6476,
+      "frames": 84,
+      "speed": 100,
+      "batch": 25,
+      "props": {},
+      "name": "B25_v005_2D_6476",
+      "note": "二维动漫纠偏；翼面细节避开无声提前张嘴，有声段及闭口尾均原速；原声音位置不变"
+    },
+    {
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v009\\产物\\GB018-v009-gpt-rise-2d-r1.mp4",
+      "in": 84,
+      "out": 102,
+      "record": 6560,
+      "frames": 18,
+      "speed": 100,
+      "batch": 25,
+      "props": {
+        "ZoomX": 2.4705882352941178,
+        "ZoomY": 2.4705882352941178,
+        "Pan": 988.2352941176471,
+        "Tilt": -558.7058823529412
+      },
+      "name": "B25_v005_2D_6560",
+      "note": "二维动漫纠偏；翼面细节避开无声提前张嘴，有声段及闭口尾均原速；原声音位置不变"
+    },
+    {
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v009\\产物\\GB018-v009-gpt-rise-2d-r1.mp4",
+      "in": 102,
+      "out": 152,
+      "record": 6578,
+      "frames": 50,
+      "speed": 100,
+      "batch": 25,
+      "props": {},
+      "name": "B25_v005_2D_6578",
+      "note": "二维动漫纠偏；翼面细节避开无声提前张嘴，有声段及闭口尾均原速；原声音位置不变"
+    },
+    {
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v009\\产物\\GB018-v009-gpt-rise-2d-r1.mp4",
+      "in": 162,
+      "out": 184,
+      "record": 6628,
+      "frames": 22,
+      "speed": 100,
+      "batch": 25,
+      "props": {},
+      "name": "B25_v005_2D_6628",
+      "note": "二维动漫纠偏；翼面细节避开无声提前张嘴，有声段及闭口尾均原速；原声音位置不变"
+    },
+    {
+      "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\Metaso-H3-v009\\产物\\GB006-v009-early-inside-2d-r1.mp4",
+      "in": 36,
+      "out": 84,
+      "record": 2126,
+      "frames": 48,
+      "speed": 100,
+      "batch": 7,
+      "props": {},
+      "name": "B07_v005_2D_2126",
+      "note": "二维动漫入洞过渡；手膝承重末段到抬眼定势，原速48帧，不加对白"
+    }
+  ],
+  "audio_change": false
+}

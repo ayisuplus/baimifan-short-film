@@ -1,0 +1,313 @@
+{
+  "model": "MiniMax-H3",
+  "resolution": "768P",
+  "ratio": "16:9",
+  "spending_ceiling_credits": 250,
+  "authorization": "作者授权继续修复截图范围，明确标准2D动漫、非漫剧；现有Metaso H3路由和选声不变",
+  "items": [
+    {
+      "attempt_id": "GB014-v009-group-2d-r1",
+      "batch_number": 17,
+      "batch_id": "GB014",
+      "duration": 5,
+      "timeline_replace_frames": [
+        4778,
+        4838
+      ],
+      "use_candidate_frames": [
+        24,
+        84
+      ],
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v009/参考/group-2d-keyframe.png",
+          "role": "reference_image",
+          "sha256": "13b3743b49350118dbd73b2d285ae5926619c22cca0561069e960f155a6d33cc",
+          "purpose": "本镜二维重绘关键帧；构图/角色沿原镜，清楚线稿和硬边色块为唯一视觉输入"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/late-B17-GPT-selected.wav",
+          "role": "reference_audio",
+          "seconds": 5,
+          "purpose": "作者原选工作声音；只添加静音，不变速、不换音色、不重新合成",
+          "parts": [
+            {
+              "id": "VO-CY024-01",
+              "offset_seconds": 1.3333333333333333,
+              "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024-01-工作源.wav",
+              "speaker": "GPT",
+              "zh": "护住她们。",
+              "ja": "二人を守って。"
+            }
+          ],
+          "sha256": "84da49fe41e18be1fb3c332c321694fc1adad26c37044fda0ed127bf54028c5d"
+        }
+      ],
+      "prompt": "这是标准二维手绘动漫电影动画，绝不是漫剧或3D动画。唯一Image1是本镜已重绘的二维动画关键帧，严格继承其中黑色轮廓线、脸部平涂肤色、硬边赛璐璐阴影与手绘发束，整段不得转回3D模型/PBR/塑料手办/光滑渐变皮肤。人物从图中姿势进行完整手绘动画式表演，预备、发力、惯性跟随、动作之间自然衔接。禁止用静态插画推拉、皮影式摆动、循环张嘴代替动画。原有衣服、身份、人数和空间不变；Audio1是原作者选定配音，只有指定人物在实际发声时开口，禁止静音段提前开口。\n5秒门口入场。Image1的人物和武器都保留，门已被上一镜打碎，0秒起就敞开，不能重演开门。镜头低位稍偏侧，破木为前景，白发双角GPT在前，伙伴前中后三层错开。0–1秒GPT迈入；1–3.5秒是完整可剪用的命令与警戒：她踩稳脚，侧转头确认同伴并作一个简洁护卫手势；伙伴向两翼移动半步并抬起原有武器，姿态各有差别，不整排同步走秀。Audio1从0秒播放，只有GPT在约1.333秒说二人を守って。口部与眼神随短促坚决的表演变化，其他人闭嘴。3.5–5秒停在警戒姿态并保持呼吸、发梢和衣摆余势。面部和衣料必须是清楚手绘线稿与色块，不是游戏模型。无切镜、字幕、BGM或新增台词。",
+      "mode": "reference_with_selected_audio",
+      "estimated_credits": 51.0,
+      "status": "downloaded_candidate",
+      "change_reason": "v008的建模风格残留拒用；先用内置imagegen真正重绘二维关键帧，再驱动H3动作。仅3个局部，原声音和时长保留。",
+      "acceptance": [
+        "原片身份、服装、画风连续",
+        "原选声音与发声/闭口节奏匹配",
+        "动作因果和相邻镜头空间连续",
+        "use_candidate_frames可完整覆盖目标窗口，不借变速修嘴",
+        "保留既有音轨，不采用模型另造的人声"
+      ],
+      "submit_started": "2026-10-28T18:43:12+0800",
+      "task_id": "2115393949037178880",
+      "local_path": "视频制作/Metaso-H3-v009/产物/GB014-v009-group-2d-r1.mp4",
+      "sha256": "7bdde5f2574c82619a0d7ee0bddb822710a0558ef6d246cb5418e3006d66141a",
+      "bytes": 6441623,
+      "review_decision": "selected_ranges_v005_pending_author",
+      "adopted_ranges": [
+        {
+          "timeline_frames": [
+            4778,
+            4838
+          ],
+          "source_frames": [
+            24,
+            84
+          ],
+          "speed": 100
+        }
+      ]
+    },
+    {
+      "attempt_id": "GB018-v009-gpt-rise-2d-r1",
+      "batch_number": 25,
+      "batch_id": "GB018",
+      "duration": 8,
+      "timeline_replace_frames": [
+        6476,
+        6650
+      ],
+      "use_candidate_frames": [
+        0,
+        174
+      ],
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v009/参考/wing-2d-keyframe.png",
+          "role": "reference_image",
+          "sha256": "04d4a79b74aa4a1fe358d50bf0152313a691ad8f5fda301b705044407c468297",
+          "purpose": "本镜二维重绘关键帧；构图/角色沿原镜，清楚线稿和硬边色块为唯一视觉输入"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/late-B25-GPT-selected.wav",
+          "role": "reference_audio",
+          "seconds": 8,
+          "purpose": "作者原选工作声音；只添加静音，不变速、不换音色、不重新合成",
+          "parts": [
+            {
+              "id": "VO-CY024A-01",
+              "offset_seconds": 3.7916666666666665,
+              "source": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\导演重构-v003\\声音\\VO-CY024A-01-工作源.wav",
+              "speaker": "GPT",
+              "zh": "盘踞于苍穹尽头，",
+              "ja": "蒼穹の果てに座し、"
+            }
+          ],
+          "sha256": "d01404cb8b3ebf12468fe3e915d9a2c285dca48a82b23ca031d8bd2b8eb6858c"
+        }
+      ],
+      "prompt": "这是标准二维手绘动漫电影动画，绝不是漫剧或3D动画。唯一Image1是本镜已重绘的二维动画关键帧，严格继承其中黑色轮廓线、脸部平涂肤色、硬边赛璐璐阴影与手绘发束，整段不得转回3D模型/PBR/塑料手办/光滑渐变皮肤。人物从图中姿势进行完整手绘动画式表演，预备、发力、惯性跟随、动作之间自然衔接。禁止用静态插画推拉、皮影式摆动、循环张嘴代替动画。原有衣服、身份、人数和空间不变；Audio1是原作者选定配音，只有指定人物在实际发声时开口，禁止静音段提前开口。\n8秒GPT展翼并咏唱。Image1锁定白色衣裙、双角和两片薄膜龙翼；必须手绘重绘翼骨、膜面与全身，画出来的翼膜阴影不是3D透光材质。0秒从地面脚尖承重开始，0–1.5秒屈膝一点、翼根下压、双翼有力扇下、重心向上、脚尖离地，衣摆和发束延迟跟上，地面空气波用二维速度线和少量尘点表现。1.5–3.7秒同侧机位随人轻抬至三分之四中景，避免对称正面全身摆拍和吊灯穿身。她抬眼看向穹顶，保持闭口至4.058秒，4.058秒起只按Audio1实际发声说蒼穹の果てに座し、，实际起止随原声，不在静音提前开口。说完闭口直到8秒，只有头发/衣摆继续运动，嘴不循环。前7.25秒须完整可用。不要像3D角色展示、不要摄影机环绕模型、不要动态漫画静图平移。保持原服装/身份，教堂场景不变，不增加其他人、字幕、音乐。",
+      "mode": "reference_with_selected_audio",
+      "estimated_credits": 81.6,
+      "status": "downloaded_candidate",
+      "change_reason": "v008的建模风格残留拒用；先用内置imagegen真正重绘二维关键帧，再驱动H3动作。仅3个局部，原声音和时长保留。",
+      "acceptance": [
+        "原片身份、服装、画风连续",
+        "原选声音与发声/闭口节奏匹配",
+        "动作因果和相邻镜头空间连续",
+        "use_candidate_frames可完整覆盖目标窗口，不借变速修嘴",
+        "保留既有音轨，不采用模型另造的人声"
+      ],
+      "submit_started": "2026-10-28T18:44:27+0800",
+      "task_id": "2115394264242794496",
+      "local_path": "视频制作/Metaso-H3-v009/产物/GB018-v009-gpt-rise-2d-r1.mp4",
+      "sha256": "d121d687d35d8bac45110c4ca137acd9137dbf61b5c46944e1ff4ed05b7a50fb",
+      "bytes": 11636140,
+      "review_decision": "selected_ranges_v005_pending_author",
+      "adopted_ranges": [
+        {
+          "timeline_frames": [
+            6476,
+            6560
+          ],
+          "source_frames": [
+            0,
+            84
+          ],
+          "speed": 100
+        },
+        {
+          "timeline_frames": [
+            6560,
+            6578
+          ],
+          "source_frames": [
+            84,
+            102
+          ],
+          "speed": 100
+        },
+        {
+          "timeline_frames": [
+            6578,
+            6628
+          ],
+          "source_frames": [
+            102,
+            152
+          ],
+          "speed": 100
+        },
+        {
+          "timeline_frames": [
+            6628,
+            6650
+          ],
+          "source_frames": [
+            162,
+            184
+          ],
+          "speed": 100
+        }
+      ]
+    },
+    {
+      "attempt_id": "GB027-v009-stair-eyeline-2d-r1",
+      "batch_number": 37,
+      "batch_id": "GB027-to-GB028",
+      "duration": 4,
+      "mode": "reference_with_selected_audio",
+      "status": "downloaded_candidate",
+      "estimated_credits": 40.8,
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v009/参考/stairs-2d-keyframe.png",
+          "role": "reference_image",
+          "sha256": "52816eb35326fb7d40b82d3f25189539644419e78dca1740c4b8025e37be41f4",
+          "purpose": "本镜二维重绘关键帧；构图/角色沿原镜，清楚线稿和硬边色块为唯一视觉输入"
+        },
+        {
+          "path": "视频制作/Metaso-H3-v007/参考/bridge-Claude问孩子.wav",
+          "role": "reference_audio",
+          "purpose": "已选Claude问孩子原声，约1.51秒后闭口",
+          "sha256": "533d3dfeb73637d2b7a7477098f8ec93920fe16aecfbce14530daa8a21478885",
+          "seconds": 4
+        }
+      ],
+      "prompt": "这是标准二维手绘动漫电影动画，绝不是漫剧或3D动画。唯一Image1是本镜已重绘的二维动画关键帧，严格继承其中黑色轮廓线、脸部平涂肤色、硬边赛璐璐阴影与手绘发束，整段不得转回3D模型/PBR/塑料手办/光滑渐变皮肤。人物从图中姿势进行完整手绘动画式表演，预备、发力、惯性跟随、动作之间自然衔接。禁止用静态插画推拉、皮影式摆动、循环张嘴代替动画。原有衣服、身份、人数和空间不变；Audio1是原作者选定配音，只有指定人物在实际发声时开口，禁止静音段提前开口。\n4秒连续二维动漫过肩空间镜。Image1的构图关系保持：阶上近前景橙发Claude已经解锁，白发有翼GPT在她侧后扶住上臂；四级以上台阶下，紫发千问抱着蓝鲸帽小鱼。四个人各一，不增人物，衣裙原样，Claude焦边保留。角色的脸、头发、布料都像Image1一样由线条与色块绘制，不能用光滑三维模型。Claude先由撑住身体到轻轻转头低望孩子，GPT的手随其重心小幅调整支撑；千问抬眼，小鱼攥衣襟后把目光抬向阶上，表演先后有因果，不让四个人机械同时动。Audio1从0秒是Claude原有あの子は……，只有她发声；约1.51秒后闭口停住，GPT与另外两人全程不串嘴。摄影机固定过肩，不能只推拉一张插画当动画。前3.4167秒完整可用，最后保留动作余势。背景台阶是二维绘景，外形与高低不变；不发明光效、人物瞬移、字幕或BGM。",
+      "acceptance": [
+        "上下台阶距离清楚",
+        "Claude已解锁且被GPT扶持",
+        "千问怀抱小鱼身份准确",
+        "可剪前82帧，不重复旧小鱼反应"
+      ],
+      "change_reason": "v008的建模风格残留拒用；先用内置imagegen真正重绘二维关键帧，再驱动H3动作。仅3个局部，原声音和时长保留。",
+      "submit_started": "2026-10-28T18:45:05+0800",
+      "task_id": "2115394425957986304",
+      "local_path": "视频制作/Metaso-H3-v009/产物/GB027-v009-stair-eyeline-2d-r1.mp4",
+      "sha256": "f4018126381226c998ff7260dbaf29b2ce62e6a23736dba295624aa993841428",
+      "bytes": 4600763,
+      "review_decision": "selected_ranges_v005_pending_author",
+      "adopted_ranges": [
+        {
+          "timeline_frames": [
+            9699,
+            9781
+          ],
+          "source_frames": [
+            0,
+            82
+          ],
+          "speed": 100
+        }
+      ]
+    },
+    {
+      "attempt_id": "GB006-v009-early-inside-2d-r1",
+      "batch_number": 7,
+      "batch_id": "GB006-inside-transition",
+      "duration": 4,
+      "mode": "reference_only",
+      "references": [
+        {
+          "path": "视频制作/Metaso-H3-v009/参考/inside-2d-keyframe.png",
+          "role": "reference_image",
+          "sha256": "2640574638b344779076b0d273bbb2d0dc17975527ced93aa20a70ed76acec75",
+          "purpose": "入洞二维手绘重绘关键帧，毛边与帽顶建模感也完全排除"
+        }
+      ],
+      "prompt": "标准二维手绘动漫电影动画，绝不是漫剧、静态插画推拉或3D动画。唯一Image1是已重绘的二维关键帧，严格保持人物、毛边、帽顶、发束、手脚的清楚线稿、平涂底色与硬边赛璐璐阴影，背景也是手绘绘景。4秒连续镜头。保持低机位从教堂侧洞内部看小鱼进入，只有这一个蓝鲸帽小女孩，不添加其他人或生物。0–1秒她手掌撑住洞内石地，肘部与肩膀实际受力，后膝跨过门槛；1–2秒重心前移，另一膝轻落地，耳朵侧听；2–3.3秒停下爬行，抬眼向高处教堂内部观察，担忧又坚定；3.3–4秒保留呼吸、发梢和毛球惯性，不反复爬动。不把背景水平移动当动作，四肢真实支撑身体，衣物延迟跟随。不说话、不张嘴，不加字幕、音乐，不做摄影机切镜或绕行，任何一帧都不能变成模型或塑料质感。",
+      "estimated_credits": 40.8,
+      "status": "downloaded_candidate",
+      "change_reason": "v008脸部二维改善但毛边/帽顶与发束仍偏体积；再用真正二维关键帧纠偏，不扩大镜头范围",
+      "acceptance": [
+        "Image1二维线色画法优先，Image2仅借空间",
+        "1–3秒中手掌承重、膝盖落地、抬眼依次完整发生",
+        "小鱼帽、蓝白衣裙、宝宝脸型和短腿不变",
+        "没有冻结画面推拉或整层平移冒充动作",
+        "无说话嘴形、无新增对白或人",
+        "墙洞左后、孩子朝右前方入内，方向固定"
+      ],
+      "edit_mapping": {
+        "replace_attempt": "GB006-v007-early-inside-bridge-r1",
+        "candidate_source_frames": [
+          24,
+          72
+        ],
+        "timeline_frames": [
+          2126,
+          2174
+        ],
+        "fps": 24,
+        "speed_percent": 100,
+        "timeline_delta_frames": 0,
+        "keep_following": {
+          "source": "视频制作/LibTV-H3-v001/产物/GB006-H3-v001.mp4",
+          "source_frames": [
+            264,
+            312
+          ],
+          "timeline_frames": [
+            2174,
+            2234
+          ],
+          "speed_percent": 80
+        },
+        "keep_next_clip": "B07_GB006_03",
+        "keep_next_timeline_frames": [
+          2234,
+          2306
+        ],
+        "voice_changes": [],
+        "total_timeline_frames": 11497,
+        "source_end_convention": "exclusive"
+      },
+      "submit_started": "2026-10-28T18:57:41+0800",
+      "task_id": "2115397593865072640",
+      "local_path": "视频制作/Metaso-H3-v009/产物/GB006-v009-early-inside-2d-r1.mp4",
+      "sha256": "b7b48c8706d210eb419f404ae0afd36bc0c0382c8ed7adcd81491728c531f29e",
+      "bytes": 3882857,
+      "review_decision": "selected_ranges_v005_pending_author",
+      "adopted_ranges": [
+        {
+          "timeline_frames": [
+            2126,
+            2174
+          ],
+          "source_frames": [
+            36,
+            84
+          ],
+          "speed": 100
+        }
+      ]
+    }
+  ]
+}

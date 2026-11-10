@@ -1,0 +1,40 @@
+subject_definitions:
+<Subject 1>: Qwen, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: DeepSeek, identity and outfit from four-view sheet <Picture 2>.
+<Subject 3>: Claude, identity and outfit from four-view sheet <Picture 3>.
+<Picture 4>: [Shot 1] composition and state reference; not its first frame.
+<Picture 5>: [Shot 2] composition and state reference; not its first frame.
+<Picture 6>: [Shot 3] composition and state reference; not its first frame.
+<Picture 7>: [Shot 4] composition and state reference; not its first frame.
+<Picture 8>: [Shot 5] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. The child's safety enables a faint invocation, interrupted by the father's call and powerless reaching gesture.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Subject 3>: fully_preserved - identity and outfit design.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+<Picture 7>: weak_reference - shot layout; animate the specified action.
+<Picture 8>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Follow Claude's downward eyeline to the child's silent response. GPT delivers the full offscreen answer during this shot's first two seconds; the child does not mouth it. Use <Picture 4> for composition. Tear-marked DeepSeek is conscious in Qwen's arms, blue eyes raised toward the altar. She lightly grips the clothing while her back and body stay supported. Qwen watches her. Only cold moonlight; the empty cross is still unlit. Lower slightly to include Qwen's supporting arm, then hold the upward gaze. Drips and quiet breathing; no new child dialogue. From 0 to 2 seconds, ChatGPT (S1) speaks outside the frame: <d>[Japanese] 無事よ。下で待ってる。</d>.
+[Shot 2] At 00:03.000, Cut from the child's safety to Claude's gathering light. Use <Picture 5> for composition. Claude begins gathering only a few dim orange-gold particles. There is no complete ember. Her freed hand and clothing have no hanging water; scorched edges remain and any visible face is pale. End with this same faint energy sustained into the right-wrist insert. Approach faint fingertips slightly, then stop. Breathing and faint light; no steam, drying or healing sounds. From 3 to 5.76 seconds, Claude (S2) speaks outside the frame: <d>[Japanese] 灰の中に眠る<scenetrans></d>. Voice continues across the cut.
+[Shot 3] At 00:05.760, Match the same right wrist without interrupting the phrase. Use <Picture 6> for composition. The freed right wrist retains pale restraint marks and its scorched lace cuff. Trembling fingers become slightly steadier in faint orange-gold light. No formed ember, water, steam, healed marks or repaired cloth. The initial energy remains before the father's interruption. Focus from pressure marks to steadier fingertips. Quiet breathing and sustained faint light; no repeated invocation. From 5.76 to 8.61 seconds, Claude (S2) speaks outside the frame: <d>[Japanese] <scenetrans>かすかな光よ、</d>. Voice continues across the cut.
+[Shot 4] At 00:08.610, The father's offscreen call interrupts; reverse follows. Use <Picture 7> for composition. Claude stands barefoot with GPT beside her, faint magic sustained. Her amber eye reflects her father lying on wet stone, head lifted and hand reaching. Her gaze trembles. Preserve pallor and burns; she pauses without extinguishing or restarting the spell. Hold the amber-eye close-up on the actual iris. Breathing and drips beneath the father's single clear call. From 8.91 to 13.09 seconds, the High Priest (S3) speaks outside the frame: <d>[Japanese] クロード……来なさい。</d>.
+[Shot 5] At 00:12.610, Match the reflected gesture, without repeating the call. Use <Picture 8> for composition. The leader is already prone, propped on one elbow with his head lifted and hand reaching. He cannot stand. The call's tail fades; Claude will turn toward the empty cross while her initial light remains unspent. Do not replay his attempt to rise. Creep slightly toward the reaching hand from floor level. Effect timings are relative to this shot start: Continue the same father recording for the first 0.48 seconds, without restarting or cutting off any remaining words. Then retain breath, drips and decay until the full six-second interruption is complete.
+From 14.61 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 3s: Claude begins the faint-light incantation; 8.61s: Cut to the impending interruption by her father.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

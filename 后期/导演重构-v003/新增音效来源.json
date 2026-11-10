@@ -1,0 +1,90 @@
+[
+  {
+    "id": "real-down1",
+    "title": "倒れる",
+    "url": "https://soundeffect-lab.info/sound/battle/mp3/real-down1.mp3",
+    "page": "https://soundeffect-lab.info/sound/battle/",
+    "license_url": "https://soundeffect-lab.info/agreement/",
+    "path": "资产/声音/音效-v003/real-down1.mp3",
+    "seconds": 1.013375,
+    "sha256": "4e07b02e34f0ee8d7bb28b8cdf0b9d85a6b0cf6c77a698e17b581e7356450127",
+    "status": "downloaded_not_auditioned"
+  },
+  {
+    "id": "thunder2",
+    "title": "落雷2",
+    "url": "https://soundeffect-lab.info/sound/animal/mp3/thunder2.mp3",
+    "page": "https://soundeffect-lab.info/sound/animal/",
+    "license_url": "https://soundeffect-lab.info/agreement/",
+    "path": "资产/声音/音效-v003/thunder2.mp3",
+    "seconds": 12.468934,
+    "sha256": "cdcaa0da221a68b1f02af2bb90f943ad62f3e72b286834552098cef180fbd21b",
+    "status": "downloaded_not_auditioned"
+  },
+  {
+    "id": "punch-light2",
+    "title": "軽いパンチ2",
+    "url": "https://soundeffect-lab.info/sound/battle/mp3/punch-light2.mp3",
+    "page": "https://soundeffect-lab.info/sound/battle/",
+    "license_url": "https://soundeffect-lab.info/agreement/",
+    "path": "资产/声音/音效-v003/punch-light2.mp3",
+    "seconds": 1.178792,
+    "sha256": "230538833c983cd0753b48b40586037a0e2ffccc3565892b3893f93a6c9edd67",
+    "status": "downloaded_not_auditioned"
+  },
+  {
+    "id": "wall-hit1",
+    "title": "壁をドンと叩く",
+    "url": "https://soundeffect-lab.info/sound/various/mp3/wall-hit1.mp3",
+    "page": "https://soundeffect-lab.info/sound/various/various3.html",
+    "license_url": "https://soundeffect-lab.info/agreement/",
+    "path": "资产/声音/音效-v003/wall-hit1.mp3",
+    "seconds": 1.010249,
+    "sha256": "db78704c044f00ed5238827650daf70834f16b651df1d32f0ef0e90f48d9fa4f",
+    "status": "downloaded_not_auditioned"
+  },
+  {
+    "id": "mixkit-2858",
+    "title": "Gear metallic lock sound",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2858/2858.wav",
+    "page": "https://mixkit.co/free-sound-effects/metal/",
+    "license_url": "https://mixkit.co/license/modal/sfxFree/",
+    "path": "资产/声音/音效-v003/mixkit-2858.wav",
+    "seconds": 1.098594,
+    "sha256": "8255e8de6596d6ca3d243df7c7817c341dc31de8c398a4b2ad04d224c9586246",
+    "status": "downloaded_not_auditioned"
+  },
+  {
+    "id": "mixkit-2799",
+    "title": "Metallic sword scrape",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2799/2799.wav",
+    "page": "https://mixkit.co/free-sound-effects/metal/",
+    "license_url": "https://mixkit.co/license/modal/sfxFree/",
+    "path": "资产/声音/音效-v003/mixkit-2799.wav",
+    "seconds": 1.167052,
+    "sha256": "601b9ff395d7c6754da716d833dbf116603223ebba82592ff92a17c963c0fbbe",
+    "status": "downloaded_not_auditioned"
+  },
+  {
+    "id": "mixkit-2794",
+    "title": "Heavy sword hit",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2794/2794.wav",
+    "page": "https://mixkit.co/free-sound-effects/metal/",
+    "license_url": "https://mixkit.co/license/modal/sfxFree/",
+    "path": "资产/声音/音效-v003/mixkit-2794.wav",
+    "seconds": 1.159705,
+    "sha256": "d47d1e5daaa2e6460f68aa3fb2d4ea33f0b4f5ea66dc5b9338e140833104292e",
+    "status": "downloaded_not_auditioned"
+  },
+  {
+    "id": "mixkit-1306",
+    "title": "Cinematic water metal hit",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1306/1306.wav",
+    "page": "https://mixkit.co/free-sound-effects/metal/",
+    "license_url": "https://mixkit.co/license/modal/sfxFree/",
+    "path": "资产/声音/音效-v003/mixkit-1306.wav",
+    "seconds": 4.02093,
+    "sha256": "741e80269231c49305ed4f2af0787e1d72e0ab4b94ab6b1070d026ca1edebd4a",
+    "status": "downloaded_not_auditioned"
+  }
+]

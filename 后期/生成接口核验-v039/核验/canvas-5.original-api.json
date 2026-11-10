@@ -1,0 +1,37 @@
+{
+  "1": {
+    "inputs": {
+      "audio": "audio_analysis_speech_demo.wav"
+    },
+    "class_type": "LoadAudio",
+    "_meta": {
+      "title": "Load Audio"
+    }
+  },
+  "2": {
+    "inputs": {
+      "language": "en",
+      "diarize": true,
+      "audio": [
+        "1",
+        0
+      ]
+    },
+    "class_type": "LocalNemotronTranscribe",
+    "_meta": {
+      "title": "Nemotron 3.5 · 本地语音转录"
+    }
+  },
+  "3": {
+    "inputs": {
+      "source": [
+        "2",
+        0
+      ]
+    },
+    "class_type": "PreviewAny",
+    "_meta": {
+      "title": "Preview as Text"
+    }
+  }
+}

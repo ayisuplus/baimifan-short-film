@@ -1,0 +1,19 @@
+{
+  "prompt_id": "f11888f9-2e73-4b42-9388-c77e09127f5d",
+  "client_id": "1958b045-e62e-4966-acbd-464a9745525e",
+  "workflow": "E:\\projects\\\u5185\u5bb9\u521b\u4f5c\\\u6545\u4e8b\u77ed\u7247\\\u767d\u7c73\u996d\\\u540e\u671f\\ComfyUI\u7ef4\u62a4-20261029\\CPU\u7aef\u5230\u7aef\u6d4b\u8bd5.api.json",
+  "where": "local",
+  "host": "127.0.0.1",
+  "port": 8188,
+  "base_url": null,
+  "submitted_at": "2026-10-29T08:19:44+00:00",
+  "updated_at": "2026-10-29T08:19:44+00:00",
+  "completed_at": null,
+  "status": "queued",
+  "outputs": [],
+  "error": null,
+  "watcher_pid": null,
+  "watcher_pid_create_time": null,
+  "record": null,
+  "item_map": null
+}

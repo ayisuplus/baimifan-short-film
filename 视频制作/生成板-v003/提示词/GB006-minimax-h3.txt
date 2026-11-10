@@ -1,0 +1,33 @@
+subject_definitions:
+<Subject 1>: DeepSeek, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: Claude, identity and outfit from four-view sheet <Picture 2>.
+<Picture 3>: [Shot 1] composition and state reference; not its first frame.
+<Picture 4>: [Shot 2] composition and state reference; not its first frame.
+<Picture 5>: [Shot 3] composition and state reference; not its first frame.
+<Picture 6>: [Shot 4] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. At night DeepSeek waits for the wood carriers to leave, squeezes through the same side-wall opening, and discovers Claude above the long stairs.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+<Picture 6>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+Claude keeps her own left-temple flower and ivory veil. During the church sequence she is barefoot; fire damage persists until departure. Clean clothes return only in the later market scene.
+[Shot 1] Mark the time and location jump with night wind replacing the bell; the offscreen order motivates the cultists' departure. Use <Picture 3> for composition. DeepSeek hides beside an opening in the church side wall at night. Distant cultists carry lanterns toward the wood store after the offscreen order to fetch one log each. She waits until the final lantern disappears, then shifts to the same opening without entering yet. From the hiding place, retain both the wall opening and doorway, briefly pan with the last lantern, then reframe slightly for the child's move. The offscreen order is clear; footsteps recede under night wind and faint church flame sounds. From 0 to 3.8 seconds, the cultists (S1) speaks outside the frame: <d>[Chinese] 取乌烬木，一人一根。</d>.
+[Shot 2] At 00:04.000, Cut inside the same opening to meet her entering head, preserving her direction of entry. Use <Picture 4> for composition. DeepSeek peeks through the low side-wall opening. A soft side fin of her whale hat catches on the protruding stone. She frowns and holds her breath while both small hands press the hat downward, trying to free it. At the end the fin is still caught, with her hands maintaining pressure. Hold a floor-level close-up inside the opening on the contact between the stone lip and hat fin; make only a small tilt to include both pressing hands. Stone dust and cloth scrape against the opening; only candle crackle is heard inside, without chanting.
+[Shot 3] At 00:07.000, Cut on the sustained pressure; the fin comes free now, without another attempt to enter or get stuck. Use <Picture 5> for composition. The fin slips free under the same downward pressure, while the low ceiling still flattens the soft hat. DeepSeek squeezes her head and shoulders through that left-side wall opening, plants both hands on the church floor and drags her body inside. She has not yet stood or looked up. In a low side close-up, retreat a short distance as her head and shoulders enter, then stop when her body follows; keep the opening fixed. Continuous cloth and stone scraping, then a subdued landing sound as she comes through; the church remains free of chanting.
+[Shot 4] At 00:09.000, Continue from the same landing into her crouch; her upward gaze motivates the reveal and the next cut to Claude. Use <Picture 6> for composition. DeepSeek is crouched inside the left-side wall opening on the lower floor. She looks up and sees Claude restrained on the highest altar at the top of the long stairway. She approaches the central stairs along the left-hand shadows and begins ascending at the end. The rear benches stay on the floor and the wall candles and high chandelier remain lit. Tilt up slowly from the crouched child in the left foreground into a wide reveal of the empty nave, long stairway and cross, then hold as she moves. A subdued landing thud, the nave's echo and candle crackle; no voices.
+From 13 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

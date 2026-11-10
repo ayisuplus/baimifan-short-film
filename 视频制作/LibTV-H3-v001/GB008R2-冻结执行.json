@@ -1,0 +1,205 @@
+{
+  "batch": {
+    "batch_number": 10,
+    "batch_id": "GB008R2",
+    "title": "人手一木，返回教堂",
+    "shot_ids": [
+      "CY016C"
+    ],
+    "film_start": 125.572729,
+    "film_end": 129.572729,
+    "used_seconds": 4,
+    "original_duration": 15,
+    "duration": 5,
+    "prompt": "subject_definitions:\n<Picture 1>=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，5秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–4s <Picture 1>；画内:教徒。沿Claude指向正门的视线切门开，不先给祭坛人物补反打；门轴声与开门同步。祭坛朝正门纵深远景短距离缓退，给进入队列留纵深而不改变正门轴线；停住看提灯接近。门被推开。取柴回来的教徒每人横抱一根粗黑色乌烬木，前列有人一臂托木、一手提灯，沿中央通道列队进入。他们看见了站在Claude身旁的小鱼。 人物:从祭坛向门看返回队列，不凭空加入Claude正面。 声音:密集脚步、粗木互碰、提灯轻响。\n4–5s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "镜头设计/图像/火祭因果-v040/CY016C-v040-r1.png",
+        "kind": "composition",
+        "shot_id": "CY016C",
+        "purpose": "构图、空间与代表状态：人手一木，返回教堂；不是默认首帧",
+        "status": "v0.40修订候选，待作者审阅",
+        "limits": "",
+        "sha256": "1632dfb3fc095275212842c5cde19a6c3d7d34b80152e566926f1cc2010916ac",
+        "source_path": "镜头设计/图像/火祭因果-v040/CY016C-v040-r1.png",
+        "source_sha256": "1632dfb3fc095275212842c5cde19a6c3d7d34b80152e566926f1cc2010916ac",
+        "sha1": "59c1a559b43e2f9b3868f5483476bf9c1a31bfd5",
+        "file_size": 2462230,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\火祭因果-v040\\CY016C-v040-r1.png"
+      }
+    ],
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 5,
+      "count": 1
+    },
+    "estimated_credits": 70,
+    "estimate_basis": "15秒报价210，按秒计费推算，提交前以网页实价为准",
+    "budget_selected": true,
+    "status": "prepared_not_submitted",
+    "task_id": null,
+    "node_id": "v-DZjhCnnT0F",
+    "display_name": "第10批 · 人手一木，返回教堂 · H3 v001"
+  },
+  "request": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "node": "v-DZjhCnnT0F",
+    "idempotencyKey": "bmf-h3-GB008R2-wire-full",
+    "model": "MiniMax-Hailuo-H3",
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 5,
+      "count": 1
+    },
+    "prompt": "subject_definitions:\n{{Node i-ElLQ5PFSVj}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，5秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–4s {{Node i-ElLQ5PFSVj}}；画内:教徒。沿Claude指向正门的视线切门开，不先给祭坛人物补反打；门轴声与开门同步。祭坛朝正门纵深远景短距离缓退，给进入队列留纵深而不改变正门轴线；停住看提灯接近。门被推开。取柴回来的教徒每人横抱一根粗黑色乌烬木，前列有人一臂托木、一手提灯，沿中央通道列队进入。他们看见了站在Claude身旁的小鱼。 人物:从祭坛向门看返回队列，不凭空加入Claude正面。 声音:密集脚步、粗木互碰、提灯轻响。\n4–5s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "leftEnsure": [
+      "i-ElLQ5PFSVj"
+    ],
+    "newName": "第10批 · 人手一木，返回教堂 · H3 v001",
+    "run": false
+  },
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-DZjhCnnT0F",
+    "node": {
+      "id": "v-DZjhCnnT0F",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第10批 · 人手一木，返回教堂 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Image 1}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，5秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–4s {{Image 1}}；画内:教徒。沿Claude指向正门的视线切门开，不先给祭坛人物补反打；门轴声与开门同步。祭坛朝正门纵深远景短距离缓退，给进入队列留纵深而不改变正门轴线；停住看提灯接近。门被推开。取柴回来的教徒每人横抱一根粗黑色乌烬木，前列有人一臂托木、一手提灯，沿中央通道列队进入。他们看见了站在Claude身旁的小鱼。 人物:从祭坛向门看返回队列，不凭空加入Claude正面。 声音:密集脚步、粗木互碰、提灯轻响。\n4–5s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-ElLQ5PFSVj",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/3573755537c48f4b3abd475948f5f1b4a83a1dfe.png"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 5
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png",
+              "label": "CHAR-DEEPSEEK-TURN-v003 · H3留白适配",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-uKDIVWmghN",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/88234e0405150bf25c82642dd7493f40996749c6.png",
+              "label": "CHAR-CLAUDE-TURN-v001 · H3留白适配",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-tWjMCLb2rT",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/94d504e75990e162f6010a0eb83ae9db49c6573b.png",
+              "label": "CY016A1-v014-r4",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-JYuxqGlD05",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/f124de18074a09bcbe5a6ec771f2a55cad0a7509.png",
+              "label": "CY016A-v014-r5",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-ZL4YbvM2Pj",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/01e56c6b627003bc95734d1f9f4b72fc1b6cc59b.png",
+              "label": "CY016B-v014-r3",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-kxwyUaKNAh",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/b41e3804f11c372ea3fbeafd60dba5115ee23fe0.png",
+              "label": "CY016B1-v014-r3",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-ElLQ5PFSVj"
+          ],
+          "mixedListOrder": [
+            "i-ElLQ5PFSVj"
+          ]
+        },
+        "_updatedAtMs": 1793119824000,
+        "_lastAppliedFullyAtMs": 1793119824000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        }
+      },
+      "position": {
+        "x": 1080,
+        "y": 5092
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-DZjhCnnT0F",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "batch": {
+    "batch_number": 24,
+    "batch_id": "GB017R2",
+    "title": "月背约定，两路救援",
+    "shot_ids": [
+      "CY026D"
+    ],
+    "film_start": 254.902729,
+    "film_end": 264.062729,
+    "used_seconds": 9.16,
+    "original_duration": 15,
+    "duration": 10,
+    "prompt": "subject_definitions:\n<Picture 1>=ChatGPT四视图：同一人四角度，身份服饰保持\n<Picture 2>=Kimi四视图：同一人四角度，身份服饰保持\n<Picture 3>=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，10秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–9.16s <Picture 3>；画内:ChatGPT、Kimi。以睁眼后的视线匹配切入已经坐起的Kimi；点头落定后切多地回应。从月石边双人中景缓慢横移小半步，露出GPT俯身和Kimi点头关系，随后停住听完分路。Kimi已经睁眼并坐起；视野放宽，看见俯身等她的ChatGPT，直接承接分路交代。 GPT低声交代分路，Kimi点头。 一句说明自己负责什么，一句把Claude托付给Kimi；目光落到Kimi身上，像对熟悉的同伴说话，不是朗读作战报告。 困意收起，短而笃定；接住GPT的托付，不复述路线。 声音:月面安静，无风声。 GPT在镜内0.2–7.361秒说完同一句日语；Kimi在镜内7.661–9.06秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0.2–7.361s ChatGPT 匹配口型:<d>[Japanese] 正面で私が気を引く。祭壇の後ろのステンドグラスから入って、彼女を守って。</d>；仅一次。\n7.661–9.06s Kimi 匹配口型:<d>[Japanese] 彼女は任せて。</d>；仅一次。\n9.16–10s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "ChatGPT",
+        "name_en": "ChatGPT",
+        "asset_id": "CHAR-GPT",
+        "status": "候选待作者审阅",
+        "limits": "两侧躯干略带斜角。开衩与腿饰以原图/正面图的角色右腿为准，不按对称读取；尾巴弯曲是姿态参考，侧背含补全。",
+        "purpose": "ChatGPT四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9",
+        "source_path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+        "source_sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+        "sha1": "ff68ef289edac6743d7e87bdfe142f00332d50ce",
+        "file_size": 2143481,
+        "width": 2172,
+        "height": 869,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-GPT-TURN-v001-h3-pad.png"
+      },
+      {
+        "slot": 2,
+        "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+        "kind": "identity",
+        "person": "Kimi",
+        "name_en": "Kimi",
+        "asset_id": "MULKZI2WMFNJE",
+        "status": "作者指定复用",
+        "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。 本片双持小圆月刃沿用r3附属参考；战后固定后腰再解锁，不更换已定服装。",
+        "purpose": "Kimi四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc",
+        "source_path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+        "source_sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc",
+        "sha1": "90740cd918a10c0f0f74eade89d78e208ada0a11",
+        "file_size": 2823904,
+        "width": 1448,
+        "height": 1086,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\图像\\四视图复用\\C03_Kimi-角色设定卡.png"
+      },
+      {
+        "slot": 3,
+        "path": "镜头设计/图像/独立镜头-v009/CY026D-v009.png",
+        "kind": "composition",
+        "shot_id": "CY026D",
+        "purpose": "构图、空间与代表状态：月背约定，两路救援；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "7c7113af601e76fd6b4dc554311b45bde7c18fe0a121159fcbc74a954561e323",
+        "source_path": "镜头设计/图像/独立镜头-v009/CY026D-v009.png",
+        "source_sha256": "7c7113af601e76fd6b4dc554311b45bde7c18fe0a121159fcbc74a954561e323",
+        "sha1": "107b2fcfc99bce8428509d7dea171fa79974d265",
+        "file_size": 3084307,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\独立镜头-v009\\CY026D-v009.png"
+      }
+    ],
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 10,
+      "count": 1
+    },
+    "estimated_credits": 140,
+    "estimate_basis": "15秒报价210，按秒计费推算，提交前以网页实价为准",
+    "budget_selected": true,
+    "status": "prepared_not_submitted",
+    "task_id": null,
+    "node_id": "v-BXgm4dhD5K",
+    "display_name": "第24批 · 月背约定，两路救援 · H3 v001"
+  },
+  "request": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "node": "v-BXgm4dhD5K",
+    "idempotencyKey": "bmf-h3-GB017R2-wire-full",
+    "model": "MiniMax-Hailuo-H3",
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 10,
+      "count": 1
+    },
+    "prompt": "subject_definitions:\n{{Node i-07HfqKjhJ7}}=ChatGPT四视图：同一人四角度，身份服饰保持\n{{Node i-6n1fSpOePV}}=Kimi四视图：同一人四角度，身份服饰保持\n{{Node i-V99MzqueFu}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，10秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–9.16s {{Node i-V99MzqueFu}}；画内:ChatGPT、Kimi。以睁眼后的视线匹配切入已经坐起的Kimi；点头落定后切多地回应。从月石边双人中景缓慢横移小半步，露出GPT俯身和Kimi点头关系，随后停住听完分路。Kimi已经睁眼并坐起；视野放宽，看见俯身等她的ChatGPT，直接承接分路交代。 GPT低声交代分路，Kimi点头。 一句说明自己负责什么，一句把Claude托付给Kimi；目光落到Kimi身上，像对熟悉的同伴说话，不是朗读作战报告。 困意收起，短而笃定；接住GPT的托付，不复述路线。 声音:月面安静，无风声。 GPT在镜内0.2–7.361秒说完同一句日语；Kimi在镜内7.661–9.06秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0.2–7.361s ChatGPT 匹配口型:<d>[Japanese] 正面で私が気を引く。祭壇の後ろのステンドグラスから入って、彼女を守って。</d>；仅一次。\n7.661–9.06s Kimi 匹配口型:<d>[Japanese] 彼女は任せて。</d>；仅一次。\n9.16–10s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "leftEnsure": [
+      "i-07HfqKjhJ7",
+      "i-6n1fSpOePV",
+      "i-V99MzqueFu"
+    ],
+    "newName": "第24批 · 月背约定，两路救援 · H3 v001",
+    "run": false
+  },
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-BXgm4dhD5K",
+    "node": {
+      "id": "v-BXgm4dhD5K",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第24批 · 月背约定，两路救援 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Image 1}}=ChatGPT四视图：同一人四角度，身份服饰保持\n{{Image 2}}=Kimi四视图：同一人四角度，身份服饰保持\n{{Image 3}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，10秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–9.16s {{Image 3}}；画内:ChatGPT、Kimi。以睁眼后的视线匹配切入已经坐起的Kimi；点头落定后切多地回应。从月石边双人中景缓慢横移小半步，露出GPT俯身和Kimi点头关系，随后停住听完分路。Kimi已经睁眼并坐起；视野放宽，看见俯身等她的ChatGPT，直接承接分路交代。 GPT低声交代分路，Kimi点头。 一句说明自己负责什么，一句把Claude托付给Kimi；目光落到Kimi身上，像对熟悉的同伴说话，不是朗读作战报告。 困意收起，短而笃定；接住GPT的托付，不复述路线。 声音:月面安静，无风声。 GPT在镜内0.2–7.361秒说完同一句日语；Kimi在镜内7.661–9.06秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n0.2–7.361s ChatGPT 匹配口型:<d>[Japanese] 正面で私が気を引く。祭壇の後ろのステンドグラスから入って、彼女を守って。</d>；仅一次。\n7.661–9.06s Kimi 匹配口型:<d>[Japanese] 彼女は任せて。</d>；仅一次。\n9.16–10s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-07HfqKjhJ7",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d74110bde0f98a0b44ed3c518d48eaea282c1a87.png"
+            },
+            {
+              "nodeId": "i-6n1fSpOePV",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/c9c37061f22385d4bbf0fcbb7cd81f596fc6400c.png"
+            },
+            {
+              "nodeId": "i-V99MzqueFu",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/143366227e6eac3267dd4528843afe25905cd4ac.png"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 10
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-07HfqKjhJ7",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d74110bde0f98a0b44ed3c518d48eaea282c1a87.png",
+              "label": "CHAR-GPT-TURN-v001-h3-pad",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-fNFKWI1pkl",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/38a307ff6ec596fc528ab5c3740b1979336eb9fa.png",
+              "label": "C09_Grok-角色设定卡",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-6n1fSpOePV",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/c9c37061f22385d4bbf0fcbb7cd81f596fc6400c.png",
+              "label": "C03_Kimi-角色设定卡",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-LciS8viwzJ",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/4c09f5d6e1e8aacd9f7e9793bd20197e5bce0821.png",
+              "label": "CY026C-v015-r1",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-8kEhqD0ROf",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/6e403f34ec385130d14d610bd2a8a8899ea83737.png",
+              "label": "CY026D1-v009",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-07HfqKjhJ7",
+            "i-6n1fSpOePV",
+            "i-V99MzqueFu"
+          ],
+          "mixedListOrder": [
+            "i-07HfqKjhJ7",
+            "i-6n1fSpOePV",
+            "i-V99MzqueFu"
+          ]
+        },
+        "_updatedAtMs": 1793121669000,
+        "_lastAppliedFullyAtMs": 1793121669000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        }
+      },
+      "position": {
+        "x": 5592,
+        "y": 5946
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-BXgm4dhD5K",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

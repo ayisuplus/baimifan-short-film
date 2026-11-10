@@ -1,0 +1,90 @@
+{
+  "base": "镜头设计/shot-plan-v0.48r1.json",
+  "plan": "镜头设计/shot-plan-v0.49.json",
+  "changes": [
+    {
+      "shot": "CY015",
+      "before": "镜头设计/图像/天瀑空间-v014/CY015-v014-r4.png",
+      "after": "镜头设计/图像/连续性修复-v049/CY015-v049-r1.png",
+      "sha256": "7160d551c279fea70931c5fe2dc872d6875641ef9314f6bd2e8c5c0debda5341",
+      "request": "镜头设计/生成记录/连续性修复-v049/CY015-请求.json",
+      "correction": "底柴与腰锁统一"
+    },
+    {
+      "shot": "CY016",
+      "before": "镜头设计/图像/天瀑空间-v014/CY016-v014-r4.png",
+      "after": "镜头设计/图像/连续性修复-v049/CY016-v049-r1.png",
+      "sha256": "48b837d56b40559bb0adb1c7b42bd11edee8629fe511c01e81cbe4aad4f0f5df",
+      "request": "镜头设计/生成记录/连续性修复-v049/CY016-请求.json",
+      "correction": "腰锁统一"
+    },
+    {
+      "shot": "CY016D",
+      "before": "镜头设计/图像/火祭因果-v040/CY016D-v040-r2.png",
+      "after": "镜头设计/图像/连续性修复-v049/CY016D-v049-r1.png",
+      "sha256": "5dac72fd687f518a5a8e8329520a442cfc0204ad467b77b1987c358bcafa450a",
+      "request": "镜头设计/生成记录/连续性修复-v049/CY016D-请求.json",
+      "correction": "单中轴高位烛环统一；近景按机位裁出上缘"
+    },
+    {
+      "shot": "CY017",
+      "before": "镜头设计/图像/火祭因果-v040/CY017-v040-r1.png",
+      "after": "镜头设计/图像/连续性修复-v049/CY017-v049-r1.png",
+      "sha256": "0485d4876832d11dc33111d03e7b1999d527d2174cc91423a8e6fa0271ec9a0a",
+      "request": "镜头设计/生成记录/连续性修复-v049/CY017-请求.json",
+      "correction": "单中轴高位烛环统一；近景按机位裁出上缘"
+    },
+    {
+      "shot": "CY018",
+      "before": "镜头设计/图像/火祭因果-v040/CY018-v040-r1.png",
+      "after": "镜头设计/图像/连续性修复-v049/CY018-v049-r2.png",
+      "sha256": "47fe8ef11054bb43b6edb18f5a17fef5220604ac465a179d12bc35cfce0d48e9",
+      "request": "镜头设计/生成记录/连续性修复-v049/CY018-请求.json",
+      "correction": "单中轴高位烛环统一；近景按机位裁出上缘"
+    },
+    {
+      "shot": "CY019",
+      "before": "镜头设计/图像/火祭因果-v040/CY019-v040-r1.png",
+      "after": "镜头设计/图像/连续性修复-v049/CY019-v049-r1.png",
+      "sha256": "63aae9b916403e96a7796c7f642ffa1e398bde4d76b702b65d2e0238300ac3bf",
+      "request": "镜头设计/生成记录/连续性修复-v049/CY019-请求.json",
+      "correction": "单中轴高位烛环统一；近景按机位裁出上缘"
+    },
+    {
+      "shot": "CY020A",
+      "before": "镜头设计/图像/火祭因果-v040/CY020A-v040-r1.png",
+      "after": "镜头设计/图像/连续性修复-v049/CY020A-v049-r1.png",
+      "sha256": "25f43bee451dbe5ee1fd9f94621230602841733fe93d0dfabf8e59b7ae743c3f",
+      "request": "镜头设计/生成记录/连续性修复-v049/CY020A-请求.json",
+      "correction": "单中轴高位烛环统一；近景按机位裁出上缘"
+    },
+    {
+      "shot": "CY021",
+      "before": "镜头设计/图像/火祭因果-v040/CY021-v040-r1.png",
+      "after": "镜头设计/图像/连续性修复-v049/CY021-v049-r2.png",
+      "sha256": "9cc362d9d140f525aa1e25008d0ca4a9247098570b2c6623185380d0ad218afe",
+      "request": "镜头设计/生成记录/连续性修复-v049/CY021-请求.json",
+      "correction": "单中轴高位烛环统一；近景按机位裁出上缘"
+    },
+    {
+      "shot": "CY022A",
+      "before": "镜头设计/图像/火祭因果-v040/CY022A-v040-r1.png",
+      "after": "镜头设计/图像/连续性修复-v049/CY022A-v049-r1.png",
+      "sha256": "713d3e3b4282edf95b7e7059cc534a8a306e175905247e8eeaa63abf0522e917",
+      "request": "镜头设计/生成记录/连续性修复-v049/CY022A-请求.json",
+      "correction": "单中轴高位烛环统一；近景按机位裁出上缘"
+    },
+    {
+      "shot": "CY022A1",
+      "before": "镜头设计/图像/目光与入场-v048/CY022A1-v048-r1.png",
+      "after": "镜头设计/图像/连续性修复-v049/CY022A1-v049-r1.png",
+      "sha256": "86d783804768fe336729a703b6eb46aed12d4bf17a2e3cca22c66a3cd4d9877e",
+      "request": "镜头设计/生成记录/连续性修复-v049/CY022A1-请求.json",
+      "correction": "单中轴高位烛环统一；近景按机位裁出上缘"
+    }
+  ],
+  "images": 10,
+  "shots": 131,
+  "seconds": 431.5,
+  "unchanged": "全部动作、台词、字幕、时间、作者确认BGM映射、其余121镜图片"
+}

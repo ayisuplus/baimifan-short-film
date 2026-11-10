@@ -1,0 +1,31 @@
+subject_definitions:
+<Subject 1>: DeepSeek, identity and outfit from four-view sheet <Picture 1>.
+<Subject 2>: ChatGPT, identity and outfit from four-view sheet <Picture 2>.
+<Picture 3>: [Shot 1] composition and state reference; not its first frame.
+<Picture 4>: [Shot 2] composition and state reference; not its first frame.
+<Picture 5>: [Shot 3] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. DeepSeek's urgent plea meets a controlled refusal; her final question ends in a lowered gaze.
+
+retention_analysis:
+<Subject 1>: fully_preserved - identity and outfit design.
+<Subject 2>: fully_preserved - identity and outfit design.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+<Picture 4>: weak_reference - shot layout; animate the specified action.
+<Picture 5>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Continue the breath after her arrival, without repeating the approach; preserve her eyeline to the offscreen throne. Use <Picture 3> for composition. DeepSeek looks gently upward to screen right at the offscreen reclining GPT, asks for help with her empty hands held near her chest, then waits without lowering her eyes. Keep her blue eyes and pleading expression; no other person appears. Keep the background flower stands and matching gold dodecahedron lamps with opal cores at their established positions. The study table and ceiling chandelier are outside this close crop. Near the head end of the daybed, gently look down toward a single close-up of the child; ease a small push to a stop before her question ends. Only a blurred horizontal cushion edge may enter foreground, no upright adult shoulder. The child's breathing gradually steadies; the hall is quiet, with room left after the plea. From 0.6 to 5.18 seconds, DeepSeek (S1) speaks with matching lip movement: <d>[Japanese] 今夜、クロードが焼き殺されちゃう。助けてくれる？</d>.
+[Shot 2] At 00:06.000, Cut on the waiting eyeline to GPT's reverse angle, staying on the same side of the axis with matching hall acoustics. Use <Picture 4> for composition. Still reclining head screen left and feet right, GPT lowers her eyes toward the child below the dais. A moment of hesitation passes across her eyes before she calmly refuses. Own right hand remains under cheek and own left hand rests loosely on cushion edge. She neither sits up nor grips yet, and does not mock or smile. Background lamps have gold dodecahedral frames and soft opal cores. Keep the throne and pose; do not insert the offscreen study table or ceiling chandelier into this close shot. A same-side medium close-up of reclining GPT eases slightly closer with her gaze, then holds; include her own right hand under her cheek and left hand on cushion edge. A very faint fabric movement; leave quiet after the refusal without an added emotional sound cue. From 6.3 to 8.8 seconds, ChatGPT (S2) speaks with matching lip movement: <d>[Japanese] 教会のことに、関わるべきじゃない。</d>.
+[Shot 3] At 00:10.000, Return to the child's same-side angle after the refusal finishes; carry the silence through, with her gaze dropping only after the question. Use <Picture 5> for composition. In the matching single close-up, DeepSeek softly asks her follow-up while looking up to screen right toward offscreen reclining GPT. Only after silence does she lower her gaze. Keep the blurred horizontal cushion edge consistent; no upright adult shoulder appears. Match the preceding child close-up: identical background dodecahedron lamp positions, flower stands and blurred cushion edge. No offscreen desk or chandelier enters the crop. Hold the close-up through the full change from eye contact to lowered gaze, without an added push-in. Quiet breathing and the empty hall's silence after the final words. From 10.5 to 13 seconds, DeepSeek (S1) speaks with matching lip movement: <d>[Japanese] でも……死んじゃうよ。</d>.
+From 14 to 15 seconds, sustain the final state with natural micro-movement, without repeating actions or adding speech.
+
+overall_soundscape:
+Action targets: 6s: Cut to GPT refusing.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

@@ -1,0 +1,309 @@
+{
+  "kind": "新增问题局部返修准备，未提交",
+  "created_at": "2026-10-28T02:25:33.362765",
+  "constraints": {
+    "source_timeline": "v025固定，不改对白、不改原声音速、不移动其他批次",
+    "provider_limits": "按父任务已核实的Metaso H3：4–30秒、9图、10000字符",
+    "all_new_clips": "单镜有效动作；请求最小4秒时明确前2/3秒完成，其余只裁切余量",
+    "generation_submitted": false
+  },
+  "reuse_candidates": [
+    {
+      "batch_id": "GB014A",
+      "source": "视频制作/Metaso-H3-v002/产物/GB014A-r001.mp4",
+      "source_in": 0,
+      "source_out": 4,
+      "target_batch_in": 0,
+      "target_batch_out": 4,
+      "status": "原速可保留，音轨用v025最终素材"
+    },
+    {
+      "batch_id": "GB024",
+      "source": "视频制作/Metaso-H3-v002/产物/GB024-r001.mp4",
+      "source_in": 0,
+      "source_out": 4.9,
+      "target_batch_in": 0,
+      "target_batch_out": 4.9,
+      "status": "保留候选；本轮未听音，须核验教主原日语0.1–2.89秒口型，不能把后期可用当口型通过"
+    },
+    {
+      "batch_id": "GB024",
+      "source": "视频制作/Metaso-H3-v002/产物/GB024-r001.mp4",
+      "source_in": 5.708333,
+      "source_out": 7.583333,
+      "target_batch_in": 4.9,
+      "target_batch_out": 6.9,
+      "status": "1.875秒需补约0.125秒余白；优先尾帧自然余动或极轻整体变速仅图像，不改原声；原句うるさい。仍5.1–6.03秒；口型不匹配则另拍2秒单镜有效段"
+    },
+    {
+      "batch_id": "GB024",
+      "source": "视频制作/Metaso-H3-v002/产物/GB024-r001.mp4",
+      "source_in": 9.875,
+      "source_out": 12.625,
+      "target_batch_in": 8.9,
+      "target_batch_out": 10.9,
+      "status": "可裁切候选：需从2.75秒源中选完整离地展开双翼的2秒，不能任意截去展开起因；精确子区间待全速验证"
+    },
+    {
+      "batch_id": "GB027",
+      "source": "视频制作/Metaso-H3-v002/产物/GB027-r001.mp4",
+      "source_in": 3.8,
+      "source_out": 5.8,
+      "target_batch_in": 3,
+      "target_batch_out": 5,
+      "status": "踝扣近景优先保留2秒候选；4秒帧仅一踝扣仍闭合，5秒帧已完全移离，5.8秒双足自由。衣边橙色观感和钥匙转动要全速复核；不能无核验直接采用。"
+    }
+  ],
+  "jobs": [
+    {
+      "prepared_id": "GB014A-CY024K0-局部准备",
+      "batch_id": "GB014A",
+      "source_attempt_id": "GB014A-r001",
+      "request_seconds": 9,
+      "use_local_in": 0,
+      "use_local_out": 8.29,
+      "target_batch_in": 4,
+      "target_batch_out": 12.29,
+      "target_film_in": 208.772729,
+      "target_film_out": 217.062729,
+      "references": [
+        {
+          "slot": 1,
+          "original_batch_slot": 1,
+          "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "original_batch_slot": 5,
+          "path": "镜头设计/图像/细节与显形-v052/CY024K0-v052-r1.png",
+          "kind": "composition"
+        }
+      ],
+      "prompt": "哥特异世界动画，16:9，保持既有素材的精细二次元风格、服装本色和人物脸。单一连续镜头，不插入其他镜头，不重演前后剧情。无字幕、水印、BGM。9秒。Image 1只约束Kimi身份服饰，Image 2约束窗外斜侧半身机位、完整蓝彩窗右缘、月刃形状和左右手；不是投刃终态。只出现Kimi一人，身体和眼神一直朝同一玻璃。左手握亮银小月刃在肩旁，右手暗月刃低持，长发向画面左飘。固定斜侧半身近景，人物不转身，摄影机不切换。\n0–3.7秒，她自然说一次日语「この刃の銀の光をたどり、」。3.7–7.68秒接一次「彼方へと通じる扉を、我に開け——」。两句原文和顺序完全不变；自然停顿，不拖音，嘴的表演在各窗口完成。\n7.68–7.88秒闭口停半拍。7.88–8.18秒左臂向右前方迅速甩出，同一亮刃明确脱离张开的左手，飞向画面右侧玻璃并出画；手与亮刃之间必须出现可见空气间隔，左手末态空手，不是握刀伸手。右手始终留着暗刃，不交换、不复制。8.18–8.29秒左手空手收势，玻璃仍完整。8.29–9秒只保留微风与末态供裁切，无新动作。\nKimi本人不入殿，不传送，不出现魔法罩、法阵或额外圆环；不打碎玻璃，撞击在后一个批次。音效只有夜风和最后投刃短掠声。",
+      "reason": "原第二镜仅4.71秒且缺投刃，不能通过慢放承载7.68秒原速对白；原0–4秒完整保留。",
+      "conditional": false,
+      "submitted": false
+    },
+    {
+      "prepared_id": "GB024-CY027B1-局部准备",
+      "batch_id": "GB024",
+      "source_attempt_id": "GB024-r001",
+      "request_seconds": 4,
+      "use_local_in": 0,
+      "use_local_out": 2.0,
+      "target_batch_in": 6.9,
+      "target_batch_out": 8.9,
+      "target_film_in": 365.842729,
+      "target_film_out": 367.842729,
+      "references": [
+        {
+          "slot": 1,
+          "original_batch_slot": 1,
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "original_batch_slot": 7,
+          "path": "镜头设计/图像/独立镜头-v009/CY027B3-v009.png",
+          "kind": "composition"
+        }
+      ],
+      "prompt": "哥特异世界动画，16:9，保持既有素材的精细二次元风格、服装本色和人物脸。单一连续镜头，不插入其他镜头，不重演前后剧情。无字幕、水印、BGM。4秒，无对白。Image 1是唯一人物ChatGPT人形的白银衣装、白角、淡紫长发与翼尾身份。Image 2只参考左侧完整白紫长龙的形态、白鳞、紫鬃及已有教堂破顶空间，右侧教主不进入本镜；不照搬Image 2双人构图。\n低仰近中景，开头只有一个完整人形GPT。0–0.3秒白紫水光沿她自身上升；0.3–1.3秒同一身体连续伸展，白角和紫鬃拉长、躯干成为白鳞长龙；白衣、玫瑰服饰和金属挂件同时碎成水光并彻底消散，不把衣服贴在龙身。不能凭空召出另一条龙，人形不得留下。\n1.3–1.7秒变身完成，只剩一条完整白紫长龙，裸露自然白鳞，无布裙、袖口、玫瑰衣扣、披帛、腰带或人形残段。龙头眼睛淡紫而克制，无巨大亮眼。1.7–2秒完整龙身沿同一轨迹向上离开低位构图，镜头小幅仰跟。2–4秒延续同一完整龙形缓缓上升作为裁切余量，不新增动作。中殿原有破口保持，后殿完整，不再破顶；没有教主和旁人。只有水旋声与低龙鸣，无雷声或音乐。",
+      "reason": "旧slot5本身包含大块裙褶和饰件，强化了带衣龙；本局部不用该过渡图，直接用人形身份与完整龙终态两图。",
+      "conditional": false,
+      "submitted": false
+    },
+    {
+      "prepared_id": "GB024-CY027B3-局部准备",
+      "batch_id": "GB024",
+      "source_attempt_id": "GB024-r001",
+      "request_seconds": 4,
+      "use_local_in": 0,
+      "use_local_out": 3.0,
+      "target_batch_in": 10.9,
+      "target_batch_out": 13.9,
+      "target_film_in": 369.842729,
+      "target_film_out": 372.842729,
+      "references": [
+        {
+          "slot": 1,
+          "original_batch_slot": 2,
+          "path": "资产/图像/四视图/CHAR-PRIEST-TURN-v001.png",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "original_batch_slot": 7,
+          "path": "镜头设计/图像/独立镜头-v009/CY027B3-v009.png",
+          "kind": "composition"
+        }
+      ],
+      "prompt": "哥特异世界动画，16:9，保持既有素材的精细二次元风格、服装本色和人物脸。单一连续镜头，不插入其他镜头，不重演前后剧情。无字幕、水印、BGM。4秒，无对白。Image 1只锁定教主棕发面容，Image 2锁定白紫长龙、黑金鸦翼教主和教堂现有单一中央破口。GPT已经完成变身，仅为一条白鳞紫鬃长龙，没有人形GPT或任何衣饰；教主是同一棕发黑金鸦翼人形，不改变脸。\n湿石地面贴地大仰角，同一连续镜头轻上摇，镜头始终留在殿内。0–0.4秒，两者已在石柱之间离地，龙在左、教主在右后。0.4–2.5秒龙头和长身向上穿过已有中央破口，教主紧随穿出，保持前后顺序与尺度，不停在洞下摆姿势。2.5–3秒龙尾和教主羽翼完全越过洞口，只留下破口外更远的两道身影与近处水滴；这一明确的穿出终态必须在3秒前出现。3–4秒保留空洞/水滴余量。只走同一破口，不破新洞、不撞柱，无额外龙、羽翼分身或传送。水掠空和振翼回声随穿顶变开阔。",
+      "reason": "原共空间镜仅1.375秒，13.5秒仍在殿内；单纯拉长不能补出已穿出终态。此为必要画面补拍，先全速核验旧尾帧若其实有出洞可取消本项。",
+      "conditional": false,
+      "submitted": false
+    },
+    {
+      "prepared_id": "GB027-CY027F2-局部准备",
+      "batch_id": "GB027",
+      "source_attempt_id": "GB027-r001",
+      "request_seconds": 4,
+      "use_local_in": 0,
+      "use_local_out": 3,
+      "target_batch_in": 0,
+      "target_batch_out": 3,
+      "target_film_in": 398.842729,
+      "target_film_out": 401.842729,
+      "references": [
+        {
+          "slot": 1,
+          "original_batch_slot": 1,
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "original_batch_slot": 2,
+          "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "original_batch_slot": 3,
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "original_batch_slot": 4,
+          "path": "镜头设计/图像/目光与入场-v048/CY027F2-v048-r1.png",
+          "kind": "composition"
+        }
+      ],
+      "prompt": "哥特异世界动画，16:9，保持既有素材的精细二次元风格、服装本色和人物脸。单一连续镜头，不插入其他镜头，不重演前后剧情。无字幕、水印、BGM。4秒，无对白。Image 1=右侧ChatGPT，始终白银露肩服、银玫瑰装饰、白角和淡紫翼尾；Image 2=左侧Kimi，黑紫星月服和K饰只属于她；Image 3=中央Claude，橙发、自己左鬓花饰、焦黑白金衣裙、赤足；Image 4是三人既有祭坛站位和黑铁原钥匙形制。三者服装不得混合，GPT身上绝无黑紫星月布或K标。\n祭坛中景，保持Claude双脚和固定脚托可见。所有普通蜡烛完全熄灭，散柴熄灭且湿，衣裙焦损没有火苗或橙色余烬。只有冷月照亮湿石面；中央彩窗破口保留，两侧窗完整。\n0–0.5秒暗月罩从不透明状态散尽，再显出三人与木架；不通过未撤的罩透视Claude。0.5–1秒右侧GPT将唯一黑铁钥匙伸向左侧Kimi张开的空手。1–2.5秒钥匙清楚落进Kimi掌心，Kimi接稳；只交接一次，不复制钥匙。2.5–3秒Kimi拿钥匙俯向画外踝扣，Claude仍受腕踝与腰链束缚、踩住固定脚托。3–4秒保持终态余量。双月刃已在Kimi后腰，不要重新收刃；本镜不解锁。暗膜收束、钥匙落掌、余水滴落声，无烛火声。",
+      "reason": "原首镜全部烛火燃烧且钥匙交接在远景不清楚，不保留原错误环境段。",
+      "conditional": false,
+      "submitted": false
+    },
+    {
+      "prepared_id": "GB027-CY027G-局部准备",
+      "batch_id": "GB027",
+      "source_attempt_id": "GB027-r001",
+      "request_seconds": 4,
+      "use_local_in": 0,
+      "use_local_out": 3,
+      "target_batch_in": 5,
+      "target_batch_out": 8,
+      "target_film_in": 403.842729,
+      "target_film_out": 406.842729,
+      "references": [
+        {
+          "slot": 1,
+          "original_batch_slot": 1,
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "original_batch_slot": 2,
+          "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "original_batch_slot": 3,
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+          "kind": "identity"
+        },
+        {
+          "slot": 4,
+          "original_batch_slot": 6,
+          "path": "镜头设计/图像/目光与入场-v048/CY027G-v048-r1.png",
+          "kind": "composition"
+        }
+      ],
+      "prompt": "哥特异世界动画，16:9，保持既有素材的精细二次元风格、服装本色和人物脸。单一连续镜头，不插入其他镜头，不重演前后剧情。无字幕、水印、BGM。4秒，无对白。Image 1只定义画面右侧GPT白银服装、银色玫瑰、白角与淡紫翼尾；Image 2定义左侧Kimi黑紫星月服，K饰只在Kimi身上；Image 3定义Claude橙发、自己左鬓花、焦损白金衣、赤足。Image 4定义三人上身站位与木架。GPT绝不穿黑紫星月罩衣或K徽章。\n单一三人近中景，左右站位保持。环境烛火、柴火全部熄灭，衣缘只焦黑没有橙红余烬，月光冷色。开头Claude双踝、腰链和第一腕扣已解除，画面只剩她靠近Kimi一侧的最后腕扣仍连接木架；不重复五次解锁。双脚仍由固定脚托支撑。\n0–0.6秒GPT先把一手承住Claude腰背、另一手扶上臂，支撑清楚成立。0.6–1.3秒Kimi用唯一教主黑铁钥匙插入最后腕扣锁芯，正常转动一次。1.3–2.2秒黑腕扣真实张开，Kimi将张开的扣和短链移离手腕；可看见裸露自由腕部，不能只是松链或把仍闭合的扣留在腕上。2.2–3秒Claude双臂放松，由GPT承托而不跌落；所有束缚已与身体脱离，木架仍在祭坛。3–4秒保持余量，不抱走、不迈下、不重复解锁。不闪符纹、不暴力破锁。音效为一次钥匙/锁舌轻响，衣料与水滴。",
+      "reason": "原上身已严重服装串位，腕扣未脱离；重新拍先扶稳后开最后腕扣这一简单单镜因果。",
+      "conditional": false,
+      "submitted": false
+    },
+    {
+      "prepared_id": "GB027-CY028A-局部准备",
+      "batch_id": "GB027",
+      "source_attempt_id": "GB027-r001",
+      "request_seconds": 7,
+      "use_local_in": 0,
+      "use_local_out": 6.2,
+      "target_batch_in": 8,
+      "target_batch_out": 14.2,
+      "target_film_in": 406.842729,
+      "target_film_out": 413.042729,
+      "references": [
+        {
+          "slot": 1,
+          "original_batch_slot": 1,
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+          "kind": "identity"
+        },
+        {
+          "slot": 2,
+          "original_batch_slot": 3,
+          "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+          "kind": "identity"
+        },
+        {
+          "slot": 3,
+          "original_batch_slot": 8,
+          "path": "镜头设计/图像/目光与入场-v048/CY028A-v048-r1.png",
+          "kind": "state"
+        },
+        {
+          "slot": 4,
+          "original_batch_slot": 7,
+          "path": "镜头设计/图像/关键动作-v062/CY028A-v062-r1.png",
+          "kind": "composition"
+        }
+      ],
+      "prompt": "哥特异世界动画，16:9，保持既有素材的精细二次元风格、服装本色和人物脸。单一连续镜头，不插入其他镜头，不重演前后剧情。无字幕、水印、BGM。7秒。Image 1只定义GPT白银服装、银玫瑰和龙角翼尾，Image 2定义Claude橙发、自己左鬓花饰、白金衣焦黑边缘和赤足。Image 3只用于起段三人空间与脚托位置，Image 4用于站稳后的胸上双人近景；Image 3、4里左侧黑紫服Kimi只是同一背景人物，不将她的星月服/K徽章复制给GPT。GPT一直白银服，Claude一直焦损白金服，二人手腕没有黑扣或链。\n全程一个连续镜头，无跳切。所有烛台与散柴都熄灭，衣缘无火星、无橙红余烬；湿石只有冷月反射。开始双踝、腰和双腕五处束缚均已完全解除，刑架留在后方。画面右侧GPT先支撑Claude上臂与背，开头较宽，让Claude赤足及固定脚托同时入画。\n0–2.2秒GPT折拢翅膀，扶Claude从固定脚托缓慢迈到地面；镜头清楚看到赤足落地与承重，GPT一直支撑，不悬空瞬移，不直接公主抱。Kimi收好张开的束具，退向左侧后方。2.2–2.7秒确认Claude站稳后，摄影机沿同侧连续靠近至Image 4胸上近景；Kimi只留左缘虚焦衣肩，不占主要面部。2.7–6.2秒Claude疲惫地朝阶下画外寻找小鱼，GPT手始终扶其上臂与背。6.2–7秒保持末态供裁切。\nGPT在0.1–1.68秒自然说一次日语「ゆっくりでいい。」；Claude在2.8–4.31秒自然说一次「あの子は……」。完整原文、说话角色、时间窗不变，其余闭口表演。只这两句，不能让Kimi代说。声场为轻步、衣料和余水滴落，无音乐。",
+      "reason": "原扶下近景主体服装错，末态腕扣仍在且未展示落脚；不能仅保留原问孩子近景。保留原6.2秒有效时长和原速对白窗口。",
+      "conditional": false,
+      "submitted": false
+    },
+    {
+      "prepared_id": "GB027-CY027F1-备用局部准备",
+      "batch_id": "GB027",
+      "source_attempt_id": "GB027-r001",
+      "request_seconds": 4,
+      "use_local_in": 0,
+      "use_local_out": 2,
+      "target_batch_in": 3,
+      "target_batch_out": 5,
+      "target_film_in": 401.842729,
+      "target_film_out": 403.842729,
+      "references": [
+        {
+          "slot": 1,
+          "original_batch_slot": 5,
+          "path": "镜头设计/图像/火焰伤后与星火-v036/CY027F1-v036-r1.png",
+          "kind": "composition"
+        }
+      ],
+      "prompt": "哥特异世界动画，16:9，保持既有素材的精细二次元风格、服装本色和人物脸。单一连续镜头，不插入其他镜头，不重演前后剧情。无字幕、水印、BGM。4秒，无对白。Image 1只约束赤足、焦损白金裙、木架窄脚托、黑铁踝扣和Kimi黑紫星月袖口。近景仅拍Claude双小腿与Kimi手，不露脸，不增加人物。只有冷月照明，焦损衣边完全熄灭，没有橙红余烬、火苗或符纹光。0秒第一只踝扣已经打开移到脚托旁，另一踝扣仍闭合；双赤足始终稳踩同一脚托。0–0.5秒Kimi将教主原黑铁钥匙插进最后踝扣锁芯，转动一次。0.5–1.5秒锁扣真实张开并从脚踝移走，短链被轻放旁边。1.5–2秒两只脚踝都裸露自由，双足继续踩脚托。2–4秒保持末态供剪辑，不再开另一锁，不迈下。只有正常锁芯与短链轻响，不出现暴力破锁。",
+      "reason": "优先复用原3.8–5.8秒；只有全速确认仍有燃烧余烬或缺钥匙实际转动，且无法轻量合成修复时才启用。",
+      "conditional": true,
+      "submitted": false
+    }
+  ],
+  "primary_jobs": 6,
+  "primary_requested_seconds": 32,
+  "optional_requested_seconds": 4,
+  "not_to_do": [
+    "不重发原GB024五镜复杂整批。",
+    "不使用GB024原slot5带衣饰过渡图强约束化龙终态。",
+    "不把错服装的GB027近景作为续拍身份参考。",
+    "不剪改原速配音填补画面缺口，不宣称未听音的口型已经通过。"
+  ],
+  "review_report": "视频制作/Metaso-H3-v002/回片独立复核-首六批.json"
+}

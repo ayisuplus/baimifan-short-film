@@ -1,0 +1,62 @@
+{
+  "stair": {
+    "parameters": {
+      "power": 0.98,
+      "shoulder": 0.005,
+      "balance": [
+        1.003,
+        1,
+        1
+      ],
+      "gold_reduction": 0.02
+    },
+    "relative_lut": "MCP/Baimifan_v014_stair_r1.cube",
+    "project_lut": "后期\\宫殿调色-v014\\LUT\\Baimifan_v014_stair_r1.cube",
+    "sha256": "6c87461a8a75dca1daa11df24de334f49d6bbb1859974a4669b701727c30a25d"
+  },
+  "gate": {
+    "parameters": {
+      "power": 0.88,
+      "shoulder": 0.018,
+      "balance": [
+        1.012,
+        1.003,
+        1
+      ],
+      "gold_reduction": 0.02
+    },
+    "relative_lut": "MCP/Baimifan_v014_gate_r1.cube",
+    "project_lut": "后期\\宫殿调色-v014\\LUT\\Baimifan_v014_gate_r1.cube",
+    "sha256": "f10102a653fc9d1872bc34a5e68d1fca64643270952630f6b41f102d62f08d3a"
+  },
+  "inner": {
+    "parameters": {
+      "power": 0.84,
+      "shoulder": 0.025,
+      "balance": [
+        1.008,
+        1.002,
+        1
+      ],
+      "gold_reduction": 0.06
+    },
+    "relative_lut": "MCP/Baimifan_v014_inner_r1.cube",
+    "project_lut": "后期\\宫殿调色-v014\\LUT\\Baimifan_v014_inner_r1.cube",
+    "sha256": "ebda88443289c2aeb21b6c412f94c7f4598a10b748878065ef4d2384919c7fb6"
+  },
+  "dialogue": {
+    "parameters": {
+      "power": 1.1,
+      "shoulder": 0.055,
+      "balance": [
+        0.975,
+        0.995,
+        1.025
+      ],
+      "gold_reduction": 0.18
+    },
+    "relative_lut": "MCP/Baimifan_v014_dialogue_r1.cube",
+    "project_lut": "后期\\宫殿调色-v014\\LUT\\Baimifan_v014_dialogue_r1.cube",
+    "sha256": "87833f343b4b15aceeea1309a1d19a06a31fece3bc734fc17da66fc331c5d7ff"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115326650664427520",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "火把下的推拒",
+    "status": "succeeded",
+    "created_at": 1793168149,
+    "updated_at": 1793168173,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115326650664427520/content?expires=1793773338&signature=21b8f78f7a0c72359db7f596cd437ebe0c4f9eb6cb6d855f242b2c4f5ca79e2b"
+    },
+    "resolution": "768P",
+    "duration": 6,
+    "usage": {
+      "total_seconds": 6,
+      "input_seconds": 0,
+      "output_seconds": 6,
+      "input_image_count": 1
+    },
+    "ratio": "adaptive",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "batch": {
+    "batch_number": 37,
+    "batch_id": "GB027",
+    "attempt_id": "GB027-r003-CY027G",
+    "title": "撤罩、解锁与落脚",
+    "shot_ids": [
+      "CY027G"
+    ],
+    "film_start": 403.842729,
+    "part_offset": 5,
+    "used_seconds": 3,
+    "duration": 4,
+    "prompt": "从给定第一帧原样开始，只让已有画面动起来，不重新设计角色或背景。单一连续镜头，无切镜，无字幕水印、无音乐、无新增人物。4秒，全程冷月照明，蜡烛、柴堆和衣裙始终熄灭。Claude双脚自由稳踩脚托，没有踝扣，只有画面左侧抬起的最后腕扣待打开。右侧白衣GPT先扶稳她的背和上臂；左侧Kimi在0–0.8秒用黑铁钥匙转动唯一剩余腕扣，0.8–1.5秒腕扣清楚张开离开手腕，1.5–2.5秒Claude把自由手臂落下，GPT继续承重，2.5–4秒保持。露出两个自由手腕与两个自由脚踝，锁扣只留木架，不能又长回人物身上。没有跌落、迈下或抱走。无对白。",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/Metaso-H3-v002/修订参考/rescue-wrist-固定首帧-r004.png",
+        "sha256": "946ea6da4998ba53ea891aad3532b3d0023d03cc6e0fb1c4e9565cd90c3fbb15",
+        "kind": "first_frame",
+        "role": "first_frame"
+      }
+    ],
+    "change_reason": "参考模式重复重构出错误元素；改用官方固定首帧模式，锁住已修正的画面元素。",
+    "repair_of": {
+      "attempt_id": "GB027-r002-CY027G",
+      "task_id": "2115148563042070528",
+      "local_path": "视频制作/Metaso-H3-v002/产物/GB027-r002-CY027G.mp4"
+    },
+    "source": "新增问题返修-准备.json",
+    "status": "prepared",
+    "accepted": false,
+    "estimated_credits": 40.8,
+    "mode": "first_frame"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "从给定第一帧原样开始，只让已有画面动起来，不重新设计角色或背景。单一连续镜头，无切镜，无字幕水印、无音乐、无新增人物。4秒，全程冷月照明，蜡烛、柴堆和衣裙始终熄灭。Claude双脚自由稳踩脚托，没有踝扣，只有画面左侧抬起的最后腕扣待打开。右侧白衣GPT先扶稳她的背和上臂；左侧Kimi在0–0.8秒用黑铁钥匙转动唯一剩余腕扣，0.8–1.5秒腕扣清楚张开离开手腕，1.5–2.5秒Claude把自由手臂落下，GPT继续承重，2.5–4秒保持。露出两个自由手腕与两个自由脚踝，锁扣只留木架，不能又长回人物身上。没有跌落、迈下或抱走。无对白。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115150953244450816"
+        },
+        "role": "first_frame"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 4,
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "2026-10-28作者授权：参考图超限想办法砍不重要参考，该返修的都返修；沿用Metaso H3"
+}

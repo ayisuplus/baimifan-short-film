@@ -1,0 +1,394 @@
+{
+  "batch": {
+    "batch_number": 21,
+    "batch_id": "GB016-1",
+    "title": "罩内试镣，见痛收刀、圣骑士鱼贯而入、云宫合扇、合扇就是回答",
+    "shot_ids": [
+      "CY024K4",
+      "CY023A",
+      "CY026A",
+      "CY026A1"
+    ],
+    "film_start": 233.062729,
+    "film_end": 244.362729,
+    "used_seconds": 11.3,
+    "original_duration": 15,
+    "duration": 12,
+    "prompt": "subjects:\n<Picture 1>=Kimi四视图：同一人四角度，身份服饰保持\n<Picture 2>=Claude四视图：同一人四角度，身份服饰保持\n<Picture 3>=圣骑士四视图：同一人四角度，身份服饰保持\n<Picture 4>=ChatGPT四视图：同一人四角度，身份服饰保持\n<Picture 5>=Qwen四视图：同一人四角度，身份服饰保持\n<Picture 6>=构图状态，非强制首帧\n<Picture 7>=构图状态，非强制首帧\n<Picture 8>=构图状态，非强制首帧\n<Picture 9>=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，12秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–3s <Picture 6>；画内:Kimi、Claude。从完整不透明外壳硬切罩内，背景只见内侧暗膜；不是摄影机穿透或罩面变透明。罩内近中景微移焦点由腕扣接缝到Claude痛感及Kimi目光，撤刀时仅小幅下调取景；不拍成环绕展示护罩外界。硬切入暗月罩内部。Kimi用右手暗刃从侧下方轻试Claude腕镣接缝，细小紫纹立即反噬，Claude吃痛；Kimi随即把刀退到自己外侧髋边，刃口朝外下，担忧地看着锁扣。本镜只完成这一次试探与撤刀，五处束缚仍全部闭合。双刃收回后腰的过程在随后切镜中省略，下次回到罩内时双手已经腾出。背景只有不透明暗膜内侧，不透出教堂、烛火或窗；自然呼吸持续，不停格。 调度:重点演见痛撤刀；双刃收后腰在下次罩内镜前用剪辑省略，后续双手已腾出。 注意:3秒重点是见痛撤刀；双刃收后腰可在后续罩内镜前省略，不做重复试镣。 人物:罩内只见暗膜，不透出教堂人物；外界攻击声为远处闷响。 声音:轻触金属、腕镣短刺鸣、立刻撤刀；收刃实际发生时才有后腰卡扣声，不重复试镣。\n[Shot 2] 3–6s <Picture 7>；画内:圣骑士。罩内短刺鸣后硬切门口，换成清楚甲片脚步；时间仍为现在，先遣队不重新进门。门内侧向低角度横移一小段，随骑士跨槛分流后停在两翼纵深，中央空道始终保留。入口岗哨留守，余队跨过门槛沿两翼柱廊入殿；中央留空。 人物:仅后续骑士跟进，主角先遣队已入殿。 声音:骑士脚步、甲片与教堂环境底声。\n[Shot 3] 6–9.3s <Picture 8>；画内:ChatGPT、Qwen。从甲片声切入明确稍早回闪，地点转云宫，教堂战斗声退尽；这是小鱼独自营救期间的邀约。云宫双人中全景以短侧移显出两人面对面及展开折扇，GPT说话时收稳；不先合扇。回到稍早的云宫，GPT站到千问面前问出邀请；千问听完，下一镜才合扇回应。 调度:镜长3.3秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 声音:其余书院环境退低。 GPT在镜内0.1–1.92秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 4] 9.3–11.3s <Picture 9>；画内:Qwen。邀请句结束切同一把展开折扇，先合扇落定再保住短答，Qwen嘴部画外。手与扇骨特写顺扇面合拢轻微横摇，合拢卡定即停住，指尖握持清楚。合扇落定，指尖握住扇骨。 调度:镜长2秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 人物:Qwen仅手与合扇，回答不要求嘴部入画。 声音:声线自然速度，结束接下一邀约场景。 千问在镜内0–1.15秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n6.1–7.92s ChatGPT 匹配口型:<d>[Japanese] センモン、人助けに付き合って。</d>；仅一次。\n9.3–10.45s 千问 画外连续，不让在画者代说:<d>[Japanese] 行きましょう。</d>；仅一次。\n11.3–12s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+        "kind": "identity",
+        "person": "Kimi",
+        "name_en": "Kimi",
+        "asset_id": "MULKZI2WMFNJE",
+        "status": "作者指定复用",
+        "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。 本片双持小圆月刃沿用r3附属参考；战后固定后腰再解锁，不更换已定服装。",
+        "purpose": "Kimi四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc",
+        "source_path": "资产/图像/四视图复用/C03_Kimi-角色设定卡.png",
+        "source_sha256": "189fdb09a3a8928379914340229a4981dcee496e6a638842af6b746dae973cbc",
+        "sha1": "90740cd918a10c0f0f74eade89d78e208ada0a11",
+        "file_size": 2823904,
+        "width": 1448,
+        "height": 1086,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\图像\\四视图复用\\C03_Kimi-角色设定卡.png"
+      },
+      {
+        "slot": 2,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-CLAUDE-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "Claude",
+        "name_en": "Claude",
+        "asset_id": "CHAR-CLAUDE",
+        "status": "候选待作者审阅",
+        "limits": "侧背与下裙含补全，不作为精确工程正交图。受缚至离殿采用赤足，四视图鞋仅为日常服装参考。近景不为展示花饰而换侧；不新增另一朵花。",
+        "purpose": "Claude四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "81b841cea65e3ad3e7ed435e2390a00de137da1190965805a69e5868a6bb7b4a",
+        "source_path": "资产/图像/四视图/CHAR-CLAUDE-TURN-v001.png",
+        "source_sha256": "69dee6708e3a6fe26a212a17dd9c32041da6be4da3d181a2808f327ecaf87212",
+        "sha1": "ecd80984142fead85bfab07ed28c0e7b9c8c05b2",
+        "file_size": 2016603,
+        "width": 2200,
+        "height": 880,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-CLAUDE-TURN-v001-h3-pad.png"
+      },
+      {
+        "slot": 3,
+        "path": "资产/图像/CHAR-PALADIN-v001.png",
+        "kind": "identity",
+        "person": "圣骑士",
+        "name_en": "the palace paladins",
+        "asset_id": "CHAR-PALADIN",
+        "status": "候选待作者审阅",
+        "limits": "侧背结构是设计补全，不作为精确工程正交图。队伍枪距、披风碰撞与行进连续性待动态验证。",
+        "purpose": "圣骑士四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d",
+        "source_path": "资产/图像/CHAR-PALADIN-v001.png",
+        "source_sha256": "212afc88d4ba580b026ce5b7d0f553e3dead04647daf3bef7906860bc6048b9d",
+        "sha1": "8c06ab19982eec42c5594e272e81b2a8deb88052",
+        "file_size": 2428509,
+        "width": 1774,
+        "height": 887,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\图像\\CHAR-PALADIN-v001.png"
+      },
+      {
+        "slot": 4,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "ChatGPT",
+        "name_en": "ChatGPT",
+        "asset_id": "CHAR-GPT",
+        "status": "候选待作者审阅",
+        "limits": "两侧躯干略带斜角。开衩与腿饰以原图/正面图的角色右腿为准，不按对称读取；尾巴弯曲是姿态参考，侧背含补全。",
+        "purpose": "ChatGPT四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9",
+        "source_path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+        "source_sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+        "sha1": "ff68ef289edac6743d7e87bdfe142f00332d50ce",
+        "file_size": 2143481,
+        "width": 2172,
+        "height": 869,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-GPT-TURN-v001-h3-pad.png"
+      },
+      {
+        "slot": 5,
+        "path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+        "kind": "identity",
+        "person": "Qwen",
+        "name_en": "Qwen",
+        "asset_id": "MULKZI2W5366M",
+        "status": "作者指定复用",
+        "limits": "旧卡正面有姿势、两侧略带斜角，作为四方向参考复用。合景保留人物服装本色；出场数量、站位和动态按分镜确定。",
+        "purpose": "Qwen四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+        "source_path": "资产/图像/四视图复用/C04_Qwen-角色设定卡.png",
+        "source_sha256": "6eccc7fa60ebcf209cf4c466da3a6ef5abf1c4a622e1d36bd86c9e18d87e8f25",
+        "sha1": "299f0013917fd50368114276807d8c52b4ba6493",
+        "file_size": 2717411,
+        "width": 1448,
+        "height": 1086,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\图像\\四视图复用\\C04_Qwen-角色设定卡.png"
+      },
+      {
+        "slot": 6,
+        "path": "镜头设计/图像/目光与入场-v048/CY024K4-v048-r1.png",
+        "kind": "composition",
+        "shot_id": "CY024K4",
+        "purpose": "构图、空间与代表状态：罩内试镣，见痛收刀；不是默认首帧",
+        "status": "v0.48朝向、反应、咏唱及局部色偏修订候选，待作者画面审阅",
+        "limits": "",
+        "sha256": "e3ef521890a01f0caa2951b28922d1a3d71b5b2d6109e22d7662420a301dcaf6",
+        "source_path": "镜头设计/图像/目光与入场-v048/CY024K4-v048-r1.png",
+        "source_sha256": "e3ef521890a01f0caa2951b28922d1a3d71b5b2d6109e22d7662420a301dcaf6",
+        "sha1": "aaa858f66a5cbe3322385769b5e962041871d2d1",
+        "file_size": 2687054,
+        "width": 1670,
+        "height": 942,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\目光与入场-v048\\CY024K4-v048-r1.png"
+      },
+      {
+        "slot": 7,
+        "path": "镜头设计/图像/天瀑空间-v014/CY023A-v014-r3.png",
+        "kind": "composition",
+        "shot_id": "CY023A",
+        "purpose": "构图、空间与代表状态：圣骑士鱼贯而入；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "625078b21c6f10f30fe5b384601e45d29b7be779e9c1c8e76138f44b979c9fb7",
+        "source_path": "镜头设计/图像/天瀑空间-v014/CY023A-v014-r3.png",
+        "source_sha256": "625078b21c6f10f30fe5b384601e45d29b7be779e9c1c8e76138f44b979c9fb7",
+        "sha1": "f34a538e461b12c6e9434339896c4ea1da89d3e6",
+        "file_size": 2835039,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\天瀑空间-v014\\CY023A-v014-r3.png"
+      },
+      {
+        "slot": 8,
+        "path": "镜头设计/图像/独立镜头-v009/CY026A-v009.png",
+        "kind": "composition",
+        "shot_id": "CY026A",
+        "purpose": "构图、空间与代表状态：云宫合扇；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "29a458b3796e581a939537030f3ce8a95161432175951f023b97fbbec867eff1",
+        "source_path": "镜头设计/图像/独立镜头-v009/CY026A-v009.png",
+        "source_sha256": "29a458b3796e581a939537030f3ce8a95161432175951f023b97fbbec867eff1",
+        "sha1": "d92c1c2301b938609bd4e7fa69db40c269152941",
+        "file_size": 3100801,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\独立镜头-v009\\CY026A-v009.png"
+      },
+      {
+        "slot": 9,
+        "path": "镜头设计/图像/独立镜头-v009/CY026A1-v009.png",
+        "kind": "composition",
+        "shot_id": "CY026A1",
+        "purpose": "构图、空间与代表状态：合扇就是回答；不是默认首帧",
+        "status": "2026-10-23作者确认当前静帧；收尾审查已记录，动态与声音未验收",
+        "limits": "",
+        "sha256": "0c51706f021371af875bbc8254743d34d6fcc885f5e4deb1495f5ba4ae7f9cb2",
+        "source_path": "镜头设计/图像/独立镜头-v009/CY026A1-v009.png",
+        "source_sha256": "0c51706f021371af875bbc8254743d34d6fcc885f5e4deb1495f5ba4ae7f9cb2",
+        "sha1": "75292eb5c76a3cb16e2639be8b8be275aec4fa1f",
+        "file_size": 2798402,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\独立镜头-v009\\CY026A1-v009.png"
+      }
+    ],
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 12,
+      "count": 1
+    },
+    "estimated_credits": 168,
+    "estimate_basis": "15秒报价210，按秒计费推算，提交前以网页实价为准",
+    "budget_selected": true,
+    "status": "prepared_not_submitted",
+    "task_id": null,
+    "node_id": "v-2UdJHx6BtH",
+    "prompt_before_header_shortening": "subject_definitions:\n<Picture 1>=Kimi四视图：同一人四角度，身份服饰保持\n<Picture 2>=Claude四视图：同一人四角度，身份服饰保持\n<Picture 3>=圣骑士四视图：同一人四角度，身份服饰保持\n<Picture 4>=ChatGPT四视图：同一人四角度，身份服饰保持\n<Picture 5>=Qwen四视图：同一人四角度，身份服饰保持\n<Picture 6>=构图状态，非强制首帧\n<Picture 7>=构图状态，非强制首帧\n<Picture 8>=构图状态，非强制首帧\n<Picture 9>=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，12秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–3s <Picture 6>；画内:Kimi、Claude。从完整不透明外壳硬切罩内，背景只见内侧暗膜；不是摄影机穿透或罩面变透明。罩内近中景微移焦点由腕扣接缝到Claude痛感及Kimi目光，撤刀时仅小幅下调取景；不拍成环绕展示护罩外界。硬切入暗月罩内部。Kimi用右手暗刃从侧下方轻试Claude腕镣接缝，细小紫纹立即反噬，Claude吃痛；Kimi随即把刀退到自己外侧髋边，刃口朝外下，担忧地看着锁扣。本镜只完成这一次试探与撤刀，五处束缚仍全部闭合。双刃收回后腰的过程在随后切镜中省略，下次回到罩内时双手已经腾出。背景只有不透明暗膜内侧，不透出教堂、烛火或窗；自然呼吸持续，不停格。 调度:重点演见痛撤刀；双刃收后腰在下次罩内镜前用剪辑省略，后续双手已腾出。 注意:3秒重点是见痛撤刀；双刃收后腰可在后续罩内镜前省略，不做重复试镣。 人物:罩内只见暗膜，不透出教堂人物；外界攻击声为远处闷响。 声音:轻触金属、腕镣短刺鸣、立刻撤刀；收刃实际发生时才有后腰卡扣声，不重复试镣。\n[Shot 2] 3–6s <Picture 7>；画内:圣骑士。罩内短刺鸣后硬切门口，换成清楚甲片脚步；时间仍为现在，先遣队不重新进门。门内侧向低角度横移一小段，随骑士跨槛分流后停在两翼纵深，中央空道始终保留。入口岗哨留守，余队跨过门槛沿两翼柱廊入殿；中央留空。 人物:仅后续骑士跟进，主角先遣队已入殿。 声音:骑士脚步、甲片与教堂环境底声。\n[Shot 3] 6–9.3s <Picture 8>；画内:ChatGPT、Qwen。从甲片声切入明确稍早回闪，地点转云宫，教堂战斗声退尽；这是小鱼独自营救期间的邀约。云宫双人中全景以短侧移显出两人面对面及展开折扇，GPT说话时收稳；不先合扇。回到稍早的云宫，GPT站到千问面前问出邀请；千问听完，下一镜才合扇回应。 调度:镜长3.3秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 声音:其余书院环境退低。 GPT在镜内0.1–1.92秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 4] 9.3–11.3s <Picture 9>；画内:Qwen。邀请句结束切同一把展开折扇，先合扇落定再保住短答，Qwen嘴部画外。手与扇骨特写顺扇面合拢轻微横摇，合拢卡定即停住，指尖握持清楚。合扇落定，指尖握住扇骨。 调度:镜长2秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 人物:Qwen仅手与合扇，回答不要求嘴部入画。 声音:声线自然速度，结束接下一邀约场景。 千问在镜内0–1.15秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n6.1–7.92s ChatGPT 匹配口型:<d>[Japanese] センモン、人助けに付き合って。</d>；仅一次。\n9.3–10.45s 千问 画外连续，不让在画者代说:<d>[Japanese] 行きましょう。</d>；仅一次。\n11.3–12s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "prompt_adjustment": "仅缩短技术字段标题，保留全部画面、对白和时码，给网页引用转换留字符空间。",
+    "display_name": "第21批 · 罩内试镣，见痛收刀、圣骑士鱼贯而入、云宫合扇、合扇就是回答 · H3 v001"
+  },
+  "request": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "node": "v-2UdJHx6BtH",
+    "idempotencyKey": "bmf-h3-GB016-1-wire-full",
+    "model": "MiniMax-Hailuo-H3",
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 12,
+      "count": 1
+    },
+    "prompt": "subjects:\n{{Node i-6n1fSpOePV}}=Kimi四视图：同一人四角度，身份服饰保持\n{{Node i-uKDIVWmghN}}=Claude四视图：同一人四角度，身份服饰保持\n{{Node i-KjFmn9fH3P}}=圣骑士四视图：同一人四角度，身份服饰保持\n{{Node i-07HfqKjhJ7}}=ChatGPT四视图：同一人四角度，身份服饰保持\n{{Node i-CW9KxwOOL4}}=Qwen四视图：同一人四角度，身份服饰保持\n{{Node i-u7aIUezhCP}}=构图状态，非强制首帧\n{{Node i-DHGEy2XRXM}}=构图状态，非强制首帧\n{{Node i-yIfqhCJ6tM}}=构图状态，非强制首帧\n{{Node i-82KjbDDJMc}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，12秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–3s {{Node i-u7aIUezhCP}}；画内:Kimi、Claude。从完整不透明外壳硬切罩内，背景只见内侧暗膜；不是摄影机穿透或罩面变透明。罩内近中景微移焦点由腕扣接缝到Claude痛感及Kimi目光，撤刀时仅小幅下调取景；不拍成环绕展示护罩外界。硬切入暗月罩内部。Kimi用右手暗刃从侧下方轻试Claude腕镣接缝，细小紫纹立即反噬，Claude吃痛；Kimi随即把刀退到自己外侧髋边，刃口朝外下，担忧地看着锁扣。本镜只完成这一次试探与撤刀，五处束缚仍全部闭合。双刃收回后腰的过程在随后切镜中省略，下次回到罩内时双手已经腾出。背景只有不透明暗膜内侧，不透出教堂、烛火或窗；自然呼吸持续，不停格。 调度:重点演见痛撤刀；双刃收后腰在下次罩内镜前用剪辑省略，后续双手已腾出。 注意:3秒重点是见痛撤刀；双刃收后腰可在后续罩内镜前省略，不做重复试镣。 人物:罩内只见暗膜，不透出教堂人物；外界攻击声为远处闷响。 声音:轻触金属、腕镣短刺鸣、立刻撤刀；收刃实际发生时才有后腰卡扣声，不重复试镣。\n[Shot 2] 3–6s {{Node i-DHGEy2XRXM}}；画内:圣骑士。罩内短刺鸣后硬切门口，换成清楚甲片脚步；时间仍为现在，先遣队不重新进门。门内侧向低角度横移一小段，随骑士跨槛分流后停在两翼纵深，中央空道始终保留。入口岗哨留守，余队跨过门槛沿两翼柱廊入殿；中央留空。 人物:仅后续骑士跟进，主角先遣队已入殿。 声音:骑士脚步、甲片与教堂环境底声。\n[Shot 3] 6–9.3s {{Node i-yIfqhCJ6tM}}；画内:ChatGPT、Qwen。从甲片声切入明确稍早回闪，地点转云宫，教堂战斗声退尽；这是小鱼独自营救期间的邀约。云宫双人中全景以短侧移显出两人面对面及展开折扇，GPT说话时收稳；不先合扇。回到稍早的云宫，GPT站到千问面前问出邀请；千问听完，下一镜才合扇回应。 调度:镜长3.3秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 声音:其余书院环境退低。 GPT在镜内0.1–1.92秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 4] 9.3–11.3s {{Node i-82KjbDDJMc}}；画内:Qwen。邀请句结束切同一把展开折扇，先合扇落定再保住短答，Qwen嘴部画外。手与扇骨特写顺扇面合拢轻微横摇，合拢卡定即停住，指尖握持清楚。合扇落定，指尖握住扇骨。 调度:镜长2秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 人物:Qwen仅手与合扇，回答不要求嘴部入画。 声音:声线自然速度，结束接下一邀约场景。 千问在镜内0–1.15秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n6.1–7.92s ChatGPT 匹配口型:<d>[Japanese] センモン、人助けに付き合って。</d>；仅一次。\n9.3–10.45s 千问 画外连续，不让在画者代说:<d>[Japanese] 行きましょう。</d>；仅一次。\n11.3–12s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "leftEnsure": [
+      "i-6n1fSpOePV",
+      "i-uKDIVWmghN",
+      "i-KjFmn9fH3P",
+      "i-07HfqKjhJ7",
+      "i-CW9KxwOOL4",
+      "i-u7aIUezhCP",
+      "i-DHGEy2XRXM",
+      "i-yIfqhCJ6tM",
+      "i-82KjbDDJMc"
+    ],
+    "newName": "第21批 · 罩内试镣，见痛收刀、圣骑士鱼贯而入、云宫合扇、合扇就是回答 · H3 v001",
+    "run": false
+  },
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-2UdJHx6BtH",
+    "node": {
+      "id": "v-2UdJHx6BtH",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第21批 · 罩内试镣，见痛收刀、圣骑士鱼贯而入、云宫合扇、合扇就是回答 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subjects:\n{{Image 1}}=Kimi四视图：同一人四角度，身份服饰保持\n{{Image 2}}=Claude四视图：同一人四角度，身份服饰保持\n{{Image 3}}=圣骑士四视图：同一人四角度，身份服饰保持\n{{Image 4}}=ChatGPT四视图：同一人四角度，身份服饰保持\n{{Image 5}}=Qwen四视图：同一人四角度，身份服饰保持\n{{Image 6}}=构图状态，非强制首帧\n{{Image 7}}=构图状态，非强制首帧\n{{Image 8}}=构图状态，非强制首帧\n{{Image 9}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，12秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。Claude花饰固定自身左鬓；教堂受缚至离殿赤足，受火后的焦损持续到离殿；数日后街市恢复清洁服装。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–3s {{Image 6}}；画内:Kimi、Claude。从完整不透明外壳硬切罩内，背景只见内侧暗膜；不是摄影机穿透或罩面变透明。罩内近中景微移焦点由腕扣接缝到Claude痛感及Kimi目光，撤刀时仅小幅下调取景；不拍成环绕展示护罩外界。硬切入暗月罩内部。Kimi用右手暗刃从侧下方轻试Claude腕镣接缝，细小紫纹立即反噬，Claude吃痛；Kimi随即把刀退到自己外侧髋边，刃口朝外下，担忧地看着锁扣。本镜只完成这一次试探与撤刀，五处束缚仍全部闭合。双刃收回后腰的过程在随后切镜中省略，下次回到罩内时双手已经腾出。背景只有不透明暗膜内侧，不透出教堂、烛火或窗；自然呼吸持续，不停格。 调度:重点演见痛撤刀；双刃收后腰在下次罩内镜前用剪辑省略，后续双手已腾出。 注意:3秒重点是见痛撤刀；双刃收后腰可在后续罩内镜前省略，不做重复试镣。 人物:罩内只见暗膜，不透出教堂人物；外界攻击声为远处闷响。 声音:轻触金属、腕镣短刺鸣、立刻撤刀；收刃实际发生时才有后腰卡扣声，不重复试镣。\n[Shot 2] 3–6s {{Image 7}}；画内:圣骑士。罩内短刺鸣后硬切门口，换成清楚甲片脚步；时间仍为现在，先遣队不重新进门。门内侧向低角度横移一小段，随骑士跨槛分流后停在两翼纵深，中央空道始终保留。入口岗哨留守，余队跨过门槛沿两翼柱廊入殿；中央留空。 人物:仅后续骑士跟进，主角先遣队已入殿。 声音:骑士脚步、甲片与教堂环境底声。\n[Shot 3] 6–9.3s {{Image 8}}；画内:ChatGPT、Qwen。从甲片声切入明确稍早回闪，地点转云宫，教堂战斗声退尽；这是小鱼独自营救期间的邀约。云宫双人中全景以短侧移显出两人面对面及展开折扇，GPT说话时收稳；不先合扇。回到稍早的云宫，GPT站到千问面前问出邀请；千问听完，下一镜才合扇回应。 调度:镜长3.3秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 声音:其余书院环境退低。 GPT在镜内0.1–1.92秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 4] 9.3–11.3s {{Image 9}}；画内:Qwen。邀请句结束切同一把展开折扇，先合扇落定再保住短答，Qwen嘴部画外。手与扇骨特写顺扇面合拢轻微横摇，合拢卡定即停住，指尖握持清楚。合扇落定，指尖握住扇骨。 调度:镜长2秒；采用完整日语原声自然速度，实际配音入出点按配音对位方案，不沿用旧对白预算；保留原动作、机位、运镜和切镜因果。 人物:Qwen仅手与合扇，回答不要求嘴部入画。 声音:声线自然速度，结束接下一邀约场景。 千问在镜内0–1.15秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n6.1–7.92s ChatGPT 匹配口型:<d>[Japanese] センモン、人助けに付き合って。</d>；仅一次。\n9.3–10.45s 千问 画外连续，不让在画者代说:<d>[Japanese] 行きましょう。</d>；仅一次。\n11.3–12s保持末态微动，无新动作台词，剪去余量。\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-6n1fSpOePV",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/c9c37061f22385d4bbf0fcbb7cd81f596fc6400c.png"
+            },
+            {
+              "nodeId": "i-uKDIVWmghN",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/88234e0405150bf25c82642dd7493f40996749c6.png"
+            },
+            {
+              "nodeId": "i-KjFmn9fH3P",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/461e6b5fb5c0520134c1af43198c6212fb916260.png"
+            },
+            {
+              "nodeId": "i-07HfqKjhJ7",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d74110bde0f98a0b44ed3c518d48eaea282c1a87.png"
+            },
+            {
+              "nodeId": "i-CW9KxwOOL4",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/96a6b1e660d5ca934f5a6e6289c6e5ba50a842df.png"
+            },
+            {
+              "nodeId": "i-u7aIUezhCP",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/798c59ea4a28ef7edf0d831a526f9e5402f08162.png"
+            },
+            {
+              "nodeId": "i-DHGEy2XRXM",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/9632c73ba1bb02cb4981b7568489557afdc39e81.png"
+            },
+            {
+              "nodeId": "i-yIfqhCJ6tM",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/66d78992742266c07e2adc63a2e5918c48396005.png"
+            },
+            {
+              "nodeId": "i-82KjbDDJMc",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/b7249248150a5e04dfe06488a6c6cb68a8eb6d5b.png"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 12
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-6n1fSpOePV",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/c9c37061f22385d4bbf0fcbb7cd81f596fc6400c.png",
+              "label": "C03_Kimi-角色设定卡",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-uKDIVWmghN",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/88234e0405150bf25c82642dd7493f40996749c6.png",
+              "label": "CHAR-CLAUDE-TURN-v001 · H3留白适配",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-NLaL2fcoZX",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/b21bb74522239a4a59ca98ec914adc1ab6bb3045.png",
+              "label": "CY024K3-v046-r1",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-6n1fSpOePV",
+            "i-uKDIVWmghN",
+            "i-KjFmn9fH3P",
+            "i-07HfqKjhJ7",
+            "i-CW9KxwOOL4",
+            "i-u7aIUezhCP",
+            "i-DHGEy2XRXM",
+            "i-yIfqhCJ6tM",
+            "i-82KjbDDJMc"
+          ],
+          "mixedListOrder": [
+            "i-6n1fSpOePV",
+            "i-uKDIVWmghN",
+            "i-KjFmn9fH3P",
+            "i-07HfqKjhJ7",
+            "i-CW9KxwOOL4",
+            "i-u7aIUezhCP",
+            "i-DHGEy2XRXM",
+            "i-yIfqhCJ6tM",
+            "i-82KjbDDJMc"
+          ]
+        },
+        "_updatedAtMs": 1793121488000,
+        "_lastAppliedFullyAtMs": 1793121488000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        }
+      },
+      "position": {
+        "x": 5592,
+        "y": 4596
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-2UdJHx6BtH",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

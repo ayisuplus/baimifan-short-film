@@ -1,0 +1,43 @@
+{
+  "line_id": "VO-CY026A-01",
+  "role": "GPT",
+  "line": {
+    "id": "VO-CY026A-01",
+    "role": "GPT",
+    "previous_batch": 21,
+    "previous_record_frame": 5717,
+    "previous_ja": "センモン、人助けに付き合って。",
+    "previous_zh": "千问，陪我救个人。",
+    "previous_audio_duration_seconds": 1.820000000000012,
+    "status": "retained_in_draft",
+    "ja": "センモン、人助けに付き合って。",
+    "zh_back_translation": "千问，陪我去救个人。",
+    "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+    "reading_hints": {},
+    "voice_role": "GPT",
+    "performance_direction_v004": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+    "tts_reading_text": "センモン、人助けに付き合って。",
+    "voice_asset": "GPT",
+    "timeline_adopted": false,
+    "performance_acceptance": "逐句表演与准确性待验收；作者已确认声线",
+    "audio_state": "needs_recording"
+  },
+  "voice_id": "tsunTpzA4d2kBihHrZ2R",
+  "voice_source": "selected v004 candidate 1",
+  "body": {
+    "text": "センモン、ひとだすけに、つきあって。",
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "ja"
+  },
+  "status": "saved_pending_review",
+  "author_performance_accepted": false,
+  "generation_revision": 2,
+  "repair_reason": "Two unprompted recognizers found similar lexical deviation or inserted filler; use explicit reading and remove ambiguous ellipsis",
+  "previous_receipt": "VO-CY026A-01-结果.json",
+  "request_id": "wwxlskMiKOVvQk3B0dO9",
+  "character_cost_header": "18",
+  "file": "声音/缺口补齐-v008/VO-CY026A-01__GPT-r2.mp3",
+  "sha256": "1817d108d45d5089408a8591c651665731f14244647a15b830eab78dda3c6b09",
+  "bytes": 33061,
+  "decode_ok": true
+}

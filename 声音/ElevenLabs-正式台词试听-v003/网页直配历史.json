@@ -1,0 +1,75 @@
+{
+  "has_more": false,
+  "history": [
+    {
+      "alignments": null,
+      "avatar_context": null,
+      "character_count_change_from": 709,
+      "character_count_change_to": 709,
+      "content_type": "audio/mpeg",
+      "date_unix": 1793257130,
+      "dialogue": [
+        {
+          "text": "行きましょう。\nつかまって。",
+          "voice_id": "4lOQ7A2l7HPuG7UIHiKA",
+          "voice_name": "Kyoko"
+        }
+      ],
+      "feedback": null,
+      "history_item_id": "fdLllESjpHB5Ma8cj8dS",
+      "model_id": "eleven_v4_exp",
+      "output_format": "mp3_44100_128",
+      "request_id": "isvcwwqJmTwiCFM71Dyy",
+      "settings": {
+        "focus": null,
+        "internal_sampling_config": null,
+        "similarity": 0.75,
+        "stability": 0.5,
+        "text_boost": false
+      },
+      "share_link_id": null,
+      "source": "TTS",
+      "state": "created",
+      "text": null,
+      "voice_category": null,
+      "voice_id": null,
+      "voice_name": null
+    },
+    {
+      "alignments": null,
+      "avatar_context": null,
+      "character_count_change_from": 709,
+      "character_count_change_to": 723,
+      "content_type": "audio/mpeg",
+      "date_unix": 1793257129,
+      "dialogue": [
+        {
+          "text": "行きましょう。\nつかまって。",
+          "voice_id": "4lOQ7A2l7HPuG7UIHiKA",
+          "voice_name": "Kyoko"
+        }
+      ],
+      "feedback": null,
+      "history_item_id": "2wqApxs9dzFQNUwgr6qw",
+      "model_id": "eleven_v4",
+      "output_format": "mp3_44100_128",
+      "request_id": "IC9HQL5heZvmDpnpjgz5",
+      "settings": {
+        "focus": null,
+        "internal_sampling_config": null,
+        "similarity": 0.75,
+        "stability": 0.5,
+        "text_boost": false
+      },
+      "share_link_id": null,
+      "source": "TTS",
+      "state": "created",
+      "text": null,
+      "voice_category": null,
+      "voice_id": null,
+      "voice_name": null
+    }
+  ],
+  "last_history_item_id": null,
+  "scanned_until": null
+}

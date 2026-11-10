@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-31",
+  "backend_tests": 36,
+  "ui_checks": [
+    "OpenCut story save visible in Director Desk",
+    "Director Desk save visible in OpenCut",
+    "Dirty concurrent draft preserved; save disabled pending explicit review",
+    "CY007 prompt save visible in CY008 shared GB004",
+    "Unsaved story survives switch to CY008 and back",
+    "All temporary text restored"
+  ],
+  "http_guards": {
+    "no_token": 403,
+    "untrusted_origin": 403,
+    "null_package": 400,
+    "stale_revision": 409
+  },
+  "live_revision": 9,
+  "canonical_project_sha256": "2703871d27017df77290e86d44dd347a603066bbe0d4202e401d41f7fc0b572b",
+  "working_text_matches_initial": true,
+  "frozen_and_source_hashes_unchanged": true,
+  "full_repository_typecheck": "41 existing errors; no errors reported in integration files",
+  "scope": "Local OpenCut Classic; three shots only; no generation or adoption"
+}

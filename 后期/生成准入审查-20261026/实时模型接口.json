@@ -1,0 +1,1570 @@
+{
+  "checked_date": "2026-10-26",
+  "provider": "LibTV remote MCP",
+  "scope": "read-only live schema; not dispatch or provider E2E verification",
+  "models": [
+    {
+      "ok": true,
+      "code": 0,
+      "query": "MiniMax-Hailuo-H3",
+      "modelName": "Minimax H3",
+      "displayName": "Minimax H3",
+      "modelId": "MiniMax-Hailuo-H3",
+      "modelKey": "MiniMax-Hailuo-H3",
+      "toolKey": "MiniMax-Hailuo-H3",
+      "modality": "video",
+      "schema": {
+        "modelKey": "MiniMax-Hailuo-H3",
+        "modelName": "Minimax H3",
+        "modelVendor": "MiniMax",
+        "baseType": 47,
+        "properties": {
+          "magic": false,
+          "count": [
+            1,
+            2,
+            4
+          ],
+          "template": {
+            "displayName": "特效",
+            "maxCount": 1
+          },
+          "prompt": {
+            "maxLength": 2000
+          },
+          "ratio_auto": {
+            "description": "",
+            "default": "adaptive",
+            "displayName": "比例",
+            "enum": [
+              {
+                "value": "adaptive",
+                "displayName": "自适应"
+              }
+            ],
+            "originalField": "ratio",
+            "component": "singleButton"
+          },
+          "ratio_t2v": {
+            "description": "",
+            "default": "16:9",
+            "displayName": "比例",
+            "enum": [
+              "21:9",
+              "16:9",
+              "4:3",
+              "1:1",
+              "3:4",
+              "9:16"
+            ],
+            "originalField": "ratio",
+            "component": "singleButton"
+          },
+          "ratio": {
+            "description": "",
+            "default": "16:9",
+            "displayName": "比例",
+            "enum": [
+              {
+                "value": "adaptive",
+                "displayName": "自适应"
+              },
+              "21:9",
+              "16:9",
+              "4:3",
+              "1:1",
+              "3:4",
+              "9:16"
+            ],
+            "originalField": "ratio",
+            "component": "singleButton"
+          },
+          "resolution": {
+            "description": "",
+            "displayName": "清晰度",
+            "enum": [
+              "768P",
+              "2K"
+            ],
+            "default": "2K",
+            "originalField": "resolution",
+            "component": "singleButton"
+          },
+          "duration": {
+            "description": "",
+            "displayName": "视频时长",
+            "min": 5,
+            "max": 15,
+            "step": 1,
+            "default": 5,
+            "originalField": "duration",
+            "component": "slider"
+          },
+          "modeType": {
+            "originalField": "modeType",
+            "items": {
+              "singleImage2video": [
+                1,
+                1
+              ],
+              "frames2video": [
+                1,
+                2
+              ],
+              "mixed2video": [
+                1,
+                15
+              ]
+            },
+            "mixed2videoConfig": {
+              "videoMax": 3,
+              "imageMax": 9,
+              "audioMax": 3
+            }
+          }
+        },
+        "config": {
+          "settings": {
+            "text2video": [
+              "ratio_t2v",
+              "resolution",
+              "duration"
+            ],
+            "singleImage2video": [
+              "ratio_auto",
+              "resolution",
+              "duration"
+            ],
+            "frames2video": [
+              "ratio_auto",
+              "resolution",
+              "duration"
+            ],
+            "image2video": [
+              "ratio",
+              "resolution",
+              "duration"
+            ],
+            "mixed2video": [
+              "ratio",
+              "resolution",
+              "duration"
+            ]
+          },
+          "generateTypes": {
+            "text": 41,
+            "image": 42,
+            "checkpointId": 23237078
+          }
+        },
+        "rules": [
+          {
+            "require": [
+              "prompt"
+            ]
+          },
+          {
+            "require": [
+              "image",
+              "video"
+            ],
+            "mode": "any",
+            "forModeTypes": [
+              "mixed2video"
+            ],
+            "whenHas": [
+              "audio"
+            ],
+            "message": "全能参考不可仅输入音频，须至少包含 1 个参考视频或图片"
+          }
+        ]
+      },
+      "remoteExecution": {
+        "evidence": "live-schema-intersection-with-web-and-go-request-mapping",
+        "controlsByMode": {
+          "text2video": {
+            "ratio_t2v": "ratio",
+            "ratio": "ratio",
+            "resolution": "resolution",
+            "duration": "duration"
+          },
+          "singleImage2video": {
+            "ratio_auto": "ratio",
+            "ratio": "ratio",
+            "resolution": "resolution",
+            "duration": "duration"
+          },
+          "frames2video": {
+            "ratio_auto": "ratio",
+            "ratio": "ratio",
+            "resolution": "resolution",
+            "duration": "duration"
+          },
+          "mixed2video": {
+            "ratio": "ratio",
+            "resolution": "resolution",
+            "duration": "duration"
+          }
+        },
+        "preparedReferences": "generation_submit does not accept media references. Use generate_video with referenceImageNodes/referenceVideoNodes/referenceAudioNodes; for an existing node use update_node with leftEnsure/leftAdd. Use authorized project node IDs and check doctor for execution availability. This entry-point restriction does not mean the model lacks reference support.",
+        "outputCount": "current schema; images default to one",
+        "dependencies": [],
+        "evidenceBoundary": "Request mapping only; provider media effects are unverified"
+      },
+      "inputContract": {
+        "model": "MiniMax-Hailuo-H3",
+        "modality": "video",
+        "promptSchema": {
+          "maxLength": 2000,
+          "type": "string"
+        },
+        "parameterSchemas": {
+          "generate": {
+            "anyOf": [
+              {
+                "type": "object",
+                "properties": {
+                  "ratio_t2v": {
+                    "description": "",
+                    "enum": [
+                      "21:9",
+                      "16:9",
+                      "4:3",
+                      "1:1",
+                      "3:4",
+                      "9:16"
+                    ],
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "ratio": {
+                    "description": "",
+                    "enum": [
+                      "adaptive",
+                      "21:9",
+                      "16:9",
+                      "4:3",
+                      "1:1",
+                      "3:4",
+                      "9:16"
+                    ],
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "resolution": {
+                    "description": "",
+                    "enum": [
+                      "768P",
+                      "2K"
+                    ],
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "duration": {
+                    "description": "",
+                    "minimum": 5,
+                    "maximum": 15,
+                    "type": "number"
+                  },
+                  "count": {
+                    "enum": [
+                      1,
+                      2,
+                      4
+                    ],
+                    "type": "integer",
+                    "minimum": 1
+                  }
+                },
+                "additionalProperties": false
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ratio_auto": {
+                    "description": "",
+                    "enum": [
+                      "adaptive"
+                    ],
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "ratio": {
+                    "description": "",
+                    "enum": [
+                      "adaptive",
+                      "21:9",
+                      "16:9",
+                      "4:3",
+                      "1:1",
+                      "3:4",
+                      "9:16"
+                    ],
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "resolution": {
+                    "description": "",
+                    "enum": [
+                      "768P",
+                      "2K"
+                    ],
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "duration": {
+                    "description": "",
+                    "minimum": 5,
+                    "maximum": 15,
+                    "type": "number"
+                  },
+                  "count": {
+                    "enum": [
+                      1,
+                      2,
+                      4
+                    ],
+                    "type": "integer",
+                    "minimum": 1
+                  }
+                },
+                "additionalProperties": false
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ratio": {
+                    "description": "",
+                    "enum": [
+                      "adaptive",
+                      "21:9",
+                      "16:9",
+                      "4:3",
+                      "1:1",
+                      "3:4",
+                      "9:16"
+                    ],
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "resolution": {
+                    "description": "",
+                    "enum": [
+                      "768P",
+                      "2K"
+                    ],
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "duration": {
+                    "description": "",
+                    "minimum": 5,
+                    "maximum": 15,
+                    "type": "number"
+                  },
+                  "count": {
+                    "enum": [
+                      1,
+                      2,
+                      4
+                    ],
+                    "type": "integer",
+                    "minimum": 1
+                  }
+                },
+                "additionalProperties": false
+              }
+            ]
+          },
+          "interpolate": {
+            "type": "object",
+            "properties": {
+              "ratio_auto": {
+                "description": "",
+                "enum": [
+                  "adaptive"
+                ],
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "ratio": {
+                "description": "",
+                "enum": [
+                  "adaptive",
+                  "21:9",
+                  "16:9",
+                  "4:3",
+                  "1:1",
+                  "3:4",
+                  "9:16"
+                ],
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "resolution": {
+                "description": "",
+                "enum": [
+                  "768P",
+                  "2K"
+                ],
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "duration": {
+                "description": "",
+                "minimum": 5,
+                "maximum": 15,
+                "type": "number"
+              },
+              "count": {
+                "enum": [
+                  1,
+                  2,
+                  4
+                ],
+                "type": "integer",
+                "minimum": 1
+              }
+            },
+            "additionalProperties": false
+          }
+        },
+        "frameInputSchemas": {
+          "generate": {
+            "type": "object",
+            "required": [
+              "intent",
+              "startFrameNode"
+            ],
+            "properties": {
+              "intent": {
+                "const": "generate"
+              },
+              "startFrameNode": {
+                "type": "string",
+                "minLength": 1
+              },
+              "params": {
+                "type": "object",
+                "properties": {
+                  "ratio_auto": {
+                    "description": "",
+                    "enum": [
+                      "adaptive"
+                    ],
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "ratio": {
+                    "description": "",
+                    "enum": [
+                      "adaptive",
+                      "21:9",
+                      "16:9",
+                      "4:3",
+                      "1:1",
+                      "3:4",
+                      "9:16"
+                    ],
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "resolution": {
+                    "description": "",
+                    "enum": [
+                      "768P",
+                      "2K"
+                    ],
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "duration": {
+                    "description": "",
+                    "minimum": 5,
+                    "maximum": 15,
+                    "type": "number"
+                  },
+                  "count": {
+                    "enum": [
+                      1,
+                      2,
+                      4
+                    ],
+                    "type": "integer",
+                    "minimum": 1
+                  }
+                },
+                "additionalProperties": false
+              }
+            },
+            "additionalProperties": false,
+            "description": "Frame-role input fragment; other arguments follow the tool schema. generate uses one first frame on generate_video/create_node/update_node; interpolate uses two distinct frames on generate_video. Do not combine frame roles with reference lists or incoming edge changes."
+          },
+          "interpolate": {
+            "type": "object",
+            "required": [
+              "intent",
+              "startFrameNode",
+              "endFrameNode"
+            ],
+            "properties": {
+              "intent": {
+                "const": "interpolate"
+              },
+              "startFrameNode": {
+                "type": "string",
+                "minLength": 1
+              },
+              "endFrameNode": {
+                "type": "string",
+                "minLength": 1
+              },
+              "params": {
+                "type": "object",
+                "properties": {
+                  "ratio_auto": {
+                    "description": "",
+                    "enum": [
+                      "adaptive"
+                    ],
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "ratio": {
+                    "description": "",
+                    "enum": [
+                      "adaptive",
+                      "21:9",
+                      "16:9",
+                      "4:3",
+                      "1:1",
+                      "3:4",
+                      "9:16"
+                    ],
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "resolution": {
+                    "description": "",
+                    "enum": [
+                      "768P",
+                      "2K"
+                    ],
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "duration": {
+                    "description": "",
+                    "minimum": 5,
+                    "maximum": 15,
+                    "type": "number"
+                  },
+                  "count": {
+                    "enum": [
+                      1,
+                      2,
+                      4
+                    ],
+                    "type": "integer",
+                    "minimum": 1
+                  }
+                },
+                "additionalProperties": false
+              }
+            },
+            "additionalProperties": false,
+            "description": "Frame-role input fragment; other arguments follow the tool schema. generate uses one first frame on generate_video/create_node/update_node; interpolate uses two distinct frames on generate_video. Do not combine frame roles with reference lists or incoming edge changes."
+          }
+        },
+        "serverManagedFields": [
+          "model",
+          "provider",
+          "modeType",
+          "scene",
+          "imageList",
+          "videoList",
+          "audioList",
+          "mixedList",
+          "imageListOrder",
+          "videoListOrder",
+          "audioListOrder",
+          "mixedListOrder",
+          "source_node_keys",
+          "generateTypes",
+          "checkpointId"
+        ],
+        "description": "Supply model, prompt and creative params separately. Parameter alternatives depend on the real references; internal planning resolves the applicable contract. Do not supply serverManagedFields or copy raw schema/config/remoteExecution."
+      }
+    },
+    {
+      "ok": true,
+      "code": 0,
+      "query": "star-video2.5",
+      "modelName": "Seedance 2.5",
+      "displayName": "Seedance 2.5",
+      "modelId": "star-video2.5",
+      "modelKey": "star-video2.5",
+      "toolKey": "star-video2.5",
+      "modality": "video",
+      "schema": {
+        "modelName": "Seedance 2.5",
+        "modelVendor": "star-video2.5",
+        "modelKey": "star-video2.5",
+        "baseType": 69,
+        "properties": {
+          "enablePromptOptimization": true,
+          "supportVideoContinuation": true,
+          "strikethroughPrice": {
+            "active": true
+          },
+          "magic": false,
+          "mention": true,
+          "portrait": true,
+          "supportLongVideo": true,
+          "direction": false,
+          "count": [
+            1,
+            2,
+            4
+          ],
+          "lens": {
+            "displayName": " 镜头",
+            "maxCount": 1
+          },
+          "prompt": {
+            "maxLength": 0
+          },
+          "ratio": {
+            "description": "",
+            "default": "adaptive",
+            "displayName": "比例",
+            "enum": [
+              {
+                "value": "adaptive",
+                "displayName": "Auto"
+              },
+              "16:9",
+              "4:3",
+              "1:1",
+              "3:4",
+              "9:16",
+              "21:9"
+            ],
+            "originalField": "ratio",
+            "component": "singleButton"
+          },
+          "ratio_auto": {
+            "default": "adaptive",
+            "displayName": "比例",
+            "enum": [
+              {
+                "value": "adaptive",
+                "displayName": "Auto"
+              }
+            ],
+            "originalField": "ratio",
+            "component": "singleButton"
+          },
+          "resolution": {
+            "description": "",
+            "displayName": "清晰度",
+            "enum": [
+              {
+                "value": "480p",
+                "displayName": "480P"
+              },
+              {
+                "value": "720p",
+                "displayName": "720P"
+              },
+              {
+                "value": "1080p",
+                "displayName": "1080P"
+              }
+            ],
+            "default": "720p",
+            "originalField": "resolution",
+            "component": "singleButton"
+          },
+          "duration": {
+            "description": "",
+            "displayName": "视频时长",
+            "min": 4,
+            "max": 30,
+            "step": 1,
+            "default": 5,
+            "originalField": "duration",
+            "component": "slider"
+          },
+          "duration_auto": {
+            "default": 0,
+            "displayName": "视频时长",
+            "enum": [
+              {
+                "value": 0,
+                "displayName": "Auto"
+              }
+            ],
+            "originalField": "duration",
+            "component": "singleButton"
+          },
+          "enableSound": {
+            "description": "",
+            "displayName": "生成音频",
+            "tips": "为生成的视频添加音频内容",
+            "enum": [
+              {
+                "value": "on",
+                "displayName": "开启"
+              },
+              {
+                "value": "off",
+                "displayName": "关闭"
+              }
+            ],
+            "default": "on",
+            "originalField": "enableSound",
+            "component": "singleButton"
+          },
+          "enablePortraitCheck": {
+            "description": "",
+            "displayName": "真人自动校验",
+            "tips": "开启后自动校验真人内容，提升生成成功率。关闭后，此节点保持关闭，直到手动开启。",
+            "default": 1,
+            "originalField": "enablePortraitCheck",
+            "component": "switch"
+          },
+          "searchEnabled": {
+            "displayName": "联网搜索",
+            "default": 1,
+            "component": "switch",
+            "originalField": "search_enabled"
+          },
+          "autoCompliance": {
+            "batch": true,
+            "enable": true,
+            "displayName": "自动校验素材",
+            "tips": "开启后自动校验素材合规性，提升真人视频生成成功率；非真人生成可关闭，跳过检测节省耗时。",
+            "default": 1,
+            "component": "switch"
+          },
+          "modeType": {
+            "description": "模态类型",
+            "originalField": "modeType",
+            "items": {
+              "singleImage2video": [
+                1,
+                1
+              ],
+              "frames2video": [
+                1,
+                2
+              ],
+              "image2video": [
+                1,
+                30
+              ],
+              "mixed2video": [
+                1,
+                50
+              ],
+              "audio2video": [
+                1,
+                10
+              ],
+              "videoEdit2video": [
+                1,
+                1
+              ],
+              "videoExtend2video": [
+                1,
+                50
+              ]
+            },
+            "mixed2videoConfig": {
+              "videoMax": 10,
+              "imageMax": 30,
+              "audioMax": 10
+            },
+            "videoEdit2videoConfig": {
+              "videoMax": 1,
+              "imageMaxWithVideo": 30
+            }
+          }
+        },
+        "config": {
+          "settings": {
+            "text2video": [
+              "ratio",
+              "resolution",
+              "duration",
+              "enableSound",
+              "enablePortraitCheck"
+            ],
+            "singleImage2video": [
+              "ratio",
+              "resolution",
+              "duration",
+              "enableSound",
+              "enablePortraitCheck"
+            ],
+            "frames2video": [
+              "ratio",
+              "resolution",
+              "duration",
+              "enableSound",
+              "enablePortraitCheck"
+            ],
+            "image2video": [
+              "ratio",
+              "resolution",
+              "duration",
+              "enableSound",
+              "enablePortraitCheck"
+            ],
+            "mixed2video": [
+              "ratio",
+              "resolution",
+              "duration",
+              "enableSound",
+              "enablePortraitCheck"
+            ],
+            "audio2video": [
+              "ratio",
+              "resolution",
+              "duration",
+              "enableSound",
+              "enablePortraitCheck"
+            ],
+            "videoEdit2video": [
+              "ratio_auto",
+              "resolution",
+              "duration_auto",
+              "enableSound",
+              "enablePortraitCheck"
+            ],
+            "videoExtend2video": [
+              "ratio",
+              "resolution",
+              "duration",
+              "enableSound",
+              "enablePortraitCheck"
+            ]
+          },
+          "advancedSettings": [
+            "searchEnabled",
+            "autoCompliance"
+          ],
+          "generateTypes": {
+            "text": 47,
+            "image": 48,
+            "checkpointId": 23164736
+          }
+        },
+        "rules": [
+          {
+            "require": [
+              "prompt",
+              "media"
+            ],
+            "mode": "any"
+          },
+          {
+            "require": [
+              "prompt"
+            ],
+            "forModeTypes": [
+              "text2video"
+            ]
+          }
+        ]
+      },
+      "remoteExecution": {
+        "evidence": "live-schema-intersection-with-web-and-go-request-mapping",
+        "controlsByMode": {
+          "text2video": {
+            "ratio": "ratio",
+            "resolution": "resolution",
+            "duration": "duration",
+            "enableSound": "enableSound",
+            "searchEnabled": "search_enabled",
+            "search_enabled": "search_enabled",
+            "autoCompliance": "autoCompliance"
+          },
+          "singleImage2video": {
+            "ratio": "ratio",
+            "resolution": "resolution",
+            "duration": "duration",
+            "enableSound": "enableSound",
+            "searchEnabled": "search_enabled",
+            "search_enabled": "search_enabled",
+            "autoCompliance": "autoCompliance"
+          },
+          "frames2video": {
+            "ratio": "ratio",
+            "resolution": "resolution",
+            "duration": "duration",
+            "enableSound": "enableSound",
+            "searchEnabled": "search_enabled",
+            "search_enabled": "search_enabled",
+            "autoCompliance": "autoCompliance"
+          },
+          "image2video": {
+            "ratio": "ratio",
+            "resolution": "resolution",
+            "duration": "duration",
+            "enableSound": "enableSound",
+            "searchEnabled": "search_enabled",
+            "search_enabled": "search_enabled",
+            "autoCompliance": "autoCompliance"
+          },
+          "mixed2video": {
+            "ratio": "ratio",
+            "resolution": "resolution",
+            "duration": "duration",
+            "enableSound": "enableSound",
+            "searchEnabled": "search_enabled",
+            "search_enabled": "search_enabled",
+            "autoCompliance": "autoCompliance"
+          },
+          "audio2video": {
+            "ratio": "ratio",
+            "resolution": "resolution",
+            "duration": "duration",
+            "enableSound": "enableSound",
+            "searchEnabled": "search_enabled",
+            "search_enabled": "search_enabled",
+            "autoCompliance": "autoCompliance"
+          },
+          "videoEdit2video": {
+            "ratio_auto": "ratio",
+            "ratio": "ratio",
+            "resolution": "resolution",
+            "duration_auto": "duration",
+            "duration": "duration",
+            "enableSound": "enableSound",
+            "searchEnabled": "search_enabled",
+            "search_enabled": "search_enabled",
+            "autoCompliance": "autoCompliance"
+          },
+          "videoExtend2video": {
+            "ratio": "ratio",
+            "resolution": "resolution",
+            "duration": "duration",
+            "enableSound": "enableSound",
+            "searchEnabled": "search_enabled",
+            "search_enabled": "search_enabled",
+            "autoCompliance": "autoCompliance"
+          }
+        },
+        "preparedReferences": "generation_submit does not accept media references. Use generate_video with referenceImageNodes/referenceVideoNodes/referenceAudioNodes; for an existing node use update_node with leftEnsure/leftAdd. Use authorized project node IDs and check doctor for execution availability. This entry-point restriction does not mean the model lacks reference support.",
+        "outputCount": "current schema; images default to one",
+        "dependencies": [],
+        "evidenceBoundary": "Request mapping only; provider media effects are unverified"
+      },
+      "inputContract": {
+        "model": "star-video2.5",
+        "modality": "video",
+        "promptSchema": {
+          "type": "string"
+        },
+        "parameterSchemas": {
+          "generate": {
+            "type": "object",
+            "properties": {
+              "ratio": {
+                "description": "",
+                "enum": [
+                  "adaptive",
+                  "16:9",
+                  "4:3",
+                  "1:1",
+                  "3:4",
+                  "9:16",
+                  "21:9"
+                ],
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "resolution": {
+                "description": "",
+                "enum": [
+                  "480p",
+                  "720p",
+                  "1080p"
+                ],
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "duration": {
+                "description": "",
+                "minimum": 4,
+                "maximum": 30,
+                "type": "number"
+              },
+              "enableSound": {
+                "description": "",
+                "enum": [
+                  "on",
+                  "off"
+                ],
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "searchEnabled": {
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "autoCompliance": {
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "count": {
+                "enum": [
+                  1,
+                  2,
+                  4
+                ],
+                "type": "integer",
+                "minimum": 1
+              }
+            },
+            "additionalProperties": false
+          },
+          "interpolate": {
+            "type": "object",
+            "properties": {
+              "ratio": {
+                "description": "",
+                "enum": [
+                  "adaptive",
+                  "16:9",
+                  "4:3",
+                  "1:1",
+                  "3:4",
+                  "9:16",
+                  "21:9"
+                ],
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "resolution": {
+                "description": "",
+                "enum": [
+                  "480p",
+                  "720p",
+                  "1080p"
+                ],
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "duration": {
+                "description": "",
+                "minimum": 4,
+                "maximum": 30,
+                "type": "number"
+              },
+              "enableSound": {
+                "description": "",
+                "enum": [
+                  "on",
+                  "off"
+                ],
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "searchEnabled": {
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "autoCompliance": {
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "count": {
+                "enum": [
+                  1,
+                  2,
+                  4
+                ],
+                "type": "integer",
+                "minimum": 1
+              }
+            },
+            "additionalProperties": false
+          },
+          "edit": {
+            "type": "object",
+            "properties": {
+              "ratio": {
+                "description": "",
+                "enum": [
+                  "adaptive",
+                  "16:9",
+                  "4:3",
+                  "1:1",
+                  "3:4",
+                  "9:16",
+                  "21:9"
+                ],
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "ratio_auto": {
+                "enum": [
+                  "adaptive"
+                ],
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "resolution": {
+                "description": "",
+                "enum": [
+                  "480p",
+                  "720p",
+                  "1080p"
+                ],
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "duration": {
+                "description": "",
+                "minimum": 4,
+                "maximum": 30,
+                "type": "number"
+              },
+              "duration_auto": {
+                "enum": [
+                  0
+                ],
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "enableSound": {
+                "description": "",
+                "enum": [
+                  "on",
+                  "off"
+                ],
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "searchEnabled": {
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "autoCompliance": {
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "count": {
+                "enum": [
+                  1,
+                  2,
+                  4
+                ],
+                "type": "integer",
+                "minimum": 1
+              }
+            },
+            "additionalProperties": false
+          },
+          "extend": {
+            "type": "object",
+            "properties": {
+              "ratio": {
+                "description": "",
+                "enum": [
+                  "adaptive",
+                  "16:9",
+                  "4:3",
+                  "1:1",
+                  "3:4",
+                  "9:16",
+                  "21:9"
+                ],
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "resolution": {
+                "description": "",
+                "enum": [
+                  "480p",
+                  "720p",
+                  "1080p"
+                ],
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "duration": {
+                "description": "",
+                "minimum": 4,
+                "maximum": 30,
+                "type": "number"
+              },
+              "enableSound": {
+                "description": "",
+                "enum": [
+                  "on",
+                  "off"
+                ],
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "searchEnabled": {
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "autoCompliance": {
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "count": {
+                "enum": [
+                  1,
+                  2,
+                  4
+                ],
+                "type": "integer",
+                "minimum": 1
+              }
+            },
+            "additionalProperties": false
+          }
+        },
+        "frameInputSchemas": {
+          "generate": {
+            "type": "object",
+            "required": [
+              "intent",
+              "startFrameNode"
+            ],
+            "properties": {
+              "intent": {
+                "const": "generate"
+              },
+              "startFrameNode": {
+                "type": "string",
+                "minLength": 1
+              },
+              "params": {
+                "type": "object",
+                "properties": {
+                  "ratio": {
+                    "description": "",
+                    "enum": [
+                      "adaptive",
+                      "16:9",
+                      "4:3",
+                      "1:1",
+                      "3:4",
+                      "9:16",
+                      "21:9"
+                    ],
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "resolution": {
+                    "description": "",
+                    "enum": [
+                      "480p",
+                      "720p",
+                      "1080p"
+                    ],
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "duration": {
+                    "description": "",
+                    "minimum": 4,
+                    "maximum": 30,
+                    "type": "number"
+                  },
+                  "enableSound": {
+                    "description": "",
+                    "enum": [
+                      "on",
+                      "off"
+                    ],
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "searchEnabled": {
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "autoCompliance": {
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "count": {
+                    "enum": [
+                      1,
+                      2,
+                      4
+                    ],
+                    "type": "integer",
+                    "minimum": 1
+                  }
+                },
+                "additionalProperties": false
+              }
+            },
+            "additionalProperties": false,
+            "description": "Frame-role input fragment; other arguments follow the tool schema. generate uses one first frame on generate_video/create_node/update_node; interpolate uses two distinct frames on generate_video. Do not combine frame roles with reference lists or incoming edge changes."
+          },
+          "interpolate": {
+            "type": "object",
+            "required": [
+              "intent",
+              "startFrameNode",
+              "endFrameNode"
+            ],
+            "properties": {
+              "intent": {
+                "const": "interpolate"
+              },
+              "startFrameNode": {
+                "type": "string",
+                "minLength": 1
+              },
+              "endFrameNode": {
+                "type": "string",
+                "minLength": 1
+              },
+              "params": {
+                "type": "object",
+                "properties": {
+                  "ratio": {
+                    "description": "",
+                    "enum": [
+                      "adaptive",
+                      "16:9",
+                      "4:3",
+                      "1:1",
+                      "3:4",
+                      "9:16",
+                      "21:9"
+                    ],
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "resolution": {
+                    "description": "",
+                    "enum": [
+                      "480p",
+                      "720p",
+                      "1080p"
+                    ],
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "duration": {
+                    "description": "",
+                    "minimum": 4,
+                    "maximum": 30,
+                    "type": "number"
+                  },
+                  "enableSound": {
+                    "description": "",
+                    "enum": [
+                      "on",
+                      "off"
+                    ],
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "searchEnabled": {
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "autoCompliance": {
+                    "type": [
+                      "string",
+                      "number",
+                      "boolean"
+                    ]
+                  },
+                  "count": {
+                    "enum": [
+                      1,
+                      2,
+                      4
+                    ],
+                    "type": "integer",
+                    "minimum": 1
+                  }
+                },
+                "additionalProperties": false
+              }
+            },
+            "additionalProperties": false,
+            "description": "Frame-role input fragment; other arguments follow the tool schema. generate uses one first frame on generate_video/create_node/update_node; interpolate uses two distinct frames on generate_video. Do not combine frame roles with reference lists or incoming edge changes."
+          }
+        },
+        "serverManagedFields": [
+          "model",
+          "provider",
+          "modeType",
+          "scene",
+          "imageList",
+          "videoList",
+          "audioList",
+          "mixedList",
+          "imageListOrder",
+          "videoListOrder",
+          "audioListOrder",
+          "mixedListOrder",
+          "source_node_keys",
+          "generateTypes",
+          "checkpointId"
+        ],
+        "description": "Supply model, prompt and creative params separately. Parameter alternatives depend on the real references; internal planning resolves the applicable contract. Do not supply serverManagedFields or copy raw schema/config/remoteExecution."
+      }
+    }
+  ]
+}

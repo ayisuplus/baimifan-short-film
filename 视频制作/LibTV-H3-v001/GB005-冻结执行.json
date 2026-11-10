@@ -1,0 +1,301 @@
+{
+  "batch": {
+    "batch_number": 6,
+    "batch_id": "GB005",
+    "title": "独自离去、搓手迟疑与起身目送",
+    "shot_ids": [
+      "CY009",
+      "CY010",
+      "CY009A"
+    ],
+    "film_start": 69.592729,
+    "film_end": 83.592729,
+    "used_seconds": 14,
+    "original_duration": 15,
+    "duration": 14,
+    "prompt": "subject_definitions:\n<Picture 1>=DeepSeek四视图：同一人四角度，身份服饰保持\n<Picture 2>=ChatGPT四视图：同一人四角度，身份服饰保持\n<Picture 3>=构图状态，非强制首帧\n<Picture 4>=构图状态，非强制首帧\n<Picture 5>=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，14秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–5s <Picture 3>；画内:DeepSeek、ChatGPT。小鱼原句从画外起声，随即切回现实小鱼近景并转身离开；不重复起句。面向卧榻的中远景，随小鱼离开短距离后退，保留孩子前景和GPT躺姿背景；不反向拍成入殿。小鱼完整原句从画外起声打断内心争执；在起句的切点回到现实小鱼近景，然后转身离开。原句只播放一次，不由GPT或分身代说。小鱼说出决定后转身，向入口方向走去，低头擦去泪水；镜头沿她离开的方向短距离后退，保持前景孩子与远处卧榻同框。GPT仍头左脚右地侧躺，右手托腮、左手搭垫边，只有目光跟随；她还不起身。 注意: 当前背景采用数学宫殿灯具；按本镜实际视野显示，不挪摆件、不新增人物。 人物:小鱼前景向镜头走近，GPT在远处卧榻仍侧躺，不能写成画外。 声音:脚步由近到远，尾音收住。 小鱼在镜内0–1.7秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 2] 5–8s <Picture 4>；画内:ChatGPT。钟声先于切手部进入；宝宝远去脚步留在画外，不作切黑以打断下一镜目送。保持双手和软垫的近距离特写；右手入画后，双手轻搓并停住，机位稳定，保留自然微动。镜内0–0.7秒，GPT将右手从脸侧放下，靠垫继续承托头肩，双手在软垫上方松松相合；0.7–2.5秒，手掌与指腹轻轻来回摩挲两下，手指自然微弯，动作小而慢；2.5–3秒停住，双手仍松合。她保持侧躺，不抓软垫、不攥拳、不用力绞手，起身留到下一镜。 注意:双手轻搓中间状态参考；前0.7秒先放下托腮的右手，摩挲两下后停住。不抓布、不攥拳，身体仍侧躺。 人物:只见GPT双手与袖口；右手已经离开脸侧，与左手轻柔摩挲。小鱼画外，头肩由靠垫支撑。 声音:一声远钟及连续尾韵，极轻的织物摩擦；小鱼远去的脚步在画外延续，不切黑。\n[Shot 3] 8–14s <Picture 5>；画内:ChatGPT、DeepSeek。承搓手停住、双手分开切近过肩，头肩接同一次起身；镜内0–2秒抬起上身，2–4秒随站起升高并收停，4–6秒站定目送。图片只作目送终态参考。摄影机贴近GPT肩后，左边缘只截半个后脑和一个肩膀，焦点保持远处小鱼；随同一次起身平稳升高少许后收停，不拉远、不绕到正脸，王座在机后画外。承双手轻搓后的停顿，镜内0–2秒GPT分开双手、左掌撑垫抬起上身，近景只见左边缘半个后脑与肩膀轻轻抬起；2–4秒接同一次起身，摄影机随头肩平稳升高少许并收停，收腿落脚、收翼和尾巴避开椅框在画外连续完成；4–6秒头肩站定，只留呼吸与少量发丝微动，目送远处小鱼背对镜头走向并越过宫门。全程不拉远露全身，不换到脸部，不重复起身。 只见沿长廊两侧的十二面体柔光灯与远处高悬椭圆环灯；王座和手稿小几在机后画外，不搬到远门口。 注意:当前图为紧过肩目送终态；只露半个后脑与一个肩膀，远处小鱼背影清晰。镜内0–4秒随同一次起身轻升并收停，4–6秒目送；腿、尾巴与王座均在画外。 当前背景采用数学宫殿灯具；按本镜实际视野显示，不挪摆件、不新增人物。 人物:紧过肩仅露半个后脑和一侧肩膀，远处小鱼背对镜头离去；王座、腿和尾巴在画外。图为站立目送终态，不是首帧；随同一次起身轻升收停。 声音:远去脚步、钟声尾音，末尾接教堂夜风。\n0–1.7s DeepSeek 仅起声在画外打断，立即切回小鱼后由她本人对嘴说完；其他角色不代说:<d>[Japanese] じゃあ、自分で行く。</d>；仅一次。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "references": [
+      {
+        "slot": 1,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-DEEPSEEK-TURN-v003-h3-pad.png",
+        "kind": "identity",
+        "person": "DeepSeek",
+        "name_en": "DeepSeek",
+        "asset_id": "CHAR-DEEPSEEK",
+        "status": "候选待作者审阅",
+        "limits": "中立站姿不持饭盆以显示衣装。背面帽尾体积表达较简化，镜头以母本及两侧视为准；鲸帽尾和身体尾是不同结构，母本优先于旧穿搭卡。",
+        "purpose": "DeepSeek四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "6f2666bafdb26102360d9f170946f98b4a61e317c2d01f6858287a7911e743b3",
+        "source_path": "资产/图像/四视图/CHAR-DEEPSEEK-TURN-v003.png",
+        "source_sha256": "be18a5ece8e73d478d0e2c6995001dad19574e35016ce6f358110e0b0a1b73b2",
+        "sha1": "d9d76117c7724d34a366061d3bb38d3a2c70e2c6",
+        "file_size": 1868475,
+        "width": 2169,
+        "height": 868,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-DEEPSEEK-TURN-v003-h3-pad.png"
+      },
+      {
+        "slot": 2,
+        "path": "视频制作/LibTV-H3-v001/上传适配/CHAR-GPT-TURN-v001-h3-pad.png",
+        "kind": "identity",
+        "person": "ChatGPT",
+        "name_en": "ChatGPT",
+        "asset_id": "CHAR-GPT",
+        "status": "候选待作者审阅",
+        "limits": "两侧躯干略带斜角。开衩与腿饰以原图/正面图的角色右腿为准，不按对称读取；尾巴弯曲是姿态参考，侧背含补全。",
+        "purpose": "ChatGPT四方向设定：身份、服装与饰物位置；同一人物的多个角度",
+        "sha256": "eb4d175576d07053c307a8369d9242cb36dbd466b1659cf1035e3ccf372de1a9",
+        "source_path": "资产/图像/四视图/CHAR-GPT-TURN-v001.png",
+        "source_sha256": "c0e231a9acec3c1f44720d2eb24bfa07ea4432ed2f972e269ee758432013c0fc",
+        "sha1": "ff68ef289edac6743d7e87bdfe142f00332d50ce",
+        "file_size": 2143481,
+        "width": 2172,
+        "height": 869,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\视频制作\\LibTV-H3-v001\\上传适配\\CHAR-GPT-TURN-v001-h3-pad.png"
+      },
+      {
+        "slot": 3,
+        "path": "镜头设计/图像/数学宫殿-v056/CY009.png",
+        "kind": "composition",
+        "shot_id": "CY009",
+        "purpose": "构图、空间与代表状态：那我自己去；不是默认首帧",
+        "status": "数学宫殿方向作者认可；本轮新静帧待作者审阅",
+        "limits": "",
+        "sha256": "50c30570f97b23d3209329d6b7985de58d8eb56a2fa05fbe30257c6235ca9ab0",
+        "source_path": "镜头设计/图像/数学宫殿-v056/CY009.png",
+        "source_sha256": "50c30570f97b23d3209329d6b7985de58d8eb56a2fa05fbe30257c6235ca9ab0",
+        "sha1": "03ffc9bf34012d08e165e76d6d65d16b3751f130",
+        "file_size": 2603408,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\数学宫殿-v056\\CY009.png"
+      },
+      {
+        "slot": 4,
+        "path": "镜头设计/图像/宫殿躺姿-v055/CY010-r2-搓手.png",
+        "kind": "composition",
+        "shot_id": "CY010",
+        "purpose": "构图、空间与代表状态：轻轻搓手的迟疑；不是默认首帧",
+        "status": "作者指定轻搓双手；新静帧待作者审阅",
+        "limits": "",
+        "sha256": "63d4ac1b354c7022f52a846530d4c8d0f0dd6ce3b60857dcaacb6f8ac6a64f6f",
+        "source_path": "镜头设计/图像/宫殿躺姿-v055/CY010-r2-搓手.png",
+        "source_sha256": "63d4ac1b354c7022f52a846530d4c8d0f0dd6ce3b60857dcaacb6f8ac6a64f6f",
+        "sha1": "7e3411561b7fba0649b64169facc50dc70ecf182",
+        "file_size": 2226389,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\宫殿躺姿-v055\\CY010-r2-搓手.png"
+      },
+      {
+        "slot": 5,
+        "path": "镜头设计/图像/数学宫殿-v056/CY009A.png",
+        "kind": "composition",
+        "shot_id": "CY009A",
+        "purpose": "构图、空间与代表状态：起身目送长殿尽头；不是默认首帧",
+        "status": "数学宫殿方向作者认可；本轮新静帧待作者审阅",
+        "limits": "",
+        "sha256": "44c7f45cb3ea56cd8da3857d0f6f419170c333f06f63588938a52ee7e3dc1fd6",
+        "source_path": "镜头设计/图像/数学宫殿-v056/CY009A.png",
+        "source_sha256": "44c7f45cb3ea56cd8da3857d0f6f419170c333f06f63588938a52ee7e3dc1fd6",
+        "sha1": "9f3e05b6c88534b6be19119b2ae06b0ecd293dec",
+        "file_size": 2341618,
+        "width": 1672,
+        "height": 941,
+        "absolute_path": "E:\\projects\\内容创作\\故事短片\\白米饭\\镜头设计\\图像\\数学宫殿-v056\\CY009A.png"
+      }
+    ],
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 14,
+      "count": 1
+    },
+    "estimated_credits": 196,
+    "estimate_basis": "15秒报价210，按秒计费推算，提交前以网页实价为准",
+    "budget_selected": true,
+    "status": "prepared_not_submitted",
+    "task_id": null,
+    "node_id": "v-23N7n7xp2h",
+    "display_name": "第6批 · 独自离去、搓手迟疑与起身目送 · H3 v001"
+  },
+  "request": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "node": "v-23N7n7xp2h",
+    "idempotencyKey": "bmf-h3-GB005-wire-full",
+    "model": "MiniMax-Hailuo-H3",
+    "params": {
+      "ratio": "16:9",
+      "resolution": "768P",
+      "duration": 14,
+      "count": 1
+    },
+    "prompt": "subject_definitions:\n{{Node i-JAT4Pva730}}=DeepSeek四视图：同一人四角度，身份服饰保持\n{{Node i-07HfqKjhJ7}}=ChatGPT四视图：同一人四角度，身份服饰保持\n{{Node i-wc7y6H6Np8}}=构图状态，非强制首帧\n{{Node i-Boc0LwGVcs}}=构图状态，非强制首帧\n{{Node i-xuhTrJpOqz}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，14秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–5s {{Node i-wc7y6H6Np8}}；画内:DeepSeek、ChatGPT。小鱼原句从画外起声，随即切回现实小鱼近景并转身离开；不重复起句。面向卧榻的中远景，随小鱼离开短距离后退，保留孩子前景和GPT躺姿背景；不反向拍成入殿。小鱼完整原句从画外起声打断内心争执；在起句的切点回到现实小鱼近景，然后转身离开。原句只播放一次，不由GPT或分身代说。小鱼说出决定后转身，向入口方向走去，低头擦去泪水；镜头沿她离开的方向短距离后退，保持前景孩子与远处卧榻同框。GPT仍头左脚右地侧躺，右手托腮、左手搭垫边，只有目光跟随；她还不起身。 注意: 当前背景采用数学宫殿灯具；按本镜实际视野显示，不挪摆件、不新增人物。 人物:小鱼前景向镜头走近，GPT在远处卧榻仍侧躺，不能写成画外。 声音:脚步由近到远，尾音收住。 小鱼在镜内0–1.7秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 2] 5–8s {{Node i-Boc0LwGVcs}}；画内:ChatGPT。钟声先于切手部进入；宝宝远去脚步留在画外，不作切黑以打断下一镜目送。保持双手和软垫的近距离特写；右手入画后，双手轻搓并停住，机位稳定，保留自然微动。镜内0–0.7秒，GPT将右手从脸侧放下，靠垫继续承托头肩，双手在软垫上方松松相合；0.7–2.5秒，手掌与指腹轻轻来回摩挲两下，手指自然微弯，动作小而慢；2.5–3秒停住，双手仍松合。她保持侧躺，不抓软垫、不攥拳、不用力绞手，起身留到下一镜。 注意:双手轻搓中间状态参考；前0.7秒先放下托腮的右手，摩挲两下后停住。不抓布、不攥拳，身体仍侧躺。 人物:只见GPT双手与袖口；右手已经离开脸侧，与左手轻柔摩挲。小鱼画外，头肩由靠垫支撑。 声音:一声远钟及连续尾韵，极轻的织物摩擦；小鱼远去的脚步在画外延续，不切黑。\n[Shot 3] 8–14s {{Node i-xuhTrJpOqz}}；画内:ChatGPT、DeepSeek。承搓手停住、双手分开切近过肩，头肩接同一次起身；镜内0–2秒抬起上身，2–4秒随站起升高并收停，4–6秒站定目送。图片只作目送终态参考。摄影机贴近GPT肩后，左边缘只截半个后脑和一个肩膀，焦点保持远处小鱼；随同一次起身平稳升高少许后收停，不拉远、不绕到正脸，王座在机后画外。承双手轻搓后的停顿，镜内0–2秒GPT分开双手、左掌撑垫抬起上身，近景只见左边缘半个后脑与肩膀轻轻抬起；2–4秒接同一次起身，摄影机随头肩平稳升高少许并收停，收腿落脚、收翼和尾巴避开椅框在画外连续完成；4–6秒头肩站定，只留呼吸与少量发丝微动，目送远处小鱼背对镜头走向并越过宫门。全程不拉远露全身，不换到脸部，不重复起身。 只见沿长廊两侧的十二面体柔光灯与远处高悬椭圆环灯；王座和手稿小几在机后画外，不搬到远门口。 注意:当前图为紧过肩目送终态；只露半个后脑与一个肩膀，远处小鱼背影清晰。镜内0–4秒随同一次起身轻升并收停，4–6秒目送；腿、尾巴与王座均在画外。 当前背景采用数学宫殿灯具；按本镜实际视野显示，不挪摆件、不新增人物。 人物:紧过肩仅露半个后脑和一侧肩膀，远处小鱼背对镜头离去；王座、腿和尾巴在画外。图为站立目送终态，不是首帧；随同一次起身轻升收停。 声音:远去脚步、钟声尾音，末尾接教堂夜风。\n0–1.7s DeepSeek 仅起声在画外打断，立即切回小鱼后由她本人对嘴说完；其他角色不代说:<d>[Japanese] じゃあ、自分で行く。</d>；仅一次。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+    "leftEnsure": [
+      "i-JAT4Pva730",
+      "i-07HfqKjhJ7",
+      "i-wc7y6H6Np8",
+      "i-Boc0LwGVcs",
+      "i-xuhTrJpOqz"
+    ],
+    "newName": "第6批 · 独自离去、搓手迟疑与起身目送 · H3 v001",
+    "run": false
+  },
+  "readback": {
+    "projectId": "9714ed699fcf4599a57dfe75f38b9c22",
+    "nodeId": "v-23N7n7xp2h",
+    "node": {
+      "id": "v-23N7n7xp2h",
+      "type": "video",
+      "data": {
+        "type": "video",
+        "name": "第6批 · 独自离去、搓手迟疑与起身目送 · H3 v001",
+        "url": [],
+        "poster": "",
+        "action": "video_generate",
+        "generatorType": "default",
+        "params": {
+          "prompt": "subject_definitions:\n{{Image 1}}=DeepSeek四视图：同一人四角度，身份服饰保持\n{{Image 2}}=ChatGPT四视图：同一人四角度，身份服饰保持\n{{Image 3}}=构图状态，非强制首帧\n{{Image 4}}=构图状态，非强制首帧\n{{Image 5}}=构图状态，非强制首帧\nsummary:\n[reference generation] 哥特异世界动画，16:9，14秒。保持参考本色；四视图不增加人物，非当前镜中人物不入画。连续动作不重演。无字幕水印、无BGM、无额外台词。\nretention_analysis:\n身份服饰 fully_preserved；构图状态 weak_reference，按动作连续变化。\ndetailed_description:\n[Shot 1] 0–5s {{Image 3}}；画内:DeepSeek、ChatGPT。小鱼原句从画外起声，随即切回现实小鱼近景并转身离开；不重复起句。面向卧榻的中远景，随小鱼离开短距离后退，保留孩子前景和GPT躺姿背景；不反向拍成入殿。小鱼完整原句从画外起声打断内心争执；在起句的切点回到现实小鱼近景，然后转身离开。原句只播放一次，不由GPT或分身代说。小鱼说出决定后转身，向入口方向走去，低头擦去泪水；镜头沿她离开的方向短距离后退，保持前景孩子与远处卧榻同框。GPT仍头左脚右地侧躺，右手托腮、左手搭垫边，只有目光跟随；她还不起身。 注意: 当前背景采用数学宫殿灯具；按本镜实际视野显示，不挪摆件、不新增人物。 人物:小鱼前景向镜头走近，GPT在远处卧榻仍侧躺，不能写成画外。 声音:脚步由近到远，尾音收住。 小鱼在镜内0–1.7秒说完同一句日语。按完整文件原速；句内停顿保留，余下闭口表演；跨镜时声音连续，不让画内其他人物代说。\n[Shot 2] 5–8s {{Image 4}}；画内:ChatGPT。钟声先于切手部进入；宝宝远去脚步留在画外，不作切黑以打断下一镜目送。保持双手和软垫的近距离特写；右手入画后，双手轻搓并停住，机位稳定，保留自然微动。镜内0–0.7秒，GPT将右手从脸侧放下，靠垫继续承托头肩，双手在软垫上方松松相合；0.7–2.5秒，手掌与指腹轻轻来回摩挲两下，手指自然微弯，动作小而慢；2.5–3秒停住，双手仍松合。她保持侧躺，不抓软垫、不攥拳、不用力绞手，起身留到下一镜。 注意:双手轻搓中间状态参考；前0.7秒先放下托腮的右手，摩挲两下后停住。不抓布、不攥拳，身体仍侧躺。 人物:只见GPT双手与袖口；右手已经离开脸侧，与左手轻柔摩挲。小鱼画外，头肩由靠垫支撑。 声音:一声远钟及连续尾韵，极轻的织物摩擦；小鱼远去的脚步在画外延续，不切黑。\n[Shot 3] 8–14s {{Image 5}}；画内:ChatGPT、DeepSeek。承搓手停住、双手分开切近过肩，头肩接同一次起身；镜内0–2秒抬起上身，2–4秒随站起升高并收停，4–6秒站定目送。图片只作目送终态参考。摄影机贴近GPT肩后，左边缘只截半个后脑和一个肩膀，焦点保持远处小鱼；随同一次起身平稳升高少许后收停，不拉远、不绕到正脸，王座在机后画外。承双手轻搓后的停顿，镜内0–2秒GPT分开双手、左掌撑垫抬起上身，近景只见左边缘半个后脑与肩膀轻轻抬起；2–4秒接同一次起身，摄影机随头肩平稳升高少许并收停，收腿落脚、收翼和尾巴避开椅框在画外连续完成；4–6秒头肩站定，只留呼吸与少量发丝微动，目送远处小鱼背对镜头走向并越过宫门。全程不拉远露全身，不换到脸部，不重复起身。 只见沿长廊两侧的十二面体柔光灯与远处高悬椭圆环灯；王座和手稿小几在机后画外，不搬到远门口。 注意:当前图为紧过肩目送终态；只露半个后脑与一个肩膀，远处小鱼背影清晰。镜内0–4秒随同一次起身轻升并收停，4–6秒目送；腿、尾巴与王座均在画外。 当前背景采用数学宫殿灯具；按本镜实际视野显示，不挪摆件、不新增人物。 人物:紧过肩仅露半个后脑和一侧肩膀，远处小鱼背对镜头离去；王座、腿和尾巴在画外。图为站立目送终态，不是首帧；随同一次起身轻升收停。 声音:远去脚步、钟声尾音，末尾接教堂夜风。\n0–1.7s DeepSeek 仅起声在画外打断，立即切回小鱼后由她本人对嘴说完；其他角色不代说:<d>[Japanese] じゃあ、自分で行く。</d>；仅一次。\n\noverall_soundscape:\n仅上列原文日语在窗口内说出；窗口含原声尾白，自然念完即闭口，不拖音填满。画外对白跨切不断；环境拟音连续。\nnon_diegetic_music:\nN/A",
+          "model": "MiniMax-Hailuo-H3",
+          "modeType": "mixed2video",
+          "count": 1,
+          "imageList": [
+            {
+              "nodeId": "i-JAT4Pva730",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5f143f5f31f6ec50bf9e7aea296d7c229bc7c0ec.png"
+            },
+            {
+              "nodeId": "i-07HfqKjhJ7",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d74110bde0f98a0b44ed3c518d48eaea282c1a87.png"
+            },
+            {
+              "nodeId": "i-wc7y6H6Np8",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/9093c9c9dcf9abb2de3a477ed32c8d862563916f.png"
+            },
+            {
+              "nodeId": "i-Boc0LwGVcs",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/bbdb4162bc0e3ec0274bea513d1ed834a2a70c5c.png"
+            },
+            {
+              "nodeId": "i-xuhTrJpOqz",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/5767573f290e1de40b9763583bed5055ce30e0fc.png"
+            }
+          ],
+          "videoList": [],
+          "audioList": [],
+          "settings": {
+            "ratio": "16:9",
+            "resolution": "768P",
+            "duration": 14
+          },
+          "advancedSettings": {},
+          "textList": [],
+          "mixedList": [
+            {
+              "nodeId": "i-Zn7uPas6hO",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/9ab76f0bff4a4d117fcba4f2661a76eeb3ca0d2e.png",
+              "label": "CY007",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-f0XG6cTySz",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/e64183bba6fc2d0bd6928904b59ce80d2b91cf36.png",
+              "label": "CHAR-GPT-DEVIL-TURN-v003-h3-pad",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-j1E9KFOPqH",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/57f9f2b47118e46a46136cb66a7ecef619b0b47d.png",
+              "label": "CHAR-GPT-ANGEL-TURN-v003-h3-pad",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-urFJ9nYSy2",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/d7b84126844f56625902ed2ccbc81137c9b57c8d.png",
+              "label": "CY008M-S01-恶魔提醒",
+              "mediaType": "image"
+            },
+            {
+              "nodeId": "i-5fZ6xiCeX2",
+              "url": "https://libtv-res.liblib.art/upload-images/4a687bfc3acc4951adf244cb28598805/ae9f373520ff87459d34df8ad9a4645a0920686c.png",
+              "label": "CY008M-S03-等待回答",
+              "mediaType": "image"
+            }
+          ],
+          "ratio": "16:9",
+          "resolution": "2K",
+          "duration": 5,
+          "imageListOrder": [
+            "i-JAT4Pva730",
+            "i-07HfqKjhJ7",
+            "i-wc7y6H6Np8",
+            "i-Boc0LwGVcs",
+            "i-xuhTrJpOqz"
+          ],
+          "mixedListOrder": [
+            "i-JAT4Pva730",
+            "i-07HfqKjhJ7",
+            "i-wc7y6H6Np8",
+            "i-Boc0LwGVcs",
+            "i-xuhTrJpOqz"
+          ]
+        },
+        "_updatedAtMs": 1793117977000,
+        "_lastAppliedFullyAtMs": 1793117977000,
+        "isStale": false,
+        "prevTaskInfo": {
+          "taskId": "20261027232703298009236",
+          "loading": false,
+          "status": 3,
+          "progressPercent": 100,
+          "failedReason": "图片宽高比需在 0.4～2.5 之间，积分将会在2小时内返还，请裁剪或更换图片后重试",
+          "tracking": {
+            "successEvent": "libtv.canvas.generator.success",
+            "failEvent": "libtv.canvas.generator.fail",
+            "commonParams": {
+              "billing_mode": "credits",
+              "queue_type": "normal",
+              "throttle_state": "none",
+              "generator_type": "视频生成器",
+              "function_name": "全能参考",
+              "model_name": "Minimax H3",
+              "model_version_id": "MiniMax-Hailuo-H3",
+              "node_uuid": "v-6NT74v07yC",
+              "entry_source": "canvas",
+              "project_uuid": "9714ed699fcf4599a57dfe75f38b9c22",
+              "canvas_uuid": "9714ed699fcf4599a57dfe75f38b9c22"
+            },
+            "submittedAtMs": 1793114866166
+          },
+          "ownerUserId": "4a687bfc3acc4951adf244cb28598805",
+          "recognizeAssetsOnly": false
+        }
+      },
+      "position": {
+        "x": 1080,
+        "y": 1086
+      },
+      "measured": {
+        "width": 622,
+        "height": 350
+      },
+      "sourcePosition": "right",
+      "targetPosition": "left"
+    },
+    "canvasDataSource": "api",
+    "mediaPersistence": {
+      "source": "canvas.nodeList.data",
+      "nodes": [
+        {
+          "nodeId": "v-23N7n7xp2h",
+          "bindingStatus": "missing",
+          "persistedUrlCount": 0,
+          "persistedResourceIdCount": 0,
+          "readUrlCount": 0,
+          "urlsMaterializedForRead": false
+        }
+      ],
+      "note": "Read projection does not persist missing bindings. Presence of a binding does not verify media availability or browser playback."
+    }
+  }
+}

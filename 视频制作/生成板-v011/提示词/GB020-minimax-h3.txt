@@ -1,0 +1,26 @@
+subject_definitions:
+<Picture 1>: [Shot 1] composition and state reference; not its first frame.
+<Picture 2>: [Shot 2] composition and state reference; not its first frame.
+<Picture 3>: [Shot 3] composition and state reference; not its first frame.
+
+summary:
+[reference generation] A 15-second sequence. Rising droplets scale into a suspended sea, then a single dragon dives to one roof impact.
+
+retention_analysis:
+<Picture 1>: weak_reference - shot layout; animate the specified action.
+<Picture 2>: weak_reference - shot layout; animate the specified action.
+<Picture 3>: weak_reference - shot layout; animate the specified action.
+
+detailed_description:
+Gothic fantasy animation, 16:9. Preserve reference colors. Each four-view sheet depicts one character. No captions or sheet layout. Only the indicated speaker vocalizes; visible non-speakers never mouth offscreen lines.
+[Shot 1] Cut from the cool shield interior to moonlight on the liquid; its upward movement leads into the suspended sky-sea, without implying that the shield is the water source. Use <Picture 1> for composition. With the protective shield already established, exterior mist condenses into droplets. The large drop quivers, elongates and springs back as smaller drops rise and merge into it. Clouds increasingly obscure the moon. End with the merged drop still ascending toward the gathering cloud mass. Track upward slowly with the large droplet, briefly focusing on smaller approaching drops and returning to its outline after they merge; never turn the motion into falling rain. Soft liquid-bridge merging sounds and high wind; no rainfall, electricity or thunder. From 0 to 5.4 seconds, ChatGPT (S1) speaks outside the frame: <d>[Japanese] 星々の下に浮かぶ、果てなき海へと集めよ。</d>.
+[Shot 2] At 00:05.500, Continue the droplet ascent into converging clouds, cutting high overhead as the water gathers centrally; carry the wind across the cut. Use <Picture 2> for composition. From outside at ground level, keep the intact towers and nave roof along the lower edge. Layered deep-blue cloud walls curl inward above the central nave; rising droplets merge into a continuous dark-blue water surface suspended among the folds, with silver moonlight moving across ripples. Water gathers only high above, with no lightning or luminous magic circle. The apse remains outside the damage zone. End with the surface drawing inward to launch the descending water dragon. Start low with the intact cathedral silhouette, then tilt slowly upward as the suspended sea fills the upper frame; keep the camera on the ground. High wind and deep tidal resonance sit below the incantation. No lightning or thunder. From 5.5 to 8.1 seconds, ChatGPT (S1) speaks outside the frame: <d>[Japanese] 厚き雲を岸に、風を導きに、</d>. From 8.1 to 11.4 seconds, ChatGPT (S1) speaks outside the frame: <d>[Japanese] 眠れる潮よ、うねり、押し寄せよ。</d>.
+[Shot 3] At 00:11.500, Cut from the converging cloud center to the back of the diving head. Break the roof at one site only and bridge the first crack into the next close shot. Use <Picture 3> for composition. A single deep-blue water dragon descends from the cloud sea toward the still-intact central nave. Its massive curved neck and rear head are close to the camera, while towers, long roof ridge and apse establish the height below. The head reaches the designated roof point first and the long foreshortened body follows. At the end, the muzzle strikes and stone tiles open the first breach. The apse roof and side windows remain intact; the dragon does not originate from a hand or the ground. From a steep high angle, descend beside the water dragon's axis as the head falls, retaining the distant cathedral as a scale reference; stop following at roof contact for the cut. Wind tightens into a falling-water roar; the first stone-and-tile crack arrives at the end. No thunder. From 11.5 to 14.9 seconds, ChatGPT (S1) speaks outside the frame: <d>[Japanese] 今こそ天を開き、大海を翻せ。</d>.
+
+overall_soundscape:
+Action targets: 11.5s: Cut to the water dragon diving.
+Japanese speech only, with lip sync. No audio reference, extra speech or music.
+Keep ambience and ongoing physical sounds continuous across cuts, following the shot-specific cues above. Dialogue appears only in its specified interval; do not add intelligible crowd speech. No generated music.
+
+non_diegetic_music:
+N/A

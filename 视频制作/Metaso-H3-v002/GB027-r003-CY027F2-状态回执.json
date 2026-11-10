@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115150942527479808",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "暗夜递钥",
+    "status": "succeeded",
+    "created_at": 1793126257,
+    "updated_at": 1793126273,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115150942527479808/content?expires=1793731124&signature=a91b80b6b3dc9e71b7fad0dce1fba280a293bf8f3857f479d5929cc665ad03ff"
+    },
+    "resolution": "768P",
+    "duration": 4,
+    "usage": {
+      "total_seconds": 4,
+      "input_seconds": 0,
+      "output_seconds": 4,
+      "input_image_count": 1
+    },
+    "ratio": "adaptive",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

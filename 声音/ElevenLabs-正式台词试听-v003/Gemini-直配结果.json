@@ -1,0 +1,118 @@
+{
+  "role": "Gemini",
+  "status": "web_direct_tts_saved_pending_review",
+  "lines": [
+    {
+      "id": "VO-CY026B-02",
+      "role": "Gemini",
+      "previous_batch": 22,
+      "previous_record_frame": 5875,
+      "previous_ja": "私も行く。",
+      "previous_zh": "我去。",
+      "previous_audio_duration_seconds": 1.2300000000000182,
+      "status": "retained_in_draft",
+      "ja": "私も行く。",
+      "zh_back_translation": "我也去。",
+      "direction": "沿场景意图表演；停顿以新试听为准，不沿用旧录音速度或硬套原剪点。",
+      "reading_hints": {}
+    }
+  ],
+  "previews": [
+    {
+      "file": "Gemini-直配-oGnIkLaScZshfvIW8YvI.mp3",
+      "candidate": 1,
+      "history": {
+        "alignments": null,
+        "avatar_context": null,
+        "character_count_change_from": 723,
+        "character_count_change_to": 728,
+        "content_type": "audio/mpeg",
+        "date_unix": 1793257630,
+        "dialogue": [
+          {
+            "text": "私も行く。",
+            "voice_id": "fUjY9K2nAIwlALOwSiwc",
+            "voice_name": "Yui - Warm, Clear and Natural"
+          }
+        ],
+        "feedback": null,
+        "history_item_id": "oGnIkLaScZshfvIW8YvI",
+        "model_id": "eleven_v4",
+        "output_format": "mp3_44100_128",
+        "request_id": "mmVKXw6lMMheF5WHKkCg",
+        "settings": {
+          "focus": null,
+          "internal_sampling_config": null,
+          "similarity": 0.75,
+          "stability": 0.5,
+          "text_boost": false
+        },
+        "share_link_id": null,
+        "source": "TTS",
+        "state": "created",
+        "text": null,
+        "voice_category": null,
+        "voice_id": null,
+        "voice_name": null
+      },
+      "sha256": "20ca5de3595f31fddc6082adf97941ee4e35f5efbaa0546737d70a6b192ae343",
+      "bytes": 36581,
+      "media": {
+        "format": {
+          "duration": "1.227750"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    },
+    {
+      "file": "Gemini-直配-usZrdsdFiGhzVCmuTe0J.mp3",
+      "candidate": 2,
+      "history": {
+        "alignments": null,
+        "avatar_context": null,
+        "character_count_change_from": 723,
+        "character_count_change_to": 723,
+        "content_type": "audio/mpeg",
+        "date_unix": 1793257631,
+        "dialogue": [
+          {
+            "text": "私も行く。",
+            "voice_id": "fUjY9K2nAIwlALOwSiwc",
+            "voice_name": "Yui - Warm, Clear and Natural"
+          }
+        ],
+        "feedback": null,
+        "history_item_id": "usZrdsdFiGhzVCmuTe0J",
+        "model_id": "eleven_v4_exp",
+        "output_format": "mp3_44100_128",
+        "request_id": "nea7Ym57Dwq9fs4nZOpn",
+        "settings": {
+          "focus": null,
+          "internal_sampling_config": null,
+          "similarity": 0.75,
+          "stability": 0.5,
+          "text_boost": false
+        },
+        "share_link_id": null,
+        "source": "TTS",
+        "state": "created",
+        "text": null,
+        "voice_category": null,
+        "voice_id": null,
+        "voice_name": null
+      },
+      "sha256": "ab1ece256def4a9a1ac69c1bcf10028bb9478f9731fb646ed6902b6ef99c2b94",
+      "bytes": 35327,
+      "media": {
+        "format": {
+          "duration": "1.149375"
+        }
+      },
+      "decode_ok": true,
+      "adopted": false
+    }
+  ],
+  "generation_count": 1,
+  "note": "One web submission can produce main and experimental variants; history records actual charge."
+}

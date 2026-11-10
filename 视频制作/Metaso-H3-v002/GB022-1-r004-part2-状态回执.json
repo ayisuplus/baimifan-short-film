@@ -1,0 +1,26 @@
+{
+  "task": {
+    "id": "2115150922392203264",
+    "lecture_video": false,
+    "model": "MiniMax-H3",
+    "title": "白衣女子指向前方水流涌动",
+    "status": "succeeded",
+    "created_at": 1793126252,
+    "updated_at": 1793126267,
+    "content": {
+      "url": "https://files.metaso.cn/api/minimax/v2/video_generation/2115150922392203264/content?expires=1793731123&signature=700eeb6d91b53b1345fb21048750ab764a37061094a0cb5c0b851c9cfeec05c4"
+    },
+    "resolution": "768P",
+    "duration": 4,
+    "usage": {
+      "total_seconds": 4,
+      "input_seconds": 0,
+      "output_seconds": 4,
+      "input_image_count": 1
+    },
+    "ratio": "adaptive",
+    "task_type": "generation",
+    "modality": "video",
+    "estimated_remaining_seconds": 0
+  }
+}

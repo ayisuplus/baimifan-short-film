@@ -1,0 +1,94 @@
+{
+  "batch": {
+    "batch_number": 36,
+    "batch_id": "GB026",
+    "attempt_id": "GB026-r003-part1",
+    "repair_source_attempt": "GB026-r001",
+    "film_start": 386.842729,
+    "part_offset": 0,
+    "used_seconds": 3,
+    "duration": 4,
+    "shot_ids": [
+      "CY027D"
+    ],
+    "prompt": "从给定第一帧原样开始，只让已有画面动起来，不重新设计角色或背景。单一连续镜头，无切镜，无字幕水印、无音乐、无新增人物。4秒。严格固定首帧每人的位置、人数与抱持关系。只让前排人物微抬眼，衣发轻摆，摄影机轻推近，不走步不变队形。唯一戴鲸帽孩子只在画面左后方千问怀里，前排紫发猫耳女子的两手保持首帧姿势，没有孩子、娃娃、人物或新增物件。两翼银白骑士原地守卫。最高祭坛暗紫罩保持完全不透明，罩内没有任何可见人物或木架。不新增第二个孩子、不新增白发龙角GPT、不展示武器攻击。所有人面向镜头所在正门来敌，保持冷月夜景，前3秒用于剪辑。无对白。",
+    "references": [
+      {
+        "slot": 1,
+        "path": "镜头设计/图像/目光与入场-v048/CY027D-v048-r1.png",
+        "sha256": "f97aef426d66c147f3161da161241371c7c2b91f82966231306c4793e9ccb527",
+        "kind": "first_frame",
+        "role": "first_frame"
+      }
+    ],
+    "estimated_credits": 40.8,
+    "status": "prepared",
+    "accepted": false,
+    "repair_of": {
+      "attempt_id": "GB026-r002-part1",
+      "task_id": "2115149199603720192",
+      "local_path": "视频制作/Metaso-H3-v002/产物/GB026-r002-part1.mp4"
+    },
+    "source_reuse": [
+      {
+        "in_out": [
+          3.625,
+          6.625
+        ],
+        "target": [
+          3,
+          6
+        ],
+        "source": "GB026-r001.mp4"
+      },
+      {
+        "in_out": [
+          7.25,
+          10.625
+        ],
+        "target": [
+          6,
+          10
+        ],
+        "source": "GB026-r001.mp4"
+      },
+      {
+        "in_out": [
+          10.625,
+          12.25
+        ],
+        "target": [
+          10,
+          12
+        ],
+        "source": "GB026-r001.mp4"
+      }
+    ],
+    "additional_use": null,
+    "audio_policy": "仅替换画面；最终干声与BGM沿用冻结绝对时窗，不采用变速原生人声",
+    "title": "守门、胜负与取钥匙",
+    "change_reason": "参考模式重复重构出错误元素；改用官方固定首帧模式，锁住已修正的画面元素。",
+    "mode": "first_frame"
+  },
+  "payload": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "从给定第一帧原样开始，只让已有画面动起来，不重新设计角色或背景。单一连续镜头，无切镜，无字幕水印、无音乐、无新增人物。4秒。严格固定首帧每人的位置、人数与抱持关系。只让前排人物微抬眼，衣发轻摆，摄影机轻推近，不走步不变队形。唯一戴鲸帽孩子只在画面左后方千问怀里，前排紫发猫耳女子的两手保持首帧姿势，没有孩子、娃娃、人物或新增物件。两翼银白骑士原地守卫。最高祭坛暗紫罩保持完全不透明，罩内没有任何可见人物或木架。不新增第二个孩子、不新增白发龙角GPT、不展示武器攻击。所有人面向镜头所在正门来敌，保持冷月夜景，前3秒用于剪辑。无对白。"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "mm_file://2115145679890341888"
+        },
+        "role": "first_frame"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 4,
+    "fast_mode": false,
+    "context_ir_enabled": false
+  },
+  "authorization": "2026-10-28作者授权：参考图超限想办法砍不重要参考，该返修的都返修；沿用Metaso H3"
+}

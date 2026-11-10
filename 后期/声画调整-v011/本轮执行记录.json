@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-29",
+  "task_id": "2115678948273647616",
+  "requested_seconds": 5,
+  "returned_container_seconds": 5.175,
+  "resolution": [
+    1344,
+    768
+  ],
+  "fps": 24,
+  "estimated_credits": 51,
+  "actual_credits": null,
+  "balance_before_observed": 1022.3,
+  "balance_after_estimated": 971.3,
+  "local_video": "视频制作/Metaso-H3-v013/产物/CY022-v013-charge-release-r1.mp4",
+  "sha256": "4d55606669739a54a81e3e653899ce11743dbb920f8349ea599235a5db895fb6",
+  "review": {
+    "method": "20 sampled frames at 0.25-second spacing; not continuous listening acceptance",
+    "candidate_window_seconds": [
+      0,
+      3.25
+    ],
+    "candidate_window_status": "charge-only candidate; not adopted; needs motion and cut verification",
+    "rejected_window_seconds": [
+      3.25,
+      5.0
+    ],
+    "reason": "约3.5秒术光从原施法手转到另一只手；末段缓慢漂浮下落，未形成要求的定向离掌。不得整条采用，不把回片作下一轮参考。",
+    "next_change": "如现有蓄力段可用，剪在发射前，与破门/截击镜重组；若必须正面展示离掌，只补原参考中同一手的推出与离掌，不再包含换手/长时间聚光。",
+    "author_final": false
+  },
+  "comfy": {
+    "server": "http://127.0.0.1:8188",
+    "running": true,
+    "template_discovered": "video_minimax_h3_i2v (catalog api=false)",
+    "node_query": "error",
+    "fetch_template_check_local": "error",
+    "runtime_generation_validated": false,
+    "local_generation_started": false
+  },
+  "timeline_modified": false,
+  "audio_generated": false,
+  "final_exported": false
+}

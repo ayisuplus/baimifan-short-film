@@ -1,0 +1,15 @@
+{
+  "shots": 115,
+  "seconds": 381,
+  "new_shot": "CY024A0",
+  "new_shot_seconds": 2,
+  "qwen_subtitle_single_and_on_correct_shot": true,
+  "existing_114_images_durations_audio_unchanged": true,
+  "gpt_first_line_offset": 4.2,
+  "star_incantation_unchanged": true,
+  "local_links_verified": 326,
+  "image_outputs": 1,
+  "rejected_requests": 1,
+  "new_audio": false,
+  "new_video": false
+}

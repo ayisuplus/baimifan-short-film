@@ -1,0 +1,52 @@
+[
+  {
+    "id": "CY024A1",
+    "rev": 2,
+    "refs": [
+      "镜头设计/图像/月刃救援-v041/CY024A1-v041-r1.png"
+    ],
+    "prompt": "Minimal edit ONLY add black iron ankle cuffs on BOTH Claude ankles, short chains to vertical cross post. Orange-haired woman remains UPRIGHT standing straight with feet on narrow footrest, do not change pose or dress. Keep all other content identical."
+  },
+  {
+    "id": "CY024B",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/蓄力与水雷-v038/CY024B-v038-r1.png",
+      "镜头设计/图像/月刃救援-v041/KIMI双刃-v041-r3.png"
+    ],
+    "prompt": "Minimal continuity edit to first image. Preserve enormous single central water lightning column, foreground flying dragon heroine, gold priest shield, right pillar mother and child, exact scale, view and all lighting. On DISTANT TOP ALTAR near upper-right corner, Claude remains orange-haired bound STANDING on cross. ADD a tiny silver-haired Kimi in navy cape at Claude's screen-left, both covered by one small clear SILVER protective dome. Kimi tiny round dark/bright blades held crossed, detail subtle due distance. Do not enlarge altar or people; water remains dominant. All fire extinguished. Add small jagged hole in high upper-left portion of rear altar window only if within visible frame, other windows unchanged. No extra characters anywhere, no new water jets, no text."
+  },
+  {
+    "id": "CY027D",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/月光救赎-v032/CY027D-v032-r1.png"
+    ],
+    "prompt": "Minimal edit to this ensemble. REMOVE Kimi from midground right: silver-haired woman with navy star-moon cloak raising a glowing crescent, standing on steps behind teal staff woman. Fill vacated space with existing steps and architecture, keep EVERY other person unchanged. Add a TINY navy-and-silver Kimi standing to left of orange Claude on the very distant highest altar, maintaining one faint silver ward around both, visually subtle. Keep foreground allies, knights, wet floor, extinguished lights and roof damage unchanged. The rear BLUE stained window has a small jagged human-size missing pane in its upper-left section, top altar only, keep ribs. No text."
+  },
+  {
+    "id": "CY027F0",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/月刃救援-v041/CY027F-v041-r1.png"
+    ],
+    "prompt": "Create cinematic anime CLOSE INSERT based on reference, after battle. Show only defeated priest's black-and-gold belt and robe at lower left on wet stone, plus white/silver ornate lace sleeve and one hand of ChatGPT reaching from right. Her hand lifts a SMALL dark iron KEY with a distinct three-prong ward off the priest's belt hook, ring unhooking clearly. Same wet moonlit floor and cold lighting, priest still on ground. No faces needed, no blood, no combat, no new people, no fire or active lightning. The iron key is the unmistakable focal point. Widescreen no text."
+  },
+  {
+    "id": "CY027F2",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/月刃救援-v041/KIMI双刃-v041-r3.png",
+      "镜头设计/图像/火焰伤后与星火-v036/CY027G-v036-r1.png"
+    ],
+    "prompt": "Cinematic anime medium shot on highest altar AFTER battle BEFORE unlocking. Orange-haired Claude in singed white gown STANDS straight on narrow footrest at screen right, wrists and ankles still chained, upper crossbeam. Kimi screen left same identity navy cloak, now BOTH small round crescent blades STOWED in leather retention loops at back of waist, dark and silver rims partly visible, no blade in hands. GPT at screen right/foreground edge extends a small black iron three-prong KEY toward Kimi's OPEN palm; actual key handoff clearly in focus, no fingers merged. Kimi takes it while looking at cuff. Faint silver shield dissolving into few sparks, all log fires and candles extinguished, wet floor cold moonlight. Crop upper window tops outside shot (no need show broken pane). GPT white horns long silver hair white dress and folded membrane wings preserved. No text."
+  },
+  {
+    "id": "CY024A4",
+    "rev": 1,
+    "refs": [
+      "镜头设计/图像/火焰伤后与星火-v036/CY024A4-v036-r2.png"
+    ],
+    "prompt": "Edit this exact ankle/footrest insert to show wood already removed by Kimi. Keep BOTH bare feet, black ankle cuffs, short chains, standing straight legs, charred modest white dress and small fixed footrest. Clear the dense foreground flames from CENTER, exposing full narrow footrest and floor beneath. Put chopped black logs with black-core DARK VIOLET flame only at lower left and lower right OUTSIDE a thin transparent SILVER ward boundary that curves in front of feet and footrest. No logs or fire inside ward. Warm background candles remain, no water yet. Feet not hovering, no seat, no additional person, no text."
+  }
+]

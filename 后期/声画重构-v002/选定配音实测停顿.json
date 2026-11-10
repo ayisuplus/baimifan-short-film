@@ -1,0 +1,1993 @@
+[
+  {
+    "id": "VO-CY003-01",
+    "batch": 1,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\试音候选-v001\\VO-CY003-01__Xiaoyu__ja__v001-trialA.wav",
+    "file_duration": 3.08,
+    "silences": [
+      [
+        0.0,
+        0.76915
+      ],
+      [
+        1.5024,
+        3.08
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.76915,
+        1.5024
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY003B-01",
+    "batch": 2,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY003B-01__Claude__ja__v005.wav",
+    "file_duration": 3.152729000000001,
+    "silences": [
+      [
+        0.768725,
+        1.73415
+      ],
+      [
+        2.0616,
+        2.54115
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0,
+        0.768725
+      ],
+      [
+        1.73415,
+        2.0616
+      ],
+      [
+        2.54115,
+        3.152729000000001
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY004-01",
+    "batch": 2,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\试音候选-v001\\VO-CY004-01__Cultist__ja__v001-trial.wav",
+    "file_duration": 5.0,
+    "silences": [
+      [
+        0.0,
+        1.28805
+      ],
+      [
+        1.8948,
+        2.69525
+      ],
+      [
+        4.233025,
+        5.0
+      ]
+    ],
+    "signal_intervals": [
+      [
+        1.28805,
+        1.8948
+      ],
+      [
+        2.69525,
+        4.233025
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY004D-01",
+    "batch": 3,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\试音候选-v001\\VO-CY004D-01__GPT__ja__v001-candA.wav",
+    "file_duration": 2.200000000000003,
+    "silences": [
+      [
+        0.0,
+        0.48885
+      ],
+      [
+        1.835125,
+        2.2
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.48885,
+        1.835125
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY006-01",
+    "batch": 4,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\成品-v001\\干声\\VO-CY006-01__Xiaoyu__ja__v001.wav",
+    "file_duration": 4.579999999999998,
+    "silences": [
+      [
+        0.0,
+        0.3837
+      ],
+      [
+        0.92275,
+        1.2836
+      ],
+      [
+        2.80835,
+        3.081525
+      ],
+      [
+        4.11485,
+        4.58
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.3837,
+        0.92275
+      ],
+      [
+        1.2836,
+        2.80835
+      ],
+      [
+        3.081525,
+        4.11485
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY007-01",
+    "batch": 4,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY007-01__GPT__ja__v004.wav",
+    "file_duration": 3.4299999999999997,
+    "silences": [
+      [
+        0.0,
+        0.2188
+      ],
+      [
+        1.31275,
+        2.06765
+      ],
+      [
+        3.1278,
+        3.43
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.2188,
+        1.31275
+      ],
+      [
+        2.06765,
+        3.1278
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY008-01",
+    "batch": 4,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY008-01__Xiaoyu__ja__v004.wav",
+    "file_duration": 2.719979000000002,
+    "silences": [
+      [
+        0.0,
+        0.21265
+      ],
+      [
+        0.7018,
+        1.5555
+      ],
+      [
+        2.419725,
+        2.719975
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.21265,
+        0.7018
+      ],
+      [
+        1.5555,
+        2.419725
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY008M-01",
+    "batch": 5,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\资产\\声音\\王宫内心戏-v001\\VO-CY008M-01__恶魔GPT__ja__v001.wav",
+    "file_duration": 3.5800000000000054,
+    "silences": [
+      [
+        1.396225,
+        1.78705
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0,
+        1.396225
+      ],
+      [
+        1.78705,
+        3.5800000000000054
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY008M-02",
+    "batch": 5,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY008M-02__AngelGPT__ja__v004.wav",
+    "file_duration": 10.009979000000008,
+    "silences": [
+      [
+        0.0,
+        0.213025
+      ],
+      [
+        0.7089,
+        1.124575
+      ],
+      [
+        2.207575,
+        3.661575
+      ],
+      [
+        4.406175,
+        4.528175
+      ],
+      [
+        4.530425,
+        5.06505
+      ],
+      [
+        5.859925,
+        7.0249
+      ],
+      [
+        9.709975,
+        10.009975
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.213025,
+        0.7089
+      ],
+      [
+        1.124575,
+        2.207575
+      ],
+      [
+        3.661575,
+        4.406175
+      ],
+      [
+        4.528175,
+        4.530425
+      ],
+      [
+        5.06505,
+        5.859925
+      ],
+      [
+        7.0249,
+        9.709975
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY009-01",
+    "batch": 6,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\成品-v001\\干声\\VO-CY009-01__Xiaoyu__ja__v001.wav",
+    "file_duration": 1.6999999999999886,
+    "silences": [
+      [
+        0.3057,
+        0.99275
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0,
+        0.3057
+      ],
+      [
+        0.99275,
+        1.6999999999999886
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY010A-01",
+    "batch": 7,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY010A-01__Cultist__ja__v004.wav",
+    "file_duration": 2.8699999999999903,
+    "silences": [
+      [
+        0.0,
+        0.219575
+      ],
+      [
+        1.069125,
+        1.586975
+      ],
+      [
+        1.878525,
+        2.012375
+      ],
+      [
+        2.567375,
+        2.87
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.219575,
+        1.069125
+      ],
+      [
+        1.586975,
+        1.878525
+      ],
+      [
+        2.012375,
+        2.567375
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY015-01",
+    "batch": 8,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY015-01__Claude__ja__v004.wav",
+    "file_duration": 1.6200000000000045,
+    "silences": [
+      [
+        0.0,
+        0.218025
+      ],
+      [
+        0.7201,
+        0.843
+      ],
+      [
+        1.3692,
+        1.62
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.218025,
+        0.7201
+      ],
+      [
+        0.843,
+        1.3692
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY015-02",
+    "batch": 8,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\成品-v001\\干声\\VO-CY015-02__Xiaoyu__ja__v001.wav",
+    "file_duration": 1.5,
+    "silences": [
+      [
+        0.0,
+        0.3536
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.3536,
+        1.5
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY016A-01",
+    "batch": 9,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY016A-01__Claude__ja__v004.wav",
+    "file_duration": 4.219999999999999,
+    "silences": [
+      [
+        0.0,
+        0.29515
+      ],
+      [
+        1.31305,
+        3.01245
+      ],
+      [
+        3.968575,
+        4.22
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.29515,
+        1.31305
+      ],
+      [
+        3.01245,
+        3.968575
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY016A-02",
+    "batch": 9,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY016A-02__Xiaoyu__ja__v004.wav",
+    "file_duration": 3.359957999999992,
+    "silences": [
+      [
+        0.0,
+        0.218475
+      ],
+      [
+        0.741325,
+        1.06445
+      ],
+      [
+        1.270025,
+        1.4161
+      ],
+      [
+        1.4901,
+        2.08145
+      ],
+      [
+        2.39465,
+        2.524925
+      ],
+      [
+        2.98195,
+        3.35995
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.218475,
+        0.741325
+      ],
+      [
+        1.06445,
+        1.270025
+      ],
+      [
+        1.4161,
+        1.4901
+      ],
+      [
+        2.08145,
+        2.39465
+      ],
+      [
+        2.524925,
+        2.98195
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY016B1-01",
+    "batch": 9,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\成品-v001\\干声\\VO-CY016B1-01__Claude__ja__v001.wav",
+    "file_duration": 1.3799999999999955,
+    "silences": [
+      [
+        0.0,
+        0.514225
+      ],
+      [
+        1.2035,
+        1.38
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.514225,
+        1.2035
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY021A-01",
+    "batch": 12,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\试音候选-v001\\VO-CY021A-01__CultLeader__ja__v001-trial.wav",
+    "file_duration": 6.299999999999983,
+    "silences": [
+      [
+        0.0,
+        0.45055
+      ],
+      [
+        1.904275,
+        2.83685
+      ],
+      [
+        4.4361,
+        6.3
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.45055,
+        1.904275
+      ],
+      [
+        2.83685,
+        4.4361
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY019-01",
+    "batch": 12,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\成品-v001\\干声\\VO-CY019-01__CultLeader__ja__v001.wav",
+    "file_duration": 0.8000000000000114,
+    "silences": [
+      [
+        0.57575,
+        0.8
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0,
+        0.57575
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY020-01",
+    "batch": 13,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY020-01__Claude__ja__v004.wav",
+    "file_duration": 2.639979000000011,
+    "silences": [
+      [
+        0.0,
+        0.2331
+      ],
+      [
+        0.55655,
+        0.962825
+      ],
+      [
+        2.338725,
+        2.639975
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.2331,
+        0.55655
+      ],
+      [
+        0.962825,
+        2.338725
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY021-01",
+    "batch": 14,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY021-01__Claude__ja__v004.wav",
+    "file_duration": 4.130000000000024,
+    "silences": [
+      [
+        0.0,
+        0.23235
+      ],
+      [
+        0.889375,
+        2.746275
+      ],
+      [
+        3.82975,
+        4.13
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.23235,
+        0.889375
+      ],
+      [
+        2.746275,
+        3.82975
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY024-01",
+    "batch": 17,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY024-01__GPT__ja__v004.wav",
+    "file_duration": 1.4099999999999966,
+    "silences": [
+      [
+        0.0,
+        0.227725
+      ],
+      [
+        0.958475,
+        1.102825
+      ],
+      [
+        1.16,
+        1.41
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.227725,
+        0.958475
+      ],
+      [
+        1.102825,
+        1.16
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY024R-01",
+    "batch": 17,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY024R-01__Kimi__ja__v004.wav",
+    "file_duration": 2.200000000000017,
+    "silences": [
+      [
+        0.0,
+        0.216725
+      ],
+      [
+        1.995525,
+        2.2
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.216725,
+        1.995525
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY024K0-01",
+    "batch": 18,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY024K0-01__Kimi__ja__v004.wav",
+    "file_duration": 3.6999999999999886,
+    "silences": [
+      [
+        0.0,
+        0.47335
+      ],
+      [
+        0.474,
+        0.6216
+      ],
+      [
+        0.652175,
+        0.774975
+      ],
+      [
+        1.76065,
+        2.025925
+      ],
+      [
+        3.49995,
+        3.7
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.47335,
+        0.474
+      ],
+      [
+        0.6216,
+        0.652175
+      ],
+      [
+        0.774975,
+        1.76065
+      ],
+      [
+        2.025925,
+        3.49995
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY024K0-02",
+    "batch": 18,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY024K0-02__Kimi__ja__v004.wav",
+    "file_duration": 3.980042000000026,
+    "silences": [
+      [
+        0.0,
+        0.213575
+      ],
+      [
+        2.15905,
+        2.53065
+      ],
+      [
+        2.68705,
+        2.816125
+      ],
+      [
+        3.779875,
+        3.980025
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.213575,
+        2.15905
+      ],
+      [
+        2.53065,
+        2.68705
+      ],
+      [
+        2.816125,
+        3.779875
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY024K1A-01",
+    "batch": 19,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v002\\干声\\VO-CY024K1A-01__Kimi__ja__v002-0.9s.wav",
+    "file_duration": 0.8799999999999955,
+    "silences": [
+      [
+        0.0,
+        0.17795
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.17795,
+        0.8799999999999955
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY026A-01",
+    "batch": 21,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY026A-01__GPT__ja__v003.wav",
+    "file_duration": 1.8199999999999932,
+    "silences": [
+      [
+        0.0,
+        0.209825
+      ],
+      [
+        1.376325,
+        1.5046
+      ],
+      [
+        1.567775,
+        1.82
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.209825,
+        1.376325
+      ],
+      [
+        1.5046,
+        1.567775
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY026A1-01",
+    "batch": 21,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v004\\干声\\VO-CY026A1-01__Qwen__ja__v004.wav",
+    "file_duration": 1.150041999999985,
+    "silences": [
+      [
+        0.0,
+        0.266375
+      ],
+      [
+        0.899825,
+        1.150025
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.266375,
+        0.899825
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY026B-01",
+    "batch": 22,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY026B-01__GPT__ja__v003.wav",
+    "file_duration": 0.9800000000000182,
+    "silences": [
+      [
+        0.0,
+        0.26165
+      ],
+      [
+        0.70275,
+        0.98
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.26165,
+        0.70275
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY026B-02",
+    "batch": 22,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY026B-02__Gemini__ja__v003.wav",
+    "file_duration": 1.2299999999999898,
+    "silences": [
+      [
+        0.0,
+        0.26025
+      ],
+      [
+        0.978975,
+        1.23
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.26025,
+        0.978975
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY026C-01",
+    "batch": 23,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY026C-01__GPT__ja__v003.wav",
+    "file_duration": 1.039999999999992,
+    "silences": [
+      [
+        0.0,
+        0.25385
+      ],
+      [
+        0.513375,
+        0.67105
+      ],
+      [
+        0.77675,
+        1.04
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.25385,
+        0.513375
+      ],
+      [
+        0.67105,
+        0.77675
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY026C-02",
+    "batch": 23,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY026C-02__Grok__ja__v003.wav",
+    "file_duration": 0.9799999999999898,
+    "silences": [
+      [
+        0.0,
+        0.2568
+      ],
+      [
+        0.729625,
+        0.98
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.2568,
+        0.729625
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY026D1-01",
+    "batch": 23,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY026D1-01__GPT__ja__v005.wav",
+    "file_duration": 2.339936999999992,
+    "silences": [
+      [
+        0.399075,
+        1.42555
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0,
+        0.399075
+      ],
+      [
+        1.42555,
+        2.339936999999992
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY026D-01",
+    "batch": 24,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY026D-01__GPT__ja__v005.wav",
+    "file_duration": 7.160582999999974,
+    "silences": [
+      [
+        1.955325,
+        2.938875
+      ],
+      [
+        5.2137,
+        5.372125
+      ],
+      [
+        5.5364,
+        6.1612
+      ],
+      [
+        6.912175,
+        7.095
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0,
+        1.955325
+      ],
+      [
+        2.938875,
+        5.2137
+      ],
+      [
+        5.372125,
+        5.5364
+      ],
+      [
+        6.1612,
+        6.912175
+      ],
+      [
+        7.095,
+        7.160582999999974
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY026D-02",
+    "batch": 24,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY026D-02__Kimi__ja__v005.wav",
+    "file_duration": 1.3989579999999933,
+    "silences": [],
+    "signal_intervals": [
+      [
+        0,
+        1.3989579999999933
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY026E-01",
+    "batch": 25,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY026E-01__GPT__ja__v003.wav",
+    "file_duration": 3.3799999999999955,
+    "silences": [
+      [
+        0.0,
+        0.266025
+      ],
+      [
+        0.7208,
+        1.06655
+      ],
+      [
+        1.45645,
+        2.638425
+      ],
+      [
+        3.1292,
+        3.38
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.266025,
+        0.7208
+      ],
+      [
+        1.06655,
+        1.45645
+      ],
+      [
+        2.638425,
+        3.1292
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY024A0-01",
+    "batch": 25,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY024A0-01__Qwen__ja__v005.wav",
+    "file_duration": 1.3137499999999704,
+    "silences": [
+      [
+        0.4384,
+        0.588175
+      ],
+      [
+        0.727025,
+        1.190425
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0,
+        0.4384
+      ],
+      [
+        0.588175,
+        0.727025
+      ],
+      [
+        1.190425,
+        1.3137499999999704
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY024A-01",
+    "batch": 25,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A-01__GPT__ja__v003.wav",
+    "file_duration": 3.1200000000000045,
+    "silences": [
+      [
+        0.0,
+        0.31365
+      ],
+      [
+        0.62335,
+        0.74535
+      ],
+      [
+        1.2817,
+        1.4634
+      ],
+      [
+        1.5888,
+        1.740225
+      ],
+      [
+        1.9846,
+        2.149325
+      ],
+      [
+        2.3151,
+        2.61905
+      ],
+      [
+        2.7293,
+        3.12
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.31365,
+        0.62335
+      ],
+      [
+        0.74535,
+        1.2817
+      ],
+      [
+        1.4634,
+        1.5888
+      ],
+      [
+        1.740225,
+        1.9846
+      ],
+      [
+        2.149325,
+        2.3151
+      ],
+      [
+        2.61905,
+        2.7293
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY024A9-01",
+    "batch": 26,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY024A9-01__GPT__ja__v005.wav",
+    "file_duration": 7.395208000000025,
+    "silences": [
+      [
+        2.435525,
+        3.0732
+      ],
+      [
+        5.426975,
+        5.987625
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0,
+        2.435525
+      ],
+      [
+        3.0732,
+        5.426975
+      ],
+      [
+        5.987625,
+        7.395208000000025
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY024A2-01",
+    "batch": 26,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A2-01__GPT__ja__v003.wav",
+    "file_duration": 7.240000000000009,
+    "silences": [
+      [
+        0.0,
+        0.30315
+      ],
+      [
+        2.665875,
+        3.700025
+      ],
+      [
+        4.16355,
+        4.50585
+      ],
+      [
+        6.938625,
+        7.24
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.30315,
+        2.665875
+      ],
+      [
+        3.700025,
+        4.16355
+      ],
+      [
+        4.50585,
+        6.938625
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY024A3-01",
+    "batch": 27,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A3-01__GPT__ja__v003.wav",
+    "file_duration": 6.439999999999998,
+    "silences": [
+      [
+        0.0,
+        0.30975
+      ],
+      [
+        1.918775,
+        2.04895
+      ],
+      [
+        2.354425,
+        3.742675
+      ],
+      [
+        5.1614,
+        5.28375
+      ],
+      [
+        5.62735,
+        5.785975
+      ],
+      [
+        6.084375,
+        6.44
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.30975,
+        1.918775
+      ],
+      [
+        2.04895,
+        2.354425
+      ],
+      [
+        3.742675,
+        5.1614
+      ],
+      [
+        5.28375,
+        5.62735
+      ],
+      [
+        5.785975,
+        6.084375
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY024A6-01",
+    "batch": 28,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A6-01__GPT__ja__v003.wav",
+    "file_duration": 3.9199580000000083,
+    "silences": [
+      [
+        0.0,
+        0.3207
+      ],
+      [
+        0.4193,
+        0.540775
+      ],
+      [
+        1.088925,
+        1.239125
+      ],
+      [
+        1.637575,
+        2.399025
+      ],
+      [
+        3.26765,
+        3.444475
+      ],
+      [
+        3.530375,
+        3.91995
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.3207,
+        0.4193
+      ],
+      [
+        0.540775,
+        1.088925
+      ],
+      [
+        1.239125,
+        1.637575
+      ],
+      [
+        2.399025,
+        3.26765
+      ],
+      [
+        3.444475,
+        3.530375
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY024A6-02",
+    "batch": 28,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY024A6-02__GPT__ja__v005.wav",
+    "file_duration": 5.253582999999992,
+    "silences": [
+      [
+        1.3623,
+        2.500925
+      ],
+      [
+        2.99605,
+        4.306275
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0,
+        1.3623
+      ],
+      [
+        2.500925,
+        2.99605
+      ],
+      [
+        4.306275,
+        5.253582999999992
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY024A7-01",
+    "batch": 29,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A7-01__GPT__ja__v003.wav",
+    "file_duration": 5.349999999999966,
+    "silences": [
+      [
+        0.0,
+        0.3128
+      ],
+      [
+        0.968975,
+        1.461075
+      ],
+      [
+        2.41,
+        3.596675
+      ],
+      [
+        4.38865,
+        4.54755
+      ],
+      [
+        5.04995,
+        5.35
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.3128,
+        0.968975
+      ],
+      [
+        1.461075,
+        2.41
+      ],
+      [
+        3.596675,
+        4.38865
+      ],
+      [
+        4.54755,
+        5.04995
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY024A4-01",
+    "batch": 30,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A4-01__GPT__ja__v003.wav",
+    "file_duration": 4.759978999999987,
+    "silences": [
+      [
+        0.0,
+        0.300825
+      ],
+      [
+        2.2699,
+        3.073725
+      ],
+      [
+        4.4596,
+        4.759975
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.300825,
+        2.2699
+      ],
+      [
+        3.073725,
+        4.4596
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY024A8-01",
+    "batch": 30,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY024A8-01__GPT__ja__v003.wav",
+    "file_duration": 5.180000000000007,
+    "silences": [
+      [
+        0.0,
+        0.3138
+      ],
+      [
+        1.86825,
+        1.99585
+      ],
+      [
+        2.47755,
+        3.431525
+      ],
+      [
+        4.88,
+        5.18
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.3138,
+        1.86825
+      ],
+      [
+        1.99585,
+        2.47755
+      ],
+      [
+        3.431525,
+        4.88
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY024A5-01",
+    "batch": 31,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY024A5-01__GPT__ja__v005.wav",
+    "file_duration": 6.816687000000002,
+    "silences": [
+      [
+        1.8929,
+        3.333275
+      ],
+      [
+        4.87155,
+        6.12095
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0,
+        1.8929
+      ],
+      [
+        3.333275,
+        4.87155
+      ],
+      [
+        6.12095,
+        6.816687000000002
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY024A5-02",
+    "batch": 31,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v005\\干声\\VO-CY024A5-02__GPT__ja__v005.wav",
+    "file_duration": 1.3425619999999867,
+    "silences": [],
+    "signal_intervals": [
+      [
+        0,
+        1.3425619999999867
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY027A-01",
+    "batch": 34,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY027A-01__CultLeader__ja__v003.wav",
+    "file_duration": 2.7899999999999636,
+    "silences": [
+      [
+        0.0,
+        0.25125
+      ],
+      [
+        2.056975,
+        2.251575
+      ],
+      [
+        2.48945,
+        2.79
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.25125,
+        2.056975
+      ],
+      [
+        2.251575,
+        2.48945
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY027B-01",
+    "batch": 34,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY027B-01__GPT__ja__v003.wav",
+    "file_duration": 0.9300000000000068,
+    "silences": [
+      [
+        0.0,
+        0.262
+      ],
+      [
+        0.67705,
+        0.93
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.262,
+        0.67705
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY028A-01",
+    "batch": 37,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY028A-01__GPT__ja__v003.wav",
+    "file_duration": 1.580000000000041,
+    "silences": [
+      [
+        0.0,
+        0.27255
+      ],
+      [
+        0.345225,
+        0.689225
+      ],
+      [
+        0.9518,
+        1.193725
+      ],
+      [
+        1.19375,
+        1.58
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.27255,
+        0.345225
+      ],
+      [
+        0.689225,
+        0.9518
+      ],
+      [
+        1.193725,
+        1.19375
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY028A-02",
+    "batch": 37,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY028A-02__Claude__ja__v003.wav",
+    "file_duration": 1.5100000000000477,
+    "silences": [
+      [
+        0.0,
+        0.263875
+      ],
+      [
+        0.936525,
+        1.51
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.263875,
+        0.936525
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY028A2-01",
+    "batch": 38,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY028A2-01__GPT__ja__v003.wav",
+    "file_duration": 4.069999999999993,
+    "silences": [
+      [
+        0.0,
+        0.257775
+      ],
+      [
+        0.75,
+        3.000775
+      ],
+      [
+        3.51035,
+        3.644025
+      ],
+      [
+        3.769675,
+        4.07
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.257775,
+        0.75
+      ],
+      [
+        3.000775,
+        3.51035
+      ],
+      [
+        3.644025,
+        3.769675
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY028B-01",
+    "batch": 38,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY028B-01__Claude__ja__v003.wav",
+    "file_duration": 1.849999999999966,
+    "silences": [
+      [
+        0.0,
+        0.263
+      ],
+      [
+        0.9565,
+        1.263375
+      ],
+      [
+        1.27105,
+        1.537975
+      ],
+      [
+        1.538025,
+        1.85
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.263,
+        0.9565
+      ],
+      [
+        1.263375,
+        1.27105
+      ],
+      [
+        1.537975,
+        1.538025
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY028C-01",
+    "batch": 38,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY028C-01__Claude__ja__v003.wav",
+    "file_duration": 1.7200000000000273,
+    "silences": [
+      [
+        0.0,
+        0.26945
+      ],
+      [
+        0.7728,
+        0.9041
+      ],
+      [
+        1.144975,
+        1.365725
+      ],
+      [
+        1.365825,
+        1.72
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.26945,
+        0.7728
+      ],
+      [
+        0.9041,
+        1.144975
+      ],
+      [
+        1.365725,
+        1.365825
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY029-01",
+    "batch": 38,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY029-01__CultLeader__ja__v003.wav",
+    "file_duration": 3.1000000000000227,
+    "silences": [
+      [
+        0.0,
+        0.263725
+      ],
+      [
+        1.14,
+        2.19995
+      ],
+      [
+        2.84865,
+        3.1
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.263725,
+        1.14
+      ],
+      [
+        2.19995,
+        2.84865
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY029E1-01",
+    "batch": 39,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY029E1-01__Claude__ja__v003.wav",
+    "file_duration": 2.3699790000000007,
+    "silences": [
+      [
+        0.0,
+        0.210075
+      ],
+      [
+        2.119975,
+        2.369975
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.210075,
+        2.119975
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY029E2-01",
+    "batch": 39,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY029E2-01__Claude__ja__v003.wav",
+    "file_duration": 2.6399999999999864,
+    "silences": [
+      [
+        0.0,
+        0.20615
+      ],
+      [
+        2.389875,
+        2.64
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.20615,
+        2.389875
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY029E3-01",
+    "batch": 39,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY029E3-01__Claude__ja__v003.wav",
+    "file_duration": 1.7299999999999613,
+    "silences": [
+      [
+        0.0,
+        0.20975
+      ],
+      [
+        0.5413,
+        0.668
+      ],
+      [
+        1.47975,
+        1.73
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.20975,
+        0.5413
+      ],
+      [
+        0.668,
+        1.47975
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY029E4-01",
+    "batch": 39,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY029E4-01__Claude__ja__v003.wav",
+    "file_duration": 2.609999999999957,
+    "silences": [
+      [
+        0.0,
+        0.209075
+      ],
+      [
+        1.0945,
+        1.8136
+      ],
+      [
+        2.359725,
+        2.61
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.209075,
+        1.0945
+      ],
+      [
+        1.8136,
+        2.359725
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY029B1-01",
+    "batch": 40,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY029B1-01__Claude__ja__v003.wav",
+    "file_duration": 0.9900000000000091,
+    "silences": [
+      [
+        0.0,
+        0.200275
+      ],
+      [
+        0.739925,
+        0.99
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.200275,
+        0.739925
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY028-01",
+    "batch": 41,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY028-01__GPT__ja__v003.wav",
+    "file_duration": 0.8799999999999955,
+    "silences": [
+      [
+        0.0,
+        0.26185
+      ],
+      [
+        0.627125,
+        0.88
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.26185,
+        0.627125
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY031A-01",
+    "batch": 43,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音交接-v001\\成品-v001\\干声\\VO-CY031A-01__Xiaoyu__ja__v001.wav",
+    "file_duration": 1.7799999999999727,
+    "silences": [
+      [
+        0.846475,
+        1.78
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0,
+        0.846475
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  },
+  {
+    "id": "VO-CY031A-02",
+    "batch": 43,
+    "path": "E:\\projects\\内容创作\\故事短片\\白米饭\\后期\\日语配音修正-v003\\干声\\VO-CY031A-02__Claude__ja__v003.wav",
+    "file_duration": 0.6999999999999886,
+    "silences": [
+      [
+        0.0,
+        0.218225
+      ],
+      [
+        0.445975,
+        0.7
+      ]
+    ],
+    "signal_intervals": [
+      [
+        0.218225,
+        0.445975
+      ]
+    ],
+    "boundary": "amplitude threshold only; breaths may count; no phoneme or subjective listening claim"
+  }
+]

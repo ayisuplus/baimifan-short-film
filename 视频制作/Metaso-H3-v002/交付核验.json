@@ -1,0 +1,16 @@
+{
+  "unique_batches_with_media": 44,
+  "new_tasks": 44,
+  "all_new_tasks_downloaded": true,
+  "active_tasks": 0,
+  "decoded_originals": 44,
+  "decoded_edited_batches": 20,
+  "reference_images_remaining_13_batches_before": 121,
+  "after": 101,
+  "maximum_per_request": 9,
+  "actual_metaso_credit_decrease": 3709.5,
+  "balance": 5806.1,
+  "audio_source": "后期/生成收口-v025/全片声音预览.mp3",
+  "audio_sha256": "c1fe0b2fc4e1d843db2569c52ee49c5effc89f707d7c4605593e4ad8defca6b1",
+  "full_audiovisual_acceptance": false
+}

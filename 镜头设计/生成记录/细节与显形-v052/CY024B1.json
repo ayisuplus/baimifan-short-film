@@ -1,0 +1,19 @@
+{
+  "id": "CY024B1",
+  "input": {
+    "transparent_background": false,
+    "referenced_image_paths": [
+      "E:/projects/内容创作/故事短片/穿云/镜头设计/图像/控水协作-v046/CY024B1-v046-r1.png"
+    ],
+    "prompt": "Re-stage this 16:9 anime flood action using same black-gold hooded cultists and cathedral side stair architecture. Need physical WATER PUSH, not five people evenly posing in foam. Camera low at stair-side rail, 28mm close action, slightly diagonal, current runs from upper RIGHT background to lower LEFT foreground. ONE nearest cultist occupies center-left leaning hard downstream with torso twisted, sleeve pulled by flow, one open reaching hand has JUST SLIPPED OFF wet stone edge, clear gap between fingertips and ledge. Body weight pulled low, waist/chest buried in ONE thick rounded advancing blue wave crest, not standing straight. Two other cultists at distinct distances and DIFFERENT poses: midground one loses footing sideways with shoulder rotated, background one turns and raises arm too late. Don't align them in a row. A single loose staff spins low on water surface along current. Large near wave takes lower third, dark translucent blue volume and selective white foam along breaking front, directional spray passes near lens, not uniform white static confetti. Fluid momentum through foreground/background scale and tugged robes, no flying bodies, no injury detail, no blood. This is the LOWER OUTER SIDE STAIR, not beside friendly dome: far upper altar may appear only tiny at upper-right edge with opaque indigo dome and LOW calm water around it, no huge waves at dome, no artificially dry central lane. Intact side blue windows, already broken central rear window if seen, lamps extinguished, moonlit night. No water dragon head, no electricity, no new characters or text. Keep coherent arms/hands, no duplicate limbs, forceful readable silhouette."
+  },
+  "source": "C:\\Users\\36322\\.codex\\generated_images\\01a16925-a797-71a2-9c39-4f481f8b65a6\\exec-7d10143d-a319-4ae5-b996-cd6e9a69608b.png",
+  "output": "镜头设计/图像/细节与显形-v052/CY024B1-v052-r1.png",
+  "sha256": "f05297353919a61ef38beb10ed392456654f812ee21d87b1f2f300d8b0a9291f",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "engine": "built-in image_gen",
+  "status": "pending_author_visual_review"
+}
